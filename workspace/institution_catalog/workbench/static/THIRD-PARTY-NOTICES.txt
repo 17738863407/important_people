@@ -1,0 +1,6 @@
+Lucide Icons
+Source: https://github.com/lucide-icons/lucide
+License: ISC
+
+The interface includes selected Lucide icon paths obtained from the locally installed
+@iconify-json/lucide package. Copyright and license terms remain with the upstream project.

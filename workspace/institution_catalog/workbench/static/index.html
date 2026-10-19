@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="机构全量表本地数据工作台">
+  <title>机构数据工作台</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div id="loading" class="loading-screen">
+    <div class="loading-mark"><svg class="icon"><use href="/icons.svg#database"></use></svg></div>
+    <strong>正在装载机构全量表</strong>
+    <span>校验字段、草稿与修改历史……</span>
+  </div>
+
+  <header class="app-header">
+    <div class="brand">
+      <div class="brand-mark"><svg class="icon"><use href="/icons.svg#database"></use></svg></div>
+      <div><h1>机构数据工作台</h1><p>全量机构目录 · 本地安全维护</p></div>
+    </div>
+    <div class="header-status">
+      <span id="fileStatus" class="status-chip"><span class="status-dot"></span>文件一致</span>
+      <span id="draftStatus" class="status-chip muted">0 项未发布</span>
+      <button id="publishBtn" class="button primary"><svg class="icon"><use href="/icons.svg#save"></use></svg>发布到 TXT</button>
+    </div>
+  </header>
+
+  <main class="workspace">
+    <aside class="sidebar">
+      <section class="search-panel">
+        <label for="globalSearch">全表检索</label>
+        <div class="search-box"><svg class="icon"><use href="/icons.svg#search"></use></svg><input id="globalSearch" type="search" placeholder="搜索名称、类型或链接" autocomplete="off"><kbd>Ctrl K</kbd></div>
+      </section>
+
+      <section class="filter-panel">
+        <div class="section-title"><span>快速筛选</span><button id="clearFiltersBtn" class="text-button">清除</button></div>
+        <label for="systemFilter">组织体系</label>
+        <select id="systemFilter"><option value="">全部组织体系</option></select>
+        <label for="typeFilter">机构类型</label>
+        <select id="typeFilter"><option value="">全部机构类型</option></select>
+        <small id="typeFilterHint" class="filter-hint">选择组织体系后，机构类型将自动缩小范围</small>
+        <label for="matchFilter">脚本序号</label>
+        <select id="matchFilter"><option value="">全部状态</option><option value="有">已有序号</option><option value="无">暂无序号</option></select>
+        <label for="linkFilter">链接情况</label>
+        <select id="linkFilter"><option value="">全部记录</option><option value="both">官网与领导链接均有</option><option value="missing-leader">缺少领导链接</option><option value="missing-official">缺少官网链接</option><option value="none">官网与领导链接均无</option></select>
+        <button id="advancedFilterBtn" class="button secondary wide"><svg class="icon"><use href="/icons.svg#filter"></use></svg>组合筛选 <span id="ruleCount" class="count-badge">0</span></button>
+      </section>
+
+      <section class="sidebar-summary">
+        <div class="section-title"><span>当前视图</span></div>
+        <dl>
+          <div><dt>筛选结果</dt><dd id="sidebarFiltered">—</dd></div>
+          <div><dt>已选择</dt><dd id="sidebarSelected">0</dd></div>
+          <div><dt>回收站</dt><dd id="sidebarDeleted">0</dd></div>
+        </dl>
+        <label class="toggle-row"><input id="showDeleted" type="checkbox"><span>显示已删除记录</span></label>
+      </section>
+    </aside>
+
+    <section class="main-panel">
+      <div id="externalBanner" class="banner warning hidden">
+        <div><strong>检测到正式文件由外部流程更新</strong><span>请先同步新文件，系统会重新应用人工修订并列出冲突。</span></div>
+        <button id="reconcileBtn" class="button warning-button"><svg class="icon"><use href="/icons.svg#refresh"></use></svg>同步并重放修订</button>
+      </div>
+
+      <section class="metric-grid" aria-label="快速统计">
+        <article><span>全部记录</span><strong id="metricTotal">—</strong><small>含当前草稿</small></article>
+        <article><span>当前结果</span><strong id="metricFiltered">—</strong><small>随筛选实时变化</small></article>
+        <article><span>脚本覆盖率</span><strong id="metricMatchRate">—</strong><small id="metricMatchDetail">—</small></article>
+        <article><span>领导链接缺失</span><strong id="metricMissing">—</strong><small>点击统计可继续分析</small></article>
+      </section>
+
+      <section class="table-card">
+        <div class="table-toolbar">
+          <div class="toolbar-group">
+            <button id="addBtn" class="button secondary"><svg class="icon"><use href="/icons.svg#plus"></use></svg>新增</button>
+            <button id="duplicateBtn" class="button secondary"><svg class="icon"><use href="/icons.svg#copy"></use></svg>复制记录</button>
+            <button id="deleteBtn" class="button danger-soft"><svg class="icon"><use href="/icons.svg#trash"></use></svg>删除</button>
+            <button id="restoreBtn" class="button secondary hidden"><svg class="icon"><use href="/icons.svg#refresh"></use></svg>恢复</button>
+            <button id="bulkBtn" class="button secondary">批量修改</button>
+          </div>
+          <div class="toolbar-group">
+            <button id="undoBtn" class="icon-button" title="撤销最近修改"><svg class="icon"><use href="/icons.svg#undo"></use></svg></button>
+            <button id="fieldBtn" class="button ghost"><svg class="icon"><use href="/icons.svg#columns"></use></svg>字段管理 <span id="visibleFieldCount" class="count-badge">—</span></button>
+            <button id="copyTableBtn" class="button ghost" title="复制当前筛选结果中的可见字段"><svg class="icon"><use href="/icons.svg#copy"></use></svg>复制可见表格</button>
+            <button id="statsBtn" class="button ghost"><svg class="icon"><use href="/icons.svg#chart"></use></svg>统计分析</button>
+            <button id="historyBtn" class="button ghost">修改历史</button>
+            <button id="exportBtn" class="button ghost"><svg class="icon"><use href="/icons.svg#download"></use></svg>导出当前结果</button>
+          </div>
+        </div>
+
+        <div class="table-wrap">
+          <table id="dataTable">
+            <thead id="tableHead"></thead>
+            <tbody id="tableBody"></tbody>
+          </table>
+          <div id="emptyState" class="empty-state hidden"><svg class="icon"><use href="/icons.svg#search"></use></svg><strong>没有符合条件的记录</strong><span>请调整检索词或筛选条件</span></div>
+        </div>
+        <footer class="table-footer">
+          <span id="rangeText">—</span>
+          <span class="all-records-note">表头固定，可连续滚动浏览全部结果</span>
+        </footer>
+      </section>
+    </section>
+  </main>
+
+  <div id="modalBackdrop" class="modal-backdrop hidden" aria-hidden="true">
+    <section id="modal" class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <header><div><span id="modalEyebrow" class="eyebrow">数据工具</span><h2 id="modalTitle">标题</h2></div><button id="closeModal" class="icon-button" aria-label="关闭"><svg class="icon"><use href="/icons.svg#x"></use></svg></button></header>
+      <div id="modalBody" class="modal-body"></div>
+      <footer id="modalFooter"></footer>
+    </section>
+  </div>
+
+  <div id="toastRegion" class="toast-region" aria-live="polite"></div>
+  <script src="/app.js" defer></script>
+</body>
+</html>

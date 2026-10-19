@@ -1,0 +1,154 @@
+from __future__ import annotations
+
+import re
+import sys
+from pathlib import Path
+from urllib.parse import urljoin
+
+from bs4 import BeautifulSoup
+
+
+def resolve_project_dir() -> Path:
+    """向上查找项目根目录，兼容 site_adapters 下的任意层级脚本。"""
+    for parent in Path(__file__).resolve().parents:
+        if (parent / "crawler_core").is_dir():
+            return parent
+    raise RuntimeError("未找到包含 crawler_core 的项目根目录")
+
+
+def clean_text(value: str) -> str:
+    """压缩网页文本中的换行、全角空格和连续空白。"""
+    return " ".join(str(value or "").replace("\u3000", " ").replace("\xa0", " ").split())
+
+
+def parse_page(
+    html: str,
+    final_url: str,
+    page_rule: dict[str, object],
+) -> list[dict[str, str]]:
+    """按目录原始顺序抓取人物详情页，并提取“领导职务”原文段落。"""
+    from crawler_core.fetcher import fetch_html_with_strategy
+
+    soup = BeautifulSoup(html, "html.parser")
+    directory = soup.select_one("div.pub_rit1 > ul.pub_list2")
+    if directory is None:
+        raise ValueError("未找到领导目录 div.pub_rit1 > ul.pub_list2")
+
+    base_url = final_url or str(page_rule.get("url", ""))
+    links: list[tuple[str, str]] = []
+    seen_urls: set[str] = set()
+    for link in directory.select("li > a[href]"):
+        name = clean_text(link.get_text(" ", strip=True)).replace(" ", "")
+        href = str(link.get("href") or "").strip()
+        if not re.fullmatch(r"[\u4e00-\u9fff·]{2,8}", name):
+            continue
+        if not href or href.lower().startswith(("javascript:", "mailto:", "#")):
+            continue
+        detail_url = urljoin(base_url, href)
+        if detail_url in seen_urls:
+            continue
+        seen_urls.add(detail_url)
+        links.append((name, detail_url))
+
+    if not links:
+        raise ValueError("领导目录未发现有效人物详情链接")
+
+    rows: list[dict[str, str]] = []
+    selector_summary = (
+        "strategy=custom_parse_page；leader=div.pub_rit1 > ul.pub_list2；"
+        "name=li > a[href]；duty=#content p[文本前缀=领导职务]；"
+        "detail=li > a[href]；collector=chrome_cdp"
+    )
+    for name, detail_url in links:
+        try:
+            detail_result = fetch_html_with_strategy(detail_url, strategy="chrome")
+        except Exception as error:
+            raise RuntimeError(f"{name}详情页采集失败：{error}") from error
+
+        detail_soup = BeautifulSoup(detail_result.html, "html.parser")
+        content = detail_soup.select_one("#content")
+        if content is None:
+            raise ValueError(f"{name}详情页未找到 #content")
+
+        evidence = ""
+        for paragraph in content.select("p"):
+            paragraph_text = clean_text(paragraph.get_text(" ", strip=True))
+            if re.match(r"^领导职务\s*[:：]", paragraph_text):
+                evidence = paragraph_text
+                break
+        if not evidence:
+            raise ValueError(f"{name}详情页 #content 未找到“领导职务”段落")
+
+        duty = re.sub(r"^领导职务\s*[:：]\s*", "", evidence).strip()
+        duty = re.sub(r"\s*([，、；：])\s*", r"\1", duty)
+        duty = re.sub(r"(?<=[\u3400-\u9fff])\s+(?=[\u3400-\u9fff])", "", duty)
+        duty = duty.rstrip("。 ")
+        if not duty:
+            raise ValueError(f"{name}详情页“领导职务”内容为空")
+        rows.append(
+            {
+                "name": name,
+                "duty": duty,
+                "evidence": duty,
+                "detail_url": detail_result.final_url or detail_url,
+                "confidence": "high",
+                "parser": "page_inline_cdhrss_leader_detail_v1",
+                "selector_summary": selector_summary,
+            }
+        )
+    return rows
+
+
+PAGE_RULE = {
+    "rule_id": "0169",
+    "page_type": "人物目录详情页",
+    "structure_group": "cdhrss_leader_directory_detail",
+    "reuse_scope": "single_page",
+    "load_mode": "动态DOM渲染",
+    "fetch_mode": "chrome",
+    "extract_mode": "list_to_detail",
+    "collector": "browser_dom",
+    "parser": "page_inline_cdhrss_leader_detail_v1",
+    "leader_region_selector": "div.pub_rit1 > ul.pub_list2",
+    "name_selector": "li > a[href]",
+    "duty_selector": "#content p[文本前缀=领导职务]",
+    "detail_link_selector": "li > a[href]",
+    "detail_strategy": {"required": False, "mode": "inline_detail_fetch"},
+    "risk_flag": "站点HTTP请求返回412且无头Playwright结果无效，需使用Chrome CDP渲染目录及详情页",
+    "confidence": "high",
+    "filter_policy": "strong_no_wordlist",
+    "locator_strategy": "custom_parse_page",
+    "locator": {
+        "css": {
+            "leader_region_selector": "div.pub_rit1 > ul.pub_list2",
+            "name_selector": "li > a[href]",
+            "duty_selector": "#content p[文本前缀=领导职务]",
+            "detail_link_selector": "li > a[href]",
+        },
+        "api": {
+            "enabled": False,
+            "reason": "当前领导目录与详情职务均由浏览器渲染DOM直接提供，未发现可复现结构化接口",
+        },
+        "migration": {
+            "source": "failed_script_v3_task7",
+            "verified_status": "online_verified_20260808",
+            "behavior_changed": True,
+        },
+    },
+}
+
+
+def main() -> None:
+    """运行当前页面级在线爬虫。"""
+    project_dir = resolve_project_dir()
+    if str(project_dir) not in sys.path:
+        sys.path.insert(0, str(project_dir))
+
+    from crawler_core.runner import run_page_adapter
+
+    output_path = run_page_adapter(PAGE_RULE, globals())
+    print(f"输出文件：{output_path}")
+
+
+if __name__ == "__main__":
+    main()

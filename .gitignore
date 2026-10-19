@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local environment files
+.env
+.env.*
+.secrets/
+
+# Runtime logs and generated artifacts
+workspace/log/
+outputs/
+workspace/reports/
+workspace/snapshots/
+.artifact-work/
+.codex_tmp/
+.codex-manual-cache/
+.playwright-cli/
+.chrome_cdp_profile/
+.official_update_chrome_profile/
+.pytest_cache/
+*.tmp
+*.temp
+~$*
+*.log
+workspace/institution_catalog/workbench/data/*.db-wal
+workspace/institution_catalog/workbench/data/*.db-shm
+成功脚本的结果*/
+
+# Local editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary archived experiments
+归档_旧方案待删除_*/

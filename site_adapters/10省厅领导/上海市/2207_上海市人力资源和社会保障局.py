@@ -1,0 +1,81 @@
+from __future__ import annotations
+
+import re
+import sys
+from pathlib import Path
+from urllib.parse import urljoin, urlsplit, urlunsplit
+
+from bs4 import BeautifulSoup
+
+
+PAGE_RULE = {
+    "rule_id": "2207",
+    "page_type": "多人物详情合并页",
+    "load_mode": "静态HTML直出",
+    "fetch_mode": "raw_http",
+    "extract_mode": "页面内置parse_page",
+    "leader_region_selector": "ul.leader-list",
+    "item_selector": "ul.leader-list a[href]",
+    "risk_note": "入口为首名领导详情页，左侧列表按职务冒号姓名排列。",
+    "confidence": "high",
+}
+
+
+def clean_text(value: str) -> str:
+    """压缩页面排版空白，保留职务原始标点。"""
+    return re.sub(r"[\s\u3000\xa0\u2000-\u200b]+", " ", value or "").strip()
+
+
+def comparable_url(value: str) -> str:
+    """移除片段并规范末尾斜杠，用于识别入口页自身。"""
+    parts = urlsplit(value)
+    return urlunsplit((parts.scheme.lower(), parts.netloc.lower(), parts.path.rstrip("/"), parts.query, ""))
+
+
+def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict]:
+    """按领导列表顺序拆分职务、姓名和非入口详情链接。"""
+    soup = BeautifulSoup(html, "html.parser")
+    rows: list[dict] = []
+
+    for link in soup.select(page_rule["item_selector"]):
+        text = clean_text(link.get_text(" ", strip=True))
+        match = re.fullmatch(r"(.+?)[：:]\s*([\u4e00-\u9fff·]{2,8})", text)
+        if not match:
+            continue
+        evidence = clean_text(match.group(1))
+        name = match.group(2)
+        candidate_url = urljoin(final_url, link.get("href", "").strip())
+        detail_url = "" if comparable_url(candidate_url) == comparable_url(final_url) else candidate_url
+        rows.append(
+            {
+                "name": name,
+                "duty": "",
+                "evidence": evidence,
+                "detail_url": detail_url,
+            }
+        )
+
+    return rows
+
+
+def resolve_project_dir() -> Path:
+    """向上查找项目根目录，兼容 site_adapters 下的任意层级脚本。"""
+    for parent in Path(__file__).resolve().parents:
+        if (parent / "crawler_core").is_dir():
+            return parent
+    raise RuntimeError("未找到包含 crawler_core 的项目根目录")
+
+
+def main() -> None:
+    project_dir = resolve_project_dir()
+    if str(project_dir) not in sys.path:
+        sys.path.insert(0, str(project_dir))
+
+    from crawler_core.runner import run_page_adapter
+
+    output_path = run_page_adapter(PAGE_RULE, globals())
+    print(f"输出文件：{output_path}")
+
+
+if __name__ == "__main__":
+    main()

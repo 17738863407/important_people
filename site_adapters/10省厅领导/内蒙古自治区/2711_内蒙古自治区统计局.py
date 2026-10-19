@@ -1,0 +1,129 @@
+from __future__ import annotations
+
+import re
+import sys
+from pathlib import Path
+from urllib.parse import urljoin
+
+from bs4 import BeautifulSoup
+
+
+def resolve_project_dir() -> Path:
+    """向上查找项目根目录，兼容 site_adapters 下的任意层级脚本。"""
+    for parent in Path(__file__).resolve().parents:
+        if (parent / "crawler_core").is_dir():
+            return parent
+    raise RuntimeError("未找到包含 crawler_core 的项目根目录")
+
+
+PAGE_RULE = {
+    "rule_id": "2711",
+    "domain": "tj.nmg.gov.cn",
+    "page_type": "人物列表完整页",
+    "structure_group": "category_data_url_visible_secondary_leader_list_v1",
+    "reuse_scope": "single_page",
+    "load_mode": "接口数据加载",
+    "fetch_mode": "raw_http",
+    "extract_mode": "dynamic_subpage_list",
+    "collector": "raw_http",
+    "parser": "page_inline_category_data_url_visible_secondary_leader_list_v1",
+    "category_link_selector": "a[data-url]",
+    "category_link_text": "机关简介",
+    "leader_region_selector": ".leaderList ul.leader2",
+    "leader_card_selector": ":scope > li",
+    "detail_strategy": {"required": False, "mode": "card_link"},
+    "risk_flag": "同页ul.leader1为display:none且重复首人；只解析可见ul.leader2",
+    "confidence": "high",
+    "filter_policy": "strong_no_wordlist",
+    "locator_strategy": "custom_parse_page",
+}
+
+
+def clean_text(value: object) -> str:
+    """压缩卡片字段中的排版空白，不改变职务语义。"""
+    return re.sub(r"[\s\u3000\xa0\u2000-\u200b]+", " ", str(value or "")).strip()
+
+
+def clean_name(value: object) -> str:
+    """移除姓名中的排版空格。"""
+    return re.sub(r"\s+", "", clean_text(value))
+
+
+def discover_content_url(html: str, final_url: str, page_rule: dict[str, object]) -> str:
+    """按入口目录节点文本动态发现官方机关简介子页。"""
+    soup = BeautifulSoup(html or "", "html.parser")
+    selector = str(page_rule.get("category_link_selector", ""))
+    expected_text = str(page_rule.get("category_link_text", ""))
+    for link in soup.select(selector):
+        if clean_text(link.get_text(" ", strip=True)) != expected_text:
+            continue
+        data_url = str(link.get("data-url", "")).strip()
+        if data_url:
+            return urljoin(final_url, data_url)
+    return ""
+
+
+def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[dict[str, str]]:
+    """发现官方子页，并按可见人物列表DOM顺序提取强字段。"""
+    from crawler_core.fetcher import fetch_by_raw_requests
+
+    source_url = str(page_rule.get("url", "")) or final_url
+    content_url = discover_content_url(html, final_url or source_url, page_rule)
+    if not content_url:
+        return []
+
+    result = fetch_by_raw_requests(content_url, timeout=40)
+    soup = BeautifulSoup(result.html, "html.parser")
+    region = soup.select_one(str(page_rule.get("leader_region_selector", "")))
+    if region is None:
+        return []
+
+    selector = str(page_rule.get("leader_card_selector", ""))
+    records: list[dict[str, str]] = []
+    seen: set[str] = set()
+    for card in region.select(selector):
+        link = card.select_one("a[href]")
+        paragraphs = [clean_text(node.get_text(" ", strip=True)) for node in card.select("p")]
+        if link is None or len(paragraphs) < 2:
+            continue
+        duty = paragraphs[0]
+        name = clean_name(paragraphs[1])
+        if not re.fullmatch(r"[\u3400-\u9fff·]{2,8}", name) or not duty or name in seen:
+            continue
+
+        detail_url = urljoin(result.final_url or content_url, str(link.get("href", "")))
+        seen.add(name)
+        records.append(
+            {
+                "organization": str(page_rule.get("organization", "")),
+                "url": source_url,
+                "name": name,
+                "duty": duty,
+                "detail_url": detail_url,
+                "evidence": duty,
+                "confidence": "high",
+                "parser": str(page_rule.get("parser", "")),
+                "selector_summary": (
+                    "strategy=custom_parse_page；category=a[data-url]机关简介；"
+                    "visible region=.leaderList ul.leader2；card=:scope > li；duty=p[1]；name=p[2]"
+                ),
+            }
+        )
+
+    return records
+
+
+def main() -> None:
+    """运行当前页面级在线爬虫。"""
+    project_dir = resolve_project_dir()
+    if str(project_dir) not in sys.path:
+        sys.path.insert(0, str(project_dir))
+
+    from crawler_core.runner import run_page_adapter
+
+    output_path = run_page_adapter(PAGE_RULE, globals())
+    print(f"输出文件：{output_path}")
+
+
+if __name__ == "__main__":
+    main()

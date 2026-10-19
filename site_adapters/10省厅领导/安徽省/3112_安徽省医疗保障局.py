@@ -1,0 +1,112 @@
+from __future__ import annotations
+
+import re
+import sys
+from pathlib import Path
+from urllib.parse import urlencode, urljoin
+
+from bs4 import BeautifulSoup
+
+
+def resolve_project_dir() -> Path:
+    """向上查找项目根目录，兼容 site_adapters 下的任意层级脚本。"""
+    for parent in Path(__file__).resolve().parents:
+        if (parent / "crawler_core").is_dir():
+            return parent
+    raise RuntimeError("未找到包含 crawler_core 的项目根目录")
+
+
+PAGE_RULE = {
+    "rule_id": "3112",
+    "page_type": "人物列表完整页",
+    "load_mode": "接口数据加载",
+    "fetch_mode": "raw_http",
+    "extract_mode": "api_html",
+    "parser": "anhui_public_info_name_duty_html_api_v3",
+    "leader_region_selector": "tr.xxgk_nav_con",
+    "name_selector": "a.title标题冒号前文本",
+    "duty_selector": "a.title标题冒号后文本",
+    "detail_link_selector": "a.title[href]",
+    "locator_strategy": "custom_parse_page",
+    "filter_policy": "strong_no_wordlist",
+    "confidence": "high",
+    "risk_flag": "入口HTML列表为空，需调用页面声明的公开信息HTML接口",
+    "api": {
+        "endpoint": "/site/label/8888",
+        "method": "GET",
+        "params": {
+            "labelName": "publicInfoList",
+            "siteId": "49631971",
+            "organId": "7071",
+            "pageSize": "15",
+            "catId": "49948371",
+            "type": "4",
+            "dateFormat": "yyyy年MM月dd日",
+            "file": "/xxgk/publicInfoList_newest2020_zc",
+        },
+    },
+}
+
+
+def _clean_text(value: object) -> str:
+    """仅清理HTML排版空白。"""
+    return re.sub(r"\s+", " ", str(value or "")).strip()
+
+
+def parse_page(html: str, final_url: str, page_rule: dict) -> list[object]:
+    """解析站点公开信息HTML接口，继承接口行顺序。"""
+    from crawler_core.fetcher import fetch_html_with_strategy
+    from crawler_core.models import PersonRecord
+
+    api_rule = page_rule["api"]
+    endpoint = urljoin(final_url, api_rule["endpoint"])
+    api_url = f"{endpoint}?{urlencode(api_rule['params'])}"
+    response = fetch_html_with_strategy(api_url, "raw_http")
+    soup = BeautifulSoup(response.html, "html.parser")
+
+    records: list[PersonRecord] = []
+    seen_names: set[str] = set()
+    for row in soup.select(page_rule["leader_region_selector"]):
+        link = row.select_one("a.title[href]")
+        if link is None:
+            continue
+        title = _clean_text(link.get("title") or link.get_text(" ", strip=True))
+        match = re.fullmatch(r"([\u3400-\u9fff·\s]{2,12})[：:]\s*(.{2,100})", title)
+        if match is None:
+            continue
+        name = re.sub(r"\s+", "", match.group(1))
+        duty = _clean_text(match.group(2))
+        if not re.fullmatch(r"[\u3400-\u9fff·]{2,8}", name) or not duty or name in seen_names:
+            continue
+        seen_names.add(name)
+        detail_url = urljoin(final_url, _clean_text(link.get("href")))
+        if detail_url == final_url:
+            detail_url = ""
+        records.append(
+            PersonRecord(
+                organization=page_rule["organization"],
+                url=page_rule["url"],
+                name=name,
+                duty=duty,
+                detail_url=detail_url,
+                evidence=duty,
+                confidence=page_rule["confidence"],
+                parser=page_rule["parser"],
+            )
+        )
+    return records
+
+
+def main() -> None:
+    project_dir = resolve_project_dir()
+    if str(project_dir) not in sys.path:
+        sys.path.insert(0, str(project_dir))
+
+    from crawler_core.runner import run_page_adapter
+
+    output_path = run_page_adapter(PAGE_RULE, globals())
+    print(f"输出文件：{output_path}")
+
+
+if __name__ == "__main__":
+    main()

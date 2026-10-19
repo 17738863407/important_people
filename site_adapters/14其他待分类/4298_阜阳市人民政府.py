@@ -1,0 +1,42 @@
+from __future__ import annotations
+
+import sys
+from pathlib import Path
+from urllib.parse import urljoin
+
+
+def resolve_project_dir() -> Path:
+    """向上查找项目根目录，兼容 site_adapters 下的任意层级脚本。"""
+    for parent in Path(__file__).resolve().parents:
+        if (parent / "crawler_core").is_dir():
+            return parent
+    raise RuntimeError("未找到包含 crawler_core 的项目根目录")
+
+
+PAGE_RULE = {"rule_id": "4298", "page_type": "leader_list", "load_mode": "http", "parser": "custom", "risk": "页面上方为当前市政府领导清单，活动列表不参与抽取。", "confidence": "high"}
+
+
+def parse_page(html: str, final_url: str, page_rule: dict[str, str]) -> list[dict[str, str]]:
+    """按市政府领导清单中的人物—职务并列字段提取。"""
+    from bs4 import BeautifulSoup
+
+    soup = BeautifulSoup(html, "html.parser")
+    rows: list[dict[str, str]] = []
+    for link in soup.select(".el-leader .m-leaderlist li > a[href]"):
+        fields = [node.get_text(" ", strip=True) for node in link.select(":scope > p")]
+        if len(fields) >= 2 and fields[0] and fields[1]:
+            rows.append({"name": fields[0], "duty": fields[1], "detail_url": urljoin(final_url, link["href"])})
+    return rows
+
+
+def main() -> None:
+    project_dir = resolve_project_dir()
+    if str(project_dir) not in sys.path:
+        sys.path.insert(0, str(project_dir))
+    from crawler_core.runner import run_page_adapter
+    output_path = run_page_adapter(PAGE_RULE, globals())
+    print(f"输出文件：{output_path}")
+
+
+if __name__ == "__main__":
+    main()
