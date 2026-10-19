@@ -5,7 +5,7 @@ from __future__ import annotations
 import logging
 from pathlib import Path
 
-from crawler_core.paths import resolve_project_path
+from crawler_core.paths import resolve_project_path, timestamped_output_path
 from workspace.institution_catalog.maintenance.table_io import read_table, write_table
 
 
@@ -80,6 +80,11 @@ def main(
 if __name__ == "__main__":
     input_source_path = resolve_project_path(r"important_people/workspace/source_data/机构主表.txt", anchor=__file__, must_exist=True)
     output_batch_dir = resolve_project_path(r"important_people/workspace/reports/机构目录/官网与领导链接待核查-分组", anchor=__file__)
-    output_log_path = resolve_project_path(r"important_people/workspace/log/机构目录/链接核查任务分组.log", anchor=__file__)
+    output_log_path = timestamped_output_path(
+        resolve_project_path(
+            r"important_people/workspace/log/机构目录/链接核查任务分组.log",
+            anchor=__file__,
+        )
+    )
     output_batch_count = 6
     main(input_source_path, output_batch_dir, output_log_path, output_batch_count)

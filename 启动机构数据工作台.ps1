@@ -92,7 +92,7 @@ function Start-Workbench {
             return
         }
     }
-    throw "机构数据工作台未能在预期时间内启动，请查看 workspace\log\机构数据工作台.log。"
+    throw "机构数据工作台未能在预期时间内启动，请查看 workspace\log 中最新的机构数据工作台日志。"
 }
 
 Start-Workbench

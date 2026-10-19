@@ -2,12 +2,13 @@ from __future__ import annotations
 
 import re
 import sys
+from datetime import datetime
 from pathlib import Path
 
 try:
-    from workspace.tools.project_paths import resolve_project_path
+    from workspace.tools.project_paths import resolve_project_path, timestamped_output_path
 except ModuleNotFoundError:
-    from project_paths import resolve_project_path
+    from project_paths import resolve_project_path, timestamped_output_path
 
 
 def write_log(log_path: Path, message: str) -> None:
@@ -119,6 +120,7 @@ def main(
 
 
 if __name__ == "__main__":
+    run_timestamp_value = datetime.now().strftime("%Y%m%d_%H%M%S")
     rule_table_path_value = resolve_project_path(
         "important_people/workspace/source_data/规则主表.txt", anchor=__file__, must_exist=True
     )
@@ -126,10 +128,10 @@ if __name__ == "__main__":
     success_dir_value = resolve_project_path(
         "important_people/site_adapters/脚本01：成功脚本", anchor=__file__
     )
-    output_manifest_path_value = resolve_project_path(
+    output_manifest_path_value = timestamped_output_path(resolve_project_path(
         "important_people/workspace/reports/待逐页分析脚本清单.txt", anchor=__file__
-    )
-    log_path_value = resolve_project_path(
+    ), run_timestamp_value)
+    log_path_value = timestamped_output_path(resolve_project_path(
         "important_people/workspace/log/生成待逐页分析脚本清单.log", anchor=__file__
-    )
+    ), run_timestamp_value)
     main(rule_table_path_value, adapter_dir_value, success_dir_value, output_manifest_path_value, log_path_value)

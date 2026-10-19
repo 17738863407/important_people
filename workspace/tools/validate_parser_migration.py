@@ -4,13 +4,14 @@ import ast
 import sys
 from collections import Counter
 from dataclasses import dataclass
+from datetime import datetime
 from pathlib import Path
 from typing import Iterable
 
 try:
-    from workspace.tools.project_paths import resolve_project_path
+    from workspace.tools.project_paths import resolve_project_path, timestamped_output_path
 except ModuleNotFoundError:
-    from project_paths import resolve_project_path
+    from project_paths import resolve_project_path, timestamped_output_path
 
 
 @dataclass
@@ -197,17 +198,18 @@ def main(project_dir: Path, adapter_dirs: list[Path], report_path: Path, log_pat
 
 
 if __name__ == "__main__":
+    run_timestamp_value = datetime.now().strftime("%Y%m%d_%H%M%S")
     project_dir_value = resolve_project_path("important_people", anchor=__file__)
     adapter_dirs_value = [
         resolve_project_path("important_people/site_adapters", anchor=__file__),
         resolve_project_path("important_people/site_adapters/成功", anchor=__file__),
     ]
-    report_path_value = resolve_project_path(
+    report_path_value = timestamped_output_path(resolve_project_path(
         "important_people/workspace/reports/解析器名称迁移校验报告.txt", anchor=__file__
-    )
-    log_path_value = resolve_project_path(
+    ), run_timestamp_value)
+    log_path_value = timestamped_output_path(resolve_project_path(
         "important_people/workspace/log/解析器名称迁移校验.log", anchor=__file__
-    )
+    ), run_timestamp_value)
     main(
         project_dir=project_dir_value,
         adapter_dirs=adapter_dirs_value,

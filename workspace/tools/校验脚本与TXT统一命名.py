@@ -4,12 +4,13 @@ import ast
 import json
 import re
 import sys
+from datetime import datetime
 from pathlib import Path
 
 try:
-    from workspace.tools.project_paths import resolve_project_path
+    from workspace.tools.project_paths import resolve_project_path, timestamped_output_path
 except ModuleNotFoundError:
-    from project_paths import resolve_project_path
+    from project_paths import resolve_project_path, timestamped_output_path
 
 
 def write_log(log_path: Path, message: str) -> None:
@@ -206,6 +207,7 @@ def main(
 
 
 if __name__ == "__main__":
+    run_timestamp_value = datetime.now().strftime("%Y%m%d_%H%M%S")
     project_dir_value = resolve_project_path("important_people", anchor=__file__)
     script_root_value = project_dir_value / "site_adapters"
     txt_roots_value = [
@@ -215,8 +217,14 @@ if __name__ == "__main__":
     ]
     memory_path_value = project_dir_value / "workspace" / "module" / "采集方式成功记录.txt"
     extension_data_path_value = project_dir_value / "chrome_extension" / "重要人物抽取结果对照" / "data" / "extraction-results.json"
-    report_path_value = project_dir_value / "workspace" / "reports" / "脚本与TXT统一命名全量验收_20260809.txt"
-    log_path_value = project_dir_value / "workspace" / "log" / "脚本与TXT统一命名全量验收_20260809.log"
+    report_path_value = timestamped_output_path(
+        project_dir_value / "workspace" / "reports" / "脚本与TXT统一命名全量验收.txt",
+        run_timestamp_value,
+    )
+    log_path_value = timestamped_output_path(
+        project_dir_value / "workspace" / "log" / "脚本与TXT统一命名全量验收.log",
+        run_timestamp_value,
+    )
     main(
         project_dir=project_dir_value,
         script_root=script_root_value,

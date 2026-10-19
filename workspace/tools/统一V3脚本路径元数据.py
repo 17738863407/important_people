@@ -7,9 +7,9 @@ from datetime import datetime
 from pathlib import Path
 
 try:
-    from workspace.tools.project_paths import resolve_project_path
+    from workspace.tools.project_paths import resolve_project_path, timestamped_output_path
 except ModuleNotFoundError:
-    from project_paths import resolve_project_path
+    from project_paths import resolve_project_path, timestamped_output_path
 
 
 @dataclass(frozen=True)
@@ -28,14 +28,6 @@ def write_log(log_path: Path, message: str) -> None:
     log_path.parent.mkdir(parents=True, exist_ok=True)
     with log_path.open("a", encoding="utf-8") as file:
         file.write(message + "\n")
-
-
-def unique_output_path(path: Path) -> Path:
-    """避免覆盖既有报告或日志，存在同名文件时追加时间戳。"""
-    if not path.exists():
-        return path
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    return path.with_name(f"{path.stem}_{timestamp}{path.suffix}")
 
 
 def read_source(script_path: Path) -> tuple[str, bool]:
@@ -265,8 +257,9 @@ def normalize_v3_scripts(
     apply_changes: bool,
 ) -> None:
     """递归规范 V3 脚本；单个文件失败时记录并继续处理。"""
-    report_path = unique_output_path(report_path)
-    log_path = unique_output_path(log_path)
+    run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    report_path = timestamped_output_path(report_path, run_timestamp)
+    log_path = timestamped_output_path(log_path, run_timestamp)
     report_path.parent.mkdir(parents=True, exist_ok=True)
     script_paths = sorted(path for path in adapter_dir.rglob("*.py") if path.is_file())
 

@@ -10,7 +10,7 @@ from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup, Tag
 from tqdm import tqdm
 
-from crawler_core.paths import resolve_project_path
+from crawler_core.paths import resolve_project_path, timestamped_output_path
 
 
 CATEGORY_TERMS = (
@@ -367,5 +367,10 @@ if __name__ == "__main__":
     ]
     snapshot_dir = resolve_project_path(r"important_people/workspace/snapshots/机构目录/省级政府机构目录/html", anchor=__file__, must_exist=True)
     output_path = resolve_project_path(r"important_people/workspace/reports/机构目录/省级政府机构候选初稿.txt", anchor=__file__)
-    log_path = resolve_project_path(r"important_people/workspace/log/机构目录/省级政府机构候选提取.log", anchor=__file__)
+    log_path = timestamped_output_path(
+        resolve_project_path(
+            r"important_people/workspace/log/机构目录/省级政府机构候选提取.log",
+            anchor=__file__,
+        )
+    )
     main(region_entries, snapshot_dir, output_path, log_path)

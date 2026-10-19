@@ -2,12 +2,13 @@ from __future__ import annotations
 
 import ast
 from dataclasses import dataclass
+from datetime import datetime
 from pathlib import Path
 
 try:
-    from workspace.tools.project_paths import resolve_project_path
+    from workspace.tools.project_paths import resolve_project_path, timestamped_output_path
 except ModuleNotFoundError:
-    from project_paths import resolve_project_path
+    from project_paths import resolve_project_path, timestamped_output_path
 
 
 @dataclass
@@ -111,7 +112,11 @@ def write_report(report_path: Path, issues: list[Issue], scanned_count: int) -> 
 def main(project_dir: Path) -> None:
     """统一入口。"""
     adapters_dir = project_dir / "site_adapters"
-    report_path = project_dir / "workspace" / "reports" / "脚本url字段误写详情页风险检查报告.txt"
+    run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    report_path = timestamped_output_path(
+        project_dir / "workspace" / "reports" / "脚本url字段误写详情页风险检查报告.txt",
+        run_timestamp,
+    )
     scripts = sorted(path for path in adapters_dir.rglob("*.py") if path.is_file())
     issues: list[Issue] = []
     for script_path in scripts:

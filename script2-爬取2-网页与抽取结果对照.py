@@ -13,6 +13,7 @@ from crawler_core.paths import (
     find_chrome_executable,
     resolve_external_path,
     resolve_path_argument,
+    timestamped_output_path,
 )
 
 
@@ -318,6 +319,9 @@ def main(
     log_path = resolve_path_argument(log_path, anchor=__file__)
     browser_path = browser_path or find_chrome_executable()
     started_at = datetime.now()
+    run_timestamp = started_at.strftime("%Y%m%d_%H%M%S")
+    summary_path = timestamped_output_path(summary_path, run_timestamp)
+    log_path = timestamped_output_path(log_path, run_timestamp)
     generated_at = started_at.strftime("%Y-%m-%d %H:%M:%S")
     write_log(log_path, "=" * 72)
     write_log(log_path, f"开始更新 Chrome 扩展对照数据：{generated_at}")

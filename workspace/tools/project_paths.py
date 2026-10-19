@@ -14,6 +14,7 @@ from crawler_core.paths import (  # noqa: E402
     find_project_root,
     resolve_external_path,
     resolve_project_path,
+    timestamped_output_path,
 )
 
 __all__ = [
@@ -22,4 +23,5 @@ __all__ = [
     "find_project_root",
     "resolve_external_path",
     "resolve_project_path",
+    "timestamped_output_path",
 ]

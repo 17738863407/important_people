@@ -5,6 +5,7 @@ from __future__ import annotations
 import csv
 import logging
 import re
+from datetime import datetime
 from difflib import SequenceMatcher
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
@@ -12,7 +13,7 @@ from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 
-from crawler_core.paths import resolve_project_path
+from crawler_core.paths import resolve_project_path, timestamped_output_path
 
 
 def configure_logging(log_path: Path) -> logging.Logger:
@@ -441,10 +442,35 @@ if __name__ == "__main__":
     rule_table_path = resolve_project_path(r"important_people/workspace/source_data/规则主表.txt", anchor=__file__, must_exist=True)
     html_dir = resolve_project_path(r"important_people/workspace/snapshots/机构目录/省级政府机构目录/html", anchor=__file__, must_exist=True)
     fetch_summary_path = resolve_project_path(r"important_people/workspace/reports/机构目录/省级政府机构目录抓取摘要.txt", anchor=__file__, must_exist=True)
-    all_output_path = resolve_project_path(r"important_people/workspace/reports/机构目录/31个省级行政区政府机构全量表.txt", anchor=__file__)
-    missing_output_path = resolve_project_path(r"important_people/workspace/reports/机构目录/31个省级行政区政府机构规则主表缺失表.txt", anchor=__file__)
-    audit_output_path = resolve_project_path(r"important_people/workspace/reports/机构目录/省级机构与规则主表核对审计.txt", anchor=__file__)
-    log_path = resolve_project_path(r"important_people/workspace/log/机构目录/省级政府机构全量与缺失统计.log", anchor=__file__)
+    run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    all_output_path = timestamped_output_path(
+        resolve_project_path(
+            r"important_people/workspace/reports/机构目录/31个省级行政区政府机构全量表.txt",
+            anchor=__file__,
+        ),
+        run_timestamp,
+    )
+    missing_output_path = timestamped_output_path(
+        resolve_project_path(
+            r"important_people/workspace/reports/机构目录/31个省级行政区政府机构规则主表缺失表.txt",
+            anchor=__file__,
+        ),
+        run_timestamp,
+    )
+    audit_output_path = timestamped_output_path(
+        resolve_project_path(
+            r"important_people/workspace/reports/机构目录/省级机构与规则主表核对审计.txt",
+            anchor=__file__,
+        ),
+        run_timestamp,
+    )
+    log_path = timestamped_output_path(
+        resolve_project_path(
+            r"important_people/workspace/log/机构目录/省级政府机构全量与缺失统计.log",
+            anchor=__file__,
+        ),
+        run_timestamp,
+    )
     protected_manual_data = {
         "甘肃省人民政府": """
 【甘肃省人民政府办公厅】

@@ -3,12 +3,13 @@
 from __future__ import annotations
 
 import logging
+from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlsplit
 
 from tqdm import tqdm
 
-from crawler_core.paths import resolve_project_path
+from crawler_core.paths import resolve_project_path, timestamped_output_path
 from workspace.institution_catalog.maintenance.table_io import (
     INSTITUTION_HEADERS,
     read_table,
@@ -157,8 +158,21 @@ def main(
 if __name__ == "__main__":
     input_source_path = resolve_project_path(r"important_people/workspace/source_data/机构主表.txt", anchor=__file__, must_exist=True)
     input_batch_dir = resolve_project_path(r"important_people/workspace/reports/机构目录/官网与领导链接待核查-分组", anchor=__file__)
-    output_result_path = resolve_project_path(r"important_people/workspace/reports/机构目录/官网与领导链接待核查.txt", anchor=__file__)
-    output_log_path = resolve_project_path(r"important_people/workspace/log/机构目录/链接核查结果合并复核.log", anchor=__file__)
+    run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    output_result_path = timestamped_output_path(
+        resolve_project_path(
+            r"important_people/workspace/reports/机构目录/官网与领导链接待核查.txt",
+            anchor=__file__,
+        ),
+        run_timestamp,
+    )
+    output_log_path = timestamped_output_path(
+        resolve_project_path(
+            r"important_people/workspace/log/机构目录/链接核查结果合并复核.log",
+            anchor=__file__,
+        ),
+        run_timestamp,
+    )
     input_batch_count = 6
     main(
         input_source_path,

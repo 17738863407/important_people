@@ -31,7 +31,7 @@ from crawler_core.fetch_memory import (
     preferred_fetch_mode,
     write_fetch_memory,
 )
-from crawler_core.paths import resolve_path_argument
+from crawler_core.paths import resolve_path_argument, timestamped_output_path
 from crawler_core.rule_table import normalize_script_sequence
 
 
@@ -1795,6 +1795,7 @@ def main(
     )
     run_started_at = datetime.now()
     run_timestamp = run_started_at.strftime("%Y%m%d_%H%M%S")
+    log_path = timestamped_output_path(log_path, run_timestamp)
     scripts = iter_adapter_scripts(adapter_dir)
     normalized_filter = {
         normalize_script_sequence(item)

@@ -6,9 +6,9 @@ from pathlib import Path
 from types import ModuleType
 
 try:
-    from workspace.tools.project_paths import resolve_external_path, resolve_project_path
+    from workspace.tools.project_paths import resolve_external_path, resolve_project_path, timestamped_output_path
 except ModuleNotFoundError:
-    from project_paths import resolve_external_path, resolve_project_path
+    from project_paths import resolve_external_path, resolve_project_path, timestamped_output_path
 
 
 def load_batch_module(script_path: Path) -> ModuleType:
@@ -82,8 +82,8 @@ if __name__ == "__main__":
     project_root_value = resolve_project_path("important_people", anchor=__file__)
     source_dir_value = resolve_external_path("IMPORTANT_PERSON_FAILED_DIR")
     output_dir_value = project_root_value / "outputs" / "失败目录Playwright完整重跑_20261004"
-    log_path_value = (
-        project_root_value / "workspace" / "log" / "失败目录Playwright完整重跑_20261004.log"
+    log_path_value = timestamped_output_path(
+        project_root_value / "workspace" / "log" / "失败目录Playwright完整重跑.log"
     )
     excluded_sequences_value = {"0000", "1148"}
     main(project_root_value, source_dir_value, output_dir_value, log_path_value, excluded_sequences_value)

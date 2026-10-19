@@ -13,9 +13,9 @@ from typing import Iterable
 from tqdm import tqdm
 
 try:
-    from workspace.tools.project_paths import resolve_external_path, resolve_project_path
+    from workspace.tools.project_paths import resolve_external_path, resolve_project_path, timestamped_output_path
 except ModuleNotFoundError:
-    from project_paths import resolve_external_path, resolve_project_path
+    from project_paths import resolve_external_path, resolve_project_path, timestamped_output_path
 
 
 EXPECTED_HEADER = [
@@ -489,10 +489,12 @@ def main(
     named_place_institutions: dict[str, tuple[str, str]],
 ) -> None:
     """执行读取、推断、排序、输出、报告和完整性核验。"""
+    run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    report_path = timestamped_output_path(report_path, run_timestamp)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     report_path.parent.mkdir(parents=True, exist_ok=True)
     log_dir.mkdir(parents=True, exist_ok=True)
-    log_file = log_dir / f"规则主表省市推断_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
+    log_file = log_dir / f"规则主表省市推断_{run_timestamp}.log"
 
     source_hash_before = calculate_sha256(source_path)
     header, source_rows = read_tsv(source_path)

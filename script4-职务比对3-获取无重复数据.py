@@ -20,7 +20,7 @@ import re
 import sys
 from pathlib import Path
 
-from crawler_core.paths import resolve_path_argument
+from crawler_core.paths import resolve_path_argument, timestamped_output_path
 
 
 SPLIT_PATTERN = re.compile(r"[，、/]")
@@ -82,6 +82,7 @@ def main(
     input_path = resolve_path_argument(input_path, anchor=__file__)
     output_path = resolve_path_argument(output_path, anchor=__file__)
     log_path = resolve_path_argument(log_path, anchor=__file__)
+    log_path = timestamped_output_path(log_path)
     setup_logging(log_path)
     if not input_path.is_file():
         logging.error("输入文件不存在：%s", input_path)

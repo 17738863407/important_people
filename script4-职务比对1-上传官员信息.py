@@ -13,7 +13,11 @@ import requests
 import websocket
 from openpyxl import Workbook
 
-from crawler_core.paths import find_chrome_executable, resolve_path_argument
+from crawler_core.paths import (
+    find_chrome_executable,
+    resolve_path_argument,
+    timestamped_output_path,
+)
 
 
 EXPECTED_SOURCE_HEADER = [
@@ -382,6 +386,7 @@ def main(
     """读取根目录规范化结果，在内存中生成 Excel 并上传后台。"""
     input_path = resolve_path_argument(input_path, anchor=__file__)
     log_path = resolve_path_argument(log_path, anchor=__file__)
+    log_path = timestamped_output_path(log_path)
     token_file = resolve_path_argument(token_file, anchor=__file__)
     chrome_exe = chrome_exe or find_chrome_executable()
     chrome_user_data_dir = resolve_path_argument(chrome_user_data_dir, anchor=__file__)

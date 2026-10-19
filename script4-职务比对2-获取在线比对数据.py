@@ -437,7 +437,7 @@ def main(
     token_file = resolve_path_argument(token_file, anchor=__file__)
     chrome_exe = chrome_exe or find_chrome_executable()
     chrome_user_data_dir = resolve_path_argument(chrome_user_data_dir, anchor=__file__)
-    date_tag = datetime.now().strftime("%Y%m%d")
+    date_tag = datetime.now().strftime("%Y%m%d_%H%M%S")
     log_path = log_dir / f"fetch_official_update_reminders_{date_tag}.log"
     setup_logging(log_path)
     token = load_token(token_file)

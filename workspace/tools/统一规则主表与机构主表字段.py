@@ -12,9 +12,9 @@ from pathlib import Path
 from urllib.parse import urlsplit
 
 try:
-    from crawler_core.paths import resolve_external_path, resolve_project_path
+    from crawler_core.paths import resolve_external_path, resolve_project_path, timestamped_output_path
 except ModuleNotFoundError:
-    from project_paths import resolve_external_path, resolve_project_path
+    from project_paths import resolve_external_path, resolve_project_path, timestamped_output_path
 
 
 UNIFIED_FIELDS = (
@@ -268,8 +268,9 @@ def main(
     """备份、迁移、写出并复核两张主表。"""
     resolved_rule_path = resolve_project_path(rule_table_path, anchor=__file__, must_exist=True)
     resolved_rule_backup_dir = resolve_project_path(rule_backup_dir, anchor=__file__)
-    resolved_audit_path = resolve_project_path(audit_path, anchor=__file__)
-    resolved_log_path = resolve_project_path(log_path, anchor=__file__)
+    run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    resolved_audit_path = timestamped_output_path(resolve_project_path(audit_path, anchor=__file__), run_timestamp)
+    resolved_log_path = timestamped_output_path(resolve_project_path(log_path, anchor=__file__), run_timestamp)
     logger = configure_logger(resolved_log_path)
     rule_fields, legacy_rules, rule_blank_count = read_tsv(resolved_rule_path)
     institution_fields, institutions, institution_blank_count = read_tsv(institution_table_path)

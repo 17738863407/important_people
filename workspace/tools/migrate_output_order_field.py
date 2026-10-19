@@ -8,6 +8,11 @@ from pathlib import Path
 
 from tqdm import tqdm
 
+try:
+    from workspace.tools.project_paths import timestamped_output_path
+except ModuleNotFoundError:
+    from project_paths import timestamped_output_path
+
 
 OLD_HEADER = [
     "次序",
@@ -129,5 +134,5 @@ def main(output_dir: Path, log_path: Path) -> None:
 if __name__ == "__main__":
     project_root_value = Path(__file__).resolve().parents[2]
     output_dir_value = project_root_value / "outputs"
-    log_path_value = project_root_value / "workspace" / "log" / "输出字段迁移.log"
+    log_path_value = timestamped_output_path(project_root_value / "workspace" / "log" / "输出字段迁移.log")
     main(output_dir_value, log_path_value)

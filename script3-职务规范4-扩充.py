@@ -2,12 +2,13 @@ from __future__ import annotations
 
 import importlib.util
 import re
+from datetime import datetime
 from pathlib import Path
 from types import ModuleType
 
 from tqdm import tqdm
 
-from crawler_core.paths import resolve_path_argument
+from crawler_core.paths import resolve_path_argument, timestamped_output_path
 
 
 def load_cleaning_module(script_path: Path) -> ModuleType:
@@ -247,10 +248,17 @@ def process_all_rows(
 
 def build_output_paths(project_dir: Path) -> tuple[Path, Path, Path]:
     """构造扩充结果、审计报告和日志路径。"""
+    run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     return (
         project_dir / "职务规范4：扩充.txt",
-        project_dir / "workspace" / "reports" / "职务规范4：扩充审计报告.txt",
-        project_dir / "workspace" / "log" / "职务规范4：扩充日志.txt",
+        timestamped_output_path(
+            project_dir / "workspace" / "reports" / "职务规范4：扩充审计报告.txt",
+            run_timestamp,
+        ),
+        timestamped_output_path(
+            project_dir / "workspace" / "log" / "职务规范4：扩充日志.txt",
+            run_timestamp,
+        ),
     )
 
 

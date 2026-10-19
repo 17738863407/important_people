@@ -4,12 +4,13 @@ from __future__ import annotations
 
 import logging
 import re
+from datetime import datetime
 from pathlib import Path
 
 from bs4 import BeautifulSoup, Tag
 from tqdm import tqdm
 
-from crawler_core.paths import resolve_project_path
+from crawler_core.paths import resolve_project_path, timestamped_output_path
 from workspace.institution_catalog.maintenance.extract_provincial_government_institution_candidates import (
     category_from_text,
     normalize_text,
@@ -84,6 +85,19 @@ def main(snapshot_dir: Path, output_path: Path, log_path: Path) -> None:
 
 if __name__ == "__main__":
     snapshot_dir = resolve_project_path(r"important_people/workspace/snapshots/机构目录/省级政府机构目录/html", anchor=__file__, must_exist=True)
-    output_path = resolve_project_path(r"important_people/workspace/reports/机构目录/省级政府机构目录DOM结构诊断.txt", anchor=__file__)
-    log_path = resolve_project_path(r"important_people/workspace/log/机构目录/省级政府机构目录DOM检查.log", anchor=__file__)
+    run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    output_path = timestamped_output_path(
+        resolve_project_path(
+            r"important_people/workspace/reports/机构目录/省级政府机构目录DOM结构诊断.txt",
+            anchor=__file__,
+        ),
+        run_timestamp,
+    )
+    log_path = timestamped_output_path(
+        resolve_project_path(
+            r"important_people/workspace/log/机构目录/省级政府机构目录DOM检查.log",
+            anchor=__file__,
+        ),
+        run_timestamp,
+    )
     main(snapshot_dir, output_path, log_path)

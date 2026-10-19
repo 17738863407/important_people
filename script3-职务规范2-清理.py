@@ -8,7 +8,7 @@ from typing import Any
 
 from tqdm import tqdm
 
-from crawler_core.paths import resolve_path_argument
+from crawler_core.paths import resolve_path_argument, timestamped_output_path
 
 
 def build_runtime_config() -> dict[str, Any]:
@@ -325,10 +325,17 @@ def process_all_rows(input_path: Path, output_path: Path, audit_path: Path, log_
 
 def build_output_paths(project_dir: Path) -> tuple[Path, Path, Path]:
     """构造清理结果、审计报告和日志路径。"""
+    run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     return (
         project_dir / "职务规范2：清理.txt",
-        project_dir / "workspace" / "reports" / "职务规范2：清理审计报告.txt",
-        project_dir / "workspace" / "log" / "职务规范2：清理日志.txt",
+        timestamped_output_path(
+            project_dir / "workspace" / "reports" / "职务规范2：清理审计报告.txt",
+            run_timestamp,
+        ),
+        timestamped_output_path(
+            project_dir / "workspace" / "log" / "职务规范2：清理日志.txt",
+            run_timestamp,
+        ),
     )
 
 

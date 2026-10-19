@@ -2,12 +2,13 @@ from __future__ import annotations
 
 import shutil
 from collections import Counter
+from datetime import datetime
 from pathlib import Path
 
 try:
-    from workspace.tools.project_paths import resolve_external_path, resolve_project_path
+    from workspace.tools.project_paths import resolve_external_path, resolve_project_path, timestamped_output_path
 except ModuleNotFoundError:
-    from project_paths import resolve_external_path, resolve_project_path
+    from project_paths import resolve_external_path, resolve_project_path, timestamped_output_path
 
 
 OUTPUT_HEADER = [
@@ -217,12 +218,13 @@ def main(
         warnings.append(
             "以下失败文件已补写‘缺少可回指职务依据说明’：" + ",".join(normalized_failure_files)
         )
+    run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     write_final_reports(
         generated_success_report=generated_success_report,
         generated_failure_report=generated_failure_report,
-        final_success_report=report_dir / "失败目录Playwright完整重跑_20261004_成功采集报告.txt",
-        final_failure_report=report_dir / "失败目录Playwright完整重跑_20261004_失败报告.txt",
-        audit_report=report_dir / "失败目录Playwright完整重跑_20261004_验收报告.txt",
+        final_success_report=timestamped_output_path(report_dir / "失败目录Playwright完整重跑_成功采集报告.txt", run_timestamp),
+        final_failure_report=timestamped_output_path(report_dir / "失败目录Playwright完整重跑_失败报告.txt", run_timestamp),
+        audit_report=timestamped_output_path(report_dir / "失败目录Playwright完整重跑_验收报告.txt", run_timestamp),
         success_dir=success_dir,
         failure_dir=failure_dir,
         problems=problems,

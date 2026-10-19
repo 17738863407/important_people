@@ -10,7 +10,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
-from crawler_core.paths import resolve_project_path
+from crawler_core.paths import resolve_project_path, timestamped_output_path
 
 from .storage import WorkbenchStore
 
@@ -233,8 +233,10 @@ if __name__ == "__main__":
         anchor=__file__,
         must_exist=True,
     )
-    output_log_path = resolve_project_path(
-        r"important_people/workspace/log/机构数据工作台.log", anchor=__file__
+    output_log_path = timestamped_output_path(
+        resolve_project_path(
+            r"important_people/workspace/log/机构数据工作台.log", anchor=__file__
+        )
     )
     main(
         server_host,

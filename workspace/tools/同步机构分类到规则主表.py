@@ -16,9 +16,9 @@ from urllib.parse import urlparse
 from tqdm import tqdm
 
 try:
-    from workspace.tools.project_paths import resolve_project_path
+    from workspace.tools.project_paths import resolve_project_path, timestamped_output_path
 except ModuleNotFoundError:
-    from project_paths import resolve_project_path
+    from project_paths import resolve_project_path, timestamped_output_path
 
 
 @dataclass(frozen=True)
@@ -672,6 +672,10 @@ def main(
     apply_changes: bool,
 ) -> None:
     """完成分类匹配、报告生成、备份、写回和回读验证。"""
+    run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    pending_report_path = timestamped_output_path(pending_report_path, run_timestamp)
+    sorting_report_path = timestamped_output_path(sorting_report_path, run_timestamp)
+    log_path = timestamped_output_path(log_path, run_timestamp)
     logger = configure_logger(log_path)
     rule_headers, rule_records = read_tsv(rule_table_path)
     _, full_rows = read_tsv(full_table_path)

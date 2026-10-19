@@ -11,7 +11,7 @@ import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 
-from crawler_core.paths import resolve_project_path
+from crawler_core.paths import resolve_project_path, timestamped_output_path
 
 
 def configure_logging(log_path: Path) -> logging.Logger:
@@ -166,6 +166,11 @@ if __name__ == "__main__":
     folder_name = "19.34个省级行政区政府机构"
     snapshot_dir = resolve_project_path(r"important_people/workspace/snapshots/机构目录/省级政府机构目录/html", anchor=__file__)
     summary_path = resolve_project_path(r"important_people/workspace/reports/机构目录/省级政府机构目录抓取摘要.txt", anchor=__file__)
-    log_path = resolve_project_path(r"important_people/workspace/log/机构目录/省级政府机构目录抓取.log", anchor=__file__)
+    log_path = timestamped_output_path(
+        resolve_project_path(
+            r"important_people/workspace/log/机构目录/省级政府机构目录抓取.log",
+            anchor=__file__,
+        )
+    )
     timeout_seconds = 30
     main(bookmark_path, folder_name, snapshot_dir, summary_path, log_path, timeout_seconds)

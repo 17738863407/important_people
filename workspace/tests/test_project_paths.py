@@ -4,7 +4,12 @@ from pathlib import Path
 
 import pytest
 
-from crawler_core.paths import find_project_root, resolve_path_argument, resolve_project_path
+from crawler_core.paths import (
+    find_project_root,
+    resolve_path_argument,
+    resolve_project_path,
+    timestamped_output_path,
+)
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
@@ -56,3 +61,16 @@ def test_path_argument_keeps_programmatic_path_compatibility(tmp_path: Path) -> 
     target = tmp_path / "sample.txt"
     target.write_text("ok", encoding="utf-8")
     assert resolve_path_argument(target, anchor=__file__, must_exist=True) == target.resolve()
+
+
+def test_timestamped_output_path_adds_one_stable_suffix() -> None:
+    timestamp = "20261020_012345"
+    source = Path("workspace/log/sample.log")
+    timestamped = timestamped_output_path(source, timestamp)
+    assert timestamped == Path("workspace/log/sample_20261020_012345.log")
+    assert timestamped_output_path(timestamped, timestamp) == timestamped
+
+
+def test_timestamped_output_path_rejects_invalid_timestamp() -> None:
+    with pytest.raises(ValueError):
+        timestamped_output_path(Path("sample.txt"), "2026-10-20")

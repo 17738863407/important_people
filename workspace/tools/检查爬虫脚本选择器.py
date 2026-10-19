@@ -7,9 +7,9 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 
 try:
-    from workspace.tools.project_paths import resolve_project_path
+    from workspace.tools.project_paths import resolve_project_path, timestamped_output_path
 except ModuleNotFoundError:
-    from project_paths import resolve_project_path
+    from project_paths import resolve_project_path, timestamped_output_path
 
 
 def write_log(log_path: Path, message: str) -> None:
@@ -122,13 +122,14 @@ def main(adapter_dir: Path, output_path: Path, log_path: Path, timeout_seconds: 
 
 
 if __name__ == "__main__":
+    run_timestamp_value = datetime.now().strftime("%Y%m%d_%H%M%S")
     adapter_dir_value = resolve_project_path("important_people/site_adapters", anchor=__file__)
-    output_path_value = resolve_project_path(
+    output_path_value = timestamped_output_path(resolve_project_path(
         "important_people/workspace/reports/爬虫脚本选择器检查结果.txt", anchor=__file__
-    )
-    log_path_value = resolve_project_path(
+    ), run_timestamp_value)
+    log_path_value = timestamped_output_path(resolve_project_path(
         "important_people/workspace/log/检查爬虫脚本选择器.log", anchor=__file__
-    )
+    ), run_timestamp_value)
     timeout_seconds_value = 30
     main(
         adapter_dir=adapter_dir_value,

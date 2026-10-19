@@ -13,9 +13,9 @@ from typing import Iterable
 from tqdm import tqdm
 
 try:
-    from workspace.tools.project_paths import resolve_project_path
+    from workspace.tools.project_paths import resolve_project_path, timestamped_output_path
 except ModuleNotFoundError:
-    from project_paths import resolve_project_path
+    from project_paths import resolve_project_path, timestamped_output_path
 
 
 def log_message(message: str, log_path: Path) -> None:
@@ -214,6 +214,7 @@ def main(
     """完成备份、写入、回读验证和报告生成。"""
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     readable_timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    report_path = timestamped_output_path(report_path, timestamp)
     backup_dir.mkdir(parents=True, exist_ok=True)
     report_path.parent.mkdir(parents=True, exist_ok=True)
     log_dir.mkdir(parents=True, exist_ok=True)

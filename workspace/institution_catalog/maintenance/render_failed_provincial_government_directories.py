@@ -10,7 +10,7 @@ from urllib.parse import urlparse
 from playwright.sync_api import sync_playwright
 from tqdm import tqdm
 
-from crawler_core.paths import resolve_project_path
+from crawler_core.paths import resolve_project_path, timestamped_output_path
 
 
 def configure_logging(log_path: Path) -> logging.Logger:
@@ -83,6 +83,11 @@ if __name__ == "__main__":
         (16, "江西省机构", "https://www.jiangxi.gov.cn/jxsrmzf/szfjg/pc/list.html#szfzc"),
     ]
     snapshot_dir = resolve_project_path(r"important_people/workspace/snapshots/机构目录/省级政府机构目录/html", anchor=__file__)
-    log_path = resolve_project_path(r"important_people/workspace/log/机构目录/省级政府机构目录浏览器补抓.log", anchor=__file__)
+    log_path = timestamped_output_path(
+        resolve_project_path(
+            r"important_people/workspace/log/机构目录/省级政府机构目录浏览器补抓.log",
+            anchor=__file__,
+        )
+    )
     timeout_milliseconds = 60000
     main(targets, snapshot_dir, log_path, timeout_milliseconds)

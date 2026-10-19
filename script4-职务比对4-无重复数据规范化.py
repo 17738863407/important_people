@@ -33,7 +33,7 @@ import re
 import sys
 from pathlib import Path
 
-from crawler_core.paths import resolve_path_argument
+from crawler_core.paths import resolve_path_argument, timestamped_output_path
 
 
 SPLIT_PATTERN = re.compile(r"[，、/]")
@@ -483,6 +483,7 @@ def main(
     normalized_path = resolve_path_argument(normalized_path, anchor=__file__)
     xlsx_filtered_path = resolve_path_argument(xlsx_filtered_path, anchor=__file__)
     log_path = resolve_path_argument(log_path, anchor=__file__)
+    log_path = timestamped_output_path(log_path)
     setup_logging(log_path)
     if not reminders_path.is_file():
         logging.error("更新提醒表不存在：%s", reminders_path)

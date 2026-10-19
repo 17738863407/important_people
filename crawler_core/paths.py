@@ -1,12 +1,15 @@
 from __future__ import annotations
 
 import os
+import re
+from datetime import datetime
 from pathlib import Path, PurePosixPath, PureWindowsPath
 import shutil
 
 
 PROJECT_NAME = "important_people"
 PROJECT_MARKERS = ("AGENTS.md", "crawler_core", "workspace/source_data")
+RUN_TIMESTAMP_PATTERN = re.compile(r"_\d{8}_\d{6}$")
 
 
 def _anchor_directory(anchor: str | Path) -> Path:
@@ -83,6 +86,20 @@ def resolve_external_path(
     if must_exist and not resolved.exists():
         raise FileNotFoundError(f"{environment_name} 指向的路径不存在：{resolved}")
     return resolved
+
+
+def timestamped_output_path(
+    path: str | Path,
+    run_timestamp: str | None = None,
+) -> Path:
+    """为日志或报告文件名追加秒级运行时间，已有时间后缀时保持不变。"""
+    output_path = Path(path)
+    if RUN_TIMESTAMP_PATTERN.search(output_path.stem):
+        return output_path
+    timestamp = run_timestamp or datetime.now().strftime("%Y%m%d_%H%M%S")
+    if not re.fullmatch(r"\d{8}_\d{6}", timestamp):
+        raise ValueError(f"运行时间格式应为 YYYYMMDD_HHMMSS：{timestamp}")
+    return output_path.with_name(f"{output_path.stem}_{timestamp}{output_path.suffix}")
 
 
 def find_chrome_executable() -> Path:
