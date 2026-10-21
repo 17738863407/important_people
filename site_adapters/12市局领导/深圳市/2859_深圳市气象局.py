@@ -22,6 +22,7 @@ PAGE_RULE = {
     "structure_group": "shenzhen_openinfo_leader_documents",
     "reuse_scope": "single_page",
     "load_mode": "动态DOM渲染",
+    "browser_render_wait_ms": 8000,
     "fetch_mode": "playwright",
     "extract_mode": "list_to_detail",
     "collector": "browser_dom",

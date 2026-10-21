@@ -25,6 +25,8 @@ PAGE_RULE = {
     "reuse_scope": "single_page",
     "load_mode": "静态HTML直出",
     "fetch_mode": "online",
+    "inline_parser_handles_fetch": True,
+    "inline_fetch_collector": "requests",
     "extract_mode": "list_to_detail",
     "collector": "static_http",
     "parser": "page_inline_fujian_petition_leader_detail_v1",
@@ -34,7 +36,7 @@ PAGE_RULE = {
         "mode": "online_current_detail",
         "detail_duty_selector": ".ld_img p",
     },
-    "risk_flag": "详情页同时含简历现任句；依据须优先使用人物卡片中的明确职务节点，避免混入简历兼任说明",
+    "risk_flag": "规则入口为已下线的旧人物页；须由其父栏目实时读取meta跳转，并优先使用人物卡片中的明确职务节点，避免混入简历兼任说明",
     "confidence": "high",
     "filter_policy": "strong_no_wordlist",
     "locator_strategy": "custom_parse_page",
@@ -69,11 +71,29 @@ def fetch_detail_html(session: requests.Session, detail_url: str) -> str:
     return response.text
 
 
+def fetch_current_entry(session: requests.Session, old_entry_url: str) -> tuple[str, str]:
+    """从旧人物页退回稳定父栏目，并跟随栏目当前声明的meta跳转。"""
+    parent_url = urljoin(old_entry_url.rstrip("/") + "/", "../")
+    response = session.get(parent_url, timeout=30)
+    response.raise_for_status()
+    response.encoding = response.apparent_encoding or "utf-8"
+    match = re.search(
+        r'<meta[^>]+http-equiv=["\']?refresh["\']?[^>]+content=["\'][^"\']*url=([^"\']+)',
+        response.text,
+        flags=re.IGNORECASE,
+    )
+    if match is None:
+        raise RuntimeError("领导信息父栏目未提供当前人物页跳转")
+    current_url = urljoin(response.url, match.group(1).strip())
+    return fetch_detail_html(session, current_url), current_url
+
+
 def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[dict[str, str]]:
     """按领导目录原序在线取得各人物页的明确职务节点。"""
-    soup = BeautifulSoup(html, "html.parser")
     session = requests.Session()
     session.headers.update({"User-Agent": "Mozilla/5.0", "Referer": final_url})
+    html, final_url = fetch_current_entry(session, str(page_rule["url"]))
+    soup = BeautifulSoup(html, "html.parser")
     detail_selector = str(page_rule["detail_strategy"]["detail_duty_selector"])
     entry_url = comparable_url(final_url)
     rows: list[dict[str, str]] = []
@@ -97,7 +117,7 @@ def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[
                 "name": name,
                 "duty": evidence,
                 "evidence": evidence,
-                "detail_url": "" if comparable_url(candidate) == entry_url else candidate,
+                "detail_url": candidate,
             }
         )
     return rows

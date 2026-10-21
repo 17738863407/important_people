@@ -36,31 +36,22 @@ def same_origin(reference_url: str, candidate_url: str) -> bool:
 
 
 def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[dict[str, str]]:
-    """解析渲染后的领导卡片；分工正文不作为主职务依据。"""
+    """按领导简介名单顺序抓取详情，只提取同一人物的现任句。"""
+    from crawler_core.fetcher import fetch_html_with_strategy
+
     soup = BeautifulSoup(html, "lxml")
-    leader_list = soup.select_one("ul#list.ldjj_list")
+    leader_list = soup.select_one(str(page_rule["leader_region_selector"]))
     if leader_list is None:
         raise RuntimeError("未找到渲染后的领导简介列表")
 
     records: list[dict[str, str]] = []
     seen_names: set[str] = set()
-    for card in leader_list.select(":scope > li"):
-        if is_hidden(card):
+    for anchor in leader_list.select(":scope > li > a[href]"):
+        if is_hidden(anchor):
             continue
-        anchor = card.select_one(":scope > a[href]")
-        name_node = card.select_one(":scope > a[href] .text > p.title")
-        duty_node = card.select_one(":scope > a[href] .text > p.desc")
-        content_node = card.select_one(":scope > a[href] .text > div.content")
-        if anchor is None or name_node is None or duty_node is None or content_node is None:
+        name = clean_text(str(anchor.get("title") or anchor.get_text(" ", strip=True)))
+        if not re.fullmatch(r"[\u3400-\u9fff·]{2,4}", name) or name in seen_names:
             continue
-
-        name = clean_text(name_node.get_text(" ", strip=True))
-        duty = clean_text(duty_node.get_text(" ", strip=True))
-        content = clean_text(content_node.get_text(" ", strip=True))
-        if not re.fullmatch(r"[\u3400-\u9fff·]{2,4}", name) or name in seen_names or not duty:
-            continue
-        if not content.startswith(f"简历——{name}") or f"现任{duty}。" not in content:
-            raise RuntimeError(f"{name}卡片简介无法回指当前职务")
 
         detail_url = urljoin(final_url, str(anchor.get("href", "")))
         detail_path = urlsplit(detail_url).path
@@ -70,6 +61,28 @@ def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[
         ):
             raise RuntimeError(f"{name}详情路径不符合当前领导栏目结构")
 
+        result = fetch_html_with_strategy(
+            detail_url,
+            strategy="chrome",
+            timeout=60,
+            browser_render_wait_ms=2000,
+        )
+        detail_soup = BeautifulSoup(result.html, "lxml")
+        content = detail_soup.select_one("#ContentDetail")
+        paragraphs = (
+            [clean_text(item.get_text(" ", strip=True)) for item in content.select("p")]
+            if content is not None
+            else []
+        )
+        current_sentence = next(
+            (item for item in paragraphs if item.startswith(f"{name}，") and "现任" in item),
+            "",
+        )
+        match = re.search(r"现任(?P<duty>[^。；]{2,120})。", current_sentence)
+        if not match:
+            raise RuntimeError(f"{name}详情页未找到可回指的现任职务句")
+        duty = clean_text(match.group("duty"))
+
         seen_names.add(name)
         records.append(
             {
@@ -78,7 +91,8 @@ def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[
                 "detail_url": detail_url,
                 "evidence": duty,
                 "confidence": "high",
-                "parser": "page_inline_gansu_stats_leader_cards_v1",
+                "parser": "page_inline_gansu_stats_list_detail_current_v2",
+                "selector_summary": "entry=ul.top_ldjjlist按DOM顺序；detail=#ContentDetail内姓名开头的现任句；排除分工段",
             }
         )
     return records
@@ -87,19 +101,20 @@ def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[
 PAGE_RULE = {
     "rule_id": "2719",
     "page_type": "人物目录详情页",
-    "structure_group": "gansu_stats_rendered_leader_cards",
+    "structure_group": "gansu_stats_list_detail_current_sentence_v2",
     "reuse_scope": "single_page",
     "load_mode": "动态DOM渲染",
     "fetch_mode": "chrome",
-    "extract_mode": "list_direct",
+    "extract_mode": "list_to_detail",
     "collector": "browser_dom",
-    "parser": "page_inline_gansu_stats_leader_cards_v1",
+    "parser": "page_inline_gansu_stats_list_detail_current_v2",
     "locator_strategy": "custom_parse_page",
-    "leader_region_selector": "ul#list.ldjj_list",
-    "name_selector": ":scope > li > a .text > p.title",
-    "duty_selector": ":scope > li > a .text > p.desc",
+    "leader_region_selector": "ul.top_ldjjlist",
+    "name_selector": ":scope > li > a[title]",
+    "duty_selector": "#ContentDetail p内姓名开头的现任句",
     "detail_link_selector": ":scope > li > a[href]",
-    "risk_flag": "普通 HTTP 返回 412；领导卡片同时含简历和分工，仅独立职务节点进入依据说明",
+    "detail_strategy": {"required": True, "mode": "list_to_detail", "detail_content_selector": "#ContentDetail", "max_detail_links": 15},
+    "risk_flag": "普通HTTP返回412；入口仅含姓名和详情链接，职务必须从对应详情当前人物现任句提取，分工段不得进入依据",
     "confidence": "high",
 }
 

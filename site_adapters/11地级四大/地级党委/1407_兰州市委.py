@@ -62,11 +62,16 @@ def parse_page(
     selector_summary = (
         "strategy=custom_parse_page；leader=.ldjs_box > .ldjs_box_left；"
         "name=.shuji/.fushuji a[href]；duty=.ldxx .jj内完整现任句；"
-        "detail=.shuji/.fushuji a[href]；collector=raw_http"
+        "detail=.shuji/.fushuji a[href]；collector=browser"
     )
     for name, detail_url in links:
         try:
-            detail_result = fetch_html_with_strategy(detail_url, strategy="raw_http")
+            detail_result = fetch_html_with_strategy(
+                detail_url,
+                strategy="browser",
+                force_browser=True,
+                timeout=45,
+            )
         except Exception as error:
             raise RuntimeError(f"{name}详情页采集失败：{error}") from error
 

@@ -19,21 +19,22 @@ def resolve_project_dir() -> Path:
 PAGE_RULE = {
     "rule_id": "2766",
     "domain": "tyj.gansu.gov.cn",
-    "page_type": "人物列表完整页",
-    "structure_group": "gansu_sports_leader_window_links_v1",
+    "page_type": "人物列表链接加详情页简介",
+    "structure_group": "gansu_sports_leader_detail_profiles_v2",
     "reuse_scope": "single_page",
     "load_mode": "动态DOM渲染",
+    "browser_render_wait_ms": 3000,
     "fetch_mode": "online",
     "extract_mode": "custom_parse_page",
     "collector": "browser_dom",
-    "parser": "page_inline_gansu_sports_leader_window_links_v1",
-    "leader_region_selector": ".content",
+    "parser": "page_inline_gansu_sports_leader_detail_profiles_v2",
+    "leader_region_selector": ".ldzc .zfxxgkbox",
     "leader_link_selector": "a[href*='/ldlist.shtml']",
     "detail_strategy": {
         "required": False,
         "mode": "current_leader_links",
     },
-    "risk_flag": "普通HTTP返回412防护页；领导链接文本为姓名和职务组合字段，须限定领导之窗内容区域",
+    "risk_flag": "普通HTTP返回412防护页；入口多数链接只显示姓名，须按入口顺序用Chrome CDP读取当前详情页简介中的现任句",
     "confidence": "high",
     "filter_policy": "strong_no_wordlist",
     "locator_strategy": "custom_parse_page",
@@ -45,12 +46,28 @@ def clean_text(value: str) -> str:
     return re.sub(r"[\s\u3000\u00a0]+", " ", str(value or "")).strip()
 
 
-def split_name_duty(value: str) -> tuple[str, str]:
+def extract_list_name(value: str) -> str:
+    """从链接开头取得姓名；列表可能仅显示姓名，也可能追加职务和“个人简介”。"""
     text = clean_text(value)
-    match = re.fullmatch(r"([\u4e00-\u9fff·]{2,10})\s+(.+)", text)
-    if match is None:
-        return "", ""
-    return match.group(1), match.group(2).strip("：:，,。.；;")
+    name_text = re.split(r"\s*(?:局党组|党组|局长|副局长|个人简介)", text, maxsplit=1)[0]
+    name = re.sub(r"[\s\u3000\u00a0]+", "", name_text)
+    return name if re.fullmatch(r"[\u4e00-\u9fff·]{2,10}", name) else ""
+
+
+def fetch_current_duty(detail_url: str, name: str) -> str:
+    """只在当前人物详情简介块中提取网页明确写出的完整现任职务。"""
+    from crawler_core.fetcher import fetch_html_with_strategy
+
+    result = fetch_html_with_strategy(detail_url, strategy="chrome_cdp", timeout=30)
+    soup = BeautifulSoup(result.html, "html.parser")
+    region = soup.select_one(".leader_disc .disc")
+    if region is None:
+        return ""
+    profile = clean_text(region.get_text(" ", strip=True))
+    if name not in re.sub(r"[\s\u3000\u00a0]+", "", profile):
+        return ""
+    match = re.search(r"现任([^。；]+)", profile)
+    return clean_text(match.group(1)).strip("：:，,。.；;") if match else ""
 
 
 def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[dict[str, str]]:
@@ -63,8 +80,12 @@ def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[
     seen: set[str] = set()
 
     for link in region.select(str(page_rule["leader_link_selector"])):
-        name, evidence = split_name_duty(link.get_text(" ", strip=True))
-        if not name or not evidence or name in seen:
+        name = extract_list_name(link.get_text(" ", strip=True))
+        if not name or name in seen:
+            continue
+        detail_url = urljoin(final_url, str(link.get("href") or ""))
+        evidence = fetch_current_duty(detail_url, name)
+        if not evidence:
             continue
         seen.add(name)
         rows.append(
@@ -72,7 +93,7 @@ def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[
                 "name": name,
                 "duty": evidence,
                 "evidence": evidence,
-                "detail_url": urljoin(final_url, str(link.get("href") or "")),
+                "detail_url": detail_url,
             }
         )
     return rows

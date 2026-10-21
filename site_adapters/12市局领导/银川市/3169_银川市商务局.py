@@ -3,6 +3,7 @@ from __future__ import annotations
 import re
 import sys
 from pathlib import Path
+from urllib.parse import urljoin, urlsplit, urlunsplit
 
 from bs4 import BeautifulSoup
 
@@ -14,6 +15,8 @@ PAGE_RULE = {
     "reuse_scope": "single_page",
     "load_mode": "静态HTML直出",
     "fetch_mode": "online",
+    "inline_parser_handles_fetch": True,
+    "inline_fetch_collector": "requests",
     "extract_mode": "list_direct",
     "collector": "static_http",
     "parser": "page_inline_yinchuan_commerce_titled_profile_blocks_v2",
@@ -51,6 +54,8 @@ def _clean_text(value: str) -> str:
 
 def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict[str, str]]:
     """按人物标题划分正文块并提取各自完整现任句。"""
+    if not html:
+        html, final_url = fetch_current_article(str(page_rule["url"]))
     soup = BeautifulSoup(html or "", "html.parser")
     region = soup.select_one(str(page_rule.get("leader_region_selector") or ""))
     if region is None:
@@ -75,6 +80,37 @@ def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict[str, str
         seen.add(name)
         rows.append({"name": name, "duty": evidence, "evidence": evidence, "detail_url": "", "parser": str(page_rule.get("parser") or ""), "selector_summary": ".zwxxgk_bd内叶级人物标题p；当前标题至下一标题范围的完整现任句"})
     return rows
+
+
+def derive_category_url(source_url: str) -> str:
+    """从已失效的规则文章路径推导同站领导信息栏目。"""
+    parts = urlsplit(source_url)
+    category_path = re.sub(r"/\d{6}/t\d{8}_\d+\.html$", "/", parts.path)
+    if category_path == parts.path:
+        raise RuntimeError("规则入口不符合可验证的领导栏目文章路径")
+    return urlunsplit((parts.scheme, parts.netloc, category_path, "", ""))
+
+
+def fetch_current_article(source_url: str) -> tuple[str, str]:
+    """在线发现领导栏目中的现行领导信息稿并取得正文。"""
+    from crawler_core.fetcher import fetch_html_with_strategy
+
+    category_result = fetch_html_with_strategy(derive_category_url(source_url), strategy="requests")
+    category_soup = BeautifulSoup(category_result.html, "html.parser")
+    current_link = next(
+        (
+            link
+            for link in category_soup.select(".zfxxgk_zdgkc > ul > li > a[href]")
+            if "领导信息" in _clean_text(link.get_text(" ", strip=True))
+        ),
+        None,
+    )
+    if current_link is None:
+        raise RuntimeError("领导栏目未发现现行领导信息稿")
+
+    article_url = urljoin(category_result.final_url, str(current_link.get("href", "")))
+    article_result = fetch_html_with_strategy(article_url, strategy="requests")
+    return article_result.html, article_result.final_url
 
 
 def main() -> None:

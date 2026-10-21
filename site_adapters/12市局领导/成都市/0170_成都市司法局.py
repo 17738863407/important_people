@@ -15,7 +15,7 @@ PAGE_RULE = {
     "fetch_mode": "online",
     "extract_mode": "list_to_detail",
     "leader_region_selector": "ul.list.jk_list",
-    "detail_link_selector": "li > a[href*='/gkml/ldcy/']",
+    "detail_link_selector": "a[href*='/gkml/ldcy/']",
     "detail_content_selector": "#part_03 .blk01",
     "detail_timeout_seconds": 45,
     "risk_flag": "入口与详情页普通HTTP均返回412，必须使用浏览器渲染",
@@ -96,7 +96,7 @@ def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict]:
                 "confidence": "high",
                 "parser": "page_inline_chengdu_justice_detail_v1",
                 "selector_summary": (
-                    "list=ul.list.jk_list > li > a[href*='/gkml/ldcy/']；"
+                    "list=ul.list.jk_list内a[href*='/gkml/ldcy/']；"
                     "detail=#part_03 .blk01；name=h1；duty=#myFont中职务标签的相邻p"
                 ),
             }

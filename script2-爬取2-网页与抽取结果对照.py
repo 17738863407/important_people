@@ -301,7 +301,7 @@ def open_urls_in_browser(
 
 def main(
     project_dir: str | Path,
-    output_dir: Path | None,
+    output_dir: str | Path | None,
     extension_dir: Path | None,
     summary_path: str | Path,
     log_path: str | Path,
@@ -313,7 +313,10 @@ def main(
 ) -> Path:
     """读取在线抽取结果，为 Chrome 扩展生成最新对照数据。"""
     project_dir = resolve_path_argument(project_dir, anchor=__file__, must_exist=True)
-    output_dir = output_dir or resolve_external_path(output_dir_environment)
+    if output_dir is None:
+        output_dir = resolve_external_path(output_dir_environment)
+    else:
+        output_dir = resolve_path_argument(output_dir, anchor=__file__, must_exist=True)
     extension_dir = extension_dir or resolve_external_path(extension_dir_environment)
     summary_path = resolve_path_argument(summary_path, anchor=__file__)
     log_path = resolve_path_argument(log_path, anchor=__file__)
@@ -377,7 +380,7 @@ def main(
 
 if __name__ == "__main__":
     project_dir_value = r"important_people"
-    output_dir_value = None
+    output_dir_value = r"important_people/outputs/x"
     extension_dir_value = None
     output_dir_environment_value = "IMPORTANT_PERSON_COMPARE_OUTPUT_DIR"
     extension_dir_environment_value = "IMPORTANT_PERSON_COMPARE_EXTENSION_DIR"

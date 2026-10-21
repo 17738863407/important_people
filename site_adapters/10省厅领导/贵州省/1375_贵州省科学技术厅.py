@@ -86,7 +86,9 @@ def extract_detail_fields(html: str) -> tuple[str, str, str]:
 
 
 def extract_leader_index_url(html: str, base_url: str) -> str:
-    """从当前入口内联导航脚本动态发现领导之窗，不固化迁移后的栏目地址。"""
+    """优先使用当前领导目录；兼容旧入口中的领导之窗导航。"""
+    if BeautifulSoup(html, "html.parser").select_one("#ldlist"):
+        return base_url
     match = re.search(r"href=[\"']([^\"']*/ldzc_[^\"']*/)[\"']", html)
     if not match:
         raise RuntimeError("当前入口未发现领导之窗链接")
@@ -111,7 +113,8 @@ def extract_detail_urls(html: str, base_url: str) -> list[str]:
 def parse_page(html: str, final_url: str, rule: dict) -> list[dict[str, str]]:
     base_url = str(rule.get("url", "")) or final_url
     leader_index_url = extract_leader_index_url(html, base_url)
-    detail_urls = extract_detail_urls(fetch_detail_html(leader_index_url), leader_index_url)
+    leader_index_html = html if leader_index_url == base_url else fetch_detail_html(leader_index_url)
+    detail_urls = extract_detail_urls(leader_index_html, leader_index_url)
     rows = []
     seen = set()
     for detail_url in detail_urls:

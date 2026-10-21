@@ -23,6 +23,8 @@ PAGE_RULE = {'rule_id': '3417',
  'reuse_scope': 'single_page',
  'load_mode': '动态DOM渲染',
  'fetch_mode': 'raw_http',
+ 'inline_parser_handles_fetch': True,
+ 'inline_fetch_collector': 'requests',
  'extract_mode': 'list_direct',
  'collector': 'browser_dom',
  'parser': 'qinghai_natural_resources_leader_list_v1',
@@ -61,7 +63,7 @@ def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[
     selector_summary = "ul.leaderList a姓名+p.job职务+简介现任句"
     soup = BeautifulSoup(html, "html.parser")
     region = soup.select_one(str(page_rule["leader_region_selector"]))
-    if region is None and "window.location.href" in html:
+    if region is None:
         session = requests.Session()
         session.headers.update({"User-Agent": "Mozilla/5.0"})
         first_response = session.get(source_url, timeout=25, verify=False)
@@ -83,8 +85,12 @@ def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[
         duty_node = item.select_one("div.con h3.title > p.job")
         if name_node is None:
             continue
-        name = " ".join(name_node.get_text(" ", strip=True).split())
-        duty = " ".join(duty_node.get_text(" ", strip=True).split()) if duty_node else ""
+        name = re.sub(r"[\s\u200b]+", " ", name_node.get_text(" ", strip=True)).strip()
+        duty = (
+            re.sub(r"[\s\u200b]+", " ", duty_node.get_text(" ", strip=True)).strip()
+            if duty_node
+            else ""
+        )
         if not name:
             continue
         href = str(name_node.get("href") or "").strip()

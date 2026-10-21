@@ -19,7 +19,7 @@ PAGE_RULE = {'rule_id': '2203',
  'page_type': '人物目录详情页',
  'structure_group': '',
  'reuse_scope': 'single_page',
- 'load_mode': '静态HTML直出',
+ 'load_mode': '动态DOM渲染',
  'fetch_mode': 'online',
  'extract_mode': 'list_to_detail',
  'collector': 'static_http',
@@ -31,13 +31,13 @@ PAGE_RULE = {'rule_id': '2203',
  'content_scope': {'start_anchor': '', 'end_anchor': '', 'include_selectors': [], 'exclude_selectors': []},
  'detail_strategy': {'required': True,
                      'mode': 'list_to_detail',
-                     'detail_collector_type': 'raw_http',
+                     'detail_collector_type': 'chrome_cdp',
                      'detail_link_selector': 'a[href*="art_10645_"]',
                      'detail_name_selector': '#zoom p:first-of-type',
                      'detail_duty_selector': '#zoom p',
                      'detail_content_selector': '#zoom',
                      'max_detail_links': 50},
- 'risk_flag': '目录链接位于 text/xml 脚本数据；详情首段为简历、下一段为现职，后续段落为职责和分工',
+ 'risk_flag': '目录由JPage异步填充且偶发延迟；详情受412防护，需用Chrome CDP读取；详情首段为简历、下一段为现职，后续段落为职责和分工',
  'confidence': 'high',
  'profile_reusable': '',
  'profile_judgement': '',
@@ -81,22 +81,41 @@ def extract_duty(detail_html: str, name: str) -> str:
 
 
 def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict]:
-    from crawler_core.fetcher import fetch_by_raw_requests
+    from crawler_core.fetcher import fetch_html_with_strategy
 
     rows: list[dict] = []
     seen: set[str] = set()
-    pattern = re.compile(
-        r'href="(?P<href>[^"]*art_10645_[^"]+\.html)"\s+title="(?P<name>[^"]+)"'
-    )
-    for match in pattern.finditer(html):
-        name = clean_text(match.group("name")).replace(" ", "")
+    entry_url = final_url or page_rule["url"]
+    entry_html = html
+    links = BeautifulSoup(entry_html, "html.parser").select('a[href*="art_10645_"]')
+    for _ in range(3):
+        if links:
+            break
+        result = fetch_html_with_strategy(
+            entry_url,
+            strategy="chrome",
+            timeout=60,
+            browser_render_wait_ms=5000,
+        )
+        entry_url = result.final_url or entry_url
+        links = BeautifulSoup(result.html, "html.parser").select(
+            'a[href*="art_10645_"]'
+        )
+
+    for link in links:
+        name = clean_text(str(link.get("title") or link.get_text(" ", strip=True))).replace(" ", "")
         if not re.fullmatch(r"[\u4e00-\u9fff·]{2,5}", name):
             continue
         if name in seen:
             continue
-        detail_url = urljoin(final_url or page_rule["url"], match.group("href"))
+        detail_url = urljoin(entry_url, str(link.get("href") or ""))
         try:
-            result = fetch_by_raw_requests(detail_url)
+            result = fetch_html_with_strategy(
+                detail_url,
+                strategy="chrome",
+                timeout=60,
+                browser_render_wait_ms=2000,
+            )
             detail_url = result.final_url
             duty = extract_duty(result.html, name)
         except Exception:

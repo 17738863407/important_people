@@ -5,7 +5,6 @@ import sys
 from pathlib import Path
 from urllib.parse import urljoin
 
-import requests
 from bs4 import BeautifulSoup
 
 
@@ -81,12 +80,17 @@ def extract_directory_entries(html: str, final_url: str) -> list[tuple[str, str]
     return entries
 
 
-def fetch_detail_html(session: requests.Session, detail_url: str) -> str:
-    """在线读取当前人物详情页。"""
-    response = session.get(detail_url, timeout=30)
-    response.raise_for_status()
-    response.encoding = response.apparent_encoding or response.encoding or "utf-8"
-    return response.text
+def fetch_detail_html(detail_url: str) -> str:
+    """通过浏览器降级链路读取受 412 防护的当前人物详情页。"""
+    from crawler_core.fetcher import fetch_html_with_strategy
+
+    result = fetch_html_with_strategy(
+        detail_url,
+        strategy="browser",
+        force_browser=True,
+        timeout=45,
+    )
+    return result.html
 
 
 def extract_detail_duty(detail_html: str, expected_name: str) -> str:
@@ -111,20 +115,12 @@ def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict[str, str
     if not entries:
         raise RuntimeError("当前在线入口未发现可验证的市局领导目录记录")
 
-    session = requests.Session()
-    session.headers.update(
-        {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0 Safari/537.36",
-            "Accept-Language": "zh-CN,zh;q=0.9",
-        }
-    )
     rows: list[dict[str, str]] = []
     failed_names: list[str] = []
     for name, detail_url in entries:
         try:
-            duty = extract_detail_duty(fetch_detail_html(session, detail_url), name)
-        except requests.RequestException:
+            duty = extract_detail_duty(fetch_detail_html(detail_url), name)
+        except RuntimeError:
             duty = ""
         if not duty:
             failed_names.append(name)

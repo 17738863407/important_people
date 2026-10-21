@@ -5,7 +5,6 @@ import sys
 from pathlib import Path
 from urllib.parse import urljoin
 
-import requests
 from bs4 import BeautifulSoup
 
 
@@ -28,9 +27,10 @@ PAGE_RULE = {
         "mode": "dynamic_list_to_detail",
         "detail_link_selector": ".zfxxgk_subcon a[href*='art_6371_'][title][href]",
         "detail_content_selector": "#zoom",
+        "detail_collector_type": "chrome_cdp",
         "max_detail_links": 20,
     },
-    "risk_flag": "combined_institution_page_contains_leader_and_nonleader_groups_and_resume_dates_have_split_inline_digits",
+    "risk_flag": "机构页包含领导和非领导分组且履历年月存在行内拆分；详情HTTP返回412，需Chrome CDP读取",
     "confidence": "high",
     "filter_policy": "strong_no_wordlist",
     "locator_strategy": "custom_parse_page",
@@ -61,12 +61,17 @@ def normalize_space(text: str) -> str:
     return re.sub(r"\s*([-—－]{1,2})\s*", r"\1", cleaned)
 
 
-def fetch_detail_html(session: requests.Session, detail_url: str) -> str:
-    """在线读取当前人物详情页。"""
-    response = session.get(detail_url, timeout=30)
-    response.raise_for_status()
-    response.encoding = response.apparent_encoding or response.encoding or "utf-8"
-    return response.text
+def fetch_detail_html(detail_url: str) -> str:
+    """使用Chrome CDP在线读取受412防护的当前人物详情页。"""
+    from crawler_core.fetcher import fetch_html_with_strategy
+
+    result = fetch_html_with_strategy(
+        detail_url,
+        strategy="chrome",
+        timeout=60,
+        browser_render_wait_ms=2000,
+    )
+    return result.html
 
 
 def extract_detail_record(detail_html: str, expected_name: str) -> tuple[str, str]:
@@ -110,14 +115,6 @@ def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict[str, str
     if leader_container is None:
         return []
 
-    session = requests.Session()
-    session.headers.update(
-        {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0 Safari/537.36",
-            "Accept-Language": "zh-CN,zh;q=0.9",
-        }
-    )
     rows: list[dict[str, str]] = []
     seen_names: set[str] = set()
     links = leader_container.select("a[href*='art_6371_'][title][href]")
@@ -127,7 +124,7 @@ def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict[str, str
             continue
         detail_url = urljoin(final_url, str(link.get("href", "")).strip())
         evidence, duty = extract_detail_record(
-            fetch_detail_html(session, detail_url),
+            fetch_detail_html(detail_url),
             name,
         )
         if not evidence or not duty:

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import re
 import sys
 from pathlib import Path
@@ -17,14 +18,17 @@ def resolve_project_dir() -> Path:
 PAGE_RULE = {
     "rule_id": "2074",
     "page_type": "人物列表完整页",
-    "structure_group": "shenzhen_pnr_rendered_list_profile_tables_v1",
+    "structure_group": "shenzhen_pnr_api_list_profile_tables_v2",
     "reuse_scope": "single_page",
-    "load_mode": "接口数据加载",
-    "fetch_mode": "chrome",
+    "load_mode": "动态JSON接口",
+    "fetch_mode": "online",
+    "inline_parser_handles_fetch": True,
+    "inline_fetch_collector": "chrome_cdp",
     "extract_mode": "custom_parse_page",
-    "parser": "shenzhen_pnr_rendered_list_profile_tables_v1",
-    "leader_region_selector": "div#postList table.table-content",
-    "name_selector": "tbody > tr > td.first-td > a.document-number[href]",
+    "parser": "shenzhen_pnr_api_list_profile_tables_v2",
+    "api_path": "/gkmlpt/api/all/4272?page=1&sid=755016",
+    "api_classify_id": 4272,
+    "api_site_id": 755016,
     "duty_selector": "div.article-content table tr",
     "detail_link_selector": "tbody > tr > td.first-td > a.document-number[href]",
     "detail_strategy": {
@@ -35,7 +39,7 @@ PAGE_RULE = {
         "detail_duty_label": "职务",
         "max_detail_links": 20,
     },
-    "risk_flag": "普通HTTP返回412且Playwright得到39字节无效页，需使用Chrome CDP读取接口渲染DOM",
+    "risk_flag": "入口DOM异步渲染时序不稳定；同源JSON接口稳定返回当前人物顺序，详情页仍需Chrome CDP读取姓名和职务强字段",
     "confidence": "high",
     "filter_policy": "strong_no_wordlist",
     "locator_strategy": "custom_parse_page",
@@ -67,24 +71,37 @@ def _profile_fields(table: object) -> dict[str, str]:
 
 
 def parse_page(html: str, final_url: str, page_rule: dict) -> list[object]:
-    """按渲染后目录顺序动态读取人物页强结构姓名和职务字段。"""
+    """按同源接口顺序读取人物链接，再抓取详情页姓名和职务强字段。"""
     from bs4 import BeautifulSoup
 
     from crawler_core.fetcher import fetch_html_with_strategy
     from crawler_core.models import PersonRecord
 
-    soup = BeautifulSoup(html, "html.parser")
-    regions = soup.select(page_rule["leader_region_selector"])
-    if len(regions) != 1:
-        raise RuntimeError(f"领导目录表格命中数量异常：{len(regions)}")
-
+    del html
     entry_url = final_url or page_rule["url"]
     entry_host = urlsplit(entry_url).netloc.lower()
+    api_url = urljoin(entry_url, page_rule["api_path"])
+    api_result = fetch_html_with_strategy(api_url, strategy="raw_http", timeout=60)
+    try:
+        payload = json.loads(api_result.html)
+    except json.JSONDecodeError as error:
+        raise RuntimeError(f"领导接口返回非JSON：{error}") from error
+    classify = payload.get("classify") or {}
+    articles = payload.get("articles") or []
+    if int(classify.get("id") or 0) != int(page_rule["api_classify_id"]):
+        raise RuntimeError(f"领导接口分类不一致：{classify.get('id')}")
+    if int(payload.get("total") or 0) != len(articles):
+        raise RuntimeError(
+            f"领导接口分页数量不一致：total={payload.get('total')}，articles={len(articles)}"
+        )
+
     candidates: list[tuple[str, str]] = []
     seen_names: set[str] = set()
-    for link in regions[0].select(page_rule["name_selector"]):
-        name = _compact_text(link.get_text(" ", strip=True))
-        detail_url = urljoin(entry_url, str(link.get("href") or ""))
+    for article in articles:
+        if int(article.get("site") or 0) != int(page_rule["api_site_id"]):
+            raise RuntimeError(f"领导接口站点不一致：{article.get('site')}")
+        name = _compact_text(article.get("title") or "")
+        detail_url = urljoin(entry_url, str(article.get("url") or ""))
         detail_parts = urlsplit(detail_url)
         if not re.fullmatch(r"[\u3400-\u9fff·]{2,10}", name):
             continue
@@ -105,7 +122,12 @@ def parse_page(html: str, final_url: str, page_rule: dict) -> list[object]:
 
     records: list[object] = []
     for expected_name, detail_url in candidates:
-        result = fetch_html_with_strategy(detail_url, strategy="chrome", timeout=60)
+        result = fetch_html_with_strategy(
+            detail_url,
+            strategy="chrome",
+            timeout=60,
+            browser_render_wait_ms=2000,
+        )
         detail_soup = BeautifulSoup(result.html, "html.parser")
         tables = detail_soup.select(page_rule["detail_strategy"]["detail_content_selector"])
         field_sets = [_profile_fields(table) for table in tables]

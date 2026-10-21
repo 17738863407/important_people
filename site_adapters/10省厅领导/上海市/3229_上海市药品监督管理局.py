@@ -3,8 +3,9 @@ from __future__ import annotations
 import re
 import sys
 from pathlib import Path
+from urllib.parse import urljoin, urlsplit, urlunsplit
 
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup
 
 
 PAGE_RULE = {
@@ -12,10 +13,12 @@ PAGE_RULE = {
     "page_type": "多人物详情合并页",
     "load_mode": "静态HTML直出",
     "fetch_mode": "raw_http",
+    "inline_parser_handles_fetch": True,
+    "inline_fetch_collector": "requests",
     "extract_mode": "页面内置parse_page",
-    "leader_region_selector": "div.list-contant.resume",
-    "item_selector": "div.list-contant.resume p > strong",
-    "risk_note": "strong姓名后依次为人口学信息和完整现任句；入口为合并页而非独立人物详情。",
+    "leader_region_selector": "h4局领导后的表格链接及各详情页div.list-contant.resume",
+    "item_selector": "a[href*='/jczc/']",
+    "risk_note": "旧合并页已失效；从同站局长之窗动态发现人物详情链接，按局领导表格顺序逐页读取h5姓名与h6现职。",
     "confidence": "high",
 }
 
@@ -26,40 +29,54 @@ def clean_text(value: str) -> str:
 
 
 def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict]:
-    """按strong姓名顺序在当前人物块内查找完整现任句。"""
-    soup = BeautifulSoup(html, "html.parser")
-    rows: list[dict] = []
+    """按“局领导”表格顺序逐页提取姓名、现职和真实人物详情链接。"""
+    del html, final_url
+    from crawler_core.fetcher import fetch_html_with_strategy
 
-    for name_node in soup.select(page_rule["item_selector"]):
-        name = clean_text(name_node.get_text(" ", strip=True))
-        if not re.fullmatch(r"[\u4e00-\u9fff·]{2,8}", name):
+    directory_result = fetch_html_with_strategy(derive_directory_url(str(page_rule["url"])), strategy="requests")
+    directory_soup = BeautifulSoup(directory_result.html, "html.parser")
+    detail_urls: list[str] = []
+    seen_urls: set[str] = set()
+    for link in directory_soup.select("a[href*='/jczc/'][title]"):
+        name = clean_text(str(link.get("title") or link.get_text(" ", strip=True)))
+        href = str(link.get("href") or "").strip()
+        detail_url = urljoin(directory_result.final_url, href)
+        if not re.fullmatch(r"[\u4e00-\u9fff·]{2,8}", name) or not href.endswith(".html") or detail_url in seen_urls:
             continue
-        paragraph = name_node.find_parent("p")
-        if paragraph is None:
+        seen_urls.add(detail_url)
+        detail_urls.append(detail_url)
+
+    rows: list[dict] = []
+    seen_names: set[str] = set()
+    for detail_url in detail_urls:
+        detail_result = fetch_html_with_strategy(detail_url, strategy="requests")
+        detail_soup = BeautifulSoup(detail_result.html, "html.parser")
+        region = detail_soup.select_one("div.list-contant.resume")
+        name_node = region.select_one("h5") if region else None
+        duty_node = region.select_one("h6") if region else None
+        name = clean_text(name_node.get_text(" ", strip=True) if name_node else "")
+        evidence = clean_text(duty_node.get_text(" ", strip=True) if duty_node else "")
+        if not re.fullmatch(r"[\u4e00-\u9fff·]{2,8}", name) or not evidence or name in seen_names:
             continue
-        evidence = ""
-        for sibling in paragraph.next_siblings:
-            if not isinstance(sibling, Tag):
-                continue
-            if sibling.select_one("strong") is not None:
-                break
-            text = clean_text(sibling.get_text(" ", strip=True))
-            match = re.search(r"现任[^。]+。", text)
-            if match is not None:
-                evidence = match.group(0).removeprefix("现任").strip().removesuffix("。")
-                break
-        if not evidence:
-            continue
+        seen_names.add(name)
         rows.append(
             {
                 "name": name,
                 "duty": "",
                 "evidence": evidence,
-                "detail_url": "",
+                "detail_url": detail_result.final_url,
             }
         )
 
     return rows
+
+
+def derive_directory_url(source_url: str) -> str:
+    """根据权威来源域名定位同站“局长之窗”入口，不固化人物详情页。"""
+    parts = urlsplit(source_url)
+    if not parts.scheme or not parts.netloc:
+        raise RuntimeError("规则入口缺少有效站点信息")
+    return urlunsplit((parts.scheme, parts.netloc, "/jczc/index.html", "", ""))
 
 
 def resolve_project_dir() -> Path:

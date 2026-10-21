@@ -22,6 +22,8 @@ PAGE_RULE = {'rule_id': '3412',
  'reuse_scope': 'single_page',
  'load_mode': '静态HTML直出',
  'fetch_mode': 'online',
+ 'inline_parser_handles_fetch': True,
+ 'inline_fetch_collector': 'requests',
  'extract_mode': 'list_direct',
  'collector': 'static_http',
  'parser': 'page_detail_online_fujian_natural_resources_leader_v1',
@@ -107,23 +109,33 @@ def _extract_duty(detail_html: str, name: str) -> tuple[str, str]:
 
 
 def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict[str, str]]:
-    """解析福建省自然资源厅领导之窗左侧名单并在线读取详情。"""
+    """从机构概况页读取当前领导名单，并在线读取各人物详情。"""
     from bs4 import BeautifulSoup
 
-    soup = BeautifulSoup(html, "html.parser")
-    base_url = final_url
+    source_url = str(page_rule["url"])
+    overview_url = urljoin(source_url, "../../")
+    response = requests.get(
+        overview_url,
+        headers={"User-Agent": "Mozilla/5.0", "Referer": source_url},
+        timeout=20,
+    )
+    response.raise_for_status()
+    response.encoding = response.apparent_encoding or "utf-8"
+    soup = BeautifulSoup(response.text, "html.parser")
+    base_url = response.url
     rows: list[dict[str, str]] = []
     seen: set[str] = set()
 
-    for link in soup.select(".ldzc_left a[href]"):
-        raw_name = _clean_text(link.get_text(" ", strip=True))
+    for link in soup.select("ul.ldzc-list > li > a[href]"):
+        name_node = link.select_one("h5")
+        raw_name = _clean_text(name_node.get_text(" ", strip=True) if name_node else "")
         name = re.sub(r"\s+", "", raw_name)
         href = link.get("href", "")
         if not name or name == "领导之窗" or name in seen:
             continue
         detail_url = urljoin(base_url, href)
         try:
-            detail_html = _fetch_detail_html(detail_url, base_url, html)
+            detail_html = _fetch_detail_html(detail_url, base_url, response.text)
         except requests.RequestException:
             continue
         duty, evidence = _extract_duty(detail_html, name)
@@ -140,7 +152,7 @@ def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict[str, str
                 "detail_url": output_detail_url,
                 "evidence": evidence,
                 "parser": page_rule["parser"],
-                "selector_summary": ".ldzc_left名单 + 详情.ldzc_right h3/现任句",
+                "selector_summary": "ul.ldzc-list名单 + 详情.ldzc_right h3/现任句",
             }
         )
     return rows
