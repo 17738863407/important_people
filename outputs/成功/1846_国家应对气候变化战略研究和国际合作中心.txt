@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李冬		1		全国		http://www.ncsc.org.cn/gyzx/zxzr/	国家应对气候变化战略研究和国际合作中心 党委书记		国家应对气候变化战略研究和国际合作中心	http://www.ncsc.org.cn/gyzx/zxzr/ld/	1846
+胡松琴		2		全国		http://www.ncsc.org.cn/gyzx/zxzr/	国家应对气候变化战略研究和国际合作中心 主任		国家应对气候变化战略研究和国际合作中心	http://www.ncsc.org.cn/gyzx/zxzr/HSQ22/	1846
+陈振熙		3		全国		http://www.ncsc.org.cn/gyzx/zxzr/	国家应对气候变化战略研究和国际合作中心 党委委员、纪委书记		国家应对气候变化战略研究和国际合作中心	http://www.ncsc.org.cn/gyzx/zxzr/czx/	1846
+张昕		4		全国		http://www.ncsc.org.cn/gyzx/zxzr/	国家应对气候变化战略研究和国际合作中心 党委委员、副主任、工会主席		国家应对气候变化战略研究和国际合作中心	http://www.ncsc.org.cn/gyzx/zxzr/zx/	1846

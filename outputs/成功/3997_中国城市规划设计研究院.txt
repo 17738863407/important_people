@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王凯		1		全国		https://www.caupd.com/survey.html	院长，党委副书记		中国城市规划设计研究院	https://www.caupd.com/figure/hexin/detail/554.html	3997
+陈中博		2		全国		https://www.caupd.com/survey.html	党委书记		中国城市规划设计研究院	https://www.caupd.com/figure/hexin/detail/555.html	3997
+张立群		3		全国		https://www.caupd.com/survey.html	纪委书记		中国城市规划设计研究院	https://www.caupd.com/figure/hexin/detail/556.html	3997
+郑德高		4		全国		https://www.caupd.com/survey.html	副院长		中国城市规划设计研究院	https://www.caupd.com/figure/hexin/detail/557.html	3997
+邓东		5		全国		https://www.caupd.com/survey.html	副院长		中国城市规划设计研究院	https://www.caupd.com/figure/hexin/detail/558.html	3997
+杜宝东		6		全国		https://www.caupd.com/survey.html	副院长		中国城市规划设计研究院	https://www.caupd.com/figure/hexin/detail/1766.html	3997
+张圣海		7		全国		https://www.caupd.com/survey.html	副院长		中国城市规划设计研究院	https://www.caupd.com/figure/hexin/detail/1850.html	3997
+孙娟		8		全国		https://www.caupd.com/survey.html	副院长		中国城市规划设计研究院	https://www.caupd.com/figure/hexin/detail/2512.html	3997

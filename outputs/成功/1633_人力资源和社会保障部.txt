@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王晓萍		1		全国		https://www.mohrss.gov.cn/SYrlzyhshbzb/zwgk/bld/wxp/	人力资源社会保障部党组书记、部长		人力资源和社会保障部		1633
+张敏		2		全国		https://www.mohrss.gov.cn/SYrlzyhshbzb/zwgk/bld/wxp/	中央纪委国家监委驻人力资源社会保障部纪检监察组组长、人力资源社会保障部党组成员		人力资源和社会保障部	https://www.mohrss.gov.cn/SYrlzyhshbzb/zwgk/bld/lead_zm/	1633
+吴秀章		3		全国		https://www.mohrss.gov.cn/SYrlzyhshbzb/zwgk/bld/wxp/	人力资源社会保障部党组成员、副部长		人力资源和社会保障部	https://www.mohrss.gov.cn/SYrlzyhshbzb/zwgk/bld/wxz/	1633
+李忠		4		全国		https://www.mohrss.gov.cn/SYrlzyhshbzb/zwgk/bld/wxp/	人力资源社会保障部党组成员、副部长		人力资源和社会保障部	https://www.mohrss.gov.cn/SYrlzyhshbzb/zwgk/bld/lizhong/	1633
+俞家栋		5		全国		https://www.mohrss.gov.cn/SYrlzyhshbzb/zwgk/bld/wxp/	人力资源社会保障部党组成员、副部长		人力资源和社会保障部	https://www.mohrss.gov.cn/SYrlzyhshbzb/zwgk/bld/yjd_4390/	1633
+颜清辉		6		全国		https://www.mohrss.gov.cn/SYrlzyhshbzb/zwgk/bld/wxp/	人力资源社会保障部党组成员、副部长		人力资源和社会保障部	https://www.mohrss.gov.cn/SYrlzyhshbzb/zwgk/bld/yqh/	1633

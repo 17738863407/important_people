@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡茂松		1		广西壮族自治区	南宁市	https://fgw.nanning.gov.cn/jggk/ldfg/index.html	市发展改革委党组书记、主任		南宁市发展和改革委员会	https://fgw.nanning.gov.cn/jggk/ldfg/t6714986.html	0553
+蒋立新		2		广西壮族自治区	南宁市	https://fgw.nanning.gov.cn/jggk/ldfg/index.html	市国防动员办公室党组书记、主任；市发展改革委副主任、党组成员		南宁市发展和改革委员会	https://fgw.nanning.gov.cn/jggk/ldfg/t5997728.html	0553
+赖承略		3		广西壮族自治区	南宁市	https://fgw.nanning.gov.cn/jggk/ldfg/index.html	市发展改革委副主任、党组成员、一级调研员，市糖业发展局局长		南宁市发展和改革委员会	https://fgw.nanning.gov.cn/jggk/ldfg/t5997721.html	0553
+贺大州		4		广西壮族自治区	南宁市	https://fgw.nanning.gov.cn/jggk/ldfg/index.html	市发展改革委副主任、党组成员、二级调研员，市营商环境建设局局长		南宁市发展和改革委员会	https://fgw.nanning.gov.cn/jggk/ldfg/t5997714.html	0553
+务腾飞		5		广西壮族自治区	南宁市	https://fgw.nanning.gov.cn/jggk/ldfg/index.html	市发展改革委副主任、党组成员		南宁市发展和改革委员会	https://fgw.nanning.gov.cn/jggk/ldfg/t5997700.html	0553
+韩卉		6		广西壮族自治区	南宁市	https://fgw.nanning.gov.cn/jggk/ldfg/index.html	市发展改革委副主任、党组成员		南宁市发展和改革委员会	https://fgw.nanning.gov.cn/jggk/ldfg/t6327765.html	0553
+夏秋峥		7		广西壮族自治区	南宁市	https://fgw.nanning.gov.cn/jggk/ldfg/index.html	市发展改革委副主任、党组成员		南宁市发展和改革委员会	https://fgw.nanning.gov.cn/jggk/ldfg/t6715033.html	0553
+王福建		8		广西壮族自治区	南宁市	https://fgw.nanning.gov.cn/jggk/ldfg/index.html	市发展改革委三级调研员		南宁市发展和改革委员会	https://fgw.nanning.gov.cn/jggk/ldfg/t5997694.html	0553

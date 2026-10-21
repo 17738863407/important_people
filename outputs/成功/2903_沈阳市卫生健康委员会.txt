@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+梁浩		1		辽宁省	沈阳市	https://wjw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组副书记、副主任		沈阳市卫生健康委员会	https://wjw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/jgjj/202604/t20260401_5009641.html	2903
+刘郁		2		辽宁省	沈阳市	https://wjw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副主任		沈阳市卫生健康委员会	https://wjw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/jgjj/202506/t20250610_4862184.html	2903
+刘钊惠		3		辽宁省	沈阳市	https://wjw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、市纪委监委驻市卫生健康委纪检监察组组长		沈阳市卫生健康委员会	https://wjw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/jgjj/202506/t20250610_4862186.html	2903
+吴泽明		4		辽宁省	沈阳市	https://wjw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副主任兼市疾控局局长		沈阳市卫生健康委员会	https://wjw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/jgjj/202506/t20250612_4863155.html	2903
+刘桂媛		5		辽宁省	沈阳市	https://wjw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副主任		沈阳市卫生健康委员会	https://wjw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/jgjj/202506/t20250610_4862203.html	2903
+薛伟兵		6		辽宁省	沈阳市	https://wjw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副主任		沈阳市卫生健康委员会	https://wjw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/jgjj/202601/t20260107_4965742.html	2903

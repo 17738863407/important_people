@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴俊勤		1		湖北省	武汉市	https://zrzyhgh.wuhan.gov.cn/zwgk_18/fdzdgk/ldxx/	党组书记、局长		武汉市自然资源和城乡建设局	https://zrzyhgh.wuhan.gov.cn/zwgk_18/fdzdgk/ldxx/202504/t20250411_2565894.shtml	3404
+冯国强		2		湖北省	武汉市	https://zrzyhgh.wuhan.gov.cn/zwgk_18/fdzdgk/ldxx/	二级巡视员		武汉市自然资源和城乡建设局	https://zrzyhgh.wuhan.gov.cn/zwgk_18/fdzdgk/ldxx/202402/t20240218_2360026.shtml	3404
+祝莹		3		湖北省	武汉市	https://zrzyhgh.wuhan.gov.cn/zwgk_18/fdzdgk/ldxx/	副局长、党组成员		武汉市自然资源和城乡建设局	https://zrzyhgh.wuhan.gov.cn/zwgk_18/fdzdgk/ldxx/202405/t20240523_2406320.shtml	3404
+徐桂娣		4		湖北省	武汉市	https://zrzyhgh.wuhan.gov.cn/zwgk_18/fdzdgk/ldxx/	纪检监察组组长、党组成员		武汉市自然资源和城乡建设局	https://zrzyhgh.wuhan.gov.cn/zwgk_18/fdzdgk/ldxx/202405/t20240521_2405339.shtml	3404
+秦军		5		湖北省	武汉市	https://zrzyhgh.wuhan.gov.cn/zwgk_18/fdzdgk/ldxx/	副局长、党组成员		武汉市自然资源和城乡建设局	https://zrzyhgh.wuhan.gov.cn/zwgk_18/fdzdgk/ldxx/202409/t20240926_2460487.shtml	3404
+程明华		6		湖北省	武汉市	https://zrzyhgh.wuhan.gov.cn/zwgk_18/fdzdgk/ldxx/	副局长、党组成员		武汉市自然资源和城乡建设局	https://zrzyhgh.wuhan.gov.cn/zwgk_18/fdzdgk/ldxx/202507/t20250721_2623079.shtml	3404
+叶青		7		湖北省	武汉市	https://zrzyhgh.wuhan.gov.cn/zwgk_18/fdzdgk/ldxx/	副局长、党组成员		武汉市自然资源和城乡建设局	https://zrzyhgh.wuhan.gov.cn/zwgk_18/fdzdgk/ldxx/202606/t20260604_2773462.shtml	3404

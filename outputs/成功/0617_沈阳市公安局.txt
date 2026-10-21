@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+袁林		1		辽宁省	沈阳市	https://gaj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	辽宁省公安厅党委委员，沈阳市政府党组成员、副市长， 市公安局党委书记、局长、督察长		沈阳市公安局	https://gaj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202208/t20220822_4060028.html	0617
+官兵		2		辽宁省	沈阳市	https://gaj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	局党委副书记、分管日常工作的副局长		沈阳市公安局	https://gaj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202409/t20240906_4728406.html	0617
+吴宝军		3		辽宁省	沈阳市	https://gaj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	市纪委监委驻市公安局纪检监察组组长、局党委委员		沈阳市公安局	https://gaj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202302/t20230228_4398656.html	0617
+宋巍		4		辽宁省	沈阳市	https://gaj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	局党委委员、政治部主任		沈阳市公安局	https://gaj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202512/t20251219_4956713.html	0617
+朴昌龙		5		辽宁省	沈阳市	https://gaj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	局党委委员、副局长		沈阳市公安局	https://gaj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202208/t20220822_4059995.html	0617
+生威		6		辽宁省	沈阳市	https://gaj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	局党委委员、副局长		沈阳市公安局	https://gaj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202604/t20260424_5019496.html	0617
+姜勇		7		辽宁省	沈阳市	https://gaj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	局党委委员、副局长		沈阳市公安局	https://gaj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202208/t20220822_4059545.html	0617
+关学军		8		辽宁省	沈阳市	https://gaj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	局反恐专员		沈阳市公安局	https://gaj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202604/t20260401_5010157.html	0617

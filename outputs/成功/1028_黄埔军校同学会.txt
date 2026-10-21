@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈星莺		1		全国		http://www.huangpu.org.cn/bhjs/	会长		黄埔军校同学会	http://www.huangpu.org.cn/dsjlshldjg/202601/t20260119_12746784.html	1028
+彭永		2		全国		http://www.huangpu.org.cn/bhjs/	副会长		黄埔军校同学会	http://www.huangpu.org.cn/dsjlshldjg/202601/t20260119_12746781.html	1028
+牛青山		3		全国		http://www.huangpu.org.cn/bhjs/	副会长		黄埔军校同学会	http://www.huangpu.org.cn/dsjlshldjg/202601/t20260119_12746779.html	1028
+徐珞		4		全国		http://www.huangpu.org.cn/bhjs/	副会长		黄埔军校同学会	http://www.huangpu.org.cn/dsjlshldjg/202601/t20260119_12746778.html	1028

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨志文		1		江西省	南昌市	https://water.nc.gov.cn/ncswj/gkldxx/bmxxgk_list.shtml	南昌市水利局党组书记、局长、市赣抚尾闾水利枢纽管理中心主任		南昌市水利局	https://water.nc.gov.cn/ncswj/gkldxx/202211/bcef2e22b09445768df0b8aa4497a6d5.shtml	2847
+吴民		2		江西省	南昌市	https://water.nc.gov.cn/ncswj/gkldxx/bmxxgk_list.shtml	南昌市水利局党组成员、副局长		南昌市水利局	https://water.nc.gov.cn/ncswj/gkldxx/202103/5c18ad32af814c44b3d556cb4266392a.shtml	2847
+毛演斌		3		江西省	南昌市	https://water.nc.gov.cn/ncswj/gkldxx/bmxxgk_list.shtml	南昌市水利局党组成员、副局长		南昌市水利局	https://water.nc.gov.cn/ncswj/gkldxx/202608/1083cd32d4704b5e82d136ce2bf7b227.shtml	2847
+董扬		4		江西省	南昌市	https://water.nc.gov.cn/ncswj/gkldxx/bmxxgk_list.shtml	南昌市水利局党组成员、副局长		南昌市水利局	https://water.nc.gov.cn/ncswj/gkldxx/201811/1d2177289ad94e6c8142105358553760.shtml	2847
+冒红星		5		江西省	南昌市	https://water.nc.gov.cn/ncswj/gkldxx/bmxxgk_list.shtml	南昌市水利局党组成员、副局长		南昌市水利局	https://water.nc.gov.cn/ncswj/gkldxx/201811/50f11dc033564fce8e299e3e01f946fa.shtml	2847
+吴海勤		6		江西省	南昌市	https://water.nc.gov.cn/ncswj/gkldxx/bmxxgk_list.shtml	南昌市水利局党组成员		南昌市水利局	https://water.nc.gov.cn/ncswj/gkldxx/201811/12ea94a2fc4345c4ae9041ab90a11b37.shtml	2847
+涂传建		7		江西省	南昌市	https://water.nc.gov.cn/ncswj/gkldxx/bmxxgk_list.shtml	南昌市水利局二级调研员		南昌市水利局	https://water.nc.gov.cn/ncswj/gkldxx/201811/974517a543a54b61831dad3a1c1ce2e5.shtml	2847
+罗柏林		8		江西省	南昌市	https://water.nc.gov.cn/ncswj/gkldxx/bmxxgk_list.shtml	南昌市水利局三级调研员		南昌市水利局	https://water.nc.gov.cn/ncswj/gkldxx/201811/b15e5d9a4bba49a6a7fa611cae8fdc22.shtml	2847
+邹幸		9		江西省	南昌市	https://water.nc.gov.cn/ncswj/gkldxx/bmxxgk_list.shtml	南昌市水利局四级调研员		南昌市水利局	https://water.nc.gov.cn/ncswj/gkldxx/201811/9fe82b7355d14ce8a27122584da56590.shtml	2847

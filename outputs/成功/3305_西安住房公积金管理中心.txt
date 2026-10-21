@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王琦		1		陕西省	西安市	https://zfgjj.xa.gov.cn/xxgk/zzjg/ldbz/1.html	党委书记、主任		西安住房公积金管理中心		3305
+强海滨		2		陕西省	西安市	https://zfgjj.xa.gov.cn/xxgk/zzjg/ldbz/1.html	党委副书记		西安住房公积金管理中心		3305
+郑伟		3		陕西省	西安市	https://zfgjj.xa.gov.cn/xxgk/zzjg/ldbz/1.html	党委委员		西安住房公积金管理中心		3305
+郭建文		4		陕西省	西安市	https://zfgjj.xa.gov.cn/xxgk/zzjg/ldbz/1.html	党委委员、副主任		西安住房公积金管理中心		3305
+禄茵		5		陕西省	西安市	https://zfgjj.xa.gov.cn/xxgk/zzjg/ldbz/1.html	党委委员、总会计师		西安住房公积金管理中心		3305
+马涛		6		陕西省	西安市	https://zfgjj.xa.gov.cn/xxgk/zzjg/ldbz/1.html	二级巡视员		西安住房公积金管理中心		3305

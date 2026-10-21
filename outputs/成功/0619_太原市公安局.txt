@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+史红波		1		山西省	太原市	https://gaj.taiyuan.gov.cn/site/page/zwgk_list.html?id=4003100102&sid=0	省公安厅党委委员、副厅长、市政府党组成员、副市长、市公安局党委书记、局长		太原市公安局		0619
+叶雄		2		山西省	太原市	https://gaj.taiyuan.gov.cn/site/page/zwgk_list.html?id=4003100102&sid=0	市公安局党委副书记、主持日常工作的副局长		太原市公安局		0619
+薛晓峰		3		山西省	太原市	https://gaj.taiyuan.gov.cn/site/page/zwgk_list.html?id=4003100102&sid=0	市公安局党委委员、副局长		太原市公安局		0619
+马子龙		4		山西省	太原市	https://gaj.taiyuan.gov.cn/site/page/zwgk_list.html?id=4003100102&sid=0	市公安局党委委员		太原市公安局		0619
+邸永欣		5		山西省	太原市	https://gaj.taiyuan.gov.cn/site/page/zwgk_list.html?id=4003100102&sid=0	市公安局党委委员、市纪委监委驻市公安局纪检监察组组长		太原市公安局		0619
+续卫东		6		山西省	太原市	https://gaj.taiyuan.gov.cn/site/page/zwgk_list.html?id=4003100102&sid=0	市公安局党委委员、副局长		太原市公安局		0619
+宋文广		7		山西省	太原市	https://gaj.taiyuan.gov.cn/site/page/zwgk_list.html?id=4003100102&sid=0	市公安局党委委员、副局长		太原市公安局		0619
+王素丽		8		山西省	太原市	https://gaj.taiyuan.gov.cn/site/page/zwgk_list.html?id=4003100102&sid=0	市公安局党委委员、政治部主任		太原市公安局		0619
+曹挺		9		山西省	太原市	https://gaj.taiyuan.gov.cn/site/page/zwgk_list.html?id=4003100102&sid=0	市公安局副局长		太原市公安局		0619
+王晋涛		10		山西省	太原市	https://gaj.taiyuan.gov.cn/site/page/zwgk_list.html?id=4003100102&sid=0	市公安局副局长		太原市公安局		0619
+魏鲁培		11		山西省	太原市	https://gaj.taiyuan.gov.cn/site/page/zwgk_list.html?id=4003100102&sid=0	市公安局副局长		太原市公安局		0619
+周立志		12		山西省	太原市	https://gaj.taiyuan.gov.cn/site/page/zwgk_list.html?id=4003100102&sid=0	市公安局副局长		太原市公安局		0619

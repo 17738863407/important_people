@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+宋旭升		1		贵州省	遵义市	https://www.zunyi.gov.cn/zwgk/zfxxgkzl/fdzdgknr/jgjj/	市委副书记、市长		遵义市人民政府	https://www.zunyi.gov.cn/zwgk/ldzc_5978702/202603/t20260331_89935510.html	3922
+李明		2		贵州省	遵义市	https://www.zunyi.gov.cn/zwgk/zfxxgkzl/fdzdgknr/jgjj/	副市长		遵义市人民政府	https://www.zunyi.gov.cn/zwgk/ldzc_5978702/202606/t20260625_90556189.html	3922
+许文辉		3		贵州省	遵义市	https://www.zunyi.gov.cn/zwgk/zfxxgkzl/fdzdgknr/jgjj/	副市长		遵义市人民政府	https://www.zunyi.gov.cn/zwgk/ldzc_5978702/202606/t20260624_90552728.html	3922
+王春元		4		贵州省	遵义市	https://www.zunyi.gov.cn/zwgk/zfxxgkzl/fdzdgknr/jgjj/	副市长		遵义市人民政府	https://www.zunyi.gov.cn/zwgk/ldzc_5978702/202609/t20260918_90897025.html	3922
+程涛		5		贵州省	遵义市	https://www.zunyi.gov.cn/zwgk/zfxxgkzl/fdzdgknr/jgjj/	副市长		遵义市人民政府	https://www.zunyi.gov.cn/zwgk/ldzc_5978702/202503/t20250321_87234568.html	3922
+骆亚		6		贵州省	遵义市	https://www.zunyi.gov.cn/zwgk/zfxxgkzl/fdzdgknr/jgjj/	副市长		遵义市人民政府	https://www.zunyi.gov.cn/zwgk/ldzc_5978702/202603/t20260311_89648870.html	3922
+陈致豫		7		贵州省	遵义市	https://www.zunyi.gov.cn/zwgk/zfxxgkzl/fdzdgknr/jgjj/	副市长		遵义市人民政府	https://www.zunyi.gov.cn/zwgk/ldzc_5978702/202606/t20260624_90551394.html	3922
+冉崇庆		8		贵州省	遵义市	https://www.zunyi.gov.cn/zwgk/zfxxgkzl/fdzdgknr/jgjj/	副市长		遵义市人民政府	https://www.zunyi.gov.cn/zwgk/ldzc_5978702/202607/t20260721_90646898.html	3922
+王埝		9		贵州省	遵义市	https://www.zunyi.gov.cn/zwgk/zfxxgkzl/fdzdgknr/jgjj/	副市长		遵义市人民政府	https://www.zunyi.gov.cn/zwgk/ldzc_5978702/202607/t20260721_90646242.html	3922
+宋祖禹		10		贵州省	遵义市	https://www.zunyi.gov.cn/zwgk/zfxxgkzl/fdzdgknr/jgjj/	秘书长		遵义市人民政府	https://www.zunyi.gov.cn/zwgk/ldzc_5978702/202503/t20250321_87230950.html	3922

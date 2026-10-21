@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+毛宁		1		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/xws_674681/	司长		外交部新闻司		1581
+林剑		2		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/xws_674681/	副司长		外交部新闻司		1581
+郭嘉昆		3		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/xws_674681/	副司长		外交部新闻司		1581
+钱进		4		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/xws_674681/	副司长		外交部新闻司		1581
+陈亚欧		5		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/xws_674681/	副司长		外交部新闻司		1581
+刘鹏宇		6		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/xws_674681/	副司长		外交部新闻司		1581

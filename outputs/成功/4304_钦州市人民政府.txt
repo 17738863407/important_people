@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李玉成		1		广西壮族自治区	钦州市	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/	市委副书记 市人民政府市长、党组书记		钦州市人民政府	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/szfld/sz/t19932077.shtml	4304
+周仕志		2		广西壮族自治区	钦州市	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/	市委常委 市人民政府副市长、党组副书记		钦州市人民政府	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/szfld/fsz/t26099509.shtml	4304
+杨永冲		3		广西壮族自治区	钦州市	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/	市委常委 市人民政府党组成员		钦州市人民政府	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/szfld/fsz/t28073998.shtml	4304
+陈敬恩		4		广西壮族自治区	钦州市	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/	市人民政府副市长、党组成员		钦州市人民政府	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/szfld/fsz/t19201629.shtml	4304
+刘畅		5		广西壮族自治区	钦州市	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/	市人民政府副市长、党组成员		钦州市人民政府	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/szfld/fsz/t28073993.shtml	4304
+高巍		6		广西壮族自治区	钦州市	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/	市人民政府副市长、党组成员		钦州市人民政府	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/szfld/fsz/t26094700.shtml	4304
+赵闯		7		广西壮族自治区	钦州市	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/	市人民政府副市长、党组成员		钦州市人民政府	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/szfld/fsz/t27827369.shtml	4304
+李珊玫		8		广西壮族自治区	钦州市	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/	市人民政府副市长		钦州市人民政府	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/szfld/fsz/t28073999.shtml	4304
+黄海波		9		广西壮族自治区	钦州市	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/	市人民政府党组成员		钦州市人民政府	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/szfld/fsz/t28075619.shtml	4304
+黄杰辉		10		广西壮族自治区	钦州市	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/	市人民政府秘书长、党组成员 办公室党组书记、主任		钦州市人民政府	http://www.qinzhou.gov.cn/zfxxgk/fdzdgknr_6/jgzn/ldxx/szfld/szfmsz/t28073995.shtml	4304

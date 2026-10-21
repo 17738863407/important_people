@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+程丽华		1		全国		http://district.ce.cn/zt/rwk/sf/cq/zx/201302/26/t20130226_771034.shtml	主席		重庆市政协	http://district.ce.cn/newarea/sddy/202401/23/t20240123_38877694.shtml	0450
+陈贵云		2		全国		http://district.ce.cn/zt/rwk/sf/cq/zx/201302/26/t20130226_771034.shtml	副主席		重庆市政协	http://district.ce.cn/newarea/sddy/201801/29/t20180129_27957831_2.shtml	0450
+谭家玲		3		全国		http://district.ce.cn/zt/rwk/sf/cq/zx/201302/26/t20130226_771034.shtml	副主席		重庆市政协	http://district.ce.cn/newarea/sddy/201801/29/t20180129_27957831_4.shtml	0450
+周勇		4		全国		http://district.ce.cn/zt/rwk/sf/cq/zx/201302/26/t20130226_771034.shtml	副主席		重庆市政协	http://district.ce.cn/newarea/sddy/202101/25/t20210125_36255434.shtml	0450
+但彦铮		5		全国		http://district.ce.cn/zt/rwk/sf/cq/zx/201302/26/t20130226_771034.shtml	副主席		重庆市政协	http://district.ce.cn/newarea/sddy/202601/t20260131_2742895.shtml	0450
+丁时勇		6		全国		http://district.ce.cn/zt/rwk/sf/cq/zx/201302/26/t20130226_771034.shtml	副主席		重庆市政协	http://district.ce.cn/newarea/sddy/202301/15/t20230115_38348091.shtml	0450
+杜惠平		7		全国		http://district.ce.cn/zt/rwk/sf/cq/zx/201302/26/t20130226_771034.shtml	副主席		重庆市政协	http://district.ce.cn/newarea/sddy/202301/15/t20230115_38348091.shtml	0450
+王昱		8		全国		http://district.ce.cn/zt/rwk/sf/cq/zx/201302/26/t20130226_771034.shtml	副主席		重庆市政协	http://district.ce.cn/newarea/sddy/202301/15/t20230115_38348091.shtml	0450
+罗清泉		9		全国		http://district.ce.cn/zt/rwk/sf/cq/zx/201302/26/t20130226_771034.shtml	副主席		重庆市政协	http://district.ce.cn/newarea/sddy/202601/t20260131_2742895.shtml	0450
+谢礼国		10		全国		http://district.ce.cn/zt/rwk/sf/cq/zx/201302/26/t20130226_771034.shtml	秘书长		重庆市政协		0450

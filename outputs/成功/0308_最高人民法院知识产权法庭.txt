@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郃中林		1		全国		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/381.html	分党组副书记、副庭长		最高人民法院知识产权法庭		0308
+朱理		2		全国		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/381.html	分党组成员、副庭长		最高人民法院知识产权法庭		0308
+陈龙业		3		全国		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/381.html	分党组成员、副庭长		最高人民法院知识产权法庭		0308
+罗霞		4		全国		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/381.html	分党组成员、副庭长		最高人民法院知识产权法庭		0308
+殷进亮		5		全国		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/381.html	分党组成员、专职党务干部		最高人民法院知识产权法庭		0308

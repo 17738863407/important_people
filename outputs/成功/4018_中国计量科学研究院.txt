@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李文涛		1		全国		https://www.nim.ac.cn/taxonomy/term/85	院长、党委书记		中国计量科学研究院		4018
+屈继峰		2		全国		https://www.nim.ac.cn/taxonomy/term/85	副院长、党委委员		中国计量科学研究院		4018
+房芳		3		全国		https://www.nim.ac.cn/taxonomy/term/85	副院长、党委委员		中国计量科学研究院		4018
+吴金杰		4		全国		https://www.nim.ac.cn/taxonomy/term/85	副院长、党委委员		中国计量科学研究院		4018
+罗占		5		全国		https://www.nim.ac.cn/taxonomy/term/85	党委副书记兼纪委书记		中国计量科学研究院		4018
+杨智君		6		全国		https://www.nim.ac.cn/taxonomy/term/85	副院长		中国计量科学研究院		4018

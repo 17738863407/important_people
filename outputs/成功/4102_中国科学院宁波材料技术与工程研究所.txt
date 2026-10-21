@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王立平		1		浙江省	宁波市	https://nimte.cas.cn/about/leaders/	所长		中国科学院宁波材料技术与工程研究所		4102
+张家元		2		浙江省	宁波市	https://nimte.cas.cn/about/leaders/	党委书记、副所长		中国科学院宁波材料技术与工程研究所		4102
+陈亮		3		浙江省	宁波市	https://nimte.cas.cn/about/leaders/	副所长		中国科学院宁波材料技术与工程研究所		4102
+杨振华		4		浙江省	宁波市	https://nimte.cas.cn/about/leaders/	纪委书记		中国科学院宁波材料技术与工程研究所		4102
+张驰		5		浙江省	宁波市	https://nimte.cas.cn/about/leaders/	副所长		中国科学院宁波材料技术与工程研究所		4102
+闻霞		6		浙江省	宁波市	https://nimte.cas.cn/about/leaders/	副所长		中国科学院宁波材料技术与工程研究所		4102

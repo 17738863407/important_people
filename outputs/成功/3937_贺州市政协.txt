@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蓝树东		1		广西壮族自治区	贺州市	http://www.gxhzzx.gov.cn/Category_273/Index.aspx	市政协党组书记、主席		贺州市政协	http://www.gxhzzx.gov.cn/Item/15663.aspx	3937
+郭业山		2		广西壮族自治区	贺州市	http://www.gxhzzx.gov.cn/Category_273/Index.aspx	市政协党组副书记、副主席		贺州市政协	http://www.gxhzzx.gov.cn/Item/15657.aspx	3937
+何贞树		3		广西壮族自治区	贺州市	http://www.gxhzzx.gov.cn/Category_273/Index.aspx	市政协副主席，民盟贺州市委主任委员（兼）		贺州市政协	http://www.gxhzzx.gov.cn/Item/15658.aspx	3937
+罗扬生		4		广西壮族自治区	贺州市	http://www.gxhzzx.gov.cn/Category_273/Index.aspx	市政协副主席，民建贺州市委主任委员（兼）		贺州市政协	http://www.gxhzzx.gov.cn/Item/15656.aspx	3937
+覃汝胜		5		广西壮族自治区	贺州市	http://www.gxhzzx.gov.cn/Category_273/Index.aspx	市政协副主席、贺州市社会主义学院院长（兼）		贺州市政协	http://www.gxhzzx.gov.cn/Item/15655.aspx	3937
+黄清明		6		广西壮族自治区	贺州市	http://www.gxhzzx.gov.cn/Category_273/Index.aspx	市政协副主席		贺州市政协	http://www.gxhzzx.gov.cn/Item/15661.aspx	3937
+邹雪群		7		广西壮族自治区	贺州市	http://www.gxhzzx.gov.cn/Category_273/Index.aspx	市政协副主席、党组成员		贺州市政协	http://www.gxhzzx.gov.cn/Item/15662.aspx	3937
+黄卫东		8		广西壮族自治区	贺州市	http://www.gxhzzx.gov.cn/Category_273/Index.aspx	市政协副主席、党组成员		贺州市政协	http://www.gxhzzx.gov.cn/Item/17164.aspx	3937
+刘宁		9		广西壮族自治区	贺州市	http://www.gxhzzx.gov.cn/Category_273/Index.aspx	市政协副主席、党组成员		贺州市政协	http://www.gxhzzx.gov.cn/Item/15079.aspx	3937
+刘飞国		10		广西壮族自治区	贺州市	http://www.gxhzzx.gov.cn/Category_273/Index.aspx	市政协秘书长、党组成员、办公室主任、一级调研员		贺州市政协	http://www.gxhzzx.gov.cn/Item/15654.aspx	3937

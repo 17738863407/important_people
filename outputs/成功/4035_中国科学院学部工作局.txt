@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王雪松		1		全国		https://casad.cas.cn/xbgzj2022/ldbz/	局长		中国科学院学部工作局		4035
+薛淮		2		全国		https://casad.cas.cn/xbgzj2022/ldbz/	副局长		中国科学院学部工作局		4035
+甘泉		3		全国		https://casad.cas.cn/xbgzj2022/ldbz/	副局长		中国科学院学部工作局		4035

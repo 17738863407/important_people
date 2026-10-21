@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张强		1		甘肃省	陇南市	https://www.longnan.gov.cn/ldzczy/index.html	市委副书记、市长		陇南市人民政府	https://www.longnan.gov.cn/content/column/4450232?liId=72374326&leaderTypeId=4456424&type=1	3858
+马国开		2		甘肃省	陇南市	https://www.longnan.gov.cn/ldzczy/index.html	市委常委、常务副市长		陇南市人民政府	https://www.longnan.gov.cn/content/column/4450232?liId=72374350&leaderTypeId=4456424&type=1	3858
+闫和浩		3		甘肃省	陇南市	https://www.longnan.gov.cn/ldzczy/index.html	市委常委、副市长		陇南市人民政府	https://www.longnan.gov.cn/content/column/4450232?liId=72374344&leaderTypeId=4456424&type=1	3858
+汪精海		4		甘肃省	陇南市	https://www.longnan.gov.cn/ldzczy/index.html	副市长		陇南市人民政府	https://www.longnan.gov.cn/content/column/4450232?liId=72374310&leaderTypeId=4456424&type=1	3858
+张波		5		甘肃省	陇南市	https://www.longnan.gov.cn/ldzczy/index.html	副市长		陇南市人民政府	https://www.longnan.gov.cn/content/column/4450232?liId=72374313&leaderTypeId=4456424&type=1	3858
+周济		6		甘肃省	陇南市	https://www.longnan.gov.cn/ldzczy/index.html	副市长		陇南市人民政府	https://www.longnan.gov.cn/content/column/4450232?liId=72374323&leaderTypeId=4456424&type=1	3858
+王英菊		7		甘肃省	陇南市	https://www.longnan.gov.cn/ldzczy/index.html	副市长		陇南市人民政府	https://www.longnan.gov.cn/content/column/4450232?liId=72374338&leaderTypeId=4456424&type=1	3858
+刘东晓		8		甘肃省	陇南市	https://www.longnan.gov.cn/ldzczy/index.html	副市长		陇南市人民政府	https://www.longnan.gov.cn/content/column/4450232?liId=72374341&leaderTypeId=4456424&type=1	3858
+周定堂		9		甘肃省	陇南市	https://www.longnan.gov.cn/ldzczy/index.html	秘书长		陇南市人民政府	https://www.longnan.gov.cn/content/column/4450232?liId=72374332&leaderTypeId=4456424&type=1	3858

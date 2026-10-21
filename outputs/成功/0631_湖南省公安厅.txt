@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王一鸥		1		湖南省		http://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/ldxx/index.html	湖南省人民政府党组成员、副省长，省公安厅党委书记、厅长		湖南省公安厅	http://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/ldxx/202102/t20210219_14514080.html	0631
+周赛保		2		湖南省		http://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/ldxx/index.html	省公安厅党委副书记、常务副厅长		湖南省公安厅	http://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/ldxx/202102/t20210219_14514076.html	0631
+李拥军		3		湖南省		http://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/ldxx/index.html	省公安厅党委委员，特勤局党委书记、局长		湖南省公安厅	http://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/ldxx/202103/t20210305_14746487.html	0631
+胡志文		4		湖南省		http://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/ldxx/index.html	省公安厅党委委员、副厅长		湖南省公安厅	http://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/ldxx/202304/t20230411_29311482.html	0631
+车丽华		5		湖南省		http://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/ldxx/index.html	省公安厅党委委员、副厅长		湖南省公安厅	http://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/ldxx/202401/t20240106_32620192.html	0631
+黄江民		6		湖南省		http://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/ldxx/index.html	省公安厅党委委员、副厅长		湖南省公安厅	http://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/ldxx/202509/t20250903_33794246.html	0631
+龙铁军		7		湖南省		http://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/ldxx/index.html	省公安厅党委委员、政治部主任		湖南省公安厅	http://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/ldxx/202509/t20250903_33794238.html	0631
+周燕飞		8		湖南省		http://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/ldxx/index.html	省公安厅党委委员、副厅长		湖南省公安厅	http://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/ldxx/202610/t20261010_34078734.html	0631
+刘涛		9		湖南省		http://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/ldxx/index.html	省公安厅党委委员，省纪委省监委驻省公安厅纪检监察组组长、二级高级监察官		湖南省公安厅	http://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/ldxx/202610/t20261010_34078888.html	0631

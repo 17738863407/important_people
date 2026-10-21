@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡文容		1		全国		https://www.shszx.gov.cn/zxld/zxld.html	市政协党组成员：党组书记；市政协主席会议成员：主席		上海市政协	https://www.shszx.gov.cn/shzx/szxzxhycy/content/73de7071-6723-42be-b38a-7c2192f0efb1.html	2412
+陈通		2		全国		https://www.shszx.gov.cn/zxld/zxld.html	市政协党组成员：党组副书记		上海市政协	https://www.shszx.gov.cn/shzx/szxzxhycy/content/08a8b22d-01c6-4563-94d1-9820b37ae9c3.html	2412
+肖贵玉		3		全国		https://www.shszx.gov.cn/zxld/zxld.html	市政协党组成员：党组副书记；市政协主席会议成员：副主席		上海市政协	https://www.shszx.gov.cn/shzx/szxzxhycy/content/d2f8d83f-eebf-4539-82f4-60cd4aaab844.html	2412
+虞丽娟		4		全国		https://www.shszx.gov.cn/zxld/zxld.html	市政协党组成员：党组成员；市政协主席会议成员：副主席		上海市政协	https://www.shszx.gov.cn/shzx/szxzxhycy/content/b2dbb4a8-eaa4-4006-b200-0e52f3619c4d.html	2412
+吴信宝		5		全国		https://www.shszx.gov.cn/zxld/zxld.html	市政协党组成员：党组成员；市政协主席会议成员：副主席		上海市政协	https://www.shszx.gov.cn/shzx/szxzxhycy/content/91618cad-8a0e-4684-af1b-9e39f60fbdc8.html	2412
+王为人		6		全国		https://www.shszx.gov.cn/zxld/zxld.html	市政协党组成员：党组成员；市政协主席会议成员：副主席		上海市政协	https://www.shszx.gov.cn/shzx/szxzxhycy/content/2afb8eba-67d2-4cee-b2b6-e2e6e43327e2.html	2412
+周亚		7		全国		https://www.shszx.gov.cn/zxld/zxld.html	市政协党组成员：党组成员；市政协主席会议成员：秘书长		上海市政协	https://www.shszx.gov.cn/shzx/szxzxhycy/content/3e9261f0-1b97-41e5-9e05-ec0d1d5c1383.html	2412
+黄震		8		全国		https://www.shszx.gov.cn/zxld/zxld.html	市政协主席会议成员：副主席		上海市政协	https://www.shszx.gov.cn/shzx/szxdzcy/content/9b368ed4-9784-427c-b44b-b41b6050547a.html	2412
+寿子琪		9		全国		https://www.shszx.gov.cn/zxld/zxld.html	市政协主席会议成员：副主席		上海市政协	https://www.shszx.gov.cn/shzx/szxdzcy/content/37be7752-8590-437f-bcc9-9a95c006d2c8.html	2412
+钱锋		10		全国		https://www.shszx.gov.cn/zxld/zxld.html	市政协主席会议成员：副主席		上海市政协	https://www.shszx.gov.cn/shzx/szxdzcy/content/29c2cc7e-95e3-42ae-ac03-25e2b0bce2ff.html	2412

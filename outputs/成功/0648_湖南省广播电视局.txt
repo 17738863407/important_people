@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡代松		1		湖南省		http://gbdsj.hunan.gov.cn/gbdsj/xxgk/jgzn/jgld/newldlist.html	湖南省委宣传部副部长（兼），省广播电视局党组书记		湖南省广播电视局	http://gbdsj.hunan.gov.cn/gbdsj/xxgk/jgzn/jgld/202609/t20260929_34074042.html	0648
+刘永珍		2		湖南省		http://gbdsj.hunan.gov.cn/gbdsj/xxgk/jgzn/jgld/newldlist.html	湖南省广播电视局党组成员、副局长		湖南省广播电视局	http://gbdsj.hunan.gov.cn/gbdsj/xxgk/jgzn/jgld/202402/t20240201_32640882.html	0648
+吴文海		3		湖南省		http://gbdsj.hunan.gov.cn/gbdsj/xxgk/jgzn/jgld/newldlist.html	湖南省广播电视局党组成员、副局长		湖南省广播电视局	http://gbdsj.hunan.gov.cn/gbdsj/xxgk/jgzn/jgld/202609/t20260929_34074053.html	0648
+肖荣		4		湖南省		http://gbdsj.hunan.gov.cn/gbdsj/xxgk/jgzn/jgld/newldlist.html	湖南省广播电视局党组成员、副局长		湖南省广播电视局	http://gbdsj.hunan.gov.cn/gbdsj/xxgk/jgzn/jgld/201811/t20181101_4217444.html	0648
+谢忠阳		5		湖南省		http://gbdsj.hunan.gov.cn/gbdsj/xxgk/jgzn/jgld/newldlist.html	湖南省广播电视局党组成员、副局长		湖南省广播电视局	http://gbdsj.hunan.gov.cn/gbdsj/xxgk/jgzn/jgld/202511/t20251103_33840919.html	0648

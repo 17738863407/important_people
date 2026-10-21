@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蔡萍		1		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201908/t20190802_845497.htm	司长		文化和旅游部政策法规司		1523
+阎平		2		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201908/t20190802_845497.htm	一级巡视员		文化和旅游部政策法规司		1523
+陈思宇		3		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201908/t20190802_845497.htm	副司长		文化和旅游部政策法规司		1523
+孙家宝		4		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201908/t20190802_845497.htm	副司长		文化和旅游部政策法规司		1523

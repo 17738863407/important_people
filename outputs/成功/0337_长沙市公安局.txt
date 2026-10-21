@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+余良勇		1		湖南省	长沙市	http://csga.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	长沙市人民政府党组成员、副市长、一级巡视员，长沙市公安局党委书记、局长、督察长		长沙市公安局	http://csga.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202512/t20251217_12128201.html	0337
+彭迟平		2		湖南省	长沙市	http://csga.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	长沙市公安局党委副书记、分管日常工作的副局长		长沙市公安局	http://csga.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202201/t20220105_10427819.html	0337
+唐明		3		湖南省	长沙市	http://csga.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	长沙市公安局党委委员、副局长，政治部主任		长沙市公安局	http://csga.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202201/t20220107_10430855.html	0337
+刘兵辉		4		湖南省	长沙市	http://csga.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	长沙市纪委监委驻局纪检监察组组长、市公安局党委委员、第一副督察长		长沙市公安局	http://csga.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202307/t20230712_11162872.html	0337
+李军龙		5		湖南省	长沙市	http://csga.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	长沙市公安局党委委员、副局长		长沙市公安局	http://csga.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202404/t20240418_11422228.html	0337
+刘海平		6		湖南省	长沙市	http://csga.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	长沙市公安局党委委员、副局长		长沙市公安局	http://csga.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202505/t20250513_11848079.html	0337
+刘广		7		湖南省	长沙市	http://csga.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	长沙市公安局党委委员、副局长		长沙市公安局	http://csga.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202607/t20260721_12498128.html	0337

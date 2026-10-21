@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张首刚		1		全国		https://ntsc.cas.cn/dwgk/xrld/	西安分院院长,国家授时中心主任		中国科学院国家授时中心	http://ntsc.cas.cn/sourcedb/cn/ldk/200906/t20090615_5756203.html	4134
+窦忠		2		全国		https://ntsc.cas.cn/dwgk/xrld/	国家授时中心党委书记、副主任		中国科学院国家授时中心	http://ntsc.cas.cn/sourcedb/cn/ldk/200910/t20091019_5756204.html	4134
+陈改学		3		全国		https://ntsc.cas.cn/dwgk/xrld/	国家授时中心党委副书记、纪委书记		中国科学院国家授时中心	http://ntsc.cas.cn/sourcedb/cn/ldk/202402/t20240206_6962515.html	4134
+卢晓春		4		全国		https://ntsc.cas.cn/dwgk/xrld/	国家授时中心副主任		中国科学院国家授时中心	http://ntsc.cas.cn/sourcedb/cn/ldk/200906/t20090615_5756202.html	4134
+李孝辉		5		全国		https://ntsc.cas.cn/dwgk/xrld/	国家授时中心副主任		中国科学院国家授时中心	http://ntsc.cas.cn/sourcedb/cn/ldk/200906/t20090615_5756207.html	4134

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱大勇		1		新疆维吾尔自治区		http://gxt.xinjiang.gov.cn/gxt/jjgzn/list_ld.shtml	党组书记、副厅长		新疆维吾尔自治区工业和信息化厅	http://gxt.xinjiang.gov.cn/gxt/jtld/202306/477d08dcc45b4e6b998768e8984e77a5.shtml	0795
+阿不力克木·艾则孜		2		新疆维吾尔自治区		http://gxt.xinjiang.gov.cn/gxt/jjgzn/list_ld.shtml	党组副书记、厅长		新疆维吾尔自治区工业和信息化厅	http://gxt.xinjiang.gov.cn/gxt/jtld/202002/6c40b0f54601469ebfd40592cffd984d.shtml	0795
+郇恒赛		3		新疆维吾尔自治区		http://gxt.xinjiang.gov.cn/gxt/jjgzn/list_ld.shtml	党组成员、副厅长		新疆维吾尔自治区工业和信息化厅	http://gxt.xinjiang.gov.cn/gxt/jtld/202002/6f089dff53474e15b35a758a4bcf809a.shtml	0795
+王江彬		4		新疆维吾尔自治区		http://gxt.xinjiang.gov.cn/gxt/jjgzn/list_ld.shtml	党组成员、副厅长、一级巡视员		新疆维吾尔自治区工业和信息化厅	http://gxt.xinjiang.gov.cn/gxt/jtld/202510/c5bcfa93cdb44fc5a815b406a5e86232.shtml	0795
+曾卫明		5		新疆维吾尔自治区		http://gxt.xinjiang.gov.cn/gxt/jjgzn/list_ld.shtml	党组成员、副厅长（援疆）		新疆维吾尔自治区工业和信息化厅	http://gxt.xinjiang.gov.cn/gxt/jtld/202608/a77e4231e95b4f0e961c996abd79ad74.shtml	0795
+杨其滨		6		新疆维吾尔自治区		http://gxt.xinjiang.gov.cn/gxt/jjgzn/list_ld.shtml	驻厅纪检监察组组长、二级高级监察官，党组成员		新疆维吾尔自治区工业和信息化厅	http://gxt.xinjiang.gov.cn/gxt/jtld/202410/8283172ecd4445bca5dca1d6673628a8.shtml	0795
+崔涛		7		新疆维吾尔自治区		http://gxt.xinjiang.gov.cn/gxt/jjgzn/list_ld.shtml	党组成员、副厅长		新疆维吾尔自治区工业和信息化厅	http://gxt.xinjiang.gov.cn/gxt/jtld/202502/b9e5c93a81d74c43a05da0442b4ec2aa.shtml	0795
+石如根		8		新疆维吾尔自治区		http://gxt.xinjiang.gov.cn/gxt/jjgzn/list_ld.shtml	党组成员、副厅长		新疆维吾尔自治区工业和信息化厅	http://gxt.xinjiang.gov.cn/gxt/jtld/202406/7db326b500e04b8d901000e30e90153c.shtml	0795

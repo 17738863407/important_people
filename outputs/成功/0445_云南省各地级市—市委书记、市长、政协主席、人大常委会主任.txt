@@ -1,0 +1,64 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘洪建		1		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	昆明市委书记		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202112/01/t20211201_37131957.shtml	0445
+刘申寿		2		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	昆明市人大常委会主任		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202509/t20250922_2483287.shtml	0445
+杨承新		3		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	昆明市长		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202509/t20250922_2483277.shtml	0445
+李康平		4		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	昆明市政协主席		云南省各地级市—市委书记、市长、政协主席、人大常委会主任		0445
+杨斌		5		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	曲靖市委书记		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202312/23/t20231223_38840447.shtml	0445
+杨经德		6		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	曲靖市人大常委会主任		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202410/20/t20241020_39174347.shtml	0445
+毛晓		7		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	曲靖市长		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202610/t20261012_3254608.shtml	0445
+柴万宏		8		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	曲靖市政协主席		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202603/t20260303_2801017.shtml	0445
+杨政昆		9		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	玉溪市委书记		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202510/t20251013_2514046.shtml	0445
+聂涛		10		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	玉溪市人大常委会主任		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202202/24/t20220224_37354227.shtml	0445
+胡江辉		11		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	玉溪市长		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202502/06/t20250206_39284028.shtml	0445
+李劲松		12		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	玉溪市政协主席		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202202/24/t20220224_37354226.shtml	0445
+杨军		13		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	保山市委书记		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202104/10/t20210410_36459197.shtml	0445
+张杰		14		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	保山市人大常委会主任		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202609/t20260902_3188642.shtml	0445
+左广		15		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	保山市长		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202501/11/t20250111_39263358.shtml	0445
+赵冬梅		16		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	保山市政协主席		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202509/t20250903_2463708.shtml	0445
+苏建宏		17		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	昭通市委书记		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202608/t20260820_3158831.shtml	0445
+王斌		18		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	昭通市人大常委会主任		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202202/21/t20220221_37344165.shtml	0445
+冯皓		19		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	昭通市长		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202510/t20251031_2551037.shtml	0445
+马洪旗		20		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	昭通市政协主席		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202609/t20260911_3208209.shtml	0445
+浦虹		21		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	丽江市委书记		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202106/06/t20210606_36621020_1.shtml	0445
+杨大赟		22		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	丽江市人大常委会主任		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202502/12/t20250212_39289884.shtml	0445
+聂金辉		23		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	丽江市长		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202602/t20260211_2769054.shtml	0445
+崔家周		24		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	丽江市政协主席		云南省各地级市—市委书记、市长、政协主席、人大常委会主任		0445
+李庆元		25		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	普洱市委书记		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202106/03/t20210603_36615715.shtml	0445
+王鸿彬		26		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	普洱市人大常委会主任		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202202/23/t20220223_37351020.shtml	0445
+王刚		27		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	普洱市长		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202202/23/t20220223_37351025.shtml	0445
+张光彦		28		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	普洱市政协主席		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202602/t20260214_2776480.shtml	0445
+杜建辉		29		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	临沧市委书记		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202403/15/t20240315_38936194.shtml	0445
+汤培远		30		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	临沧市人大常委会主任		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202005/20/t20200520_34944062.shtml	0445
+徐贤		31		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	临沧市长		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202502/15/t20250215_39292425.shtml	0445
+李银峰		32		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	临沧市政协主席		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/201802/07/t20180207_28100320.shtml	0445
+赵国良		33		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	文山州委书记		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202412/25/t20241225_39247001.shtml	0445
+王毅		34		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	文山州人大常委会主任		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202202/13/t20220213_37325723.shtml	0445
+马忠俊		35		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	文山州长		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202107/13/t20210713_36714826.shtml	0445
+玉荣		36		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	文山州政协主席		云南省各地级市—市委书记、市长、政协主席、人大常委会主任		0445
+谢健		37		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	红河州委书记		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202608/t20260822_3164248.shtml	0445
+姬兴江		38		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	红河州人大常委会主任		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202602/t20260214_2776473.shtml	0445
+罗萍		39		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	红河州长		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/201802/07/t20180207_28093584.shtml	0445
+晋洪江		40		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	红河州政协主席		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202602/t20260211_2769055.shtml	0445
+马志刚		41		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	西双版纳州委书记		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202605/t20260516_2970744.shtml	0445
+王嘉玲		42		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	西双版纳州人大常委会主任		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202501/27/t20250127_39279515.shtml	0445
+刀文		43		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	西双版纳州长		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202103/01/t20210301_36347155.shtml	0445
+魏平		44		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	西双版纳州政协主席		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202501/27/t20250127_39279510.shtml	0445
+张子建		45		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	楚雄州委书记		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202410/15/t20241015_39169107.shtml	0445
+翁斌		46		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	楚雄州人大常委会主任		云南省各地级市—市委书记、市长、政协主席、人大常委会主任		0445
+罗景锋		47		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	楚雄州长		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202509/t20250929_2497152.shtml	0445
+赵晓明		48		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	楚雄州政协主席		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202202/16/t20220216_37333899.shtml	0445
+杨国宗		49		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	大理州委书记		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202105/12/t20210512_36552526_1.shtml	0445
+张剑萍		50		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	大理州人大常委会主任		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202102/06/t20210206_36297820.shtml	0445
+陈汉		51		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	大理州长		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202609/t20260915_3214791.shtml	0445
+程鹏		52		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	大理州政协主席		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202501/26/t20250126_39278647.shtml	0445
+王云霏		53		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	德宏州委书记		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202508/t20250804_2430397.shtml	0445
+黄丽云		54		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	德宏州人大常委会主任		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202605/t20260522_2983398.shtml	0445
+李正环		55		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	德宏州长		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202605/t20260522_2983398.shtml	0445
+陈昌砚		56		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	德宏州政协主席		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202605/t20260520_2978613.shtml	0445
+杨中华		57		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	怒江州委书记		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202606/t20260609_3019896.shtml	0445
+刘强云		58		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	怒江州人大常委会主任		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202202/22/t20220222_37348451.shtml	0445
+李雪涛		59		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	怒江州长		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202608/t20260828_3176448.shtml	0445
+李义军		60		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	怒江州政协主席		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202501/15/t20250115_39267303.shtml	0445
+罗朝峰		61		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	迪庆州委书记		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202302/14/t20230214_38391810.shtml	0445
+李燕兰		62		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	迪庆州长		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202608/t20260818_3154135.shtml	0445
+苗有发		63		云南省		http://district.ce.cn/newarea/sddy/201802/07/t20180207_28103967.shtml	迪庆州政协主席		云南省各地级市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202202/22/t20220222_37347935.shtml	0445

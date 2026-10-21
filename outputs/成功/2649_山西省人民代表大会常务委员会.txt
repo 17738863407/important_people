@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+唐登杰		1		全国		https://www.sxpc.gov.cn/cwhld/zr/tdj/index.html	主任 唐登杰		山西省人民代表大会常务委员会		2649
+罗清宇		2		全国		https://www.sxpc.gov.cn/cwhld/zr/tdj/index.html	副主任 罗清宇		山西省人民代表大会常务委员会	https://www.sxpc.gov.cn/cwhld/fzr/gyg/index.html	2649
+陈安丽		3		全国		https://www.sxpc.gov.cn/cwhld/zr/tdj/index.html	副主任 陈安丽 (女)		山西省人民代表大会常务委员会	https://www.sxpc.gov.cn/cwhld/fzr/cal/index.html	2649
+李凤岐		4		全国		https://www.sxpc.gov.cn/cwhld/zr/tdj/index.html	副主任 李凤岐		山西省人民代表大会常务委员会	https://www.sxpc.gov.cn/cwhld/fzr/lfq/index.html	2649
+贺天才		5		全国		https://www.sxpc.gov.cn/cwhld/zr/tdj/index.html	副主任 贺天才		山西省人民代表大会常务委员会	https://www.sxpc.gov.cn/cwhld/fzr/htc/index.html	2649
+谢红		6		全国		https://www.sxpc.gov.cn/cwhld/zr/tdj/index.html	副主任 谢红 (女)		山西省人民代表大会常务委员会	https://www.sxpc.gov.cn/cwhld/fzr/xh/index.html	2649
+王纯		7		全国		https://www.sxpc.gov.cn/cwhld/zr/tdj/index.html	副主任 王纯		山西省人民代表大会常务委员会	https://www.sxpc.gov.cn/cwhld/fzr/wc/index.html	2649
+张志川		8		全国		https://www.sxpc.gov.cn/cwhld/zr/tdj/index.html	副主任 张志川		山西省人民代表大会常务委员会	https://www.sxpc.gov.cn/cwhld/fzr/zzc/index.html	2649
+杨勤荣		9		全国		https://www.sxpc.gov.cn/cwhld/zr/tdj/index.html	副主任 杨勤荣		山西省人民代表大会常务委员会	https://www.sxpc.gov.cn/cwhld/fzr/yqr/index.html	2649
+吴俊清		10		全国		https://www.sxpc.gov.cn/cwhld/zr/tdj/index.html	副主任 吴俊清		山西省人民代表大会常务委员会	https://www.sxpc.gov.cn/cwhld/fzr/wjq/index.html	2649
+武晋		11		全国		https://www.sxpc.gov.cn/cwhld/zr/tdj/index.html	秘书长 武晋		山西省人民代表大会常务委员会	https://www.sxpc.gov.cn/cwhld/msz/wj/index.html	2649

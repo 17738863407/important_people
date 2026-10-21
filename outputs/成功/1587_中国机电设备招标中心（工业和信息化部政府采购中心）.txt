@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘爱民		1		全国		https://www.miitcntc.org.cn/about/leader	主任 党委副书记		中国机电设备招标中心（工业和信息化部政府采购中心）		1587
+毛强		2		全国		https://www.miitcntc.org.cn/about/leader	党委书记 副主任		中国机电设备招标中心（工业和信息化部政府采购中心）		1587
+张远刚		3		全国		https://www.miitcntc.org.cn/about/leader	副主任		中国机电设备招标中心（工业和信息化部政府采购中心）		1587
+毛丰燕		4		全国		https://www.miitcntc.org.cn/about/leader	副主任		中国机电设备招标中心（工业和信息化部政府采购中心）		1587
+邵春光		5		全国		https://www.miitcntc.org.cn/about/leader	纪委书记		中国机电设备招标中心（工业和信息化部政府采购中心）		1587
+刘华鲁		6		全国		https://www.miitcntc.org.cn/about/leader	副主任		中国机电设备招标中心（工业和信息化部政府采购中心）		1587

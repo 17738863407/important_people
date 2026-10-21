@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+韦锦坚		1		广东省	广州市	https://zsj.gz.gov.cn/gkmlpt/content/10/10891/post_10891950.html#834	党组书记、机关党委第一书记		广州市政务服务和数据管理局		3427
+黄津		2		广东省	广州市	https://zsj.gz.gov.cn/gkmlpt/content/10/10891/post_10891950.html#834	局长		广州市政务服务和数据管理局		3427
+程欧		3		广东省	广州市	https://zsj.gz.gov.cn/gkmlpt/content/10/10891/post_10891950.html#834	党组成员、副局长		广州市政务服务和数据管理局		3427
+谢泽光		4		广东省	广州市	https://zsj.gz.gov.cn/gkmlpt/content/10/10891/post_10891950.html#834	党组成员、市纪委监委驻市政务和数据局纪检监察组组长		广州市政务服务和数据管理局		3427
+梁文谦		5		广东省	广州市	https://zsj.gz.gov.cn/gkmlpt/content/10/10891/post_10891950.html#834	党组成员、副局长		广州市政务服务和数据管理局		3427
+李刚		6		广东省	广州市	https://zsj.gz.gov.cn/gkmlpt/content/10/10891/post_10891950.html#834	党组成员、副局长		广州市政务服务和数据管理局		3427
+肖明		7		广东省	广州市	https://zsj.gz.gov.cn/gkmlpt/content/10/10891/post_10891950.html#834	市管一级调研员		广州市政务服务和数据管理局		3427

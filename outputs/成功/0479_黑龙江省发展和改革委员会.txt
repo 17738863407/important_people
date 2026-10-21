@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+袁锋		1		黑龙江省		https://drc.hlj.gov.cn/drc/c111452/jgldnew.shtml	省委财经委员会办公室主任，省发展和改革委员会党组书记、主任		黑龙江省发展和改革委员会	https://drc.hlj.gov.cn/drc/c111452/202103/c00_31466655.shtml	0479
+张灿欣		2		黑龙江省		https://drc.hlj.gov.cn/drc/c111452/jgldnew.shtml	省发展和改革委员会党组成员，省国防动员办公室主任，党组书记		黑龙江省发展和改革委员会	https://drc.hlj.gov.cn/drc/c111452/202501/c00_31799289.shtml	0479
+石剑飞		3		黑龙江省		https://drc.hlj.gov.cn/drc/c111452/jgldnew.shtml	省发展和改革委员会党组成员、副主任、一级巡视员，省能源局局长		黑龙江省发展和改革委员会	https://drc.hlj.gov.cn/drc/c111452/202103/c00_31466527.shtml	0479
+金熙哲		4		黑龙江省		https://drc.hlj.gov.cn/drc/c111452/jgldnew.shtml	省纪委监委驻省发展和改革委员会纪检监察组组长，省发展和改革委员会党组成员		黑龙江省发展和改革委员会	https://drc.hlj.gov.cn/drc/c111452/202608/c00_31969328.shtml	0479
+陈霖		5		黑龙江省		https://drc.hlj.gov.cn/drc/c111452/jgldnew.shtml	省发展改革委副主任		黑龙江省发展和改革委员会	https://drc.hlj.gov.cn/drc/c111452/202507/c00_31858374.shtml	0479
+于基祥		6		黑龙江省		https://drc.hlj.gov.cn/drc/c111452/jgldnew.shtml	省发展和改革委员会党组成员、副主任		黑龙江省发展和改革委员会	https://drc.hlj.gov.cn/drc/c111452/202206/c00_31501773.shtml	0479
+刘伟		7		黑龙江省		https://drc.hlj.gov.cn/drc/c111452/jgldnew.shtml	省发展和改革委员会党组成员、副主任		黑龙江省发展和改革委员会	https://drc.hlj.gov.cn/drc/c111452/202208/c00_31501774.shtml	0479
+李莹		8		黑龙江省		https://drc.hlj.gov.cn/drc/c111452/jgldnew.shtml	省发展和改革委员会党组成员、副主任，省粮食和物资储备局党组书记、局长		黑龙江省发展和改革委员会	https://drc.hlj.gov.cn/drc/c111452/202306/c00_31645083.shtml	0479
+赵飞		9		黑龙江省		https://drc.hlj.gov.cn/drc/c111452/jgldnew.shtml	省发展和改革委员会党组成员、副主任		黑龙江省发展和改革委员会	https://drc.hlj.gov.cn/drc/c111452/202501/c00_31799291.shtml	0479
+高炽扬		10		黑龙江省		https://drc.hlj.gov.cn/drc/c111452/jgldnew.shtml	省发展和改革委员会党组成员，省数据局党组书记、局长		黑龙江省发展和改革委员会	https://drc.hlj.gov.cn/drc/c111452/202406/c00_31747152.shtml	0479

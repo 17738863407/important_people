@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吕鑫		1		吉林省		https://gzw.jl.gov.cn/zwgk/jggk/ldzl/	党委书记		吉林省人民政府国有资产监督管理委员会	https://gzw.jl.gov.cn/zwgk/jggk/ldzl/202304/t20230407_2312098.html	0837
+吴倩		2		吉林省		https://gzw.jl.gov.cn/zwgk/jggk/ldzl/	主任		吉林省人民政府国有资产监督管理委员会	https://gzw.jl.gov.cn/zwgk/jggk/ldzl/202509/t20250926_3501519.html	0837
+赵志刚		3		吉林省		https://gzw.jl.gov.cn/zwgk/jggk/ldzl/	省纪委监委驻省国资委纪检监察组组长、党委委员		吉林省人民政府国有资产监督管理委员会	https://gzw.jl.gov.cn/zwgk/jggk/ldzl/202304/t20230407_2312071.html	0837
+孙明		4		吉林省		https://gzw.jl.gov.cn/zwgk/jggk/ldzl/	党委委员、副主任		吉林省人民政府国有资产监督管理委员会	https://gzw.jl.gov.cn/zwgk/jggk/ldzl/202312/t20231229_2941332.html	0837
+韩旭		5		吉林省		https://gzw.jl.gov.cn/zwgk/jggk/ldzl/	党委委员、副主任		吉林省人民政府国有资产监督管理委员会	https://gzw.jl.gov.cn/zwgk/jggk/ldzl/202407/t20240729_3267948.html	0837
+施航		6		吉林省		https://gzw.jl.gov.cn/zwgk/jggk/ldzl/	党委委员、副主任		吉林省人民政府国有资产监督管理委员会	https://gzw.jl.gov.cn/zwgk/jggk/ldzl/202407/t20240729_3267952.html	0837
+杨田洲		7		吉林省		https://gzw.jl.gov.cn/zwgk/jggk/ldzl/	党委委员、副主任		吉林省人民政府国有资产监督管理委员会	https://gzw.jl.gov.cn/zwgk/jggk/ldzl/202407/t20240729_3267951.html	0837

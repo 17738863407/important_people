@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王旭		1		辽宁省	大连市	https://tyj.dl.gov.cn/col/col9006/index.html?vc_xxgkarea=2102000021&number=DL014&jh=263	党组书记、局长		大连市体育局	https://tyj.dl.gov.cn/art/2025/12/4/art_9007_2084303.html	2763
+王文勇		2		辽宁省	大连市	https://tyj.dl.gov.cn/col/col9006/index.html?vc_xxgkarea=2102000021&number=DL014&jh=263	党组成员、副局长		大连市体育局	https://tyj.dl.gov.cn/art/2025/6/30/art_9007_2447849.html	2763
+刘妍		3		辽宁省	大连市	https://tyj.dl.gov.cn/col/col9006/index.html?vc_xxgkarea=2102000021&number=DL014&jh=263	党组成员、副局长		大连市体育局	https://tyj.dl.gov.cn/art/2025/3/3/art_9007_2323424.html	2763
+关博宇		4		辽宁省	大连市	https://tyj.dl.gov.cn/col/col9006/index.html?vc_xxgkarea=2102000021&number=DL014&jh=263	党组成员、副局长		大连市体育局	https://tyj.dl.gov.cn/art/2025/3/3/art_9007_2431156.html	2763
+于化龙		5		辽宁省	大连市	https://tyj.dl.gov.cn/col/col9006/index.html?vc_xxgkarea=2102000021&number=DL014&jh=263	党组成员、市体育事业发展中心主任		大连市体育局	https://tyj.dl.gov.cn/art/2025/3/3/art_9007_2431163.html	2763

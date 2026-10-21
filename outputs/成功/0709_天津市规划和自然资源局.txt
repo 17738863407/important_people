@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈勇		1		天津市		https://ghhzrzy.tj.gov.cn/zwgk_143/jggk/ldxxlm/202403/t20240311_6557939.html	天津市规划和自然资源局党委书记、局长		天津市规划和自然资源局		0709
+崔龙		2		天津市		https://ghhzrzy.tj.gov.cn/zwgk_143/jggk/ldxxlm/202403/t20240311_6557939.html	天津市规划和自然资源局党委委员、副局长		天津市规划和自然资源局	https://ghhzrzy.tj.gov.cn/zwgk_143/jggk/ldxxlm/202403/t20240311_6557934.html	0709
+张宏晖		3		天津市		https://ghhzrzy.tj.gov.cn/zwgk_143/jggk/ldxxlm/202403/t20240311_6557939.html	天津市规划和自然资源局党委委员、副局长		天津市规划和自然资源局	https://ghhzrzy.tj.gov.cn/zwgk_143/jggk/ldxxlm/202403/t20240311_6557930.html	0709
+张坚		4		天津市		https://ghhzrzy.tj.gov.cn/zwgk_143/jggk/ldxxlm/202403/t20240311_6557939.html	天津市规划和自然资源局党委委员、市纪委监委驻市规划资源局纪检监察组组长		天津市规划和自然资源局	https://ghhzrzy.tj.gov.cn/zwgk_143/jggk/ldxxlm/202403/t20240311_6557920.html	0709
+刘捷		5		天津市		https://ghhzrzy.tj.gov.cn/zwgk_143/jggk/ldxxlm/202403/t20240311_6557939.html	天津市规划和自然资源局党委委员、副局长		天津市规划和自然资源局	https://ghhzrzy.tj.gov.cn/zwgk_143/jggk/ldxxlm/202403/t20240311_6557911.html	0709
+袁浩正		6		天津市		https://ghhzrzy.tj.gov.cn/zwgk_143/jggk/ldxxlm/202403/t20240311_6557939.html	天津市规划和自然资源局党委委员、副局长		天津市规划和自然资源局	https://ghhzrzy.tj.gov.cn/zwgk_143/jggk/ldxxlm/202406/t20240626_6661165.html	0709
+师武军		7		天津市		https://ghhzrzy.tj.gov.cn/zwgk_143/jggk/ldxxlm/202403/t20240311_6557939.html	天津市规划和自然资源局党委委员、一级巡视员		天津市规划和自然资源局	https://ghhzrzy.tj.gov.cn/zwgk_143/jggk/ldxxlm/202403/t20240311_6557905.html	0709
+高明兴		8		天津市		https://ghhzrzy.tj.gov.cn/zwgk_143/jggk/ldxxlm/202403/t20240311_6557939.html	天津市规划和自然资源局二级巡视员		天津市规划和自然资源局	https://ghhzrzy.tj.gov.cn/zwgk_143/jggk/ldxxlm/202403/t20240311_6557900.html	0709

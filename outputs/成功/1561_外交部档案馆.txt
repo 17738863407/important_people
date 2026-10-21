@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+金红军		1		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/dag_674733/	馆长		外交部档案馆		1561
+胡昌智		2		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/dag_674733/	专职党总支副书记		外交部档案馆		1561
+唐军		3		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/dag_674733/	副馆长		外交部档案馆		1561
+祁占新		4		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/dag_674733/	副馆长		外交部档案馆		1561

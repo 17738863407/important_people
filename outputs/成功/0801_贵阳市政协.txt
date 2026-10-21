@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+龙章怀		1		贵州省	贵阳市	https://www.gyszx.gov.cn/web/article.jsp?strId=1709694047953137&strColId=1709693873308136&strWebSiteId=1354153871125000&isChange=	主席		贵阳市政协		0801
+喻理飞		2		贵州省	贵阳市	https://www.gyszx.gov.cn/web/article.jsp?strId=1709694047953137&strColId=1709693873308136&strWebSiteId=1354153871125000&isChange=	副主席		贵阳市政协		0801
+陈雨青		3		贵州省	贵阳市	https://www.gyszx.gov.cn/web/article.jsp?strId=1709694047953137&strColId=1709693873308136&strWebSiteId=1354153871125000&isChange=	副主席		贵阳市政协		0801
+向洋		4		贵州省	贵阳市	https://www.gyszx.gov.cn/web/article.jsp?strId=1709694047953137&strColId=1709693873308136&strWebSiteId=1354153871125000&isChange=	副主席		贵阳市政协		0801
+田社鸿		5		贵州省	贵阳市	https://www.gyszx.gov.cn/web/article.jsp?strId=1709694047953137&strColId=1709693873308136&strWebSiteId=1354153871125000&isChange=	副主席		贵阳市政协		0801
+蒋骞		6		贵州省	贵阳市	https://www.gyszx.gov.cn/web/article.jsp?strId=1709694047953137&strColId=1709693873308136&strWebSiteId=1354153871125000&isChange=	副主席		贵阳市政协		0801
+何发兵		7		贵州省	贵阳市	https://www.gyszx.gov.cn/web/article.jsp?strId=1709694047953137&strColId=1709693873308136&strWebSiteId=1354153871125000&isChange=	秘书长		贵阳市政协		0801

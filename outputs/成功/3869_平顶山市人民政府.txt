@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李明俊		1		河南省	平顶山市	https://www.pds.gov.cn/channels/21905.html	市长		平顶山市人民政府	https://www.pds.gov.cn/contents/21905/211508.html	3869
+刘文祥		2		河南省	平顶山市	https://www.pds.gov.cn/channels/21905.html	副市长		平顶山市人民政府	https://www.pds.gov.cn/contents/21905/469232.html	3869
+段志广		3		河南省	平顶山市	https://www.pds.gov.cn/channels/21905.html	副市长		平顶山市人民政府	https://www.pds.gov.cn/contents/21905/469233.html	3869
+史晓天		4		河南省	平顶山市	https://www.pds.gov.cn/channels/21905.html	副市长		平顶山市人民政府	https://www.pds.gov.cn/contents/21905/469234.html	3869
+舒从心		5		河南省	平顶山市	https://www.pds.gov.cn/channels/21905.html	副市长		平顶山市人民政府	https://www.pds.gov.cn/contents/21905/469235.html	3869
+丁海江		6		河南省	平顶山市	https://www.pds.gov.cn/channels/21905.html	副市长		平顶山市人民政府	https://www.pds.gov.cn/contents/21905/435059.html	3869
+朱志骞		7		河南省	平顶山市	https://www.pds.gov.cn/channels/21905.html	副市长		平顶山市人民政府	https://www.pds.gov.cn/contents/21905/467011.html	3869
+李会良		8		河南省	平顶山市	https://www.pds.gov.cn/channels/21905.html	秘书长		平顶山市人民政府	https://www.pds.gov.cn/contents/21905/211509.html	3869

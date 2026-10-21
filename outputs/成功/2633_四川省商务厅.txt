@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨晓		1		四川省		https://swt.sc.gov.cn/sccom/jgjj/newjgjj.shtml	党组书记、厅长		四川省商务厅	https://swt.sc.gov.cn/sccom/tldyx/c248301.shtml	2633
+乔方		2		四川省		https://swt.sc.gov.cn/sccom/jgjj/newjgjj.shtml	党组成员、副厅长		四川省商务厅	https://swt.sc.gov.cn/sccom/tldqf/2022/6/9/b5c9af54697a4e72bfb94d322d82b2c5.shtml	2633
+尹奇志		3		四川省		https://swt.sc.gov.cn/sccom/jgjj/newjgjj.shtml	党组成员、副厅长		四川省商务厅	https://swt.sc.gov.cn/sccom/tldyqz/2022/8/30/a762ee000b1f4cd7bbfcfb80c7daf6da.shtml	2633
+陈友清		4		四川省		https://swt.sc.gov.cn/sccom/jgjj/newjgjj.shtml	党组成员、副厅长		四川省商务厅	https://swt.sc.gov.cn/sccom/tldcyq/2022/6/9/eeed997519044ca5b55380213f9eb459.shtml	2633
+刘建成		5		四川省		https://swt.sc.gov.cn/sccom/jgjj/newjgjj.shtml	副厅长		四川省商务厅	https://swt.sc.gov.cn/sccom/tldljc/2025/10/30/9dfe6be8166b494080450a80fc8ee74d.shtml	2633
+吴舸		6		四川省		https://swt.sc.gov.cn/sccom/jgjj/newjgjj.shtml	党组成员、四川自贸办专职副主任		四川省商务厅	https://swt.sc.gov.cn/sccom/tldwg/2022/9/28/ab949e4ac7084a81a7e4c69d3f441dc0.shtml	2633
+任方贵		7		四川省		https://swt.sc.gov.cn/sccom/jgjj/newjgjj.shtml	驻商务厅纪检监察组组长、党组成员		四川省商务厅	https://swt.sc.gov.cn/sccom/tldrfg/2022/12/21/5228dbfdaf7b4b22a50e8afccfbac269.shtml	2633
+郑戈		8		四川省		https://swt.sc.gov.cn/sccom/jgjj/newjgjj.shtml	党组成员、副厅长		四川省商务厅	https://swt.sc.gov.cn/sccom/tldzg/2026/2/5/8267449429c84de69278c4d72cfa9d8e.shtml	2633
+易旸		9		四川省		https://swt.sc.gov.cn/sccom/jgjj/newjgjj.shtml	一级巡视员		四川省商务厅	https://swt.sc.gov.cn/sccom/tldyy/2025/10/29/de557d525b104ef6b00851ca36277b6d.shtml	2633
+梁勇		10		四川省		https://swt.sc.gov.cn/sccom/jgjj/newjgjj.shtml	一级巡视员		四川省商务厅	https://swt.sc.gov.cn/sccom/tldly/2022/6/9/1b31f310e2684b648989f1144e8f327e.shtml	2633
+郑鹏斌		11		四川省		https://swt.sc.gov.cn/sccom/jgjj/newjgjj.shtml	一级巡视员		四川省商务厅	https://swt.sc.gov.cn/sccom/tldzpb/2019/5/6/9bb28ee7c81e4924be112364c3584b1d.shtml	2633
+戢焜文		12		四川省		https://swt.sc.gov.cn/sccom/jgjj/newjgjj.shtml	二级巡视员		四川省商务厅	https://swt.sc.gov.cn/sccom/tldjqw/2021/2/20/0a6964183938497c88b15bb7eaf015ad.shtml	2633
+曾宇		13		四川省		https://swt.sc.gov.cn/sccom/jgjj/newjgjj.shtml	二级巡视员		四川省商务厅	https://swt.sc.gov.cn/sccom/tldzy1/2026/2/4/ac6cfd2498bb46cdafbd9a93b4acbac1.shtml	2633

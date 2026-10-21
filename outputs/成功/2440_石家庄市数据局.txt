@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+卢智嘉		1		河北省	石家庄市	https://sjj.sjz.gov.cn/columns/fe8d4751-0bb6-4020-8ccd-f5a75dd3f1b4/202411/19/0e356f34-0c95-4d4c-982b-f6707289fb3b.html	局长、党组书记		石家庄市数据局		2440
+魏海强		2		河北省	石家庄市	https://sjj.sjz.gov.cn/columns/fe8d4751-0bb6-4020-8ccd-f5a75dd3f1b4/202411/19/0e356f34-0c95-4d4c-982b-f6707289fb3b.html	副局长、党组成员		石家庄市数据局		2440
+崔英民		3		河北省	石家庄市	https://sjj.sjz.gov.cn/columns/fe8d4751-0bb6-4020-8ccd-f5a75dd3f1b4/202411/19/0e356f34-0c95-4d4c-982b-f6707289fb3b.html	副局长、党组成员		石家庄市数据局		2440
+马占领		4		河北省	石家庄市	https://sjj.sjz.gov.cn/columns/fe8d4751-0bb6-4020-8ccd-f5a75dd3f1b4/202411/19/0e356f34-0c95-4d4c-982b-f6707289fb3b.html	副局长		石家庄市数据局		2440
+陈金海		5		河北省	石家庄市	https://sjj.sjz.gov.cn/columns/fe8d4751-0bb6-4020-8ccd-f5a75dd3f1b4/202411/19/0e356f34-0c95-4d4c-982b-f6707289fb3b.html	二级调研员		石家庄市数据局		2440

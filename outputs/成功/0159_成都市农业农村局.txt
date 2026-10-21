@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+古建桥		1		四川省	成都市	https://cdagri.chengdu.gov.cn/nyxx/c109508/cdnyxx_list.shtml	市委农办主任，市农业农村局党组书记、局长，市乡村振兴局局长，市供销社理事会主任		成都市农业农村局	https://cdagri.chengdu.gov.cn/gkml/ldcy/1645673357162639361.shtml	0159
+程果		2		四川省	成都市	https://cdagri.chengdu.gov.cn/nyxx/c109508/cdnyxx_list.shtml	成都市供销社监事会主任，成都市农业农村局党组成员、副局长		成都市农业农村局	https://cdagri.chengdu.gov.cn/gkml/ldcy/1645674006159880192.shtml	0159
+黄挺		3		四川省	成都市	https://cdagri.chengdu.gov.cn/nyxx/c109508/cdnyxx_list.shtml	成都市农业农村局党组成员、副局长，机关党委书记		成都市农业农村局	https://cdagri.chengdu.gov.cn/gkml/ldcy/1645674006440898560.shtml	0159
+易波		4		四川省	成都市	https://cdagri.chengdu.gov.cn/nyxx/c109508/cdnyxx_list.shtml	成都市农业农村局党组成员、副局长		成都市农业农村局	https://cdagri.chengdu.gov.cn/gkml/ldcy/1485952044685590528.shtml	0159
+杨伟		5		四川省	成都市	https://cdagri.chengdu.gov.cn/nyxx/c109508/cdnyxx_list.shtml	成都市农业农村局党组成员、副局长		成都市农业农村局	https://cdagri.chengdu.gov.cn/gkml/ldcy/1172473857043333120.shtml	0159
+李维彬		6		四川省	成都市	https://cdagri.chengdu.gov.cn/nyxx/c109508/cdnyxx_list.shtml	成都市农业农村局党组成员、副局长		成都市农业农村局	https://cdagri.chengdu.gov.cn/gkml/ldcy/1224667231934218240.shtml	0159
+夏晓蓉		7		四川省	成都市	https://cdagri.chengdu.gov.cn/nyxx/c109508/cdnyxx_list.shtml	成都市农业农村局党组成员、市纪委（市监委）驻市农业农村局纪检监察组组长		成都市农业农村局	https://cdagri.chengdu.gov.cn/gkml/ldcy/1450179307128225792.shtml	0159
+戚智勇		8		四川省	成都市	https://cdagri.chengdu.gov.cn/nyxx/c109508/cdnyxx_list.shtml	成都市农业农村局党组成员、副局长		成都市农业农村局	https://cdagri.chengdu.gov.cn/gkml/ldcy/1521448181508866048.shtml	0159
+王红强		9		四川省	成都市	https://cdagri.chengdu.gov.cn/nyxx/c109508/cdnyxx_list.shtml	市委农办专职副主任		成都市农业农村局	https://cdagri.chengdu.gov.cn/gkml/ldcy/1645674006210211840.shtml	0159
+郑维薇		10		四川省	成都市	https://cdagri.chengdu.gov.cn/nyxx/c109508/cdnyxx_list.shtml	成都市农业综合行政执法总队总队长		成都市农业农村局	https://cdagri.chengdu.gov.cn/gkml/ldcy/1645674006289903616.shtml	0159
+陈晓波		11		四川省	成都市	https://cdagri.chengdu.gov.cn/nyxx/c109508/cdnyxx_list.shtml	成都市农业农村局总经济师		成都市农业农村局	https://cdagri.chengdu.gov.cn/gkml/ldcy/1645674006357012480.shtml	0159
+李晓东		12		四川省	成都市	https://cdagri.chengdu.gov.cn/nyxx/c109508/cdnyxx_list.shtml	成都市农业农村局二级巡视员		成都市农业农村局	https://cdagri.chengdu.gov.cn/gkml/ldcy/1645674006470258688.shtml	0159
+宋峰		13		四川省	成都市	https://cdagri.chengdu.gov.cn/nyxx/c109508/cdnyxx_list.shtml	成都市农业农村二级巡视员		成都市农业农村局	https://cdagri.chengdu.gov.cn/gkml/ldcy/1645674006411538432.shtml	0159
+刘建平		14		四川省	成都市	https://cdagri.chengdu.gov.cn/nyxx/c109508/cdnyxx_list.shtml	总农艺师		成都市农业农村局	https://cdagri.chengdu.gov.cn/gkml/ldcy/1498693046148005888.shtml	0159

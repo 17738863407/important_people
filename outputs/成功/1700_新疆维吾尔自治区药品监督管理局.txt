@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+崔燕		1		新疆维吾尔自治区		http://mpa.xinjiang.gov.cn/xjyjj/jld/zfxxgk_zfld.shtml	书记、局长		新疆维吾尔自治区药品监督管理局	http://mpa.xinjiang.gov.cn/xjyjj/jld/202001/72c9e4dd0b3e4d84bbb2e554e0904f44.shtml	1700
+田春海		2		新疆维吾尔自治区		http://mpa.xinjiang.gov.cn/xjyjj/jld/zfxxgk_zfld.shtml	副局长		新疆维吾尔自治区药品监督管理局	http://mpa.xinjiang.gov.cn/xjyjj/jld/202204/81fadecf1a2e485fa11ebe04be668322.shtml	1700
+苏君		3		新疆维吾尔自治区		http://mpa.xinjiang.gov.cn/xjyjj/jld/zfxxgk_zfld.shtml	副局长		新疆维吾尔自治区药品监督管理局	http://mpa.xinjiang.gov.cn/xjyjj/jld/202204/f27d7cbde99d46e9956b6d166fbd6a9a.shtml	1700
+余永强		4		新疆维吾尔自治区		http://mpa.xinjiang.gov.cn/xjyjj/jld/zfxxgk_zfld.shtml	副局长		新疆维吾尔自治区药品监督管理局	http://mpa.xinjiang.gov.cn/xjyjj/jld/202001/2efb847df33e4c04ae9e59f27708465a.shtml	1700
+刘晓刚		5		新疆维吾尔自治区		http://mpa.xinjiang.gov.cn/xjyjj/jld/zfxxgk_zfld.shtml	副局长		新疆维吾尔自治区药品监督管理局	http://mpa.xinjiang.gov.cn/xjyjj/jld/202608/344f7d9129ea49358f7365392fd59c39.shtml	1700
+黄雄		6		新疆维吾尔自治区		http://mpa.xinjiang.gov.cn/xjyjj/jld/zfxxgk_zfld.shtml	药品安全总监		新疆维吾尔自治区药品监督管理局	http://mpa.xinjiang.gov.cn/xjyjj/jld/202001/bcd792f953204042b3a65562b8065542.shtml	1700

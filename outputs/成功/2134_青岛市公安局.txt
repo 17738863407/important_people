@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于瑞波		1		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/gaj/xxgkml_551/jgxx/202112/t20211223_4120954.shtml	青岛市副市长、市政府党组成员，市公安局党委书记、局长、督察长，市委政法委副书记		青岛市公安局		2134
+史浩		2		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/gaj/xxgkml_551/jgxx/202112/t20211223_4120954.shtml	青岛市公安局党委副书记、政委		青岛市公安局		2134
+刘进清		3		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/gaj/xxgkml_551/jgxx/202112/t20211223_4120954.shtml	青岛市公安局党委委员，特勤局党委书记、局长		青岛市公安局		2134
+于学江		4		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/gaj/xxgkml_551/jgxx/202112/t20211223_4120954.shtml	青岛市公安局党委委员、市纪委监委驻市公安局纪检监察组组长、三级高级监察官		青岛市公安局		2134
+郭晓晖		5		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/gaj/xxgkml_551/jgxx/202112/t20211223_4120954.shtml	青岛市公安局党委委员、副局长，政治部主任		青岛市公安局		2134
+管成富		6		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/gaj/xxgkml_551/jgxx/202112/t20211223_4120954.shtml	青岛市公安局党委委员、副局长		青岛市公安局		2134
+李昌		7		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/gaj/xxgkml_551/jgxx/202112/t20211223_4120954.shtml	青岛市公安局党委委员、副局长		青岛市公安局		2134
+刘天翔		8		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/gaj/xxgkml_551/jgxx/202112/t20211223_4120954.shtml	青岛市公安局党委委员、副局长		青岛市公安局		2134
+潘月光		9		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/gaj/xxgkml_551/jgxx/202112/t20211223_4120954.shtml	青岛市公安局党委委员、副局长		青岛市公安局		2134
+刘润诗		10		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/gaj/xxgkml_551/jgxx/202112/t20211223_4120954.shtml	青岛市公安局党委委员、情报指挥中心主任		青岛市公安局		2134

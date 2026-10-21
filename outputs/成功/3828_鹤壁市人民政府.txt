@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李可		1		河南省	鹤壁市	https://www.hebi.gov.cn/zwgk/zfld/lk/index.html	市长		鹤壁市人民政府		3828
+王强		2		河南省	鹤壁市	https://www.hebi.gov.cn/zwgk/zfld/lk/index.html	副市长		鹤壁市人民政府	https://www.hebi.gov.cn/zwgk/zfld/wq/index.html	3828
+张超		3		河南省	鹤壁市	https://www.hebi.gov.cn/zwgk/zfld/lk/index.html	副市长		鹤壁市人民政府	https://www.hebi.gov.cn/zwgk/zfld/zc/index.html	3828
+李小莉		4		河南省	鹤壁市	https://www.hebi.gov.cn/zwgk/zfld/lk/index.html	副市长		鹤壁市人民政府	https://www.hebi.gov.cn/zwgk/zfld/lxl/index.html	3828
+胡红军		5		河南省	鹤壁市	https://www.hebi.gov.cn/zwgk/zfld/lk/index.html	副市长		鹤壁市人民政府	https://www.hebi.gov.cn/zwgk/zfld/hhj/index.html	3828
+刘辉		6		河南省	鹤壁市	https://www.hebi.gov.cn/zwgk/zfld/lk/index.html	副市长		鹤壁市人民政府	https://www.hebi.gov.cn/zwgk/zfld/lh1/index.html	3828
+李明霖		7		河南省	鹤壁市	https://www.hebi.gov.cn/zwgk/zfld/lk/index.html	副市长		鹤壁市人民政府	https://www.hebi.gov.cn/zwgk/zfld/lml/index.html	3828
+刘海		8		河南省	鹤壁市	https://www.hebi.gov.cn/zwgk/zfld/lk/index.html	党组成员		鹤壁市人民政府	https://www.hebi.gov.cn/zwgk/zfld/lh/index.html	3828
+李双兵		9		河南省	鹤壁市	https://www.hebi.gov.cn/zwgk/zfld/lk/index.html	秘书长		鹤壁市人民政府	https://www.hebi.gov.cn/zwgk/zfld/lsb/index.html	3828

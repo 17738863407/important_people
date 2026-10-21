@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+任秀红		1		山西省	晋中市	https://zx.sxjz.gov.cn/zxgk/zxld	晋中市政协党组书记、主席		晋中市政协	https://zx.sxjz.gov.cn/zxgk/zxld/content_380833	3941
+赵宏钟		2		山西省	晋中市	https://zx.sxjz.gov.cn/zxgk/zxld	晋中市委常委、统战部部长，市政协党组副书记，寿阳县委书记		晋中市政协	https://zx.sxjz.gov.cn/zxgk/zxld/content_405112	3941
+牛革平		3		山西省	晋中市	https://zx.sxjz.gov.cn/zxgk/zxld	晋中市政协党组成员、副主席		晋中市政协	https://zx.sxjz.gov.cn/zxgk/zxld/content_405114	3941
+张学东		4		山西省	晋中市	https://zx.sxjz.gov.cn/zxgk/zxld	晋中市政协副主席		晋中市政协	https://zx.sxjz.gov.cn/zxgk/zxld/content_405115	3941
+王宁照		5		山西省	晋中市	https://zx.sxjz.gov.cn/zxgk/zxld	晋中市政协党组成员、副主席		晋中市政协	https://zx.sxjz.gov.cn/zxgk/zxld/content_405117	3941
+田桂梅		6		山西省	晋中市	https://zx.sxjz.gov.cn/zxgk/zxld	晋中市政协副主席，市工商联主席		晋中市政协	https://zx.sxjz.gov.cn/zxgk/zxld/content_405120	3941
+张谨华		7		山西省	晋中市	https://zx.sxjz.gov.cn/zxgk/zxld	晋中市政协副主席，民进晋中市委员会主委		晋中市政协	https://zx.sxjz.gov.cn/zxgk/zxld/content_265093	3941
+孟玲珑		8		山西省	晋中市	https://zx.sxjz.gov.cn/zxgk/zxld	晋中市政协党组成员、秘书长，市政协机关党组书记、办公室主任		晋中市政协	https://zx.sxjz.gov.cn/zxgk/zxld/content_359530	3941

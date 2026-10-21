@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+苏靖		1		全国		https://www.most.gov.cn/zzjg/jgsz/dept4/	司长		科学技术部四司		1685
+张军		2		全国		https://www.most.gov.cn/zzjg/jgsz/dept4/	副司长		科学技术部四司		1685
+康相武		3		全国		https://www.most.gov.cn/zzjg/jgsz/dept4/	副司长		科学技术部四司		1685

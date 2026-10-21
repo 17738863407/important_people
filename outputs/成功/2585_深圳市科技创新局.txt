@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+夏雷		1		广东省	深圳市	http://stic.sz.gov.cn/gkmlpt/index#4147	党组成员、副局长		深圳市科技创新局	https://stic.sz.gov.cn/gkmlpt/content/12/12910/post_12910203.html	2585
+邵钢		2		广东省	深圳市	http://stic.sz.gov.cn/gkmlpt/index#4147	党组成员、副局长		深圳市科技创新局	https://stic.sz.gov.cn/gkmlpt/content/11/11399/post_11399363.html	2585
+李肖力		3		广东省	深圳市	http://stic.sz.gov.cn/gkmlpt/index#4147	党组成员、副局长、市外国专家局局长		深圳市科技创新局	https://stic.sz.gov.cn/gkmlpt/content/12/12141/post_12141634.html	2585

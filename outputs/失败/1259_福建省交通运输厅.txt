@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+颜志煌		1		福建省		https://jtyst.fujian.gov.cn/jtgk/ldzc/wzx/	厅党组书记、厅长		福建省交通运输厅	https://jtyst.fujian.gov.cn/jtgk/ldzc/yzh/	1259
+雷文忠		2		福建省		https://jtyst.fujian.gov.cn/jtgk/ldzc/wzx/	厅党组成员、副厅长		福建省交通运输厅	https://jtyst.fujian.gov.cn/jtgk/ldzc/lwz/	1259
+黄楠		3		福建省		https://jtyst.fujian.gov.cn/jtgk/ldzc/wzx/	厅党组成员、副厅长		福建省交通运输厅	https://jtyst.fujian.gov.cn/jtgk/ldzc/hn/	1259
+高军刚		4		福建省		https://jtyst.fujian.gov.cn/jtgk/ldzc/wzx/	厅党组成员、副厅长		福建省交通运输厅	https://jtyst.fujian.gov.cn/jtgk/ldzc/gjg/	1259
+黄琦锋		5		福建省		https://jtyst.fujian.gov.cn/jtgk/ldzc/wzx/	驻厅纪检监察组组长、厅党组成员、二级高级监察官		福建省交通运输厅	https://jtyst.fujian.gov.cn/jtgk/ldzc/hqf/	1259
+朱海光		6		福建省		https://jtyst.fujian.gov.cn/jtgk/ldzc/wzx/	厅党组成员、副厅长		福建省交通运输厅	https://jtyst.fujian.gov.cn/jtgk/ldzc/zhg/	1259
+王文胜		7		福建省		https://jtyst.fujian.gov.cn/jtgk/ldzc/wzx/	厅党组成员，省邮政管理局党组书记、局长		福建省交通运输厅	https://jtyst.fujian.gov.cn/jtgk/ldzc/wws/	1259

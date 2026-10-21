@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+石迎军		1		河南省		https://dzj.henan.gov.cn/ldjt1/	党组书记、局长		河南省地质局	https://dzj.henan.gov.cn/2022/05-25/3009.html	0497
+陈彦召		2		河南省		https://dzj.henan.gov.cn/ldjt1/	党组成员、副局长		河南省地质局	https://dzj.henan.gov.cn/2022/05-26/3010.html	0497
+唐志中		3		河南省		https://dzj.henan.gov.cn/ldjt1/	党组成员、副局长		河南省地质局	https://dzj.henan.gov.cn/2022/05-26/3011.html	0497
+张煜		4		河南省		https://dzj.henan.gov.cn/ldjt1/	党组成员、副局长		河南省地质局	https://dzj.henan.gov.cn/2024/07-05/3298.html	0497
+马远新		5		河南省		https://dzj.henan.gov.cn/ldjt1/	党组成员、副局长，河南省地质研究院党委书记、院长		河南省地质局	https://dzj.henan.gov.cn/2024/07-05/3299.html	0497

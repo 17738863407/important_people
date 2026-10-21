@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周欣		1		全国		https://apm.cas.cn/ykjs/xrld/	院长		中国科学院精密测量科学与技术创新研究院	https://apm.cas.cn/ykjs/xrld/201911/t20191113_5431518.html	4113
+柳晓军		2		全国		https://apm.cas.cn/ykjs/xrld/	党委书记、副院长		中国科学院精密测量科学与技术创新研究院	https://apm.cas.cn/ykjs/xrld/201911/t20191113_5431517.html	4113
+倪四道		3		全国		https://apm.cas.cn/ykjs/xrld/	副院长		中国科学院精密测量科学与技术创新研究院	https://apm.cas.cn/ykjs/xrld/201911/t20191113_5431513.html	4113
+洪成浩		4		全国		https://apm.cas.cn/ykjs/xrld/	纪委书记		中国科学院精密测量科学与技术创新研究院	https://apm.cas.cn/ykjs/xrld/202204/t20220418_6428712.html	4113
+江利明		5		全国		https://apm.cas.cn/ykjs/xrld/	副院长		中国科学院精密测量科学与技术创新研究院	https://apm.cas.cn/ykjs/xrld/201911/t20191114_5431881.html	4113

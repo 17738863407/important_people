@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+宋平		1		重庆市		http://yjj.cq.gov.cn/zwgk_230/fdzdgknr/jgzn_1/	党委书记、局长，市消防救援总队第一政治委员（兼）		重庆市应急管理局	http://yjj.cq.gov.cn/zwgk_230/fdzdgknr/jgzn_1/fzrxx/202408/t20240826_13553670.html	3216
+王岗		2		重庆市		http://yjj.cq.gov.cn/zwgk_230/fdzdgknr/jgzn_1/	党委委员，重庆市消防救援总队（重庆市消防救援局）总队长（局长）、党委副书记		重庆市应急管理局	http://yjj.cq.gov.cn/zwgk_230/fdzdgknr/jgzn_1/fzrxx/202607/t20260710_15816028.html	3216
+邹瑜		3		重庆市		http://yjj.cq.gov.cn/zwgk_230/fdzdgknr/jgzn_1/	党委委员、副局长		重庆市应急管理局	http://yjj.cq.gov.cn/zwgk_230/fdzdgknr/jgzn_1/fzrxx/202408/t20240826_13553689.html	3216
+谭厚江		4		重庆市		http://yjj.cq.gov.cn/zwgk_230/fdzdgknr/jgzn_1/	党委委员、政治部主任		重庆市应急管理局	http://yjj.cq.gov.cn/zwgk_230/fdzdgknr/jgzn_1/fzrxx/202408/t20240826_13553693.html	3216
+潘光灿		5		重庆市		http://yjj.cq.gov.cn/zwgk_230/fdzdgknr/jgzn_1/	党委委员、副局长		重庆市应急管理局	http://yjj.cq.gov.cn/zwgk_230/fdzdgknr/jgzn_1/fzrxx/202408/t20240826_13553698.html	3216
+王小琼		6		重庆市		http://yjj.cq.gov.cn/zwgk_230/fdzdgknr/jgzn_1/	党委委员、市纪委监委驻市应急管理局纪检监察组组长		重庆市应急管理局	http://yjj.cq.gov.cn/zwgk_230/fdzdgknr/jgzn_1/fzrxx/202408/t20240826_13553700.html	3216
+姜瑾		7		重庆市		http://yjj.cq.gov.cn/zwgk_230/fdzdgknr/jgzn_1/	党委委员、副局长		重庆市应急管理局	http://yjj.cq.gov.cn/zwgk_230/fdzdgknr/jgzn_1/fzrxx/202408/t20240826_13553701.html	3216
+董林		8		重庆市		http://yjj.cq.gov.cn/zwgk_230/fdzdgknr/jgzn_1/	党委委员、副局长		重庆市应急管理局	http://yjj.cq.gov.cn/zwgk_230/fdzdgknr/jgzn_1/fzrxx/202408/t20240826_13553707.html	3216
+李论		9		重庆市		http://yjj.cq.gov.cn/zwgk_230/fdzdgknr/jgzn_1/	党委委员、副局长		重庆市应急管理局	http://yjj.cq.gov.cn/zwgk_230/fdzdgknr/jgzn_1/fzrxx/202502/t20250206_14259516.html	3216

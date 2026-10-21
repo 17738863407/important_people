@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王雪坤		1		全国		https://www.caitec.org.cn/n3/boos/	院长、党委书记		商务部国际贸易经济合作研究院	https://www.caitec.org.cn/n3/boos/bklink_ld/6801.html	4001
+周中国		2		全国		https://www.caitec.org.cn/n3/boos/	党委副书记		商务部国际贸易经济合作研究院	https://www.caitec.org.cn/n3/boos/bklink_ld/7135.html	4001
+林健		3		全国		https://www.caitec.org.cn/n3/boos/	副院长		商务部国际贸易经济合作研究院	https://www.caitec.org.cn/n3/boos/bklink_ld/7136.html	4001
+崔卫杰		4		全国		https://www.caitec.org.cn/n3/boos/	副院长		商务部国际贸易经济合作研究院	https://www.caitec.org.cn/n3/boos/bklink_ld/5659.html	4001
+桑晓娟		5		全国		https://www.caitec.org.cn/n3/boos/	纪委书记		商务部国际贸易经济合作研究院	https://www.caitec.org.cn/n3/boos/bklink_ld/7137.html	4001
+郭智慧		6		全国		https://www.caitec.org.cn/n3/boos/	副院长		商务部国际贸易经济合作研究院	https://www.caitec.org.cn/n3/boos/bklink_ld/7159.html	4001

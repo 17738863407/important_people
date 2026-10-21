@@ -1,0 +1,16 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱孔军		1		湖北省	武汉市	https://www.whu.edu.cn/xxgk/xrld.htm	党委书记；党委常委		武汉大学	https://www.whu.edu.cn/info/5861/258404.htm	3654
+张平文		2		湖北省	武汉市	https://www.whu.edu.cn/xxgk/xrld.htm	校长；党委副书记；党委常委		武汉大学	https://www.whu.edu.cn/info/5871/201274.htm	3654
+沈壮海		3		湖北省	武汉市	https://www.whu.edu.cn/xxgk/xrld.htm	党委常务副书记；党委常委		武汉大学	https://www.whu.edu.cn/info/5901/201364.htm	3654
+屈文谦		4		湖北省	武汉市	https://www.whu.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		武汉大学	https://www.whu.edu.cn/info/5911/201384.htm	3654
+王晗		5		湖北省	武汉市	https://www.whu.edu.cn/xxgk/xrld.htm	党委副书记；纪委书记；国家监委驻武汉大学监察专员；党委常委		武汉大学	https://www.whu.edu.cn/info/5911/270504.htm	3654
+朱德友		6		湖北省	武汉市	https://www.whu.edu.cn/xxgk/xrld.htm	党委副书记；副校长；党委常委		武汉大学	https://www.whu.edu.cn/info/5911/276134.htm	3654
+宋保亮		7		湖北省	武汉市	https://www.whu.edu.cn/xxgk/xrld.htm	常务副校长；党委常委		武汉大学	https://www.whu.edu.cn/info/9751/256404.htm	3654
+袁玉峰		8		湖北省	武汉市	https://www.whu.edu.cn/xxgk/xrld.htm	副校长；党委常委		武汉大学	https://www.whu.edu.cn/info/5891/201314.htm	3654
+龚威		9		湖北省	武汉市	https://www.whu.edu.cn/xxgk/xrld.htm	副校长		武汉大学	https://www.whu.edu.cn/info/5891/201324.htm	3654
+何莲		10		湖北省	武汉市	https://www.whu.edu.cn/xxgk/xrld.htm	副校长；党委常委		武汉大学	https://www.whu.edu.cn/info/5891/201304.htm	3654
+陆伟		11		湖北省	武汉市	https://www.whu.edu.cn/xxgk/xrld.htm	副校长；党委常委		武汉大学	https://www.whu.edu.cn/info/5891/201294.htm	3654
+周伟		12		湖北省	武汉市	https://www.whu.edu.cn/xxgk/xrld.htm	副校长；党委常委		武汉大学	https://www.whu.edu.cn/info/5891/256434.htm	3654
+秦天宝		13		湖北省	武汉市	https://www.whu.edu.cn/xxgk/xrld.htm	副校长；党委常委		武汉大学	https://www.whu.edu.cn/info/5891/276104.htm	3654
+王康宁		14		湖北省	武汉市	https://www.whu.edu.cn/xxgk/xrld.htm	党委常委		武汉大学		3654
+徐东兴		15		湖北省	武汉市	https://www.whu.edu.cn/xxgk/xrld.htm	校长助理		武汉大学		3654

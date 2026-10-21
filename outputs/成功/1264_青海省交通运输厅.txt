@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何灿		1		青海省		https://jtyst.qinghai.gov.cn/jtyst/zwgk/zfxxgkml/jgxx/index.html	厅党组书记、厅长		青海省交通运输厅	https://jtyst.qinghai.gov.cn/jtyst/2022-08/19/article_2022121913115965875.html	1264
+张志杰		2		青海省		https://jtyst.qinghai.gov.cn/jtyst/zwgk/zfxxgkml/jgxx/index.html	厅党组成员、副厅长		青海省交通运输厅	https://jtyst.qinghai.gov.cn/jtyst/2024-09/11/article_2024091111583544229.html	1264
+张淑艳		3		青海省		https://jtyst.qinghai.gov.cn/jtyst/zwgk/zfxxgkml/jgxx/index.html	厅党组成员、副厅长		青海省交通运输厅	https://jtyst.qinghai.gov.cn/jtyst/2022-08/19/article_2022121911404652084.html	1264
+卢贤忠		4		青海省		https://jtyst.qinghai.gov.cn/jtyst/zwgk/zfxxgkml/jgxx/index.html	厅党组成员、驻厅纪检监察组组长		青海省交通运输厅	https://jtyst.qinghai.gov.cn/jtyst/2022-08/19/article_2022121911392434976.html	1264
+刘芳涛		5		青海省		https://jtyst.qinghai.gov.cn/jtyst/zwgk/zfxxgkml/jgxx/index.html	厅党组成员、副厅长		青海省交通运输厅	https://jtyst.qinghai.gov.cn/jtyst/2023-08/22/article_2023082211470643744.html	1264
+钟闻华		6		青海省		https://jtyst.qinghai.gov.cn/jtyst/zwgk/zfxxgkml/jgxx/index.html	厅党组成员、副厅长		青海省交通运输厅	https://jtyst.qinghai.gov.cn/jtyst/2025-05/15/article_2025051516305658513.html	1264
+高轶		7		青海省		https://jtyst.qinghai.gov.cn/jtyst/zwgk/zfxxgkml/jgxx/index.html	厅党组成员、副厅长		青海省交通运输厅	https://jtyst.qinghai.gov.cn/jtyst/2025-08/12/article_2025081209132160577.html	1264
+史晓东		8		青海省		https://jtyst.qinghai.gov.cn/jtyst/zwgk/zfxxgkml/jgxx/index.html	厅党组成员、副厅长		青海省交通运输厅	https://jtyst.qinghai.gov.cn/jtyst/2026-01/27/article_2026012716094827265.html	1264
+周勇		9		青海省		https://jtyst.qinghai.gov.cn/jtyst/zwgk/zfxxgkml/jgxx/index.html	厅党组成员、副厅长		青海省交通运输厅	https://jtyst.qinghai.gov.cn/jtyst/2026-09/07/article_2026090718560298000.html	1264

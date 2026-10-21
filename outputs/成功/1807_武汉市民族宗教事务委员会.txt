@@ -1,0 +1,3 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+殷功博		1		湖北省	武汉市	https://mzw.wuhan.gov.cn/ZFXXGK_13641/XXGKML_devsavepath/jgzn/ldxx/	市民宗委党组成员、副主任		武汉市民族宗教事务委员会		1807
+孙立		2		湖北省	武汉市	https://mzw.wuhan.gov.cn/ZFXXGK_13641/XXGKML_devsavepath/jgzn/ldxx/	市民宗委党组成员、副主任		武汉市民族宗教事务委员会		1807

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张新怿		1		福建省	南平市	https://www.np.gov.cn/cms/html/npszf/szf/index.html	副市长		南平市人民政府	https://www.np.gov.cn/cms/html/npszf/zxyfsc/index.html	3865
+杨新强		2		福建省	南平市	https://www.np.gov.cn/cms/html/npszf/szf/index.html	副市长		南平市人民政府	https://www.np.gov.cn/cms/html/npszf/yxq/index.html	3865
+林湫		3		福建省	南平市	https://www.np.gov.cn/cms/html/npszf/szf/index.html	副市长		南平市人民政府	https://www.np.gov.cn/cms/html/npszf/lj/index.html	3865
+魏敦盛		4		福建省	南平市	https://www.np.gov.cn/cms/html/npszf/szf/index.html	副市长		南平市人民政府	https://www.np.gov.cn/cms/html/npszf/wdsfsc/index.html	3865
+徐达松		5		福建省	南平市	https://www.np.gov.cn/cms/html/npszf/szf/index.html	副市长		南平市人民政府	https://www.np.gov.cn/cms/html/npszf/xds/index.html	3865
+陈河北		6		福建省	南平市	https://www.np.gov.cn/cms/html/npszf/szf/index.html	副市长		南平市人民政府	https://www.np.gov.cn/cms/html/npszf/chb/index.html	3865
+黄桂诚		7		福建省	南平市	https://www.np.gov.cn/cms/html/npszf/szf/index.html	副市长		南平市人民政府	https://www.np.gov.cn/cms/html/npszf/hgc/index.html	3865
+黄拔荣		8		福建省	南平市	https://www.np.gov.cn/cms/html/npszf/szf/index.html	副市长		南平市人民政府	https://www.np.gov.cn/cms/html/npszf/hbr/index.html	3865
+詹旭斌		9		福建省	南平市	https://www.np.gov.cn/cms/html/npszf/szf/index.html	秘书长		南平市人民政府	https://www.np.gov.cn/cms/html/npszf/zxb/index.html	3865

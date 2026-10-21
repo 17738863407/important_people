@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+楼齐良		1		全国		http://www.crsc.cn/6310.html	党委书记、董事长		中国铁路通信信号集团有限公司	http://www.crsc.cn/news/tsi_1078_12204_45391.html	3489
+董宝良		2		全国		http://www.crsc.cn/6310.html	党委副书记、董事、总经理		中国铁路通信信号集团有限公司	http://www.crsc.cn/news/tsi_1078_12204_94786.html	3489
+李连清		3		全国		http://www.crsc.cn/6310.html	党委常委		中国铁路通信信号集团有限公司	http://www.crsc.cn/news/tsi_1078_12204_19801.html	3489
+姚希春		4		全国		http://www.crsc.cn/6310.html	党委常委、纪委书记		中国铁路通信信号集团有限公司	http://www.crsc.cn/news/tsi_1078_12204_52080.html	3489
+张志辉		5		全国		http://www.crsc.cn/6310.html	党委常委		中国铁路通信信号集团有限公司	http://www.crsc.cn/news/tsi_1078_12204_42666.html	3489
+万宝华		6		全国		http://www.crsc.cn/6310.html	党委常委		中国铁路通信信号集团有限公司	http://www.crsc.cn/news/tsi_1078_12204_64262.html	3489
+张啸林		7		全国		http://www.crsc.cn/6310.html	党委常委		中国铁路通信信号集团有限公司	http://www.crsc.cn/news/tsi_1078_12204_95803.html	3489

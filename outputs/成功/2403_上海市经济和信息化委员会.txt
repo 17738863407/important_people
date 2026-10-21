@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张伟		1		上海市		https://www.sheitc.sh.gov.cn/jgld/index.html	市经信工作党委书记		上海市经济和信息化委员会	https://www.sheitc.sh.gov.cn/jgld/20260729/5350df7b740f431db82a72b08197f541.html	2403
+汤文侃		2		上海市		https://www.sheitc.sh.gov.cn/jgld/index.html	市经信工作党委副书记、市经济信息化委主任		上海市经济和信息化委员会	https://www.sheitc.sh.gov.cn/jgld/20220615/0d781aeddf934293880749cd88be3b32.html	2403
+刘文杰		3		上海市		https://www.sheitc.sh.gov.cn/jgld/index.html	市经信工作党委副书记		上海市经济和信息化委员会	https://www.sheitc.sh.gov.cn/jgld/20260921/99a138443cda432e9e63e701dea48dfa.html	2403
+罗青		4		上海市		https://www.sheitc.sh.gov.cn/jgld/index.html	市经信工作党委委员、市纪委驻市经信工作党委纪检监察组组长		上海市经济和信息化委员会	https://www.sheitc.sh.gov.cn/jgld/20221108/985712d720b4442a865e6741fac3d752.html	2403
+蒲亚鹏		5		上海市		https://www.sheitc.sh.gov.cn/jgld/index.html	市经信工作党委委员、市经济信息化委副主任		上海市经济和信息化委员会	https://www.sheitc.sh.gov.cn/jgld/20250219/6024498db1e04dc5ab67b3baadbf1f1b.html	2403
+张宏韬		6		上海市		https://www.sheitc.sh.gov.cn/jgld/index.html	市经信工作党委委员、市经济信息化委副主任		上海市经济和信息化委员会	https://www.sheitc.sh.gov.cn/jgld/20191117/0020-662552.html	2403
+潘焱		7		上海市		https://www.sheitc.sh.gov.cn/jgld/index.html	市经信工作党委委员、市经济信息化委副主任		上海市经济和信息化委员会	https://www.sheitc.sh.gov.cn/jgld/20250930/47329a59186e4d799988b450b5d0c191.html	2403
+俞文杰		8		上海市		https://www.sheitc.sh.gov.cn/jgld/index.html	市经济信息化委副主任		上海市经济和信息化委员会	https://www.sheitc.sh.gov.cn/jgld/20260618/d510d38524c4499cb75ee03c64d9c916.html	2403

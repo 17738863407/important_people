@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李国强		1		山东省	泰安市	https://www.taian.gov.cn/col/col364554/index.html	市长		泰安市人民政府		3889
+唐传营		2		山东省	泰安市	https://www.taian.gov.cn/col/col364554/index.html	副市长		泰安市人民政府	https://www.taian.gov.cn/col/col209008/index.html	3889
+冯能斌		3		山东省	泰安市	https://www.taian.gov.cn/col/col364554/index.html	副市长		泰安市人民政府	https://www.taian.gov.cn/col/col253184/index.html	3889
+王立军		4		山东省	泰安市	https://www.taian.gov.cn/col/col364554/index.html	副市长		泰安市人民政府	https://www.taian.gov.cn/col/col352224/index.html	3889
+沙淑红		5		山东省	泰安市	https://www.taian.gov.cn/col/col364554/index.html	副市长		泰安市人民政府	https://www.taian.gov.cn/col/col363584/index.html	3889
+张建伟		6		山东省	泰安市	https://www.taian.gov.cn/col/col364554/index.html	副市长		泰安市人民政府	https://www.taian.gov.cn/col/col364555/index.html	3889
+陈炳飞		7		山东省	泰安市	https://www.taian.gov.cn/col/col364554/index.html	副市长		泰安市人民政府	https://www.taian.gov.cn/col/col366185/index.html	3889
+桑民		8		山东省	泰安市	https://www.taian.gov.cn/col/col364554/index.html	秘书长		泰安市人民政府	https://www.taian.gov.cn/col/col351659/index.html	3889

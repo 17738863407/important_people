@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马秀兰		1		宁夏回族自治区	中卫市	https://www.nxzw.gov.cn/zwgk/ldzc/	市长		中卫市人民政府	https://www.nxzw.gov.cn/zwgk/ldzc/sz/202502/t20250205_4810570.html	3918
+赵会勇		2		宁夏回族自治区	中卫市	https://www.nxzw.gov.cn/zwgk/ldzc/	副市长		中卫市人民政府	https://www.nxzw.gov.cn/zwgk/ldzc/fsz/202502/t20250205_4810575.html	3918
+王勇		3		宁夏回族自治区	中卫市	https://www.nxzw.gov.cn/zwgk/ldzc/	副市长		中卫市人民政府	https://www.nxzw.gov.cn/zwgk/ldzc/fsz/202609/t20260922_5353842.html	3918
+丁博韬		4		宁夏回族自治区	中卫市	https://www.nxzw.gov.cn/zwgk/ldzc/	副市长		中卫市人民政府	https://www.nxzw.gov.cn/zwgk/ldzc/fsz/202502/t20250226_4838121.html	3918
+孙伟		5		宁夏回族自治区	中卫市	https://www.nxzw.gov.cn/zwgk/ldzc/	副市长		中卫市人民政府	https://www.nxzw.gov.cn/zwgk/ldzc/fsz/202604/t20260430_5229958.html	3918
+张德军		6		宁夏回族自治区	中卫市	https://www.nxzw.gov.cn/zwgk/ldzc/	副市长		中卫市人民政府	https://www.nxzw.gov.cn/zwgk/ldzc/fsz/202502/t20250205_4810572.html	3918
+马玉清		7		宁夏回族自治区	中卫市	https://www.nxzw.gov.cn/zwgk/ldzc/	副市长		中卫市人民政府	https://www.nxzw.gov.cn/zwgk/ldzc/fsz/202608/t20260818_5315534.html	3918
+肖永刚		8		宁夏回族自治区	中卫市	https://www.nxzw.gov.cn/zwgk/ldzc/	副市长		中卫市人民政府	https://www.nxzw.gov.cn/zwgk/ldzc/fsz/202502/t20250226_4838130.html	3918
+李伏荣		9		宁夏回族自治区	中卫市	https://www.nxzw.gov.cn/zwgk/ldzc/	副市长		中卫市人民政府	https://www.nxzw.gov.cn/zwgk/ldzc/fsz/202512/t20251203_5099238.html	3918
+吕永军		10		宁夏回族自治区	中卫市	https://www.nxzw.gov.cn/zwgk/ldzc/	秘书长		中卫市人民政府	https://www.nxzw.gov.cn/zwgk/ldzc/msz/202504/t20250416_4882081.html	3918

@@ -1,0 +1,16 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何维		1		全国		https://www.redcross.org.cn/autoweb/hlwmh/second/hlwmh_hlwmhldjjyl.html	中国红十字会会长		中国红十字会	https://www.redcross.org.cn/autoweb/hlwmh/third/hlwmh_hlwmhldjjyl_288539.html?firstcode=	2172
+柳拯		2		全国		https://www.redcross.org.cn/autoweb/hlwmh/second/hlwmh_hlwmhldjjyl.html	中国红十字会党组书记、常务副会长		中国红十字会	https://www.redcross.org.cn/autoweb/hlwmh/third/hlwmh_hlwmhldjjyl_296960.html?firstcode=	2172
+苗得雨		3		全国		https://www.redcross.org.cn/autoweb/hlwmh/second/hlwmh_hlwmhldjjyl.html	中国红十字会副会长		中国红十字会	https://www.redcross.org.cn/autoweb/hlwmh/third/hlwmh_hlwmhldjjyl_292405.html?firstcode=	2172
+王嘉毅		4		全国		https://www.redcross.org.cn/autoweb/hlwmh/second/hlwmh_hlwmhldjjyl.html	中国红十字会副会长		中国红十字会	https://www.redcross.org.cn/autoweb/hlwmh/third/hlwmh_hlwmhldjjyl_288545.html?firstcode=	2172
+舒惠好		5		全国		https://www.redcross.org.cn/autoweb/hlwmh/second/hlwmh_hlwmhldjjyl.html	中国红十字会副会长		中国红十字会	https://www.redcross.org.cn/autoweb/hlwmh/third/hlwmh_hlwmhldjjyl_292833.html?firstcode=	2172
+郑哲		6		全国		https://www.redcross.org.cn/autoweb/hlwmh/second/hlwmh_hlwmhldjjyl.html	中国红十字会副会长		中国红十字会	https://www.redcross.org.cn/autoweb/hlwmh/third/hlwmh_hlwmhldjjyl_297931.html?firstcode=	2172
+徐加爱		7		全国		https://www.redcross.org.cn/autoweb/hlwmh/second/hlwmh_hlwmhldjjyl.html	中国红十字会副会长		中国红十字会	https://www.redcross.org.cn/autoweb/hlwmh/third/hlwmh_hlwmhldjjyl_297930.html?firstcode=	2172
+李立东		8		全国		https://www.redcross.org.cn/autoweb/hlwmh/second/hlwmh_hlwmhldjjyl.html	中国红十字会党组成员、副会长兼秘书长		中国红十字会	https://www.redcross.org.cn/autoweb/hlwmh/third/hlwmh_hlwmhldjjyl_288542.html?firstcode=	2172
+王斌		9		全国		https://www.redcross.org.cn/autoweb/hlwmh/second/hlwmh_hlwmhldjjyl.html	中国红十字会党组成员、副会长		中国红十字会	https://www.redcross.org.cn/autoweb/hlwmh/third/hlwmh_hlwmhldjjyl_288541.html?firstcode=	2172
+边晓		10		全国		https://www.redcross.org.cn/autoweb/hlwmh/second/hlwmh_hlwmhldjjyl.html	中国红十字会党组成员、副会长		中国红十字会	https://www.redcross.org.cn/autoweb/hlwmh/third/hlwmh_hlwmhldjjyl_294084.html?firstcode=	2172
+常军红		11		全国		https://www.redcross.org.cn/autoweb/hlwmh/second/hlwmh_hlwmhldjjyl.html	中国红十字会副会长		中国红十字会	https://www.redcross.org.cn/autoweb/hlwmh/third/hlwmh_hlwmhldjjyl_297929.html?firstcode=	2172
+梁宇		12		全国		https://www.redcross.org.cn/autoweb/hlwmh/second/hlwmh_hlwmhldjjyl.html	中国红十字会副会长		中国红十字会	https://www.redcross.org.cn/autoweb/hlwmh/third/hlwmh_hlwmhldjjyl_288540.html?firstcode=	2172
+白岩松		13		全国		https://www.redcross.org.cn/autoweb/hlwmh/second/hlwmh_hlwmhldjjyl.html	中国红十字会副会长		中国红十字会	https://www.redcross.org.cn/autoweb/hlwmh/third/hlwmh_hlwmhldjjyl_288543.html?firstcode=	2172
+张俊		14		全国		https://www.redcross.org.cn/autoweb/hlwmh/second/hlwmh_hlwmhldjjyl.html	中国红十字会监事长		中国红十字会	https://www.redcross.org.cn/autoweb/hlwmh/third/hlwmh_hlwmhldjjyl_297932.html?firstcode=	2172
+张晓彬		15		全国		https://www.redcross.org.cn/autoweb/hlwmh/second/hlwmh_hlwmhldjjyl.html	中国红十字会副监事长		中国红十字会	https://www.redcross.org.cn/autoweb/hlwmh/third/hlwmh_hlwmhldjjyl_288547.html?firstcode=	2172

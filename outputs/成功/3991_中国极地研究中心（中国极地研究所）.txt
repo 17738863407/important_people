@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张北辰		1		全国		https://www.pric.org.cn/index.php?c=category&id=6	主任、党委书记		中国极地研究中心（中国极地研究所）		3991
+张体军		2		全国		https://www.pric.org.cn/index.php?c=category&id=6	党委委员、副主任		中国极地研究中心（中国极地研究所）		3991
+王金辉		3		全国		https://www.pric.org.cn/index.php?c=category&id=6	党委委员、副主任		中国极地研究中心（中国极地研究所）		3991
+吴佳雯		4		全国		https://www.pric.org.cn/index.php?c=category&id=6	党委委员、专职副书记		中国极地研究中心（中国极地研究所）		3991
+魏福海		5		全国		https://www.pric.org.cn/index.php?c=category&id=6	党委委员、副主任		中国极地研究中心（中国极地研究所）		3991
+董瑞		6		全国		https://www.pric.org.cn/index.php?c=category&id=6	党委委员、纪委书记		中国极地研究中心（中国极地研究所）		3991

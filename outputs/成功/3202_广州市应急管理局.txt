@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+叶芳		1		广东省	广州市	http://yjglj.gz.gov.cn/gkmlpt/content/10/10755/post_10755279.html#685	广州市应急管理局党委书记、局长		广州市应急管理局		3202
+詹少卿		2		广东省	广州市	http://yjglj.gz.gov.cn/gkmlpt/content/10/10755/post_10755279.html#685	广州市应急管理局党委委员、副局长、二级巡视员		广州市应急管理局		3202
+李润培		3		广东省	广州市	http://yjglj.gz.gov.cn/gkmlpt/content/10/10755/post_10755279.html#685	广州市应急管理局党委委员、副局长		广州市应急管理局		3202
+王景		4		广东省	广州市	http://yjglj.gz.gov.cn/gkmlpt/content/10/10755/post_10755279.html#685	广州市应急管理局党委委员、总工程师		广州市应急管理局		3202
+李晓炜		5		广东省	广州市	http://yjglj.gz.gov.cn/gkmlpt/content/10/10755/post_10755279.html#685	广州市应急管理局党委委员、副局长		广州市应急管理局		3202
+夏帮军		6		广东省	广州市	http://yjglj.gz.gov.cn/gkmlpt/content/10/10755/post_10755279.html#685	广州市应急管理局二级巡视员		广州市应急管理局		3202
+何占良		7		广东省	广州市	http://yjglj.gz.gov.cn/gkmlpt/content/10/10755/post_10755279.html#685	广州市应急管理局一级调研员（市管干部）		广州市应急管理局		3202

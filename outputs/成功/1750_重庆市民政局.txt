@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+阚吉林		1		重庆市		http://mzj.cq.gov.cn/zwgk_218/fdzdgknr/jgjj/	重庆市民政局党组书记、局长		重庆市民政局	http://mzj.cq.gov.cn/zwgk_218/ldxx/202505/t20250509_14595033.html	1750
+刘晓年		2		重庆市		http://mzj.cq.gov.cn/zwgk_218/fdzdgknr/jgjj/	重庆市民政局党组副书记、副局长		重庆市民政局	http://mzj.cq.gov.cn/zwgk_218/ldxx/202604/t20260410_15604401.html	1750
+徐松强		3		重庆市		http://mzj.cq.gov.cn/zwgk_218/fdzdgknr/jgjj/	重庆市民政局一级巡视员		重庆市民政局	http://mzj.cq.gov.cn/zwgk_218/ldxx/202408/t20240819_13514985.html	1750
+许建华		4		重庆市		http://mzj.cq.gov.cn/zwgk_218/fdzdgknr/jgjj/	重庆市民政局党组成员、副局长		重庆市民政局	http://mzj.cq.gov.cn/zwgk_218/ldxx/202408/t20240819_13514980.html	1750
+余东海		5		重庆市		http://mzj.cq.gov.cn/zwgk_218/fdzdgknr/jgjj/	重庆市民政局党组成员、副局长		重庆市民政局	http://mzj.cq.gov.cn/zwgk_218/ldxx/202408/t20240819_13514973.html	1750
+袁开勇		6		重庆市		http://mzj.cq.gov.cn/zwgk_218/fdzdgknr/jgjj/	重庆市民政局党组成员、副局长		重庆市民政局	http://mzj.cq.gov.cn/zwgk_218/ldxx/202409/t20240904_13590279.html	1750
+周利民		7		重庆市		http://mzj.cq.gov.cn/zwgk_218/fdzdgknr/jgjj/	重庆市民政局市管二级巡视员		重庆市民政局	http://mzj.cq.gov.cn/zwgk_218/ldxx/202408/t20240819_13514971.html	1750
+罗世友		8		重庆市		http://mzj.cq.gov.cn/zwgk_218/fdzdgknr/jgjj/	重庆市民政局市管二级巡视员		重庆市民政局	http://mzj.cq.gov.cn/zwgk_218/ldxx/202408/t20240819_13514967.html	1750
+谭华		9		重庆市		http://mzj.cq.gov.cn/zwgk_218/fdzdgknr/jgjj/	重庆市民政局二级巡视员		重庆市民政局	http://mzj.cq.gov.cn/zwgk_218/ldxx/202606/t20260613_15751512.html	1750

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李佐军		1		全国		https://www.drc.gov.cn/yjlyyyjbm/index.aspx?departmentid=19	所长、研究员		国务院发展研究中心公共管理与人力资源研究所		4209
+肖庆文		2		全国		https://www.drc.gov.cn/yjlyyyjbm/index.aspx?departmentid=19	党支部书记、副所长、研究员		国务院发展研究中心公共管理与人力资源研究所		4209
+常纪文		3		全国		https://www.drc.gov.cn/yjlyyyjbm/index.aspx?departmentid=19	副所长、三级研究员（专业技术岗三级）		国务院发展研究中心公共管理与人力资源研究所		4209
+岳宗伟		4		全国		https://www.drc.gov.cn/yjlyyyjbm/index.aspx?departmentid=19	副所长		国务院发展研究中心公共管理与人力资源研究所		4209
+冯文猛		5		全国		https://www.drc.gov.cn/yjlyyyjbm/index.aspx?departmentid=19	副所长、研究员		国务院发展研究中心公共管理与人力资源研究所		4209

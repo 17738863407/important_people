@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨林		1		全国		https://www.cahec.cn/about/leader.html	中心主任		中国动物卫生与流行病学中心		0133
+吴晗		2		全国		https://www.cahec.cn/about/leader.html	中心党组书记、副主任		中国动物卫生与流行病学中心		0133
+王志亮		3		全国		https://www.cahec.cn/about/leader.html	中心党组成员、副主任		中国动物卫生与流行病学中心		0133
+吴晓东		4		全国		https://www.cahec.cn/about/leader.html	中心党组成员、副主任		中国动物卫生与流行病学中心		0133
+陆明哲		5		全国		https://www.cahec.cn/about/leader.html	中心党组成员、副主任		中国动物卫生与流行病学中心		0133
+回文广		6		全国		https://www.cahec.cn/about/leader.html	中心党组副书记		中国动物卫生与流行病学中心		0133

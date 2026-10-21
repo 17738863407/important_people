@@ -1,0 +1,17 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+林欣		1		福建省	福州市	http://scjg.fuzhou.gov.cn/zwgk/jgzn/	党组书记、局长		福州市市场监督管理局	https://scjg.fuzhou.gov.cn/zwgk/jgzn/jzzc/lx/	2248
+陈宗胜		2		福建省	福州市	http://scjg.fuzhou.gov.cn/zwgk/jgzn/	二级巡视员		福州市市场监督管理局	https://scjg.fuzhou.gov.cn/zwgk/jgzn/jzzc/czs/	2248
+徐东		3		福建省	福州市	http://scjg.fuzhou.gov.cn/zwgk/jgzn/	党组成员、副局长、二级调研员		福州市市场监督管理局	https://scjg.fuzhou.gov.cn/zwgk/jgzn/jzzc/xd/	2248
+李春茂		4		福建省	福州市	http://scjg.fuzhou.gov.cn/zwgk/jgzn/	党组成员、副局长		福州市市场监督管理局	https://scjg.fuzhou.gov.cn/zwgk/jgzn/jzzc/lcm/	2248
+薛文		5		福建省	福州市	http://scjg.fuzhou.gov.cn/zwgk/jgzn/	党组成员、副局长、二级调研员		福州市市场监督管理局	https://scjg.fuzhou.gov.cn/zwgk/jgzn/jzzc/xw/	2248
+周韶辉		6		福建省	福州市	http://scjg.fuzhou.gov.cn/zwgk/jgzn/	党组成员、副局长、三级调研员		福州市市场监督管理局	https://scjg.fuzhou.gov.cn/zwgk/jgzn/jzzc/zsh/	2248
+张明英		7		福建省	福州市	http://scjg.fuzhou.gov.cn/zwgk/jgzn/	食品安全总监（副处长级）		福州市市场监督管理局	https://scjg.fuzhou.gov.cn/zwgk/jgzn/jzzc/zmy/	2248
+黄可旺		8		福建省	福州市	http://scjg.fuzhou.gov.cn/zwgk/jgzn/	党组成员、驻局纪检监察组组长		福州市市场监督管理局	https://scjg.fuzhou.gov.cn/zwgk/jgzn/jzzc/hkw/	2248
+陈存伟		9		福建省	福州市	http://scjg.fuzhou.gov.cn/zwgk/jgzn/	党组成员、四级调研员		福州市市场监督管理局	https://scjg.fuzhou.gov.cn/zwgk/jgzn/jzzc/ccw/	2248
+高峰		10		福建省	福州市	http://scjg.fuzhou.gov.cn/zwgk/jgzn/	二级调研员		福州市市场监督管理局	https://scjg.fuzhou.gov.cn/zwgk/jgzn/jzzc/gf/	2248
+何朝晖		11		福建省	福州市	http://scjg.fuzhou.gov.cn/zwgk/jgzn/	二级调研员		福州市市场监督管理局	https://scjg.fuzhou.gov.cn/zwgk/jgzn/jzzc/hch/	2248
+刘德利		12		福建省	福州市	http://scjg.fuzhou.gov.cn/zwgk/jgzn/	综合执法支队支队长（副处长级）		福州市市场监督管理局	https://scjg.fuzhou.gov.cn/zwgk/jgzn/jzzc/ldl/	2248
+林鑫华		13		福建省	福州市	http://scjg.fuzhou.gov.cn/zwgk/jgzn/	综合执法支队政委（副处长级）		福州市市场监督管理局	https://scjg.fuzhou.gov.cn/zwgk/jgzn/jzzc/lxh/	2248
+琚明亮		14		福建省	福州市	http://scjg.fuzhou.gov.cn/zwgk/jgzn/	市知识产权保护中心主任（副处长级）		福州市市场监督管理局	https://scjg.fuzhou.gov.cn/zwgk/jgzn/jzzc/jml/	2248
+王延军		15		福建省	福州市	http://scjg.fuzhou.gov.cn/zwgk/jgzn/	三级调研员		福州市市场监督管理局	https://scjg.fuzhou.gov.cn/zwgk/jgzn/jzzc/wyj/	2248
+何春阳		16		福建省	福州市	http://scjg.fuzhou.gov.cn/zwgk/jgzn/	四级调研员		福州市市场监督管理局	https://scjg.fuzhou.gov.cn/zwgk/jgzn/jzzc/hcy/	2248

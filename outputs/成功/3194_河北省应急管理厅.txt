@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+薛永纯		1		河北省		https://yjgl.hebei.gov.cn/portal/infopublic/toInfoPublic?selectedId=jgzn	党委书记、厅长 ,省消防救援总队第一政治委员		河北省应急管理厅		3194
+高永路		2		河北省		https://yjgl.hebei.gov.cn/portal/infopublic/toInfoPublic?selectedId=jgzn	党委委员、副厅长、省消防救援总队总队长		河北省应急管理厅		3194
+刘春明		3		河北省		https://yjgl.hebei.gov.cn/portal/infopublic/toInfoPublic?selectedId=jgzn	党委委员、省纪委监委驻省应急管理厅纪检监察组组长		河北省应急管理厅		3194
+丰春雷		4		河北省		https://yjgl.hebei.gov.cn/portal/infopublic/toInfoPublic?selectedId=jgzn	党委委员、副厅长（新闻发言人）		河北省应急管理厅		3194
+韩建波		5		河北省		https://yjgl.hebei.gov.cn/portal/infopublic/toInfoPublic?selectedId=jgzn	党委委员、副厅长		河北省应急管理厅		3194
+荣伟		6		河北省		https://yjgl.hebei.gov.cn/portal/infopublic/toInfoPublic?selectedId=jgzn	党委委员、副厅长（新闻发言人）		河北省应急管理厅		3194
+张勇		7		河北省		https://yjgl.hebei.gov.cn/portal/infopublic/toInfoPublic?selectedId=jgzn	党委委员、副厅长		河北省应急管理厅		3194
+李少军		8		河北省		https://yjgl.hebei.gov.cn/portal/infopublic/toInfoPublic?selectedId=jgzn	党委委员、政治部主任		河北省应急管理厅		3194

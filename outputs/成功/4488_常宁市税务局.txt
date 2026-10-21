@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王年庚		1		湖南省	衡阳市	https://hunan.chinatax.gov.cn/hy/county/20190719075399/leaderlist/20190719075453	国家税务总局常宁市税务局党委书记、局长		常宁市税务局		4488
+邹强		2		湖南省	衡阳市	https://hunan.chinatax.gov.cn/hy/county/20190719075399/leaderlist/20190719075453	国家税务总局常宁市税务局党委委员、副局长		常宁市税务局		4488
+谢彦		3		湖南省	衡阳市	https://hunan.chinatax.gov.cn/hy/county/20190719075399/leaderlist/20190719075453	国家税务总局常宁市税务局党委委员、副局长		常宁市税务局		4488
+彭素鹏		4		湖南省	衡阳市	https://hunan.chinatax.gov.cn/hy/county/20190719075399/leaderlist/20190719075453	国家税务总局常宁市税务局党委委员、副局长		常宁市税务局		4488
+成佳佳		5		湖南省	衡阳市	https://hunan.chinatax.gov.cn/hy/county/20190719075399/leaderlist/20190719075453	国家税务总局常宁市税务局党委委员、纪检组组长		常宁市税务局		4488
+彭建华		6		湖南省	衡阳市	https://hunan.chinatax.gov.cn/hy/county/20190719075399/leaderlist/20190719075453	国家税务总局常宁市税务局党委委员、副局长		常宁市税务局		4488

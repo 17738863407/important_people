@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈亮		1		广西壮族自治区		http://sthjt.gxzf.gov.cn/zfxxgk/zfxxgkgl/fdzdgknr/jggk/jgldjk/	广西壮族自治区生态环境厅党组书记、厅长		广西壮族自治区生态环境厅	http://sthjt.gxzf.gov.cn/zfxxgk/zfxxgkgl/fdzdgknr/jggk/jgldjk/t18330670.shtml	2569
+陈竑		2		广西壮族自治区		http://sthjt.gxzf.gov.cn/zfxxgk/zfxxgkgl/fdzdgknr/jggk/jgldjk/	广西壮族自治区生态环境厅党组成员、副厅长、一级巡视员		广西壮族自治区生态环境厅	http://sthjt.gxzf.gov.cn/zfxxgk/zfxxgkgl/fdzdgknr/jggk/jgldjk/t18482736.shtml	2569
+徐科峰		3		广西壮族自治区		http://sthjt.gxzf.gov.cn/zfxxgk/zfxxgkgl/fdzdgknr/jggk/jgldjk/	广西壮族自治区生态环境厅党组成员、副厅长		广西壮族自治区生态环境厅	http://sthjt.gxzf.gov.cn/zfxxgk/zfxxgkgl/fdzdgknr/jggk/jgldjk/t27774678.shtml	2569
+宁耘		4		广西壮族自治区		http://sthjt.gxzf.gov.cn/zfxxgk/zfxxgkgl/fdzdgknr/jggk/jgldjk/	广西壮族自治区生态环境厅党组成员、副厅长		广西壮族自治区生态环境厅	http://sthjt.gxzf.gov.cn/zfxxgk/zfxxgkgl/fdzdgknr/jggk/jgldjk/t18330685.shtml	2569
+黄颖		5		广西壮族自治区		http://sthjt.gxzf.gov.cn/zfxxgk/zfxxgkgl/fdzdgknr/jggk/jgldjk/	广西壮族自治区生态环境厅党组成员、副厅长		广西壮族自治区生态环境厅	http://sthjt.gxzf.gov.cn/zfxxgk/zfxxgkgl/fdzdgknr/jggk/jgldjk/t18330666.shtml	2569
+黄荣煜		6		广西壮族自治区		http://sthjt.gxzf.gov.cn/zfxxgk/zfxxgkgl/fdzdgknr/jggk/jgldjk/	广西壮族自治区纪委监委驻自治区生态环境厅纪检监察组组长（试用期一年）、广西壮族自治区生态环境厅党组成员		广西壮族自治区生态环境厅	http://sthjt.gxzf.gov.cn/zfxxgk/zfxxgkgl/fdzdgknr/jggk/jgldjk/t22604956.shtml	2569

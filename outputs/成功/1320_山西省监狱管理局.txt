@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马慧健		1		山西省		https://jyj.shanxi.gov.cn/dwgk_87133/ldxx/	山西省监狱管理局党委书记、局长		山西省监狱管理局	https://jyj.shanxi.gov.cn/dwgk_87133/ldxx/202607/t20260724_10183285.shtml	1320
+李强		2		山西省		https://jyj.shanxi.gov.cn/dwgk_87133/ldxx/	山西省监狱管理局党委副书记、政委		山西省监狱管理局	https://jyj.shanxi.gov.cn/dwgk_87133/ldxx/202509/t20250903_9951154.shtml	1320
+李领国		3		山西省		https://jyj.shanxi.gov.cn/dwgk_87133/ldxx/	山西省监狱管理局党委委员、副局长		山西省监狱管理局	https://jyj.shanxi.gov.cn/dwgk_87133/ldxx/202501/t20250102_9734455.shtml	1320
+商运祥		4		山西省		https://jyj.shanxi.gov.cn/dwgk_87133/ldxx/	山西省监狱管理局党委委员、副局长、二级巡视员		山西省监狱管理局	https://jyj.shanxi.gov.cn/dwgk_87133/ldxx/202501/t20250102_9734454.shtml	1320
+李林成		5		山西省		https://jyj.shanxi.gov.cn/dwgk_87133/ldxx/	山西省监狱管理局党委委员、副局长、二级巡视员		山西省监狱管理局	https://jyj.shanxi.gov.cn/dwgk_87133/ldxx/202501/t20250102_9734453.shtml	1320
+李峥		6		山西省		https://jyj.shanxi.gov.cn/dwgk_87133/ldxx/	山西省监狱管理局党委委员、政治部主任		山西省监狱管理局	https://jyj.shanxi.gov.cn/dwgk_87133/ldxx/202502/t20250221_9773487.shtml	1320
+武培林		7		山西省		https://jyj.shanxi.gov.cn/dwgk_87133/ldxx/	山西省监狱管理局总工程师		山西省监狱管理局	https://jyj.shanxi.gov.cn/dwgk_87133/ldxx/202509/t20250903_9951159.shtml	1320

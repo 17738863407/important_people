@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+金志鹏		1		浙江省		https://www.zj.gov.cn/dctslm/zjssjj/index.html	浙江省数据局党组书记、局长，兼任省政务服务管理办公室主任		浙江省数据局	https://www.zj.gov.cn/art/2024/12/2/art_1229406038_170028.html	3351
+刘璇		2		浙江省		https://www.zj.gov.cn/dctslm/zjssjj/index.html	浙江省数据局党组副书记、副局长，兼任省政务服务管理办公室副主任		浙江省数据局	https://www.zj.gov.cn/art/2025/1/22/art_1229406038_173619.html	3351
+陈瑜		3		浙江省		https://www.zj.gov.cn/dctslm/zjssjj/index.html	浙江省数据局党组成员、副局长		浙江省数据局	https://www.zj.gov.cn/art/2025/1/22/art_1229406038_173621.html	3351
+周斌		4		浙江省		https://www.zj.gov.cn/dctslm/zjssjj/index.html	浙江省数据局党组成员、副局长		浙江省数据局	https://www.zj.gov.cn/art/2024/12/2/art_1229406038_170024.html	3351
+吴旭升		5		浙江省		https://www.zj.gov.cn/dctslm/zjssjj/index.html	浙江省数据局党组成员、副局长		浙江省数据局	https://www.zj.gov.cn/art/2025/1/22/art_1229406038_173618.html	3351

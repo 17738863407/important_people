@@ -1,0 +1,20 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨震		1		全国		https://www.wrsa.net/1000581/2026/06-09/content_42552458.htm	会长		欧美同学会		2964
+王贻芳		2		全国		https://www.wrsa.net/1000581/2026/06-09/content_42552458.htm	副会长		欧美同学会		2964
+任友群		3		全国		https://www.wrsa.net/1000581/2026/06-09/content_42552458.htm	副会长		欧美同学会		2964
+李林		4		全国		https://www.wrsa.net/1000581/2026/06-09/content_42552458.htm	副会长		欧美同学会		2964
+张卫红		5		全国		https://www.wrsa.net/1000581/2026/06-09/content_42552458.htm	副会长		欧美同学会		2964
+张柏青		6		全国		https://www.wrsa.net/1000581/2026/06-09/content_42552458.htm	副会长		欧美同学会		2964
+张锁江		7		全国		https://www.wrsa.net/1000581/2026/06-09/content_42552458.htm	副会长		欧美同学会		2964
+陈贵云		8		全国		https://www.wrsa.net/1000581/2026/06-09/content_42552458.htm	副会长		欧美同学会		2964
+罗先刚		9		全国		https://www.wrsa.net/1000581/2026/06-09/content_42552458.htm	副会长		欧美同学会		2964
+高松		10		全国		https://www.wrsa.net/1000581/2026/06-09/content_42552458.htm	副会长		欧美同学会		2964
+唐智勇		11		全国		https://www.wrsa.net/1000581/2026/06-09/content_42552458.htm	副会长		欧美同学会		2964
+谈哲敏		12		全国		https://www.wrsa.net/1000581/2026/06-09/content_42552458.htm	副会长		欧美同学会		2964
+曹晋滨		13		全国		https://www.wrsa.net/1000581/2026/06-09/content_42552458.htm	副会长		欧美同学会		2964
+崔建春		14		全国		https://www.wrsa.net/1000581/2026/06-09/content_42552458.htm	副会长		欧美同学会		2964
+程林		15		全国		https://www.wrsa.net/1000581/2026/06-09/content_42552458.htm	副会长		欧美同学会		2964
+窦贤康		16		全国		https://www.wrsa.net/1000581/2026/06-09/content_42552458.htm	副会长		欧美同学会		2964
+颜清辉		17		全国		https://www.wrsa.net/1000581/2026/06-09/content_42552458.htm	副会长		欧美同学会		2964
+潘建伟		18		全国		https://www.wrsa.net/1000581/2026/06-09/content_42552458.htm	副会长		欧美同学会		2964
+燕瑛		19		全国		https://www.wrsa.net/1000581/2026/06-09/content_42552458.htm	副会长		欧美同学会		2964

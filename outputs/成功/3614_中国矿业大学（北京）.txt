@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+韩尚峰		1		北京市		https://www.cumtb.edu.cn/xxgk/xrld.htm	党委书记；党委常委		中国矿业大学（北京）	https://www.cumtb.edu.cn/info/1012/10585.htm	3614
+刘波		2		北京市		https://www.cumtb.edu.cn/xxgk/xrld.htm	校长；党委副书记；党委常委		中国矿业大学（北京）		3614
+安宇		3		北京市		https://www.cumtb.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		中国矿业大学（北京）	https://www.cumtb.edu.cn/info/1012/7958.htm	3614
+魏名山		4		北京市		https://www.cumtb.edu.cn/xxgk/xrld.htm	党委副书记；纪委书记；党委常委		中国矿业大学（北京）	https://www.cumtb.edu.cn/info/1012/10400.htm	3614
+崔希民		5		北京市		https://www.cumtb.edu.cn/xxgk/xrld.htm	副校长；党委常委		中国矿业大学（北京）	https://www.cumtb.edu.cn/info/1012/5925.htm	3614
+谭凯		6		北京市		https://www.cumtb.edu.cn/xxgk/xrld.htm	副校长；党委常委		中国矿业大学（北京）	https://www.cumtb.edu.cn/info/1012/9029.htm	3614
+汪文生		7		北京市		https://www.cumtb.edu.cn/xxgk/xrld.htm	副校长；党委常委		中国矿业大学（北京）	https://www.cumtb.edu.cn/info/1012/9030.htm	3614
+王凯		8		北京市		https://www.cumtb.edu.cn/xxgk/xrld.htm	副校长；党委常委		中国矿业大学（北京）	https://www.cumtb.edu.cn/info/1012/11348.htm	3614
+董会泽		9		北京市		https://www.cumtb.edu.cn/xxgk/xrld.htm	党委常委		中国矿业大学（北京）		3614
+杨大鹏		10		北京市		https://www.cumtb.edu.cn/xxgk/xrld.htm	党委常委		中国矿业大学（北京）		3614
+乔红兵		11		北京市		https://www.cumtb.edu.cn/xxgk/xrld.htm	校长助理		中国矿业大学（北京）		3614
+赵毅鑫		12		北京市		https://www.cumtb.edu.cn/xxgk/xrld.htm	校长助理		中国矿业大学（北京）		3614

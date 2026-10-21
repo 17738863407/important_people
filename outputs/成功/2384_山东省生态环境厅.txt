@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+侯翠荣		1		山东省		http://www.shandong.gov.cn/col/col314080/index.html	省生态环境厅党组书记、厅长		山东省生态环境厅		2384
+赵峰		2		山东省		http://www.shandong.gov.cn/col/col314080/index.html	省生态环境厅党组副书记、副厅长兼省生态环境保护督察办公室主任		山东省生态环境厅		2384
+刘东平		3		山东省		http://www.shandong.gov.cn/col/col314080/index.html	省生态环境厅党组成员，省纪委监委驻省生态环境厅纪检监察组组长、二级高级监察官		山东省生态环境厅		2384
+王福栋		4		山东省		http://www.shandong.gov.cn/col/col314080/index.html	省生态环境厅党组成员、副厅长		山东省生态环境厅		2384
+伍其东		5		山东省		http://www.shandong.gov.cn/col/col314080/index.html	省生态环境厅党组成员、副厅长		山东省生态环境厅		2384
+钱毅新		6		山东省		http://www.shandong.gov.cn/col/col314080/index.html	省生态环境厅党组成员、副厅长		山东省生态环境厅		2384
+赵辉		7		山东省		http://www.shandong.gov.cn/col/col314080/index.html	省生态环境厅党组成员、副厅长，厅执法局局长		山东省生态环境厅		2384
+范立俍		8		山东省		http://www.shandong.gov.cn/col/col314080/index.html	省生态环境保护督察专员（副厅级）		山东省生态环境厅		2384
+张可		9		山东省		http://www.shandong.gov.cn/col/col314080/index.html	省生态环境保护督察专员（副厅级）		山东省生态环境厅		2384

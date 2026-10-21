@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄莉新		1		全国		https://www.shrd.gov.cn/shrd/rdgl/rdgl.html	主任		上海市人民代表大会常务委员会	https://www.shrd.gov.cn/shrd/hlx/hlx.html	2410
+郑钢淼		2		全国		https://www.shrd.gov.cn/shrd/rdgl/rdgl.html	副主任		上海市人民代表大会常务委员会	https://www.shrd.gov.cn/shrd/zgm/zgm.html	2410
+宗明		3		全国		https://www.shrd.gov.cn/shrd/rdgl/rdgl.html	副主任		上海市人民代表大会常务委员会	https://www.shrd.gov.cn/shrd/zm/zm.html	2410
+陈靖		4		全国		https://www.shrd.gov.cn/shrd/rdgl/rdgl.html	副主任		上海市人民代表大会常务委员会	https://www.shrd.gov.cn/shrd/cj/cj.html	2410
+张全		5		全国		https://www.shrd.gov.cn/shrd/rdgl/rdgl.html	副主任		上海市人民代表大会常务委员会	https://www.shrd.gov.cn/shrd/zq/zq.html	2410
+徐毅松		6		全国		https://www.shrd.gov.cn/shrd/rdgl/rdgl.html	副主任		上海市人民代表大会常务委员会	https://www.shrd.gov.cn/shrd/xys/xys.html	2410
+滕建勇		7		全国		https://www.shrd.gov.cn/shrd/rdgl/rdgl.html	副主任		上海市人民代表大会常务委员会	https://www.shrd.gov.cn/shrd/tjy/tjy.html	2410
+谢坚钢		8		全国		https://www.shrd.gov.cn/shrd/rdgl/rdgl.html	秘书长		上海市人民代表大会常务委员会	https://www.shrd.gov.cn/shrd/xjg/xjg.html	2410

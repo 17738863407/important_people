@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+冯云生		1		全国		https://www.cepmg.com.cn/jtgk/jtld/	党委书记、董事长		中国教育出版传媒集团		0191
+徐忠波		2		全国		https://www.cepmg.com.cn/jtgk/jtld/	党委副书记、董事、总经理		中国教育出版传媒集团		0191
+刘宏杰		3		全国		https://www.cepmg.com.cn/jtgk/jtld/	党委副书记		中国教育出版传媒集团		0191
+于春迟		4		全国		https://www.cepmg.com.cn/jtgk/jtld/	党委委员、董事 语文出版社有限公司 党总支书记、社长、董事长		中国教育出版传媒集团		0191
+花向荣		5		全国		https://www.cepmg.com.cn/jtgk/jtld/	党委委员、副董事长		中国教育出版传媒集团		0191
+谭方正		6		全国		https://www.cepmg.com.cn/jtgk/jtld/	董事 高等教育出版社有限公司 党委书记、社长、董事长		中国教育出版传媒集团		0191
+孙强		7		全国		https://www.cepmg.com.cn/jtgk/jtld/	董事 人民教育出版社有限公司 党委书记、社长、董事长		中国教育出版传媒集团		0191
+李智发		8		全国		https://www.cepmg.com.cn/jtgk/jtld/	纪委书记		中国教育出版传媒集团		0191
+周增宇		9		全国		https://www.cepmg.com.cn/jtgk/jtld/	副总经理、工会联合会主席		中国教育出版传媒集团		0191
+宋义栋		10		全国		https://www.cepmg.com.cn/jtgk/jtld/	副总经理 中教华影数字服务股份有限公司 党总支书记、董事长		中国教育出版传媒集团		0191

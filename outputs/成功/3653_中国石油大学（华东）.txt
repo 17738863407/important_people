@@ -1,0 +1,16 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴强明		1		山东省	青岛市	https://www.upc.edu.cn/xygk/xrld1.htm	党委书记；党委常委		中国石油大学（华东）	https://www.upc.edu.cn/info/1472/9100.htm	3653
+郝芳		2		山东省	青岛市	https://www.upc.edu.cn/xygk/xrld1.htm	党委副书记；党委常委；校长		中国石油大学（华东）	https://www.upc.edu.cn/info/1473/9101.htm	3653
+万云波		3		山东省	青岛市	https://www.upc.edu.cn/xygk/xrld1.htm	党委副书记；党委常委		中国石油大学（华东）	https://www.upc.edu.cn/info/1474/9102.htm	3653
+马国顺		4		山东省	青岛市	https://www.upc.edu.cn/xygk/xrld1.htm	党委副书记；党委常委		中国石油大学（华东）	https://www.upc.edu.cn/info/1474/9103.htm	3653
+刘珂		5		山东省	青岛市	https://www.upc.edu.cn/xygk/xrld1.htm	党委副书记；纪委书记；党委常委		中国石油大学（华东）	https://www.upc.edu.cn/info/1475/9082.htm	3653
+操应长		6		山东省	青岛市	https://www.upc.edu.cn/xygk/xrld1.htm	党委常委；副校长		中国石油大学（华东）	https://www.upc.edu.cn/info/1476/9093.htm	3653
+周鹏		7		山东省	青岛市	https://www.upc.edu.cn/xygk/xrld1.htm	党委常委；副校长		中国石油大学（华东）	https://www.upc.edu.cn/info/1476/9094.htm	3653
+于连栋		8		山东省	青岛市	https://www.upc.edu.cn/xygk/xrld1.htm	党委常委；副校长		中国石油大学（华东）	https://www.upc.edu.cn/info/1476/9279.htm	3653
+赵放辉		9		山东省	青岛市	https://www.upc.edu.cn/xygk/xrld1.htm	党委常委		中国石油大学（华东）		3653
+蒋文春		10		山东省	青岛市	https://www.upc.edu.cn/xygk/xrld1.htm	党委常委		中国石油大学（华东）		3653
+李贞刚		11		山东省	青岛市	https://www.upc.edu.cn/xygk/xrld1.htm	党委常委		中国石油大学（华东）		3653
+李忠伟		12		山东省	青岛市	https://www.upc.edu.cn/xygk/xrld1.htm	党委常委		中国石油大学（华东）		3653
+徐悦伟		13		山东省	青岛市	https://www.upc.edu.cn/xygk/xrld1.htm	党委常委		中国石油大学（华东）		3653
+戴彩丽		14		山东省	青岛市	https://www.upc.edu.cn/xygk/xrld1.htm	副校长		中国石油大学（华东）	https://www.upc.edu.cn/info/1478/9108.htm	3653
+王效美		15		山东省	青岛市	https://www.upc.edu.cn/xygk/xrld1.htm	校长助理		中国石油大学（华东）		3653

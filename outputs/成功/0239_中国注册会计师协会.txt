@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵鸣骥		1		全国		https://www.cicpa.org.cn/jggk/leaders/xhldcy/	中国注册会计师协会会长，战略与财务委员会主任委员		中国注册会计师协会	https://www.cicpa.org.cn/jggk/leaders/xhldcy/201910/t20191008_19092.html	0239
+江湧		2		全国		https://www.cicpa.org.cn/jggk/leaders/xhldcy/	中国注册会计师协会党委书记、常务副会长、秘书长，中国注册会计师行业党委常务副书记		中国注册会计师协会	https://www.cicpa.org.cn/jggk/leaders/xhldcy/201910/t20191008_19085.html	0239
+郜进兴		3		全国		https://www.cicpa.org.cn/jggk/leaders/xhldcy/	中国注册会计师协会副会长		中国注册会计师协会	https://www.cicpa.org.cn/jggk/leaders/xhldcy/202401/t20240103_64604.html	0239
+吴萌		4		全国		https://www.cicpa.org.cn/jggk/leaders/xhldcy/	中国证监会会计部主任，兼任中国注册会计师协会副会长		中国注册会计师协会	https://www.cicpa.org.cn/jggk/leaders/xhldcy/202401/t20240103_64610.html	0239
+朱建弟		5		全国		https://www.cicpa.org.cn/jggk/leaders/xhldcy/	立信会计师事务所（特殊普通合伙）董事长、首席合伙人，兼任中国注册会计师协会副会长		中国注册会计师协会	https://www.cicpa.org.cn/jggk/leaders/xhldcy/202401/t20240103_64609.html	0239
+胡少先		6		全国		https://www.cicpa.org.cn/jggk/leaders/xhldcy/	天健会计师事务所(特殊普通合伙)党委书记、首席合伙人，兼任中国注册会计师协会副会长		中国注册会计师协会	https://www.cicpa.org.cn/jggk/leaders/xhldcy/202401/t20240103_64608.html	0239
+肖厚发		7		全国		https://www.cicpa.org.cn/jggk/leaders/xhldcy/	容诚会计师事务所（特殊普通合伙）首席合伙人，兼任中国注册会计师协会副会长		中国注册会计师协会	https://www.cicpa.org.cn/jggk/leaders/xhldcy/202401/t20240103_64607.html	0239
+宋朝学		8		全国		https://www.cicpa.org.cn/jggk/leaders/xhldcy/	信永中和会计师事务所（特殊普通合伙）合伙人、集团总裁、成都分所总经理，兼任中国注册会计师协会副会长		中国注册会计师协会	https://www.cicpa.org.cn/jggk/leaders/xhldcy/202401/t20240103_64606.html	0239
+毛鞍宁		9		全国		https://www.cicpa.org.cn/jggk/leaders/xhldcy/	安永华明会计师事务所（特殊普通合伙）首席合伙人，兼任中国注册会计师协会副会长		中国注册会计师协会	https://www.cicpa.org.cn/jggk/leaders/xhldcy/202401/t20240103_64605.html	0239
+佟庆国		10		全国		https://www.cicpa.org.cn/jggk/leaders/xhldcy/	中国注册会计师协会党委委员，中国注册会计师行业党委副书记		中国注册会计师协会	https://www.cicpa.org.cn/jggk/leaders/mscldcy/202203/t20220303_63394.html	0239
+薛虓乾		11		全国		https://www.cicpa.org.cn/jggk/leaders/xhldcy/	中国注册会计师协会党委委员、副秘书长		中国注册会计师协会	https://www.cicpa.org.cn/jggk/leaders/mscldcy/202510/t20251017_65672.html	0239
+万文翔		12		全国		https://www.cicpa.org.cn/jggk/leaders/xhldcy/	中国注册会计师协会党委委员、副秘书长，中国注册会计师行业党委委员		中国注册会计师协会	https://www.cicpa.org.cn/jggk/leaders/mscldcy/202110/t20211027_63010.html	0239
+张晓红		13		全国		https://www.cicpa.org.cn/jggk/leaders/xhldcy/	中国注册会计师协会党委委员、纪委书记		中国注册会计师协会	https://www.cicpa.org.cn/jggk/leaders/mscldcy/202607/t20260707_66012.html	0239

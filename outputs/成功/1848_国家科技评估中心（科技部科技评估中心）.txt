@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+侯琼华		1		全国		https://www.ncste.org/leadership/index.html	主任		国家科技评估中心（科技部科技评估中心）		1848
+霍竹		2		全国		https://www.ncste.org/leadership/index.html	副主任		国家科技评估中心（科技部科技评估中心）		1848
+田德录		3		全国		https://www.ncste.org/leadership/index.html	副主任		国家科技评估中心（科技部科技评估中心）		1848
+杨云		4		全国		https://www.ncste.org/leadership/index.html	副总评估师		国家科技评估中心（科技部科技评估中心）		1848

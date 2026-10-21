@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+牛世平		1		甘肃省	兰州市	https://xmpszx.lanzhou.gov.cn/col/col16212/index.html	牛世平同志（党组书记、主任）		兰州市项目投资评审中心	https://xmpszx.lanzhou.gov.cn/art/2025/12/30/art_2928_1668176.html	3088
+刘军		2		甘肃省	兰州市	https://xmpszx.lanzhou.gov.cn/col/col16212/index.html	刘 军同志（党组成员、副主任）		兰州市项目投资评审中心	https://xmpszx.lanzhou.gov.cn/art/2019/5/28/art_2928_626713.html	3088
+王旭		3		甘肃省	兰州市	https://xmpszx.lanzhou.gov.cn/col/col16212/index.html	王 旭同志（党组成员、副主任）		兰州市项目投资评审中心	https://xmpszx.lanzhou.gov.cn/art/2020/1/16/art_2928_843918.html	3088

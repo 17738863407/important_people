@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+达娃次仁		1		青海省		http://zjt.qinghai.gov.cn/zwgk/fdzdgk/jgjj/ldzc/	党组书记		青海省住房和城乡建设厅	https://zjt.qinghai.gov.cn/zwgk/fdzdgk/jgjj/ldzc/202604/t20260410_420290.html	3386
+吴志城		2		青海省		http://zjt.qinghai.gov.cn/zwgk/fdzdgk/jgjj/ldzc/	厅长		青海省住房和城乡建设厅	https://zjt.qinghai.gov.cn/zwgk/fdzdgk/jgjj/ldzc/202604/t20260410_420278.html	3386
+秦志强		3		青海省		http://zjt.qinghai.gov.cn/zwgk/fdzdgk/jgjj/ldzc/	党组成员、省纪委监委派驻厅纪检监察组组长		青海省住房和城乡建设厅	https://zjt.qinghai.gov.cn/zwgk/fdzdgk/jgjj/ldzc/202604/t20260410_420285.html	3386
+雷译		4		青海省		http://zjt.qinghai.gov.cn/zwgk/fdzdgk/jgjj/ldzc/	党组成员、副厅长		青海省住房和城乡建设厅	https://zjt.qinghai.gov.cn/zwgk/fdzdgk/jgjj/ldzc/202604/t20260410_420287.html	3386
+唐晓剑		5		青海省		http://zjt.qinghai.gov.cn/zwgk/fdzdgk/jgjj/ldzc/	党组成员、副厅长		青海省住房和城乡建设厅	https://zjt.qinghai.gov.cn/zwgk/fdzdgk/jgjj/ldzc/202604/t20260410_420284.html	3386
+刘恒建		6		青海省		http://zjt.qinghai.gov.cn/zwgk/fdzdgk/jgjj/ldzc/	党组成员、副厅长		青海省住房和城乡建设厅	https://zjt.qinghai.gov.cn/zwgk/fdzdgk/jgjj/ldzc/202604/t20260410_420281.html	3386
+王章军		7		青海省		http://zjt.qinghai.gov.cn/zwgk/fdzdgk/jgjj/ldzc/	党组成员、副厅长		青海省住房和城乡建设厅	https://zjt.qinghai.gov.cn/zwgk/fdzdgk/jgjj/ldzc/202604/t20260410_420303.html	3386

@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王越剑		1		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834015/index.html	党组书记、局长		杭州市经济和信息化局		0876
+张鸽		2		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834015/index.html	党组副书记、副局长		杭州市经济和信息化局		0876
+杨柳春		3		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834015/index.html	党组成员、副局长		杭州市经济和信息化局		0876
+李明松		4		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834015/index.html	党组成员、副局长		杭州市经济和信息化局		0876
+周宁		5		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834015/index.html	党组成员、副局长		杭州市经济和信息化局		0876
+林昀		6		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834015/index.html	党组成员、副局长		杭州市经济和信息化局		0876
+孙海波		7		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834015/index.html	党组成员、二级巡视员		杭州市经济和信息化局		0876
+杜柱佳		8		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834015/index.html	副局级干部		杭州市经济和信息化局		0876
+杨荣欣		9		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834015/index.html	二级巡视员		杭州市经济和信息化局		0876
+曹勇前		10		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834015/index.html	党组成员、二级巡视员		杭州市经济和信息化局		0876
+卢建祥		11		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834015/index.html	二级巡视员		杭州市经济和信息化局		0876
+徐瑞君		12		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834015/index.html	一级调研员		杭州市经济和信息化局		0876

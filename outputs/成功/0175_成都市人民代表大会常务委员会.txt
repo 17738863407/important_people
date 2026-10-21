@@ -1,0 +1,8 @@
+﻿姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何礼		1		四川省	成都市	http://www.cdrd.gov.cn/website/	主任		成都市人民代表大会常务委员会		0175
+邵革军		2		四川省	成都市	http://www.cdrd.gov.cn/website/	副主任		成都市人民代表大会常务委员会	http://www.cdrd.gov.cn:80/website/sgj/index.jhtml	0175
+刘守成		3		四川省	成都市	http://www.cdrd.gov.cn/website/	副主任		成都市人民代表大会常务委员会	http://www.cdrd.gov.cn:80/website/lsc/index.jhtml	0175
+王平江		4		四川省	成都市	http://www.cdrd.gov.cn/website/	副主任		成都市人民代表大会常务委员会	http://www.cdrd.gov.cn:80/website/wpj/index.jhtml	0175
+史红平		5		四川省	成都市	http://www.cdrd.gov.cn/website/	副主任		成都市人民代表大会常务委员会	http://www.cdrd.gov.cn:80/website/shp/index.jhtml	0175
+丁小斌		6		四川省	成都市	http://www.cdrd.gov.cn/website/	副主任		成都市人民代表大会常务委员会	http://www.cdrd.gov.cn:80/website/dxb/index.jhtml	0175
+马烈红		7		四川省	成都市	http://www.cdrd.gov.cn/website/	秘书长		成都市人民代表大会常务委员会	http://www.cdrd.gov.cn:80/website/mlh/index.jhtml	0175

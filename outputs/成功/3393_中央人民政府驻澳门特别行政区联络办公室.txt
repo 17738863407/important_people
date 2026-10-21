@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑新聪		1		全国		https://www.zlb.gov.cn/jgzn.htm	主任		中央人民政府驻澳门特别行政区联络办公室	http://www.zlb.gov.cn/20250312/12fba92a1bff454aa362293e1e757d83/c.html	3393
+吕玉印		2		全国		https://www.zlb.gov.cn/jgzn.htm	副主任		中央人民政府驻澳门特别行政区联络办公室	http://www.zlb.gov.cn/20250312/aa73a7573a294e078b9e908f80f02443/c.html	3393
+张应杰		3		全国		https://www.zlb.gov.cn/jgzn.htm	副主任		中央人民政府驻澳门特别行政区联络办公室	http://www.zlb.gov.cn/20250312/136afa80ec444e91bc08898c98fbba80/c.html	3393
+杨伟群		4		全国		https://www.zlb.gov.cn/jgzn.htm	副主任		中央人民政府驻澳门特别行政区联络办公室	https://www.zlb.gov.cn/20260325/e0045bdaaaa7448c9ffb659ae52de6a5/c.html	3393

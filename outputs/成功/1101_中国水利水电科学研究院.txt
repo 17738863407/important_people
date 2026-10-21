@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王建华		1		全国		http://www.iwhr.com/zgskywwnew/skgk/ldjj/N010102index_1.htm	院长、党委书记		中国水利水电科学研究院		1101
+宋树芳		2		全国		http://www.iwhr.com/zgskywwnew/skgk/ldjj/N010102index_1.htm	纪委书记		中国水利水电科学研究院		1101
+刘毅		3		全国		http://www.iwhr.com/zgskywwnew/skgk/ldjj/N010102index_1.htm	副院长		中国水利水电科学研究院		1101
+蒋云钟		4		全国		http://www.iwhr.com/zgskywwnew/skgk/ldjj/N010102index_1.htm	副院长		中国水利水电科学研究院		1101
+陆瑾		5		全国		http://www.iwhr.com/zgskywwnew/skgk/ldjj/N010102index_1.htm	副院长		中国水利水电科学研究院		1101
+彭文启		6		全国		http://www.iwhr.com/zgskywwnew/skgk/ldjj/N010102index_1.htm	总工程师		中国水利水电科学研究院		1101
+尤建青		7		全国		http://www.iwhr.com/zgskywwnew/skgk/ldjj/N010102index_1.htm	工会主席		中国水利水电科学研究院		1101
+张向东		8		全国		http://www.iwhr.com/zgskywwnew/skgk/ldjj/N010102index_1.htm	总会计师		中国水利水电科学研究院		1101

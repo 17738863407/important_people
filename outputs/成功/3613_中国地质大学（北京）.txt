@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+雷涯邻		1		北京市		https://www.cugb.edu.cn/xrld2.jhtml	党委书记		中国地质大学（北京）		3613
+赵志丹		2		北京市		https://www.cugb.edu.cn/xrld2.jhtml	校长、党委副书记		中国地质大学（北京）		3613
+何华		3		北京市		https://www.cugb.edu.cn/xrld2.jhtml	党委副书记、纪委书记		中国地质大学（北京）		3613
+刘大锰		4		北京市		https://www.cugb.edu.cn/xrld2.jhtml	党委常委、副校长		中国地质大学（北京）		3613
+董朝霞		5		北京市		https://www.cugb.edu.cn/xrld2.jhtml	党委副书记		中国地质大学（北京）		3613
+林善园		6		北京市		https://www.cugb.edu.cn/xrld2.jhtml	党委副书记		中国地质大学（北京）		3613
+段翔		7		北京市		https://www.cugb.edu.cn/xrld2.jhtml	党委常委、副校长		中国地质大学（北京）		3613
+武雄		8		北京市		https://www.cugb.edu.cn/xrld2.jhtml	党委常委、副校长		中国地质大学（北京）		3613
+吴怀春		9		北京市		https://www.cugb.edu.cn/xrld2.jhtml	党委常委、副校长		中国地质大学（北京）		3613
+多宏宇		10		北京市		https://www.cugb.edu.cn/xrld2.jhtml	党委副书记		中国地质大学（北京）		3613

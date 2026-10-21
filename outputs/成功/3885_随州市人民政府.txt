@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡志莉		1		湖北省	随州市	http://www.suizhou.gov.cn/zwgk/xxgk/szfld/	市长		随州市人民政府	http://www.suizhou.gov.cn/zwgk/xxgk/szfld/hzl/	3885
+刘欲晓		2		湖北省	随州市	http://www.suizhou.gov.cn/zwgk/xxgk/szfld/	市委常委、常务副市长、市政府党组副书记		随州市人民政府	http://www.suizhou.gov.cn/zwgk/xxgk/szfld/lyx/	3885
+胡先平		3		湖北省	随州市	http://www.suizhou.gov.cn/zwgk/xxgk/szfld/	市委常委、副市长、市政府党组成员		随州市人民政府	http://www.suizhou.gov.cn/zwgk/xxgk/szfld/hxp/	3885
+罗兰		4		湖北省	随州市	http://www.suizhou.gov.cn/zwgk/xxgk/szfld/	副市长		随州市人民政府	http://www.suizhou.gov.cn/zwgk/xxgk/szfld/ll/	3885
+孙杰		5		湖北省	随州市	http://www.suizhou.gov.cn/zwgk/xxgk/szfld/	副市长、市政府党组成员		随州市人民政府	http://www.suizhou.gov.cn/zwgk/xxgk/szfld/sj/	3885
+李海东		6		湖北省	随州市	http://www.suizhou.gov.cn/zwgk/xxgk/szfld/	副市长、市政府党组成员		随州市人民政府	http://www.suizhou.gov.cn/zwgk/xxgk/szfld/lhd/	3885
+刘涛		7		湖北省	随州市	http://www.suizhou.gov.cn/zwgk/xxgk/szfld/	副市长、市政府党组成员		随州市人民政府	http://www.suizhou.gov.cn/zwgk/xxgk/szfld/lt/	3885
+马荣		8		湖北省	随州市	http://www.suizhou.gov.cn/zwgk/xxgk/szfld/	市政府党组成员		随州市人民政府	http://www.suizhou.gov.cn/zwgk/xxgk/szfld/mr/	3885
+朱睿		9		湖北省	随州市	http://www.suizhou.gov.cn/zwgk/xxgk/szfld/	市政府党组成员、秘书长		随州市人民政府	http://www.suizhou.gov.cn/zwgk/xxgk/szfld/zr/	3885

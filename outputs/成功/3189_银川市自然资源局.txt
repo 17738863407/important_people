@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李普光		1		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sgtj/xxgkml_2153/gkxx_2154/ldfg_2156/202510/t20251028_5066454.html	银川市自然资源局党组书记、局长		银川市自然资源局		3189
+张涛		2		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sgtj/xxgkml_2153/gkxx_2154/ldfg_2156/202510/t20251028_5066454.html	党组成员、市纪委监委派驻第十三纪检监察组组长		银川市自然资源局		3189
+陈睿		3		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sgtj/xxgkml_2153/gkxx_2154/ldfg_2156/202510/t20251028_5066454.html	银川市自然资源局党组成员、副局长		银川市自然资源局		3189
+王小军		4		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sgtj/xxgkml_2153/gkxx_2154/ldfg_2156/202510/t20251028_5066454.html	银川市自然资源局党组成员、土地储备中心主任		银川市自然资源局		3189
+安永涛		5		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sgtj/xxgkml_2153/gkxx_2154/ldfg_2156/202510/t20251028_5066454.html	银川市自然资源局党组成员、国土空间规划编制研究中心主任		银川市自然资源局		3189
+马力		6		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sgtj/xxgkml_2153/gkxx_2154/ldfg_2156/202510/t20251028_5066454.html	银川市自然资源局党组成员、副局长		银川市自然资源局		3189
+张媛媛		7		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sgtj/xxgkml_2153/gkxx_2154/ldfg_2156/202510/t20251028_5066454.html	银川市自然资源局党组成员、国土空间规划编制研究中心主任		银川市自然资源局		3189
+高鹏		8		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sgtj/xxgkml_2153/gkxx_2154/ldfg_2156/202510/t20251028_5066454.html	银川市自然资源局 党组成员、 银川市 土地储备中心主任		银川市自然资源局		3189

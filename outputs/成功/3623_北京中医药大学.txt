@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王瑶琪		1		北京市		https://www.bucm.edu.cn/xxgk1/xxld1/index.htm	党委书记		北京中医药大学		3623
+唐志书		2		北京市		https://www.bucm.edu.cn/xxgk1/xxld1/index.htm	党委副书记、校长		北京中医药大学		3623
+张继旺		3		北京市		https://www.bucm.edu.cn/xxgk1/xxld1/index.htm	党委副书记		北京中医药大学		3623
+闫振凡		4		北京市		https://www.bucm.edu.cn/xxgk1/xxld1/index.htm	党委常委、副校长		北京中医药大学		3623
+王停		5		北京市		https://www.bucm.edu.cn/xxgk1/xxld1/index.htm	党委常委、副校长		北京中医药大学		3623
+刘存志		6		北京市		https://www.bucm.edu.cn/xxgk1/xxld1/index.htm	副校长		北京中医药大学		3623
+丁霞		7		北京市		https://www.bucm.edu.cn/xxgk1/xxld1/index.htm	副校长		北京中医药大学		3623
+于亚光		8		北京市		https://www.bucm.edu.cn/xxgk1/xxld1/index.htm	党委副书记、纪委书记		北京中医药大学		3623
+李彧		9		北京市		https://www.bucm.edu.cn/xxgk1/xxld1/index.htm	党委副书记		北京中医药大学		3623
+张新生		10		北京市		https://www.bucm.edu.cn/xxgk1/xxld1/index.htm	党委常委、副校长		北京中医药大学		3623

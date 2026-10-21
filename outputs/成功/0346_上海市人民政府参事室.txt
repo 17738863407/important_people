@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马春雷		1		上海市		http://css.sh.gov.cn/rsxx_ldjj/	党组书记、主任		上海市人民政府参事室	http://css.sh.gov.cn/rsxx_ldjj/20260908/7ecb608165c94466ad8fe336a46c4e32.html	0346
+才华		2		上海市		http://css.sh.gov.cn/rsxx_ldjj/	党组成员、副主任		上海市人民政府参事室	http://css.sh.gov.cn/rsxx_ldjj/20201214/3c8fd66426c248a0bca527810c404884.html	0346
+谢东升		3		上海市		http://css.sh.gov.cn/rsxx_ldjj/	副主任		上海市人民政府参事室	http://css.sh.gov.cn/rsxx_ldjj/20241024/5be5f18b614745489ad8259292678ca8.html	0346

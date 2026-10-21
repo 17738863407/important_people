@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱鹤新		1		全国		https://www.safe.gov.cn/safe/jld/index.html	中国人民银行党委委员、副行长，国家外汇管理局党组书记、局长		国家外汇管理局	https://www.safe.gov.cn/safe/2023/1208/23600.html	2228
+李红燕		2		全国		https://www.safe.gov.cn/safe/jld/index.html	国家外汇管理局党组成员、副局长		国家外汇管理局	https://www.safe.gov.cn/safe/2017/0710/3249.html	2228
+徐志斌		3		全国		https://www.safe.gov.cn/safe/jld/index.html	国家外汇管理局党组成员、副局长		国家外汇管理局	https://www.safe.gov.cn/safe/2024/0126/23920.html	2228
+李斌		4		全国		https://www.safe.gov.cn/safe/jld/index.html	国家外汇管理局党组成员、副局长		国家外汇管理局	https://www.safe.gov.cn/safe/2024/1106/25315.html	2228
+刘斌		5		全国		https://www.safe.gov.cn/safe/jld/index.html	国家外汇管理局党组成员、副局长		国家外汇管理局	https://www.safe.gov.cn/safe/2025/0326/25896.html	2228

@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+严金海		1		全国		http://www.xizangrd.gov.cn/	主任		西藏自治区人民代表大会常务委员会	http://www.xizangrd.gov.cn/zr/44000	3079
+坚参		2		全国		http://www.xizangrd.gov.cn/	副主任		西藏自治区人民代表大会常务委员会	http://www.xizangrd.gov.cn/fzr/42416	3079
+肖友才		3		全国		http://www.xizangrd.gov.cn/	副主任		西藏自治区人民代表大会常务委员会	http://www.xizangrd.gov.cn/fzr/42417	3079
+桑顶·多吉帕姆·德庆曲珍		4		全国		http://www.xizangrd.gov.cn/	副主任		西藏自治区人民代表大会常务委员会	http://www.xizangrd.gov.cn/fzr/42415	3079
+张延清		5		全国		http://www.xizangrd.gov.cn/	副主任		西藏自治区人民代表大会常务委员会	http://www.xizangrd.gov.cn/fzr/42413	3079
+许成仓		6		全国		http://www.xizangrd.gov.cn/	副主任		西藏自治区人民代表大会常务委员会	http://www.xizangrd.gov.cn/fzr/42412	3079
+江白		7		全国		http://www.xizangrd.gov.cn/	副主任		西藏自治区人民代表大会常务委员会	http://www.xizangrd.gov.cn/fzr/42411	3079
+张洪波		8		全国		http://www.xizangrd.gov.cn/	副主任		西藏自治区人民代表大会常务委员会	http://www.xizangrd.gov.cn/fzr/45378	3079
+唐明英		9		全国		http://www.xizangrd.gov.cn/	副主任		西藏自治区人民代表大会常务委员会	http://www.xizangrd.gov.cn/fzr/42410	3079
+刘柏呈		10		全国		http://www.xizangrd.gov.cn/	副主任		西藏自治区人民代表大会常务委员会	http://www.xizangrd.gov.cn/fzr/42409	3079
+李文革		11		全国		http://www.xizangrd.gov.cn/	副主任		西藏自治区人民代表大会常务委员会	http://www.xizangrd.gov.cn/fzr/42408	3079
+孙献忠		12		全国		http://www.xizangrd.gov.cn/	副主任		西藏自治区人民代表大会常务委员会	http://www.xizangrd.gov.cn/fzr/42407	3079
+刘光旭		13		全国		http://www.xizangrd.gov.cn/	秘书长		西藏自治区人民代表大会常务委员会	http://www.xizangrd.gov.cn/msz/45216	3079

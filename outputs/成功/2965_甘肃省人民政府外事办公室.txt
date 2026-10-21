@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐妍丽		1		甘肃省		https://wsb.gansu.gov.cn/wsb/c108823/xxgk_list.shtml	中共甘肃省委外事工作委员会办公室主任，甘肃省人民政府外事办公室党组书记、主任，甘肃省人民政府港澳事务办公室主任（兼）		甘肃省人民政府外事办公室	https://wsb.gansu.gov.cn/wsb/c108823/202509/174219097.shtml	2965
+梁保平		2		甘肃省		https://wsb.gansu.gov.cn/wsb/c108823/xxgk_list.shtml	中共甘肃省委外事工作委员会办公室副主任，甘肃省人民政府外事办公室党组成员、副主任		甘肃省人民政府外事办公室	https://wsb.gansu.gov.cn/wsb/c108823/202209/2119002.shtml	2965
+赵军		3		甘肃省		https://wsb.gansu.gov.cn/wsb/c108823/xxgk_list.shtml	中共甘肃省委外事工作委员会办公室副主任，甘肃省人民政府外事办公室党组成员、副主任		甘肃省人民政府外事办公室	https://wsb.gansu.gov.cn/wsb/c108823/202308/727610.shtml	2965
+卢云钊		4		甘肃省		https://wsb.gansu.gov.cn/wsb/c108823/xxgk_list.shtml	甘肃省人民政府外事办公室党组成员、甘肃省人民对外友好协会专职副会长		甘肃省人民政府外事办公室	https://wsb.gansu.gov.cn/wsb/c108823/202408/173970185.shtml	2965
+王小平		5		甘肃省		https://wsb.gansu.gov.cn/wsb/c108823/xxgk_list.shtml	甘肃省人民政府外事办公室（中共甘肃省委外事工作委员会办公室）二级巡视员		甘肃省人民政府外事办公室	https://wsb.gansu.gov.cn/wsb/c108823/202509/174212232.shtml	2965
+王文斌		6		甘肃省		https://wsb.gansu.gov.cn/wsb/c108823/xxgk_list.shtml	甘肃省人民政府外事办公室（中共甘肃省委外事工作委员会办公室）二级巡视员		甘肃省人民政府外事办公室	https://wsb.gansu.gov.cn/wsb/c108823/202509/174212252.shtml	2965

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+康忠贤		1		海南省	海口市	http://gly.haikou.gov.cn/hksgly/ldxxx/202507/73a2fcd8d8ca463aa929950061253528.shtml	海口桂林洋经济开发区管委会主任		海口桂林洋经济开发区管理委员会		0735
+林健		2		海南省	海口市	http://gly.haikou.gov.cn/hksgly/ldxxx/202507/73a2fcd8d8ca463aa929950061253528.shtml			海口桂林洋经济开发区管理委员会		0735
+周正利		3		海南省	海口市	http://gly.haikou.gov.cn/hksgly/ldxxx/202507/73a2fcd8d8ca463aa929950061253528.shtml	海口桂林洋经济开发区工委委员、管委会副主任		海口桂林洋经济开发区管理委员会		0735
+杨玉忠		4		海南省	海口市	http://gly.haikou.gov.cn/hksgly/ldxxx/202507/73a2fcd8d8ca463aa929950061253528.shtml	海口桂林洋经济开发区工委委员、管委会副主任		海口桂林洋经济开发区管理委员会		0735
+陈柏青		5		海南省	海口市	http://gly.haikou.gov.cn/hksgly/ldxxx/202507/73a2fcd8d8ca463aa929950061253528.shtml	海口桂林洋经济开发区工委委员、管委会副主任		海口桂林洋经济开发区管理委员会		0735

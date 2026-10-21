@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陆涛		1		山西省	太原市	https://ybzx.taiyuan.gov.cn/ldxx/20260324/30251241.html	局党组成员、中心党总支书记、主任、三级调研员		太原市医疗保障局		3145
+贾娟		2		山西省	太原市	https://ybzx.taiyuan.gov.cn/ldxx/20260324/30251241.html	副主任		太原市医疗保障局		3145
+孟繁龙		3		山西省	太原市	https://ybzx.taiyuan.gov.cn/ldxx/20260324/30251241.html	副主任		太原市医疗保障局		3145
+许勇胜		4		山西省	太原市	https://ybzx.taiyuan.gov.cn/ldxx/20260324/30251241.html	四级调研员		太原市医疗保障局		3145
+申奇志		5		山西省	太原市	https://ybzx.taiyuan.gov.cn/ldxx/20260324/30251241.html	四级调研员		太原市医疗保障局		3145

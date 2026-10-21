@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+包静		1		江西省	景德镇市	https://jdz.gov.cn/zwgk/glgk/llxx/	市政府市长、党组书记		景德镇市人民政府	https://jdz.gov.cn/zwgk/glgk/llxx/t1100191.shtml	3841
+吴财锋		2		江西省	景德镇市	https://jdz.gov.cn/zwgk/glgk/llxx/	市政府副市长、党组副书记		景德镇市人民政府	https://jdz.gov.cn/zwgk/glgk/llxx/t1105977.shtml	3841
+魏冀		3		江西省	景德镇市	https://jdz.gov.cn/zwgk/glgk/llxx/	市政府副市长（挂职）、党组成员		景德镇市人民政府	https://jdz.gov.cn/zwgk/glgk/llxx/t1057639.shtml	3841
+高晓云		4		江西省	景德镇市	https://jdz.gov.cn/zwgk/glgk/llxx/	市政府副市长、党组成员		景德镇市人民政府	https://jdz.gov.cn/zwgk/glgk/llxx/t779929.shtml	3841
+江民强		5		江西省	景德镇市	https://jdz.gov.cn/zwgk/glgk/llxx/	市政府副市长		景德镇市人民政府	https://jdz.gov.cn/zwgk/glgk/llxx/t779724.shtml	3841
+罗文军		6		江西省	景德镇市	https://jdz.gov.cn/zwgk/glgk/llxx/	市政府副市长、党组成员		景德镇市人民政府	https://jdz.gov.cn/zwgk/glgk/llxx/t779747.shtml	3841
+徐辉		7		江西省	景德镇市	https://jdz.gov.cn/zwgk/glgk/llxx/	市政府副市长、党组成员		景德镇市人民政府	https://jdz.gov.cn/zwgk/glgk/llxx/t779755.shtml	3841
+黄练		8		江西省	景德镇市	https://jdz.gov.cn/zwgk/glgk/llxx/	市政府副市长、党组成员		景德镇市人民政府	https://jdz.gov.cn/zwgk/glgk/llxx/t1089993.shtml	3841
+胡志坚		9		江西省	景德镇市	https://jdz.gov.cn/zwgk/glgk/llxx/	市政府副市长、党组成员		景德镇市人民政府	https://jdz.gov.cn/zwgk/glgk/llxx/t1106214.shtml	3841
+黄建平		10		江西省	景德镇市	https://jdz.gov.cn/zwgk/glgk/llxx/	市政府秘书长、党组成员		景德镇市人民政府	https://jdz.gov.cn/zwgk/glgk/llxx/t922428.shtml	3841

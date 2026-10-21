@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨大维		1		安徽省	合肥市	https://rsj.hefei.gov.cn/public/column/7781?type=4&catId=7036024&action=list&nav=3	合肥市人力资源和社会保障局党组书记、局长		合肥市人力资源和社会保障局	https://rsj.hefei.gov.cn/public/7781/111552690.html	2201
+张晓冬		2		安徽省	合肥市	https://rsj.hefei.gov.cn/public/column/7781?type=4&catId=7036024&action=list&nav=3	合肥市人力资源和社会保障局党组成员、副局长		合肥市人力资源和社会保障局	https://rsj.hefei.gov.cn/public/7781/111552806.html	2201
+余以发		3		安徽省	合肥市	https://rsj.hefei.gov.cn/public/column/7781?type=4&catId=7036024&action=list&nav=3	合肥市人力资源和社会保障局党组成员、市纪委监委驻市人力资源和社会保障局纪检监察组组长		合肥市人力资源和社会保障局	https://rsj.hefei.gov.cn/public/7781/111552732.html	2201
+刘峰		4		安徽省	合肥市	https://rsj.hefei.gov.cn/public/column/7781?type=4&catId=7036024&action=list&nav=3	合肥市人力资源和社会保障局党组成员、副局长		合肥市人力资源和社会保障局	https://rsj.hefei.gov.cn/public/7781/111552741.html	2201
+任清智		5		安徽省	合肥市	https://rsj.hefei.gov.cn/public/column/7781?type=4&catId=7036024&action=list&nav=3	合肥市人力资源和社会保障局党组成员、副局长		合肥市人力资源和社会保障局	https://rsj.hefei.gov.cn/public/7781/111552775.html	2201
+陈勇		6		安徽省	合肥市	https://rsj.hefei.gov.cn/public/column/7781?type=4&catId=7036024&action=list&nav=3	合肥市人力资源和社会保障局总经济师		合肥市人力资源和社会保障局	https://rsj.hefei.gov.cn/public/7781/111552798.html	2201

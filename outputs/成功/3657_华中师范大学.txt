@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+夏立新		1		湖北省	武汉市	https://www.ccnu.edu.cn/xxgk/xrld2.htm	党委书记；党委常委		华中师范大学	https://www.ccnu.edu.cn/info/1040/35781.htm	3657
+彭双阶		2		湖北省	武汉市	https://www.ccnu.edu.cn/xxgk/xrld2.htm	校长；党委副书记；党委常委		华中师范大学	https://www.ccnu.edu.cn/info/1041/2651.htm	3657
+查道林		3		湖北省	武汉市	https://www.ccnu.edu.cn/xxgk/xrld2.htm	党委副书记；党委常委		华中师范大学	https://www.ccnu.edu.cn/info/1522/35319.htm	3657
+陈迪明		4		湖北省	武汉市	https://www.ccnu.edu.cn/xxgk/xrld2.htm	党委副书记；党委常委		华中师范大学	https://www.ccnu.edu.cn/info/1522/30455.htm	3657
+刘继文		5		湖北省	武汉市	https://www.ccnu.edu.cn/xxgk/xrld2.htm	党委副书记；纪委书记；党委常委		华中师范大学	https://www.ccnu.edu.cn/info/1522/35322.htm	3657
+李鸿飞		6		湖北省	武汉市	https://www.ccnu.edu.cn/xxgk/xrld2.htm	副校长；党委常委		华中师范大学	https://www.ccnu.edu.cn/info/1043/28896.htm	3657
+李志生		7		湖北省	武汉市	https://www.ccnu.edu.cn/xxgk/xrld2.htm	副校长；党委常委		华中师范大学	https://www.ccnu.edu.cn/info/1043/2654.htm	3657
+刘宏达		8		湖北省	武汉市	https://www.ccnu.edu.cn/xxgk/xrld2.htm	副校长；党委常委		华中师范大学	https://www.ccnu.edu.cn/info/1043/38436.htm	3657
+刘三女牙		9		湖北省	武汉市	https://www.ccnu.edu.cn/xxgk/xrld2.htm	副校长；党委常委		华中师范大学	https://www.ccnu.edu.cn/info/1043/38435.htm	3657
+吴丹		10		湖北省	武汉市	https://www.ccnu.edu.cn/xxgk/xrld2.htm	副校长；党委常委		华中师范大学	https://www.ccnu.edu.cn/info/1043/2657.htm	3657
+龚炜		11		湖北省	武汉市	https://www.ccnu.edu.cn/xxgk/xrld2.htm	党委常委		华中师范大学		3657
+王志彬		12		湖北省	武汉市	https://www.ccnu.edu.cn/xxgk/xrld2.htm	校长助理		华中师范大学	https://www.ccnu.edu.cn/info/1045/45473.htm	3657

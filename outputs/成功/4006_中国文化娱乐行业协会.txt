@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+代柳梅		1		全国		https://www.cnccea.com/about/leadership	中国文化娱乐行业协会会长；党支部书记；法定代表人		中国文化娱乐行业协会		4006
+胡声平		2		全国		https://www.cnccea.com/about/leadership	中国文化娱乐行业协会副会长		中国文化娱乐行业协会		4006
+刘宇星		3		全国		https://www.cnccea.com/about/leadership	中国文化娱乐行业协会副会长		中国文化娱乐行业协会		4006
+开莉		4		全国		https://www.cnccea.com/about/leadership	中国文化娱乐行业协会副会长		中国文化娱乐行业协会		4006
+张辅评		5		全国		https://www.cnccea.com/about/leadership	中国文化娱乐行业协会副会长		中国文化娱乐行业协会		4006
+刘灵辉		6		全国		https://www.cnccea.com/about/leadership	中国文化娱乐行业协会副会长		中国文化娱乐行业协会		4006
+姜东		7		全国		https://www.cnccea.com/about/leadership	中国文化娱乐行业协会副会长		中国文化娱乐行业协会		4006
+杨颖		8		全国		https://www.cnccea.com/about/leadership	中国文化娱乐行业协会副会长		中国文化娱乐行业协会		4006
+李文豪		9		全国		https://www.cnccea.com/about/leadership	中国文化娱乐行业协会副会长		中国文化娱乐行业协会		4006
+王熙尧		10		全国		https://www.cnccea.com/about/leadership	中国文化娱乐行业协会副会长		中国文化娱乐行业协会		4006
+茅程懿		11		全国		https://www.cnccea.com/about/leadership	中国文化娱乐行业协会副会长		中国文化娱乐行业协会		4006
+戴斯科		12		全国		https://www.cnccea.com/about/leadership	中国文化娱乐行业协会副会长		中国文化娱乐行业协会		4006
+王博		13		全国		https://www.cnccea.com/about/leadership	中国文化娱乐行业协会副会长		中国文化娱乐行业协会		4006
+孔明		14		全国		https://www.cnccea.com/about/leadership	中国文化娱乐行业协会秘书长；新闻发言人		中国文化娱乐行业协会		4006

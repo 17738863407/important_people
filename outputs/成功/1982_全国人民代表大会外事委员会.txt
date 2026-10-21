@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+娄勤俭		1		全国		http://www.npc.gov.cn/npc/bmzz2023/wswyh2023/	主任委员		全国人民代表大会外事委员会		1982
+傅自应		2		全国		http://www.npc.gov.cn/npc/bmzz2023/wswyh2023/	副主任委员		全国人民代表大会外事委员会		1982
+王超		3		全国		http://www.npc.gov.cn/npc/bmzz2023/wswyh2023/	副主任委员		全国人民代表大会外事委员会		1982
+郭雷		4		全国		http://www.npc.gov.cn/npc/bmzz2023/wswyh2023/	副主任委员		全国人民代表大会外事委员会		1982
+许甘露		5		全国		http://www.npc.gov.cn/npc/bmzz2023/wswyh2023/	副主任委员		全国人民代表大会外事委员会		1982
+王可		6		全国		http://www.npc.gov.cn/npc/bmzz2023/wswyh2023/	副主任委员		全国人民代表大会外事委员会		1982

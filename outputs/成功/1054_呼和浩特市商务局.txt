@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+石文昌		1		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sswj_22417/fdzdgknr/?gk=2&cid=23968#bmjgjjID	呼和浩特市商务局 党组书记、局长		呼和浩特市商务局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sswj_22417/fdzdgknr/jgjj/ldjj/202105/t20210526_932326.html	1054
+谭金龙		2		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sswj_22417/fdzdgknr/?gk=2&cid=23968#bmjgjjID	呼和浩特市商务局 党组成员、副局长		呼和浩特市商务局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sswj_22417/fdzdgknr/jgjj/ldjj/202208/t20220823_1347639.html	1054
+张慧		3		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sswj_22417/fdzdgknr/?gk=2&cid=23968#bmjgjjID	呼和浩特市商务局 党组成员、副局长		呼和浩特市商务局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sswj_22417/fdzdgknr/jgjj/ldjj/202409/t20240924_1779533.html	1054
+赛汉		4		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sswj_22417/fdzdgknr/?gk=2&cid=23968#bmjgjjID	呼和浩特市商务局党组成员、驻市商务局纪检监察组组长		呼和浩特市商务局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sswj_22417/fdzdgknr/jgjj/ldjj/202507/t20250702_1906957.html	1054
+徐东东		5		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sswj_22417/fdzdgknr/?gk=2&cid=23968#bmjgjjID	呼和浩特市商务局 党组成员、副局长		呼和浩特市商务局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sswj_22417/fdzdgknr/jgjj/ldjj/202509/t20250910_1930399.html	1054

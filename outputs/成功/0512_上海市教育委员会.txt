@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱新远		1		上海市		https://edu.sh.gov.cn/xxgk2_zhzw_rsxx_01/	中共上海市教育卫生工作委员会副书记、上海市教育委员会主任		上海市教育委员会	https://edu.sh.gov.cn/xxgk2_zhzw_rsxx_01/20260527/4849f04094294e238d2a573266138a06.html	0512
+顾红亮		2		上海市		https://edu.sh.gov.cn/xxgk2_zhzw_rsxx_01/	中共上海市教育卫生工作委员会副书记		上海市教育委员会	https://edu.sh.gov.cn/xxgk2_zhzw_rsxx_01/20240812/322a9542d61e4a198524f07e2f7f0230.html	0512
+陈睦		3		上海市		https://edu.sh.gov.cn/xxgk2_zhzw_rsxx_01/	上海市教育委员会一级巡视员		上海市教育委员会	https://edu.sh.gov.cn/xxgk2_zhzw_rsxx_01/20231228/1b376501ed7140da82bb14f88b6fbae6.html	0512
+王浩		4		上海市		https://edu.sh.gov.cn/xxgk2_zhzw_rsxx_01/	上海市教育委员会副主任、一级巡视员		上海市教育委员会	https://edu.sh.gov.cn/xxgk2_zhzw_rsxx_01/20230323/3755f2f7f04f4504975e163b00b5a0d1.html	0512
+刘玉祥		5		上海市		https://edu.sh.gov.cn/xxgk2_zhzw_rsxx_01/	上海市教育委员会副主任、总督学		上海市教育委员会	https://edu.sh.gov.cn/xxgk2_zhzw_rsxx_01/20250707/5e8da81c07224e18b87a0b58fd51650d.html	0512
+杨振峰		6		上海市		https://edu.sh.gov.cn/xxgk2_zhzw_rsxx_01/	上海市教育委员会副主任		上海市教育委员会	https://edu.sh.gov.cn/xxgk2_zhzw_rsxx_01/20230203/c7b5d5bfa1e54f3d91e8498220ed5e92.html	0512
+叶霖霖		7		上海市		https://edu.sh.gov.cn/xxgk2_zhzw_rsxx_01/	上海市教育委员会副主任		上海市教育委员会	https://edu.sh.gov.cn/xxgk2_zhzw_rsxx_01/20230428/0e813f590a254c1aa6091dc15c9e9c4d.html	0512

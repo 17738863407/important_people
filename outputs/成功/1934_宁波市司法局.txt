@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈大杰		1		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218819/index.html	局长、党委书记		宁波市司法局	https://www.ningbo.gov.cn/art/2025/2/27/art_1229218819_174836.html	1934
+毛利奇		2		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218819/index.html	副局长、党委委员		宁波市司法局	https://www.ningbo.gov.cn/art/2020/8/3/art_1229218819_25942.html	1934
+郑华峰		3		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218819/index.html	副局长、党委委员		宁波市司法局	https://www.ningbo.gov.cn/art/2022/10/9/art_1229218819_134404.html	1934
+忻思忠		4		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218819/index.html	副局长、党委委员		宁波市司法局	https://www.ningbo.gov.cn/art/2021/12/30/art_1229218819_119791.html	1934
+施昌虬		5		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218819/index.html	副局长、党委委员		宁波市司法局	https://www.ningbo.gov.cn/art/2022/10/9/art_1229218819_134405.html	1934
+娄海东		6		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218819/index.html	局党委委员、驻局纪检监察组组长		宁波市司法局	https://www.ningbo.gov.cn/art/2023/3/13/art_1229218819_141820.html	1934
+余文霞		7		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218819/index.html	局党委委员、政治部主任		宁波市司法局	https://www.ningbo.gov.cn/art/2024/11/18/art_1229218819_169407.html	1934
+徐君安		8		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218819/index.html	副局长、党委委员		宁波市司法局	https://www.ningbo.gov.cn/art/2020/9/18/art_1229218819_57830.html	1934
+刘军		9		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218819/index.html	党委委员、二级巡视员		宁波市司法局	https://www.ningbo.gov.cn/art/2025/12/17/art_1229218819_183011.html	1934

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周勤		1		辽宁省	大连市	https://rsj.dl.gov.cn/col/col9067/index.html?vc_xxgkarea=2102000026&number=DL014&jh=263	局党组书记、局长		大连市人力资源和社会保障局	https://rsj.dl.gov.cn/art/2026/5/11/art_9068_2511944.html	2197
+李巍		2		辽宁省	大连市	https://rsj.dl.gov.cn/col/col9067/index.html?vc_xxgkarea=2102000026&number=DL014&jh=263	局党组成员、一级调研员		大连市人力资源和社会保障局	https://rsj.dl.gov.cn/art/2024/12/18/art_9068_2086819.html	2197
+夏宏杰		3		辽宁省	大连市	https://rsj.dl.gov.cn/col/col9067/index.html?vc_xxgkarea=2102000026&number=DL014&jh=263	局党组成员、副局长		大连市人力资源和社会保障局	https://rsj.dl.gov.cn/art/2024/4/24/art_9068_2086816.html	2197
+郭善俊		4		辽宁省	大连市	https://rsj.dl.gov.cn/col/col9067/index.html?vc_xxgkarea=2102000026&number=DL014&jh=263	局党组成员、市纪委监委驻市人社局纪检监察组组长		大连市人力资源和社会保障局	https://rsj.dl.gov.cn/art/2024/4/24/art_9068_2324691.html	2197
+张琳		5		辽宁省	大连市	https://rsj.dl.gov.cn/col/col9067/index.html?vc_xxgkarea=2102000026&number=DL014&jh=263	局党组成员、副局长		大连市人力资源和社会保障局	https://rsj.dl.gov.cn/art/2026/6/9/art_9068_2516750.html	2197
+张宁		6		辽宁省	大连市	https://rsj.dl.gov.cn/col/col9067/index.html?vc_xxgkarea=2102000026&number=DL014&jh=263	局党组成员、副局长		大连市人力资源和社会保障局	https://rsj.dl.gov.cn/art/2024/4/24/art_9068_2324701.html	2197
+徐明书		7		辽宁省	大连市	https://rsj.dl.gov.cn/col/col9067/index.html?vc_xxgkarea=2102000026&number=DL014&jh=263	市就业人才中心党委书记、主任		大连市人力资源和社会保障局	https://rsj.dl.gov.cn/art/2024/4/24/art_9068_2324703.html	2197
+徐旭东		8		辽宁省	大连市	https://rsj.dl.gov.cn/col/col9067/index.html?vc_xxgkarea=2102000026&number=DL014&jh=263			大连市人力资源和社会保障局	https://rsj.dl.gov.cn/art/2026/3/16/art_9068_2086817.html	2197

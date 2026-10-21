@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王乃庆		1		辽宁省	沈阳市	https://yjj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/bmld/	沈阳市应急管理局党委书记、局长		沈阳市应急管理局	https://yjj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/bmld/202111/t20211116_922152.html	3231
+柴国辉		2		辽宁省	沈阳市	https://yjj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/bmld/	沈阳市应急管理局党委委员、副局长		沈阳市应急管理局	https://yjj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/bmld/202111/t20211116_900814.html	3231
+唐洪刚		3		辽宁省	沈阳市	https://yjj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/bmld/	沈阳市应急管理局党委委员、副局长		沈阳市应急管理局	https://yjj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/bmld/202206/t20220622_3334091.html	3231
+马凯		4		辽宁省	沈阳市	https://yjj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/bmld/	沈阳市应急管理局党委委员、副局长		沈阳市应急管理局	https://yjj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/bmld/202512/t20251222_4957623.html	3231
+汪璐嘉		5		辽宁省	沈阳市	https://yjj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/bmld/	沈阳市应急管理局党委委员、副局长		沈阳市应急管理局	https://yjj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/bmld/202606/t20260601_5034309.html	3231

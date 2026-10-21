@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴松全		1		吉林省	长春市	https://www.nenu.edu.cn/xxgk/xrld.htm	党委书记；党委常委		东北师范大学	https://www.nenu.edu.cn/info/4111/288141.htm	3631
+徐海阳		2		吉林省	长春市	https://www.nenu.edu.cn/xxgk/xrld.htm	党委副书记；党委常委；校长		东北师范大学	https://www.nenu.edu.cn/info/4121/112471.htm	3631
+常青		3		吉林省	长春市	https://www.nenu.edu.cn/xxgk/xrld.htm	党委副书记；党委常委；副校长		东北师范大学	https://www.nenu.edu.cn/info/4121/112491.htm	3631
+刘九庆		4		吉林省	长春市	https://www.nenu.edu.cn/xxgk/xrld.htm	党委副书记；党委常委；纪委书记		东北师范大学	https://www.nenu.edu.cn/info/4121/112501.htm	3631
+庞立生		5		吉林省	长春市	https://www.nenu.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		东北师范大学	https://www.nenu.edu.cn/info/4121/273381.htm	3631
+魏民		6		吉林省	长春市	https://www.nenu.edu.cn/xxgk/xrld.htm	党委常委；副校长		东北师范大学	https://www.nenu.edu.cn/info/4131/112541.htm	3631
+薛利锋		7		吉林省	长春市	https://www.nenu.edu.cn/xxgk/xrld.htm	党委常委；副校长		东北师范大学	https://www.nenu.edu.cn/info/4131/112591.htm	3631
+邬志辉		8		吉林省	长春市	https://www.nenu.edu.cn/xxgk/xrld.htm	党委常委；副校长		东北师范大学	https://www.nenu.edu.cn/info/4131/112551.htm	3631
+严蔚刚		9		吉林省	长春市	https://www.nenu.edu.cn/xxgk/xrld.htm	党委常委；副校长		东北师范大学	https://www.nenu.edu.cn/info/4131/112571.htm	3631
+王娜		10		吉林省	长春市	https://www.nenu.edu.cn/xxgk/xrld.htm	党委常委		东北师范大学	https://www.nenu.edu.cn/info/4131/278641.htm	3631
+李红权		11		吉林省	长春市	https://www.nenu.edu.cn/xxgk/xrld.htm	党委常委		东北师范大学	https://www.nenu.edu.cn/info/4131/278631.htm	3631
+解玲		12		吉林省	长春市	https://www.nenu.edu.cn/xxgk/xrld.htm	党委常委		东北师范大学	https://www.nenu.edu.cn/info/4131/278651.htm	3631
+白冰		13		吉林省	长春市	https://www.nenu.edu.cn/xxgk/xrld.htm	校长助理		东北师范大学	https://www.nenu.edu.cn/info/5591/274981.htm	3631
+邵志豪		14		吉林省	长春市	https://www.nenu.edu.cn/xxgk/xrld.htm	校长助理		东北师范大学	https://www.nenu.edu.cn/info/5591/274971.htm	3631

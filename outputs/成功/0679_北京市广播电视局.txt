@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王杰群		1		北京市		https://gdj.beijing.gov.cn/zwxx/	局党组书记、局长		北京市广播电视局	http://gdj.beijing.gov.cn/zwxx/ldjs/202205/t20220516_2710980.html	0679
+王志		2		北京市		https://gdj.beijing.gov.cn/zwxx/	局党组成员、副局长		北京市广播电视局	http://gdj.beijing.gov.cn/zwxx/ldjs/201912/t20191220_1382779.html	0679
+孔建华		3		北京市		https://gdj.beijing.gov.cn/zwxx/	局党组成员、副局长		北京市广播电视局	http://gdj.beijing.gov.cn/zwxx/ldjs/201912/t20191220_1382772.html	0679
+韩新星		4		北京市		https://gdj.beijing.gov.cn/zwxx/	局党组成员、副局长		北京市广播电视局	https://gdj.beijing.gov.cn/zwxx/ldjs/202503/t20250303_4023995.html	0679
+韩云升		5		北京市		https://gdj.beijing.gov.cn/zwxx/	局党组成员、副局长		北京市广播电视局	https://gdj.beijing.gov.cn/zwxx/ldjs/202608/t20260826_4837870.html	0679
+邹璐巍		6		北京市		https://gdj.beijing.gov.cn/zwxx/	局党组成员、驻局纪检监察组组长		北京市广播电视局	https://gdj.beijing.gov.cn/zwxx/ldjs/201912/t20191220_1382788.html	0679
+张苏		7		北京市		https://gdj.beijing.gov.cn/zwxx/	局党组成员、副局长、一级巡视员		北京市广播电视局	http://gdj.beijing.gov.cn/zwxx/ldjs/201912/t20191220_1382799.html	0679
+孟锐		8		北京市		https://gdj.beijing.gov.cn/zwxx/	保留副局长级待遇		北京市广播电视局	https://gdj.beijing.gov.cn/zwxx/ldjs/202407/t20240726_3760684.html	0679

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+舒行钢		1		湖南省		https://jtt.hunan.gov.cn/jtt/xxgk/jgzn/tld/index.html	党组书记、厅长		湖南省交通运输厅		1244
+张朝		2		湖南省		https://jtt.hunan.gov.cn/jtt/xxgk/jgzn/tld/index.html	党组成员、驻厅纪检监察组组长		湖南省交通运输厅		1244
+吴广君		3		湖南省		https://jtt.hunan.gov.cn/jtt/xxgk/jgzn/tld/index.html	党组成员、副厅长		湖南省交通运输厅		1244
+罗恒		4		湖南省		https://jtt.hunan.gov.cn/jtt/xxgk/jgzn/tld/index.html	党组成员、副厅长		湖南省交通运输厅		1244
+胡荣满		5		湖南省		https://jtt.hunan.gov.cn/jtt/xxgk/jgzn/tld/index.html	党组成员、副厅长，省邮政管理局党组书记、局长		湖南省交通运输厅		1244
+苏清贵		6		湖南省		https://jtt.hunan.gov.cn/jtt/xxgk/jgzn/tld/index.html	党组成员、副厅长		湖南省交通运输厅		1244
+任成志		7		湖南省		https://jtt.hunan.gov.cn/jtt/xxgk/jgzn/tld/index.html	党组成员、副厅长		湖南省交通运输厅		1244
+李曙光		8		湖南省		https://jtt.hunan.gov.cn/jtt/xxgk/jgzn/tld/index.html	省交通运输工会主任		湖南省交通运输厅		1244

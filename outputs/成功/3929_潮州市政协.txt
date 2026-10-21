@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王文森		1		广东省	潮州市	http://www.czzx.gov.cn/detail/254	主席		潮州市政协		3929
+陈炫秋		2		广东省	潮州市	http://www.czzx.gov.cn/detail/254	副主席		潮州市政协		3929
+杜妙拉		3		广东省	潮州市	http://www.czzx.gov.cn/detail/254	副主席		潮州市政协		3929
+伍茸		4		广东省	潮州市	http://www.czzx.gov.cn/detail/254	副主席		潮州市政协		3929
+陈燕芳		5		广东省	潮州市	http://www.czzx.gov.cn/detail/254	副主席		潮州市政协		3929
+雷伟平		6		广东省	潮州市	http://www.czzx.gov.cn/detail/254	副主席		潮州市政协		3929
+黄德发		7		广东省	潮州市	http://www.czzx.gov.cn/detail/254	副主席		潮州市政协		3929
+林燕		8		广东省	潮州市	http://www.czzx.gov.cn/detail/254	副主席		潮州市政协		3929
+吴维凯		9		广东省	潮州市	http://www.czzx.gov.cn/detail/254	秘书长		潮州市政协		3929

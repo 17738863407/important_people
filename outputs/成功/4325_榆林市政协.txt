@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王华胜		1		陕西省	榆林市	https://www.ylzx.gov.cn/list_ld.thtml?cid=18	主席		榆林市政协	https://www.ylzx.gov.cn/news_content.thtml?id=7072	4325
+高怀和		2		陕西省	榆林市	https://www.ylzx.gov.cn/list_ld.thtml?cid=18	副主席		榆林市政协	https://www.ylzx.gov.cn/news_content.thtml?id=7066	4325
+任静波		3		陕西省	榆林市	https://www.ylzx.gov.cn/list_ld.thtml?cid=18	副主席		榆林市政协	https://www.ylzx.gov.cn/news_content.thtml?id=7064	4325
+王志强		4		陕西省	榆林市	https://www.ylzx.gov.cn/list_ld.thtml?cid=18	副主席		榆林市政协	https://www.ylzx.gov.cn/news_content.thtml?id=7062	4325
+拓耀飞		5		陕西省	榆林市	https://www.ylzx.gov.cn/list_ld.thtml?cid=18	副主席		榆林市政协	https://www.ylzx.gov.cn/news_content.thtml?id=7060	4325
+姬世平		6		陕西省	榆林市	https://www.ylzx.gov.cn/list_ld.thtml?cid=18	副主席		榆林市政协	https://www.ylzx.gov.cn/news_content.thtml?id=10925	4325
+陈治忠		7		陕西省	榆林市	https://www.ylzx.gov.cn/list_ld.thtml?cid=18	副主席		榆林市政协	https://www.ylzx.gov.cn/news_content.thtml?id=10923	4325
+许君		8		陕西省	榆林市	https://www.ylzx.gov.cn/list_ld.thtml?cid=18	副主席		榆林市政协	https://www.ylzx.gov.cn/news_content.thtml?id=10921	4325
+谢宏		9		陕西省	榆林市	https://www.ylzx.gov.cn/list_ld.thtml?cid=18	秘书长		榆林市政协	https://www.ylzx.gov.cn/news_content.thtml?id=11	4325

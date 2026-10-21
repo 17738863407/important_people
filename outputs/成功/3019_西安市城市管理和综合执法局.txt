@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李斌		1		陕西省	西安市	http://xacg.xa.gov.cn/zwgk/zzjg/ldjsjfg/1.html	党委副书记		西安市城市管理和综合执法局		3019
+张国立		2		陕西省	西安市	http://xacg.xa.gov.cn/zwgk/zzjg/ldjsjfg/1.html	党委委员、副局长		西安市城市管理和综合执法局		3019
+武三军		3		陕西省	西安市	http://xacg.xa.gov.cn/zwgk/zzjg/ldjsjfg/1.html	党委委员、副局长		西安市城市管理和综合执法局		3019
+汤建学		4		陕西省	西安市	http://xacg.xa.gov.cn/zwgk/zzjg/ldjsjfg/1.html	党委委员、市城管执法支队支队长		西安市城市管理和综合执法局		3019
+杨明波		5		陕西省	西安市	http://xacg.xa.gov.cn/zwgk/zzjg/ldjsjfg/1.html	党委委员、副局长		西安市城市管理和综合执法局		3019
+王超		6		陕西省	西安市	http://xacg.xa.gov.cn/zwgk/zzjg/ldjsjfg/1.html	党委委员，市纪委监委驻局纪检监察组组长		西安市城市管理和综合执法局		3019

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王宏		1		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/ldzc/sz/wh/	贵阳市委副书记，市人民政府党组书记、市长，贵安新区党工委副书记，管委会党组书记、主任		贵阳市人民政府		0750
+何波		2		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/ldzc/sz/wh/	贵阳市委常委，市政府党组副书记、常务副市长		贵阳市人民政府	https://www.guiyang.gov.cn/zwgk/ldzc/fsz/hb/	0750
+雷伯勇		3		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/ldzc/sz/wh/	贵阳市委常委，副市长		贵阳市人民政府	https://www.guiyang.gov.cn/zwgk/ldzc/fsz/lby/	0750
+陈海照		4		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/ldzc/sz/wh/	贵阳市委常委，市政府党组成员，副市长		贵阳市人民政府	https://www.guiyang.gov.cn/zwgk/ldzc/fsz/chz/	0750
+刘良果		5		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/ldzc/sz/wh/	贵阳市政府党组成员、副市长		贵阳市人民政府	https://www.guiyang.gov.cn/zwgk/ldzc/fsz/llg/	0750
+黄浩洋		6		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/ldzc/sz/wh/	贵阳市政府党组成员、副市长		贵阳市人民政府	https://www.guiyang.gov.cn/zwgk/ldzc/fsz/hhy/	0750
+申剑		7		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/ldzc/sz/wh/	贵阳市政府党组成员、副市长，市公安局党委书记、局长		贵阳市人民政府	https://www.guiyang.gov.cn/zwgk/ldzc/fsz/sj/	0750
+伍向东		8		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/ldzc/sz/wh/	贵阳市副市长，致公党贵阳市委员会主委		贵阳市人民政府	https://www.guiyang.gov.cn/zwgk/ldzc/fsz/wxd/	0750
+夏颖		9		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/ldzc/sz/wh/	贵阳市政府党组成员、副市长		贵阳市人民政府	https://www.guiyang.gov.cn/zwgk/ldzc/fsz/xy/	0750

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘建军		1		山东省		http://www.shandong.gov.cn/col/col314078/index.html	山东省国资委党委书记、主任		山东省人民政府国有资产监督管理委员会		2380
+赵峰		2		山东省		http://www.shandong.gov.cn/col/col314078/index.html	山东省国资委党委委员、省纪委监委驻省国资委纪检监察组组长、二级高级监察官		山东省人民政府国有资产监督管理委员会		2380
+安吉智		3		山东省		http://www.shandong.gov.cn/col/col314078/index.html	山东省国资委党委委员、副主任		山东省人民政府国有资产监督管理委员会		2380
+秦春玲		4		山东省		http://www.shandong.gov.cn/col/col314078/index.html	山东省国资委党委委员、副主任		山东省人民政府国有资产监督管理委员会		2380
+李江涛		5		山东省		http://www.shandong.gov.cn/col/col314078/index.html	山东省国资委党委委员、副主任		山东省人民政府国有资产监督管理委员会		2380
+刘福帅		6		山东省		http://www.shandong.gov.cn/col/col314078/index.html	山东省国资委党委委员、副主任		山东省人民政府国有资产监督管理委员会		2380

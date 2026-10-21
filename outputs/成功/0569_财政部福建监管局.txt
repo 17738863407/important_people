@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+付红敏		1		福建省		http://fj.mof.gov.cn/gywm/ldjj/	党组成员 副局长		财政部福建监管局	http://fj.mof.gov.cn/gywm/ldjj/200805/t20080524_42378.htm	0569
+陆强		2		福建省		http://fj.mof.gov.cn/gywm/ldjj/	党组成员 副局长		财政部福建监管局	http://fj.mof.gov.cn/gywm/ldjj/202301/t20230117_3863448.htm	0569
+杨舜亭		3		福建省		http://fj.mof.gov.cn/gywm/ldjj/	党组成员 纪检组长		财政部福建监管局	http://fj.mof.gov.cn/gywm/ldjj/202504/t20250421_3962311.htm	0569

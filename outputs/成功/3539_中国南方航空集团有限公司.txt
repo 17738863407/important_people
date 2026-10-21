@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马须伦		1		全国		https://www.csairgroup.cn/cn/gywm3/ldtd81/index.html	中国南方航空集团有限公司董事长；中国南方航空集团有限公司党组书记		中国南方航空集团有限公司		3539
+韩文胜		2		全国		https://www.csairgroup.cn/cn/gywm3/ldtd81/index.html	中国南方航空集团有限公司董事、总经理；中国南方航空集团有限公司党组副书记		中国南方航空集团有限公司		3539
+蔡治洲		3		全国		https://www.csairgroup.cn/cn/gywm3/ldtd81/index.html	中国南方航空集团有限公司董事；中国南方航空集团有限公司党组副书记		中国南方航空集团有限公司		3539
+侯绪伦		4		全国		https://www.csairgroup.cn/cn/gywm3/ldtd81/index.html	中央纪委国家监委驻中国南方航空集团有限公司纪检监察组组长；中国南方航空集团有限公司党组成员		中国南方航空集团有限公司		3539
+陈冬		5		全国		https://www.csairgroup.cn/cn/gywm3/ldtd81/index.html	中国南方航空集团有限公司总会计师；中国南方航空集团有限公司党组成员		中国南方航空集团有限公司		3539
+曾永超		6		全国		https://www.csairgroup.cn/cn/gywm3/ldtd81/index.html	中国南方航空集团有限公司副总经理；中国南方航空集团有限公司党组成员		中国南方航空集团有限公司		3539
+陈詟		7		全国		https://www.csairgroup.cn/cn/gywm3/ldtd81/index.html	中国南方航空集团有限公司副总经理；中国南方航空集团有限公司党组成员		中国南方航空集团有限公司		3539
+张永		8		全国		https://www.csairgroup.cn/cn/gywm3/ldtd81/index.html	中国南方航空集团有限公司副总经理；中国南方航空集团有限公司党组成员		中国南方航空集团有限公司		3539
+梁爽		9		全国		https://www.csairgroup.cn/cn/gywm3/ldtd81/index.html	中国南方航空集团有限公司副总经理；中国南方航空集团有限公司党组成员		中国南方航空集团有限公司		3539

@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡海达		1		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218785/index.html	宁波市政府党组成员、秘书长、办公厅党组书记		宁波市人民政府办公厅	https://www.ningbo.gov.cn/art/2025/12/30/art_1229218785_183194.html	1924
+陈坚军		2		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218785/index.html	市政府副秘书长，办公厅主任、党组副书记		宁波市人民政府办公厅	https://www.ningbo.gov.cn/col/col1229218785/art/2026/art_9c539553c8a64797bca30c3f6579c757.html	1924
+沈恩东		3		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218785/index.html	市政府副秘书长、办公厅党组成员		宁波市人民政府办公厅	https://www.ningbo.gov.cn/col/col1229218785/art/2026/art_322090a3d43d4c06a08ca427439a58e6.html	1924
+周嫒儿		4		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218785/index.html	市政府副秘书长、办公厅党组成员，保留正局长级		宁波市人民政府办公厅	https://www.ningbo.gov.cn/art/2024/2/29/art_1229218785_156680.html	1924
+励志纲		5		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218785/index.html	市政府副秘书长、办公厅党组成员		宁波市人民政府办公厅	https://www.ningbo.gov.cn/art/2020/8/14/art_1229218785_26277.html	1924
+姚珂军		6		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218785/index.html	市政府副秘书长、办公厅党组成员、二级巡视员		宁波市人民政府办公厅	https://www.ningbo.gov.cn/art/2024/12/20/art_1229218785_172094.html	1924
+薛晓伟		7		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218785/index.html	市政府副秘书长、办公厅党组成员		宁波市人民政府办公厅	https://www.ningbo.gov.cn/art/2020/8/14/art_1229218785_26284.html	1924
+华弼天		8		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218785/index.html	市政府副秘书长、办公厅党组成员		宁波市人民政府办公厅	https://www.ningbo.gov.cn/art/2023/2/9/art_1229218785_140359.html	1924
+虞礼勇		9		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218785/index.html	市政府副秘书长、办公厅党组成员		宁波市人民政府办公厅	https://www.ningbo.gov.cn/art/2024/2/29/art_1229218785_156679.html	1924
+徐孝昶		10		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218785/index.html	市政府副秘书长、办公厅党组成员		宁波市人民政府办公厅	https://www.ningbo.gov.cn/art/2020/8/14/art_1229218785_26272.html	1924
+龚国文		11		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218785/index.html	宁波市人民政府办公厅党组成员、派驻纪检监察组组长（正局长级）		宁波市人民政府办公厅	https://www.ningbo.gov.cn/art/2020/8/14/art_1229218785_26276.html	1924
+马建江		12		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218785/index.html	市政府办公厅副主任、党组成员		宁波市人民政府办公厅	https://www.ningbo.gov.cn/art/2022/9/16/art_1229218785_133743.html	1924
+钱鸣燕		13		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218785/index.html	市政府办公厅副主任、党组成员		宁波市人民政府办公厅	https://www.ningbo.gov.cn/art/2022/9/16/art_1229218785_133744.html	1924
+鲍晖		14		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218785/index.html	市政府办公厅副主任、党组成员		宁波市人民政府办公厅	https://www.ningbo.gov.cn/col/col1229218785/art/2026/art_1d4a5f75c1e24cff9f61e1719acb8fa1.html	1924

@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+续梅		1		北京市		https://xwb.bupt.edu.cn/xxld.htm	党委书记		北京邮电大学		3612
+徐坤		2		北京市		https://xwb.bupt.edu.cn/xxld.htm	校长		北京邮电大学		3612
+张建华		3		北京市		https://xwb.bupt.edu.cn/xxld.htm	党委副书记		北京邮电大学		3612
+王文文		4		北京市		https://xwb.bupt.edu.cn/xxld.htm	党委副书记		北京邮电大学		3612
+马启华		5		北京市		https://xwb.bupt.edu.cn/xxld.htm	党委副书记		北京邮电大学		3612
+任雄飞		6		北京市		https://xwb.bupt.edu.cn/xxld.htm	副校长		北京邮电大学		3612
+黄善国		7		北京市		https://xwb.bupt.edu.cn/xxld.htm	副校长		北京邮电大学		3612
+彭木根		8		北京市		https://xwb.bupt.edu.cn/xxld.htm	副校长		北京邮电大学		3612
+王源		9		北京市		https://xwb.bupt.edu.cn/xxld.htm	副校长		北京邮电大学		3612
+胡启镔		10		北京市		https://xwb.bupt.edu.cn/xxld.htm	党委常委		北京邮电大学		3612
+许飞		11		北京市		https://xwb.bupt.edu.cn/xxld.htm	党委常委		北京邮电大学		3612
+吴昊		12		北京市		https://xwb.bupt.edu.cn/xxld.htm	党委常委		北京邮电大学		3612

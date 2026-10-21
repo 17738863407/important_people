@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨青		1		全国		http://www.dfmc.com.cn/zoujindf/qiyegaikuang/lingdaoteam.html	东风汽车集团有限公司 董事长、党委书记		东风汽车集团有限公司		3494
+冯长军		2		全国		http://www.dfmc.com.cn/zoujindf/qiyegaikuang/lingdaoteam.html	东风汽车集团有限公司 董事、总经理、党委副书记		东风汽车集团有限公司		3494
+尤峥		3		全国		http://www.dfmc.com.cn/zoujindf/qiyegaikuang/lingdaoteam.html	东风汽车集团有限公司 副总经理、党委常委		东风汽车集团有限公司		3494
+黄川		4		全国		http://www.dfmc.com.cn/zoujindf/qiyegaikuang/lingdaoteam.html	中央纪委国家监委驻东风汽车集团有限公司 纪检监察组组长 东风汽车集团有限公司 党委常委		东风汽车集团有限公司		3494
+王俊		5		全国		http://www.dfmc.com.cn/zoujindf/qiyegaikuang/lingdaoteam.html	东风汽车集团有限公司 副总经理、党委常委		东风汽车集团有限公司		3494
+周锋		6		全国		http://www.dfmc.com.cn/zoujindf/qiyegaikuang/lingdaoteam.html	东风汽车集团有限公司 副总经理、党委常委		东风汽车集团有限公司		3494
+刘巍		7		全国		http://www.dfmc.com.cn/zoujindf/qiyegaikuang/lingdaoteam.html	东风汽车集团有限公司 总会计师、党委常委		东风汽车集团有限公司		3494

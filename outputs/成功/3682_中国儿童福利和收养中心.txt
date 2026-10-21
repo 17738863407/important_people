@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+倪春霞		1		全国		https://www.mca.gov.cn/n158/n161/n303/c14507/content.html	党委书记；主任		中国儿童福利和收养中心		3682
+和慧卿		2		全国		https://www.mca.gov.cn/n158/n161/n303/c14507/content.html	党委委员；纪委书记		中国儿童福利和收养中心		3682
+徐泽生		3		全国		https://www.mca.gov.cn/n158/n161/n303/c14507/content.html	党委委员；副主任		中国儿童福利和收养中心		3682
+黄悦		4		全国		https://www.mca.gov.cn/n158/n161/n303/c14507/content.html	党委委员；副主任		中国儿童福利和收养中心		3682

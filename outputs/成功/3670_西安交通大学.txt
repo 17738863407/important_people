@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴国生		1		陕西省	西安市	https://www.xjtu.edu.cn/info/2147/2234049.htm	党委书记；党委常委		西安交通大学	https://www.xjtu.edu.cn/info/2147/2234050.htm	3670
+张立群		2		陕西省	西安市	https://www.xjtu.edu.cn/info/2147/2234049.htm	校长；党委副书记；党委常委		西安交通大学	https://www.xjtu.edu.cn/info/2147/2227747.htm	3670
+别朝红		3		陕西省	西安市	https://www.xjtu.edu.cn/info/2147/2234049.htm	常务副校长；党委常委		西安交通大学	https://www.xjtu.edu.cn/info/2147/2233537.htm	3670
+马博虎		4		陕西省	西安市	https://www.xjtu.edu.cn/info/2147/2234049.htm	党委副书记；纪委书记；国家监委驻西安交通大学监察专员；党委常委		西安交通大学	https://www.xjtu.edu.cn/info/2147/2220040.htm	3670
+孙早		5		陕西省	西安市	https://www.xjtu.edu.cn/info/2147/2234049.htm	党委副书记；党委常委		西安交通大学	https://www.xjtu.edu.cn/info/2147/2227541.htm	3670
+柴渭		6		陕西省	西安市	https://www.xjtu.edu.cn/info/2147/2234049.htm	副校长；党委常委		西安交通大学	https://www.xjtu.edu.cn/info/2147/2220048.htm	3670
+严俊杰		7		陕西省	西安市	https://www.xjtu.edu.cn/info/2147/2234049.htm	副校长；党委常委		西安交通大学	https://www.xjtu.edu.cn/info/2147/2227543.htm	3670
+单智伟		8		陕西省	西安市	https://www.xjtu.edu.cn/info/2147/2234049.htm	副校长；党委常委		西安交通大学	https://www.xjtu.edu.cn/info/2147/2227536.htm	3670
+王欢		9		陕西省	西安市	https://www.xjtu.edu.cn/info/2147/2234049.htm	党委副书记；党委常委		西安交通大学	https://www.xjtu.edu.cn/info/2147/2227537.htm	3670
+邵金友		10		陕西省	西安市	https://www.xjtu.edu.cn/info/2147/2234049.htm	副校长；党委常委		西安交通大学	https://www.xjtu.edu.cn/info/2147/2233538.htm	3670
+成进		11		陕西省	西安市	https://www.xjtu.edu.cn/info/2147/2234049.htm	党委常委		西安交通大学	https://www.xjtu.edu.cn/info/2147/2220047.htm	3670
+周远		12		陕西省	西安市	https://www.xjtu.edu.cn/info/2147/2234049.htm	党委常委		西安交通大学	https://www.xjtu.edu.cn/info/2147/2230713.htm	3670
+黄忠德		13		陕西省	西安市	https://www.xjtu.edu.cn/info/2147/2234049.htm	校长助理		西安交通大学	https://www.xjtu.edu.cn/info/2147/2223200.htm	3670

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张国洲		1		山东省	枣庄市	http://www.zaozhuang.gov.cn/zwgk/ldxx/szfld/	市长		枣庄市人民政府	http://www.zaozhuang.gov.cn/zwgk/ldxx/szfld/202601/t20260107_2227418.html	4405
+李守江		2		山东省	枣庄市	http://www.zaozhuang.gov.cn/zwgk/ldxx/szfld/	常务副市长		枣庄市人民政府	http://www.zaozhuang.gov.cn/zwgk/ldxx/szfld/202105/t20210525_1314111.html	4405
+张庆伟		3		山东省	枣庄市	http://www.zaozhuang.gov.cn/zwgk/ldxx/szfld/	副市长		枣庄市人民政府	http://www.zaozhuang.gov.cn/zwgk/ldxx/szfld/202203/t20220301_1397069.html	4405
+刘吉忠		4		山东省	枣庄市	http://www.zaozhuang.gov.cn/zwgk/ldxx/szfld/	副市长		枣庄市人民政府	http://www.zaozhuang.gov.cn/zwgk/ldxx/szfld/201904/t20190415_1314108.html	4405
+朱清彬		5		山东省	枣庄市	http://www.zaozhuang.gov.cn/zwgk/ldxx/szfld/	副市长		枣庄市人民政府	http://www.zaozhuang.gov.cn/zwgk/ldxx/szfld/202203/t20220301_1397076.html	4405
+张龙江		6		山东省	枣庄市	http://www.zaozhuang.gov.cn/zwgk/ldxx/szfld/	副市长		枣庄市人民政府	http://www.zaozhuang.gov.cn/zwgk/ldxx/szfld/202405/t20240530_1895216.html	4405
+彭照辉		7		山东省	枣庄市	http://www.zaozhuang.gov.cn/zwgk/ldxx/szfld/	副市长		枣庄市人民政府	http://www.zaozhuang.gov.cn/zwgk/ldxx/szfld/202405/t20240530_1895235.html	4405
+宋磊		8		山东省	枣庄市	http://www.zaozhuang.gov.cn/zwgk/ldxx/szfld/	副市长		枣庄市人民政府	http://www.zaozhuang.gov.cn/zwgk/ldxx/szfld/202104/t20210407_1314110.html	4405
+朱艳峰		9		山东省	枣庄市	http://www.zaozhuang.gov.cn/zwgk/ldxx/szfld/	秘书长		枣庄市人民政府	http://www.zaozhuang.gov.cn/zwgk/ldxx/szfld/202402/t20240208_1841209.html	4405

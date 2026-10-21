@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王建		1		宁夏回族自治区		https://nynct.nx.gov.cn/zwgk/zfxxgkml/zzqnmt/	厅党组书记、厅长，自治区乡村振兴局局长，自治区党委农村工作领导小组办公室主任		宁夏回族自治区农业农村厅	https://nynct.nx.gov.cn/zwgk/zfxxgkml/zzqnmt/nmtld/201803/t20180327_724143.html	2050
+王静戟		2		宁夏回族自治区		https://nynct.nx.gov.cn/zwgk/zfxxgkml/zzqnmt/	厅党组副书记、副厅长，自治区党委农村工作领导小组办公室副主任		宁夏回族自治区农业农村厅	https://nynct.nx.gov.cn/zwgk/zfxxgkml/zzqnmt/nmtld/202410/t20241022_4703969.html	2050
+王栋		3		宁夏回族自治区		https://nynct.nx.gov.cn/zwgk/zfxxgkml/zzqnmt/	厅党组成员、驻厅纪检监察组组长		宁夏回族自治区农业农村厅	https://nynct.nx.gov.cn/zwgk/zfxxgkml/zzqnmt/nmtld/202302/t20230202_3941753.html	2050
+柴育东		4		宁夏回族自治区		https://nynct.nx.gov.cn/zwgk/zfxxgkml/zzqnmt/	厅党组成员、副厅长		宁夏回族自治区农业农村厅	https://nynct.nx.gov.cn/zwgk/zfxxgkml/zzqnmt/nmtld/202204/t20220406_3432011.html	2050
+李小龙		5		宁夏回族自治区		https://nynct.nx.gov.cn/zwgk/zfxxgkml/zzqnmt/	厅党组成员、副厅长		宁夏回族自治区农业农村厅	https://nynct.nx.gov.cn/zwgk/zfxxgkml/zzqnmt/nmtld/201803/t20180329_728041.html	2050

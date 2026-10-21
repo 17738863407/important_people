@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨国华		1		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	司长		水利部监督司		1724
+曹纪文		2		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	一级巡视员		水利部监督司		1724
+满春玲		3		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	一级巡视员		水利部监督司		1724
+魏伟		4		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副司长		水利部监督司		1724
+朱涛		5		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副司长		水利部监督司		1724

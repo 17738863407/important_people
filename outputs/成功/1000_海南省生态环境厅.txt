@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+毛东利		1		海南省		https://hnsthb.hainan.gov.cn/xxgk/0100/0103/	党组书记、厅长		海南省生态环境厅	https://hnsthb.hainan.gov.cn/xxgk/0100/0103/202111/t20211119_3095413.html	1000
+李华友		2		海南省		https://hnsthb.hainan.gov.cn/xxgk/0100/0103/	党组成员、副厅长		海南省生态环境厅	https://hnsthb.hainan.gov.cn/xxgk/0100/0103/202311/t20231123_3533208.html	1000
+李小山		3		海南省		https://hnsthb.hainan.gov.cn/xxgk/0100/0103/	党组成员、副厅长		海南省生态环境厅	https://hnsthb.hainan.gov.cn/xxgk/0100/0103/202504/t20250423_3853759.html	1000
+张静		4		海南省		https://hnsthb.hainan.gov.cn/xxgk/0100/0103/	副厅长		海南省生态环境厅	https://hnsthb.hainan.gov.cn/xxgk/0100/0103/202501/t20250107_3799363.html	1000

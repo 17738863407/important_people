@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何映昆		1		全国		https://www.miit-icdc.org/zxjs/ldtd.htm	主任		工业和信息化部工业文化发展中心		1591
+李宁		2		全国		https://www.miit-icdc.org/zxjs/ldtd.htm	副主任		工业和信息化部工业文化发展中心		1591
+孙星		3		全国		https://www.miit-icdc.org/zxjs/ldtd.htm	副主任		工业和信息化部工业文化发展中心		1591
+朱永利		4		全国		https://www.miit-icdc.org/zxjs/ldtd.htm	副主任		工业和信息化部工业文化发展中心		1591

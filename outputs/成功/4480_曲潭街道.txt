@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+阳小迪		1		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/xzbscx/qtjdbsc/jgxx/ldxx/index.html	常宁市曲潭街道党工委书记		曲潭街道	https://www.hnchangning.gov.cn/zwgk/xzbscx/qtjdbsc/jgxx/ldxx/20260108/i3846599.html	4480
+刘振东		2		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/xzbscx/qtjdbsc/jgxx/ldxx/index.html	常宁市曲潭街道党工委副书记、办事处主任		曲潭街道	https://www.hnchangning.gov.cn/zwgk/xzbscx/qtjdbsc/jgxx/ldxx/20260108/i3846596.html	4480
+李宇		3		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/xzbscx/qtjdbsc/jgxx/ldxx/index.html	常宁市曲潭街道党工委委员、人大工委主任		曲潭街道	https://www.hnchangning.gov.cn/zwgk/xzbscx/qtjdbsc/jgxx/ldxx/20260108/i3846591.html	4480
+雷卫华		4		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/xzbscx/qtjdbsc/jgxx/ldxx/index.html	常宁市曲潭街道党工委委员、一级主任科员		曲潭街道	https://www.hnchangning.gov.cn/zwgk/xzbscx/qtjdbsc/jgxx/ldxx/20260108/i3846578.html	4480

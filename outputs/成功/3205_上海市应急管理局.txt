@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘斌		1		上海市		https://yjglj.sh.gov.cn/xxgk/xxgkml/jgzn/jgld/20260506/c36aed2539754dbbad05f0e6733633e8.html	党委书记、局长，兼上海市消防救援总队（上海市消防救援局）第一政治委员		上海市应急管理局		3205
+梁云红		2		上海市		https://yjglj.sh.gov.cn/xxgk/xxgkml/jgzn/jgld/20260506/c36aed2539754dbbad05f0e6733633e8.html	党委副书记、副局长（兼），市消防救援总队总队长、党委副书记		上海市应急管理局		3205
+曹俊		3		上海市		https://yjglj.sh.gov.cn/xxgk/xxgkml/jgzn/jgld/20260506/c36aed2539754dbbad05f0e6733633e8.html	党委委员、副局长		上海市应急管理局		3205
+李彩云		4		上海市		https://yjglj.sh.gov.cn/xxgk/xxgkml/jgzn/jgld/20260506/c36aed2539754dbbad05f0e6733633e8.html	党委委员、副局长		上海市应急管理局		3205
+金跃明		5		上海市		https://yjglj.sh.gov.cn/xxgk/xxgkml/jgzn/jgld/20260506/c36aed2539754dbbad05f0e6733633e8.html	党委委员、副局长		上海市应急管理局		3205
+王德强		6		上海市		https://yjglj.sh.gov.cn/xxgk/xxgkml/jgzn/jgld/20260506/c36aed2539754dbbad05f0e6733633e8.html	党委委员、副局长		上海市应急管理局		3205
+宋劬侃		7		上海市		https://yjglj.sh.gov.cn/xxgk/xxgkml/jgzn/jgld/20260506/c36aed2539754dbbad05f0e6733633e8.html	市纪委监委驻局纪检监察组组长、党委委员		上海市应急管理局		3205
+桂余才		8		上海市		https://yjglj.sh.gov.cn/xxgk/xxgkml/jgzn/jgld/20260506/c36aed2539754dbbad05f0e6733633e8.html	一级巡视员、直属机关党委书记		上海市应急管理局		3205

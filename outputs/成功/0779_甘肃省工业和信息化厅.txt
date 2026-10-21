@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+韩显明		1		甘肃省		https://gxt.gansu.gov.cn/gxt/c107659/2025xxgk_jgzn.shtml	党组书记、厅长		甘肃省工业和信息化厅	https://gxt.gansu.gov.cn/gxt/c119362/2025xxgk_ldxq_dy.shtml	0779
+黄宝荣		2		甘肃省		https://gxt.gansu.gov.cn/gxt/c107659/2025xxgk_jgzn.shtml	副厅长、农工党甘肃省委会负责日常工作的专职副主委（正厅长级）		甘肃省工业和信息化厅	https://gxt.gansu.gov.cn/gxt/c119363/2025xxgk_ldxq_dy.shtml	0779
+陶英平		3		甘肃省		https://gxt.gansu.gov.cn/gxt/c107659/2025xxgk_jgzn.shtml	党组成员、副厅长		甘肃省工业和信息化厅	https://gxt.gansu.gov.cn/gxt/c119364/2025xxgk_ldxq_dy.shtml	0779
+王永庆		4		甘肃省		https://gxt.gansu.gov.cn/gxt/c107659/2025xxgk_jgzn.shtml	党组成员、副厅长		甘肃省工业和信息化厅	https://gxt.gansu.gov.cn/gxt/c119366/2025xxgk_ldxq_dy.shtml	0779
+王超		5		甘肃省		https://gxt.gansu.gov.cn/gxt/c107659/2025xxgk_jgzn.shtml	党组成员、副厅长		甘肃省工业和信息化厅	https://gxt.gansu.gov.cn/gxt/c119368/2025xxgk_ldxq_dy.shtml	0779
+李亦军		6		甘肃省		https://gxt.gansu.gov.cn/gxt/c107659/2025xxgk_jgzn.shtml	一级巡视员		甘肃省工业和信息化厅	https://gxt.gansu.gov.cn/gxt/c119369/2025xxgk_ldxq_dy.shtml	0779
+王建元		7		甘肃省		https://gxt.gansu.gov.cn/gxt/c107659/2025xxgk_jgzn.shtml	一级巡视员、一级高级监察官		甘肃省工业和信息化厅	https://gxt.gansu.gov.cn/gxt/c119365/2025xxgk_ldxq_dy.shtml	0779
+李波		8		甘肃省		https://gxt.gansu.gov.cn/gxt/c107659/2025xxgk_jgzn.shtml	二级巡视员		甘肃省工业和信息化厅	https://gxt.gansu.gov.cn/gxt/c119374/2025xxgk_ldxq_dy.shtml	0779
+李斌		9		甘肃省		https://gxt.gansu.gov.cn/gxt/c107659/2025xxgk_jgzn.shtml	二级巡视员		甘肃省工业和信息化厅	https://gxt.gansu.gov.cn/gxt/c119375/2025xxgk_ldxq_dy.shtml	0779
+郭永清		10		甘肃省		https://gxt.gansu.gov.cn/gxt/c107659/2025xxgk_jgzn.shtml	二级巡视员		甘肃省工业和信息化厅	https://gxt.gansu.gov.cn/gxt/c119376/2025xxgk_ldxq_dy.shtml	0779
+巩朝阳		11		甘肃省		https://gxt.gansu.gov.cn/gxt/c107659/2025xxgk_jgzn.shtml	二级巡视员		甘肃省工业和信息化厅	https://gxt.gansu.gov.cn/gxt/c119476/2025xxgk_ldxq_dy.shtml	0779
+邹青		12		甘肃省		https://gxt.gansu.gov.cn/gxt/c107659/2025xxgk_jgzn.shtml	二级巡视员		甘肃省工业和信息化厅	https://gxt.gansu.gov.cn/gxt/c119477/2025xxgk_ldxq_dy.shtml	0779
+魏建荣		13		甘肃省		https://gxt.gansu.gov.cn/gxt/c107659/2025xxgk_jgzn.shtml	二级巡视员		甘肃省工业和信息化厅	https://gxt.gansu.gov.cn/gxt/c119478/2025xxgk_ldxq_dy.shtml	0779
+徐宗海		14		甘肃省		https://gxt.gansu.gov.cn/gxt/c107659/2025xxgk_jgzn.shtml	二级巡视员		甘肃省工业和信息化厅	https://gxt.gansu.gov.cn/gxt/c119479/2025xxgk_ldxq_dy.shtml	0779

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何积育		1		陕西省		https://www.sxggzyjy.cn/zxgk/011002/011002001/centerProfile.html	陕西省公共资源交易中心党总支书记、主任		陕西省公共资源交易中心		2645
+杨凤婷		2		陕西省		https://www.sxggzyjy.cn/zxgk/011002/011002001/centerProfile.html	陕西省公共资源交易中心副主任		陕西省公共资源交易中心	https://www.sxggzyjy.cn/zxgk/011002/011002004/centerProfile.html	2645
+陈林		3		陕西省		https://www.sxggzyjy.cn/zxgk/011002/011002001/centerProfile.html	陕西省公共资源交易中心副主任		陕西省公共资源交易中心	https://www.sxggzyjy.cn/zxgk/011002/011002005/centerProfile.html	2645
+张贵凯		4		陕西省		https://www.sxggzyjy.cn/zxgk/011002/011002001/centerProfile.html	陕西省公共资源交易中心副主任		陕西省公共资源交易中心	https://www.sxggzyjy.cn/zxgk/011002/011002006/centerProfile.html	2645
+胡阳		5		陕西省		https://www.sxggzyjy.cn/zxgk/011002/011002001/centerProfile.html	陕西省公共资源交易中心副主任		陕西省公共资源交易中心	https://www.sxggzyjy.cn/zxgk/011002/011002007/centerProfile.html	2645

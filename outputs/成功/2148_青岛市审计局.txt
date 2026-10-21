@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+管卫东		1		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/sjj/gkml/jgxx/202112/t20211209_3954355.shtml	市委审计委员会办公室主任，党组书记、局长		青岛市审计局		2148
+张祚锡		2		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/sjj/gkml/jgxx/202112/t20211209_3954355.shtml	党组成员、副局长		青岛市审计局		2148
+崔银科		3		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/sjj/gkml/jgxx/202112/t20211209_3954355.shtml	党组成员、副局长		青岛市审计局		2148
+孙毅		4		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/sjj/gkml/jgxx/202112/t20211209_3954355.shtml	党组成员、青岛市经济责任审计工作联席会议办公室主任		青岛市审计局		2148
+张倩铭		5		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/sjj/gkml/jgxx/202112/t20211209_3954355.shtml	副局长		青岛市审计局		2148

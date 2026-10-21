@@ -1,0 +1,30 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+卢景波		1		全国		https://www.ccoaonline.com/qjxh/members.html	理事长		中国粮油学会		4250
+马俊		2		全国		https://www.ccoaonline.com/qjxh/members.html	副理事长		中国粮油学会		4250
+王娟		3		全国		https://www.ccoaonline.com/qjxh/members.html	副理事长		中国粮油学会		4250
+丹志民		4		全国		https://www.ccoaonline.com/qjxh/members.html	副理事长		中国粮油学会		4250
+白艳红		5		全国		https://www.ccoaonline.com/qjxh/members.html	副理事长		中国粮油学会		4250
+邱伟芬		6		全国		https://www.ccoaonline.com/qjxh/members.html	副理事长		中国粮油学会		4250
+范志军		7		全国		https://www.ccoaonline.com/qjxh/members.html	副理事长		中国粮油学会		4250
+赵广美		8		全国		https://www.ccoaonline.com/qjxh/members.html	副理事长；秘书长		中国粮油学会	https://www.ccoaonline.com/qjxh/member-28.html	4250
+侯永清		9		全国		https://www.ccoaonline.com/qjxh/members.html	副理事长		中国粮油学会		4250
+顾正彪		10		全国		https://www.ccoaonline.com/qjxh/members.html	副理事长		中国粮油学会		4250
+涂长明		11		全国		https://www.ccoaonline.com/qjxh/members.html	副理事长		中国粮油学会		4250
+熊涛		12		全国		https://www.ccoaonline.com/qjxh/members.html	副理事长		中国粮油学会		4250
+滕增泰		13		全国		https://www.ccoaonline.com/qjxh/members.html	副理事长		中国粮油学会		4250
+姜在君		14		全国		https://www.ccoaonline.com/qjxh/members.html	监事长		中国粮油学会		4250
+夏春胜		15		全国		https://www.ccoaonline.com/qjxh/members.html	副监事长		中国粮油学会		4250
+张树淼		16		全国		https://www.ccoaonline.com/qjxh/members.html	监事		中国粮油学会		4250
+袁辉		17		全国		https://www.ccoaonline.com/qjxh/members.html	监事		中国粮油学会		4250
+鞠永平		18		全国		https://www.ccoaonline.com/qjxh/members.html	监事		中国粮油学会		4250
+陈坚		19		全国		https://www.ccoaonline.com/qjxh/members.html	首席科学家		中国粮油学会		4250
+金征宇		20		全国		https://www.ccoaonline.com/qjxh/members.html	首席科学家		中国粮油学会		4250
+卞科		21		全国		https://www.ccoaonline.com/qjxh/members.html	首席科学家		中国粮油学会		4250
+王兴国		22		全国		https://www.ccoaonline.com/qjxh/members.html	首席科学家		中国粮油学会		4250
+王强		23		全国		https://www.ccoaonline.com/qjxh/members.html	首席科学家		中国粮油学会		4250
+李成伟		24		全国		https://www.ccoaonline.com/qjxh/members.html	首席科学家		中国粮油学会	https://www.ccoaonline.com/qjxh/member-57.html	4250
+李爱科		25		全国		https://www.ccoaonline.com/qjxh/members.html	首席科学家		中国粮油学会		4250
+胥传来		26		全国		https://www.ccoaonline.com/qjxh/members.html	首席科学家		中国粮油学会		4250
+翟江临		27		全国		https://www.ccoaonline.com/qjxh/members.html	首席科学家		中国粮油学会		4250
+鞠兴荣		28		全国		https://www.ccoaonline.com/qjxh/members.html	首席科学家		中国粮油学会		4250
+魏然		29		全国		https://www.ccoaonline.com/qjxh/members.html	副秘书长		中国粮油学会		4250

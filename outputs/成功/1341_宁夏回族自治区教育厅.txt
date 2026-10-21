@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周庆华		1		宁夏回族自治区		https://jyt.nx.gov.cn/zwgk/zfxxgkml/zzjgjzz/wtld/	自治区党委教育工委书记，自治区教育厅党组书记、厅长		宁夏回族自治区教育厅	https://jyt.nx.gov.cn/zwgk/zfxxgkml/zzjgjzz/wtld/202412/t20241226_4770952.html	1341
+刘炎胜		2		宁夏回族自治区		https://jyt.nx.gov.cn/zwgk/zfxxgkml/zzjgjzz/wtld/	自治区党委教育工委副书记		宁夏回族自治区教育厅	https://jyt.nx.gov.cn/zwgk/zfxxgkml/zzjgjzz/wtld/202406/t20240613_4566765.html	1341
+马丽		3		宁夏回族自治区		https://jyt.nx.gov.cn/zwgk/zfxxgkml/zzjgjzz/wtld/	自治区党委教育工委副书记		宁夏回族自治区教育厅	https://jyt.nx.gov.cn/zwgk/zfxxgkml/zzjgjzz/wtld/202105/t20210512_2839674.html	1341
+李学斌		4		宁夏回族自治区		https://jyt.nx.gov.cn/zwgk/zfxxgkml/zzjgjzz/wtld/	自治区教育厅党组成员、副厅长		宁夏回族自治区教育厅	https://jyt.nx.gov.cn/zwgk/zfxxgkml/zzjgjzz/wtld/202507/t20250716_4963217.html	1341
+姬元龙		5		宁夏回族自治区		https://jyt.nx.gov.cn/zwgk/zfxxgkml/zzjgjzz/wtld/	自治区教育厅党组成员、副厅长		宁夏回族自治区教育厅	https://jyt.nx.gov.cn/zwgk/zfxxgkml/zzjgjzz/wtld/202305/t20230505_4053856.html	1341
+杨宝文		6		宁夏回族自治区		https://jyt.nx.gov.cn/zwgk/zfxxgkml/zzjgjzz/wtld/	自治区人民政府教育督导室副主任督学（副厅级）		宁夏回族自治区教育厅	https://jyt.nx.gov.cn/zwgk/zfxxgkml/zzjgjzz/wtld/202204/t20220412_3449912.html	1341
+谢海涛		7		宁夏回族自治区		https://jyt.nx.gov.cn/zwgk/zfxxgkml/zzjgjzz/wtld/	自治区教育厅党组成员、副厅长		宁夏回族自治区教育厅	https://jyt.nx.gov.cn/zwgk/zfxxgkml/zzjgjzz/wtld/202607/t20260720_5292943.html	1341
+黄子平		8		宁夏回族自治区		https://jyt.nx.gov.cn/zwgk/zfxxgkml/zzjgjzz/wtld/	自治区党委教育工委副书记、自治区团委副书记（兼）		宁夏回族自治区教育厅	https://jyt.nx.gov.cn/zwgk/zfxxgkml/zzjgjzz/wtld/202412/t20241202_4744882.html	1341
+贺江		9		宁夏回族自治区		https://jyt.nx.gov.cn/zwgk/zfxxgkml/zzjgjzz/wtld/	自治区教育工委委员、纪检监察工委书记，自治区教育厅党组成员，自治区纪委监委驻自治区教育厅纪检监察组组长		宁夏回族自治区教育厅	https://jyt.nx.gov.cn/zwgk/zfxxgkml/zzjgjzz/wtld/202412/t20241212_4756916.html	1341

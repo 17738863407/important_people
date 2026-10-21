@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谭文英		1		江西省		http://amr.jiangxi.gov.cn/amr/gkxx125/pc/list.html	江西省市场监督管理局副局长		江西省市场监督管理局	http://amr.jiangxi.gov.cn/amr/ldxx160/pc/content/content_1895301757700866048.html	0088
+张正新		2		江西省		http://amr.jiangxi.gov.cn/amr/gkxx125/pc/list.html	江西省市场监督管理局党组成员、副局长		江西省市场监督管理局	http://amr.jiangxi.gov.cn/amr/ldxx160/pc/content/content_1895301758246125568.html	0088
+季建芳		3		江西省		http://amr.jiangxi.gov.cn/amr/gkxx125/pc/list.html	江西省市场监督管理局党组成员、副局长		江西省市场监督管理局	http://amr.jiangxi.gov.cn/amr/ldxx160/pc/content/content_1895301759957401600.html	0088
+刘斌		4		江西省		http://amr.jiangxi.gov.cn/amr/gkxx125/pc/list.html	江西省市场监督管理局党组成员，江西省药品监督管理局党组书记、局长		江西省市场监督管理局	http://amr.jiangxi.gov.cn/amr/ldxx160/pc/content/content_1948576394323865600.html	0088
+高玉宝		5		江西省		http://amr.jiangxi.gov.cn/amr/gkxx125/pc/list.html	江西省市场监督管理局党组成员、省纪律检查委员会省监察委员会驻省市场监督管理局纪检监察组组长（试用期一年），二级高级监察官		江西省市场监督管理局	http://amr.jiangxi.gov.cn/amr/ldxx160/pc/content/content_2094271797685465088.html	0088
+章志键		6		江西省		http://amr.jiangxi.gov.cn/amr/gkxx125/pc/list.html	江西省市场监督管理局二级巡视员		江西省市场监督管理局	http://amr.jiangxi.gov.cn/amr/ldxx160/pc/content/content_1895301760712376320.html	0088

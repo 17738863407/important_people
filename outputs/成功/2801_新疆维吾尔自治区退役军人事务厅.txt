@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谢少迪		1		新疆维吾尔自治区		https://tyjr.xinjiang.gov.cn/tyjr/c113460/zfxxgk_jgsz.shtml	自治区退役军人事务厅党组书记、副厅长		新疆维吾尔自治区退役军人事务厅	https://tyjr.xinjiang.gov.cn/tyjr/ldxx/202609/49146d2d25724f5cb9bc6a710f60e8d8.shtml	2801
+余斗星		2		新疆维吾尔自治区		https://tyjr.xinjiang.gov.cn/tyjr/c113460/zfxxgk_jgsz.shtml	自治区退役军人事务厅党组副书记、厅长		新疆维吾尔自治区退役军人事务厅	https://tyjr.xinjiang.gov.cn/tyjr/ldxx/202006/072556d2122147a395ac7d1e124ff65e.shtml	2801
+毕海		3		新疆维吾尔自治区		https://tyjr.xinjiang.gov.cn/tyjr/c113460/zfxxgk_jgsz.shtml	自治区退役军人事务厅党组成员、副厅长		新疆维吾尔自治区退役军人事务厅	https://tyjr.xinjiang.gov.cn/tyjr/ldxx/202503/36090060d2c84155b5f01d75b9b54357.shtml	2801
+奚玉峰		4		新疆维吾尔自治区		https://tyjr.xinjiang.gov.cn/tyjr/c113460/zfxxgk_jgsz.shtml	自治区退役军人事务厅党组成员、副厅长（援疆）		新疆维吾尔自治区退役军人事务厅	https://tyjr.xinjiang.gov.cn/tyjr/ldxx/202609/c26da328ba5b4d16990f12fb15f70650.shtml	2801
+于峰		5		新疆维吾尔自治区		https://tyjr.xinjiang.gov.cn/tyjr/c113460/zfxxgk_jgsz.shtml	自治区退役军人事务厅党组成员、副厅长		新疆维吾尔自治区退役军人事务厅	https://tyjr.xinjiang.gov.cn/tyjr/ldxx/202601/901ef62073084e77a031682ba7616abc.shtml	2801
+万艳明		6		新疆维吾尔自治区		https://tyjr.xinjiang.gov.cn/tyjr/c113460/zfxxgk_jgsz.shtml	自治区退役军人事务厅党组成员、副厅长（兼）		新疆维吾尔自治区退役军人事务厅	https://tyjr.xinjiang.gov.cn/tyjr/ldxx/202609/d7d3490db7014520b8b1c4cc5b8cb015.shtml	2801

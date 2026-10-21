@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+田海波		1		全国		http://www.lasac.cn/zzjg/zxld/index.html	主任，党委书记		自然资源部国土卫星遥感应用中心		1410
+王胜强		2		全国		http://www.lasac.cn/zzjg/zxld/index.html	党委专职副书记		自然资源部国土卫星遥感应用中心		1410
+高小明		3		全国		http://www.lasac.cn/zzjg/zxld/index.html	副主任		自然资源部国土卫星遥感应用中心		1410
+于德全		4		全国		http://www.lasac.cn/zzjg/zxld/index.html	副主任		自然资源部国土卫星遥感应用中心		1410
+马伟		5		全国		http://www.lasac.cn/zzjg/zxld/index.html	总工程师		自然资源部国土卫星遥感应用中心		1410
+姚一静		6		全国		http://www.lasac.cn/zzjg/zxld/index.html	副主任		自然资源部国土卫星遥感应用中心		1410

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陶德文		1		广西壮族自治区	防城港市	https://www.fcgs.gov.cn/zfxxgk/zdzdgknr/ldjj/	副市长		防城港市人民政府	https://www.fcgs.gov.cn/zfxxgk/zdzdgknr/ldjj/fsz/t19759442.shtml	3818
+廖云		2		广西壮族自治区	防城港市	https://www.fcgs.gov.cn/zfxxgk/zdzdgknr/ldjj/	副市长		防城港市人民政府	https://www.fcgs.gov.cn/zfxxgk/zdzdgknr/ldjj/fsz/t13855250.shtml	3818
+覃汇		3		广西壮族自治区	防城港市	https://www.fcgs.gov.cn/zfxxgk/zdzdgknr/ldjj/	副市长		防城港市人民政府	https://www.fcgs.gov.cn/zfxxgk/zdzdgknr/ldjj/fsz/t13755994.shtml	3818
+佟义东		4		广西壮族自治区	防城港市	https://www.fcgs.gov.cn/zfxxgk/zdzdgknr/ldjj/	副市长		防城港市人民政府	https://www.fcgs.gov.cn/zfxxgk/zdzdgknr/ldjj/fsz/t26110991.shtml	3818
+禤东		5		广西壮族自治区	防城港市	https://www.fcgs.gov.cn/zfxxgk/zdzdgknr/ldjj/	副市长		防城港市人民政府	https://www.fcgs.gov.cn/zfxxgk/zdzdgknr/ldjj/fsz/t17255577.shtml	3818
+刘林		6		广西壮族自治区	防城港市	https://www.fcgs.gov.cn/zfxxgk/zdzdgknr/ldjj/	副市长		防城港市人民政府	https://www.fcgs.gov.cn/zfxxgk/zdzdgknr/ldjj/fsz/t26111019.shtml	3818
+梁家田		7		广西壮族自治区	防城港市	https://www.fcgs.gov.cn/zfxxgk/zdzdgknr/ldjj/	秘书长		防城港市人民政府	https://www.fcgs.gov.cn/zfxxgk/zdzdgknr/ldjj/msz/t27529335.shtml	3818

@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵广柱		1		陕西省		https://lswz.shaanxi.gov.cn/xxgk/fdgk/jgjj/ldxx/	省发展改革委党组成员，省粮食和物资储备局党组书记、局长		陕西省粮食和物资储备局	https://lswz.shaanxi.gov.cn/xxgk/fdgk/jgjj/ldxx/202606/t20260605_3645041.html	1454
+陈辉		2		陕西省		https://lswz.shaanxi.gov.cn/xxgk/fdgk/jgjj/ldxx/	省粮食和物资储备局党组成员、副局长		陕西省粮食和物资储备局	https://lswz.shaanxi.gov.cn/xxgk/fdgk/jgjj/ldxx/202409/t20240918_2614466.html	1454
+王晓霞		3		陕西省		https://lswz.shaanxi.gov.cn/xxgk/fdgk/jgjj/ldxx/	省粮食和物资储备局党组成员、副局长		陕西省粮食和物资储备局	https://lswz.shaanxi.gov.cn/xxgk/fdgk/jgjj/ldxx/202409/t20240918_2614465.html	1454
+王志军		4		陕西省		https://lswz.shaanxi.gov.cn/xxgk/fdgk/jgjj/ldxx/	省粮食和物资储备局总工程师		陕西省粮食和物资储备局	https://lswz.shaanxi.gov.cn/xxgk/fdgk/jgjj/ldxx/202409/t20240918_2614462.html	1454

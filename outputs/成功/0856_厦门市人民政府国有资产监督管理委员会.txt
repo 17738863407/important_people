@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王良睦		1		福建省	厦门市	http://gzw.xm.gov.cn/xxgk/xxgkml/jgsz/ldfg/202306/t20230601_2762304.htm	福建省厦门市人民政府国有资产监督管理委员会党委书记、主任、一级巡视员		厦门市人民政府国有资产监督管理委员会		0856
+林郁香		2		福建省	厦门市	http://gzw.xm.gov.cn/xxgk/xxgkml/jgsz/ldfg/202306/t20230601_2762304.htm	福建省厦门市人民政府国有资产监督管理委员会党委委员、副书记、副主任		厦门市人民政府国有资产监督管理委员会	http://gzw.xm.gov.cn/xxgk/xxgkml/jgsz/ldfg/202407/t20240723_2880163.htm	0856
+曹征宇		3		福建省	厦门市	http://gzw.xm.gov.cn/xxgk/xxgkml/jgsz/ldfg/202306/t20230601_2762304.htm	福建省厦门市人民政府国有资产监督管理委员会党委委员、副主任		厦门市人民政府国有资产监督管理委员会	http://gzw.xm.gov.cn/xxgk/xxgkml/jgsz/ldfg/202306/t20230601_2762300.htm	0856
+万红丹		4		福建省	厦门市	http://gzw.xm.gov.cn/xxgk/xxgkml/jgsz/ldfg/202306/t20230601_2762304.htm	福建省厦门市人民政府国有资产监督管理委员会党委委员、副主任		厦门市人民政府国有资产监督管理委员会	http://gzw.xm.gov.cn/xxgk/xxgkml/jgsz/ldfg/202306/t20230601_2762296.htm	0856
+张晶		5		福建省	厦门市	http://gzw.xm.gov.cn/xxgk/xxgkml/jgsz/ldfg/202306/t20230601_2762304.htm	福建省厦门市人民政府国有资产监督管理委员会委员会党委委员、市纪委监委驻市国资委纪检监察组组长		厦门市人民政府国有资产监督管理委员会	http://gzw.xm.gov.cn/xxgk/xxgkml/jgsz/ldfg/202306/t20230601_2762303.htm	0856
+曾希扬		6		福建省	厦门市	http://gzw.xm.gov.cn/xxgk/xxgkml/jgsz/ldfg/202306/t20230601_2762304.htm	福建省厦门市人民政府国有资产监督管理委员会党委委员、副主任		厦门市人民政府国有资产监督管理委员会	http://gzw.xm.gov.cn/xxgk/xxgkml/jgsz/ldfg/202412/t20241219_2907641.htm	0856

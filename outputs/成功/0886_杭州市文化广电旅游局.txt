@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵弘中		1		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229835713/index.html	党组副书记、副局长		杭州市文化广电旅游局		0886
+张龙		2		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229835713/index.html	党组成员、副局长		杭州市文化广电旅游局		0886
+钱潮力		3		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229835713/index.html	党组成员、副局长		杭州市文化广电旅游局		0886
+叶虹		4		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229835713/index.html	副局长		杭州市文化广电旅游局		0886
+徐小川		5		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229835713/index.html	杭州市文化市场执法监督指导中心主任		杭州市文化广电旅游局		0886
+刘宇峰		6		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229835713/index.html	二级巡视员		杭州市文化广电旅游局		0886
+曲波		7		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229835713/index.html	二级巡视员		杭州市文化广电旅游局		0886

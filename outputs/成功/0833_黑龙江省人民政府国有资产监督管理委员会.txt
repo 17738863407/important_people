@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王凤文		1		黑龙江省		https://gzw.hlj.gov.cn/gzw/c104222/zfxxgk.shtml	省国资委党委书记、主任		黑龙江省人民政府国有资产监督管理委员会	https://gzw.hlj.gov.cn/gzw/c104222/201805/c00_30082220.shtml	0833
+张玉福		2		黑龙江省		https://gzw.hlj.gov.cn/gzw/c104222/zfxxgk.shtml	省国资委党委委员、副主任		黑龙江省人民政府国有资产监督管理委员会	https://gzw.hlj.gov.cn/gzw/c104222/202101/c00_30082246.shtml	0833
+张海峰		3		黑龙江省		https://gzw.hlj.gov.cn/gzw/c104222/zfxxgk.shtml	省国资委党委委员、省纪委监委驻省国资委纪检监察组组长		黑龙江省人民政府国有资产监督管理委员会	https://gzw.hlj.gov.cn/gzw/c104222/202011/c00_30082239.shtml	0833
+张姝玲		4		黑龙江省		https://gzw.hlj.gov.cn/gzw/c104222/zfxxgk.shtml	省国资委党委委员、副主任		黑龙江省人民政府国有资产监督管理委员会	https://gzw.hlj.gov.cn/gzw/c104222/201507/c00_30082157.shtml	0833
+王建华		5		黑龙江省		https://gzw.hlj.gov.cn/gzw/c104222/zfxxgk.shtml	省国资委副主任		黑龙江省人民政府国有资产监督管理委员会	https://gzw.hlj.gov.cn/gzw/c104222/202106/c00_30082266.shtml	0833
+苏冠英		6		黑龙江省		https://gzw.hlj.gov.cn/gzw/c104222/zfxxgk.shtml	党委委员、副主任		黑龙江省人民政府国有资产监督管理委员会	https://gzw.hlj.gov.cn/gzw/c104222/201809/c00_30082229.shtml	0833
+刘鹏飞		7		黑龙江省		https://gzw.hlj.gov.cn/gzw/c104222/zfxxgk.shtml	省国资委一级巡视员		黑龙江省人民政府国有资产监督管理委员会	https://gzw.hlj.gov.cn/gzw/c104222/202109/c00_30082271.shtml	0833

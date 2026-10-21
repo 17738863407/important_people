@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘旭东		1		黑龙江省		https://jyglj.hlj.gov.cn/jyglj/c103522/jgldnew.shtml	黑龙江省司法厅党委委员、副厅长，黑龙江省监狱管理局党委书记、局长，龙裕集团公司董事长		黑龙江省监狱管理局	https://jyglj.hlj.gov.cn/jyglj/c103522/202503/c00_31821872.shtml	1296
+马万里		2		黑龙江省		https://jyglj.hlj.gov.cn/jyglj/c103522/jgldnew.shtml	黑龙江省监狱管理局党委副书记、政委		黑龙江省监狱管理局	https://jyglj.hlj.gov.cn/jyglj/c103522/202408/c00_31758390.shtml	1296
+许忠		3		黑龙江省		https://jyglj.hlj.gov.cn/jyglj/c103522/jgldnew.shtml	黑龙江省监狱管理局党委委员、副局长、二级巡视员		黑龙江省监狱管理局	https://jyglj.hlj.gov.cn/jyglj/c103522/202011/c00_30135348.shtml	1296
+张春晖		4		黑龙江省		https://jyglj.hlj.gov.cn/jyglj/c103522/jgldnew.shtml	黑龙江省监狱管理局党委委员、政治部主任		黑龙江省监狱管理局	https://jyglj.hlj.gov.cn/jyglj/c103522/202405/c00_31738793.shtml	1296
+刘凌峰		5		黑龙江省		https://jyglj.hlj.gov.cn/jyglj/c103522/jgldnew.shtml	黑龙江省监狱管理局党委委员、副局长		黑龙江省监狱管理局	https://jyglj.hlj.gov.cn/jyglj/c103522/202505/c00_31841634.shtml	1296
+杨明昕		6		黑龙江省		https://jyglj.hlj.gov.cn/jyglj/c103522/jgldnew.shtml	龙裕集团公司总经理		黑龙江省监狱管理局	https://jyglj.hlj.gov.cn/jyglj/c103522/202505/c00_31841635.shtml	1296

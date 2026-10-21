@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+穆鹏		1		北京市		https://www.beijing.gov.cn/gongkai/zfxxgk/csfzxgwh/ldxx/	北京市政府党组成员、副市长，城市副中心党工委书记、管委会主任		北京城市副中心管理委员会		0110
+李俊杰		2		北京市		https://www.beijing.gov.cn/gongkai/zfxxgk/csfzxgwh/ldxx/	北京市通州区委书记，城市副中心党工委常务副书记、管委会常务副主任		北京城市副中心管理委员会		0110
+郑皓		3		北京市		https://www.beijing.gov.cn/gongkai/zfxxgk/csfzxgwh/ldxx/	北京市通州区委副书记，通州区政府党组书记、区长，城市副中心党工委副书记、管委会副主任		北京城市副中心管理委员会		0110
+王承军		4		北京市		https://www.beijing.gov.cn/gongkai/zfxxgk/csfzxgwh/ldxx/	北京市重大项目办党组书记，城市副中心党工委副书记、管委会副主任		北京城市副中心管理委员会		0110
+王何义		5		北京市		https://www.beijing.gov.cn/gongkai/zfxxgk/csfzxgwh/ldxx/	城市副中心党工委委员、城市副中心纪检监察工委书记		北京城市副中心管理委员会		0110
+卢庆雷		6		北京市		https://www.beijing.gov.cn/gongkai/zfxxgk/csfzxgwh/ldxx/	城市副中心党工委委员、管委会副主任		北京城市副中心管理委员会		0110
+陈晓峰		7		北京市		https://www.beijing.gov.cn/gongkai/zfxxgk/csfzxgwh/ldxx/	城市副中心党工委委员、管委会副主任，城市副中心工程办临时党委书记、主任		北京城市副中心管理委员会		0110
+李先侠		8		北京市		https://www.beijing.gov.cn/gongkai/zfxxgk/csfzxgwh/ldxx/	北京市通州区委常委，通州区政府党组副书记、常务副区长，城市副中心党工委委员、管委会副主任		北京城市副中心管理委员会		0110
+杨浚		9		北京市		https://www.beijing.gov.cn/gongkai/zfxxgk/csfzxgwh/ldxx/	北京市规划和自然资源委党组成员、副主任，城市副中心党工委委员		北京城市副中心管理委员会		0110

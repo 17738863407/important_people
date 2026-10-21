@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李丹		1		四川省		http://sft.sc.gov.cn/sftzww/ldjj/tld.shtml	中共四川省委全面依法治省委员会办公室副主任，四川省司法厅党委书记、厅长，四川省监狱管理局第一政委		四川省司法厅	http://sft.sc.gov.cn/sftzww/c112535/tld_detail.shtml	2337
+王彬		2		四川省		http://sft.sc.gov.cn/sftzww/ldjj/tld.shtml	四川省司法厅党委副书记、副厅长、一级巡视员		四川省司法厅	http://sft.sc.gov.cn/sftzww/c100001/tld_detail.shtml	2337
+王强		3		四川省		http://sft.sc.gov.cn/sftzww/ldjj/tld.shtml	四川省司法厅党委委员、副厅长		四川省司法厅	http://sft.sc.gov.cn/sftzww/wangqiang/tld_detail.shtml	2337
+王飙		4		四川省		http://sft.sc.gov.cn/sftzww/ldjj/tld.shtml	四川省司法厅党委委员、副厅长		四川省司法厅	http://sft.sc.gov.cn/sftzww/c100006/tld_detail.shtml	2337
+潘奇峰		5		四川省		http://sft.sc.gov.cn/sftzww/ldjj/tld.shtml	四川省司法厅党委委员，四川省戒毒管理局党委书记、局长，四川健芯集团有限责任公司党委书记、董事长(兼)		四川省司法厅	http://sft.sc.gov.cn/sftzww/c100021/tld_detail.shtml	2337
+郑鈜		6		四川省		http://sft.sc.gov.cn/sftzww/ldjj/tld.shtml	四川省司法厅副厅长		四川省司法厅	http://sft.sc.gov.cn/sftzww/c111540/tld_detail.shtml	2337
+钟静		7		四川省		http://sft.sc.gov.cn/sftzww/ldjj/tld.shtml	四川省司法厅党委委员，四川省监狱管理局党委书记、局长		四川省司法厅	http://sft.sc.gov.cn/sftzww/zhj/tld_detail.shtml	2337
+彭华		8		四川省		http://sft.sc.gov.cn/sftzww/ldjj/tld.shtml	四川省司法厅党委委员、政治部(警务部)主任兼厅机关党委书记		四川省司法厅	http://sft.sc.gov.cn/sftzww/c112539/tld_detail.shtml	2337
+李卫		9		四川省		http://sft.sc.gov.cn/sftzww/ldjj/tld.shtml	省纪委监委驻司法厅纪检监察组组长、四川省司法厅党委委员、二级高级监察官		四川省司法厅	http://sft.sc.gov.cn/sftzww/c112541/tld_detail.shtml	2337

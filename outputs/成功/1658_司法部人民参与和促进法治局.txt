@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杜亚玲		1		全国		https://www.moj.gov.cn/jgsz/jgszjgtj/rmcyyhcjfzj/	局长		司法部人民参与和促进法治局		1658
+张耀明		2		全国		https://www.moj.gov.cn/jgsz/jgszjgtj/rmcyyhcjfzj/	一级巡视员		司法部人民参与和促进法治局		1658
+闫晋东		3		全国		https://www.moj.gov.cn/jgsz/jgszjgtj/rmcyyhcjfzj/	一级巡视员		司法部人民参与和促进法治局		1658
+李明韵		4		全国		https://www.moj.gov.cn/jgsz/jgszjgtj/rmcyyhcjfzj/	副局长		司法部人民参与和促进法治局		1658
+徐雪锋		5		全国		https://www.moj.gov.cn/jgsz/jgszjgtj/rmcyyhcjfzj/	副局长		司法部人民参与和促进法治局		1658

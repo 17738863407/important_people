@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李海南		1		辽宁省		https://czt.ln.gov.cn/czt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组书记、厅长		辽宁省财政厅	https://czt.ln.gov.cn/czt/zfxxgk/fdzdgknr/jgjj/bmld/lhn/index.shtml	0390
+韦敏		2		辽宁省		https://czt.ln.gov.cn/czt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组副书记、副厅长，省债务办主任		辽宁省财政厅	https://czt.ln.gov.cn/czt/zfxxgk/fdzdgknr/jgjj/bmld/wm/index.shtml	0390
+解润泽		3		辽宁省		https://czt.ln.gov.cn/czt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、驻厅纪检监察组组长		辽宁省财政厅	https://czt.ln.gov.cn/czt/zfxxgk/fdzdgknr/jgjj/bmld/jrz/index.shtml	0390
+闫林		4		辽宁省		https://czt.ln.gov.cn/czt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省财政厅	https://czt.ln.gov.cn/czt/zfxxgk/fdzdgknr/jgjj/bmld/yl/index.shtml	0390
+夏鹏程		5		辽宁省		https://czt.ln.gov.cn/czt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省财政厅	https://czt.ln.gov.cn/czt/zfxxgk/fdzdgknr/jgjj/bmld/xpc/index.shtml	0390
+蔡志远		6		辽宁省		https://czt.ln.gov.cn/czt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省财政厅	https://czt.ln.gov.cn/czt/zfxxgk/fdzdgknr/jgjj/bmld/czy/index.shtml	0390
+黄继峰		7		辽宁省		https://czt.ln.gov.cn/czt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省财政厅	https://czt.ln.gov.cn/czt/zfxxgk/fdzdgknr/jgjj/bmld/hjf/index.shtml	0390
+邓子来		8		辽宁省		https://czt.ln.gov.cn/czt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省财政厅	https://czt.ln.gov.cn/czt/zfxxgk/fdzdgknr/jgjj/bmld/dzl/index.shtml	0390
+迟田		9		辽宁省		https://czt.ln.gov.cn/czt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省财政厅	https://czt.ln.gov.cn/czt/zfxxgk/fdzdgknr/jgjj/bmld/ct/index.shtml	0390

@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+秦保强		1		河南省		https://www.hnass.com.cn/About/index/cid/28/lid/37.html	秦保强 河南省社会科学院 党委书记		河南省社会科学院	https://www.hnass.com.cn/About/index/cid/28/lid/37/id/11408.html	0989
+王玲杰		2		河南省		https://www.hnass.com.cn/About/index/cid/28/lid/37.html	王玲杰 河南省社会科学院 党委副书记		河南省社会科学院	https://www.hnass.com.cn/About/index/cid/28/lid/37/id/8162.html	0989
+王军		3		河南省		https://www.hnass.com.cn/About/index/cid/28/lid/37.html	王 军 河南省社会科学院 党委委员 副院长		河南省社会科学院	https://www.hnass.com.cn/About/index/cid/28/lid/37/id/11360.html	0989
+郭杰		4		河南省		https://www.hnass.com.cn/About/index/cid/28/lid/37.html	郭 杰 河南省社会科学院 党委委员 副院长		河南省社会科学院	https://www.hnass.com.cn/About/index/cid/28/lid/37/id/9621.html	0989

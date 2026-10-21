@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘大伟		1		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwzwfzyjzx/	主 任		全面依法治国研究中心		1635
+张永波		2		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwzwfzyjzx/	副主任		全面依法治国研究中心		1635
+丛卉		3		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwzwfzyjzx/	副主任		全面依法治国研究中心		1635

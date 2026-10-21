@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王大同		1		全国		https://jgdw.cas.cn/znjg/xrld/	分管日常工作的副书记		中国科学院机关党委		4040
+刘红辉		2		全国		https://jgdw.cas.cn/znjg/xrld/	副书记、纪委书记		中国科学院机关党委		4040
+王晓虹		3		全国		https://jgdw.cas.cn/znjg/xrld/	副书记		中国科学院机关党委		4040
+杨旭		4		全国		https://jgdw.cas.cn/znjg/xrld/	副书记		中国科学院机关党委		4040

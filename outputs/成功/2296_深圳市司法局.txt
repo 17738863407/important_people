@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王琨		1		广东省	深圳市	http://sf.sz.gov.cn/gkmlpt/index#2705	市司法局党委书记、局长		深圳市司法局	https://sf.sz.gov.cn/gkmlpt/content/12/12944/post_12944791.html	2296
+邵宝洲		2		广东省	深圳市	http://sf.sz.gov.cn/gkmlpt/index#2705	市司法局党委委员、副局长		深圳市司法局	https://sf.sz.gov.cn/gkmlpt/content/12/12742/post_12742230.html	2296
+袁中毅		3		广东省	深圳市	http://sf.sz.gov.cn/gkmlpt/index#2705	市司法局党委委员、副局长		深圳市司法局	https://sf.sz.gov.cn/gkmlpt/content/12/12742/post_12742229.html	2296
+王峻		4		广东省	深圳市	http://sf.sz.gov.cn/gkmlpt/index#2705	市司法局党委委员、副局长		深圳市司法局	https://sf.sz.gov.cn/gkmlpt/content/12/12742/post_12742228.html	2296
+陈明		5		广东省	深圳市	http://sf.sz.gov.cn/gkmlpt/index#2705	市司法局党委委员、副局长		深圳市司法局	https://sf.sz.gov.cn/gkmlpt/content/12/12742/post_12742227.html	2296
+曹海雷		6		广东省	深圳市	http://sf.sz.gov.cn/gkmlpt/index#2705	市司法局二级巡视员		深圳市司法局	https://sf.sz.gov.cn/gkmlpt/content/12/12742/post_12742231.html	2296

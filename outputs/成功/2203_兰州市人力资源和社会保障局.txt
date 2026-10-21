@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李灵祥		1		甘肃省	兰州市	https://rsj.lanzhou.gov.cn/col/col10645/index.html	中共兰州市委组织部副部长（兼），兰州市人力资源和社会保障局党组书记、局长、一级调研员		兰州市人力资源和社会保障局	https://rsj.lanzhou.gov.cn/art/2026/8/26/art_10645_1569086.html	2203
+杨舒		2		甘肃省	兰州市	https://rsj.lanzhou.gov.cn/col/col10645/index.html	兰州市人力资源和社会保障局党组成员、副局长，一级调研员		兰州市人力资源和社会保障局	https://rsj.lanzhou.gov.cn/art/2026/8/26/art_10645_1569085.html	2203
+张英莉		3		甘肃省	兰州市	https://rsj.lanzhou.gov.cn/col/col10645/index.html	兰州市人力资源和社会保障局党组成员、副局长，三级调研员		兰州市人力资源和社会保障局	https://rsj.lanzhou.gov.cn/art/2026/8/26/art_10645_1569083.html	2203
+刘新伟		4		甘肃省	兰州市	https://rsj.lanzhou.gov.cn/col/col10645/index.html	兰州市人力资源和社会保障局党组成员、市纪委监委派驻局纪检监察组组长，四级高级监察官		兰州市人力资源和社会保障局	https://rsj.lanzhou.gov.cn/art/2026/8/26/art_10645_1670487.html	2203
+袁高攀		5		甘肃省	兰州市	https://rsj.lanzhou.gov.cn/col/col10645/index.html	兰州市人力资源和社会保障局党组成员、副局长，三级调研员		兰州市人力资源和社会保障局	https://rsj.lanzhou.gov.cn/art/2026/8/26/art_10645_1569081.html	2203
+牛洪亮		6		甘肃省	兰州市	https://rsj.lanzhou.gov.cn/col/col10645/index.html	兰州市人力资源和社会保障局党组成员、副局长（挂职）		兰州市人力资源和社会保障局	https://rsj.lanzhou.gov.cn/art/2026/8/26/art_10645_1669300.html	2203

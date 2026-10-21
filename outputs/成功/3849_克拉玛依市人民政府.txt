@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+余兴国		1		新疆维吾尔自治区	克拉玛依市	https://www.klmy.gov.cn/klmys/ldzc/leader_list.shtml	市长		克拉玛依市人民政府	https://www.klmy.gov.cn/klmys/ldzcsz/202608/25060870b69a44c19e4ae61838f82870.shtml	3849
+刘建峰		2		新疆维吾尔自治区	克拉玛依市	https://www.klmy.gov.cn/klmys/ldzc/leader_list.shtml	副市长		克拉玛依市人民政府	https://www.klmy.gov.cn/klmys/ldzcfsz/202608/df09f41df6274864a8a68ca326f8a6ed.shtml	3849
+邵士铭		3		新疆维吾尔自治区	克拉玛依市	https://www.klmy.gov.cn/klmys/ldzc/leader_list.shtml	副市长		克拉玛依市人民政府	https://www.klmy.gov.cn/klmys/ldzcfsz/202608/3eacd328a0bd4e4a94db7bbe1904e7b3.shtml	3849
+袁新洋		4		新疆维吾尔自治区	克拉玛依市	https://www.klmy.gov.cn/klmys/ldzc/leader_list.shtml	副市长		克拉玛依市人民政府	https://www.klmy.gov.cn/klmys/ldzcfsz/202304/bd1ca8ec04414883849ea5929a37ca92.shtml	3849
+李国莲		5		新疆维吾尔自治区	克拉玛依市	https://www.klmy.gov.cn/klmys/ldzc/leader_list.shtml	副市长		克拉玛依市人民政府	https://www.klmy.gov.cn/klmys/ldzcfsz/202505/3e0817cbfff04c59b5959687e73998e1.shtml	3849
+艾克热木·阿布拉		6		新疆维吾尔自治区	克拉玛依市	https://www.klmy.gov.cn/klmys/ldzc/leader_list.shtml	副市长		克拉玛依市人民政府	https://www.klmy.gov.cn/klmys/ldzcfsz/202304/ac40f6e3c6944a898a30c914af6591b5.shtml	3849
+赵立军		7		新疆维吾尔自治区	克拉玛依市	https://www.klmy.gov.cn/klmys/ldzc/leader_list.shtml	副市长		克拉玛依市人民政府	https://www.klmy.gov.cn/klmys/ldzcfsz/202506/2d7e400ea7f74941a385516757b18fa4.shtml	3849
+姜惟		8		新疆维吾尔自治区	克拉玛依市	https://www.klmy.gov.cn/klmys/ldzc/leader_list.shtml	秘书长		克拉玛依市人民政府	https://www.klmy.gov.cn/klmys/c1msz/202411/f0a5cfe440fd404cac3953c11d3d5ad4.shtml	3849

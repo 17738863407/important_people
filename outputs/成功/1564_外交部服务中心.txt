@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+金智健		1		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/fwj_674737/	党委书记、主任		外交部服务中心		1564
+陈闯		2		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/fwj_674737/	副主任		外交部服务中心		1564
+郑卓		3		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/fwj_674737/	副主任		外交部服务中心		1564
+尚晓峰		4		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/fwj_674737/	专职党委副书记		外交部服务中心		1564
+张怡雯		5		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/fwj_674737/	专职纪委书记		外交部服务中心		1564
+李勇		6		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/fwj_674737/	主任助理		外交部服务中心		1564

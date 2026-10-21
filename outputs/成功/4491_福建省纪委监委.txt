@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+魏晓奎		1		福建省		https://www.fjcdi.gov.cn/cms/html/fjsjwjw/ldjg/index.html	中国共产党福建省第十一届纪律检查委员会书记；中国共产党福建省第十一届纪律检查委员会常委；福建省监察委员会代理主任		福建省纪委监委	https://www.fjcdi.gov.cn/cms/html/fjsjwjw/2026-06-08/1579936723.html	4491
+陈铁晗		2		福建省		https://www.fjcdi.gov.cn/cms/html/fjsjwjw/ldjg/index.html	中国共产党福建省第十一届纪律检查委员会副书记；中国共产党福建省第十一届纪律检查委员会常委；福建省监察委员会副主任		福建省纪委监委	https://www.fjcdi.gov.cn/cms/html/fjsjwjw/2022-02-21/1003444702.html	4491
+王矗		3		福建省		https://www.fjcdi.gov.cn/cms/html/fjsjwjw/ldjg/index.html	中国共产党福建省第十一届纪律检查委员会副书记；中国共产党福建省第十一届纪律检查委员会常委；福建省监察委员会副主任		福建省纪委监委	https://www.fjcdi.gov.cn/cms/html/fjsjwjw/2022-02-21/1712666263.html	4491
+张娇兴		4		福建省		https://www.fjcdi.gov.cn/cms/html/fjsjwjw/ldjg/index.html	中国共产党福建省第十一届纪律检查委员会副书记；中国共产党福建省第十一届纪律检查委员会常委；福建省监察委员会副主任		福建省纪委监委	https://www.fjcdi.gov.cn/cms/html/fjsjwjw/2022-02-21/1120507858.html	4491
+梁玉华		5		福建省		https://www.fjcdi.gov.cn/cms/html/fjsjwjw/ldjg/index.html	中国共产党福建省第十一届纪律检查委员会常委		福建省纪委监委	https://www.fjcdi.gov.cn/cms/html/fjsjwjw/2022-02-21/848453642.html	4491
+潘冬英		6		福建省		https://www.fjcdi.gov.cn/cms/html/fjsjwjw/ldjg/index.html	中国共产党福建省第十一届纪律检查委员会常委		福建省纪委监委	https://www.fjcdi.gov.cn/cms/html/fjsjwjw/2025-02-27/2047165967.html	4491
+吴国顺		7		福建省		https://www.fjcdi.gov.cn/cms/html/fjsjwjw/ldjg/index.html	中国共产党福建省第十一届纪律检查委员会常委		福建省纪委监委	https://www.fjcdi.gov.cn/cms/html/fjsjwjw/2025-07-30/591572084.html	4491

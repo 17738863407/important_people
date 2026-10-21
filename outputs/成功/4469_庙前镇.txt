@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵子任		1		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/xzbscx/mqz/gzjg/ldxx/index.html	庙前镇党委书记		庙前镇	https://www.hnchangning.gov.cn/zwgk/xzbscx/mqz/gzjg/ldxx/20260106/i3845571.html	4469
+杨禄		2		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/xzbscx/mqz/gzjg/ldxx/index.html	庙前镇党委副书记、镇长		庙前镇	https://www.hnchangning.gov.cn/zwgk/xzbscx/mqz/gzjg/ldxx/20260106/i3845575.html	4469
+尹红星		3		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/xzbscx/mqz/gzjg/ldxx/index.html	庙前镇人大主席		庙前镇	https://www.hnchangning.gov.cn/zwgk/xzbscx/mqz/gzjg/ldxx/20260106/i3845577.html	4469
+郭怀宏		4		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/xzbscx/mqz/gzjg/ldxx/index.html	庙前镇党委委员、统战委员，正科实职干部，一级主任科员		庙前镇	https://www.hnchangning.gov.cn/zwgk/xzbscx/mqz/gzjg/ldxx/20260106/i3845583.html	4469

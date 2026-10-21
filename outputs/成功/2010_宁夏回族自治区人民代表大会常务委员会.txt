@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李邑飞		1		全国		http://www.nxrd.gov.cn/rdgk/ldzc/cwhld/	主任		宁夏回族自治区人民代表大会常务委员会	http://www.nxrd.gov.cn/rdgk/ldzc/cwhld/202501/t20250122_967378.html	2010
+王和山		2		全国		http://www.nxrd.gov.cn/rdgk/ldzc/cwhld/	副主任		宁夏回族自治区人民代表大会常务委员会	http://www.nxrd.gov.cn/rdgk/ldzc/cwhld/202602/t20260207_1086160.html	2010
+杨培君		3		全国		http://www.nxrd.gov.cn/rdgk/ldzc/cwhld/	副主任		宁夏回族自治区人民代表大会常务委员会	http://www.nxrd.gov.cn/rdgk/ldzc/cwhld/202301/t20230117_679477.html	2010
+杨玉经		4		全国		http://www.nxrd.gov.cn/rdgk/ldzc/cwhld/	副主任		宁夏回族自治区人民代表大会常务委员会	http://www.nxrd.gov.cn/rdgk/ldzc/cwhld/202102/t20210202_272675.html	2010
+沈左权		5		全国		http://www.nxrd.gov.cn/rdgk/ldzc/cwhld/	副主任		宁夏回族自治区人民代表大会常务委员会	http://www.nxrd.gov.cn/rdgk/ldzc/cwhld/202102/t20210202_272683.html	2010
+马文娟		6		全国		http://www.nxrd.gov.cn/rdgk/ldzc/cwhld/	副主任		宁夏回族自治区人民代表大会常务委员会	http://www.nxrd.gov.cn/rdgk/ldzc/cwhld/202602/t20260207_1086161.html	2010
+杜银杰		7		全国		http://www.nxrd.gov.cn/rdgk/ldzc/cwhld/	副主任		宁夏回族自治区人民代表大会常务委员会	http://www.nxrd.gov.cn/rdgk/ldzc/cwhld/202602/t20260207_1086162.html	2010

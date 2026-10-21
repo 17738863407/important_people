@@ -1,0 +1,27 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张宝娟		1		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	主席		南京市政协		3441
+陈勇		2		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副主席		南京市政协	https://zx.nanjing.gov.cn/zxgk/ldzc/cy/	3441
+霍慧萍		3		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副主席		南京市政协	https://zx.nanjing.gov.cn/zxgk/ldzc/hhp/	3441
+吴卫国		4		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副主席		南京市政协	https://zx.nanjing.gov.cn/zxgk/ldzc/wwg/	3441
+常和平		5		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副主席		南京市政协	https://zx.nanjing.gov.cn/zxgk/ldzc/chp/	3441
+李奇		6		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副主席		南京市政协	https://zx.nanjing.gov.cn/zxgk/ldzc/lq/	3441
+杨平		7		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副主席		南京市政协	https://zx.nanjing.gov.cn/zxgk/ldzc/yp/	3441
+黄利民		8		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副主席		南京市政协	https://zx.nanjing.gov.cn/zxgk/ldzc/hlm/	3441
+程永波		9		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副主席		南京市政协	https://zx.nanjing.gov.cn/zxgk/ldzc/cyb/	3441
+金卫东		10		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副主席		南京市政协	https://zx.nanjing.gov.cn/zxgk/ldzc/jwd/	3441
+黄辉		11		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副主席		南京市政协	https://zx.nanjing.gov.cn/zxgk/ldzc/hhnv/	3441
+傅阳		12		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副主席		南京市政协	https://zx.nanjing.gov.cn/zxgk/ldzc/fy/	3441
+刘莅		13		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	秘书长		南京市政协	https://zx.nanjing.gov.cn/zxgk/ldzc/ll/	3441
+张新年		14		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副秘书长		南京市政协		3441
+张建军		15		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副秘书长		南京市政协		3441
+赵荣富		16		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副秘书长		南京市政协		3441
+于玛莉		17		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副秘书长		南京市政协		3441
+黄伟民		18		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副秘书长		南京市政协		3441
+严艳		19		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副秘书长		南京市政协		3441
+叶宁		20		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副秘书长		南京市政协		3441
+杨卫青		21		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副秘书长		南京市政协		3441
+孙宇彤		22		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副秘书长		南京市政协		3441
+奚建彬		23		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副秘书长		南京市政协		3441
+沈海洋		24		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副秘书长		南京市政协		3441
+徐月红		25		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副秘书长		南京市政协		3441
+钱卫冰		26		江苏省	南京市	https://zx.nanjing.gov.cn/zxgk/ldzc/zbj/	副秘书长		南京市政协		3441

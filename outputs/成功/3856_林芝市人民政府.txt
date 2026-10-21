@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+尹李峰		1		西藏自治区	林芝市	https://www.linzhi.gov.cn/linzhi/zwgk/ldxx.shtml	林芝市委副书记、市长		林芝市人民政府	https://www.linzhi.gov.cn/linzhi/zwgk/202111/a2ec3731e8f24dda9733678e9384ca9a.shtml	3856
+林科聪		2		西藏自治区	林芝市	https://www.linzhi.gov.cn/linzhi/zwgk/ldxx.shtml	常务副市长		林芝市人民政府	https://www.linzhi.gov.cn/linzhi/cwfsz/202508/df4b2e20db334cb787c6d67a999f652b.shtml	3856
+旺堆		3		西藏自治区	林芝市	https://www.linzhi.gov.cn/linzhi/zwgk/ldxx.shtml	常务副市长		林芝市人民政府	https://www.linzhi.gov.cn/linzhi/cwfsz/202011/1528c19fa21044bea1211116f20cd100.shtml	3856
+玉珍		4		西藏自治区	林芝市	https://www.linzhi.gov.cn/linzhi/zwgk/ldxx.shtml	副市长		林芝市人民政府	https://www.linzhi.gov.cn/linzhi/zwgk/202111/638d08191a1d49fc93890ed8dae60a62.shtml	3856
+秦松茂		5		西藏自治区	林芝市	https://www.linzhi.gov.cn/linzhi/zwgk/ldxx.shtml	副市长		林芝市人民政府	https://www.linzhi.gov.cn/linzhi/zwgk/202206/07f4d1e122be440ab56b0fda62b4c751.shtml	3856
+次仁顿珠		6		西藏自治区	林芝市	https://www.linzhi.gov.cn/linzhi/zwgk/ldxx.shtml	副市长		林芝市人民政府	https://www.linzhi.gov.cn/linzhi/zwgk/202506/b8e77c0f17fc4caf8c2246754771882d.shtml	3856
+王启展		7		西藏自治区	林芝市	https://www.linzhi.gov.cn/linzhi/zwgk/ldxx.shtml	副市长		林芝市人民政府	https://www.linzhi.gov.cn/linzhi/zwgk/202506/22d776b51daf4757846b35f0b998e132.shtml	3856
+洛桑吉美		8		西藏自治区	林芝市	https://www.linzhi.gov.cn/linzhi/zwgk/ldxx.shtml	副市长		林芝市人民政府	https://www.linzhi.gov.cn/linzhi/zwgk/202506/2d1c8870309c4ac0ad062bc5d39f7ce3.shtml	3856
+卓嘎		9		西藏自治区	林芝市	https://www.linzhi.gov.cn/linzhi/zwgk/ldxx.shtml	副市长		林芝市人民政府	https://www.linzhi.gov.cn/linzhi/zwgk/202511/e8bdcd4814d34fe08b31a56f2351424a.shtml	3856
+李越		10		西藏自治区	林芝市	https://www.linzhi.gov.cn/linzhi/zwgk/ldxx.shtml	副市长		林芝市人民政府	https://www.linzhi.gov.cn/linzhi/zwgk/202606/11fb6c17f70544089a9db5013414e63f.shtml	3856
+肖会兵		11		西藏自治区	林芝市	https://www.linzhi.gov.cn/linzhi/zwgk/ldxx.shtml	副市长		林芝市人民政府	https://www.linzhi.gov.cn/linzhi/zwgk/202606/55163cd574a4401abdf0cf1fee87abde.shtml	3856
+由富光		12		西藏自治区	林芝市	https://www.linzhi.gov.cn/linzhi/zwgk/ldxx.shtml	副市长		林芝市人民政府	https://www.linzhi.gov.cn/linzhi/zwgk/202610/8b7cee7790194d7ba4aa252da648f3cc.shtml	3856
+次旦格来		13		西藏自治区	林芝市	https://www.linzhi.gov.cn/linzhi/zwgk/ldxx.shtml	副市长		林芝市人民政府	https://www.linzhi.gov.cn/linzhi/zwgk/202610/51667c5fd7eb466981a00aed82161124.shtml	3856

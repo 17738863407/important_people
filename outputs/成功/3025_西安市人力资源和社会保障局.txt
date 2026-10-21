@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+廉宏伟		1		陕西省	西安市	http://xahrss.xa.gov.cn/xxgk/ldzc/1.html	党组书记、局长		西安市人力资源和社会保障局	https://xahrss.xa.gov.cn/xxgk/ldzc/5da5846f65cbd86d49554c83.html	3025
+郑化卫		2		陕西省	西安市	http://xahrss.xa.gov.cn/xxgk/ldzc/1.html	党组成员、副局长		西安市人力资源和社会保障局	https://xahrss.xa.gov.cn/xxgk/ldzc/62981ef6f8fd1c4c21fee1b8.html	3025
+潘皓亮		3		陕西省	西安市	http://xahrss.xa.gov.cn/xxgk/ldzc/1.html	党组成员、副局长		西安市人力资源和社会保障局	https://xahrss.xa.gov.cn/xxgk/ldzc/5da584defd850838efebf8a0.html	3025
+赵伟		4		陕西省	西安市	http://xahrss.xa.gov.cn/xxgk/ldzc/1.html	党组成员、副局长		西安市人力资源和社会保障局	https://xahrss.xa.gov.cn/xxgk/ldzc/64006613f8fd1c4c21455169.html	3025
+李青		5		陕西省	西安市	http://xahrss.xa.gov.cn/xxgk/ldzc/1.html	党组成员、市纪委监委驻市人社局纪检监察组组长		西安市人力资源和社会保障局	https://xahrss.xa.gov.cn/xxgk/ldzc/5f548aa9fd850845e6f63741.html	3025
+段家雄		6		陕西省	西安市	http://xahrss.xa.gov.cn/xxgk/ldzc/1.html	市社会保险管理中心主任（副局长级）		西安市人力资源和社会保障局	https://xahrss.xa.gov.cn/xxgk/ldzc/6400664af8fd1c4c214551af.html	3025

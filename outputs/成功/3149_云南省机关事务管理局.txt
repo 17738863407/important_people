@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李昆		1		云南省		https://ygj.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/	党委书记、局长		云南省机关事务管理局	https://ygj.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/ldjj/202310/t20231012_1171243.html	3149
+彭晓朋		2		云南省		https://ygj.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/	党委委员、副局长		云南省机关事务管理局	https://ygj.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/ldjj/202310/t20231012_1171242.html	3149
+王力		3		云南省		https://ygj.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/	党委委员、副局长		云南省机关事务管理局	https://ygj.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/ldjj/202310/t20231012_1171241.html	3149
+孟庆福		4		云南省		https://ygj.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/	党委委员、副局长		云南省机关事务管理局	https://ygj.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/ldjj/202310/t20231012_1171240.html	3149
+桂龙伟		5		云南省		https://ygj.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/	党委委员、副局长		云南省机关事务管理局	https://ygj.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/ldjj/202310/t20231012_1171239.html	3149

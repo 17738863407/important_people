@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘斌		1		全国		https://www.mdei.org.cn/central/leadership-information.html	分中心主任、党总支书记		国家药品监督管理局医疗器械技术审评检查大湾区分中心		1548
+徐良		2		全国		https://www.mdei.org.cn/central/leadership-information.html	分中心副主任、党总支副书记		国家药品监督管理局医疗器械技术审评检查大湾区分中心		1548
+王宏		3		全国		https://www.mdei.org.cn/central/leadership-information.html	分中心副主任、党总支纪检委员		国家药品监督管理局医疗器械技术审评检查大湾区分中心		1548

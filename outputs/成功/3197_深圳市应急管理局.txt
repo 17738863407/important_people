@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑雪峰		1		广东省	深圳市	http://yjgl.sz.gov.cn/gkmlpt/index#3164	党委书记、局长		深圳市应急管理局	https://yjgl.sz.gov.cn/gkmlpt/content/13/13013/post_13013005.html	3197
+杨金山		2		广东省	深圳市	http://yjgl.sz.gov.cn/gkmlpt/index#3164	党委委员、副局长、二级巡视员		深圳市应急管理局	https://yjgl.sz.gov.cn/gkmlpt/content/13/13013/post_13013004.html	3197
+刘建军		3		广东省	深圳市	http://yjgl.sz.gov.cn/gkmlpt/index#3164	党委委员、副局长		深圳市应急管理局	https://yjgl.sz.gov.cn/gkmlpt/content/13/13013/post_13013003.html	3197
+张德松		4		广东省	深圳市	http://yjgl.sz.gov.cn/gkmlpt/index#3164	党委委员、副局长		深圳市应急管理局	https://yjgl.sz.gov.cn/gkmlpt/content/13/13013/post_13013009.html	3197

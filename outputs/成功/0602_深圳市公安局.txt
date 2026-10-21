@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑泽晖		1		广东省	深圳市	https://ga.sz.gov.cn/ZWGK/JGZN/JGLD/	深圳市政府副市长、党组成员，市公安局党委书记、局长、督察长，市委政法委第一副书记		深圳市公安局		0602
+官尔杰		2		广东省	深圳市	https://ga.sz.gov.cn/ZWGK/JGZN/JGLD/	党委副书记、常务副局长		深圳市公安局		0602
+林长平		3		广东省	深圳市	https://ga.sz.gov.cn/ZWGK/JGZN/JGLD/	党委委员、副局长、二级警务专员		深圳市公安局		0602
+方洪声		4		广东省	深圳市	https://ga.sz.gov.cn/ZWGK/JGZN/JGLD/	党委委员、副局长、二级警务专员		深圳市公安局		0602
+彭国庆		5		广东省	深圳市	https://ga.sz.gov.cn/ZWGK/JGZN/JGLD/	党委委员、副局长、警务技术二级总监		深圳市公安局		0602
+张勇		6		广东省	深圳市	https://ga.sz.gov.cn/ZWGK/JGZN/JGLD/	党委委员、情报指挥中心主任、警务技术二级总监		深圳市公安局		0602
+徐伟		7		广东省	深圳市	https://ga.sz.gov.cn/ZWGK/JGZN/JGLD/	党委委员、副局长、二级警务专员		深圳市公安局		0602
+姜文林		8		广东省	深圳市	https://ga.sz.gov.cn/ZWGK/JGZN/JGLD/	党委委员、副局长		深圳市公安局		0602
+郭旭胜		9		广东省	深圳市	https://ga.sz.gov.cn/ZWGK/JGZN/JGLD/	党委委员、政治部主任		深圳市公安局		0602

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+段文龙		1		河南省		https://www.ha.jcy.gov.cn/jgsz/syld/	党组书记、检察长		河南省人民检察院	http://www.ha.jcy.gov.cn/jgsz/syld/201802/t20180227_2152862.shtml	4539
+田凯		2		河南省		https://www.ha.jcy.gov.cn/jgsz/syld/	党组副书记、副检察长（正厅级）		河南省人民检察院	http://www.ha.jcy.gov.cn/jgsz/syld/202206/t20220627_3722566.shtml	4539
+王海云		3		河南省		https://www.ha.jcy.gov.cn/jgsz/syld/	副检察长		河南省人民检察院	http://www.ha.jcy.gov.cn/jgsz/syld/202206/t20220627_3722584.shtml	4539
+张志强		4		河南省		https://www.ha.jcy.gov.cn/jgsz/syld/	党组成员、副检察长		河南省人民检察院	http://www.ha.jcy.gov.cn/jgsz/syld/202308/t20230822_5897432.shtml	4539
+牛晓丽		5		河南省		https://www.ha.jcy.gov.cn/jgsz/syld/	党组成员、副检察长		河南省人民检察院	http://www.ha.jcy.gov.cn/jgsz/syld/202308/t20230822_5897441.shtml	4539
+刘英旭		6		河南省		https://www.ha.jcy.gov.cn/jgsz/syld/	党组成员、副检察长		河南省人民检察院	http://www.ha.jcy.gov.cn/jgsz/syld/202201/t20220129_3543635.shtml	4539
+刘万喜		7		河南省		https://www.ha.jcy.gov.cn/jgsz/syld/	党组成员、政治部主任		河南省人民检察院	http://www.ha.jcy.gov.cn/jgsz/syld/201906/t20190619_2601118.shtml	4539
+卢新初		8		河南省		https://www.ha.jcy.gov.cn/jgsz/syld/	纪检监察组组长、院党组成员		河南省人民检察院	http://www.ha.jcy.gov.cn/jgsz/syld/202110/t20211022_3404849.shtml	4539

@@ -1,0 +1,16 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王有利		1		吉林省		http://sthjt.jl.gov.cn/zzjg/	厅党组书记、厅长		吉林省生态环境厅	http://sthjt.jl.gov.cn/zzjg/tld/dzsj_wyl/	2575
+张天华		2		吉林省		http://sthjt.jl.gov.cn/zzjg/	厅党组成员、副厅长		吉林省生态环境厅	http://sthjt.jl.gov.cn/zzjg/tld/zth/	2575
+蔡宝峰		3		吉林省		http://sthjt.jl.gov.cn/zzjg/	厅党组成员、副厅长		吉林省生态环境厅	http://sthjt.jl.gov.cn/zzjg/tld/cbf/	2575
+裴顺强		4		吉林省		http://sthjt.jl.gov.cn/zzjg/	厅党组成员、副厅长		吉林省生态环境厅	http://sthjt.jl.gov.cn/zzjg/tld/psq/	2575
+陈明辉		5		吉林省		http://sthjt.jl.gov.cn/zzjg/	厅党组成员、副厅长		吉林省生态环境厅	http://sthjt.jl.gov.cn/zzjg/tld/cmh/	2575
+韩继勇		6		吉林省		http://sthjt.jl.gov.cn/zzjg/	厅党组成员、副厅长		吉林省生态环境厅	http://sthjt.jl.gov.cn/zzjg/tld/hjy/	2575
+李宜侯		7		吉林省		http://sthjt.jl.gov.cn/zzjg/	厅党组成员、驻厅纪检监察组组长		吉林省生态环境厅	http://sthjt.jl.gov.cn/zzjg/tld/lyh/	2575
+徐兵		8		吉林省		http://sthjt.jl.gov.cn/zzjg/	省生态环境保护督察专员		吉林省生态环境厅	http://sthjt.jl.gov.cn/zzjg/tld/xb/	2575
+童颖		9		吉林省		http://sthjt.jl.gov.cn/zzjg/	省生态环境保护督察专员		吉林省生态环境厅	http://sthjt.jl.gov.cn/zzjg/tld/ty/	2575
+肖尊东		10		吉林省		http://sthjt.jl.gov.cn/zzjg/	省生态环境保护督察专员		吉林省生态环境厅	http://sthjt.jl.gov.cn/zzjg/tld/xzd/	2575
+李伟华		11		吉林省		http://sthjt.jl.gov.cn/zzjg/	一级巡视员		吉林省生态环境厅	http://sthjt.jl.gov.cn/zzjg/tld/lwh/	2575
+于新刚		12		吉林省		http://sthjt.jl.gov.cn/zzjg/	二级巡视员		吉林省生态环境厅	http://sthjt.jl.gov.cn/zzjg/tld/yxg/	2575
+刘玉彬		13		吉林省		http://sthjt.jl.gov.cn/zzjg/	二级巡视员		吉林省生态环境厅	http://sthjt.jl.gov.cn/zzjg/tld/lyb/	2575
+王朝霞		14		吉林省		http://sthjt.jl.gov.cn/zzjg/	二级巡视员		吉林省生态环境厅	http://sthjt.jl.gov.cn/zzjg/tld/wzx/	2575
+王淑花		15		吉林省		http://sthjt.jl.gov.cn/zzjg/	二级巡视员		吉林省生态环境厅	http://sthjt.jl.gov.cn/zzjg/tld/wsh/	2575

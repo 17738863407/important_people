@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+崔国辉		1		全国		https://www.cafs.ac.cn/zzjg/yld.htm	院长、党组副书记		中国水产科学研究院		0131
+于书洲		2		全国		https://www.cafs.ac.cn/zzjg/yld.htm	党组成员、纪检组组长		中国水产科学研究院		0131
+王玉梅		3		全国		https://www.cafs.ac.cn/zzjg/yld.htm	副院长、党组成员		中国水产科学研究院		0131
+王唯涌		4		全国		https://www.cafs.ac.cn/zzjg/yld.htm	副院长、党组成员		中国水产科学研究院		0131
+丁祥勇		5		全国		https://www.cafs.ac.cn/zzjg/yld.htm	副院长、党组成员		中国水产科学研究院		0131

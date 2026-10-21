@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+支光南		1		广东省		http://gzw.gd.gov.cn/gkmlpt/index#1326	省国资委党委书记、主任		广东省人民政府国有资产监督管理委员会	https://gzw.gd.gov.cn/wld/content/post_4667215.html	0823
+贺宇		2		广东省		http://gzw.gd.gov.cn/gkmlpt/index#1326	省国资委党委副书记、副主任		广东省人民政府国有资产监督管理委员会	https://gzw.gd.gov.cn/wld/content/post_4852935.html	0823
+王奇		3		广东省		http://gzw.gd.gov.cn/gkmlpt/index#1326	省国资委党委委员、副主任、一级巡视员		广东省人民政府国有资产监督管理委员会	https://gzw.gd.gov.cn/wld/content/post_4852936.html	0823
+王晓昀		4		广东省		http://gzw.gd.gov.cn/gkmlpt/index#1326	省国资委党委委员、副主任，新闻发言人		广东省人民政府国有资产监督管理委员会	https://gzw.gd.gov.cn/wld/content/post_4852937.html	0823
+刘春玉		5		广东省		http://gzw.gd.gov.cn/gkmlpt/index#1326	省国资委党委委员、副主任		广东省人民政府国有资产监督管理委员会	https://gzw.gd.gov.cn/wld/content/post_4852938.html	0823
+赵景平		6		广东省		http://gzw.gd.gov.cn/gkmlpt/index#1326	省国资委党委委员、副主任		广东省人民政府国有资产监督管理委员会	https://gzw.gd.gov.cn/wld/content/post_4852852.html	0823
+刘文彦		7		广东省		http://gzw.gd.gov.cn/gkmlpt/index#1326	省国资委二级巡视员		广东省人民政府国有资产监督管理委员会	https://gzw.gd.gov.cn/wld/content/post_4357967.html	0823
+劳为国		8		广东省		http://gzw.gd.gov.cn/gkmlpt/index#1326	省国资委二级巡视员		广东省人民政府国有资产监督管理委员会	https://gzw.gd.gov.cn/wld/content/post_4357969.html	0823
+吕宁		9		广东省		http://gzw.gd.gov.cn/gkmlpt/index#1326	省国资委二级巡视员		广东省人民政府国有资产监督管理委员会	https://gzw.gd.gov.cn/wld/content/post_4432730.html	0823
+刘未艾		10		广东省		http://gzw.gd.gov.cn/gkmlpt/index#1326	省国资委二级巡视员		广东省人民政府国有资产监督管理委员会	https://gzw.gd.gov.cn/wld/content/post_4852859.html	0823
+黄向红		11		广东省		http://gzw.gd.gov.cn/gkmlpt/index#1326	省国资委二级巡视员		广东省人民政府国有资产监督管理委员会	https://gzw.gd.gov.cn/wld/content/post_4852860.html	0823

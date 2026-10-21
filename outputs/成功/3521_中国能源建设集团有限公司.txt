@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+倪真		1		全国		https://www.ceec.net.cn/col/col52625/index.html	党委书记、董事长		中国能源建设集团有限公司	https://www.ceec.net.cn/art/2021/7/19/art_52795_547.html	3521
+黄埔		2		全国		https://www.ceec.net.cn/col/col52625/index.html	党委副书记、工会主席		中国能源建设集团有限公司	https://www.ceec.net.cn/art/2025/7/14/art_52795_608.html	3521
+赵建昌		3		全国		https://www.ceec.net.cn/col/col52625/index.html	党委常委、纪委书记		中国能源建设集团有限公司	https://www.ceec.net.cn/art/2021/11/9/art_52795_591.html	3521
+陈勇		4		全国		https://www.ceec.net.cn/col/col52625/index.html	党委常委		中国能源建设集团有限公司	https://www.ceec.net.cn/art/2025/7/14/art_52795_609.html	3521
+尹强		5		全国		https://www.ceec.net.cn/col/col52625/index.html	党委常委、安全总监		中国能源建设集团有限公司	https://www.ceec.net.cn/art/2025/6/4/art_52795_599.html	3521
+李新生		6		全国		https://www.ceec.net.cn/col/col52625/index.html	党委常委		中国能源建设集团有限公司	https://www.ceec.net.cn/art/2024/10/11/art_52795_564.html	3521
+徐陆		7		全国		https://www.ceec.net.cn/col/col52625/index.html	党委常委		中国能源建设集团有限公司	https://www.ceec.net.cn/art/2025/6/4/art_52795_598.html	3521

@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨志勇		1		全国		https://www.icafs.cn/ckynewsmgr/teacherDetail_queryAllTeacher.action?retVal=xrld&zyflag=1&leaderflag=1	党委书记 院长		中国财政科学研究院	https://www.icafs.cn/ckynewsmgr/teacherDetail_queryOneRecord?retVal=ldxq&id=1	1085
+徐玉德		2		全国		https://www.icafs.cn/ckynewsmgr/teacherDetail_queryAllTeacher.action?retVal=xrld&zyflag=1&leaderflag=1	党委委员 副院长		中国财政科学研究院	https://www.icafs.cn/ckynewsmgr/teacherDetail_queryOneRecord?retVal=ldxq&id=309	1085
+王宏伟		3		全国		https://www.icafs.cn/ckynewsmgr/teacherDetail_queryAllTeacher.action?retVal=xrld&zyflag=1&leaderflag=1	党委委员 纪委书记		中国财政科学研究院	https://www.icafs.cn/ckynewsmgr/teacherDetail_queryOneRecord?retVal=ldxq&id=316	1085
+薛敏		4		全国		https://www.icafs.cn/ckynewsmgr/teacherDetail_queryAllTeacher.action?retVal=xrld&zyflag=1&leaderflag=1	党委委员 研究生院院长		中国财政科学研究院	https://www.icafs.cn/ckynewsmgr/teacherDetail_queryOneRecord?retVal=ldxq&id=340	1085

@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄坤明		1		全国		http://district.ce.cn/zt/rwk/sf/gd/index.shtml	省委书记		广东省委	http://district.ce.cn/newarea/sddy/202210/28/t20221028_38198724.shtml	0418
+孟凡利		2		全国		http://district.ce.cn/zt/rwk/sf/gd/index.shtml	省委副书记、省长		广东省委	http://district.ce.cn/newarea/sddy/202603/t20260322_2847140.shtml	0418
+马森述		3		全国		http://district.ce.cn/zt/rwk/sf/gd/index.shtml	省委常委、省纪委书记，省监委主任		广东省委	http://district.ce.cn/newarea/sddy/202510/t20251015_2518447.shtml	0418
+张虎		4		全国		http://district.ce.cn/zt/rwk/sf/gd/index.shtml	省委常委、常务副省长		广东省委	http://district.ce.cn/newarea/sddy/202202/26/t20220226_37359077.shtml	0418
+王曦		5		全国		http://district.ce.cn/zt/rwk/sf/gd/index.shtml	省委常委、统战部部长		广东省委	http://district.ce.cn/newarea/sddy/202411/29/t20241129_39219551_1.shtml	0418
+冯忠华		6		全国		http://district.ce.cn/zt/rwk/sf/gd/index.shtml	省委常委、广州市委书记		广东省委	http://district.ce.cn/newarea/sddy/202512/t20251224_2663395.shtml	0418
+靳磊		7		全国		http://district.ce.cn/zt/rwk/sf/gd/index.shtml	省委常委、深圳市委书记		广东省委	http://district.ce.cn/newarea/sddy/202603/t20260322_2847140.shtml	0418
+张国智		8		全国		http://district.ce.cn/zt/rwk/sf/gd/index.shtml	省委常委、副省长		广东省委	http://district.ce.cn/newarea/sddy/202411/29/t20241129_39219551.shtml	0418
+胡劲军		9		全国		http://district.ce.cn/zt/rwk/sf/gd/index.shtml	省委常委、宣传部部长		广东省委	http://district.ce.cn/newarea/sddy/202502/21/t20250221_39299177.shtml	0418
+张弓		10		全国		http://district.ce.cn/zt/rwk/sf/gd/index.shtml	省委常委，省军区司令员		广东省委	http://district.ce.cn/newarea/sddy/202309/07/t20230907_38704968.shtml	0418
+胡帆		11		全国		http://district.ce.cn/zt/rwk/sf/gd/index.shtml	省委常委、组织部部长		广东省委	http://district.ce.cn/newarea/sddy/202606/t20260611_3025233.shtml	0418
+唐屹峰		12		全国		http://district.ce.cn/zt/rwk/sf/gd/index.shtml	省委常委、副省长，佛山市委书记		广东省委	http://district.ce.cn/newarea/sddy/202607/t20260731_3121087.shtml	0418

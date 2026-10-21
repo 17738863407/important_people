@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+柳春霞		1		辽宁省		https://sft.ln.gov.cn/sft/zwgk/fdzdgknr/jgjj/index.shtml	辽宁省司法厅党组书记、厅长		辽宁省司法厅	https://sft.ln.gov.cn/sft/zwgk/fdzdgknr/jgjj/bmld/lzm/2025082809224025400/index.shtml	2334
+于江		2		辽宁省		https://sft.ln.gov.cn/sft/zwgk/fdzdgknr/jgjj/index.shtml	辽宁省监狱管理局党委书记、局长，兼任辽宁省司法厅党组成员、副厅长		辽宁省司法厅	https://sft.ln.gov.cn/sft/zwgk/fdzdgknr/jgjj/bmld/yj/2025052215544745044/index.shtml	2334
+李郊		3		辽宁省		https://sft.ln.gov.cn/sft/zwgk/fdzdgknr/jgjj/index.shtml	辽宁省司法厅党组成员、副厅长		辽宁省司法厅	https://sft.ln.gov.cn/sft/zwgk/fdzdgknr/jgjj/bmld/lj/2025052215561458108/index.shtml	2334
+李晓强		4		辽宁省		https://sft.ln.gov.cn/sft/zwgk/fdzdgknr/jgjj/index.shtml	辽宁省司法厅党组成员、副厅长		辽宁省司法厅	https://sft.ln.gov.cn/sft/zwgk/fdzdgknr/jgjj/bmld/lxq/2022021816313934890/index.shtml	2334
+王吉天		5		辽宁省		https://sft.ln.gov.cn/sft/zwgk/fdzdgknr/jgjj/index.shtml	厅党组成员、省纪委监委驻厅纪检监察组组长		辽宁省司法厅	https://sft.ln.gov.cn/sft/zwgk/fdzdgknr/jgjj/bmld/ldc/2022021816280456713/index.shtml	2334
+宋成刚		6		辽宁省		https://sft.ln.gov.cn/sft/zwgk/fdzdgknr/jgjj/index.shtml	辽宁省司法厅党组成员、副厅长		辽宁省司法厅	https://sft.ln.gov.cn/sft/zwgk/fdzdgknr/jgjj/bmld/gy/2025010709445231543/index.shtml	2334
+聂新鑫		7		辽宁省		https://sft.ln.gov.cn/sft/zwgk/fdzdgknr/jgjj/index.shtml	辽宁省司法厅党组成员、副厅长		辽宁省司法厅	https://sft.ln.gov.cn/sft/zwgk/fdzdgknr/jgjj/bmld/wjj/2025040315362899826/index.shtml	2334
+陈伟		8		辽宁省		https://sft.ln.gov.cn/sft/zwgk/fdzdgknr/jgjj/index.shtml	辽宁省司法厅党组成员、副厅长		辽宁省司法厅	https://sft.ln.gov.cn/sft/zwgk/fdzdgknr/jgjj/bmld/cw/2026013014364328216/index.shtml	2334
+陈万松		9		辽宁省		https://sft.ln.gov.cn/sft/zwgk/fdzdgknr/jgjj/index.shtml	辽宁省司法厅党组成员、政治部（警务部）主任		辽宁省司法厅	https://sft.ln.gov.cn/sft/zwgk/fdzdgknr/jgjj/bmld/cws/2025010709453778285/index.shtml	2334

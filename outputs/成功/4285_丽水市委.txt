@@ -1,0 +1,18 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴舜泽		1		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229749809/	中共丽水市委书记		丽水市委		4285
+朱林森		2		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229749809/	中共丽水市委副书记，市长		丽水市委	http://www.lishui.gov.cn/col/col1229782205/index.html	4285
+戴平辉		3		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229749809/	市委副书记、社会工作部部长、政法委书记		丽水市委	http://www.lishui.gov.cn/col/col1229749813/index.html	4285
+毛建国		4		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229749809/	中共丽水市委常委，丽水市人民政府党组成员、副市长		丽水市委	http://www.lishui.gov.cn/col/col1229749818/index.html	4285
+叶伯军		5		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229749809/	中共丽水市委常委、宣传部部长		丽水市委	http://www.lishui.gov.cn/col/col1229752380/index.html	4285
+于会游		6		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229749809/	中共丽水市委常委，丽水市人民政府党组副书记、副市长（常务）人选		丽水市委	http://www.lishui.gov.cn/col/col1229749816/index.html	4285
+楼琅坚		7		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229749809/	中共丽水市委常委、统战部部长		丽水市委	http://www.lishui.gov.cn/col/col1229852153/index.html	4285
+张汉强		8		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229749809/	中共丽水市委常委、市纪委书记，市监委主任		丽水市委	http://www.lishui.gov.cn/col/col1229865446/index.html	4285
+吴华丁		9		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229749809/	市委常委、组织部部长		丽水市委	http://www.lishui.gov.cn/col/col1229892128/index.html	4285
+蔡昉		10		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229749809/	丽水市人大常委会副主任、中共丽水市委秘书长		丽水市委	https://www.lishui.gov.cn/col/col1229742372/cfmsz/index.html	4285
+王凡		11		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229749809/	中共丽水市委副秘书长、办公室主任		丽水市委	https://www.lishui.gov.cn/col/col1229742372/yxyfmszfb/index.html	4285
+叶鑫垚		12		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229749809/	中共丽水市委副秘书长、政研室主任		丽水市委	https://www.lishui.gov.cn/col/col1229749821/lyhfmsz/index.html	4285
+陈永超		13		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229749809/	中共丽水市委副秘书长、市委办三级调研员		丽水市委	http://www.lishui.gov.cn/col/col1229760815/index.html	4285
+朱国群		14		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229749809/	中共丽水市委副秘书长、档案局局长		丽水市委	http://www.lishui.gov.cn/col/col1229749810/index.html	4285
+傅雅涛		15		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229749809/	中共丽水市委副秘书长、三级调研员		丽水市委	https://www.lishui.gov.cn/col/col1229749824/index.html	4285
+叶建利		16		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229749809/	中共丽水市委副秘书长、政法委常务副书记		丽水市委	http://www.lishui.gov.cn/col/col1229749823/index.html	4285
+陆翔		17		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229749809/	中共丽水市委副秘书长、社会工作部副部长（兼）、信访局局长		丽水市委	https://www.lishui.gov.cn/col/col1229742372/lxfmsz/index.html	4285

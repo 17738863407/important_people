@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘力江		1		甘肃省	天水市	https://www.tianshui.gov.cn/ldzc.htm	市长		天水市人民政府	https://www.tianshui.gov.cn/info/3991/1058562.htm	3890
+储著贞		2		甘肃省	天水市	https://www.tianshui.gov.cn/ldzc.htm	常务副市长		天水市人民政府	https://www.tianshui.gov.cn/info/1171/1260702.htm	3890
+孙亮		3		甘肃省	天水市	https://www.tianshui.gov.cn/ldzc.htm	副市长		天水市人民政府	https://www.tianshui.gov.cn/info/1181/1258352.htm	3890
+倪学向		4		甘肃省	天水市	https://www.tianshui.gov.cn/ldzc.htm	副市长		天水市人民政府	https://www.tianshui.gov.cn/info/1181/1267642.htm	3890
+孙忠平		5		甘肃省	天水市	https://www.tianshui.gov.cn/ldzc.htm	副市长		天水市人民政府	https://www.tianshui.gov.cn/info/1181/1267432.htm	3890
+汝登国		6		甘肃省	天水市	https://www.tianshui.gov.cn/ldzc.htm	副市长		天水市人民政府	https://www.tianshui.gov.cn/info/1181/1274372.htm	3890
+马军胜		7		甘肃省	天水市	https://www.tianshui.gov.cn/ldzc.htm	市政府秘书长		天水市人民政府	https://www.tianshui.gov.cn/info/1191/1015552.htm	3890

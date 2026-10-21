@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+洛桑旦达		1		西藏自治区		http://sft.xizang.gov.cn/jggk/ldjs/	区党委政法委委员,区司法厅党委书记、副厅长,区监狱管理局第一政委		西藏自治区司法厅	http://sft.xizang.gov.cn/jggk/ldjs/202110/t20211028_267454.html	2341
+王亚东		2		西藏自治区		http://sft.xizang.gov.cn/jggk/ldjs/	区司法厅党委副书记、厅长，区戒毒管理局第一政委		西藏自治区司法厅	http://sft.xizang.gov.cn/jggk/ldjs/202104/t20210402_198362.html	2341
+王胜		3		西藏自治区		http://sft.xizang.gov.cn/jggk/ldjs/	区司法厅党委委员、副厅长（援藏）		西藏自治区司法厅	http://sft.xizang.gov.cn/jggk/ldjs/201910/t20191010_99687.html	2341
+陈莉		4		西藏自治区		http://sft.xizang.gov.cn/jggk/ldjs/	区司法厅党委委员、副厅长		西藏自治区司法厅	http://sft.xizang.gov.cn/jggk/ldjs/202405/t20240524_418265.html	2341
+次仁央宗		5		西藏自治区		http://sft.xizang.gov.cn/jggk/ldjs/	区司法厅党委委员、副厅长		西藏自治区司法厅	http://sft.xizang.gov.cn/jggk/ldjs/202410/t20241008_439508.html	2341
+唐勇		6		西藏自治区		http://sft.xizang.gov.cn/jggk/ldjs/	区司法厅党委委员、政治部主任		西藏自治区司法厅	http://sft.xizang.gov.cn/jggk/ldjs/202210/t20221023_324920.html	2341

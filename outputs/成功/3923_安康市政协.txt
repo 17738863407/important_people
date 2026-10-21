@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周建功		1		陕西省	安康市	https://zx.ankang.gov.cn/Node-93448.html	安康市政协党组书记、主席		安康市政协	https://zx.ankang.gov.cn/Content-2428868.html	3923
+陈伦富		2		陕西省	安康市	https://zx.ankang.gov.cn/Node-93448.html	安康市政协党组副书记、副主席		安康市政协	https://zx.ankang.gov.cn/Content-2781052.html	3923
+吴大康		3		陕西省	安康市	https://zx.ankang.gov.cn/Node-93448.html	安康市政协副主席		安康市政协	https://zx.ankang.gov.cn/Content-2781054.html	3923
+郑红丹		4		陕西省	安康市	https://zx.ankang.gov.cn/Node-93448.html	安康市政协党组成员、副主席		安康市政协	https://zx.ankang.gov.cn/Content-2781057.html	3923
+柯玉富		5		陕西省	安康市	https://zx.ankang.gov.cn/Node-93448.html	安康市政协副主席，民建安康市委会主委		安康市政协	https://zx.ankang.gov.cn/Content-2781060.html	3923
+杨军		6		陕西省	安康市	https://zx.ankang.gov.cn/Node-93448.html	安康市政协党组成员、副主席		安康市政协	https://zx.ankang.gov.cn/Content-2792647.html	3923
+白玉		7		陕西省	安康市	https://zx.ankang.gov.cn/Node-93448.html	安康市政协副主席		安康市政协	https://zx.ankang.gov.cn/Content-2792648.html	3923
+陈红星		8		陕西省	安康市	https://zx.ankang.gov.cn/Node-93448.html	安康市政协党组成员、副主席，旬阳市委书记		安康市政协	https://zx.ankang.gov.cn/Content-2900305.html	3923
+谢成彦		9		陕西省	安康市	https://zx.ankang.gov.cn/Node-93448.html	安康市政协党组成员、副主席，市财政局党组书记、局长		安康市政协	https://zx.ankang.gov.cn/Content-2900306.html	3923
+丁关军		10		陕西省	安康市	https://zx.ankang.gov.cn/Node-93448.html	安康市政协党组成员、秘书长，市政协机关党组书记		安康市政协	https://zx.ankang.gov.cn/Content-2428859.html	3923

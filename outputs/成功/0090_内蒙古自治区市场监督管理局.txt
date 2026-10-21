@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴振清		1		内蒙古自治区		http://amr.nmg.gov.cn/2025_zn/	党组书记、局长		内蒙古自治区市场监督管理局	http://amr.nmg.gov.cn/2025_gk/zfxxgk/fdzdgknr/jgjj_1/ldjj/202201/t20220112_1993515.html	0090
+毛宝锋		2		内蒙古自治区		http://amr.nmg.gov.cn/2025_zn/	党组成员、副局长		内蒙古自治区市场监督管理局	http://amr.nmg.gov.cn/2025_gk/zfxxgk/fdzdgknr/jgjj_1/ldjj/202204/t20220420_2041802.html	0090
+徐天平		3		内蒙古自治区		http://amr.nmg.gov.cn/2025_zn/	党组成员、药监局党组书记、局长		内蒙古自治区市场监督管理局	http://amr.nmg.gov.cn/2025_gk/zfxxgk/fdzdgknr/jgjj_1/ldjj/202110/t20211018_1910944.html	0090
+宁云飞		4		内蒙古自治区		http://amr.nmg.gov.cn/2025_zn/	党组成员、副局长		内蒙古自治区市场监督管理局	http://amr.nmg.gov.cn/2025_gk/zfxxgk/fdzdgknr/jgjj_1/ldjj/202111/t20211102_1921327.html	0090
+杨志宏		5		内蒙古自治区		http://amr.nmg.gov.cn/2025_zn/	党组成员、副局长		内蒙古自治区市场监督管理局	http://amr.nmg.gov.cn/2025_gk/zfxxgk/fdzdgknr/jgjj_1/ldjj/202301/t20230113_2214704.html	0090
+仲家宏		6		内蒙古自治区		http://amr.nmg.gov.cn/2025_zn/	党组成员、驻局纪检监察组组长		内蒙古自治区市场监督管理局	http://amr.nmg.gov.cn/2025_gk/zfxxgk/fdzdgknr/jgjj_1/ldjj/202504/t20250415_2703403.html	0090
+官君山		7		内蒙古自治区		http://amr.nmg.gov.cn/2025_zn/	党组成员、副局长		内蒙古自治区市场监督管理局	http://amr.nmg.gov.cn/2025_gk/zfxxgk/fdzdgknr/jgjj_1/ldjj/202306/t20230608_2329545.html	0090
+李东		8		内蒙古自治区		http://amr.nmg.gov.cn/2025_zn/	党组成员、副局长		内蒙古自治区市场监督管理局	http://amr.nmg.gov.cn/2025_gk/zfxxgk/fdzdgknr/jgjj_1/ldjj/202306/t20230608_2329546.html	0090

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+普永生		1		全国		https://www.neac.gov.cn/seac/mwjs/ssmzjj/jgrysz.shtml	会长 、法定代表人；国家民委办公厅原巡视员、副主任（已退休）		中国少数民族经济研究会		1878
+冯常海		2		全国		https://www.neac.gov.cn/seac/mwjs/ssmzjj/jgrysz.shtml	副会长；国家民委共同发展司副司长		中国少数民族经济研究会		1878
+徐飞		3		全国		https://www.neac.gov.cn/seac/mwjs/ssmzjj/jgrysz.shtml	副会长；贵州省民宗委原副主任（已退休）		中国少数民族经济研究会		1878
+张丽君		4		全国		https://www.neac.gov.cn/seac/mwjs/ssmzjj/jgrysz.shtml	副会长；中央民族大学经济学院院长（兼秘书长）		中国少数民族经济研究会		1878
+杨春学		5		全国		https://www.neac.gov.cn/seac/mwjs/ssmzjj/jgrysz.shtml	副会长；首都经济贸易大学经济学院教授		中国少数民族经济研究会		1878
+向延柳		6		全国		https://www.neac.gov.cn/seac/mwjs/ssmzjj/jgrysz.shtml	副会长；贵阳永乐药业董事长		中国少数民族经济研究会		1878

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何惠风		1		湖南省	长沙市	http://ybj.changsha.gov.cn/xxgk/xxgkml/jgzn/ldgk/	长沙市医疗保障局党组书记、局长		长沙市医疗保障局	http://ybj.changsha.gov.cn/xxgk/xxgkml/jgzn/ldgk/202312/t20231207_11311510.html	3114
+谭志国		2		湖南省	长沙市	http://ybj.changsha.gov.cn/xxgk/xxgkml/jgzn/ldgk/	长沙市医疗保障局党组成员、副局长、二级调研员		长沙市医疗保障局	http://ybj.changsha.gov.cn/xxgk/xxgkml/jgzn/ldgk/201911/t20191101_3513869.html	3114
+魏敏		3		湖南省	长沙市	http://ybj.changsha.gov.cn/xxgk/xxgkml/jgzn/ldgk/	长沙市医疗保障局党组成员、副局长、三级调研员		长沙市医疗保障局	http://ybj.changsha.gov.cn/xxgk/xxgkml/jgzn/ldgk/201911/t20191101_3513875.html	3114
+易学思		4		湖南省	长沙市	http://ybj.changsha.gov.cn/xxgk/xxgkml/jgzn/ldgk/	长沙市医疗保障局党组成员、副局长		长沙市医疗保障局	http://ybj.changsha.gov.cn/xxgk/xxgkml/jgzn/ldgk/202004/t20200420_7707988.html	3114
+周宏伟		5		湖南省	长沙市	http://ybj.changsha.gov.cn/xxgk/xxgkml/jgzn/ldgk/	长沙市医疗保障局党组成员、副局长		长沙市医疗保障局	http://ybj.changsha.gov.cn/xxgk/xxgkml/jgzn/ldgk/201911/t20191101_3513877.html	3114

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+夏凤俭		1		山东省		http://www.shandong.gov.cn/col/col314059/index.html	山东省副省长、省政府党组成员，省委政法委副书记，省公安厅党委书记、厅长兼督察长		山东省公安厅		2360
+张月波		2		山东省		http://www.shandong.gov.cn/col/col314059/index.html	省公安厅党委副书记、分管日常工作的副厅长（正厅级）		山东省公安厅		2360
+纪勇		3		山东省		http://www.shandong.gov.cn/col/col314059/index.html	省公安厅党委委员，特勤局党委书记、局长（正厅级）		山东省公安厅		2360
+戚思宇		4		山东省		http://www.shandong.gov.cn/col/col314059/index.html	省公安厅党委委员、副厅长、一级巡视员		山东省公安厅		2360
+王海防		5		山东省		http://www.shandong.gov.cn/col/col314059/index.html	省公安厅党委委员、副厅长、政治部主任		山东省公安厅		2360
+徐磊		6		山东省		http://www.shandong.gov.cn/col/col314059/index.html	山东省公安厅党委委员、副厅长		山东省公安厅		2360
+董晓飞		7		山东省		http://www.shandong.gov.cn/col/col314059/index.html	山东省公安厅党委委员、副厅长		山东省公安厅		2360
+任泽龙		8		山东省		http://www.shandong.gov.cn/col/col314059/index.html	省公安厅党委委员、副厅长		山东省公安厅		2360
+兰天坤		9		山东省		http://www.shandong.gov.cn/col/col314059/index.html	省公安厅党委委员、省纪委监委驻省公安厅纪检监察组组长、二级高级监察官		山东省公安厅		2360

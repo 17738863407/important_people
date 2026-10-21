@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘形		1		青海省		https://rfb.qinghai.gov.cn/html/ldzc.html	党组书记、主任		青海省国防动员办公室	https://rfb.qinghai.gov.cn/html/xxgkdy/9254.html	2184
+李白玉		2		青海省		https://rfb.qinghai.gov.cn/html/ldzc.html	党组成员、副主任		青海省国防动员办公室	https://rfb.qinghai.gov.cn/html/xxgkdy/9253.html	2184
+李志国		3		青海省		https://rfb.qinghai.gov.cn/html/ldzc.html	党组成员、副主任		青海省国防动员办公室	https://rfb.qinghai.gov.cn/html/xxgkdy/9252.html	2184
+苗杰		4		青海省		https://rfb.qinghai.gov.cn/html/ldzc.html	党组成员、副主任		青海省国防动员办公室	https://rfb.qinghai.gov.cn/html/xxgkdy/9251.html	2184

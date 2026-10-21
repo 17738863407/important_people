@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+宋尊德		1		湖南省	长沙市	http://tyjr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	局党组书记、局长		长沙市退役军人事务局	http://tyjr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202201/t20220125_10454937.html	2795
+詹萍萍		2		湖南省	长沙市	http://tyjr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	局党组成员、副局长、三级调研员		长沙市退役军人事务局	http://tyjr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/201912/t20191216_5320827.html	2795
+刘晓荡		3		湖南省	长沙市	http://tyjr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	局党组成员、副局长		长沙市退役军人事务局	http://tyjr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202101/t20210114_9728858.html	2795
+邱献波		4		湖南省	长沙市	http://tyjr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	局党组成员、副局长		长沙市退役军人事务局	http://tyjr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202402/t20240205_11367185.html	2795
+刘继冬		5		湖南省	长沙市	http://tyjr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	局党组成员、副局长		长沙市退役军人事务局	http://tyjr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202410/t20241021_11627580.html	2795
+刘亮凡		6		湖南省	长沙市	http://tyjr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	二级调研员		长沙市退役军人事务局	http://tyjr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202308/t20230824_11200469.html	2795
+刘建平		7		湖南省	长沙市	http://tyjr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	三级调研员		长沙市退役军人事务局	http://tyjr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202308/t20230824_11200471.html	2795

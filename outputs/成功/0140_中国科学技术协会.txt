@@ -1,0 +1,23 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王光谦		1		全国		https://www.cast.org.cn/qjkx/index.html#kxld	主席		中国科学技术协会	https://www.cast.org.cn/qjkx/kxld/ZX/art/2026/art_35e1564c06f34b47ba4ec69aff3cc422.html	0140
+尤政		2		全国		https://www.cast.org.cn/qjkx/index.html#kxld	副主席		中国科学技术协会		0140
+包为民		3		全国		https://www.cast.org.cn/qjkx/index.html#kxld	副主席		中国科学技术协会		0140
+冯身洪		4		全国		https://www.cast.org.cn/qjkx/index.html#kxld	副主席（专职）；党组、书记处		中国科学技术协会	https://www.cast.org.cn/qjkx/kxld/DZSJC/art/2025/art_03b4d32ef1de4f64828c9c07204170f5.html	0140
+乔杰		5		全国		https://www.cast.org.cn/qjkx/index.html#kxld	副主席		中国科学技术协会		0140
+向巧		6		全国		https://www.cast.org.cn/qjkx/index.html#kxld	副主席		中国科学技术协会		0140
+李路明		7		全国		https://www.cast.org.cn/qjkx/index.html#kxld	副主席		中国科学技术协会		0140
+吴骊珠		8		全国		https://www.cast.org.cn/qjkx/index.html#kxld	副主席		中国科学技术协会		0140
+陈卫		9		全国		https://www.cast.org.cn/qjkx/index.html#kxld	副主席		中国科学技术协会		0140
+陈薇		10		全国		https://www.cast.org.cn/qjkx/index.html#kxld	副主席		中国科学技术协会		0140
+陈学东		11		全国		https://www.cast.org.cn/qjkx/index.html#kxld	副主席		中国科学技术协会		0140
+陈建峰		12		全国		https://www.cast.org.cn/qjkx/index.html#kxld	副主席		中国科学技术协会		0140
+贺军科		13		全国		https://www.cast.org.cn/qjkx/index.html#kxld	副主席（专职）；党组、书记处		中国科学技术协会	https://www.cast.org.cn/qjkx/kxld/DZSJC/art/2023/art_79330da9503346a2a68beecf2d5a793d.html	0140
+莫则尧		14		全国		https://www.cast.org.cn/qjkx/index.html#kxld	副主席		中国科学技术协会		0140
+徐涛		15		全国		https://www.cast.org.cn/qjkx/index.html#kxld	副主席		中国科学技术协会		0140
+高鸿钧		16		全国		https://www.cast.org.cn/qjkx/index.html#kxld	副主席		中国科学技术协会		0140
+廖湘科		17		全国		https://www.cast.org.cn/qjkx/index.html#kxld	副主席		中国科学技术协会		0140
+王进展		18		全国		https://www.cast.org.cn/qjkx/index.html#kxld	党组、书记处		中国科学技术协会	https://www.cast.org.cn/qjkx/kxld/DZSJC/art/2021/art_0bb05addfddc4d808ac06e4832750d7d.html	0140
+周文标		19		全国		https://www.cast.org.cn/qjkx/index.html#kxld	党组、书记处		中国科学技术协会	https://www.cast.org.cn/qjkx/kxld/DZSJC/art/2025/art_a5cc3ce8d66b4aecaea040698659c44e.html	0140
+于俊清		20		全国		https://www.cast.org.cn/qjkx/index.html#kxld	党组、书记处		中国科学技术协会	https://www.cast.org.cn/qjkx/kxld/DZSJC/art/2025/art_bd6308e5e4ef4f05865080d8daf46d95.html	0140
+倪志宇		21		全国		https://www.cast.org.cn/qjkx/index.html#kxld	党组、书记处		中国科学技术协会	https://www.cast.org.cn/qjkx/kxld/DZSJC/art/2026/art_448471586d204af6904e5f1fdafd65af.html	0140
+罗晖		22		全国		https://www.cast.org.cn/qjkx/index.html#kxld	党组、书记处		中国科学技术协会	https://www.cast.org.cn/qjkx/kxld/DZSJC/art/2022/art_84744a658f1848b28c3d6bfcbeedfb37.html	0140

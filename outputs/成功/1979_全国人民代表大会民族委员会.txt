@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+巴音朝鲁		1		全国		http://www.npc.gov.cn/npc/bmzz2023/mzwyh2023/	主任委员		全国人民代表大会民族委员会		1979
+王志民		2		全国		http://www.npc.gov.cn/npc/bmzz2023/mzwyh2023/	副主任委员		全国人民代表大会民族委员会		1979
+安兆庆		3		全国		http://www.npc.gov.cn/npc/bmzz2023/mzwyh2023/	副主任委员		全国人民代表大会民族委员会		1979
+肖开提·依明		4		全国		http://www.npc.gov.cn/npc/bmzz2023/mzwyh2023/	副主任委员		全国人民代表大会民族委员会		1979
+沙尔合提·阿汗		5		全国		http://www.npc.gov.cn/npc/bmzz2023/mzwyh2023/	副主任委员		全国人民代表大会民族委员会		1979
+白尚成		6		全国		http://www.npc.gov.cn/npc/bmzz2023/mzwyh2023/	副主任委员		全国人民代表大会民族委员会		1979
+黄俊华		7		全国		http://www.npc.gov.cn/npc/bmzz2023/mzwyh2023/	副主任委员		全国人民代表大会民族委员会		1979
+苻彩香		8		全国		http://www.npc.gov.cn/npc/bmzz2023/mzwyh2023/	副主任委员		全国人民代表大会民族委员会		1979
+林锐		9		全国		http://www.npc.gov.cn/npc/bmzz2023/mzwyh2023/	副主任委员		全国人民代表大会民族委员会		1979
+周敏		10		全国		http://www.npc.gov.cn/npc/bmzz2023/mzwyh2023/	副主任委员		全国人民代表大会民族委员会		1979

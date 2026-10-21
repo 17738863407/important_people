@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈新武		1		全国		http://www.cq.gov.cn/zwgk/zfxxgkzl/fdzdgknr/jgjj/szfld/	市长		重庆市人民政府	http://www.cq.gov.cn/zwgk/szfld/sz/202607/t20260731_15878282.html	0326
+刘尚进		2		全国		http://www.cq.gov.cn/zwgk/zfxxgkzl/fdzdgknr/jgjj/szfld/	常务副市长		重庆市人民政府	http://www.cq.gov.cn/zwgk/szfld/ld/202606/t20260626_15781658.html	0326
+徐建		3		全国		http://www.cq.gov.cn/zwgk/zfxxgkzl/fdzdgknr/jgjj/szfld/	副市长		重庆市人民政府	http://www.cq.gov.cn/zwgk/szfld/ld/202412/t20241227_14029379.html	0326
+郑向东		4		全国		http://www.cq.gov.cn/zwgk/zfxxgkzl/fdzdgknr/jgjj/szfld/	副市长		重庆市人民政府	http://www.cq.gov.cn/zwgk/szfld/ld/202003/t20200331_8609707.html	0326
+姜国杰		5		全国		http://www.cq.gov.cn/zwgk/zfxxgkzl/fdzdgknr/jgjj/szfld/	副市长		重庆市人民政府	http://www.cq.gov.cn/zwgk/szfld/ld/202411/t20241128_13842657.html	0326
+黄茂军		6		全国		http://www.cq.gov.cn/zwgk/zfxxgkzl/fdzdgknr/jgjj/szfld/	副市长		重庆市人民政府	http://www.cq.gov.cn/zwgk/szfld/ld/202601/t20260120_15339891.html	0326
+谭权		7		全国		http://www.cq.gov.cn/zwgk/zfxxgkzl/fdzdgknr/jgjj/szfld/	副市长		重庆市人民政府	http://www.cq.gov.cn/zwgk/szfld/ld/202607/t20260731_15878111.html	0326
+吴树林		8		全国		http://www.cq.gov.cn/zwgk/zfxxgkzl/fdzdgknr/jgjj/szfld/	副市长		重庆市人民政府	http://www.cq.gov.cn/zwgk/szfld/ld/202607/t20260731_15878161.html	0326
+明炬		9		全国		http://www.cq.gov.cn/zwgk/zfxxgkzl/fdzdgknr/jgjj/szfld/	秘书长		重庆市人民政府	http://www.cq.gov.cn/zwgk/szfld/msz/202607/t20260731_15878212.html	0326

@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于建		1		全国		https://ecs.mnr.gov.cn/gk/ldzc/	自然资源部东海局分党组书记、局长		自然资源部东海局	https://ecs.mnr.gov.cn/gk/ldzc/202507/t20250708_28924.shtml	0502
+唐文胜		2		全国		https://ecs.mnr.gov.cn/gk/ldzc/	自然资源部东海局分党组成员、副局长		自然资源部东海局	https://ecs.mnr.gov.cn/gk/ldzc/202506/t20250612_28877.shtml	0502
+叶帷梦		3		全国		https://ecs.mnr.gov.cn/gk/ldzc/	自然资源部东海局分党组成员、纪检组长		自然资源部东海局	https://ecs.mnr.gov.cn/gk/ldzc/202506/t20250612_28878.shtml	0502
+曲念东		4		全国		https://ecs.mnr.gov.cn/gk/ldzc/	自然资源部东海局分党组成员、副局长		自然资源部东海局	https://ecs.mnr.gov.cn/gk/ldzc/202509/t20250917_29044.shtml	0502

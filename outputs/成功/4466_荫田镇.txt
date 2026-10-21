@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+雷鹏辉		1		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/xzbscx/ytz/gzjg/ldxx/index.html	常宁市荫田镇党委书记		荫田镇	https://www.hnchangning.gov.cn/zwgk/xzbscx/ytz/gzjg/ldxx/20260112/i3848137.html	4466
+王艳		2		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/xzbscx/ytz/gzjg/ldxx/index.html	常宁市荫田镇党委副书记、镇长		荫田镇	https://www.hnchangning.gov.cn/zwgk/xzbscx/ytz/gzjg/ldxx/20260112/i3848147.html	4466
+吕斌		3		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/xzbscx/ytz/gzjg/ldxx/index.html	常宁市荫田镇人大主席		荫田镇	https://www.hnchangning.gov.cn/zwgk/xzbscx/ytz/gzjg/ldxx/20260112/i3848148.html	4466

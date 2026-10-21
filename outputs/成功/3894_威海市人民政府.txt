@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孔凡萍		1		山东省	威海市	https://www.weihai.gov.cn/col/col147296/index.html	市长		威海市人民政府	https://www.weihai.gov.cn/col/col59905/index.html	3894
+李建		2		山东省	威海市	https://www.weihai.gov.cn/col/col147296/index.html	副市长		威海市人民政府	https://www.weihai.gov.cn/col/col147276/index.html	3894
+邓勇		3		山东省	威海市	https://www.weihai.gov.cn/col/col147296/index.html	副市长		威海市人民政府	https://www.weihai.gov.cn/col/col59918/index.html	3894
+梁皓		4		山东省	威海市	https://www.weihai.gov.cn/col/col147296/index.html	副市长		威海市人民政府	https://www.weihai.gov.cn/col/col59920/index.html	3894
+张善东		5		山东省	威海市	https://www.weihai.gov.cn/col/col147296/index.html	副市长		威海市人民政府	https://www.weihai.gov.cn/col/col151156/index.html	3894
+袁志勇		6		山东省	威海市	https://www.weihai.gov.cn/col/col147296/index.html	副市长		威海市人民政府	https://www.weihai.gov.cn/col/col59916/index.html	3894
+刘奎忠		7		山东省	威海市	https://www.weihai.gov.cn/col/col147296/index.html	副市长		威海市人民政府	https://www.weihai.gov.cn/col/col59910/index.html	3894
+张刚		8		山东省	威海市	https://www.weihai.gov.cn/col/col147296/index.html	副市长		威海市人民政府	https://www.weihai.gov.cn/col/col83125/index.html	3894
+鞠云		9		山东省	威海市	https://www.weihai.gov.cn/col/col147296/index.html	秘书长		威海市人民政府		3894

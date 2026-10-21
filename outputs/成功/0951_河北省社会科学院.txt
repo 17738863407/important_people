@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吕新斌		1		河北省		https://www.hebsky.org.cn/wygk/	河北省社会科学院党组书记、院长，省委讲师团主任，河北省社会科学界联合会第一副主席		河北省社会科学院	https://www.hebsky.org.cn/c/2021-06-03/543909.html	0951
+彭建强		2		河北省		https://www.hebsky.org.cn/wygk/	河北省社会科学院党组成员、副院长，河北省社会科学界联合会常务副主席（正厅级）		河北省社会科学院	https://www.hebsky.org.cn/c/2021-06-03/543899.html	0951
+边建国		3		河北省		https://www.hebsky.org.cn/wygk/	河北省社会科学院党组成员、副院长		河北省社会科学院	https://www.hebsky.org.cn/c/2025-10-11/615781.html	0951
+袁宝东		4		河北省		https://www.hebsky.org.cn/wygk/	河北省社会科学院党组成员、副院长，省委讲师团副主任		河北省社会科学院	https://www.hebsky.org.cn/c/2021-06-03/543903.html	0951
+孟庆凯		5		河北省		https://www.hebsky.org.cn/wygk/	河北省社会科学院党组成员、副院长		河北省社会科学院	https://www.hebsky.org.cn/c/2021-06-03/543904.html	0951
+纪国军		6		河北省		https://www.hebsky.org.cn/wygk/	河北省社会科学院党组成员，省纪委监委驻省社会科学院纪检监察组组长		河北省社会科学院	https://www.hebsky.org.cn/c/2023-06-05/574475.html	0951
+吕雪松		7		河北省		https://www.hebsky.org.cn/wygk/	河北省社会科学院党组成员、副院长		河北省社会科学院	https://www.hebsky.org.cn/c/2023-06-05/574478.html	0951

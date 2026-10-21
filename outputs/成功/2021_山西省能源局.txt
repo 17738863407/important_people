@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张翔		1		山西省		https://nyj.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk/jgjj_0608/fdzdgknr_11759.html	山西省能源局党组书记、局长，山西省发展和改革委员会党组成员		山西省能源局	https://nyj.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk/ldfg/202410/t20241024_9679169.shtml	2021
+王义成		2		山西省		https://nyj.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk/jgjj_0608/fdzdgknr_11759.html	山西省能源局党组成员、副局长		山西省能源局	https://nyj.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk/ldfg/202406/t20240611_9585468.shtml	2021
+杜青		3		山西省		https://nyj.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk/jgjj_0608/fdzdgknr_11759.html	山西省能源局党组成员、副局长		山西省能源局	https://nyj.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk/ldfg/202305/t20230515_8554267.shtml	2021
+毛晓文		4		山西省		https://nyj.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk/jgjj_0608/fdzdgknr_11759.html	山西省能源局党组成员、副局长		山西省能源局	https://nyj.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk/ldfg/202406/t20240611_9585477.shtml	2021

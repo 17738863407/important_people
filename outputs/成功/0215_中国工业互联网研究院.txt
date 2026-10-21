@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+鲁春丛		1		全国		https://www.china-aii.com/ldbz/index.jhtml	院长、党委副书记		中国工业互联网研究院	https://www.china-aii.com/ldbz/7140213.jhtml	0215
+田川		2		全国		https://www.china-aii.com/ldbz/index.jhtml	党委书记、副院长		中国工业互联网研究院	https://www.china-aii.com/ldbz/7140214.jhtml	0215
+张晓彤		3		全国		https://www.china-aii.com/ldbz/index.jhtml	总工程师		中国工业互联网研究院	https://www.china-aii.com/ldbz/7140218.jhtml	0215
+王宝友		4		全国		https://www.china-aii.com/ldbz/index.jhtml	总工程师		中国工业互联网研究院	https://www.china-aii.com/ldbz/7140219.jhtml	0215
+刘文卿		5		全国		https://www.china-aii.com/ldbz/index.jhtml	副院长		中国工业互联网研究院	https://www.china-aii.com/ldbz/7140220.jhtml	0215
+杨星		6		全国		https://www.china-aii.com/ldbz/index.jhtml	纪委书记		中国工业互联网研究院	https://www.china-aii.com/ldbz/7140221.jhtml	0215
+田野		7		全国		https://www.china-aii.com/ldbz/index.jhtml	副院长		中国工业互联网研究院	https://www.china-aii.com/ldbz/7140766.jhtml	0215
+肖坤		8		全国		https://www.china-aii.com/ldbz/index.jhtml	党委副书记		中国工业互联网研究院	https://www.china-aii.com/ldbz/7141622.jhtml	0215

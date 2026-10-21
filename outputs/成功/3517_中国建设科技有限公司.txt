@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙英		1		全国		https://www.cctc.cn/jtgk/qyld/index.shtml	党委书记、董事长		中国建设科技有限公司		3517
+范圣权		2		全国		https://www.cctc.cn/jtgk/qyld/index.shtml	党委副书记、董事、总经理		中国建设科技有限公司		3517
+刘冬		3		全国		https://www.cctc.cn/jtgk/qyld/index.shtml	非执行董事		中国建设科技有限公司		3517
+文步高		4		全国		https://www.cctc.cn/jtgk/qyld/index.shtml	非执行董事		中国建设科技有限公司		3517
+沙先华		5		全国		https://www.cctc.cn/jtgk/qyld/index.shtml	独立非执行董事		中国建设科技有限公司		3517
+韩建国		6		全国		https://www.cctc.cn/jtgk/qyld/index.shtml	独立非执行董事		中国建设科技有限公司		3517

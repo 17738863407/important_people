@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王东峰		1		全国		http://www.cppcc.gov.cn/zxww/newcppcc/bgt/index.shtml	秘书长		中国人民政治协商会议全国委员会办公厅	http://www.cppcc.gov.cn/zxld/msz/	0315
+李惠东		2		全国		http://www.cppcc.gov.cn/zxww/newcppcc/bgt/index.shtml	副秘书长（兼职）		中国人民政治协商会议全国委员会办公厅		0315
+韩建华		3		全国		http://www.cppcc.gov.cn/zxww/newcppcc/bgt/index.shtml	副秘书长		中国人民政治协商会议全国委员会办公厅		0315
+胡衡庐		4		全国		http://www.cppcc.gov.cn/zxww/newcppcc/bgt/index.shtml	副秘书长		中国人民政治协商会议全国委员会办公厅		0315
+陈旭		5		全国		http://www.cppcc.gov.cn/zxww/newcppcc/bgt/index.shtml	副秘书长（兼职）		中国人民政治协商会议全国委员会办公厅		0315
+吴为山		6		全国		http://www.cppcc.gov.cn/zxww/newcppcc/bgt/index.shtml	副秘书长（兼职）		中国人民政治协商会议全国委员会办公厅		0315
+孙东生		7		全国		http://www.cppcc.gov.cn/zxww/newcppcc/bgt/index.shtml	副秘书长（兼职）		中国人民政治协商会议全国委员会办公厅		0315
+何志敏		8		全国		http://www.cppcc.gov.cn/zxww/newcppcc/bgt/index.shtml	副秘书长（兼职）		中国人民政治协商会议全国委员会办公厅		0315
+王路		9		全国		http://www.cppcc.gov.cn/zxww/newcppcc/bgt/index.shtml	副秘书长（兼职）		中国人民政治协商会议全国委员会办公厅		0315
+张恩迪		10		全国		http://www.cppcc.gov.cn/zxww/newcppcc/bgt/index.shtml	副秘书长（兼职）		中国人民政治协商会议全国委员会办公厅		0315
+刘政奎		11		全国		http://www.cppcc.gov.cn/zxww/newcppcc/bgt/index.shtml	副秘书长（兼职）		中国人民政治协商会议全国委员会办公厅		0315
+江利平		12		全国		http://www.cppcc.gov.cn/zxww/newcppcc/bgt/index.shtml	副秘书长（兼职）		中国人民政治协商会议全国委员会办公厅		0315
+韩冬梅		13		全国		http://www.cppcc.gov.cn/zxww/newcppcc/bgt/index.shtml	副秘书长		中国人民政治协商会议全国委员会办公厅		0315
+洪亮		14		全国		http://www.cppcc.gov.cn/zxww/newcppcc/bgt/index.shtml	副秘书长		中国人民政治协商会议全国委员会办公厅		0315

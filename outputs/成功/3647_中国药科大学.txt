@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+戴建君		1		江苏省	南京市	https://www.cpu.edu.cn/11461/list.htm	党委书记；党委常委		中国药科大学		3647
+郝海平		2		江苏省	南京市	https://www.cpu.edu.cn/11461/list.htm	校长		中国药科大学		3647
+朱红		3		江苏省	南京市	https://www.cpu.edu.cn/11461/list.htm	党委副书记；党委常委		中国药科大学		3647
+陈文恩		4		江苏省	南京市	https://www.cpu.edu.cn/11461/list.htm	党委副书记；纪委书记；党委常委		中国药科大学		3647
+于广琮		5		江苏省	南京市	https://www.cpu.edu.cn/11461/list.htm	副校长；党委常委		中国药科大学		3647
+姚和权		6		江苏省	南京市	https://www.cpu.edu.cn/11461/list.htm	副校长；党委常委		中国药科大学		3647
+杨勇		7		江苏省	南京市	https://www.cpu.edu.cn/11461/list.htm	副校长；党委常委		中国药科大学		3647
+戴亮		8		江苏省	南京市	https://www.cpu.edu.cn/11461/list.htm	副校长；党委常委		中国药科大学		3647
+丁锦希		9		江苏省	南京市	https://www.cpu.edu.cn/11461/list.htm	副校长；党委常委		中国药科大学		3647
+赵健		10		江苏省	南京市	https://www.cpu.edu.cn/11461/list.htm	党委常委		中国药科大学		3647
+刘燕莉		11		江苏省	南京市	https://www.cpu.edu.cn/11461/list.htm	党委常委		中国药科大学		3647
+杨华		12		江苏省	南京市	https://www.cpu.edu.cn/11461/list.htm	党委常委		中国药科大学		3647
+邬瑞斌		13		江苏省	南京市	https://www.cpu.edu.cn/11461/list.htm	校长助理		中国药科大学		3647
+陈卫忠		14		江苏省	南京市	https://www.cpu.edu.cn/11461/list.htm	校长助理		中国药科大学		3647

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨晓刚		1		海南省		https://dsj.hainan.gov.cn/jgjs/ldxx/	党委书记		海南省大数据发展中心	https://dsj.hainan.gov.cn/jgjs/ldxx/202308/t20230804_3468652.html	0484
+王岩		2		海南省		https://dsj.hainan.gov.cn/jgjs/ldxx/	党委常务副书记、主任		海南省大数据发展中心	https://dsj.hainan.gov.cn/jgjs/ldxx/202412/t20241223_3791685.html	0484
+孙少科		3		海南省		https://dsj.hainan.gov.cn/jgjs/ldxx/	副主任		海南省大数据发展中心	https://dsj.hainan.gov.cn/jgjs/ldxx/202005/t20200512_2787719.html	0484
+孙建明		4		海南省		https://dsj.hainan.gov.cn/jgjs/ldxx/	党委副书记、副主任		海南省大数据发展中心	https://dsj.hainan.gov.cn/jgjs/ldxx/202401/t20240105_3564833.html	0484
+赵红民		5		海南省		https://dsj.hainan.gov.cn/jgjs/ldxx/	党委委员、副主任		海南省大数据发展中心	https://dsj.hainan.gov.cn/jgjs/ldxx/202412/t20241223_3791686.html	0484
+卞艳臣		6		海南省		https://dsj.hainan.gov.cn/jgjs/ldxx/	党委委员、主任助理		海南省大数据发展中心	https://dsj.hainan.gov.cn/jgjs/ldxx/202412/t20241223_3791688.html	0484

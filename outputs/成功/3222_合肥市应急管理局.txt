@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+葛世新		1		安徽省	合肥市	https://yjj.hefei.gov.cn/public/column/14391?type=4&catId=7036024&action=list&nav=3	党委书记、局长		合肥市应急管理局	https://yjj.hefei.gov.cn/public/14391/107491046.html	3222
+周泽鸿		2		安徽省	合肥市	https://yjj.hefei.gov.cn/public/column/14391?type=4&catId=7036024&action=list&nav=3	党委委员、副局长		合肥市应急管理局	https://yjj.hefei.gov.cn/public/14391/104423767.html	3222
+王有长		3		安徽省	合肥市	https://yjj.hefei.gov.cn/public/column/14391?type=4&catId=7036024&action=list&nav=3	二级调研员		合肥市应急管理局	https://yjj.hefei.gov.cn/public/14391/104423795.html	3222
+史向阳		4		安徽省	合肥市	https://yjj.hefei.gov.cn/public/column/14391?type=4&catId=7036024&action=list&nav=3	党委委员、副局长		合肥市应急管理局	https://yjj.hefei.gov.cn/public/14391/104423835.html	3222
+车学清		5		安徽省	合肥市	https://yjj.hefei.gov.cn/public/column/14391?type=4&catId=7036024&action=list&nav=3	党委委员、副局长		合肥市应急管理局	https://yjj.hefei.gov.cn/public/14391/104423851.html	3222
+吴海峰		6		安徽省	合肥市	https://yjj.hefei.gov.cn/public/column/14391?type=4&catId=7036024&action=list&nav=3	党委委员、副局长		合肥市应急管理局	https://yjj.hefei.gov.cn/public/14391/108568832.html	3222
+卢明		7		安徽省	合肥市	https://yjj.hefei.gov.cn/public/column/14391?type=4&catId=7036024&action=list&nav=3	党委委员		合肥市应急管理局	https://yjj.hefei.gov.cn/public/14391/108568856.html	3222

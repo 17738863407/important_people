@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴柏林		1		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/zfb/gzjg/ldxx/index.html	常宁市人民政府党组成员,市政府办党组书记、主任		常宁市人民政府办公室	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/zfb/gzjg/ldxx/20260106/i3845744.html	4432
+谭炎文		2		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/zfb/gzjg/ldxx/index.html	常宁市人民政府办公室党组副书记、副主任		常宁市人民政府办公室	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/zfb/gzjg/ldxx/20251113/i3815908.html	4432
+谢琼		3		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/zfb/gzjg/ldxx/index.html	常宁市人民政府办公室党组副书记、副主任		常宁市人民政府办公室	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/zfb/gzjg/ldxx/20251113/i3815907.html	4432
+黄小南		4		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/zfb/gzjg/ldxx/index.html	常宁市人民政府办公室党组成员、副主任		常宁市人民政府办公室	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/zfb/gzjg/ldxx/20251113/i3815903.html	4432
+杨逵		5		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/zfb/gzjg/ldxx/index.html	常宁市纪委监委驻市政府办纪检监察组组长、市政府办党组成员		常宁市人民政府办公室	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/zfb/gzjg/ldxx/20251113/i3815899.html	4432
+邓超男		6		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/zfb/gzjg/ldxx/index.html	常宁市人民政府办公室副主任		常宁市人民政府办公室	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/zfb/gzjg/ldxx/20251113/i3815895.html	4432
+刘振东		7		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/zfb/gzjg/ldxx/index.html	常宁市人民政府办公室党组成员、副主任		常宁市人民政府办公室	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/zfb/gzjg/ldxx/20251113/i3815884.html	4432
+尹运华		8		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/zfb/gzjg/ldxx/index.html	常宁市人民政府办公室党组成员、副主任		常宁市人民政府办公室	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/zfb/gzjg/ldxx/20251113/i3815876.html	4432

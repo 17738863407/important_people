@@ -1,0 +1,16 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄河		1		云南省	昆明市	https://tjj.km.gov.cn/zfxxgkpt/fdzdgknr/ldxx/	党组书记		昆明市统计局	https://tjj.km.gov.cn/c/2026-02-27/5060135.shtml	2732
+白雄文		2		云南省	昆明市	https://tjj.km.gov.cn/zfxxgkpt/fdzdgknr/ldxx/	局长		昆明市统计局	https://tjj.km.gov.cn/c/2026-02-27/3891446.shtml	2732
+郑文琪		3		云南省	昆明市	https://tjj.km.gov.cn/zfxxgkpt/fdzdgknr/ldxx/	副局长		昆明市统计局	https://tjj.km.gov.cn/c/2026-02-27/3891445.shtml	2732
+杨建伟		4		云南省	昆明市	https://tjj.km.gov.cn/zfxxgkpt/fdzdgknr/ldxx/	副局长		昆明市统计局	https://tjj.km.gov.cn/c/2026-02-27/3891443.shtml	2732
+马稳		5		云南省	昆明市	https://tjj.km.gov.cn/zfxxgkpt/fdzdgknr/ldxx/	副局长		昆明市统计局	https://tjj.km.gov.cn/c/2026-02-27/4134105.shtml	2732
+董皎		6		云南省	昆明市	https://tjj.km.gov.cn/zfxxgkpt/fdzdgknr/ldxx/	副局长		昆明市统计局	https://tjj.km.gov.cn/c/2026-05-21/5083475.shtml	2732
+汤杰		7		云南省	昆明市	https://tjj.km.gov.cn/zfxxgkpt/fdzdgknr/ldxx/	普查中心主任		昆明市统计局	https://tjj.km.gov.cn/c/2026-02-27/3891440.shtml	2732
+黄海风		8		云南省	昆明市	https://tjj.km.gov.cn/zfxxgkpt/fdzdgknr/ldxx/	调研员		昆明市统计局	https://tjj.km.gov.cn/c/2026-02-27/3891439.shtml	2732
+夏细仁		9		云南省	昆明市	https://tjj.km.gov.cn/zfxxgkpt/fdzdgknr/ldxx/	调研员		昆明市统计局	https://tjj.km.gov.cn/c/2026-02-27/3891438.shtml	2732
+李学文		10		云南省	昆明市	https://tjj.km.gov.cn/zfxxgkpt/fdzdgknr/ldxx/	调研员		昆明市统计局	https://tjj.km.gov.cn/c/2026-02-27/3891435.shtml	2732
+李蕾		11		云南省	昆明市	https://tjj.km.gov.cn/zfxxgkpt/fdzdgknr/ldxx/	调研员		昆明市统计局	https://tjj.km.gov.cn/c/2026-02-27/4904779.shtml	2732
+熊和锴		12		云南省	昆明市	https://tjj.km.gov.cn/zfxxgkpt/fdzdgknr/ldxx/	调研员		昆明市统计局	https://tjj.km.gov.cn/c/2026-02-27/4904781.shtml	2732
+赵红英		13		云南省	昆明市	https://tjj.km.gov.cn/zfxxgkpt/fdzdgknr/ldxx/	调研员		昆明市统计局	https://tjj.km.gov.cn/c/2026-04-09/5069991.shtml	2732
+阮晋		14		云南省	昆明市	https://tjj.km.gov.cn/zfxxgkpt/fdzdgknr/ldxx/	调研员		昆明市统计局	https://tjj.km.gov.cn/c/2026-02-27/3891208.shtml	2732
+陈尧		15		云南省	昆明市	https://tjj.km.gov.cn/zfxxgkpt/fdzdgknr/ldxx/	总统计师		昆明市统计局	https://tjj.km.gov.cn/c/2026-02-27/3891194.shtml	2732

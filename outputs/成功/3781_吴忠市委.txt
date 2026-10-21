@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+门立群		1		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	市委书记		吴忠市委		3781
+白学贵		2		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	市委副书记		吴忠市委		3781
+林栋		3		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	市委副书记		吴忠市委		3781
+万玉忠		4		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	市委常委		吴忠市委		3781
+苏焕喜		5		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	市委常委		吴忠市委		3781
+梁庆		6		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	市委常委		吴忠市委		3781
+查碧然		7		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	市委常委		吴忠市委		3781
+米成坤		8		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	市委常委		吴忠市委		3781
+文学智		9		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	市委常委		吴忠市委		3781
+吴皓		10		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	市委常委		吴忠市委		3781
+马学峰		11		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	市委常委		吴忠市委		3781

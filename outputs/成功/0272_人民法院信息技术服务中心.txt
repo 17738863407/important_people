@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+冯涛		1		全国		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/441.html	主任		人民法院信息技术服务中心		0272
+陈奇伟		2		全国		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/441.html	副主任		人民法院信息技术服务中心		0272
+陈宝贵		3		全国		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/441.html	副主任		人民法院信息技术服务中心		0272
+闫平超		4		全国		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/441.html	总工程师		人民法院信息技术服务中心		0272

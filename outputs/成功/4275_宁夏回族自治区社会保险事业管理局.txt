@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何爱燕		1		宁夏回族自治区		http://si.nx.gov.cn/xxgkai/xxgk/dwgk/jld/	自治区人力资源和社会保障厅党组成员、社会保险事业管理局局长		宁夏回族自治区社会保险事业管理局	http://si.nx.gov.cn/xxgkai/xxgk/dwgk/jld/202112/t20211217_3231708.html	4275
+马军武		2		宁夏回族自治区		http://si.nx.gov.cn/xxgkai/xxgk/dwgk/jld/	自治区社会保险事业管理局二级巡视员		宁夏回族自治区社会保险事业管理局	http://si.nx.gov.cn/xxgkai/xxgk/dwgk/jld/202201/t20220107_3275873.html	4275
+田丁		3		宁夏回族自治区		http://si.nx.gov.cn/xxgkai/xxgk/dwgk/jld/	自治区社会保险事业管理局副局长		宁夏回族自治区社会保险事业管理局	http://si.nx.gov.cn/xxgkai/xxgk/dwgk/jld/202207/t20220714_3609161.html	4275
+鲁军		4		宁夏回族自治区		http://si.nx.gov.cn/xxgkai/xxgk/dwgk/jld/	自治区社会保险事业管理局副局长		宁夏回族自治区社会保险事业管理局	http://si.nx.gov.cn/xxgkai/xxgk/dwgk/jld/202412/t20241206_4750720.html	4275
+赵启斌		5		宁夏回族自治区		http://si.nx.gov.cn/xxgkai/xxgk/dwgk/jld/	自治区社会保险事业管理局副局长		宁夏回族自治区社会保险事业管理局	http://si.nx.gov.cn/xxgkai/xxgk/dwgk/jld/202407/t20240726_4606365.html	4275

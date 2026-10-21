@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孟凡利		1		全国		http://www.gd.gov.cn/zzllms/zwgk/gdszfld/	省长		广东省人民政府	https://www.gd.gov.cn/zwgk/gdszfld/content/post_4783322.html	0653
+张虎		2		全国		http://www.gd.gov.cn/zzllms/zwgk/gdszfld/	副省长		广东省人民政府	https://www.gd.gov.cn/zwgk/gdszfld/content/post_3815335.html	0653
+张国智		3		全国		http://www.gd.gov.cn/zzllms/zwgk/gdszfld/	副省长		广东省人民政府	https://www.gd.gov.cn/zwgk/gdszfld/content/post_4606247.html	0653
+唐屹峰		4		全国		http://www.gd.gov.cn/zzllms/zwgk/gdszfld/	副省长		广东省人民政府	https://www.gd.gov.cn/zwgk/gdszfld/content/post_4783324.html	0653
+刘国周		5		全国		http://www.gd.gov.cn/zzllms/zwgk/gdszfld/	副省长		广东省人民政府	https://www.gd.gov.cn/zwgk/gdszfld/content/post_4323449.html	0653
+王胜		6		全国		http://www.gd.gov.cn/zzllms/zwgk/gdszfld/	副省长		广东省人民政府	https://www.gd.gov.cn/zwgk/gdszfld/content/post_4500632.html	0653
+陈良贤		7		全国		http://www.gd.gov.cn/zzllms/zwgk/gdszfld/	省政府党组成员		广东省人民政府	https://www.gd.gov.cn/zwgk/gdszfld/content/post_104846.html	0653
+陈敏		8		全国		http://www.gd.gov.cn/zzllms/zwgk/gdszfld/	秘书长		广东省人民政府	https://www.gd.gov.cn/zwgk/gdszfld/content/post_4022599.html	0653

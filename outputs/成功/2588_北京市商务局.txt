@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朴学东		1		北京市		https://sw.beijing.gov.cn/zt/zqxx/ldjl/	北京市商务局党组书记、局长		北京市商务局		2588
+李轶		2		北京市		https://sw.beijing.gov.cn/zt/zqxx/ldjl/	北京市商务局党组成员、副局长		北京市商务局		2588
+赵旗舟		3		北京市		https://sw.beijing.gov.cn/zt/zqxx/ldjl/	北京市商务局党组成员，北京市国际服务贸易事务中心党委书记、主任		北京市商务局		2588
+石崇远		4		北京市		https://sw.beijing.gov.cn/zt/zqxx/ldjl/	北京市商务局党组成员、副局长		北京市商务局		2588
+卢慧玲		5		北京市		https://sw.beijing.gov.cn/zt/zqxx/ldjl/	北京市商务局党组成员、副局长、新闻发言人		北京市商务局		2588
+张华雨		6		北京市		https://sw.beijing.gov.cn/zt/zqxx/ldjl/	北京市商务局党组成员、副局长		北京市商务局		2588
+郭君		7		北京市		https://sw.beijing.gov.cn/zt/zqxx/ldjl/	北京市商务局党组成员、驻局纪检监察组组长		北京市商务局		2588
+庄建蓉		8		北京市		https://sw.beijing.gov.cn/zt/zqxx/ldjl/	北京市商务局党组成员、副局长		北京市商务局		2588
+赵卫东		9		北京市		https://sw.beijing.gov.cn/zt/zqxx/ldjl/	北京市商务局一级巡视员		北京市商务局		2588
+李中双		10		北京市		https://sw.beijing.gov.cn/zt/zqxx/ldjl/	北京市商务局一级巡视员		北京市商务局		2588
+张钢		11		北京市		https://sw.beijing.gov.cn/zt/zqxx/ldjl/	北京市商务局二级巡视员		北京市商务局		2588

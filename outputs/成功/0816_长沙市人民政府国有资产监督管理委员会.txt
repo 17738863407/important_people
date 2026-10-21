@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谭雄伟		1		湖南省	长沙市	http://gzw.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党委书记、主任、一级调研员		长沙市人民政府国有资产监督管理委员会	http://gzw.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202601/t20260126_12259446.html	0816
+邓波		2		湖南省	长沙市	http://gzw.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党委委员、副主任、三级调研员		长沙市人民政府国有资产监督管理委员会	http://gzw.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202608/t20260826_12533625.html	0816
+石素军		3		湖南省	长沙市	http://gzw.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	市纪委市监委驻市国资委纪检监察组组长、三级调研员，市国资委党委委员，四级高级监察官		长沙市人民政府国有资产监督管理委员会	http://gzw.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/201708/t20170807_2881868.html	0816
+旦增平措		4		湖南省	长沙市	http://gzw.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党委委员、副主任		长沙市人民政府国有资产监督管理委员会	http://gzw.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202608/t20260826_12533634.html	0816
+李华		5		湖南省	长沙市	http://gzw.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党委委员、副主任		长沙市人民政府国有资产监督管理委员会	http://gzw.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202505/t20250515_11852539.html	0816
+舒畅		6		湖南省	长沙市	http://gzw.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党委委员、副主任		长沙市人民政府国有资产监督管理委员会	http://gzw.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202510/t20251009_12016362.html	0816

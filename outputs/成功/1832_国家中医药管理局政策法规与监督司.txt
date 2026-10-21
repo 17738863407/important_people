@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱桂		1		全国		http://www.natcm.gov.cn/fajiansi/guanyuwomen/2020-05-22/15269.html	政策法规与监督司司长		国家中医药管理局政策法规与监督司		1832
+张欣霞		2		全国		http://www.natcm.gov.cn/fajiansi/guanyuwomen/2020-05-22/15269.html	政策法规与监督司副司长、二级巡视员		国家中医药管理局政策法规与监督司		1832
+张庆谦		3		全国		http://www.natcm.gov.cn/fajiansi/guanyuwomen/2020-05-22/15269.html	政策法规与监督司副司长		国家中医药管理局政策法规与监督司		1832

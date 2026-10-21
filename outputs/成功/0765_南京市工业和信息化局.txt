@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+叶荣生		1		江苏省	南京市	https://gxj.nanjing.gov.cn/njsjjhxxhwyh/?id=xxgk_215	南京市工业和信息化局局长、党委书记		南京市工业和信息化局		0765
+唐永实		2		江苏省	南京市	https://gxj.nanjing.gov.cn/njsjjhxxhwyh/?id=xxgk_215	南京市工业和信息化局副局长、党委委员		南京市工业和信息化局		0765
+娄伟		3		江苏省	南京市	https://gxj.nanjing.gov.cn/njsjjhxxhwyh/?id=xxgk_215	南京市工业和信息化局副局长、党委委员		南京市工业和信息化局		0765
+代吉上		4		江苏省	南京市	https://gxj.nanjing.gov.cn/njsjjhxxhwyh/?id=xxgk_215	南京市工业和信息化局副局长、党委委员		南京市工业和信息化局		0765
+高千峻		5		江苏省	南京市	https://gxj.nanjing.gov.cn/njsjjhxxhwyh/?id=xxgk_215	南京市工业和信息化局副局长、党委委员		南京市工业和信息化局		0765
+吴刚		6		江苏省	南京市	https://gxj.nanjing.gov.cn/njsjjhxxhwyh/?id=xxgk_215	南京市工业和信息化局副局长、党委委员		南京市工业和信息化局		0765
+方海燕		7		江苏省	南京市	https://gxj.nanjing.gov.cn/njsjjhxxhwyh/?id=xxgk_215	南京市工业和信息化局副局长、党委委员		南京市工业和信息化局		0765
+温拥军		8		江苏省	南京市	https://gxj.nanjing.gov.cn/njsjjhxxhwyh/?id=xxgk_215	南京市工业和信息化局一级调研员		南京市工业和信息化局		0765

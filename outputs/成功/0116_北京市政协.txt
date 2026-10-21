@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+崔述强		1		全国		https://www.beijing.gov.cn/gongkai/sld/	副主席		北京市政协	https://www.beijing.gov.cn/gongkai/sld/szxld/fzx/202201/t20220109_2586270.html	0116
+张家明		2		全国		https://www.beijing.gov.cn/gongkai/sld/	副主席		北京市政协	https://www.beijing.gov.cn/gongkai/sld/szxld/fzx/202201/t20220109_2586273.html	0116
+卢彦		3		全国		https://www.beijing.gov.cn/gongkai/sld/	副主席		北京市政协	https://www.beijing.gov.cn/gongkai/sld/szxld/fzx/202301/t20230119_2905959.html	0116
+王红		4		全国		https://www.beijing.gov.cn/gongkai/sld/	副主席		北京市政协	https://www.beijing.gov.cn/gongkai/sld/szxld/fzx/202201/t20220109_2586279.html	0116
+刘忠范		5		全国		https://www.beijing.gov.cn/gongkai/sld/	副主席		北京市政协	https://www.beijing.gov.cn/gongkai/sld/szxld/fzx/202004/t20200421_1860335.html	0116
+燕瑛		6		全国		https://www.beijing.gov.cn/gongkai/sld/	副主席		北京市政协	https://www.beijing.gov.cn/gongkai/sld/szxld/fzx/202004/t20200421_1860326.html	0116
+王金南		7		全国		https://www.beijing.gov.cn/gongkai/sld/	副主席		北京市政协	https://www.beijing.gov.cn/gongkai/sld/szxld/fzx/202301/t20230119_2905961.html	0116
+郭延红		8		全国		https://www.beijing.gov.cn/gongkai/sld/	副主席		北京市政协	https://www.beijing.gov.cn/gongkai/sld/szxld/fzx/202501/t20250117_3991577.html	0116
+韩子荣		9		全国		https://www.beijing.gov.cn/gongkai/sld/	党组成员		北京市政协	https://www.beijing.gov.cn/gongkai/sld/szxld/dzcy/202303/t20230302_2927442.html	0116
+刘占兴		10		全国		https://www.beijing.gov.cn/gongkai/sld/	秘书长		北京市政协	https://www.beijing.gov.cn/gongkai/sld/szxld/msz/202601/t20260128_4472183.html	0116

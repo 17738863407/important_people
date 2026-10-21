@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王斌		1		山西省	太原市	https://hbj.taiyuan.gov.cn/ldxx2.html	市生态环境局党组书记、局长		太原市生态环境局	https://hbj.taiyuan.gov.cn/ldxx2/20260721/1046602.html	0932
+李吉生		2		山西省	太原市	https://hbj.taiyuan.gov.cn/ldxx2.html	市生态环境局 党组成员、副局长		太原市生态环境局	https://hbj.taiyuan.gov.cn/ldxx2/20260105/30018651.html	0932
+宋力		3		山西省	太原市	https://hbj.taiyuan.gov.cn/ldxx2.html	市生态环境局 副局长、三级调研员		太原市生态环境局	https://hbj.taiyuan.gov.cn/ldxx2/20260105/30260431.html	0932
+刘运文		4		山西省	太原市	https://hbj.taiyuan.gov.cn/ldxx2.html	市生态环境局 党组成员、副局长、三级调研员		太原市生态环境局	https://hbj.taiyuan.gov.cn/ldxx2/20260105/398902.html	0932
+郭亚林		5		山西省	太原市	https://hbj.taiyuan.gov.cn/ldxx2.html	市生态环境局 党组成员、市生态环境保护综合行政执法队队长		太原市生态环境局	https://hbj.taiyuan.gov.cn/ldxx2/20260105/30018656.html	0932
+侯小将		6		山西省	太原市	https://hbj.taiyuan.gov.cn/ldxx2.html	市生态环境局 二级调研员		太原市生态环境局	https://hbj.taiyuan.gov.cn/ldxx2/20260105/633560.html	0932
+孔向明		7		山西省	太原市	https://hbj.taiyuan.gov.cn/ldxx2.html	市生态环境局 二级调研员		太原市生态环境局	https://hbj.taiyuan.gov.cn/ldxx2/20260105/398903.html	0932

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨应龙		1		湖南省	长沙市	http://tjj.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx_1/	市统计局党组书记、局长、一级调研员		长沙市统计局	http://tjj.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx_1/202409/t20240910_11590324.html	2715
+曹敬波		2		湖南省	长沙市	http://tjj.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx_1/	党组成员、副局长、二级调研员		长沙市统计局	http://tjj.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx_1/202004/t20200403_7637190.html	2715
+扶文武		3		湖南省	长沙市	http://tjj.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx_1/	党组成员、副局长、三级调研员		长沙市统计局	http://tjj.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx_1/202010/t20201020_9066581.html	2715
+胡睿懿		4		湖南省	长沙市	http://tjj.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx_1/	总统计师		长沙市统计局	http://tjj.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx_1/202108/t20210811_10117805.html	2715
+刘香群		5		湖南省	长沙市	http://tjj.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx_1/	党组成员、副局长		长沙市统计局	http://tjj.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx_1/202202/t20220218_10474875.html	2715

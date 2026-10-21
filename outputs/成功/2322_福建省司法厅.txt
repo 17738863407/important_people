@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李杰鹏		1		福建省		http://sft.fujian.gov.cn/zwgk/gkxx/ldjs/ljp/	党委书记、厅长,兼任省监狱管理局第一政委		福建省司法厅		2322
+高林		2		福建省		http://sft.fujian.gov.cn/zwgk/gkxx/ldjs/ljp/	党委委员、政治部主任、直属机关党委书记		福建省司法厅	http://sft.fujian.gov.cn/zwgk/gkxx/ldjs/gl/	2322
+钟火阵		3		福建省		http://sft.fujian.gov.cn/zwgk/gkxx/ldjs/ljp/	党委委员，省监狱管理局党委书记、局长		福建省司法厅	http://sft.fujian.gov.cn/zwgk/gkxx/ldjs/zhz/	2322
+潘家明		4		福建省		http://sft.fujian.gov.cn/zwgk/gkxx/ldjs/ljp/	驻厅纪检监察组组长、党委委员		福建省司法厅	http://sft.fujian.gov.cn/zwgk/gkxx/ldjs/pjm/	2322
+黄洪旺		5		福建省		http://sft.fujian.gov.cn/zwgk/gkxx/ldjs/ljp/	党委委员、副厅长		福建省司法厅	http://sft.fujian.gov.cn/zwgk/gkxx/ldjs/hhw/	2322
+郑志奋		6		福建省		http://sft.fujian.gov.cn/zwgk/gkxx/ldjs/ljp/	党委委员、副厅长		福建省司法厅	http://sft.fujian.gov.cn/zwgk/gkxx/ldjs/zzf/	2322
+官文胜		7		福建省		http://sft.fujian.gov.cn/zwgk/gkxx/ldjs/ljp/	党委委员、副厅长		福建省司法厅	http://sft.fujian.gov.cn/zwgk/gkxx/ldjs/gws/	2322
+陈国雄		8		福建省		http://sft.fujian.gov.cn/zwgk/gkxx/ldjs/ljp/	党委委员、副厅长		福建省司法厅	http://sft.fujian.gov.cn/zwgk/gkxx/ldjs/cgx/	2322

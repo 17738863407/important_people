@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王铁		1		黑龙江省	佳木斯市	https://www.jms.gov.cn/jms/c100027/zwgk.shtml	市委书记		佳木斯市委	https://www.jms.gov.cn/jms/c100052/sjpd.shtml	3776
+袁成宝		2		黑龙江省	佳木斯市	https://www.jms.gov.cn/jms/c100027/zwgk.shtml	市委副书记		佳木斯市委	https://www.jms.gov.cn/jms/c102157/szpd.shtml	3776
+张英会		3		黑龙江省	佳木斯市	https://www.jms.gov.cn/jms/c100027/zwgk.shtml	市委副书记		佳木斯市委	https://www.jms.gov.cn/jms/c100045/202507/c04_32235.shtml	3776
+何大海		4		黑龙江省	佳木斯市	https://www.jms.gov.cn/jms/c100027/zwgk.shtml	市委常委		佳木斯市委	https://www.jms.gov.cn/jms/c100044/202507/c04_32123.shtml	3776
+马新辉		5		黑龙江省	佳木斯市	https://www.jms.gov.cn/jms/c100027/zwgk.shtml	市委常委		佳木斯市委	https://www.jms.gov.cn/jms/c100047/202507/c04_32251.shtml	3776
+刘海洋		6		黑龙江省	佳木斯市	https://www.jms.gov.cn/jms/c100027/zwgk.shtml	市委常委		佳木斯市委	https://www.jms.gov.cn/jms/c100048/202606/c04_304579.shtml	3776
+徐铭		7		黑龙江省	佳木斯市	https://www.jms.gov.cn/jms/c100027/zwgk.shtml	市委常委		佳木斯市委	https://www.jms.gov.cn/jms/c100049/202507/c04_32736.shtml	3776
+王继武		8		黑龙江省	佳木斯市	https://www.jms.gov.cn/jms/c100027/zwgk.shtml	市委常委		佳木斯市委	https://www.jms.gov.cn/jms/c100060/202507/c04_50146.shtml	3776
+崔一博		9		黑龙江省	佳木斯市	https://www.jms.gov.cn/jms/c100027/zwgk.shtml	市委常委		佳木斯市委	https://www.jms.gov.cn/jms/c101847/202511/c04_251679.shtml	3776
+杨英涛		10		黑龙江省	佳木斯市	https://www.jms.gov.cn/jms/c100027/zwgk.shtml	市委常委		佳木斯市委	https://www.jms.gov.cn/jms/c101848/202511/c04_251682.shtml	3776
+王明颖		11		黑龙江省	佳木斯市	https://www.jms.gov.cn/jms/c100027/zwgk.shtml	市委常委		佳木斯市委	https://www.jms.gov.cn/jms/c102141/202606/c04_304599.shtml	3776

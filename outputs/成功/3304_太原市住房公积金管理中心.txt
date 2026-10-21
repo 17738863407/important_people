@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+魏建宏		1		山西省	太原市	https://zfgjj.taiyuan.gov.cn/ldbz.html	中心党组成员、副主任。		太原市住房公积金管理中心	https://zfgjj.taiyuan.gov.cn/ldbz/20260625/1246903.html	3304
+刘建红		2		山西省	太原市	https://zfgjj.taiyuan.gov.cn/ldbz.html	中心党组成员、副主任。		太原市住房公积金管理中心	https://zfgjj.taiyuan.gov.cn/ldbz/20260625/950572.html	3304
+金志成		3		山西省	太原市	https://zfgjj.taiyuan.gov.cn/ldbz.html	中心党组成员、铁路分中心主任。		太原市住房公积金管理中心	https://zfgjj.taiyuan.gov.cn/ldbz/20260625/1246905.html	3304
+张宇龙		4		山西省	太原市	https://zfgjj.taiyuan.gov.cn/ldbz.html	中心党组成员、副主任		太原市住房公积金管理中心	https://zfgjj.taiyuan.gov.cn/ldbz/20260625/30200650.html	3304
+郭永东		5		山西省	太原市	https://zfgjj.taiyuan.gov.cn/ldbz.html	中心党组书记、主任		太原市住房公积金管理中心	https://zfgjj.taiyuan.gov.cn/ldbz/20260119/30278354.html	3304

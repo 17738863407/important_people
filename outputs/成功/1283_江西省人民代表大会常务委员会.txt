@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+尹弘		1		全国		http://www.jxrd.gov.cn/ldzq/ldhd/	主任		江西省人民代表大会常务委员会	https://jxrd.jxnews.com.cn/ldzq/ldhd/yh/index.shtml	1283
+吴忠琼		2		全国		http://www.jxrd.gov.cn/ldzq/ldhd/	副主任		江西省人民代表大会常务委员会	https://jxrd.jxnews.com.cn/ldzq/ldhd/wzq/index.shtml	1283
+李红军		3		全国		http://www.jxrd.gov.cn/ldzq/ldhd/	副主任		江西省人民代表大会常务委员会	https://jxrd.jxnews.com.cn/ldzq/ldhd/lhj/index.shtml	1283
+罗小云		4		全国		http://www.jxrd.gov.cn/ldzq/ldhd/	副主任		江西省人民代表大会常务委员会	https://jxrd.jxnews.com.cn/ldzq/ldhd/lxy/index.shtml	1283
+张小平		5		全国		http://www.jxrd.gov.cn/ldzq/ldhd/	副主任		江西省人民代表大会常务委员会	https://jxrd.jxnews.com.cn/ldzq/ldhd/zxp/index.shtml	1283
+王少玄		6		全国		http://www.jxrd.gov.cn/ldzq/ldhd/	副主任		江西省人民代表大会常务委员会	https://jxrd.jxnews.com.cn/ldzq/ldhd/wsx/index.shtml	1283
+朱斌		7		全国		http://www.jxrd.gov.cn/ldzq/ldhd/	副主任		江西省人民代表大会常务委员会	https://jxrd.jxnews.com.cn/ldzq/ldhd/zb/index.shtml	1283
+张伟		8		全国		http://www.jxrd.gov.cn/ldzq/ldhd/	副主任		江西省人民代表大会常务委员会	https://jxrd.jxnews.com.cn/ldzq/ldhd/zw/index.shtml	1283
+杨文英		9		全国		http://www.jxrd.gov.cn/ldzq/ldhd/	秘书长		江西省人民代表大会常务委员会	https://jxrd.jxnews.com.cn/ldzq/ldhd/ywy/index.shtml	1283

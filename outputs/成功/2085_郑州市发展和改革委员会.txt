@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+严波		1		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=5	委党组书记、主任、一级调研员		郑州市发展和改革委员会	https://public.zhengzhou.gov.cn/D14Y/9912177.jhtml	2085
+雷新宏		2		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=5	党组成员、一级调研员		郑州市发展和改革委员会	https://public.zhengzhou.gov.cn/D14Y/210604.jhtml	2085
+李伟涛		3		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=5	党组成员、一级调研员		郑州市发展和改革委员会	https://public.zhengzhou.gov.cn/D14Y/294927.jhtml	2085
+杨欣		4		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=5	党组成员、一级调研员		郑州市发展和改革委员会	https://public.zhengzhou.gov.cn/D14Y/294885.jhtml	2085
+张伟杰		5		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=5	党组成员、副主任，三级调研员		郑州市发展和改革委员会	https://public.zhengzhou.gov.cn/D14Y/299358.jhtml	2085
+欧阳春晖		6		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=5	党组成员、副主任		郑州市发展和改革委员会	https://public.zhengzhou.gov.cn/D14Y/6980535.jhtml	2085
+李彦林		7		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=5	党组成员、市纪委监委驻市发展改革委纪检监察组组长		郑州市发展和改革委员会	https://public.zhengzhou.gov.cn/D14Y/8764966.jhtml	2085

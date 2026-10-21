@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张锐		1		广东省	广州市	https://gaj.gz.gov.cn/gkmlpt/index#316	广州市人民政府副市长、党组成员，市公安局党委书记、局长、督察长，市委政法委第一副书记		广州市公安局	https://gaj.gz.gov.cn/gkmlpt/content/7/7931/post_7931382.html	0610
+杨炳升		2		广东省	广州市	https://gaj.gz.gov.cn/gkmlpt/index#316	广州市公安局党委副书记、分管日常工作的副局长（正局级）、一级警务专员		广州市公安局	https://gaj.gz.gov.cn/gkmlpt/content/5/5671/post_5671589.html	0610
+沈斌		3		广东省	广州市	https://gaj.gz.gov.cn/gkmlpt/index#316	广州市公安局党委委员、特勤局党委书记、局长		广州市公安局	https://gaj.gz.gov.cn/gkmlpt/content/11/11029/post_11029709.html	0610
+梁里明		4		广东省	广州市	https://gaj.gz.gov.cn/gkmlpt/index#316	广州市公安局党委委员、市纪委监委驻市公安局纪检监察组组长		广州市公安局	https://gaj.gz.gov.cn/gkmlpt/content/8/8275/post_8275595.html	0610
+彭风华		5		广东省	广州市	https://gaj.gz.gov.cn/gkmlpt/index#316	广州市公安局党委委员、副局长、二级警务专员		广州市公安局	https://gaj.gz.gov.cn/gkmlpt/content/7/7750/post_7750447.html	0610
+刘奕鹏		6		广东省	广州市	https://gaj.gz.gov.cn/gkmlpt/index#316	广州市公安局党委委员、副局长、二级警务专员		广州市公安局	https://gaj.gz.gov.cn/gkmlpt/content/9/9239/post_9239535.html	0610
+周如俊		7		广东省	广州市	https://gaj.gz.gov.cn/gkmlpt/index#316	广州市公安局党委委员、政治部主任		广州市公安局	https://gaj.gz.gov.cn/gkmlpt/content/9/9500/post_9500760.html	0610
+陈志勇		8		广东省	广州市	https://gaj.gz.gov.cn/gkmlpt/index#316	广州市公安局党委委员、副局长、二级警务专员		广州市公安局	https://gaj.gz.gov.cn/gkmlpt/content/10/10035/post_10035518.html	0610
+焦志伟		9		广东省	广州市	https://gaj.gz.gov.cn/gkmlpt/index#316	广州市公安局党委委员、副局长、二级警务专员		广州市公安局	https://gaj.gz.gov.cn/gkmlpt/content/10/10035/post_10035533.html	0610
+周拯		10		广东省	广州市	https://gaj.gz.gov.cn/gkmlpt/index#316	广州市公安局党委委员、副局长		广州市公安局	https://gaj.gz.gov.cn/gkmlpt/content/11/11029/post_11029714.html	0610

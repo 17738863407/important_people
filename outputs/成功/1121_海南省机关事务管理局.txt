@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+文榛		1		海南省		https://jgsw.hainan.gov.cn/jgsw/62576/ldjs.shtml	省委副秘书长、省机关事务管理局（省接待办公室）局长（主任）		海南省机关事务管理局		1121
+邱雨		2		海南省		https://jgsw.hainan.gov.cn/jgsw/62576/ldjs.shtml	省机关事务管理局（省接待办公室）副局长（副主任）		海南省机关事务管理局		1121
+冯江涛		3		海南省		https://jgsw.hainan.gov.cn/jgsw/62576/ldjs.shtml	省机关事务管理局（省接待办公室）副局长（副主任）		海南省机关事务管理局		1121
+孟绮垚		4		海南省		https://jgsw.hainan.gov.cn/jgsw/62576/ldjs.shtml	省机关事务管理局（省接待办公室）副局长（副主任）		海南省机关事务管理局		1121
+李海生		5		海南省		https://jgsw.hainan.gov.cn/jgsw/62576/ldjs.shtml	省机关事务管理局（省接待办公室）二级巡视员		海南省机关事务管理局		1121
+周大卿		6		海南省		https://jgsw.hainan.gov.cn/jgsw/62576/ldjs.shtml	省机关事务管理局（省接待办公室）二级巡视员		海南省机关事务管理局		1121
+陈王		7		海南省		https://jgsw.hainan.gov.cn/jgsw/62576/ldjs.shtml	省机关事务管理局（省接待办公室）二级巡视员		海南省机关事务管理局		1121

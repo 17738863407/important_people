@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+文岗		1		全国		http://www.cnmc.com.cn/cnmc/gywm/gltd/A002002003Gone1.html	党委书记 董事长		中国有色矿业集团有限公司		3482
+张晋军		2		全国		http://www.cnmc.com.cn/cnmc/gywm/gltd/A002002003Gone1.html	党委副书记 董事、总经理		中国有色矿业集团有限公司		3482
+安宜		3		全国		http://www.cnmc.com.cn/cnmc/gywm/gltd/A002002003Gone1.html	党委委员 总会计师		中国有色矿业集团有限公司		3482
+范巍		4		全国		http://www.cnmc.com.cn/cnmc/gywm/gltd/A002002003Gone1.html	党委委员 副总经理		中国有色矿业集团有限公司		3482
+刘宇		5		全国		http://www.cnmc.com.cn/cnmc/gywm/gltd/A002002003Gone1.html	党委委员 副总经理		中国有色矿业集团有限公司		3482
+王焱		6		全国		http://www.cnmc.com.cn/cnmc/gywm/gltd/A002002003Gone1.html	党委委员 副总经理		中国有色矿业集团有限公司		3482
+徐锋		7		全国		http://www.cnmc.com.cn/cnmc/gywm/gltd/A002002003Gone1.html	党委委员 纪委书记		中国有色矿业集团有限公司		3482

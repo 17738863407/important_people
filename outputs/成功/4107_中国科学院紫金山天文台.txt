@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵长印		1		全国		https://pmo.cas.cn/ztjj2019/xrld2019/	台长		中国科学院紫金山天文台	https://pmo.cas.cn/ztjj2019/xrld2019/201910/t20191029_5413698.html	4107
+毛瑞青		2		全国		https://pmo.cas.cn/ztjj2019/xrld2019/	党委书记、副台长		中国科学院紫金山天文台	https://pmo.cas.cn/ztjj2019/xrld2019/201909/t20190916_5389734.html	4107
+蔡华伟		3		全国		https://pmo.cas.cn/ztjj2019/xrld2019/	党委副书记、纪委书记		中国科学院紫金山天文台	https://pmo.cas.cn/ztjj2019/xrld2019/202102/t20210209_5891572.html	4107
+吴雪峰		4		全国		https://pmo.cas.cn/ztjj2019/xrld2019/	副台长		中国科学院紫金山天文台	https://pmo.cas.cn/ztjj2019/xrld2019/201909/t20190916_5389732.html	4107
+范一中		5		全国		https://pmo.cas.cn/ztjj2019/xrld2019/	副台长		中国科学院紫金山天文台	https://pmo.cas.cn/ztjj2019/xrld2019/202205/t20220512_6447154.html	4107

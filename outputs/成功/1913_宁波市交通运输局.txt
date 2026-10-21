@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+钱荣		1		浙江省	宁波市	https://www.ningbo.gov.cn/col/col1229218843/index.html	局长、党组书记、市港口管理局 局长		宁波市交通运输局	https://www.ningbo.gov.cn/art/2026/3/23/art_1229218843_183894.html	1913
+樊献鹏		2		浙江省	宁波市	https://www.ningbo.gov.cn/col/col1229218843/index.html	副局长、党组成员		宁波市交通运输局	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218843_26015.html	1913
+张兴国		3		浙江省	宁波市	https://www.ningbo.gov.cn/col/col1229218843/index.html	驻局纪检监察组组长、局党组成员		宁波市交通运输局	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218843_26013.html	1913
+余国才		4		浙江省	宁波市	https://www.ningbo.gov.cn/col/col1229218843/index.html	副局长、党组成员		宁波市交通运输局	https://www.ningbo.gov.cn/art/2023/11/10/art_1229218843_149679.html	1913
+左振果		5		浙江省	宁波市	https://www.ningbo.gov.cn/col/col1229218843/index.html	副局长、党组成员、二级巡视员		宁波市交通运输局	https://www.ningbo.gov.cn/art/2023/11/10/art_1229218843_149678.html	1913
+董健		6		浙江省	宁波市	https://www.ningbo.gov.cn/col/col1229218843/index.html	副局长、党组成员		宁波市交通运输局	https://www.ningbo.gov.cn/art/2023/11/10/art_1229218843_149680.html	1913
+胡琼		7		浙江省	宁波市	https://www.ningbo.gov.cn/col/col1229218843/index.html	副局长、党组成员		宁波市交通运输局	https://www.ningbo.gov.cn/art/2024/12/9/art_1229218843_170346.html	1913
+蔡键		8		浙江省	宁波市	https://www.ningbo.gov.cn/col/col1229218843/index.html	副局长、市邮政管理局局长		宁波市交通运输局	https://www.ningbo.gov.cn/art/2020/7/30/art_1229218843_26003.html	1913
+楼滨正		9		浙江省	宁波市	https://www.ningbo.gov.cn/col/col1229218843/index.html	海铁联运办公室副主任、党组成员、市港口管理局副局长		宁波市交通运输局	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218843_26009.html	1913
+陈美红		10		浙江省	宁波市	https://www.ningbo.gov.cn/col/col1229218843/index.html	党组成员		宁波市交通运输局	https://www.ningbo.gov.cn/art/2022/10/13/art_1229218843_134665.html	1913
+叶昌勇		11		浙江省	宁波市	https://www.ningbo.gov.cn/col/col1229218843/index.html	总工程师		宁波市交通运输局	https://www.ningbo.gov.cn/art/2025/2/6/art_1229218843_173794.html	1913
+顾伟军		12		浙江省	宁波市	https://www.ningbo.gov.cn/col/col1229218843/index.html	二级巡视员		宁波市交通运输局	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218843_26016.html	1913
+杨一松		13		浙江省	宁波市	https://www.ningbo.gov.cn/col/col1229218843/index.html	二级巡视员		宁波市交通运输局	https://www.ningbo.gov.cn/col/col1229218843/art/2026/art_12d8805a94194b5db40434d486b31b6e.html	1913

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨阳		1		天津市		https://zfcxjs.tj.gov.cn/xxgk_70/jggk/ldjs/	党委书记、主任		天津市住房和城乡建设委员会	https://zfcxjs.tj.gov.cn/xxgk_70/jggk/ldjs/yy_1/202608/t20260828_7360831.html	3295
+宋国		2		天津市		https://zfcxjs.tj.gov.cn/xxgk_70/jggk/ldjs/	党委委员、一级巡视员		天津市住房和城乡建设委员会	https://zfcxjs.tj.gov.cn/xxgk_70/jggk/ldjs/ldjssg_1/202408/t20240801_6689561.html	3295
+张志远		3		天津市		https://zfcxjs.tj.gov.cn/xxgk_70/jggk/ldjs/	党委委员、市纪委监委驻市住房城乡建设委纪检监察组组长		天津市住房和城乡建设委员会	https://zfcxjs.tj.gov.cn/xxgk_70/jggk/ldjs/zzy_1/202408/t20240801_6689569.html	3295
+安承明		4		天津市		https://zfcxjs.tj.gov.cn/xxgk_70/jggk/ldjs/	党委委员、副主任、一级巡视员		天津市住房和城乡建设委员会	https://zfcxjs.tj.gov.cn/xxgk_70/jggk/ldjs/acm_1/202408/t20240801_6689571.html	3295
+王荃		5		天津市		https://zfcxjs.tj.gov.cn/xxgk_70/jggk/ldjs/	党委委员、副主任		天津市住房和城乡建设委员会	https://zfcxjs.tj.gov.cn/xxgk_70/jggk/ldjs/wq_1/202408/t20240801_6689574.html	3295
+王晨		6		天津市		https://zfcxjs.tj.gov.cn/xxgk_70/jggk/ldjs/	党委委员、副主任		天津市住房和城乡建设委员会	https://zfcxjs.tj.gov.cn/xxgk_70/jggk/ldjs/wc_1/202408/t20240801_6689577.html	3295
+叶炜		7		天津市		https://zfcxjs.tj.gov.cn/xxgk_70/jggk/ldjs/	党委委员、副主任		天津市住房和城乡建设委员会	https://zfcxjs.tj.gov.cn/xxgk_70/jggk/ldjs/yw_1/202408/t20240801_6689582.html	3295
+王士敏		8		天津市		https://zfcxjs.tj.gov.cn/xxgk_70/jggk/ldjs/	党委委员、副主任		天津市住房和城乡建设委员会	https://zfcxjs.tj.gov.cn/xxgk_70/jggk/ldjs/wsm/202412/t20241231_6821260.html	3295
+侯学钢		9		天津市		https://zfcxjs.tj.gov.cn/xxgk_70/jggk/ldjs/	党委委员、一级巡视员		天津市住房和城乡建设委员会	https://zfcxjs.tj.gov.cn/xxgk_70/jggk/ldjs/hxg_1/202408/t20240801_6689586.html	3295

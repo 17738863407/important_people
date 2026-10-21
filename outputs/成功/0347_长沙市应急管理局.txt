@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴平辉		1		湖南省	长沙市	http://cssafe.changsha.gov.cn/zfxxgk/fdzdgknr/cssaj_ldxx/	长沙市应急管理局党委书记、局长		长沙市应急管理局	http://cssafe.changsha.gov.cn/zfxxgk/fdzdgknr/cssaj_ldxx/202406/t20240607_11467748.html	0347
+刘瑶		2		湖南省	长沙市	http://cssafe.changsha.gov.cn/zfxxgk/fdzdgknr/cssaj_ldxx/	长沙市应急管理局党委委员、副局长		长沙市应急管理局	http://cssafe.changsha.gov.cn/zfxxgk/fdzdgknr/cssaj_ldxx/202009/t20200904_8900730.html	0347
+陈集中		3		湖南省	长沙市	http://cssafe.changsha.gov.cn/zfxxgk/fdzdgknr/cssaj_ldxx/	长沙市应急管理局党委委员、副局长，市水利局党组成员、副局长		长沙市应急管理局	http://cssafe.changsha.gov.cn/zfxxgk/fdzdgknr/cssaj_ldxx/202205/t20220511_10567766.html	0347
+李湘平		4		湖南省	长沙市	http://cssafe.changsha.gov.cn/zfxxgk/fdzdgknr/cssaj_ldxx/	长沙市应急管理局党委委员、政治部主任		长沙市应急管理局	http://cssafe.changsha.gov.cn/zfxxgk/fdzdgknr/cssaj_ldxx/202408/t20240808_11517299.html	0347
+黄永红		5		湖南省	长沙市	http://cssafe.changsha.gov.cn/zfxxgk/fdzdgknr/cssaj_ldxx/	长沙市应急管理局党委委员、副局长		长沙市应急管理局	http://cssafe.changsha.gov.cn/zfxxgk/fdzdgknr/cssaj_ldxx/202511/t20251121_12073402.html	0347
+张韧		6		湖南省	长沙市	http://cssafe.changsha.gov.cn/zfxxgk/fdzdgknr/cssaj_ldxx/	长沙市应急管理局党委委员、副局长		长沙市应急管理局	http://cssafe.changsha.gov.cn/zfxxgk/fdzdgknr/cssaj_ldxx/202609/t20260928_12578014.html	0347

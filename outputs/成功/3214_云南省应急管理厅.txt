@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李国材		1		云南省		https://yjglt.yn.gov.cn/html/2022/zhengwugongkai/fdzdgknr/jigouzz/#tp	党委书记、厅长，省消防救援总队第一政治委员		云南省应急管理厅		3214
+文彬		2		云南省		https://yjglt.yn.gov.cn/html/2022/zhengwugongkai/fdzdgknr/jigouzz/#tp	党委委员、副厅长，省林草局党组成员		云南省应急管理厅		3214
+王凯石		3		云南省		https://yjglt.yn.gov.cn/html/2022/zhengwugongkai/fdzdgknr/jigouzz/#tp	党委委员、副厅长		云南省应急管理厅		3214
+冯荣		4		云南省		https://yjglt.yn.gov.cn/html/2022/zhengwugongkai/fdzdgknr/jigouzz/#tp	党委委员、政治部主任		云南省应急管理厅		3214
+杨永耀		5		云南省		https://yjglt.yn.gov.cn/html/2022/zhengwugongkai/fdzdgknr/jigouzz/#tp	党委委员、副厅长		云南省应急管理厅		3214
+王旭斌		6		云南省		https://yjglt.yn.gov.cn/html/2022/zhengwugongkai/fdzdgknr/jigouzz/#tp	党委委员、副厅长		云南省应急管理厅		3214
+李志刚		7		云南省		https://yjglt.yn.gov.cn/html/2022/zhengwugongkai/fdzdgknr/jigouzz/#tp	党委委员、副厅长		云南省应急管理厅		3214
+李存贵		8		云南省		https://yjglt.yn.gov.cn/html/2022/zhengwugongkai/fdzdgknr/jigouzz/#tp	一级巡视员，省红十字会副会长		云南省应急管理厅		3214
+孟凡兵		9		云南省		https://yjglt.yn.gov.cn/html/2022/zhengwugongkai/fdzdgknr/jigouzz/#tp	二级巡视员		云南省应急管理厅		3214

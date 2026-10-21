@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郭少新		1		宁夏回族自治区		https://www.nxcy.edu.cn/xxgk/xxld.htm	党委书记		宁夏财经职业技术学院	https://www.nxcy.edu.cn/info/1013/12553.htm	4278
+陈伏豪		2		宁夏回族自治区		https://www.nxcy.edu.cn/xxgk/xxld.htm	党委副书记 校长		宁夏财经职业技术学院	https://www.nxcy.edu.cn/info/1013/10802.htm	4278
+孙冬梅		3		宁夏回族自治区		https://www.nxcy.edu.cn/xxgk/xxld.htm	党委委员 副书记		宁夏财经职业技术学院	https://www.nxcy.edu.cn/info/1013/13931.htm	4278
+马成旭		4		宁夏回族自治区		https://www.nxcy.edu.cn/xxgk/xxld.htm	党委委员 副校长		宁夏财经职业技术学院	https://www.nxcy.edu.cn/info/1013/10799.htm	4278
+孙月华		5		宁夏回族自治区		https://www.nxcy.edu.cn/xxgk/xxld.htm	党委委员 副校长		宁夏财经职业技术学院	https://www.nxcy.edu.cn/info/1013/11879.htm	4278
+韩波		6		宁夏回族自治区		https://www.nxcy.edu.cn/xxgk/xxld.htm	党委委员 纪委书记		宁夏财经职业技术学院	https://www.nxcy.edu.cn/info/1013/12375.htm	4278

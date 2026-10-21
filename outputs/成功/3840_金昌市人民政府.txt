@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王琳玺		1		甘肃省	金昌市	https://www.jcs.gov.cn/ldzc/swld/index.html	市委副书记、市长		金昌市人民政府	https://www.jcs.gov.cn/ldzc/szfld/sz/wlx/index.html	3840
+郝爱龙		2		甘肃省	金昌市	https://www.jcs.gov.cn/ldzc/swld/index.html	市委常委、常务副市长		金昌市人民政府	https://www.jcs.gov.cn/ldzc/szfld/fsz/hal/index.html	3840
+马元永		3		甘肃省	金昌市	https://www.jcs.gov.cn/ldzc/swld/index.html	副市长		金昌市人民政府	https://www.jcs.gov.cn/ldzc/szfld/fsz/myy/index.html	3840
+王文华		4		甘肃省	金昌市	https://www.jcs.gov.cn/ldzc/swld/index.html	副市长		金昌市人民政府	https://www.jcs.gov.cn/ldzc/szfld/fsz/wwh/index.html	3840
+董丽杰		5		甘肃省	金昌市	https://www.jcs.gov.cn/ldzc/swld/index.html	副市长		金昌市人民政府	https://www.jcs.gov.cn/ldzc/szfld/fsz/dlj/index.html	3840
+展之春		6		甘肃省	金昌市	https://www.jcs.gov.cn/ldzc/swld/index.html	副市长		金昌市人民政府	https://www.jcs.gov.cn/ldzc/szfld/fsz/zzc/index.html	3840
+李辉		7		甘肃省	金昌市	https://www.jcs.gov.cn/ldzc/swld/index.html	副市长		金昌市人民政府	https://www.jcs.gov.cn/ldzc/szfld/fsz/lh/index.html	3840
+来进明		8		甘肃省	金昌市	https://www.jcs.gov.cn/ldzc/swld/index.html	副市长		金昌市人民政府	https://www.jcs.gov.cn/ldzc/szfld/fsz/ljm/index.html	3840
+李生虎		9		甘肃省	金昌市	https://www.jcs.gov.cn/ldzc/swld/index.html	市政府副市长人选、党组成员		金昌市人民政府	https://www.jcs.gov.cn/ldzc/szfld/fsz/lsh/index.html	3840
+胡俊荣		10		甘肃省	金昌市	https://www.jcs.gov.cn/ldzc/swld/index.html	市政府秘书长		金昌市人民政府	https://www.jcs.gov.cn/nfzlm/hjr/index.html	3840

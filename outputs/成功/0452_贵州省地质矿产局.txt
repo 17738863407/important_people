@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+潘大福		1		贵州省		https://dk.guizhou.gov.cn/xxgk/zfxxgk_2021/fdzdgknr/jgjj/	党委书记、局长，兼机关党委书记		贵州省地质矿产局	https://dk.guizhou.gov.cn/xxgk/zfxxgk_2021/fdzdgknr/jgjj/ldzc1/202503/t20250318_87196326.html	0452
+张淼		2		贵州省		https://dk.guizhou.gov.cn/xxgk/zfxxgk_2021/fdzdgknr/jgjj/	党委委员、副局长		贵州省地质矿产局	https://dk.guizhou.gov.cn/xxgk/zfxxgk_2021/fdzdgknr/jgjj/ldzc1/202503/t20250318_87196323.html	0452
+黄华		3		贵州省		https://dk.guizhou.gov.cn/xxgk/zfxxgk_2021/fdzdgknr/jgjj/	党委委员、副局长		贵州省地质矿产局	https://dk.guizhou.gov.cn/xxgk/zfxxgk_2021/fdzdgknr/jgjj/ldzc1/202607/t20260731_90680109.html	0452
+赵福中		4		贵州省		https://dk.guizhou.gov.cn/xxgk/zfxxgk_2021/fdzdgknr/jgjj/	党委委员、副局长		贵州省地质矿产局	https://dk.guizhou.gov.cn/xxgk/zfxxgk_2021/fdzdgknr/jgjj/ldzc1/202503/t20250318_87196327.html	0452

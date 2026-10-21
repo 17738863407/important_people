@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙珅		1		黑龙江省	哈尔滨市	https://www.hrbzx.gov.cn/node_8974.htm	主席、党组书记		哈尔滨市政协		1008
+胡宝忠		2		黑龙江省	哈尔滨市	https://www.hrbzx.gov.cn/node_8974.htm	副主席		哈尔滨市政协		1008
+刘柏辉		3		黑龙江省	哈尔滨市	https://www.hrbzx.gov.cn/node_8974.htm	副主席		哈尔滨市政协		1008
+袁德柱		4		黑龙江省	哈尔滨市	https://www.hrbzx.gov.cn/node_8974.htm	副主席		哈尔滨市政协		1008
+徐伟		5		黑龙江省	哈尔滨市	https://www.hrbzx.gov.cn/node_8974.htm	副主席		哈尔滨市政协		1008
+张荣华		6		黑龙江省	哈尔滨市	https://www.hrbzx.gov.cn/node_8974.htm	副主席		哈尔滨市政协		1008
+张雪春		7		黑龙江省	哈尔滨市	https://www.hrbzx.gov.cn/node_8974.htm	副主席、党组成员		哈尔滨市政协		1008
+许永斌		8		黑龙江省	哈尔滨市	https://www.hrbzx.gov.cn/node_8974.htm	副主席、党组成员		哈尔滨市政协		1008

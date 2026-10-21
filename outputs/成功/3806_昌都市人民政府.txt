@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+罗庆伍		1		西藏自治区	昌都市	https://www.changdu.gov.cn/cdrmzf/c101567/zfxxgk_zfld.shtml	昌都市委副书记、市人民政府市长		昌都市人民政府	https://www.changdu.gov.cn/cdrmzf/c101567/201903/3121b580f8be457a978463186d6e36c4.shtml	3806
+谭昊		2		西藏自治区	昌都市	https://www.changdu.gov.cn/cdrmzf/c101567/zfxxgk_zfld.shtml	市委副书记、常务副市长		昌都市人民政府	https://www.changdu.gov.cn/cdrmzf/c101567/202509/83b705d678e940c2938f53f4c35ee8d2.shtml	3806
+李树国		3		西藏自治区	昌都市	https://www.changdu.gov.cn/cdrmzf/c101567/zfxxgk_zfld.shtml	市委副书记、常务副市长		昌都市人民政府	https://www.changdu.gov.cn/cdrmzf/c101567/202509/615bc83370fb4b10a28e2a4043ed8da4.shtml	3806
+黄国剑		4		西藏自治区	昌都市	https://www.changdu.gov.cn/cdrmzf/c101567/zfxxgk_zfld.shtml	市委副书记、常务副市长		昌都市人民政府	https://www.changdu.gov.cn/cdrmzf/c101567/202509/40fe20c87d7e45f681e8cc7f31176951.shtml	3806
+蒲玉辉		5		西藏自治区	昌都市	https://www.changdu.gov.cn/cdrmzf/c101567/zfxxgk_zfld.shtml	副市长		昌都市人民政府	https://www.changdu.gov.cn/cdrmzf/c101567/202309/7a21552c2b0a4f75a071cd6f9b41b7b7.shtml	3806
+尼玛次仁		6		西藏自治区	昌都市	https://www.changdu.gov.cn/cdrmzf/c101567/zfxxgk_zfld.shtml	副市长		昌都市人民政府	https://www.changdu.gov.cn/cdrmzf/c101567/202007/d49e1c5a285e41f4bd07df52b8737487.shtml	3806
+米次		7		西藏自治区	昌都市	https://www.changdu.gov.cn/cdrmzf/c101567/zfxxgk_zfld.shtml	副市长		昌都市人民政府	https://www.changdu.gov.cn/cdrmzf/c101567/202508/6366a5997df141fea05df2721b5ee0ce.shtml	3806
+同敏玺绕		8		西藏自治区	昌都市	https://www.changdu.gov.cn/cdrmzf/c101567/zfxxgk_zfld.shtml	副市长		昌都市人民政府	https://www.changdu.gov.cn/cdrmzf/c101567/202310/0269d9dac9dd4a0bb3dc44d7c4262f29.shtml	3806
+杨文升		9		西藏自治区	昌都市	https://www.changdu.gov.cn/cdrmzf/c101567/zfxxgk_zfld.shtml	副市长		昌都市人民政府	https://www.changdu.gov.cn/cdrmzf/c101567/201907/2760e3b1738c4093ae514b701f6acc8c.shtml	3806
+高晓东		10		西藏自治区	昌都市	https://www.changdu.gov.cn/cdrmzf/c101567/zfxxgk_zfld.shtml	副市长		昌都市人民政府	https://www.changdu.gov.cn/cdrmzf/c101567/202508/2226de288963403e9526c0280ec3be40.shtml	3806
+卓玛曲西		11		西藏自治区	昌都市	https://www.changdu.gov.cn/cdrmzf/c101567/zfxxgk_zfld.shtml	副市长		昌都市人民政府	https://www.changdu.gov.cn/cdrmzf/c101567/202508/6a15b3033694461ca63bc3465fa99af5.shtml	3806
+隋辰雨		12		西藏自治区	昌都市	https://www.changdu.gov.cn/cdrmzf/c101567/zfxxgk_zfld.shtml	副市长		昌都市人民政府	https://www.changdu.gov.cn/cdrmzf/c101567/202608/c85c135c80984e05a4cf60c282969f09.shtml	3806
+平措丁增		13		西藏自治区	昌都市	https://www.changdu.gov.cn/cdrmzf/c101567/zfxxgk_zfld.shtml	昌都市人民政府党组成员、秘书长,市政府机关党组书记		昌都市人民政府	https://www.changdu.gov.cn/cdrmzf/c101567/202109/f726b9af58be4545bae63d67a7c0658b.shtml	3806

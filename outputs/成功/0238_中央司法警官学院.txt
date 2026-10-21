@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+甄文涛		1		河北省	保定市	https://www.cicp.edu.cn/ldbz.jhtml	党委书记		中央司法警官学院		0238
+章恩友		2		河北省	保定市	https://www.cicp.edu.cn/ldbz.jhtml	党委副书记、院长		中央司法警官学院		0238
+刘建会		3		河北省	保定市	https://www.cicp.edu.cn/ldbz.jhtml	党委副书记		中央司法警官学院		0238
+王林		4		河北省	保定市	https://www.cicp.edu.cn/ldbz.jhtml	党委委员、副院长		中央司法警官学院		0238
+关小琳		5		河北省	保定市	https://www.cicp.edu.cn/ldbz.jhtml	党委委员、纪委书记		中央司法警官学院		0238
+佟自强		6		河北省	保定市	https://www.cicp.edu.cn/ldbz.jhtml	党委委员、政治部主任		中央司法警官学院		0238

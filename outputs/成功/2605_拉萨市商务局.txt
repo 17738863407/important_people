@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蒋曦		1		西藏自治区	拉萨市	http://swj.lasa.gov.cn/swj/shuji/ldxx_list.shtml	党组书记、副局长		拉萨市商务局	http://swj.lasa.gov.cn/swj/shuji/202407/e87c24a416404512bbcc1d3bd0d42fea.shtml	2605
+叶海缨		2		西藏自治区	拉萨市	http://swj.lasa.gov.cn/swj/shuji/ldxx_list.shtml	党组副书记、局长		拉萨市商务局	http://swj.lasa.gov.cn/swj/thsz/202508/8a2919e3f9924e70af365e3435d05e3b.shtml	2605
+刘代红		3		西藏自治区	拉萨市	http://swj.lasa.gov.cn/swj/shuji/ldxx_list.shtml	党组成员、副局长		拉萨市商务局	http://swj.lasa.gov.cn/swj/ehsz/202512/ae49ce4c8749436e8663ec43a4285375.shtml	2605
+普布顿珠		4		西藏自治区	拉萨市	http://swj.lasa.gov.cn/swj/shuji/ldxx_list.shtml	党组成员、二级调研员		拉萨市商务局	http://swj.lasa.gov.cn/swj/ehsz/202112/a8d22bda6e1243539b137bc7328dc6b0.shtml	2605
+邓文胜		5		西藏自治区	拉萨市	http://swj.lasa.gov.cn/swj/shuji/ldxx_list.shtml	党组成员、副局长、三级调研员		拉萨市商务局	http://swj.lasa.gov.cn/swj/ehsz/202311/8f262a03f6c146e69220a646982b0ece.shtml	2605
+车西敏		6		西藏自治区	拉萨市	http://swj.lasa.gov.cn/swj/shuji/ldxx_list.shtml	党组成员、副局长		拉萨市商务局	http://swj.lasa.gov.cn/swj/ehsz/201910/1950a49b3a04451893ce201e0668735d.shtml	2605
+徐琅		7		西藏自治区	拉萨市	http://swj.lasa.gov.cn/swj/shuji/ldxx_list.shtml	党组成员、副局长		拉萨市商务局	http://swj.lasa.gov.cn/swj/ehsz/201910/7223b34e368c4dd7b73dcbb8c7d8a7ac.shtml	2605
+洛桑旦增		8		西藏自治区	拉萨市	http://swj.lasa.gov.cn/swj/shuji/ldxx_list.shtml	党组成员、供销合作社主任		拉萨市商务局	http://swj.lasa.gov.cn/swj/ehsz/202310/de5e1e939e5e4449906270814eb1398a.shtml	2605

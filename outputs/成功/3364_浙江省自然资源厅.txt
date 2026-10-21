@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邢志宏		1		浙江省		https://www.zj.gov.cn/dctslm/zjszrzyt/index.html	浙江省自然资源厅党组书记、厅长，兼省自然资源总督察、省海洋局局长		浙江省自然资源厅	https://www.zj.gov.cn/art/2024/9/18/art_1229195053_155741.html	3364
+邵向荣		2		浙江省		https://www.zj.gov.cn/dctslm/zjszrzyt/index.html	浙江省自然资源厅党组成员，浙江省地质院党委书记		浙江省自然资源厅	https://www.zj.gov.cn/art/2023/4/12/art_1229195053_148805.html	3364
+胡嘉临		3		浙江省		https://www.zj.gov.cn/dctslm/zjszrzyt/index.html	浙江省自然资源厅党组成员、副厅长、一级巡视员		浙江省自然资源厅	https://www.zj.gov.cn/art/2025/4/8/art_1229195053_148785.html	3364
+闵建平		4		浙江省		https://www.zj.gov.cn/dctslm/zjszrzyt/index.html	浙江省自然资源厅党组成员、一级巡视员		浙江省自然资源厅	https://www.zj.gov.cn/art/2024/9/18/art_1229195053_98520.html	3364
+张佳		5		浙江省		https://www.zj.gov.cn/dctslm/zjszrzyt/index.html	浙江省自然资源厅党组成员、总规划师（保留副厅长级）		浙江省自然资源厅	https://www.zj.gov.cn/art/2024/9/18/art_1229195053_98519.html	3364
+阮飙		6		浙江省		https://www.zj.gov.cn/dctslm/zjszrzyt/index.html	浙江省自然资源厅党组成员、副厅长，兼省海洋局副局长		浙江省自然资源厅	https://www.zj.gov.cn/art/2024/9/18/art_1229195053_98521.html	3364
+许小忠		7		浙江省		https://www.zj.gov.cn/dctslm/zjszrzyt/index.html	浙江省自然资源厅党组成员、副厅长		浙江省自然资源厅	https://www.zj.gov.cn/art/2024/9/18/art_1229195053_98518.html	3364
+李家银		8		浙江省		https://www.zj.gov.cn/dctslm/zjszrzyt/index.html	浙江省自然资源厅党组成员、副厅长		浙江省自然资源厅	https://www.zj.gov.cn/art/2022/10/17/art_1229195053_135590.html	3364
+徐青录		9		浙江省		https://www.zj.gov.cn/dctslm/zjszrzyt/index.html	浙江省自然资源厅党组成员、省纪委省监委驻厅纪检监察组组长		浙江省自然资源厅	https://www.zj.gov.cn/art/2024/9/9/art_1229195053_166249.html	3364

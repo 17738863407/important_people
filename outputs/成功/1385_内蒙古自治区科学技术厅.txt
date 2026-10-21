@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张文韬		1		内蒙古自治区		https://kjt.nmg.gov.cn/zzjg/	厅党组书记、厅长		内蒙古自治区科学技术厅	https://kjt.nmg.gov.cn/zzjg/ldxx/202405/t20240531_2517050.html	1385
+郝喜红		2		内蒙古自治区		https://kjt.nmg.gov.cn/zzjg/	厅党组成员、副厅长		内蒙古自治区科学技术厅	https://kjt.nmg.gov.cn/zzjg/ldxx/202405/t20240531_2517053.html	1385
+刘爽		3		内蒙古自治区		https://kjt.nmg.gov.cn/zzjg/	厅党组成员、副厅长		内蒙古自治区科学技术厅	https://kjt.nmg.gov.cn/zzjg/ldxx/202107/t20210723_1791465.html	1385
+徐斌		4		内蒙古自治区		https://kjt.nmg.gov.cn/zzjg/	厅党组成员、副厅长		内蒙古自治区科学技术厅	https://kjt.nmg.gov.cn/zzjg/ldxx/202508/t20250829_2781591.html	1385
+池波		5		内蒙古自治区		https://kjt.nmg.gov.cn/zzjg/	二级巡视员		内蒙古自治区科学技术厅	https://kjt.nmg.gov.cn/zzjg/ldxx/202503/t20250327_2688717.html	1385
+金龙		6		内蒙古自治区		https://kjt.nmg.gov.cn/zzjg/	二级巡视员		内蒙古自治区科学技术厅	https://kjt.nmg.gov.cn/zzjg/ldxx/202510/t20251014_2802563.html	1385

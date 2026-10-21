@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+姜杉		1		全国		https://www.moj.gov.cn/jgsz/jgszjgtj/jgtjlfej/	局长		司法部立法二局		1652
+叶平		2		全国		https://www.moj.gov.cn/jgsz/jgszjgtj/jgtjlfej/	副局长		司法部立法二局		1652
+张昊		3		全国		https://www.moj.gov.cn/jgsz/jgszjgtj/jgtjlfej/	副局长		司法部立法二局		1652
+朱作鑫		4		全国		https://www.moj.gov.cn/jgsz/jgszjgtj/jgtjlfej/	副局长		司法部立法二局		1652
+张伟		5		全国		https://www.moj.gov.cn/jgsz/jgszjgtj/jgtjlfej/	副局长		司法部立法二局		1652

@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李晖		1		全国		https://hub.chinamine-safety.gov.cn/plus/list.php?tid=15	党组书记、局长		国家矿山安全监察局湖北局	https://hub.chinamine-safety.gov.cn/a/xinxigongkai/lingdaoxinxi/2016/0704/1544.html	4265
+李瑞新		2		全国		https://hub.chinamine-safety.gov.cn/plus/list.php?tid=15	党组成员、副局长		国家矿山安全监察局湖北局	https://hub.chinamine-safety.gov.cn/a/xinxigongkai/lingdaoxinxi/2015/0915/28.html	4265
+李俊锋		3		全国		https://hub.chinamine-safety.gov.cn/plus/list.php?tid=15	党组成员、纪检组长		国家矿山安全监察局湖北局	https://hub.chinamine-safety.gov.cn/a/xinxigongkai/lingdaoxinxi/2015/0915/27.html	4265

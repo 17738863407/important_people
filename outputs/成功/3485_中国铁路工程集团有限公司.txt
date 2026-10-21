@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈文健		1		全国		http://www.crecg.com/web/gywm46/gszl/gsdwcw/index.html	中国铁路工程集团有限公司党委书记、董事长；公司董事长、党委书记		中国铁路工程集团有限公司	https://www.crecg.com/web/gywm46/gszl/dsh/2025021110080043782/index.html	3485
+赵佃龙		2		全国		http://www.crecg.com/web/gywm46/gszl/gsdwcw/index.html	中国铁路工程集团有限公司总经理、董事、党委副书记；公司执行董事、总裁、党委副书记		中国铁路工程集团有限公司	https://www.crecg.com/web/gywm46/gszl/dsh/2026010916310782906/index.html	3485
+张建强		3		全国		http://www.crecg.com/web/gywm46/gszl/gsdwcw/index.html	中国铁路工程集团有限公司党委常委、纪委书记；公司党委委员、纪委书记		中国铁路工程集团有限公司		3485
+任鸿鹏		4		全国		http://www.crecg.com/web/gywm46/gszl/gsdwcw/index.html	中国铁路工程集团有限公司党委常委；公司党委委员、副总裁		中国铁路工程集团有限公司	https://www.crecg.com/web/gywm46/gszl/zcjgg/2025021110093765502/index.html	3485
+黄超		5		全国		http://www.crecg.com/web/gywm46/gszl/gsdwcw/index.html	中国铁路工程集团有限公司党委常委；公司党委委员、副总裁		中国铁路工程集团有限公司	https://www.crecg.com/web/gywm46/gszl/zcjgg/2025021110093726428/index.html	3485
+耿树标		6		全国		http://www.crecg.com/web/gywm46/gszl/gsdwcw/index.html	中国铁路工程集团有限公司党委常委；公司党委委员、副总裁		中国铁路工程集团有限公司	https://www.crecg.com/web/gywm46/gszl/zcjgg/2025021110093775334/index.html	3485
+孔遁		7		全国		http://www.crecg.com/web/gywm46/gszl/gsdwcw/index.html	公司党委委员、副总裁、总工程师		中国铁路工程集团有限公司		3485
+马江黔		8		全国		http://www.crecg.com/web/gywm46/gszl/gsdwcw/index.html	公司党委委员、副总裁		中国铁路工程集团有限公司	https://www.crecg.com/web/gywm46/gszl/zcjgg/2025021110093755066/index.html	3485
+韩永刚		9		全国		http://www.crecg.com/web/gywm46/gszl/gsdwcw/index.html	公司党委委员、副总裁		中国铁路工程集团有限公司	https://www.crecg.com/web/gywm46/gszl/zcjgg/2025021110093720280/index.html	3485
+文利民		10		全国		http://www.crecg.com/web/gywm46/gszl/gsdwcw/index.html	公司非执行董事		中国铁路工程集团有限公司	https://www.crecg.com/web/gywm46/gszl/dsh/2025021110080037009/index.html	3485
+修龙		11		全国		http://www.crecg.com/web/gywm46/gszl/gsdwcw/index.html	公司独立非执行董事		中国铁路工程集团有限公司	https://www.crecg.com/web/gywm46/gszl/dsh/2025021110080057971/index.html	3485
+孙力实		12		全国		http://www.crecg.com/web/gywm46/gszl/gsdwcw/index.html	公司独立非执行董事		中国铁路工程集团有限公司	https://www.crecg.com/web/gywm46/gszl/dsh/2025021110080067162/index.html	3485
+屠海鸣		13		全国		http://www.crecg.com/web/gywm46/gszl/gsdwcw/index.html	公司独立非执行董事		中国铁路工程集团有限公司	https://www.crecg.com/web/gywm46/gszl/dsh/2025021110080072347/index.html	3485
+房小兵		14		全国		http://www.crecg.com/web/gywm46/gszl/gsdwcw/index.html	公司非执行董事		中国铁路工程集团有限公司	https://www.crecg.com/web/gywm46/gszl/dsh/2025061310331840968/index.html	3485

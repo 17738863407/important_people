@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+潘功胜		1		全国		https://www.pbc.gov.cn/hanglingdao/128697/index.html	中国人民银行党委书记、行长		中国人民银行	https://www.pbc.gov.cn/hanglingdao/128697/128734/index.html	2065
+朱鹤新		2		全国		https://www.pbc.gov.cn/hanglingdao/128697/index.html	中国人民银行党委委员、副行长 国家外汇管理局党组书记、局长		中国人民银行	https://www.pbc.gov.cn/hanglingdao/128697/5163864/index.html	2065
+曲吉山		3		全国		https://www.pbc.gov.cn/hanglingdao/128697/index.html	中央纪委国家监委驻中国人民银行 纪检监察组组长、中国人民银行党委委员		中国人民银行	https://www.pbc.gov.cn/hanglingdao/128697/4652588/index.html	2065
+宣昌能		4		全国		https://www.pbc.gov.cn/hanglingdao/128697/index.html	中国人民银行党委委员、副行长		中国人民银行	https://www.pbc.gov.cn/hanglingdao/128697/4675683/index.html	2065
+陆磊		5		全国		https://www.pbc.gov.cn/hanglingdao/128697/index.html	中国人民银行党委委员、副行长		中国人民银行	https://www.pbc.gov.cn/hanglingdao/128697/5179172/index.html	2065
+陶玲		6		全国		https://www.pbc.gov.cn/hanglingdao/128697/index.html	中国人民银行党委委员、副行长		中国人民银行	https://www.pbc.gov.cn/hanglingdao/128697/5302035/index.html	2065
+邹澜		7		全国		https://www.pbc.gov.cn/hanglingdao/128697/index.html	中国人民银行党委委员、副行长		中国人民银行	https://www.pbc.gov.cn/hanglingdao/128697/5580410/index.html	2065

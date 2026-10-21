@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张志斌		1		广东省	深圳市	http://cgj.sz.gov.cn/gkmlpt/index#426	局党组成员、副局长		深圳市城市管理和综合执法局	https://cgj.sz.gov.cn/gkmlpt/content/12/12979/post_12979525.html	0203
+张国宏		2		广东省	深圳市	http://cgj.sz.gov.cn/gkmlpt/index#426	局党组书记、局长		深圳市城市管理和综合执法局	https://cgj.sz.gov.cn/gkmlpt/content/12/12884/post_12884706.html	0203
+杨雷		3		广东省	深圳市	http://cgj.sz.gov.cn/gkmlpt/index#426	局党组成员、副局长、二级巡视员		深圳市城市管理和综合执法局	https://cgj.sz.gov.cn/gkmlpt/content/12/12884/post_12884702.html	0203
+黄立新		4		广东省	深圳市	http://cgj.sz.gov.cn/gkmlpt/index#426	二级巡视员		深圳市城市管理和综合执法局	https://cgj.sz.gov.cn/gkmlpt/content/12/12884/post_12884691.html	0203
+冯增军		5		广东省	深圳市	http://cgj.sz.gov.cn/gkmlpt/index#426	局党组成员、副局长		深圳市城市管理和综合执法局	https://cgj.sz.gov.cn/gkmlpt/content/12/12884/post_12884687.html	0203
+杨立群		6		广东省	深圳市	http://cgj.sz.gov.cn/gkmlpt/index#426	局党组成员、二级巡视员		深圳市城市管理和综合执法局	https://cgj.sz.gov.cn/gkmlpt/content/12/12884/post_12884681.html	0203
+汪斌		7		广东省	深圳市	http://cgj.sz.gov.cn/gkmlpt/index#426	局党组成员、副局长		深圳市城市管理和综合执法局	https://cgj.sz.gov.cn/gkmlpt/content/12/12884/post_12884678.html	0203
+周超		8		广东省	深圳市	http://cgj.sz.gov.cn/gkmlpt/index#426	市公园管理中心党委书记、主任		深圳市城市管理和综合执法局	https://cgj.sz.gov.cn/gkmlpt/content/12/12884/post_12884667.html	0203
+吴江天		9		广东省	深圳市	http://cgj.sz.gov.cn/gkmlpt/index#426	一级调研员、局工会联合会主席、局妇女委员会主任		深圳市城市管理和综合执法局	https://cgj.sz.gov.cn/gkmlpt/content/12/12884/post_12884663.html	0203

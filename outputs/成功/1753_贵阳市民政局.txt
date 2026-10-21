@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张明勇		1		贵州省	贵阳市	https://mzj.guiyang.gov.cn/zfxxgk/fdzdgknr/jgjj/	党委书记、局长，市委非公有制经济组织和社会组织工作委员会副书记，一级调研员		贵阳市民政局	https://mzj.guiyang.gov.cn/zfxxgk/fdzdgknr/jgjj/jgld/202510/t20251023_88724017.html	1753
+俞洋		2		贵州省	贵阳市	https://mzj.guiyang.gov.cn/zfxxgk/fdzdgknr/jgjj/	局党委委员、副局长，保留正县长级		贵阳市民政局	https://mzj.guiyang.gov.cn/zfxxgk/fdzdgknr/jgjj/jgld/202403/t20240326_83993391.html	1753
+冯涛		3		贵州省	贵阳市	https://mzj.guiyang.gov.cn/zfxxgk/fdzdgknr/jgjj/	局党委委员、副局长		贵阳市民政局	https://mzj.guiyang.gov.cn/zfxxgk/fdzdgknr/jgjj/jgld/202407/t20240710_85086306.html	1753
+周婷		4		贵州省	贵阳市	https://mzj.guiyang.gov.cn/zfxxgk/fdzdgknr/jgjj/	局党委委员、副局长		贵阳市民政局	https://mzj.guiyang.gov.cn/zfxxgk/fdzdgknr/jgjj/jgld/202505/t20250520_87900305.html	1753

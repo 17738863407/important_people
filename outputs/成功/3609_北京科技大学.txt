@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐晓萍		1		北京市		https://www.ustb.edu.cn/xxgk/xxld/index.htm	党委书记；党委常委		北京科技大学		3609
+吕昭平		2		北京市		https://www.ustb.edu.cn/xxgk/xxld/index.htm	校长；党委副书记；党委常委		北京科技大学		3609
+孙景宏		3		北京市		https://www.ustb.edu.cn/xxgk/xxld/index.htm	党委副书记；党委常委		北京科技大学		3609
+张大林		4		北京市		https://www.ustb.edu.cn/xxgk/xxld/index.htm	党委副书记；纪委书记；党委常委		北京科技大学		3609
+郑安阳		5		北京市		https://www.ustb.edu.cn/xxgk/xxld/index.htm	党委副书记；党委常委		北京科技大学		3609
+张卫冬		6		北京市		https://www.ustb.edu.cn/xxgk/xxld/index.htm	副校长；党委常委		北京科技大学		3609
+王鲁宁		7		北京市		https://www.ustb.edu.cn/xxgk/xxld/index.htm	副校长		北京科技大学		3609
+焦树强		8		北京市		https://www.ustb.edu.cn/xxgk/xxld/index.htm	副校长；党委常委		北京科技大学		3609
+彭庆红		9		北京市		https://www.ustb.edu.cn/xxgk/xxld/index.htm	副校长；党委常委		北京科技大学		3609
+盛佳伟		10		北京市		https://www.ustb.edu.cn/xxgk/xxld/index.htm	副校长；党委常委		北京科技大学		3609
+曹光远		11		北京市		https://www.ustb.edu.cn/xxgk/xxld/index.htm	副校长；党委常委		北京科技大学		3609
+董春阳		12		北京市		https://www.ustb.edu.cn/xxgk/xxld/index.htm	党委常委		北京科技大学		3609
+史立伟		13		北京市		https://www.ustb.edu.cn/xxgk/xxld/index.htm	党委常委		北京科技大学		3609
+张海君		14		北京市		https://www.ustb.edu.cn/xxgk/xxld/index.htm	党委常委		北京科技大学		3609

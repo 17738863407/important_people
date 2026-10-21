@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+齐平		1		全国		http://www.nsoas.org.cn/news/node_48.html	主任、党委书记		国家卫星海洋应用中心		2001
+赵萍		2		全国		http://www.nsoas.org.cn/news/node_48.html	党委专职副书记		国家卫星海洋应用中心		2001
+孙式国		3		全国		http://www.nsoas.org.cn/news/node_48.html	纪委书记		国家卫星海洋应用中心		2001
+邹斌		4		全国		http://www.nsoas.org.cn/news/node_48.html	副主任兼总工程师		国家卫星海洋应用中心		2001

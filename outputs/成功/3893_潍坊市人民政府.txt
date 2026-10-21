@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谢兆村		1		山东省	潍坊市	https://www.weifang.gov.cn/wfldxx/xzc/	市长		潍坊市人民政府		3893
+赵绪春		2		山东省	潍坊市	https://www.weifang.gov.cn/wfldxx/xzc/	副市长		潍坊市人民政府	https://www.weifang.gov.cn/wfldxx/zxc/	3893
+狄波		3		山东省	潍坊市	https://www.weifang.gov.cn/wfldxx/xzc/	副市长		潍坊市人民政府	https://www.weifang.gov.cn/wfldxx/db/	3893
+郝建		4		山东省	潍坊市	https://www.weifang.gov.cn/wfldxx/xzc/	副市长		潍坊市人民政府	https://www.weifang.gov.cn/wfldxx/hj/	3893
+陈端梅		5		山东省	潍坊市	https://www.weifang.gov.cn/wfldxx/xzc/	副市长		潍坊市人民政府	https://www.weifang.gov.cn/wfldxx/cdm/	3893
+周俊		6		山东省	潍坊市	https://www.weifang.gov.cn/wfldxx/xzc/	副市长		潍坊市人民政府	https://www.weifang.gov.cn/wfldxx/zj/	3893
+马勇		7		山东省	潍坊市	https://www.weifang.gov.cn/wfldxx/xzc/	副市长		潍坊市人民政府	https://www.weifang.gov.cn/wfldxx/my/	3893
+陈伟颂		8		山东省	潍坊市	https://www.weifang.gov.cn/wfldxx/xzc/	副市长		潍坊市人民政府	https://www.weifang.gov.cn/wfldxx/cws/	3893
+张志海		9		山东省	潍坊市	https://www.weifang.gov.cn/wfldxx/xzc/	秘书长		潍坊市人民政府	https://www.weifang.gov.cn/wfldxx/zzh/	3893

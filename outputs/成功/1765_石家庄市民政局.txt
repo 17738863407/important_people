@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王林		1		河北省	石家庄市	https://mzj.sjz.gov.cn/columns/0db21bff-6535-4d4e-8d7d-67ae68dfa3df/index.html	石家庄市民政局党组书记		石家庄市民政局	https://mzj.sjz.gov.cn/columns/7a9fd024-9fba-43d5-8ab1-5cb4d47881f1/202412/16/1b3bf74c-cf4b-430f-be16-2b86aa90b3af.html	1765
+黄少华		2		河北省	石家庄市	https://mzj.sjz.gov.cn/columns/0db21bff-6535-4d4e-8d7d-67ae68dfa3df/index.html	石家庄市民政局党组成员、副局长		石家庄市民政局	https://mzj.sjz.gov.cn/columns/7a9fd024-9fba-43d5-8ab1-5cb4d47881f1/202412/16/ada7f171-85ad-45ba-ace5-c08189501c91.html	1765
+翟志伟		3		河北省	石家庄市	https://mzj.sjz.gov.cn/columns/0db21bff-6535-4d4e-8d7d-67ae68dfa3df/index.html	石家庄市民政局党组成员、市纪委监委驻市民政局纪检监察组组长		石家庄市民政局	https://mzj.sjz.gov.cn/columns/7a9fd024-9fba-43d5-8ab1-5cb4d47881f1/202412/16/a553f7f6-0437-48e6-a6d7-e132188c505d.html	1765
+李聚英		4		河北省	石家庄市	https://mzj.sjz.gov.cn/columns/0db21bff-6535-4d4e-8d7d-67ae68dfa3df/index.html	石家庄市民政局党组成员、副局长		石家庄市民政局	https://mzj.sjz.gov.cn/columns/7a9fd024-9fba-43d5-8ab1-5cb4d47881f1/202412/16/0e3088c5-b16a-4bdd-b6c1-6aa59c6a1892.html	1765
+焦磊		5		河北省	石家庄市	https://mzj.sjz.gov.cn/columns/0db21bff-6535-4d4e-8d7d-67ae68dfa3df/index.html	石家庄市民政局党组成员、副局长		石家庄市民政局	https://mzj.sjz.gov.cn/columns/7a9fd024-9fba-43d5-8ab1-5cb4d47881f1/202512/05/6465a52d-b123-49dc-ba4f-ced4eda1003b.html	1765

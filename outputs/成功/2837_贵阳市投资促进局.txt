@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+方芳		1		贵州省	贵阳市	http://tzcj.guiyang.gov.cn/newsite/zwgk_5831121/zfxxgkzl/fdzdgknr_5831130/jggk_5831131/jgld/	贵阳市投资促进局党组成员、副局长（副主任）		贵阳市投资促进局	http://tzcj.guiyang.gov.cn/newsite/zwgk_5831121/zfxxgkzl/fdzdgknr_5831130/jggk_5831131/jgld/202503/t20250314_87167113.html	2837
+吴磊		2		贵州省	贵阳市	http://tzcj.guiyang.gov.cn/newsite/zwgk_5831121/zfxxgkzl/fdzdgknr_5831130/jggk_5831131/jgld/	贵阳市投资促进局党组成员、副局长（副主任）		贵阳市投资促进局	http://tzcj.guiyang.gov.cn/newsite/zwgk_5831121/zfxxgkzl/fdzdgknr_5831130/jggk_5831131/jgld/202503/t20250314_87167489.html	2837
+吉星雨		3		贵州省	贵阳市	http://tzcj.guiyang.gov.cn/newsite/zwgk_5831121/zfxxgkzl/fdzdgknr_5831130/jggk_5831131/jgld/	贵阳市投资促进局党组成员、副局长（副主任）		贵阳市投资促进局	http://tzcj.guiyang.gov.cn/newsite/zwgk_5831121/zfxxgkzl/fdzdgknr_5831130/jggk_5831131/jgld/202511/t20251119_88956186.html	2837

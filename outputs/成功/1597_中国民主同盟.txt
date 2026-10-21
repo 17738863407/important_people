@@ -1,0 +1,83 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+丁仲礼		1		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	主席		中国民主同盟	https://www.mmzy.org.cn/mmgk/1186/1205/136373.aspx	1597
+王光谦		2		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务副主席		中国民主同盟	https://www.mmzy.org.cn/mmgk/1186/1206/136374.aspx	1597
+田刚		3		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	副主席		中国民主同盟	https://www.mmzy.org.cn/mmgk/1186/1206/136376.aspx	1597
+程红		4		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	副主席		中国民主同盟	https://www.mmzy.org.cn/mmgk/1186/1206/136378.aspx	1597
+张道宏		5		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	副主席		中国民主同盟	https://www.mmzy.org.cn/mmgk/1186/1206/136379.aspx	1597
+陈群		6		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	副主席		中国民主同盟	https://www.mmzy.org.cn/mmgk/1186/1206/136380.aspx	1597
+邓秀新		7		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	副主席		中国民主同盟	https://www.mmzy.org.cn/mmgk/1186/1206/136381.aspx	1597
+郑功成		8		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	副主席		中国民主同盟	https://www.mmzy.org.cn/mmgk/1186/1206/136382.aspx	1597
+谢经荣		9		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	副主席		中国民主同盟	https://www.mmzy.org.cn/mmgk/1186/1206/136383.aspx	1597
+霍金花		10		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	副主席		中国民主同盟	https://www.mmzy.org.cn/mmgk/1186/1206/136384.aspx	1597
+王学成		11		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	副主席		中国民主同盟	https://www.mmzy.org.cn/mmgk/1186/1206/136385.aspx	1597
+吴为山		12		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	副主席		中国民主同盟	https://www.mmzy.org.cn/mmgk/1186/1206/136386.aspx	1597
+丁洪		13		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+丁梅		14		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+丁光宏		15		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+丁仲礼		16		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+马宗保		17		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+王绚		18		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+王书红		19		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+王光谦		20		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+王学成		21		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+王荣彬		22		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+王修林		23		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+王雪华		24		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+毛国典		25		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+方精云		26		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+邓长球		27		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+邓秀新		28		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+田刚		29		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+田沁鑫		30		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+史琳		31		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+冉霞		32		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+成岳冲		33		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+吕小兵		34		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+刘中民		35		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+刘仲奎		36		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+刘旭光		37		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+刘艳玲		38		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+许亚南		39		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+阮诗玮		40		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+杜惠平		41		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+李玮		42		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+李成贵		43		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+李剑萍		44		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+杨云彦		45		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+杨安娣		46		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+吴德		47		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+吴为山		48		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+吴以环		49		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+吴立新		50		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+何寄华		51		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+汪鹏飞		52		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+沈维孝		53		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+张慧		54		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+张振军		55		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+张道宏		56		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+张福成		57		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+陆桂华		58		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+陈群		59		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+范九伦		60		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+季加孚		61		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+金石		62		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+郑功成		63		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+郑永飞		64		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+赵吉		65		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+胡刚		66		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+昝林森		67		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+顾祥林		68		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+钱克明		69		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+钱福永		70		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+徐彬		71		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+常凯		72		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+董瑞		73		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+辜清		74		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+程红		75		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+焦念志		76		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+谢经荣		77		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+谢素原		78		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+靳东		79		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+蒙格丽		80		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+熊方军		81		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597
+霍金花		82		全国		https://www.mmzy.org.cn/mmgk/1186/default.aspx	常务委员		中国民主同盟		1597

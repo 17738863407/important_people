@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈国猛		1		海南省		https://www.hncdi.gov.cn/web/hnlzw/v2/html/leader_list.jsp?channelCode=lzw_navs_xxgk_ldjg&channelId=c941bbd8-2ca2-4bf1-bf0a-c6f2e732008c&parentChannelCode=lzw_navs_xxgk_new	中国共产党海南省第八届纪律检查委员会书记；中国共产党海南省第八届纪律检查委员会常务委员会委员；海南省监察委员会主任		海南省纪委监委		4496
+贺敬平		2		海南省		https://www.hncdi.gov.cn/web/hnlzw/v2/html/leader_list.jsp?channelCode=lzw_navs_xxgk_ldjg&channelId=c941bbd8-2ca2-4bf1-bf0a-c6f2e732008c&parentChannelCode=lzw_navs_xxgk_new	中国共产党海南省第八届纪律检查委员会副书记；中国共产党海南省第八届纪律检查委员会常务委员会委员；海南省监察委员会副主任		海南省纪委监委		4496
+周建成		3		海南省		https://www.hncdi.gov.cn/web/hnlzw/v2/html/leader_list.jsp?channelCode=lzw_navs_xxgk_ldjg&channelId=c941bbd8-2ca2-4bf1-bf0a-c6f2e732008c&parentChannelCode=lzw_navs_xxgk_new	中国共产党海南省第八届纪律检查委员会副书记；中国共产党海南省第八届纪律检查委员会常务委员会委员；海南省监察委员会副主任		海南省纪委监委		4496
+符鸣		4		海南省		https://www.hncdi.gov.cn/web/hnlzw/v2/html/leader_list.jsp?channelCode=lzw_navs_xxgk_ldjg&channelId=c941bbd8-2ca2-4bf1-bf0a-c6f2e732008c&parentChannelCode=lzw_navs_xxgk_new	中国共产党海南省第八届纪律检查委员会常务委员会委员		海南省纪委监委		4496
+戴磊雄		5		海南省		https://www.hncdi.gov.cn/web/hnlzw/v2/html/leader_list.jsp?channelCode=lzw_navs_xxgk_ldjg&channelId=c941bbd8-2ca2-4bf1-bf0a-c6f2e732008c&parentChannelCode=lzw_navs_xxgk_new	中国共产党海南省第八届纪律检查委员会常务委员会委员		海南省纪委监委		4496
+刘旭		6		海南省		https://www.hncdi.gov.cn/web/hnlzw/v2/html/leader_list.jsp?channelCode=lzw_navs_xxgk_ldjg&channelId=c941bbd8-2ca2-4bf1-bf0a-c6f2e732008c&parentChannelCode=lzw_navs_xxgk_new	中国共产党海南省第八届纪律检查委员会常务委员会委员		海南省纪委监委		4496

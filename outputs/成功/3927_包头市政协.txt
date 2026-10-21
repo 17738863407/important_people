@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+乌东		1		内蒙古自治区	包头市	http://www.btzx.gov.cn/zxld/	党组副书记、副主席		包头市政协		3927
+郝文		2		内蒙古自治区	包头市	http://www.btzx.gov.cn/zxld/	副主席		包头市政协		3927
+傅民		3		内蒙古自治区	包头市	http://www.btzx.gov.cn/zxld/	副主席		包头市政协		3927
+雪松		4		内蒙古自治区	包头市	http://www.btzx.gov.cn/zxld/	党组成员、副主席		包头市政协		3927
+马明		5		内蒙古自治区	包头市	http://www.btzx.gov.cn/zxld/	副主席		包头市政协		3927
+董海梅		6		内蒙古自治区	包头市	http://www.btzx.gov.cn/zxld/	副主席		包头市政协		3927
+赵文彬		7		内蒙古自治区	包头市	http://www.btzx.gov.cn/zxld/	党组成员、副主席		包头市政协		3927
+姚俊杰		8		内蒙古自治区	包头市	http://www.btzx.gov.cn/zxld/	党组成员、副主席		包头市政协		3927
+奇跃成		9		内蒙古自治区	包头市	http://www.btzx.gov.cn/zxld/	党组成员、副主席		包头市政协		3927
+王勇		10		内蒙古自治区	包头市	http://www.btzx.gov.cn/zxld/	党组成员、秘书长		包头市政协		3927

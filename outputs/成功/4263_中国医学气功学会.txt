@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高思华		1		全国		http://www.cmqg.cn/p/page-xrld.html	会长		中国医学气功学会		4263
+刘天君		2		全国		http://www.cmqg.cn/p/page-xrld.html	名誉会长		中国医学气功学会		4263
+王淑军		3		全国		http://www.cmqg.cn/p/page-xrld.html	副会长		中国医学气功学会		4263
+宣明东		4		全国		http://www.cmqg.cn/p/page-xrld.html	副会长		中国医学气功学会		4263
+邓国峰		5		全国		http://www.cmqg.cn/p/page-xrld.html	副会长		中国医学气功学会		4263
+唐远清		6		全国		http://www.cmqg.cn/p/page-xrld.html	副会长		中国医学气功学会		4263
+许峰		7		全国		http://www.cmqg.cn/p/page-xrld.html	副会长		中国医学气功学会		4263
+吴云川		8		全国		http://www.cmqg.cn/p/page-xrld.html	副会长		中国医学气功学会		4263
+张海波		9		全国		http://www.cmqg.cn/p/page-xrld.html	秘书长		中国医学气功学会		4263
+马琦		10		全国		http://www.cmqg.cn/p/page-xrld.html	副秘书长		中国医学气功学会		4263
+张勋		11		全国		http://www.cmqg.cn/p/page-xrld.html	副秘书长		中国医学气功学会		4263
+侯海龙		12		全国		http://www.cmqg.cn/p/page-xrld.html	副秘书长		中国医学气功学会		4263
+温发坤		13		全国		http://www.cmqg.cn/p/page-xrld.html	副秘书长		中国医学气功学会		4263

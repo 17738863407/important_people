@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+毛朝晖		1		湖南省		https://agri.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省委农村工作领导小组办公室主任，省农业农村厅党组书记、厅长，省乡村振兴局局长		湖南省农业农村厅	https://agri.hunan.gov.cn/agri/xxgk/jgzn/jgld/202306/t20230626_29384804.html	0066
+柏连阳		2		湖南省		https://agri.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省农业农村厅党组副书记，省农业科学院党委书记、副院长		湖南省农业农村厅	https://agri.hunan.gov.cn/agri/xxgk/jgzn/jgld/202412/t20241217_33527677.html	0066
+马艳青		3		湖南省		https://agri.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省农业农村厅党组成员、副厅长		湖南省农业农村厅	https://agri.hunan.gov.cn/agri/xxgk/jgzn/jgld/201905/t20190503_5493908.html	0066
+龚昕		4		湖南省		https://agri.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省农业农村厅党组成员、副厅长		湖南省农业农村厅	https://agri.hunan.gov.cn/agri/xxgk/jgzn/jgld/201905/t20190503_5317614.html	0066
+祝云武		5		湖南省		https://agri.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省农业农村厅党组成员、副厅长		湖南省农业农村厅	https://agri.hunan.gov.cn/agri/xxgk/jgzn/jgld/202508/t20250819_33776505.html	0066
+龙军		6		湖南省		https://agri.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省农业农村厅党组成员、省纪委省监委驻省农业农村厅纪检监察组组长、二级高级监察官		湖南省农业农村厅	https://agri.hunan.gov.cn/agri/xxgk/jgzn/jgld/202406/t20240627_33339301.html	0066
+武深树		7		湖南省		https://agri.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省农业农村厅党组成员、副厅长		湖南省农业农村厅	https://agri.hunan.gov.cn/agri/xxgk/jgzn/jgld/202606/t20260629_34015551.html	0066
+刘兴斌		8		湖南省		https://agri.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省农业农村厅党组成员		湖南省农业农村厅	https://agri.hunan.gov.cn/agri/xxgk/jgzn/jgld/202602/t20260211_33915506.html	0066
+兰定国		9		湖南省		https://agri.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省农业农村厅一级巡视员		湖南省农业农村厅	https://agri.hunan.gov.cn/agri/xxgk/jgzn/jgld/201905/t20190503_3387862.html	0066
+刘启华		10		湖南省		https://agri.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省农业农村厅一级巡视员		湖南省农业农村厅	https://agri.hunan.gov.cn/agri/xxgk/jgzn/jgld/202301/t20230116_29184896.html	0066
+邹序树		11		湖南省		https://agri.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省农业农村厅一级巡视员		湖南省农业农村厅	https://agri.hunan.gov.cn/agri/xxgk/jgzn/jgld/202401/t20240123_32632223.html	0066
+陈新登		12		湖南省		https://agri.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省农机事务中心党委书记、主任		湖南省农业农村厅	https://agri.hunan.gov.cn/agri/xxgk/jgzn/jgld/202304/t20230418_29316337.html	0066
+张志龙		13		湖南省		https://agri.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省畜牧水产事务中心党委书记、主任		湖南省农业农村厅	https://agri.hunan.gov.cn/agri/xxgk/jgzn/jgld/202407/t20240730_33367292.html	0066

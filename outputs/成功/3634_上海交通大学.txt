@@ -1,0 +1,21 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨振斌		1		上海市		https://www.sjtu.edu.cn/jdld/	党委书记；党委常委		上海交通大学	https://www.sjtu.edu.cn/jdldxrld/20200317/121311.html	3634
+丁奎岭		2		上海市		https://www.sjtu.edu.cn/jdld/	校长、党委副书记；党委常委		上海交通大学	https://www.sjtu.edu.cn/jdldxrld/20181106/87911.html	3634
+奚立峰		3		上海市		https://www.sjtu.edu.cn/jdld/	常务副校长；党委常委		上海交通大学	https://www.sjtu.edu.cn/jdldxrld/20181025/85889.html	3634
+张艳萍		4		上海市		https://www.sjtu.edu.cn/jdld/	党委副书记；党委常委		上海交通大学	https://www.sjtu.edu.cn/jdldxrld/20251207/217791.html	3634
+王伟明		5		上海市		https://www.sjtu.edu.cn/jdld/	党委副书记、副校长；党委常委		上海交通大学	https://www.sjtu.edu.cn/jdldxrld/20181025/85895.html	3634
+周承		6		上海市		https://www.sjtu.edu.cn/jdld/	党委副书记、纪委书记、国家监委驻上海交通大学监察专员；党委常委		上海交通大学	https://www.sjtu.edu.cn/jdldxrld/20181025/85891.html	3634
+蒋兴浩		7		上海市		https://www.sjtu.edu.cn/jdld/	副校长；党委常委		上海交通大学	https://www.sjtu.edu.cn/jdldxrld/20221209/177481.html	3634
+张兆国		8		上海市		https://www.sjtu.edu.cn/jdld/	副校长		上海交通大学	https://www.sjtu.edu.cn/jdldxrld/20230714/186035.html	3634
+胡薇薇		9		上海市		https://www.sjtu.edu.cn/jdld/	党委副书记；党委常委		上海交通大学	https://www.sjtu.edu.cn/jdldxrld/20231217/192103.html	3634
+刘卫东		10		上海市		https://www.sjtu.edu.cn/jdld/	副校长；党委常委		上海交通大学	https://www.sjtu.edu.cn/jdldxrld/20240408/195741.html	3634
+管海兵		11		上海市		https://www.sjtu.edu.cn/jdld/	副校长；党委常委		上海交通大学	https://www.sjtu.edu.cn/jdldxrld/20240923/202099.html	3634
+曾小勤		12		上海市		https://www.sjtu.edu.cn/jdld/	副校长；党委常委		上海交通大学	https://www.sjtu.edu.cn/jdldxrld/20250124/206894.html	3634
+赵昕		13		上海市		https://www.sjtu.edu.cn/jdld/	党委副书记；党委常委		上海交通大学	https://www.sjtu.edu.cn/jdldxrld/20250124/206895.html	3634
+方曦		14		上海市		https://www.sjtu.edu.cn/jdld/	党委常委		上海交通大学	https://www.sjtu.edu.cn/dwcw/20250723/213232.html	3634
+汪后继		15		上海市		https://www.sjtu.edu.cn/jdld/	党委常委		上海交通大学	https://www.sjtu.edu.cn/dwcw/20250723/213233.html	3634
+于朝阳		16		上海市		https://www.sjtu.edu.cn/jdld/	党委常委		上海交通大学	https://www.sjtu.edu.cn/dwcw/20250805/213469.html	3634
+张安胜		17		上海市		https://www.sjtu.edu.cn/jdld/	校务委员会专职副主任		上海交通大学	https://www.sjtu.edu.cn/xwwyhzzfzr/20250723/213235.html	3634
+胡昊		18		上海市		https://www.sjtu.edu.cn/jdld/	校长助理		上海交通大学	https://www.sjtu.edu.cn/jdldxzzl/20250805/213470.html	3634
+杨明		19		上海市		https://www.sjtu.edu.cn/jdld/	校长助理		上海交通大学	https://www.sjtu.edu.cn/jdldxzzl/20250805/213471.html	3634
+王光艳		20		上海市		https://www.sjtu.edu.cn/jdld/	总经济师		上海交通大学	https://www.sjtu.edu.cn/jdldzjjs/20250723/213237.html	3634

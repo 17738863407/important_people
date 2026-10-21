@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+金冬江		1		河南省		https://yjglt.henan.gov.cn/zwgk/xxgkml/ldxx/	党委书记、厅长		河南省应急管理厅		3210
+薄建伟		2		河南省		https://yjglt.henan.gov.cn/zwgk/xxgkml/ldxx/	省消防救援总队总队长，兼省应急管理厅党委委员、副厅长		河南省应急管理厅		3210
+马天希		3		河南省		https://yjglt.henan.gov.cn/zwgk/xxgkml/ldxx/	党委委员、副厅长		河南省应急管理厅		3210
+金瑞科		4		河南省		https://yjglt.henan.gov.cn/zwgk/xxgkml/ldxx/	党委委员、副厅长		河南省应急管理厅		3210
+任汝成		5		河南省		https://yjglt.henan.gov.cn/zwgk/xxgkml/ldxx/	省水利厅党组成员、副厅长，兼省应急管理厅副厅长		河南省应急管理厅		3210
+马防修		6		河南省		https://yjglt.henan.gov.cn/zwgk/xxgkml/ldxx/	党委委员、政治部主任		河南省应急管理厅		3210
+朱维亚		7		河南省		https://yjglt.henan.gov.cn/zwgk/xxgkml/ldxx/	党委委员、副厅长		河南省应急管理厅		3210
+杨恩红		8		河南省		https://yjglt.henan.gov.cn/zwgk/xxgkml/ldxx/	党委委员、副厅长		河南省应急管理厅		3210
+范永民		9		河南省		https://yjglt.henan.gov.cn/zwgk/xxgkml/ldxx/	省纪委监委驻省应急管理厅纪检监察组组长、厅党委委员		河南省应急管理厅		3210

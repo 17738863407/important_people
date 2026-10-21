@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+钮宝林		1		山西省	太原市	https://cxglj.taiyuan.gov.cn/ldfg/20200421/934649.html	工委书记、局长		太原市城乡管理局		0356
+张莹		2		山西省	太原市	https://cxglj.taiyuan.gov.cn/ldfg/20200421/934649.html	工委副书记、三级调研员		太原市城乡管理局		0356
+刘欢迎		3		山西省	太原市	https://cxglj.taiyuan.gov.cn/ldfg/20200421/934649.html	工委委员、驻局纪检组组长、三级调研员		太原市城乡管理局		0356
+耿国胜		4		山西省	太原市	https://cxglj.taiyuan.gov.cn/ldfg/20200421/934649.html	工委委员、副局长、三级调研员		太原市城乡管理局		0356
+雷生贤		5		山西省	太原市	https://cxglj.taiyuan.gov.cn/ldfg/20200421/934649.html	工委委员、副局长、三级调研员		太原市城乡管理局		0356
+牛岩皓		6		山西省	太原市	https://cxglj.taiyuan.gov.cn/ldfg/20200421/934649.html	工委委员、副局长、三级调研员		太原市城乡管理局		0356
+赵有仁		7		山西省	太原市	https://cxglj.taiyuan.gov.cn/ldfg/20200421/934649.html	工委委员、三级调研员		太原市城乡管理局		0356
+任王保定		8		山西省	太原市	https://cxglj.taiyuan.gov.cn/ldfg/20200421/934649.html	工委委员、市市容环卫中心主		太原市城乡管理局		0356
+蒙晓禄		9		山西省	太原市	https://cxglj.taiyuan.gov.cn/ldfg/20200421/934649.html	工委委员、一级调研员		太原市城乡管理局		0356
+段洪		10		山西省	太原市	https://cxglj.taiyuan.gov.cn/ldfg/20200421/934649.html	二级巡视员		太原市城乡管理局		0356
+耿炤宇		11		山西省	太原市	https://cxglj.taiyuan.gov.cn/ldfg/20200421/934649.html	二级调研员		太原市城乡管理局		0356
+时中瑛		12		山西省	太原市	https://cxglj.taiyuan.gov.cn/ldfg/20200421/934649.html	二级调研员		太原市城乡管理局		0356
+杨俊拴		13		山西省	太原市	https://cxglj.taiyuan.gov.cn/ldfg/20200421/934649.html	三级调研员		太原市城乡管理局		0356
+王小春		14		山西省	太原市	https://cxglj.taiyuan.gov.cn/ldfg/20200421/934649.html	三级调研员		太原市城乡管理局		0356

@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+齐涛		1		全国		https://gia.cas.cn/ykjs/yld/	党委书记		中国科学院赣江创新研究院	https://gia.cas.cn/ykjs/yld/202005/t20200521_5584044.html	4381
+李殿中		2		全国		https://gia.cas.cn/ykjs/yld/	院长		中国科学院赣江创新研究院	https://gia.cas.cn/ykjs/yld/202607/t20260730_8257347.html	4381
+廖伍平		3		全国		https://gia.cas.cn/ykjs/yld/	副院长		中国科学院赣江创新研究院	https://gia.cas.cn/ykjs/yld/202005/t20200521_5584047.html	4381
+彭子龙		4		全国		https://gia.cas.cn/ykjs/yld/	纪委书记		中国科学院赣江创新研究院	https://gia.cas.cn/ykjs/yld/202005/t20200522_5584829.html	4381

@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+项昌乐		1		辽宁省	大连市	https://www.dlut.edu.cn/xxgk/xrld.htm	党委书记		大连理工大学		3628
+高翔		2		辽宁省	大连市	https://www.dlut.edu.cn/xxgk/xrld.htm	校长；党委副书记		大连理工大学		3628
+宋丹		3		辽宁省	大连市	https://www.dlut.edu.cn/xxgk/xrld.htm	党委常务副书记		大连理工大学		3628
+李成恩		4		辽宁省	大连市	https://www.dlut.edu.cn/xxgk/xrld.htm	党委常委；副校长		大连理工大学		3628
+张弛		5		辽宁省	大连市	https://www.dlut.edu.cn/xxgk/xrld.htm	党委常委；副校长		大连理工大学		3628
+王博		6		辽宁省	大连市	https://www.dlut.edu.cn/xxgk/xrld.htm	党委常委；副校长		大连理工大学		3628
+康旭东		7		辽宁省	大连市	https://www.dlut.edu.cn/xxgk/xrld.htm	党委常委；副校长		大连理工大学		3628
+王志伟		8		辽宁省	大连市	https://www.dlut.edu.cn/xxgk/xrld.htm	党委副书记；组织部部长；统战部部长		大连理工大学		3628
+刘巍		9		辽宁省	大连市	https://www.dlut.edu.cn/xxgk/xrld.htm	党委常委；副校长		大连理工大学		3628
+韩轶		10		辽宁省	大连市	https://www.dlut.edu.cn/xxgk/xrld.htm	党委常委；宣传部部长		大连理工大学		3628
+占敬敬		11		辽宁省	大连市	https://www.dlut.edu.cn/xxgk/xrld.htm	校长助理		大连理工大学		3628

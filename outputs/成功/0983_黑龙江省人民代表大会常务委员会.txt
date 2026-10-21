@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+许勤		1		全国		https://www.hljrd.gov.cn/content_leader.html?id=526	主任		黑龙江省人民代表大会常务委员会		0983
+张安顺		2		全国		https://www.hljrd.gov.cn/content_leader.html?id=526	副主任		黑龙江省人民代表大会常务委员会	https://www.hljrd.gov.cn/content_leader.html?id=690	0983
+王永康		3		全国		https://www.hljrd.gov.cn/content_leader.html?id=526	副主任		黑龙江省人民代表大会常务委员会	https://www.hljrd.gov.cn/content_leader.html?id=527	0983
+贾玉梅		4		全国		https://www.hljrd.gov.cn/content_leader.html?id=526	副主任		黑龙江省人民代表大会常务委员会	https://www.hljrd.gov.cn/content_leader.html?id=529	0983
+聂云凌		5		全国		https://www.hljrd.gov.cn/content_leader.html?id=526	副主任		黑龙江省人民代表大会常务委员会	https://www.hljrd.gov.cn/content_leader.html?id=594	0983
+杨廷双		6		全国		https://www.hljrd.gov.cn/content_leader.html?id=526	副主任		黑龙江省人民代表大会常务委员会	https://www.hljrd.gov.cn/content_leader.html?id=595	0983
+方传龙		7		全国		https://www.hljrd.gov.cn/content_leader.html?id=526	副主任		黑龙江省人民代表大会常务委员会	https://www.hljrd.gov.cn/content_leader.html?id=689	0983

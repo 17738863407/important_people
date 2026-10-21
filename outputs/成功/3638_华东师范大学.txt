@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+顾红亮		1		上海市		https://www.ecnu.edu.cn/wzcd/xxgk/xxld.htm	党委书记；党委常委		华东师范大学	https://www.ecnu.edu.cn/info/1058/73255.htm	3638
+马余刚		2		上海市		https://www.ecnu.edu.cn/wzcd/xxgk/xxld.htm	校长；党委副书记；党委常委		华东师范大学	https://www.ecnu.edu.cn/info/1059/71368.htm	3638
+沈海涛		3		上海市		https://www.ecnu.edu.cn/wzcd/xxgk/xxld.htm	党委副书记；纪委书记；党委常委		华东师范大学		3638
+朱军文		4		上海市		https://www.ecnu.edu.cn/wzcd/xxgk/xxld.htm	党委副书记；党委常委		华东师范大学	https://www.ecnu.edu.cn/info/1060/71988.htm	3638
+张惠虹		5		上海市		https://www.ecnu.edu.cn/wzcd/xxgk/xxld.htm	党委副书记；党委常委		华东师范大学	https://www.ecnu.edu.cn/info/1060/71989.htm	3638
+戴立益		6		上海市		https://www.ecnu.edu.cn/wzcd/xxgk/xxld.htm	副校长		华东师范大学	https://www.ecnu.edu.cn/info/1061/64646.htm	3638
+雷启立		7		上海市		https://www.ecnu.edu.cn/wzcd/xxgk/xxld.htm	副校长；党委常委		华东师范大学	https://www.ecnu.edu.cn/info/1061/64647.htm	3638
+施国跃		8		上海市		https://www.ecnu.edu.cn/wzcd/xxgk/xxld.htm	副校长；党委常委		华东师范大学	https://www.ecnu.edu.cn/info/1061/64648.htm	3638
+程静		9		上海市		https://www.ecnu.edu.cn/wzcd/xxgk/xxld.htm	副校长；党委常委		华东师范大学	https://www.ecnu.edu.cn/info/1061/64649.htm	3638
+吴健		10		上海市		https://www.ecnu.edu.cn/wzcd/xxgk/xxld.htm	副校长；党委常委		华东师范大学	https://www.ecnu.edu.cn/info/1061/68651.htm	3638
+王庆华		11		上海市		https://www.ecnu.edu.cn/wzcd/xxgk/xxld.htm	党委常委		华东师范大学	https://www.ecnu.edu.cn/info/1066/64639.htm	3638
+吕长虹		12		上海市		https://www.ecnu.edu.cn/wzcd/xxgk/xxld.htm	校长助理		华东师范大学	https://www.ecnu.edu.cn/info/1456/64785.htm	3638

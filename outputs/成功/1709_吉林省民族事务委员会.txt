@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李明智		1		吉林省		https://mw.jl.gov.cn/bmjs/ldzc/	主任（局长）		吉林省民族事务委员会	https://mw.jl.gov.cn/bmjs/ldzc/201905/t20190507_5843405.html	1709
+孟庆东		2		吉林省		https://mw.jl.gov.cn/bmjs/ldzc/	副主任（副局长）		吉林省民族事务委员会	https://mw.jl.gov.cn/bmjs/ldzc/201905/t20190507_5843458.html	1709
+张诚		3		吉林省		https://mw.jl.gov.cn/bmjs/ldzc/	副主任（副局长）		吉林省民族事务委员会	https://mw.jl.gov.cn/bmjs/ldzc/202405/t20240509_8906031.html	1709
+高会彬		4		吉林省		https://mw.jl.gov.cn/bmjs/ldzc/	副主任（副局长）		吉林省民族事务委员会	https://mw.jl.gov.cn/bmjs/ldzc/202405/t20240509_8906034.html	1709
+张杲权		5		吉林省		https://mw.jl.gov.cn/bmjs/ldzc/	副主任（副局长）		吉林省民族事务委员会	https://mw.jl.gov.cn/bmjs/ldzc/202405/t20240509_8906038.html	1709

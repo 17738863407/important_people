@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李明		1		山东省	青岛市	https://www.ouc.edu.cn/31003/list.htm	党委书记；党委常委		中国海洋大学	http://www.ouc.edu.cn/2025/0702/c32865a502721/page.htm	3652
+张峻峰		2		山东省	青岛市	https://www.ouc.edu.cn/31003/list.htm	校长；党委副书记；党委常委		中国海洋大学	http://www.ouc.edu.cn/2023/1114/c31251a466741/page.htm	3652
+吴立新		3		山东省	青岛市	https://www.ouc.edu.cn/31003/list.htm	副校长		中国海洋大学	http://www.ouc.edu.cn/2022/0307/c31256a466751/page.htm	3652
+范其伟		4		山东省	青岛市	https://www.ouc.edu.cn/31003/list.htm	党委副书记；党委常委		中国海洋大学	http://www.ouc.edu.cn/2022/0307/c31258a466754/page.htm	3652
+刘勇		5		山东省	青岛市	https://www.ouc.edu.cn/31003/list.htm	副校长；党委常委		中国海洋大学	http://www.ouc.edu.cn/2022/0307/c31257a466752/page.htm	3652
+俞黎阳		6		山东省	青岛市	https://www.ouc.edu.cn/31003/list.htm	党委副书记、纪委书记		中国海洋大学	http://www.ouc.edu.cn/2025/1216/c33625a513257/page.htm	3652
+王厚杰		7		山东省	青岛市	https://www.ouc.edu.cn/31003/list.htm	副校长；党委常委		中国海洋大学	http://www.ouc.edu.cn/2024/0719/c31467a480292/page.htm	3652
+蒋秋飚		8		山东省	青岛市	https://www.ouc.edu.cn/31003/list.htm	党委副书记；党委常委		中国海洋大学	http://www.ouc.edu.cn/2026/0717/c35474a534748/page.htm	3652
+林旭升		9		山东省	青岛市	https://www.ouc.edu.cn/31003/list.htm	副校长；党委常委		中国海洋大学	http://www.ouc.edu.cn/2024/0719/c31468a480294/page.htm	3652
+王雪鹏		10		山东省	青岛市	https://www.ouc.edu.cn/31003/list.htm	党委常委；副校长		中国海洋大学	http://www.ouc.edu.cn/2024/0719/c31469a480295/page.htm	3652
+李岩		11		山东省	青岛市	https://www.ouc.edu.cn/31003/list.htm	党委常委；副校长		中国海洋大学	http://www.ouc.edu.cn/2024/0719/c32349a534749/page.htm	3652
+陈鷟		12		山东省	青岛市	https://www.ouc.edu.cn/31003/list.htm	党委常委		中国海洋大学		3652
+王卫栋		13		山东省	青岛市	https://www.ouc.edu.cn/31003/list.htm	校长助理		中国海洋大学		3652
+毛相朝		14		山东省	青岛市	https://www.ouc.edu.cn/31003/list.htm	校长助理		中国海洋大学		3652

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+翟瑛珺		1		内蒙古自治区		https://rst.nmg.gov.cn/zfxxgk/fdzdgknr/?gk=1	内蒙古自治区人力资源和社会保障厅党组书记、厅长		内蒙古自治区人力资源和社会保障厅	https://rst.nmg.gov.cn/zfxxgk/fdzdgknr/jggk/ldxx/202112/t20211216_1980936.html	2221
+王林		2		内蒙古自治区		https://rst.nmg.gov.cn/zfxxgk/fdzdgknr/?gk=1	内蒙古自治区人力资源和社会保障厅党组成员、副厅长		内蒙古自治区人力资源和社会保障厅	https://rst.nmg.gov.cn/zfxxgk/fdzdgknr/jggk/ldxx/202112/t20211216_1980932.html	2221
+李文钢		3		内蒙古自治区		https://rst.nmg.gov.cn/zfxxgk/fdzdgknr/?gk=1	内蒙古自治区人力资源和社会保障厅党组成员、副厅长		内蒙古自治区人力资源和社会保障厅	https://rst.nmg.gov.cn/zfxxgk/fdzdgknr/jggk/ldxx/202112/t20211216_1980930.html	2221
+毕涛		4		内蒙古自治区		https://rst.nmg.gov.cn/zfxxgk/fdzdgknr/?gk=1	内蒙古自治区人力资源和社会保障厅党组成员、副厅长		内蒙古自治区人力资源和社会保障厅	https://rst.nmg.gov.cn/zfxxgk/fdzdgknr/jggk/ldxx/202112/t20211216_1980928.html	2221
+赵永刚		5		内蒙古自治区		https://rst.nmg.gov.cn/zfxxgk/fdzdgknr/?gk=1	内蒙古自治区人力资源和社会保障厅党组成员，自治区社会保险事业服务中心主任		内蒙古自治区人力资源和社会保障厅	https://rst.nmg.gov.cn/zfxxgk/fdzdgknr/jggk/ldxx/202309/t20230908_2375811.html	2221
+伏凌涛		6		内蒙古自治区		https://rst.nmg.gov.cn/zfxxgk/fdzdgknr/?gk=1	内蒙古自治区人力资源和社会保障厅党组成员，自治区就业服务中心主任		内蒙古自治区人力资源和社会保障厅	https://rst.nmg.gov.cn/zfxxgk/fdzdgknr/jggk/ldxx/202309/t20230908_2375813.html	2221

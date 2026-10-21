@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+彭廷军		1		全国		http://www.mczx.agri.cn/jgsz/	主任		农业农村部农业贸易促进中心		1547
+李洪涛		2		全国		http://www.mczx.agri.cn/jgsz/	副主任		农业农村部农业贸易促进中心		1547
+吕向东		3		全国		http://www.mczx.agri.cn/jgsz/	副主任		农业农村部农业贸易促进中心		1547
+赵立军		4		全国		http://www.mczx.agri.cn/jgsz/	副主任		农业农村部农业贸易促进中心		1547
+刘武兵		5		全国		http://www.mczx.agri.cn/jgsz/	副主任		农业农村部农业贸易促进中心		1547

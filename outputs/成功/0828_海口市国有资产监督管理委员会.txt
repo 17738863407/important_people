@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+彭浩		1		海南省	海口市	http://gzw.haikou.gov.cn/hksgzw/ldxxx/202509/ca9d891a1fdd467aa622cc9c24f65c5b.shtml	海口市国有资产监督管理委员会党委书记、主任		海口市国有资产监督管理委员会		0828
+周卫国		2		海南省	海口市	http://gzw.haikou.gov.cn/hksgzw/ldxxx/202509/ca9d891a1fdd467aa622cc9c24f65c5b.shtml	党委委员，副主任（正处级）		海口市国有资产监督管理委员会		0828
+陈婵		3		海南省	海口市	http://gzw.haikou.gov.cn/hksgzw/ldxxx/202509/ca9d891a1fdd467aa622cc9c24f65c5b.shtml	海口市国有资产监督管理委员会党委委员、副主任		海口市国有资产监督管理委员会		0828
+曾文丽		4		海南省	海口市	http://gzw.haikou.gov.cn/hksgzw/ldxxx/202509/ca9d891a1fdd467aa622cc9c24f65c5b.shtml	海口市国有资产监督管理委员会党委委员、副主任		海口市国有资产监督管理委员会		0828
+吴清亮		5		海南省	海口市	http://gzw.haikou.gov.cn/hksgzw/ldxxx/202509/ca9d891a1fdd467aa622cc9c24f65c5b.shtml	海口市国有资产监督管理委员会副主任		海口市国有资产监督管理委员会		0828

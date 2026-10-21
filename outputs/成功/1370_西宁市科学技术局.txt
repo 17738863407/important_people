@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵建文		1		青海省	西宁市	https://kjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	党组书记、局长		西宁市科学技术局	https://kjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202409/t20240903_207406.html	1370
+戴航		2		青海省	西宁市	https://kjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副局长		西宁市科学技术局	https://kjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202104/t20210402_130819.html	1370
+宋洁		3		青海省	西宁市	https://kjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副局长		西宁市科学技术局	https://kjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202604/t20260420_234136.html	1370

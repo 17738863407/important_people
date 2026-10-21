@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄湘岳		1		广东省	深圳市	http://szeb.sz.gov.cn/gkmlpt/index#3311	深圳市委教育工委书记，市教育局党组书记、局长		深圳市教育局	https://szeb.sz.gov.cn/gkmlpt/content/12/12963/post_12963101.html	2663
+关苏		2		广东省	深圳市	http://szeb.sz.gov.cn/gkmlpt/index#3311	深圳市教育局党组成员、二级巡视员		深圳市教育局	https://szeb.sz.gov.cn/gkmlpt/content/10/10231/post_10231913.html	2663
+邱成瑜		3		广东省	深圳市	http://szeb.sz.gov.cn/gkmlpt/index#3311	深圳市委教育工委委员，市教育局党组成员、副局长		深圳市教育局	https://szeb.sz.gov.cn/gkmlpt/content/10/10231/post_10231911.html	2663
+钟义应		4		广东省	深圳市	http://szeb.sz.gov.cn/gkmlpt/index#3311	深圳市委教育工委委员，市教育局党组成员、副局长		深圳市教育局	https://szeb.sz.gov.cn/gkmlpt/content/10/10642/post_10642381.html	2663
+袁磊		5		广东省	深圳市	http://szeb.sz.gov.cn/gkmlpt/index#3311	深圳市委教育工委委员，市教育局党组成员、副局长		深圳市教育局	https://szeb.sz.gov.cn/gkmlpt/content/11/11883/post_11883994.html	2663
+文良方		6		广东省	深圳市	http://szeb.sz.gov.cn/gkmlpt/index#3311	深圳市委教育工委委员，市教育局党组成员、副局长		深圳市教育局	https://szeb.sz.gov.cn/gkmlpt/content/12/12963/post_12963095.html	2663
+杨平		7		广东省	深圳市	http://szeb.sz.gov.cn/gkmlpt/index#3311	深圳市教育局二级巡视员		深圳市教育局	https://szeb.sz.gov.cn/gkmlpt/content/10/10231/post_10231915.html	2663
+赵立		8		广东省	深圳市	http://szeb.sz.gov.cn/gkmlpt/index#3311	市教育局二级巡视员		深圳市教育局	https://szeb.sz.gov.cn/gkmlpt/content/10/10231/post_10231914.html	2663

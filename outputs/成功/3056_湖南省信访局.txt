@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+尹华凯		1		湖南省		http://xfj.hunan.gov.cn/hnxfj/c101004/ldlist.html	省人民政府副秘书长，省委社会工作部副部长，省信访局党组书记、局长		湖南省信访局		3056
+谭斌华		2		湖南省		http://xfj.hunan.gov.cn/hnxfj/c101004/ldlist.html	省信访局党组成员、一级巡视员		湖南省信访局		3056
+林中柱		3		湖南省		http://xfj.hunan.gov.cn/hnxfj/c101004/ldlist.html	省信访局党组成员、一级巡视员		湖南省信访局		3056
+戴云		4		湖南省		http://xfj.hunan.gov.cn/hnxfj/c101004/ldlist.html	省信访局党组成员、副局长		湖南省信访局		3056
+周功表		5		湖南省		http://xfj.hunan.gov.cn/hnxfj/c101004/ldlist.html	省信访局党组成员、副局长		湖南省信访局		3056

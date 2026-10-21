@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄娟		1		湖北省	武汉市	https://www.zuel.edu.cn/ldjj/	党委常委、组织部部长		中南财经政法大学	https://www.zuel.edu.cn/2025/0513/c10527a391466/page.htm	3659
+李小平		2		湖北省	武汉市	https://www.zuel.edu.cn/ldjj/	校长助理		中南财经政法大学	https://www.zuel.edu.cn/2025/0513/c10527a391445/page.htm	3659
+赵凯		3		湖北省	武汉市	https://www.zuel.edu.cn/ldjj/	校长助理		中南财经政法大学	https://www.zuel.edu.cn/2025/0513/c10527a391443/page.htm	3659
+侯振发		4		湖北省	武汉市	https://www.zuel.edu.cn/ldjj/	党委书记		中南财经政法大学	https://www.zuel.edu.cn/2020/1006/c10527a251438/page.htm	3659
+陈柏峰		5		湖北省	武汉市	https://www.zuel.edu.cn/ldjj/	党委常委、副校长		中南财经政法大学	https://www.zuel.edu.cn/2025/0220/c10527a384513/page.htm	3659
+张琦		6		湖北省	武汉市	https://www.zuel.edu.cn/ldjj/	党委常委、副校长		中南财经政法大学	https://www.zuel.edu.cn/2025/0220/c10527a384512/page.htm	3659
+朱方伟		7		湖北省	武汉市	https://www.zuel.edu.cn/ldjj/	校长、党委副书记		中南财经政法大学	https://www.zuel.edu.cn/2024/0926/c10527a373166/page.htm	3659
+周巍		8		湖北省	武汉市	https://www.zuel.edu.cn/ldjj/	党委常委、党委宣传部部长兼马克思主义学院院长		中南财经政法大学	https://www.zuel.edu.cn/2020/1006/c10527a251446/page.htm	3659
+陈狮		9		湖北省	武汉市	https://www.zuel.edu.cn/ldjj/	党委副书记		中南财经政法大学	https://www.zuel.edu.cn/2023/0719/c10527a340034/page.htm	3659
+徐涤宇		10		湖北省	武汉市	https://www.zuel.edu.cn/ldjj/	副校长		中南财经政法大学	https://www.zuel.edu.cn/2020/1006/c10527a251448/page.htm	3659

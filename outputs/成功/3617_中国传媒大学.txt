@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+廖祥忠		1		北京市		https://by.cuc.edu.cn/xrld2/list.htm	党委书记；党委常委		中国传媒大学		3617
+张树庭		2		北京市		https://by.cuc.edu.cn/xrld2/list.htm	党委副书记、校长；党委常委		中国传媒大学		3617
+张绍华		3		北京市		https://by.cuc.edu.cn/xrld2/list.htm	党委副书记；党委常委		中国传媒大学	https://by.cuc.edu.cn/2025/0109/c10796a250124/page.htm	3617
+郑鹏		4		北京市		https://by.cuc.edu.cn/xrld2/list.htm	党委副书记；纪委书记；党委常委		中国传媒大学	https://by.cuc.edu.cn/2024/0621/c11418a227553/page.htm	3617
+李新军		5		北京市		https://by.cuc.edu.cn/xrld2/list.htm	副校长；党委常委		中国传媒大学		3617
+王晖		6		北京市		https://by.cuc.edu.cn/xrld2/list.htm	副校长；党委常委		中国传媒大学		3617
+杨懿		7		北京市		https://by.cuc.edu.cn/xrld2/list.htm	副校长；党委常委		中国传媒大学		3617
+柴剑平		8		北京市		https://by.cuc.edu.cn/xrld2/list.htm	副校长；党委常委		中国传媒大学		3617
+任孟山		9		北京市		https://by.cuc.edu.cn/xrld2/list.htm	党委常委、副校长		中国传媒大学		3617
+徐红梅		10		北京市		https://by.cuc.edu.cn/xrld2/list.htm	党委常委		中国传媒大学		3617
+郭婧娜		11		北京市		https://by.cuc.edu.cn/xrld2/list.htm	党委常委；党委宣传部部长、党委统战部部长		中国传媒大学	https://by.cuc.edu.cn/2026/0610/c10799a271589/page.htm	3617
+金炜		12		北京市		https://by.cuc.edu.cn/xrld2/list.htm	校长助理		中国传媒大学		3617
+舒刚波		13		北京市		https://by.cuc.edu.cn/xrld2/list.htm	校长助理		中国传媒大学	https://by.cuc.edu.cn/2026/0319/c10798a267891/page.htm	3617

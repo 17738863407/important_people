@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王正祥		1		甘肃省	兰州市	http://lzgzw.lanzhou.gov.cn/col/col16146/index.html	党委书记、主任		兰州市人民政府国有资产监督管理委员会	https://lzgzw.lanzhou.gov.cn/art/2026/1/27/art_584_1343230.html	1488
+魏怀东		2		甘肃省	兰州市	http://lzgzw.lanzhou.gov.cn/col/col16146/index.html	党委委员、兰州市纪委监委派驻市政府国资委纪检监察组组长		兰州市人民政府国有资产监督管理委员会	https://lzgzw.lanzhou.gov.cn/art/2026/1/27/art_584_1675724.html	1488
+马张永		3		甘肃省	兰州市	http://lzgzw.lanzhou.gov.cn/col/col16146/index.html	党委委员、副主任		兰州市人民政府国有资产监督管理委员会	https://lzgzw.lanzhou.gov.cn/art/2026/1/27/art_584_1544999.html	1488
+陈巨明		4		甘肃省	兰州市	http://lzgzw.lanzhou.gov.cn/col/col16146/index.html	党委委员、副主任		兰州市人民政府国有资产监督管理委员会	https://lzgzw.lanzhou.gov.cn/art/2026/1/27/art_584_397930.html	1488
+井二怀		5		甘肃省	兰州市	http://lzgzw.lanzhou.gov.cn/col/col16146/index.html	党委委员、副主任		兰州市人民政府国有资产监督管理委员会	https://lzgzw.lanzhou.gov.cn/art/2026/1/27/art_584_471511.html	1488
+李天琼		6		甘肃省	兰州市	http://lzgzw.lanzhou.gov.cn/col/col16146/index.html	党委委员、副主任		兰州市人民政府国有资产监督管理委员会	https://lzgzw.lanzhou.gov.cn/art/2026/1/27/art_584_1302736.html	1488
+王小雯		7		甘肃省	兰州市	http://lzgzw.lanzhou.gov.cn/col/col16146/index.html	党委委员、副主任		兰州市人民政府国有资产监督管理委员会	https://lzgzw.lanzhou.gov.cn/art/2026/1/27/art_584_1397275.html	1488

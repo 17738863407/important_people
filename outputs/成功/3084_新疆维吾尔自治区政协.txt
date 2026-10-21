@@ -1,0 +1,16 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+努尔兰·阿不都满金		1		全国		https://www.xjzx.gov.cn/zxld/index.html	主席		新疆维吾尔自治区政协	https://www.xjzx.gov.cn/2026/08/18/zxld/6081.html	3084
+杨勇		2		全国		https://www.xjzx.gov.cn/zxld/index.html	副主席		新疆维吾尔自治区政协	https://www.xjzx.gov.cn/2026/08/18/ldjj/6067.html	3084
+阿不都热克甫·吐木尼牙孜		3		全国		https://www.xjzx.gov.cn/zxld/index.html	副主席		新疆维吾尔自治区政协	https://www.xjzx.gov.cn/2026/08/17/ldjj/6066.html	3084
+艾则孜·木沙		4		全国		https://www.xjzx.gov.cn/zxld/index.html	副主席		新疆维吾尔自治区政协	https://www.xjzx.gov.cn/2026/08/17/ldjj/6064.html	3084
+刘会军		5		全国		https://www.xjzx.gov.cn/zxld/index.html	副主席		新疆维吾尔自治区政协	https://www.xjzx.gov.cn/2026/08/17/ldjj/6063.html	3084
+刘见明		6		全国		https://www.xjzx.gov.cn/zxld/index.html	副主席		新疆维吾尔自治区政协	https://www.xjzx.gov.cn/2026/08/17/ldjj/6062.html	3084
+蒲雪梅		7		全国		https://www.xjzx.gov.cn/zxld/index.html	副主席		新疆维吾尔自治区政协	https://www.xjzx.gov.cn/2026/08/17/ldjj/6061.html	3084
+许咸宜		8		全国		https://www.xjzx.gov.cn/zxld/index.html	副主席		新疆维吾尔自治区政协	https://www.xjzx.gov.cn/2026/08/17/ldjj/6060.html	3084
+艾山江·艾合买提		9		全国		https://www.xjzx.gov.cn/zxld/index.html	副主席		新疆维吾尔自治区政协	https://www.xjzx.gov.cn/2026/08/17/ldjj/6059.html	3084
+巴图		10		全国		https://www.xjzx.gov.cn/zxld/index.html	副主席		新疆维吾尔自治区政协	https://www.xjzx.gov.cn/2026/08/17/ldjj/7202.html	3084
+石岗		11		全国		https://www.xjzx.gov.cn/zxld/index.html	副主席		新疆维吾尔自治区政协	https://www.xjzx.gov.cn/2026/08/17/ldjj/8613.html	3084
+王贵驷		12		全国		https://www.xjzx.gov.cn/zxld/index.html	副主席		新疆维吾尔自治区政协	https://www.xjzx.gov.cn/2026/08/17/ldjj/10356.html	3084
+库兰·赛富汗		13		全国		https://www.xjzx.gov.cn/zxld/index.html	副主席		新疆维吾尔自治区政协	https://www.xjzx.gov.cn/2026/08/17/ldjj/10357.html	3084
+艾尼玩·伊布拉音		14		全国		https://www.xjzx.gov.cn/zxld/index.html	副主席		新疆维吾尔自治区政协	https://www.xjzx.gov.cn/2026/08/17/ldjj/10358.html	3084
+任澄		15		全国		https://www.xjzx.gov.cn/zxld/index.html	秘书长		新疆维吾尔自治区政协	https://www.xjzx.gov.cn/2026/01/30/zxld/1470.html	3084

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+卫华		1		陕西省		https://jtyst.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组书记、厅长		陕西省交通运输厅	https://jtyst.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/wh/	1265
+吴鹏翔		2		陕西省		https://jtyst.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组成员、副厅长		陕西省交通运输厅	https://jtyst.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/wpx/	1265
+杨文奇		3		陕西省		https://jtyst.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组成员、副厅长		陕西省交通运输厅	https://jtyst.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/ywq/	1265
+李涛		4		陕西省		https://jtyst.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组成员、副厅长		陕西省交通运输厅	https://jtyst.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/lt/	1265
+孙海伟		5		陕西省		https://jtyst.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	副厅长		陕西省交通运输厅	https://jtyst.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/shw/	1265
+张庆聚		6		陕西省		https://jtyst.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组成员、副厅长		陕西省交通运输厅	https://jtyst.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/zqj/	1265
+李琦		7		陕西省		https://jtyst.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组成员、驻厅纪检监察组组长		陕西省交通运输厅	https://jtyst.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/lq/	1265
+侯波		8		陕西省		https://jtyst.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	厅党组成员、副厅长		陕西省交通运输厅	https://jtyst.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/hb/	1265

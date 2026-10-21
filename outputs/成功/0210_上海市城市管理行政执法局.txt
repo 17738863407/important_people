@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张永刚		1		上海市		https://cgzf.sh.gov.cn/channel_39/index.html	党组书记、局长		上海市城市管理行政执法局	https://cgzf.sh.gov.cn/channel_39/20260616/f0301139fe3e47b0b0fd99e39f5425d6.html	0210
+彭燕玲		2		上海市		https://cgzf.sh.gov.cn/channel_39/index.html	党组成员、二级巡视员		上海市城市管理行政执法局	https://cgzf.sh.gov.cn/channel_39/20260616/6ae7d059e3f943a28cff83be12f94ccf.html	0210
+唐磊		3		上海市		https://cgzf.sh.gov.cn/channel_39/index.html	党组成员、副局长		上海市城市管理行政执法局	https://cgzf.sh.gov.cn/channel_39/20260616/982c27cae8134d96a1504dc31355ecef.html	0210
+秦双亭		4		上海市		https://cgzf.sh.gov.cn/channel_39/index.html	党组成员、副局长		上海市城市管理行政执法局	https://cgzf.sh.gov.cn/channel_39/20260616/bf791891755649c88669e8638a3cb8d6.html	0210

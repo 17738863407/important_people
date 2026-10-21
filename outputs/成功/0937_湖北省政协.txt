@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙伟		1		全国		https://www.hbzx.gov.cn/category/517.html	主席		湖北省政协	https://www.hbzx.gov.cn/category/573.html	0937
+尔肯江•吐拉洪		2		全国		https://www.hbzx.gov.cn/category/517.html	副主席		湖北省政协	https://www.hbzx.gov.cn/category/577.html	0937
+张柏青		3		全国		https://www.hbzx.gov.cn/category/517.html	副主席		湖北省政协	https://www.hbzx.gov.cn/category/520.html	0937
+马旭明		4		全国		https://www.hbzx.gov.cn/category/517.html	副主席		湖北省政协	https://www.hbzx.gov.cn/category/523.html	0937
+张维国		5		全国		https://www.hbzx.gov.cn/category/517.html	副主席		湖北省政协	https://www.hbzx.gov.cn/category/525.html	0937
+杨玉华		6		全国		https://www.hbzx.gov.cn/category/517.html	副主席		湖北省政协	https://www.hbzx.gov.cn/category/526.html	0937
+秦顺全		7		全国		https://www.hbzx.gov.cn/category/517.html	副主席		湖北省政协	https://www.hbzx.gov.cn/category/527.html	0937
+王红玲		8		全国		https://www.hbzx.gov.cn/category/517.html	副主席		湖北省政协	https://www.hbzx.gov.cn/category/528.html	0937
+王兴於		9		全国		https://www.hbzx.gov.cn/category/517.html	副主席		湖北省政协	https://www.hbzx.gov.cn/category/594.html	0937
+党蓁		10		全国		https://www.hbzx.gov.cn/category/517.html	副主席		湖北省政协	https://www.hbzx.gov.cn/category/641.html	0937
+涂远超		11		全国		https://www.hbzx.gov.cn/category/517.html	秘书长		湖北省政协	https://www.hbzx.gov.cn/category/596.html	0937

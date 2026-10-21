@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+姜建明		1		河北省		https://wsjkw.hebei.gov.cn/ldxx/304.jhtml	河北省卫生健康委员会党组书记、主任		河北省卫生健康委员会		2991
+张军田		2		河北省		https://wsjkw.hebei.gov.cn/ldxx/304.jhtml	河北省卫生健康委员会党组成员、河北省纪委监委驻河北省卫生健康委员会纪检监察组组长		河北省卫生健康委员会		2991
+高丽君		3		河北省		https://wsjkw.hebei.gov.cn/ldxx/304.jhtml	河北省卫生健康委员会党组成员、副主任		河北省卫生健康委员会		2991
+孙国安		4		河北省		https://wsjkw.hebei.gov.cn/ldxx/304.jhtml	河北省卫生健康委员会党组成员、副主任（兼），河北省疾病预防控制局党组书记、局长		河北省卫生健康委员会		2991
+燕建振		5		河北省		https://wsjkw.hebei.gov.cn/ldxx/304.jhtml	河北省卫生健康委员会党组成员、副主任		河北省卫生健康委员会		2991
+李殿军		6		河北省		https://wsjkw.hebei.gov.cn/ldxx/304.jhtml	河北省卫生健康委员会党组成员、副主任		河北省卫生健康委员会		2991
+康恺		7		河北省		https://wsjkw.hebei.gov.cn/ldxx/304.jhtml	河北省卫生健康委员会党组成员、副主任		河北省卫生健康委员会		2991
+张凯		8		河北省		https://wsjkw.hebei.gov.cn/ldxx/304.jhtml	河北省卫生健康委员会党组成员，河北省中医药管理局党组书记、局长		河北省卫生健康委员会		2991
+邓军		9		河北省		https://wsjkw.hebei.gov.cn/ldxx/304.jhtml	河北省卫生健康委员会党组成员，河北省计划生育协会党组书记、常务副会长		河北省卫生健康委员会		2991
+段云波		10		河北省		https://wsjkw.hebei.gov.cn/ldxx/304.jhtml	河北省卫生健康委员会一级巡视员		河北省卫生健康委员会		2991
+范素文		11		河北省		https://wsjkw.hebei.gov.cn/ldxx/304.jhtml	河北省卫生健康委员会一级巡视员		河北省卫生健康委员会		2991

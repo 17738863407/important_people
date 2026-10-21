@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘冰		1		河南省	南阳市	https://www.nanyang.gov.cn/szf/	市长		南阳市人民政府	https://www.nanyang.gov.cn/szf/lb	3866
+夏兴		2		河南省	南阳市	https://www.nanyang.gov.cn/szf/	副市长		南阳市人民政府	https://www.nanyang.gov.cn/szf/xx	3866
+周华锋		3		河南省	南阳市	https://www.nanyang.gov.cn/szf/	副市长		南阳市人民政府	http://www.nanyang.gov.cn/szf/fsz/zhf	3866
+张堃		4		河南省	南阳市	https://www.nanyang.gov.cn/szf/	副市长		南阳市人民政府	https://www.nanyang.gov.cn/szf/zk	3866
+蔡令帅		5		河南省	南阳市	https://www.nanyang.gov.cn/szf/	副市长		南阳市人民政府	https://www.nanyang.gov.cn/szf/cls	3866
+赵斌		6		河南省	南阳市	https://www.nanyang.gov.cn/szf/	副市长		南阳市人民政府	https://www.nanyang.gov.cn/szf/zb	3866
+方明洋		7		河南省	南阳市	https://www.nanyang.gov.cn/szf/	副市长		南阳市人民政府	https://www.nanyang.gov.cn/szf/fmy	3866
+陈涛		8		河南省	南阳市	https://www.nanyang.gov.cn/szf/	副市长		南阳市人民政府	https://www.nanyang.gov.cn/szf/ct	3866
+王磊		9		河南省	南阳市	https://www.nanyang.gov.cn/szf/	副市长		南阳市人民政府	https://www.nanyang.gov.cn/szf/wl	3866
+党俊伟		10		河南省	南阳市	https://www.nanyang.gov.cn/szf/	秘书长		南阳市人民政府	https://www.nanyang.gov.cn/2026/08-20/1428019.html	3866

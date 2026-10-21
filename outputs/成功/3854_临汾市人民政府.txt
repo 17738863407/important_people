@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+薛向阳		1		山西省	临汾市	http://www.linfen.gov.cn/channels/11.html	临汾市政府党组成员、秘书长，市政府办公室党组书记、主任		临汾市人民政府	http://www.linfen.gov.cn/contents/14/7456.html	3854
+王延峰		2		山西省	临汾市	http://www.linfen.gov.cn/channels/11.html	山西省临汾市委副书记，市政府党组书记、市长		临汾市人民政府	http://www.linfen.gov.cn/contents/12/639.html	3854
+李艳萍		3		山西省	临汾市	http://www.linfen.gov.cn/channels/11.html	临汾市政府 党组成员、副市长		临汾市人民政府	http://www.linfen.gov.cn/contents/13/644.html	3854
+乔飞鸿		4		山西省	临汾市	http://www.linfen.gov.cn/channels/11.html	临汾市政府党组成员、副市长		临汾市人民政府	http://www.linfen.gov.cn/contents/13/643.html	3854
+王云		5		山西省	临汾市	http://www.linfen.gov.cn/channels/11.html	临汾市政府副市长		临汾市人民政府	http://www.linfen.gov.cn/contents/13/642.html	3854
+张希亮		6		山西省	临汾市	http://www.linfen.gov.cn/channels/11.html	临汾市政府党组成员、副市长，市公安局党委书记、局长、督察长		临汾市人民政府	http://www.linfen.gov.cn/contents/13/641.html	3854
+胡晓刚		7		山西省	临汾市	http://www.linfen.gov.cn/channels/11.html	临汾市委常委，市政府党组副书记、常务副市长		临汾市人民政府	http://www.linfen.gov.cn/contents/13/640.html	3854

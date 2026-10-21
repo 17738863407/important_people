@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张裔炯		1		全国		http://www.cppcc.gov.cn/zxww/newcppcc/mzhzjwyh/index.shtml	主任		中国人民政治协商会议全国委员会民族和宗教委员会		0319
+边巴扎西		2		全国		http://www.cppcc.gov.cn/zxww/newcppcc/mzhzjwyh/index.shtml	副主任		中国人民政治协商会议全国委员会民族和宗教委员会		0319
+多杰热旦		3		全国		http://www.cppcc.gov.cn/zxww/newcppcc/mzhzjwyh/index.shtml	副主任		中国人民政治协商会议全国委员会民族和宗教委员会		0319
+李山		4		全国		http://www.cppcc.gov.cn/zxww/newcppcc/mzhzjwyh/index.shtml	副主任		中国人民政治协商会议全国委员会民族和宗教委员会		0319
+李江		5		全国		http://www.cppcc.gov.cn/zxww/newcppcc/mzhzjwyh/index.shtml	副主任		中国人民政治协商会议全国委员会民族和宗教委员会		0319
+李光富		6		全国		http://www.cppcc.gov.cn/zxww/newcppcc/mzhzjwyh/index.shtml	副主任		中国人民政治协商会议全国委员会民族和宗教委员会		0319
+杨发明		7		全国		http://www.cppcc.gov.cn/zxww/newcppcc/mzhzjwyh/index.shtml	副主任		中国人民政治协商会议全国委员会民族和宗教委员会		0319
+林铎		8		全国		http://www.cppcc.gov.cn/zxww/newcppcc/mzhzjwyh/index.shtml	副主任		中国人民政治协商会议全国委员会民族和宗教委员会		0319
+徐晓鸿		9		全国		http://www.cppcc.gov.cn/zxww/newcppcc/mzhzjwyh/index.shtml	副主任		中国人民政治协商会议全国委员会民族和宗教委员会		0319
+蒋建国		10		全国		http://www.cppcc.gov.cn/zxww/newcppcc/mzhzjwyh/index.shtml	副主任		中国人民政治协商会议全国委员会民族和宗教委员会		0319
+演觉		11		全国		http://www.cppcc.gov.cn/zxww/newcppcc/mzhzjwyh/index.shtml	副主任		中国人民政治协商会议全国委员会民族和宗教委员会		0319
+徐乐江		12		全国		http://www.cppcc.gov.cn/zxww/newcppcc/mzhzjwyh/index.shtml	副主任		中国人民政治协商会议全国委员会民族和宗教委员会		0319
+王广华		13		全国		http://www.cppcc.gov.cn/zxww/newcppcc/mzhzjwyh/index.shtml	副主任		中国人民政治协商会议全国委员会民族和宗教委员会		0319

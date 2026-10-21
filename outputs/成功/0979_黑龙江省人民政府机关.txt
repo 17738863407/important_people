@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+常城		1		黑龙江省		https://www.hlj.gov.cn/hlj/c108398/szfjg.shtml	秘书长		黑龙江省人民政府机关	https://www.hlj.gov.cn/hlj/c108398/202211/c00_31385462.shtml	0979
+赵荣国		2		黑龙江省		https://www.hlj.gov.cn/hlj/c108398/szfjg.shtml	副秘书长		黑龙江省人民政府机关	https://www.hlj.gov.cn/hlj/c108398/202501/c00_31798448.shtml	0979
+褚世民		3		黑龙江省		https://www.hlj.gov.cn/hlj/c108398/szfjg.shtml	副秘书长		黑龙江省人民政府机关	https://www.hlj.gov.cn/hlj/c108398/202404/c00_31723478.shtml	0979
+殷延涛		4		黑龙江省		https://www.hlj.gov.cn/hlj/c108398/szfjg.shtml	副秘书长		黑龙江省人民政府机关	https://www.hlj.gov.cn/hlj/c108398/202211/c00_31385454.shtml	0979
+田林		5		黑龙江省		https://www.hlj.gov.cn/hlj/c108398/szfjg.shtml	副秘书长		黑龙江省人民政府机关	https://www.hlj.gov.cn/hlj/c108398/202412/c00_31791901.shtml	0979
+牟善学		6		黑龙江省		https://www.hlj.gov.cn/hlj/c108398/szfjg.shtml	副秘书长		黑龙江省人民政府机关	https://www.hlj.gov.cn/hlj/c108398/202507/c00_31860881.shtml	0979
+王宇		7		黑龙江省		https://www.hlj.gov.cn/hlj/c108398/szfjg.shtml	副秘书长		黑龙江省人民政府机关	https://www.hlj.gov.cn/hlj/c108398/202505/c00_31844267.shtml	0979
+关智		8		黑龙江省		https://www.hlj.gov.cn/hlj/c108398/szfjg.shtml	党组成员		黑龙江省人民政府机关	https://www.hlj.gov.cn/hlj/c108398/202411/c00_31784790.shtml	0979

@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李贻伟		1		广东省	广州市	https://www.gzzx.gov.cn/zxkk/zxld/	广州市政协主席、党组书记		广州市政协	https://www.gzzx.gov.cn/zxkk/zxld/202502/t20250221_167136.htm	0858
+王焕清		2		广东省	广州市	https://www.gzzx.gov.cn/zxkk/zxld/	中共广州市委常委、统战部部长，兼任广州市政协党组成员、副书记		广州市政协	https://www.gzzx.gov.cn/zxkk/zxld/202502/t20250221_167135.htm	0858
+武延军		3		广东省	广州市	https://www.gzzx.gov.cn/zxkk/zxld/	广州市政协副主席、党组成员		广州市政协	https://www.gzzx.gov.cn/zxkk/zxld/202502/t20250221_167134.htm	0858
+张雅洁		4		广东省	广州市	https://www.gzzx.gov.cn/zxkk/zxld/	广州市政协副主席		广州市政协	https://www.gzzx.gov.cn/zxkk/zxld/202502/t20250221_167133.htm	0858
+龚海杰		5		广东省	广州市	https://www.gzzx.gov.cn/zxkk/zxld/	广州市政协副主席、党组成员		广州市政协	https://www.gzzx.gov.cn/zxkk/zxld/202502/t20250221_167132.htm	0858
+王桂林		6		广东省	广州市	https://www.gzzx.gov.cn/zxkk/zxld/	广州市政协副主席，九三学社广东省委会副主委、九三学社广州市委会主委		广州市政协	https://www.gzzx.gov.cn/zxkk/zxld/202502/t20250221_167131.htm	0858
+何婧		7		广东省	广州市	https://www.gzzx.gov.cn/zxkk/zxld/	广州市政协副主席		广州市政协	https://www.gzzx.gov.cn/zxkk/zxld/202502/t20250221_167130.htm	0858
+何镜清		8		广东省	广州市	https://www.gzzx.gov.cn/zxkk/zxld/	广州市政协副主席、党组成员		广州市政协	https://www.gzzx.gov.cn/zxkk/zxld/202502/t20250221_167129.htm	0858
+李名扬		9		广东省	广州市	https://www.gzzx.gov.cn/zxkk/zxld/	广州市政协副主席，致公党广东省委会副主委、致公党广州市委会主委，广州市住房保障办公室主任		广州市政协	https://www.gzzx.gov.cn/zxkk/zxld/202502/t20250221_167128.htm	0858
+黄洁峰		10		广东省	广州市	https://www.gzzx.gov.cn/zxkk/zxld/	广州市政协党组成员、秘书长，机关党组书记、一级巡视员		广州市政协	https://www.gzzx.gov.cn/zxkk/zxld/202502/t20250221_167127.htm	0858

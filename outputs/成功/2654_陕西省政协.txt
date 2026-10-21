@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐新荣		1		全国		http://www.sxzx.gov.cn/zxld/zx/	主席		陕西省政协	http://www.sxzx.gov.cn/zxld/zx/65428.html	2654
+李明远		2		全国		http://www.sxzx.gov.cn/zxld/zx/	副主席		陕西省政协	http://www.sxzx.gov.cn/zxld/fzx/65435.html	2654
+杨冠军		3		全国		http://www.sxzx.gov.cn/zxld/zx/	副主席		陕西省政协	http://www.sxzx.gov.cn/zxld/fzx/65429.html	2654
+张晓光		4		全国		http://www.sxzx.gov.cn/zxld/zx/	副主席		陕西省政协	http://www.sxzx.gov.cn/zxld/fzx/65430.html	2654
+孙科		5		全国		http://www.sxzx.gov.cn/zxld/zx/	副主席		陕西省政协	http://www.sxzx.gov.cn/zxld/fzx/65431.html	2654
+范九伦		6		全国		http://www.sxzx.gov.cn/zxld/zx/	副主席		陕西省政协	http://www.sxzx.gov.cn/zxld/fzx/65432.html	2654
+高岭		7		全国		http://www.sxzx.gov.cn/zxld/zx/	副主席		陕西省政协	http://www.sxzx.gov.cn/zxld/fzx/65434.html	2654
+郑永刚		8		全国		http://www.sxzx.gov.cn/zxld/zx/	秘书长		陕西省政协	http://www.sxzx.gov.cn/zxld/msc/65438.html	2654
+张世保		9		全国		http://www.sxzx.gov.cn/zxld/zx/	副秘书长		陕西省政协	http://www.sxzx.gov.cn/zxld/fmsc/66759.html	2654
+黄赞		10		全国		http://www.sxzx.gov.cn/zxld/zx/	副秘书长		陕西省政协	http://www.sxzx.gov.cn/zxld/fmsc/65439.html	2654
+唐宝云		11		全国		http://www.sxzx.gov.cn/zxld/zx/	副秘书长		陕西省政协	http://www.sxzx.gov.cn/zxld/fmsc/65441.html	2654
+宁凌霄		12		全国		http://www.sxzx.gov.cn/zxld/zx/	副秘书长		陕西省政协	http://www.sxzx.gov.cn/zxld/fmsc/65440.html	2654

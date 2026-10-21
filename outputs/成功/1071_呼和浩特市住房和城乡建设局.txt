@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谷平		1		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/szfhcxjsj_22413/fdzdgknr/?gk=2&cid=23732#bmjgjjID	党组书记、局长		呼和浩特市住房和城乡建设局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/szfhcxjsj_22413/fdzdgknr/jgjj/ldjj/202607/t20260715_2020875.html	1071
+刘吉元		2		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/szfhcxjsj_22413/fdzdgknr/?gk=2&cid=23732#bmjgjjID	党组成员、副局长		呼和浩特市住房和城乡建设局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/szfhcxjsj_22413/fdzdgknr/jgjj/ldjj/202607/t20260715_2020880.html	1071
+赵丽华		3		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/szfhcxjsj_22413/fdzdgknr/?gk=2&cid=23732#bmjgjjID	党组成员、纪检监察组组长		呼和浩特市住房和城乡建设局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/szfhcxjsj_22413/fdzdgknr/jgjj/ldjj/202309/t20230915_1589600.html	1071
+张振义		4		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/szfhcxjsj_22413/fdzdgknr/?gk=2&cid=23732#bmjgjjID	党组成员、副局长		呼和浩特市住房和城乡建设局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/szfhcxjsj_22413/fdzdgknr/jgjj/ldjj/202607/t20260715_2020902.html	1071

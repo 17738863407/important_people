@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+安尤光		1		贵州省	贵阳市	http://yjj.guiyang.gov.cn/zwgk/zfxxgk_500638/fdzdgknr/jggk/jgld_5977774/	党委书记、局长		贵阳市应急管理局	http://yjj.guiyang.gov.cn/zwgk/zfxxgk_500638/fdzdgknr/jggk/jgld_5977774/202503/t20250320_87213049.html	3218
+周昊		2		贵州省	贵阳市	http://yjj.guiyang.gov.cn/zwgk/zfxxgk_500638/fdzdgknr/jggk/jgld_5977774/	党委委员、副局长		贵阳市应急管理局	http://yjj.guiyang.gov.cn/zwgk/zfxxgk_500638/fdzdgknr/jggk/jgld_5977774/202503/t20250320_87213050.html	3218
+卢朝坤		3		贵州省	贵阳市	http://yjj.guiyang.gov.cn/zwgk/zfxxgk_500638/fdzdgknr/jggk/jgld_5977774/	党委委员、副局长		贵阳市应急管理局	http://yjj.guiyang.gov.cn/zwgk/zfxxgk_500638/fdzdgknr/jggk/jgld_5977774/202503/t20250320_87213051.html	3218
+韩立钊		4		贵州省	贵阳市	http://yjj.guiyang.gov.cn/zwgk/zfxxgk_500638/fdzdgknr/jggk/jgld_5977774/	党委委员、政治部主任		贵阳市应急管理局	http://yjj.guiyang.gov.cn/zwgk/zfxxgk_500638/fdzdgknr/jggk/jgld_5977774/202503/t20250320_87213052.html	3218
+旷江华		5		贵州省	贵阳市	http://yjj.guiyang.gov.cn/zwgk/zfxxgk_500638/fdzdgknr/jggk/jgld_5977774/	党委委员、副局长		贵阳市应急管理局	http://yjj.guiyang.gov.cn/zwgk/zfxxgk_500638/fdzdgknr/jggk/jgld_5977774/202601/t20260108_89132363.html	3218
+方杰		6		贵州省	贵阳市	http://yjj.guiyang.gov.cn/zwgk/zfxxgk_500638/fdzdgknr/jggk/jgld_5977774/	党委委员、副局长		贵阳市应急管理局	http://yjj.guiyang.gov.cn/zwgk/zfxxgk_500638/fdzdgknr/jggk/jgld_5977774/202601/t20260108_89132405.html	3218
+胡正康		7		贵州省	贵阳市	http://yjj.guiyang.gov.cn/zwgk/zfxxgk_500638/fdzdgknr/jggk/jgld_5977774/	一级调研员		贵阳市应急管理局	http://yjj.guiyang.gov.cn/zwgk/zfxxgk_500638/fdzdgknr/jggk/jgld_5977774/202503/t20250320_87213048.html	3218
+邓发权		8		贵州省	贵阳市	http://yjj.guiyang.gov.cn/zwgk/zfxxgk_500638/fdzdgknr/jggk/jgld_5977774/	二级调研员		贵阳市应急管理局	http://yjj.guiyang.gov.cn/zwgk/zfxxgk_500638/fdzdgknr/jggk/jgld_5977774/202503/t20250320_87213047.html	3218

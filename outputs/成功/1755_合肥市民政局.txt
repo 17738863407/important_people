@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张圣涛		1		安徽省	合肥市	https://mzj.hefei.gov.cn/public/column/14161?type=4&catId=7036024&action=list&nav=3	党组书记、局长		合肥市民政局	https://mzj.hefei.gov.cn/public/14161/110793637.html	1755
+杨术云		2		安徽省	合肥市	https://mzj.hefei.gov.cn/public/column/14161?type=4&catId=7036024&action=list&nav=3	党组成员、副局长		合肥市民政局	https://mzj.hefei.gov.cn/public/14161/109768461.html	1755
+万晓源		3		安徽省	合肥市	https://mzj.hefei.gov.cn/public/column/14161?type=4&catId=7036024&action=list&nav=3	党组成员、副局长		合肥市民政局	https://mzj.hefei.gov.cn/public/14161/109768395.html	1755
+郜志华		4		安徽省	合肥市	https://mzj.hefei.gov.cn/public/column/14161?type=4&catId=7036024&action=list&nav=3	市民政局三级调研员		合肥市民政局	https://mzj.hefei.gov.cn/public/14161/109768525.html	1755
+代红彬		5		安徽省	合肥市	https://mzj.hefei.gov.cn/public/column/14161?type=4&catId=7036024&action=list&nav=3	市老龄工作委员会办公室常务副主任		合肥市民政局	https://mzj.hefei.gov.cn/public/14161/111404196.html	1755

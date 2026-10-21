@@ -1,0 +1,9 @@
+﻿姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵璟		1		陕西省	西安市	https://www.china-xa.gov.cn/pages/detail/index.html?id=1872888017388662786	主任		西安市人民代表大会常务委员会		0233
+卢力群		2		陕西省	西安市	https://www.china-xa.gov.cn/pages/detail/index.html?id=1872888017388662786	副主任		西安市人民代表大会常务委员会		0233
+王晓林		3		陕西省	西安市	https://www.china-xa.gov.cn/pages/detail/index.html?id=1872888017388662786	副主任		西安市人民代表大会常务委员会		0233
+杨宗科		4		陕西省	西安市	https://www.china-xa.gov.cn/pages/detail/index.html?id=1872888017388662786	副主任		西安市人民代表大会常务委员会		0233
+吕强		5		陕西省	西安市	https://www.china-xa.gov.cn/pages/detail/index.html?id=1872888017388662786	副主任		西安市人民代表大会常务委员会		0233
+贾轶昊		6		陕西省	西安市	https://www.china-xa.gov.cn/pages/detail/index.html?id=1872888017388662786	副主任		西安市人民代表大会常务委员会		0233
+张水利		7		陕西省	西安市	https://www.china-xa.gov.cn/pages/detail/index.html?id=1872888017388662786	副主任		西安市人民代表大会常务委员会		0233
+韩强		8		陕西省	西安市	https://www.china-xa.gov.cn/pages/detail/index.html?id=1872888017388662786	秘书长		西安市人民代表大会常务委员会		0233

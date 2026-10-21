@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨朝晖		1		广东省	梅州市	https://www.mzszx.gov.cn/show/index/1682/11798	党组书记、主席		梅州市政协		4316
+崔毅		2		广东省	梅州市	https://www.mzszx.gov.cn/show/index/1682/11798	市委常委、统战部部长、市政协党组副书记		梅州市政协		4316
+韩小林		3		广东省	梅州市	https://www.mzszx.gov.cn/show/index/1682/11798	副主席		梅州市政协		4316
+马志元		4		广东省	梅州市	https://www.mzszx.gov.cn/show/index/1682/11798	副主席		梅州市政协		4316
+陈元星		5		广东省	梅州市	https://www.mzszx.gov.cn/show/index/1682/11798	副主席		梅州市政协		4316
+李利平		6		广东省	梅州市	https://www.mzszx.gov.cn/show/index/1682/11798	副主席		梅州市政协		4316
+蔡雪嫦		7		广东省	梅州市	https://www.mzszx.gov.cn/show/index/1682/11798	党组成员、副主席		梅州市政协		4316
+曾碧玉		8		广东省	梅州市	https://www.mzszx.gov.cn/show/index/1682/11798	党组成员、副主席		梅州市政协		4316
+王健		9		广东省	梅州市	https://www.mzszx.gov.cn/show/index/1682/11798	党组成员、副主席、秘书长		梅州市政协		4316
+吴特宏		10		广东省	梅州市	https://www.mzszx.gov.cn/show/index/1682/11798	党组成员、副主席		梅州市政协		4316
+陈志宁		11		广东省	梅州市	https://www.mzszx.gov.cn/show/index/1682/11798	党组成员		梅州市政协		4316
+梁维		12		广东省	梅州市	https://www.mzszx.gov.cn/show/index/1682/11798	党组成员		梅州市政协		4316

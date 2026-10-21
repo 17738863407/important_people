@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈丁昆		1		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202608/t20260814_966866.htm	司长		文化和旅游部科技教育司		1509
+刘冬妍		2		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202608/t20260814_966866.htm	副司长		文化和旅游部科技教育司		1509
+韩纪文		3		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202608/t20260814_966866.htm	一级巡视员		文化和旅游部科技教育司		1509

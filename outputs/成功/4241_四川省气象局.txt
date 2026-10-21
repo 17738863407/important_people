@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+彭军		1		四川省		http://sc.cma.gov.cn/zfxxgk/fdzdgknr/jgyzn/fzrjbxx/	党组书记、局长		四川省气象局		4241
+杨兴明		2		四川省		http://sc.cma.gov.cn/zfxxgk/fdzdgknr/jgyzn/fzrjbxx/	党组成员，成都市气象局党组书记、局长		四川省气象局		4241
+陶建		3		四川省		http://sc.cma.gov.cn/zfxxgk/fdzdgknr/jgyzn/fzrjbxx/	党组成员、副局长、机关党委书记		四川省气象局		4241
+詹万志		4		四川省		http://sc.cma.gov.cn/zfxxgk/fdzdgknr/jgyzn/fzrjbxx/	党组成员、副局长		四川省气象局		4241
+储长江		5		四川省		http://sc.cma.gov.cn/zfxxgk/fdzdgknr/jgyzn/fzrjbxx/	党组成员、纪检组组长		四川省气象局		4241
+姚志国		6		四川省		http://sc.cma.gov.cn/zfxxgk/fdzdgknr/jgyzn/fzrjbxx/	党组成员、副局长		四川省气象局		4241
+李勇		7		四川省		http://sc.cma.gov.cn/zfxxgk/fdzdgknr/jgyzn/fzrjbxx/	党组成员、副局长		四川省气象局		4241

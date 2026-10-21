@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+金荣花		1		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200811_4673126.html	主任（台长）；党委书记		国家气象中心（中央气象台、中国气象局气象导航中心）		3732
+黄卓		2		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200811_4673126.html	副主任（副台长）；党委副书记		国家气象中心（中央气象台、中国气象局气象导航中心）		3732
+郭彩丽		3		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200811_4673126.html	纪委书记；党委常委		国家气象中心（中央气象台、中国气象局气象导航中心）		3732
+肖潺		4		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200811_4673126.html	副主任（副台长）；党委常委		国家气象中心（中央气象台、中国气象局气象导航中心）		3732
+代刊		5		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200811_4673126.html	副主任（副台长）；党委常委		国家气象中心（中央气象台、中国气象局气象导航中心）		3732
+张小玲		6		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200811_4673126.html	总工程师		国家气象中心（中央气象台、中国气象局气象导航中心）		3732

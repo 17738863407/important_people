@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郭丙福		1		山西省		http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/index.shtml	党组书记、厅长		山西省交通运输厅	http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/gbf/202111/t20211114_3367387.shtml	1266
+段新源		2		山西省		http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/index.shtml	党组成员、副厅长、省民航机场管理局局长		山西省交通运输厅	http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/dxy/202111/t20211114_3365507.shtml	1266
+王福宝		3		山西省		http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/index.shtml	党组成员、副厅长		山西省交通运输厅	http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/wfb/202509/t20250911_9957178.shtml	1266
+冀小明		4		山西省		http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/index.shtml	党组成员、驻厅纪检监察组组长		山西省交通运输厅	http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/jxm/202307/t20230714_8931716.shtml	1266
+许有志		5		山西省		http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/index.shtml	党组成员、副厅长		山西省交通运输厅	http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/xyz/202311/t20231128_9434582.shtml	1266
+杨斌		6		山西省		http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/index.shtml	党组成员、省公路局党委书记		山西省交通运输厅	http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/yb/202501/t20250107_9745005.shtml	1266
+赵振伟		7		山西省		http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/index.shtml	党组成员、副厅长		山西省交通运输厅	http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/wj_87824/202504/t20250425_9820795.shtml	1266
+董刚		8		山西省		http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/index.shtml	党组成员、副厅长、省邮政管理局局长		山西省交通运输厅	http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/dg/202506/t20250619_9881233.shtml	1266
+郭富平		9		山西省		http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/index.shtml	二级巡视员		山西省交通运输厅	http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/gfp/202512/t20251215_10013842.shtml	1266
+赵晓宙		10		山西省		http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/index.shtml	二级巡视员		山西省交通运输厅	http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/zxz/202512/t20251215_10013844.shtml	1266
+武建勇		11		山西省		http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/index.shtml	总工程师、一级调研员		山西省交通运输厅	http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/wjy/202512/t20251215_10013854.shtml	1266
+裴增武		12		山西省		http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/index.shtml	总规划师		山西省交通运输厅	http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/pzw/202603/t20260305_10073666.shtml	1266
+解宝平		13		山西省		http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/index.shtml	安全总监		山西省交通运输厅	http://jtyst.shanxi.gov.cn/zwgk/gkml/ldzl/jbp/202512/t20251215_10013841.shtml	1266

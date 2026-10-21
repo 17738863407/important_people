@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+肖文伟		1		湖南省		https://gzw.hunan.gov.cn/xxgk_71571/jgzn/jgld/wld/	党委书记、主任		湖南省人民政府国有资产监督管理委员会	https://gzw.hunan.gov.cn/gzw/xxgk_71571/jgzn/jgld/wld/201504/t20150420_1940906.html	0835
+杨晓喻		2		湖南省		https://gzw.hunan.gov.cn/xxgk_71571/jgzn/jgld/wld/	党委副书记、副主任		湖南省人民政府国有资产监督管理委员会	https://gzw.hunan.gov.cn/gzw/xxgk_71571/jgzn/jgld/wld/201109/t20110914_1940896.html	0835
+冯传良		3		湖南省		https://gzw.hunan.gov.cn/xxgk_71571/jgzn/jgld/wld/	党委委员、副主任		湖南省人民政府国有资产监督管理委员会	https://gzw.hunan.gov.cn/gzw/xxgk_71571/jgzn/jgld/wld/202105/t20210508_16526191.html	0835
+毛育新		4		湖南省		https://gzw.hunan.gov.cn/xxgk_71571/jgzn/jgld/wld/	党委委员、副主任		湖南省人民政府国有资产监督管理委员会	https://gzw.hunan.gov.cn/gzw/xxgk_71571/jgzn/jgld/wld/202105/t20210508_16526520.html	0835
+刘文华		5		湖南省		https://gzw.hunan.gov.cn/xxgk_71571/jgzn/jgld/wld/	党委委员、省纪委省监委驻省国资委纪检监察组组长、二级高级监察官		湖南省人民政府国有资产监督管理委员会	https://gzw.hunan.gov.cn/gzw/xxgk_71571/jgzn/jgld/wld/202312/t20231211_1940911.html	0835
+陈莹		6		湖南省		https://gzw.hunan.gov.cn/xxgk_71571/jgzn/jgld/wld/	党委委员、副主任		湖南省人民政府国有资产监督管理委员会	https://gzw.hunan.gov.cn/gzw/xxgk_71571/jgzn/jgld/wld/202607/t20260720_1940908.html	0835
+张翔		7		湖南省		https://gzw.hunan.gov.cn/xxgk_71571/jgzn/jgld/wld/	一级巡视员		湖南省人民政府国有资产监督管理委员会	https://gzw.hunan.gov.cn/gzw/xxgk_71571/jgzn/jgld/wld/202006/t20200611_12287152.html	0835
+欧文		8		湖南省		https://gzw.hunan.gov.cn/xxgk_71571/jgzn/jgld/wld/	二级巡视员		湖南省人民政府国有资产监督管理委员会	https://gzw.hunan.gov.cn/gzw/xxgk_71571/jgzn/jgld/wld/202507/t20250708_33733546.html	0835
+李艳辉		9		湖南省		https://gzw.hunan.gov.cn/xxgk_71571/jgzn/jgld/wld/	二级巡视员		湖南省人民政府国有资产监督管理委员会	https://gzw.hunan.gov.cn/gzw/xxgk_71571/jgzn/jgld/wld/201606/t20160621_3073864.html	0835
+姚明敏		10		湖南省		https://gzw.hunan.gov.cn/xxgk_71571/jgzn/jgld/wld/	二级巡视员		湖南省人民政府国有资产监督管理委员会	https://gzw.hunan.gov.cn/gzw/xxgk_71571/jgzn/jgld/wld/201904/t20190428_5323212.html	0835

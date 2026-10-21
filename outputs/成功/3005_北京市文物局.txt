@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张立新		1		北京市		https://wwj.beijing.gov.cn/bjww/362690/362698/362701/index.html	党组书记、局长、北京中轴线申遗保护工作办公室主任（兼）		北京市文物局		3005
+王翠杰		2		北京市		https://wwj.beijing.gov.cn/bjww/362690/362698/362701/index.html	党组副书记、副局长、一级巡视员		北京市文物局		3005
+白杰		3		北京市		https://wwj.beijing.gov.cn/bjww/362690/362698/362701/index.html	党组成员、副局长		北京市文物局		3005
+褚建好		4		北京市		https://wwj.beijing.gov.cn/bjww/362690/362698/362701/index.html	党组成员、副局长、北京中轴线申遗保护工作办公室专职副主任		北京市文物局		3005
+贾丁丁		5		北京市		https://wwj.beijing.gov.cn/bjww/362690/362698/362701/index.html	党组成员、中共北京市纪律检查委员会、北京市监察委员会驻北京市文物局纪检监察组组长、二级高级监察官		北京市文物局		3005
+郭京宁		6		北京市		https://wwj.beijing.gov.cn/bjww/362690/362698/362701/index.html	北京市文物局党组成员、首都博物馆党委书记、馆长		北京市文物局		3005
+刘正品		7		北京市		https://wwj.beijing.gov.cn/bjww/362690/362698/362701/index.html	二级巡视员		北京市文物局		3005
+刘洪昌		8		北京市		https://wwj.beijing.gov.cn/bjww/362690/362698/362701/index.html	二级巡视员		北京市文物局		3005

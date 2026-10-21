@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨义		1		海南省	海口市	http://ftz.haikou.gov.cn/xxgk/fdzdgknr/	党工委书记、管委会主任		海口综合保税区管理委员会	http://ftz.haikou.gov.cn/xxgk/ldxx/202301/t1219661.shtml	0574
+甘平		2		海南省	海口市	http://ftz.haikou.gov.cn/xxgk/fdzdgknr/	党工委副书记		海口综合保税区管理委员会	http://ftz.haikou.gov.cn/xxgk/ldxx/202207/t1050139.shtml	0574
+郑艳婼		3		海南省	海口市	http://ftz.haikou.gov.cn/xxgk/fdzdgknr/	党工委委员、市纪委监委派驻纪检监察组组长		海口综合保税区管理委员会	http://ftz.haikou.gov.cn/xxgk/ldxx/202208/t1073242.shtml	0574
+章霄		4		海南省	海口市	http://ftz.haikou.gov.cn/xxgk/fdzdgknr/	党工委委员 管委会副主任		海口综合保税区管理委员会	http://ftz.haikou.gov.cn/xxgk/ldxx/202512/t1480036.shtml	0574
+姚婷		5		海南省	海口市	http://ftz.haikou.gov.cn/xxgk/fdzdgknr/	工委委员、管委会副主任		海口综合保税区管理委员会	http://ftz.haikou.gov.cn/xxgk/ldxx/202606/t1532829.shtml	0574
+许宝		6		海南省	海口市	http://ftz.haikou.gov.cn/xxgk/fdzdgknr/	工委委员、管委会副主任		海口综合保税区管理委员会	http://ftz.haikou.gov.cn/xxgk/ldxx/202604/t1520677.shtml	0574
+米丹丹		7		海南省	海口市	http://ftz.haikou.gov.cn/xxgk/fdzdgknr/	工委委员，管委会副主任		海口综合保税区管理委员会	http://ftz.haikou.gov.cn/xxgk/ldxx/202608/t1542779.shtml	0574

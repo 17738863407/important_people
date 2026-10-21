@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高飞		1		吉林省	辽源市	https://www.liaoyuan.gov.cn/szf/	市长		辽源市人民政府	https://www.liaoyuan.gov.cn/szf/zfld/gf/	3851
+吕义		2		吉林省	辽源市	https://www.liaoyuan.gov.cn/szf/	常务副市长		辽源市人民政府	https://www.liaoyuan.gov.cn/szf/zfld/fsz/fszly_1/	3851
+刘以宁		3		吉林省	辽源市	https://www.liaoyuan.gov.cn/szf/	副市长		辽源市人民政府	https://www.liaoyuan.gov.cn/szf/zfld/fsz/fszlyn/	3851
+牟忠生		4		吉林省	辽源市	https://www.liaoyuan.gov.cn/szf/	副市长		辽源市人民政府	https://www.liaoyuan.gov.cn/szf/zfld/fsz/fszmzs/	3851
+刘淑梅		5		吉林省	辽源市	https://www.liaoyuan.gov.cn/szf/	副市长		辽源市人民政府	https://www.liaoyuan.gov.cn/szf/zfld/fsz/fszlsm/	3851
+孙黎		6		吉林省	辽源市	https://www.liaoyuan.gov.cn/szf/	副市长		辽源市人民政府	https://www.liaoyuan.gov.cn/szf/zfld/fsz/fszsl/	3851
+张维宇		7		吉林省	辽源市	https://www.liaoyuan.gov.cn/szf/	副市长		辽源市人民政府	https://www.liaoyuan.gov.cn/szf/zfld/fsz/fszzwy/	3851
+宋学文		8		吉林省	辽源市	https://www.liaoyuan.gov.cn/szf/	副市长		辽源市人民政府	https://www.liaoyuan.gov.cn/szf/zfld/fsz/fszsxw/	3851
+李延辉		9		吉林省	辽源市	https://www.liaoyuan.gov.cn/szf/	秘书长		辽源市人民政府	https://www.liaoyuan.gov.cn/szf/zfld/msz/lyh/	3851

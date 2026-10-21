@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘茂华		1		湖北省	武汉市	https://tjj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgzn/ldxx/	党组书记、局长		武汉市统计局	https://tjj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgzn/ldxx/202203/t20220301_1930813.shtml	2746
+刘忠庆		2		湖北省	武汉市	https://tjj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgzn/ldxx/	党组成员、副局长		武汉市统计局	https://tjj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgzn/ldxx/202004/t20200421_1526815.shtml	2746
+蒋于		3		湖北省	武汉市	https://tjj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgzn/ldxx/	二级巡视员		武汉市统计局	https://tjj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgzn/ldxx/202004/t20200421_1526814.shtml	2746
+田雁		4		湖北省	武汉市	https://tjj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgzn/ldxx/	党组成员、副局长		武汉市统计局	https://tjj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgzn/ldxx/202004/t20200421_1526818.shtml	2746
+胡开锋		5		湖北省	武汉市	https://tjj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgzn/ldxx/	党组成员、副局长		武汉市统计局	https://tjj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgzn/ldxx/202211/t20221129_2105964.shtml	2746

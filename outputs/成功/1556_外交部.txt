@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+齐玉		1		全国		https://www.mfa.gov.cn/web/wjb_673085/zygy_673101/	部党委书记		外交部	https://www.mfa.gov.cn/web/wjb_673085/zygy_673101/qy/	1556
+马朝旭		2		全国		https://www.mfa.gov.cn/web/wjb_673085/zygy_673101/	部党委委员、副部长 （分管外交日常业务工作，正部长级）		外交部	https://www.mfa.gov.cn/web/wjb_673085/zygy_673101/MZX/	1556
+李谦		3		全国		https://www.mfa.gov.cn/web/wjb_673085/zygy_673101/	部党委委员、中央纪委国家监委驻外交部纪检监察组组长		外交部	https://www.mfa.gov.cn/web/wjb_673085/zygy_673101/LQ/	1556
+华春莹		4		全国		https://www.mfa.gov.cn/web/wjb_673085/zygy_673101/	部党委委员、副部长		外交部	https://www.mfa.gov.cn/web/wjb_673085/zygy_673101/hcy1/	1556
+苗得雨		5		全国		https://www.mfa.gov.cn/web/wjb_673085/zygy_673101/	部党委委员、副部长		外交部	https://www.mfa.gov.cn/web/wjb_673085/zygy_673101/mdy/	1556
+赵志远		6		全国		https://www.mfa.gov.cn/web/wjb_673085/zygy_673101/	部党委委员、部长助理		外交部	https://www.mfa.gov.cn/web/wjb_673085/zygy_673101/zzy/	1556
+刘彬		7		全国		https://www.mfa.gov.cn/web/wjb_673085/zygy_673101/	部党委委员、部长助理		外交部	https://www.mfa.gov.cn/web/wjb_673085/zygy_673101/lb/	1556
+洪磊		8		全国		https://www.mfa.gov.cn/web/wjb_673085/zygy_673101/	部党委委员、部长助理		外交部	https://www.mfa.gov.cn/web/wjb_673085/zygy_673101/hl/	1556
+蔡伟		9		全国		https://www.mfa.gov.cn/web/wjb_673085/zygy_673101/	部党委委员、部长助理		外交部	https://www.mfa.gov.cn/web/wjb_673085/zygy_673101/CW_145362/	1556

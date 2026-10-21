@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘存俊		1		安徽省		https://www.ahdpf.org.cn/public/column/22555471?type=4&action=list&nav=3&catId=49940951	省残联党组书记、理事长		安徽省残疾人联合会	https://www.ahdpf.org.cn/public/22555471/143803541.html	0070
+纪德昌		2		安徽省		https://www.ahdpf.org.cn/public/column/22555471?type=4&action=list&nav=3&catId=49940951	省残联党组成员、副理事长		安徽省残疾人联合会	https://www.ahdpf.org.cn/public/22555471/146126141.html	0070
+郑伟		3		安徽省		https://www.ahdpf.org.cn/public/column/22555471?type=4&action=list&nav=3&catId=49940951	省残联党组成员、副理事长		安徽省残疾人联合会	https://www.ahdpf.org.cn/public/22555471/148562781.html	0070
+曾宁		4		安徽省		https://www.ahdpf.org.cn/public/column/22555471?type=4&action=list&nav=3&catId=49940951	省残联党组成员、副理事长		安徽省残疾人联合会	https://www.ahdpf.org.cn/public/22555471/148562761.html	0070

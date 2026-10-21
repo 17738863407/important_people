@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+傅华		1		全国		https://www.news.cn/xinhuashe/ldjs.htm	社长、党组书记		新华通讯社		1890
+吕岩松		2		全国		https://www.news.cn/xinhuashe/ldjs.htm	总编辑、党组副书记		新华通讯社		1890
+朱海黎		3		全国		https://www.news.cn/xinhuashe/ldjs.htm	副社长、党组成员兼机关党委书记		新华通讯社		1890
+刘健		4		全国		https://www.news.cn/xinhuashe/ldjs.htm	副社长、党组成员		新华通讯社		1890
+任卫东		5		全国		https://www.news.cn/xinhuashe/ldjs.htm	副总编辑、党组成员		新华通讯社		1890
+霍小光		6		全国		https://www.news.cn/xinhuashe/ldjs.htm	副社长、党组成员兼国内部主任、部务会主任		新华通讯社		1890
+袭艳春		7		全国		https://www.news.cn/xinhuashe/ldjs.htm	副社长、党组成员		新华通讯社		1890
+徐玉长		8		全国		https://www.news.cn/xinhuashe/ldjs.htm	党组成员、秘书长		新华通讯社		1890

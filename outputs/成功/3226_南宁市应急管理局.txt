@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+庄凯		1		广西壮族自治区	南宁市	http://yjj.nanning.gov.cn/jggk/ldbz/	党委书记、局长、一级调研员		南宁市应急管理局	http://yjj.nanning.gov.cn/jggk/ldbz/t6455670.html	3226
+蓝锦山		2		广西壮族自治区	南宁市	http://yjj.nanning.gov.cn/jggk/ldbz/	副局长、二级调研员、党委委员		南宁市应急管理局	http://yjj.nanning.gov.cn/jggk/ldbz/t5470545.html	3226
+玉德仁		3		广西壮族自治区	南宁市	http://yjj.nanning.gov.cn/jggk/ldbz/	副局长、二级调研员、党委委员		南宁市应急管理局	http://yjj.nanning.gov.cn/jggk/ldbz/t5470569.html	3226
+丁延运		4		广西壮族自治区	南宁市	http://yjj.nanning.gov.cn/jggk/ldbz/	政治部主任（副处长级）、三级调研员、党委委员		南宁市应急管理局	http://yjj.nanning.gov.cn/jggk/ldbz/t5470602.html	3226
+黄璐		5		广西壮族自治区	南宁市	http://yjj.nanning.gov.cn/jggk/ldbz/	副局长、党委委员		南宁市应急管理局	http://yjj.nanning.gov.cn/jggk/ldbz/t6676213.html	3226
+韦彬		6		广西壮族自治区	南宁市	http://yjj.nanning.gov.cn/jggk/ldbz/	副局长、党委委员		南宁市应急管理局	http://yjj.nanning.gov.cn/jggk/ldbz/t6737477.html	3226
+董顺		7		广西壮族自治区	南宁市	http://yjj.nanning.gov.cn/jggk/ldbz/	四级调研员		南宁市应急管理局	http://yjj.nanning.gov.cn/jggk/ldbz/t5470636.html	3226

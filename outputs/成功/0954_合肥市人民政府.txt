@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张泉		1		安徽省	合肥市	https://www.hefei.gov.cn/ldzc/index.html	市长		合肥市人民政府	https://www.hefei.gov.cn/content/column/6791741?liId=377	0954
+李命山		2		安徽省	合肥市	https://www.hefei.gov.cn/ldzc/index.html	副市长		合肥市人民政府	https://www.hefei.gov.cn/content/column/6791741?liId=409	0954
+刘文峰		3		安徽省	合肥市	https://www.hefei.gov.cn/ldzc/index.html	副市长		合肥市人民政府	https://www.hefei.gov.cn/content/column/6791741?liId=419	0954
+黄新		4		安徽省	合肥市	https://www.hefei.gov.cn/ldzc/index.html	副市长		合肥市人民政府	https://www.hefei.gov.cn/content/column/6791741?liId=415	0954
+王连贵		5		安徽省	合肥市	https://www.hefei.gov.cn/ldzc/index.html	副市长		合肥市人民政府	https://www.hefei.gov.cn/content/column/6791741?liId=368	0954
+何轶鸥		6		安徽省	合肥市	https://www.hefei.gov.cn/ldzc/index.html	副市长		合肥市人民政府	https://www.hefei.gov.cn/content/column/6791741?liId=422	0954
+范进		7		安徽省	合肥市	https://www.hefei.gov.cn/ldzc/index.html	副市长		合肥市人民政府	https://www.hefei.gov.cn/content/column/6791741?liId=425	0954

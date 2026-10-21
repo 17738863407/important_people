@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王爱学		1		安徽省		https://sjzyj.ah.gov.cn/public/column/7061?type=4&catId=34482268&action=list&nav=3	党组书记、局长		安徽省数据资源管理局	https://sjzyj.ah.gov.cn/public/7061/39979105.html	2470
+干伟文		2		安徽省		https://sjzyj.ah.gov.cn/public/column/7061?type=4&catId=34482268&action=list&nav=3	党组成员、副局长		安徽省数据资源管理局	https://sjzyj.ah.gov.cn/public/7061/40574721.html	2470
+王耿亮		3		安徽省		https://sjzyj.ah.gov.cn/public/column/7061?type=4&catId=34482268&action=list&nav=3	党组成员、副局长		安徽省数据资源管理局	https://sjzyj.ah.gov.cn/public/7061/40766765.html	2470

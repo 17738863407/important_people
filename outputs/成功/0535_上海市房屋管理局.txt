@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高世昀		1		上海市		https://fgj.sh.gov.cn/jgld/20211224/3a1b4b1fb0674b8f983c9c2870ab73ec.html	党组书记、局长		上海市房屋管理局		0535
+冷玉英		2		上海市		https://fgj.sh.gov.cn/jgld/20211224/3a1b4b1fb0674b8f983c9c2870ab73ec.html	党组成员、副局长		上海市房屋管理局		0535
+张冰		3		上海市		https://fgj.sh.gov.cn/jgld/20211224/3a1b4b1fb0674b8f983c9c2870ab73ec.html	党组成员、副局长		上海市房屋管理局		0535
+杨巧虹		4		上海市		https://fgj.sh.gov.cn/jgld/20211224/3a1b4b1fb0674b8f983c9c2870ab73ec.html	党组成员		上海市房屋管理局		0535
+冯钢花		5		上海市		https://fgj.sh.gov.cn/jgld/20211224/3a1b4b1fb0674b8f983c9c2870ab73ec.html	党组成员、总经济师		上海市房屋管理局		0535

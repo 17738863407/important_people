@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+冯伟		1		贵州省		http://jt.guizhou.gov.cn/zwgk/zfxxgk_5948492/fdzdgknr_5948495/jgxx/	厅党委书记、厅长		贵州省交通运输厅	http://jt.guizhou.gov.cn/zwgk/zfxxgk_5948492/fdzdgknr_5948495/jgxx/jgld1/202410/t20241023_85971116.html	1221
+谢朝剑		2		贵州省		http://jt.guizhou.gov.cn/zwgk/zfxxgk_5948492/fdzdgknr_5948495/jgxx/	厅党委委员，省纪委省监委派驻省交通运输厅纪检监察组组长、二级高级监察官		贵州省交通运输厅	http://jt.guizhou.gov.cn/zwgk/zfxxgk_5948492/fdzdgknr_5948495/jgxx/jgld1/202610/t20261008_90962285.html	1221
+陈健蕾		3		贵州省		http://jt.guizhou.gov.cn/zwgk/zfxxgk_5948492/fdzdgknr_5948495/jgxx/	厅党委委员、副厅长		贵州省交通运输厅	http://jt.guizhou.gov.cn/zwgk/zfxxgk_5948492/fdzdgknr_5948495/jgxx/jgld1/202410/t20241023_85971175.html	1221
+黄强		4		贵州省		http://jt.guizhou.gov.cn/zwgk/zfxxgk_5948492/fdzdgknr_5948495/jgxx/	厅党委委员、副厅长		贵州省交通运输厅	http://jt.guizhou.gov.cn/zwgk/zfxxgk_5948492/fdzdgknr_5948495/jgxx/jgld1/202410/t20241023_85971197.html	1221
+彭红梅		5		贵州省		http://jt.guizhou.gov.cn/zwgk/zfxxgk_5948492/fdzdgknr_5948495/jgxx/	厅党委委员、副厅长（兼），省邮政管理局党组书记、局长		贵州省交通运输厅	http://jt.guizhou.gov.cn/zwgk/zfxxgk_5948492/fdzdgknr_5948495/jgxx/jgld1/202609/t20260914_90866643.html	1221
+李湘春		6		贵州省		http://jt.guizhou.gov.cn/zwgk/zfxxgk_5948492/fdzdgknr_5948495/jgxx/	厅党委委员、副厅长、总规划师		贵州省交通运输厅	http://jt.guizhou.gov.cn/zwgk/zfxxgk_5948492/fdzdgknr_5948495/jgxx/jgld1/202609/t20260914_90866675.html	1221
+罗卫华		7		贵州省		http://jt.guizhou.gov.cn/zwgk/zfxxgk_5948492/fdzdgknr_5948495/jgxx/	厅党委委员、副厅长		贵州省交通运输厅	http://jt.guizhou.gov.cn/zwgk/zfxxgk_5948492/fdzdgknr_5948495/jgxx/jgld1/202609/t20260914_90866670.html	1221
+许湘华		8		贵州省		http://jt.guizhou.gov.cn/zwgk/zfxxgk_5948492/fdzdgknr_5948495/jgxx/	厅二级巡视员、总工程师		贵州省交通运输厅	http://jt.guizhou.gov.cn/zwgk/zfxxgk_5948492/fdzdgknr_5948495/jgxx/zgcszghsaqzj/202309/t20230927_82511011.html	1221
+彭华		9		贵州省		http://jt.guizhou.gov.cn/zwgk/zfxxgk_5948492/fdzdgknr_5948495/jgxx/	厅安全总监		贵州省交通运输厅	http://jt.guizhou.gov.cn/zwgk/zfxxgk_5948492/fdzdgknr_5948495/jgxx/zgcszghsaqzj/202507/t20250721_88316534.html	1221

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+章建育		1		湖北省	武汉市	https://wlj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党委书记、局长		武汉市文化和旅游局	http://wlj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202502/t20250227_2540427.shtml	2920
+杨菁		2		湖北省	武汉市	https://wlj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党委委员、副局长		武汉市文化和旅游局	http://wlj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202008/t20200827_1437206.shtml	2920
+刘兴元		3		湖北省	武汉市	https://wlj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党委委员、副局长		武汉市文化和旅游局	http://wlj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202209/t20220915_2041583.shtml	2920
+苏醒		4		湖北省	武汉市	https://wlj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党委委员、副局长		武汉市文化和旅游局	http://wlj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202508/t20250812_2632511.shtml	2920
+叶鹏		5		湖北省	武汉市	https://wlj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党委委员、市文化和旅游市场综合执法支队支队长		武汉市文化和旅游局	http://wlj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202211/t20221121_2100018.shtml	2920
+李劲松		6		湖北省	武汉市	https://wlj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	二级巡视员		武汉市文化和旅游局	http://wlj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202008/t20200827_1437203.shtml	2920

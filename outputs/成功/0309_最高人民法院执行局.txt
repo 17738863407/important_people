@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+付向波		1		全国		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/241.html	局长		最高人民法院执行局		0309
+王富博		2		全国		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/241.html	副局长		最高人民法院执行局		0309
+毛立华		3		全国		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/241.html	副局长		最高人民法院执行局		0309
+邵长茂		4		全国		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/241.html	副局长		最高人民法院执行局		0309
+韩峰		5		全国		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/241.html	专职党务干部		最高人民法院执行局		0309

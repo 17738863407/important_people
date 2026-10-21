@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马勇		1		新疆维吾尔自治区		https://czt.xinjiang.gov.cn/xjczt/c114982/zfxxgk_ld.shtml	自治区财政厅党组书记、副厅长		新疆维吾尔自治区财政厅	https://czt.xinjiang.gov.cn/xjczt/c114982/202002/7e8580b047ba4bd4b7bca21ce123a183.shtml	0397
+刘海燕		2		新疆维吾尔自治区		https://czt.xinjiang.gov.cn/xjczt/c114982/zfxxgk_ld.shtml	自治区财政厅党组副书记，厅长		新疆维吾尔自治区财政厅	https://czt.xinjiang.gov.cn/xjczt/c114982/202010/ad61b579b3a84ac9919cb5891bfe02e1.shtml	0397
+张天伟		3		新疆维吾尔自治区		https://czt.xinjiang.gov.cn/xjczt/c114982/zfxxgk_ld.shtml	自治区财政厅党组成员、副厅长（援疆）		新疆维吾尔自治区财政厅	https://czt.xinjiang.gov.cn/xjczt/c114982/202608/21baf71551d24c9fa9652c5c4efbc316.shtml	0397
+刘艳		4		新疆维吾尔自治区		https://czt.xinjiang.gov.cn/xjczt/c114982/zfxxgk_ld.shtml	自治区财政厅党组成员、副厅长		新疆维吾尔自治区财政厅	https://czt.xinjiang.gov.cn/xjczt/c114982/202410/5b4ceca16f0047dbad5bf28cc8764690.shtml	0397
+宋其龙		5		新疆维吾尔自治区		https://czt.xinjiang.gov.cn/xjczt/c114982/zfxxgk_ld.shtml	自治区财政厅党组成员、副厅长		新疆维吾尔自治区财政厅	https://czt.xinjiang.gov.cn/xjczt/c114982/202505/33bbcb04d3f4460b99c1413ddafb4116.shtml	0397
+李峰		6		新疆维吾尔自治区		https://czt.xinjiang.gov.cn/xjczt/c114982/zfxxgk_ld.shtml	自治区纪委监委驻自治区财政厅纪检监察组组长、自治区财政厅党组成员		新疆维吾尔自治区财政厅	https://czt.xinjiang.gov.cn/xjczt/c114982/202608/95699ff86da54a28b7933fb808d311fa.shtml	0397
+卡哈尔·牙生		7		新疆维吾尔自治区		https://czt.xinjiang.gov.cn/xjczt/c114982/zfxxgk_ld.shtml	自治区财政厅二级巡视员		新疆维吾尔自治区财政厅	https://czt.xinjiang.gov.cn/xjczt/c114982/202002/d76c971233e94a10b6737aa0b72d828b.shtml	0397
+吕文平		8		新疆维吾尔自治区		https://czt.xinjiang.gov.cn/xjczt/c114982/zfxxgk_ld.shtml	自治区财政厅二级巡视员		新疆维吾尔自治区财政厅	https://czt.xinjiang.gov.cn/xjczt/c114982/202010/6dd1741960ba45b09f50521db6c07251.shtml	0397
+刘伊芬		9		新疆维吾尔自治区		https://czt.xinjiang.gov.cn/xjczt/c114982/zfxxgk_ld.shtml	自治区财政厅人事处处长、二级巡视员		新疆维吾尔自治区财政厅	https://czt.xinjiang.gov.cn/xjczt/c114982/202002/a4b8a1b3ca394714aa8698f675f0958f.shtml	0397
+胡方毅		10		新疆维吾尔自治区		https://czt.xinjiang.gov.cn/xjczt/c114982/zfxxgk_ld.shtml	自治区财政厅总经济师		新疆维吾尔自治区财政厅	https://czt.xinjiang.gov.cn/xjczt/c114982/202607/158256e25c1b4ecc96a5d51a792d2cc5.shtml	0397
+蒋义		11		新疆维吾尔自治区		https://czt.xinjiang.gov.cn/xjczt/c114982/zfxxgk_ld.shtml	自治区财政厅总经济师、一级调研员（援疆）		新疆维吾尔自治区财政厅	https://czt.xinjiang.gov.cn/xjczt/c114982/202608/97196386905c4bfcb556fb4ee7640384.shtml	0397
+田雨鑫		12		新疆维吾尔自治区		https://czt.xinjiang.gov.cn/xjczt/c114982/zfxxgk_ld.shtml	自治区财政厅总会计师		新疆维吾尔自治区财政厅	https://czt.xinjiang.gov.cn/xjczt/c114982/202607/c1327bd9765c46e9adcfc7da05d0f9cc.shtml	0397
+于新鹏		13		新疆维吾尔自治区		https://czt.xinjiang.gov.cn/xjczt/c114982/zfxxgk_ld.shtml	自治区财政厅总会计师（援疆）		新疆维吾尔自治区财政厅	https://czt.xinjiang.gov.cn/xjczt/c114982/202608/0e977d9820fb422a84d6a91fffad1e03.shtml	0397

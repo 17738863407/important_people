@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+许俊强		1		福建省	厦门市	http://sf.xm.gov.cn/zwgk/jggk/ldjj/	党组书记、局长，厦门司法强制隔离戒毒所第一政委		厦门市司法局		2298
+石德明		2		福建省	厦门市	http://sf.xm.gov.cn/zwgk/jggk/ldjj/	党组成员、副局长		厦门市司法局		2298
+吴涛		3		福建省	厦门市	http://sf.xm.gov.cn/zwgk/jggk/ldjj/	党组成员、副局长		厦门市司法局		2298
+谌福荣		4		福建省	厦门市	http://sf.xm.gov.cn/zwgk/jggk/ldjj/	党组成员、副局长		厦门市司法局		2298
+王伟		5		福建省	厦门市	http://sf.xm.gov.cn/zwgk/jggk/ldjj/	党组成员、厦门司法强制隔离戒毒所二级警务专员		厦门市司法局		2298
+卢兆锋		6		福建省	厦门市	http://sf.xm.gov.cn/zwgk/jggk/ldjj/	党组成员、政治部（警务部）主任		厦门市司法局		2298
+林金铿		7		福建省	厦门市	http://sf.xm.gov.cn/zwgk/jggk/ldjj/	党组成员、办公室（改革处）主任、一级调研员		厦门市司法局		2298

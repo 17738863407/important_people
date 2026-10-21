@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨凯		1		贵州省	贵阳市	http://gxj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/ldzc/	党委书记		贵阳市工业和信息化局	http://gxj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/ldzc/202610/t20261010_90975216.html	0760
+赵娟		2		贵州省	贵阳市	http://gxj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/ldzc/	党委委员、市纪委监委派驻市工业和信息化局纪检组组长		贵阳市工业和信息化局	http://gxj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/ldzc/202108/t20210825_69757349.html	0760
+陈方勇		3		贵州省	贵阳市	http://gxj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/ldzc/	党委委员、副局长		贵阳市工业和信息化局	http://gxj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/ldzc/202402/t20240219_83820979.html	0760
+桑玉龙		4		贵州省	贵阳市	http://gxj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/ldzc/	党委委员、副局长		贵阳市工业和信息化局	http://gxj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/ldzc/202502/t20250212_86883644.html	0760
+王猛		5		贵州省	贵阳市	http://gxj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/ldzc/	党委委员、副局长		贵阳市工业和信息化局	http://gxj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/ldzc/202609/t20260909_90854024.html	0760
+徐云舟		6		贵州省	贵阳市	http://gxj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/ldzc/	二级调研员		贵阳市工业和信息化局	http://gxj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/ldzc/202108/t20210825_69757352.html	0760

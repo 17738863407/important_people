@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马森述		1		广东省		https://www.gdjct.gd.gov.cn/ldjgnew/index.html	中国共产党广东省第十三届纪律检查委员会书记；中国共产党广东省第十三届纪律检查委员会常委会委员；广东省监察委员会主任		广东省纪委监委		4493
+张子兴		2		广东省		https://www.gdjct.gd.gov.cn/ldjgnew/index.html	中国共产党广东省第十三届纪律检查委员会副书记；中国共产党广东省第十三届纪律检查委员会常委会委员；广东省监察委员会副主任		广东省纪委监委		4493
+方明		3		广东省		https://www.gdjct.gd.gov.cn/ldjgnew/index.html	中国共产党广东省第十三届纪律检查委员会副书记；中国共产党广东省第十三届纪律检查委员会常委会委员；广东省监察委员会副主任		广东省纪委监委		4493
+肖建清		4		广东省		https://www.gdjct.gd.gov.cn/ldjgnew/index.html	中国共产党广东省第十三届纪律检查委员会常委会委员		广东省纪委监委		4493
+廖锦添		5		广东省		https://www.gdjct.gd.gov.cn/ldjgnew/index.html	中国共产党广东省第十三届纪律检查委员会常委会委员		广东省纪委监委		4493
+刘志民		6		广东省		https://www.gdjct.gd.gov.cn/ldjgnew/index.html	中国共产党广东省第十三届纪律检查委员会常委会委员		广东省纪委监委		4493
+梁江波		7		广东省		https://www.gdjct.gd.gov.cn/ldjgnew/index.html	中国共产党广东省第十三届纪律检查委员会常委会委员		广东省纪委监委		4493
+周莉		8		广东省		https://www.gdjct.gd.gov.cn/ldjgnew/index.html	中国共产党广东省第十三届纪律检查委员会常委会委员		广东省纪委监委		4493

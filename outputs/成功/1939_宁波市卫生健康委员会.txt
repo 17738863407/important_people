@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+俞曹平		1		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218863/index.html	主任、党委书记		宁波市卫生健康委员会	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218863_26075.html	1939
+孙雪明		2		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218863/index.html	党委副书记		宁波市卫生健康委员会	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218863_26076.html	1939
+李湘虹		3		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218863/index.html	副主任、市计生协专职副会长		宁波市卫生健康委员会	https://www.ningbo.gov.cn/art/2023/7/28/art_1229218863_146118.html	1939
+夏冠斌		4		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218863/index.html	副主任、党委委员		宁波市卫生健康委员会	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218863_26080.html	1939
+史国建		5		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218863/index.html	副主任、党委委员，市疾病预防控制局局长		宁波市卫生健康委员会	https://www.ningbo.gov.cn/art/2022/10/24/art_1229218863_135036.html	1939
+孙向东		6		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218863/index.html	副主任、党委委员		宁波市卫生健康委员会	https://www.ningbo.gov.cn/art/2023/7/28/art_1229218863_146119.html	1939
+黄颖琦		7		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218863/index.html	党委委员、驻委纪检监察组组长		宁波市卫生健康委员会	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218863_26071.html	1939
+王雪亮		8		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218863/index.html	党委委员、二级巡视员		宁波市卫生健康委员会	https://www.ningbo.gov.cn/art/2022/12/9/art_1229218863_136625.html	1939
+童峰		9		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218863/index.html	党委委员、市疾病预防控制中心主任		宁波市卫生健康委员会	https://www.ningbo.gov.cn/art/2022/10/24/art_1229218863_135037.html	1939
+周建淋		10		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218863/index.html	市爱卫会专职副主任		宁波市卫生健康委员会	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218863_26079.html	1939
+应黎明		11		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218863/index.html	二级巡视员		宁波市卫生健康委员会	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218863_26074.html	1939
+胡金立		12		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218863/index.html	二级巡视员		宁波市卫生健康委员会	https://www.ningbo.gov.cn/art/2022/10/24/art_1229218863_135035.html	1939

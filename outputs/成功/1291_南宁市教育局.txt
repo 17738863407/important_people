@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+宁敏升		1		广西壮族自治区	南宁市	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/	中共南宁市委教育工作委员会书记，南宁市教育局党组书记、局长		南宁市教育局	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/t4827428.html	1291
+章志宏		2		广西壮族自治区	南宁市	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/	中共南宁市委教育工作委员会委员，南宁市教育局党组成员、副局长，二级调研员		南宁市教育局	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/t1157762.html	1291
+陆西宁		3		广西壮族自治区	南宁市	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/	中共南宁市委教育工作委员会委员，南宁市教育局党组成员、副局长、三级调研员		南宁市教育局	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/t1157759.html	1291
+陈鑫		4		广西壮族自治区	南宁市	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/	中共南宁市委教育工作委员会委员，南宁市教育局党组成员、副局长		南宁市教育局	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/t4716618.html	1291
+秦臻		5		广西壮族自治区	南宁市	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/	中共南宁市纪律检查委员会、南宁市监察委员会驻南宁市教育局纪检监察组组长，南宁市教育局党组成员，中共南宁市委教育工作委员会委员，四级高级监察官		南宁市教育局	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/t1157760.html	1291
+林柳妮		6		广西壮族自治区	南宁市	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/	中共南宁市委教育工作委员会委员，南宁市教育局总督学		南宁市教育局	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/t6679441.html	1291
+杨菲		7		广西壮族自治区	南宁市	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/	南宁市教育局副局长		南宁市教育局	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/t6732076.html	1291
+刘彪		8		广西壮族自治区	南宁市	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/	南宁市教育局一级调研员，南宁学院党委书记		南宁市教育局	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/t1157764.html	1291
+林文辉		9		广西壮族自治区	南宁市	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/	南宁市教育局四级调研员		南宁市教育局	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/t5668372.html	1291
+黄琰		10		广西壮族自治区	南宁市	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/	南宁市教育局四级调研员		南宁市教育局	https://jy.nanning.gov.cn/xxgk/fdzdgknr/zwgk/ldfg/t6477552.html	1291

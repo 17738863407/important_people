@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李银海		1		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/stylyj/xxgkml_2465/gkxx_2466/ldfg_2468/202607/t20260707_5283633.html	银川市体育局党组书记、局长、一级调研员		银川市体育局		3177
+陈昆		2		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/stylyj/xxgkml_2465/gkxx_2466/ldfg_2468/202607/t20260707_5283633.html	银川市体育局党组成员、副局长，二级调研员		银川市体育局		3177
+刘彦琴		3		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/stylyj/xxgkml_2465/gkxx_2466/ldfg_2468/202607/t20260707_5283633.html	银川市体育局党组成员、副局长		银川市体育局		3177
+孙宏刚		4		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/stylyj/xxgkml_2465/gkxx_2466/ldfg_2468/202607/t20260707_5283633.html	银川市体育局二级调研员		银川市体育局		3177
+李洪江		5		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/stylyj/xxgkml_2465/gkxx_2466/ldfg_2468/202607/t20260707_5283633.html	银川市体育局四级调研员		银川市体育局		3177

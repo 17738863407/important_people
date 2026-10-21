@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+戴建文		1		湖南省	长沙市	http://nyw.changsha.gov.cn/xxgk/xxgkml/zzjg/ldxx/	市农业农村局党组书记、局长，长沙市乡村振兴局局长（兼）		长沙市农业农村局	http://nyw.changsha.gov.cn/xxgk/xxgkml/zzjg/ldxx/202201/t20220126_10457152.html	2061
+黄志强		2		湖南省	长沙市	http://nyw.changsha.gov.cn/xxgk/xxgkml/zzjg/ldxx/	党组成员、副局长		长沙市农业农村局	http://nyw.changsha.gov.cn/xxgk/xxgkml/zzjg/ldxx/201811/t20181115_2841623.html	2061
+周兴发		3		湖南省	长沙市	http://nyw.changsha.gov.cn/xxgk/xxgkml/zzjg/ldxx/	市委农办副主任		长沙市农业农村局	http://nyw.changsha.gov.cn/xxgk/xxgkml/zzjg/ldxx/201811/t20181115_2841629.html	2061
+张忠		4		湖南省	长沙市	http://nyw.changsha.gov.cn/xxgk/xxgkml/zzjg/ldxx/	市纪委监委派驻市农业农村局纪检监察组组长、党组成员		长沙市农业农村局	http://nyw.changsha.gov.cn/xxgk/xxgkml/zzjg/ldxx/202202/t20220211_10468689.html	2061
+康勇		5		湖南省	长沙市	http://nyw.changsha.gov.cn/xxgk/xxgkml/zzjg/ldxx/	党组成员、副局长		长沙市农业农村局	http://nyw.changsha.gov.cn/xxgk/xxgkml/zzjg/ldxx/202402/t20240218_11371979.html	2061
+张翼		6		湖南省	长沙市	http://nyw.changsha.gov.cn/xxgk/xxgkml/zzjg/ldxx/	党组成员、副局长		长沙市农业农村局	http://nyw.changsha.gov.cn/xxgk/xxgkml/zzjg/ldxx/202312/t20231221_11325444.html	2061
+谢文		7		湖南省	长沙市	http://nyw.changsha.gov.cn/xxgk/xxgkml/zzjg/ldxx/	党组成员、副局长		长沙市农业农村局	http://nyw.changsha.gov.cn/xxgk/xxgkml/zzjg/ldxx/202602/t20260225_12318509.html	2061

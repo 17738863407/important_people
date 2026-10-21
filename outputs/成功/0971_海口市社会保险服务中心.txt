@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄小兴		1		海南省	海口市	https://hksbyb.haikou.gov.cn/xxgk/fdzdgknr/jgjs_7985/ldxx/202410/t1383717.shtml	主任		海口市社会保险服务中心		0971
+柯廷涛		2		海南省	海口市	https://hksbyb.haikou.gov.cn/xxgk/fdzdgknr/jgjs_7985/ldxx/202410/t1383717.shtml	副主任		海口市社会保险服务中心		0971
+韩冬藏		3		海南省	海口市	https://hksbyb.haikou.gov.cn/xxgk/fdzdgknr/jgjs_7985/ldxx/202410/t1383717.shtml	副主任		海口市社会保险服务中心		0971
+李彦		4		海南省	海口市	https://hksbyb.haikou.gov.cn/xxgk/fdzdgknr/jgjs_7985/ldxx/202410/t1383717.shtml	四级调研员		海口市社会保险服务中心		0971

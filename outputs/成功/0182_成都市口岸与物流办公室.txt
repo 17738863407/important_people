@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+景波		1		四川省	成都市	https://cdwl.chengdu.gov.cn/kawlb/c133582/list.shtml	成都市口岸与物流办公室党组书记、主任，		成都市口岸与物流办公室	https://cdwl.chengdu.gov.cn/kawlb/c133582/2026-07/01/content_f132210bb4d049b287404eb8a0ec3593.shtml	0182
+吴征宇		2		四川省	成都市	https://cdwl.chengdu.gov.cn/kawlb/c133582/list.shtml	成都市口岸与物流办公室党组成员、副主任，		成都市口岸与物流办公室	https://cdwl.chengdu.gov.cn/kawlb/c133582/2020-04/01/content_a5603e8651fd4d76aa297fff19fd7674.shtml	0182
+刘学军		3		四川省	成都市	https://cdwl.chengdu.gov.cn/kawlb/c133582/list.shtml	成都市口岸与物流办公室党组成员、副主任，		成都市口岸与物流办公室	https://cdwl.chengdu.gov.cn/kawlb/c133582/2020-04/01/content_3ecb7fdf70fe43839dd72cb1b1eda3f1.shtml	0182
+王平		4		四川省	成都市	https://cdwl.chengdu.gov.cn/kawlb/c133582/list.shtml	成都市口岸与物流办公室党组成员、副主任，		成都市口岸与物流办公室	https://cdwl.chengdu.gov.cn/kawlb/c133582/2025-03/06/content_839506805f2c48ce91048399d97a35c5.shtml	0182

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张志锋		1		全国		https://www.fecomee.org.cn/zxjs/ldxx/201905/t20190506_701909.html	党委书记、主任		生态环境部对外合作与交流中心		0534
+邸伟杰		2		全国		https://www.fecomee.org.cn/zxjs/ldxx/201905/t20190506_701909.html	党委委员、副主任		生态环境部对外合作与交流中心		0534
+陈志华		3		全国		https://www.fecomee.org.cn/zxjs/ldxx/201905/t20190506_701909.html	副主任		生态环境部对外合作与交流中心		0534
+丁辉		4		全国		https://www.fecomee.org.cn/zxjs/ldxx/201905/t20190506_701909.html	党委委员、纪委书记		生态环境部对外合作与交流中心		0534
+陈刚		5		全国		https://www.fecomee.org.cn/zxjs/ldxx/201905/t20190506_701909.html	“一带一路”绿色发展国际联盟秘书长		生态环境部对外合作与交流中心		0534
+李霞		6		全国		https://www.fecomee.org.cn/zxjs/ldxx/201905/t20190506_701909.html	党委委员、副主任		生态环境部对外合作与交流中心		0534
+王新		7		全国		https://www.fecomee.org.cn/zxjs/ldxx/201905/t20190506_701909.html	党委委员、总经济师		生态环境部对外合作与交流中心		0534

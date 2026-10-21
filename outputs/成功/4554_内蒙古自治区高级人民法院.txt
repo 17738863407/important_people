@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨宗仁		1		内蒙古自治区		http://gy.nmgfy.gov.cn/article/detail/2026/07/id/9415996.shtml	内蒙古自治区高级人民法院党组书记、院长		内蒙古自治区高级人民法院		4554
+安翱		2		内蒙古自治区		http://gy.nmgfy.gov.cn/article/detail/2026/07/id/9415996.shtml	内蒙古自治区高级人民法院党组副书记、副院长		内蒙古自治区高级人民法院		4554
+李建平		3		内蒙古自治区		http://gy.nmgfy.gov.cn/article/detail/2026/07/id/9415996.shtml	内蒙古自治区高级人民法院党组成员、副院长		内蒙古自治区高级人民法院		4554
+那澜		4		内蒙古自治区		http://gy.nmgfy.gov.cn/article/detail/2026/07/id/9415996.shtml	内蒙古自治区高级人民法院党组成员、副院长		内蒙古自治区高级人民法院		4554
+苏利军		5		内蒙古自治区		http://gy.nmgfy.gov.cn/article/detail/2026/07/id/9415996.shtml	内蒙古自治区高级人民法院党组成员、副院长		内蒙古自治区高级人民法院		4554
+张秀丽		6		内蒙古自治区		http://gy.nmgfy.gov.cn/article/detail/2026/07/id/9415996.shtml	内蒙古自治区纪委监委驻内蒙古自治区高级人民法院纪检监察组组长内蒙古自治区高级人民法院党组成员		内蒙古自治区高级人民法院		4554
+黄丽娜		7		内蒙古自治区		http://gy.nmgfy.gov.cn/article/detail/2026/07/id/9415996.shtml	内蒙古自治区高级人民法院党组成员、政治部主任		内蒙古自治区高级人民法院		4554
+任慧卿		8		内蒙古自治区		http://gy.nmgfy.gov.cn/article/detail/2026/07/id/9415996.shtml	内蒙古自治区高级人民法院副院长		内蒙古自治区高级人民法院		4554
+刘文华		9		内蒙古自治区		http://gy.nmgfy.gov.cn/article/detail/2026/07/id/9415996.shtml	内蒙古自治区高级人民法院审判委员会专职委员		内蒙古自治区高级人民法院		4554
+李全锁		10		内蒙古自治区		http://gy.nmgfy.gov.cn/article/detail/2026/07/id/9415996.shtml	内蒙古自治区高级人民法院审判委员会专职委员		内蒙古自治区高级人民法院		4554
+黄建华		11		内蒙古自治区		http://gy.nmgfy.gov.cn/article/detail/2026/07/id/9415996.shtml	内蒙古自治区高级人民法院执行局局长		内蒙古自治区高级人民法院		4554

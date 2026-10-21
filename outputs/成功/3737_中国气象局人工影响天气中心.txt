@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李集明		1		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200803_4629772.html	党委书记；主任		中国气象局人工影响天气中心		3737
+周述学		2		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200803_4629772.html	党委常委；副主任		中国气象局人工影响天气中心		3737
+赵志强		3		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200803_4629772.html	党委常委；副主任		中国气象局人工影响天气中心		3737
+熊毅		4		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200803_4629772.html	党委常委；副主任		中国气象局人工影响天气中心		3737
+周新颖		5		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200803_4629772.html	党委常委；纪委书记		中国气象局人工影响天气中心		3737
+陈宝君		6		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200803_4629772.html	党委常委；总工程师		中国气象局人工影响天气中心		3737

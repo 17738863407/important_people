@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+庄国泰		1		全国		http://district.ce.cn/zt/rwk/sf/gs/zx/201302/26/t20130226_770987.shtml	主席		甘肃省政协	http://district.ce.cn/newarea/sddy/202301/19/t20230119_38355967.shtml	0417
+何伟		2		全国		http://district.ce.cn/zt/rwk/sf/gs/zx/201302/26/t20130226_770987.shtml	副主席		甘肃省政协	http://district.ce.cn/newarea/sddy/202301/19/t20230119_38355967_1.shtml	0417
+马文云		3		全国		http://district.ce.cn/zt/rwk/sf/gs/zx/201302/26/t20130226_770987.shtml	副主席		甘肃省政协	http://district.ce.cn/newarea/sddy/202301/19/t20230119_38355967_2.shtml	0417
+王锐		4		全国		http://district.ce.cn/zt/rwk/sf/gs/zx/201302/26/t20130226_770987.shtml	副主席		甘肃省政协	http://district.ce.cn/newarea/sddy/202301/19/t20230119_38355967_3.shtml	0417
+尚勋武		5		全国		http://district.ce.cn/zt/rwk/sf/gs/zx/201302/26/t20130226_770987.shtml	副主席		甘肃省政协	http://district.ce.cn/newarea/sddy/202301/19/t20230119_38355967_5.shtml	0417
+贠建民		6		全国		http://district.ce.cn/zt/rwk/sf/gs/zx/201302/26/t20130226_770987.shtml	副主席		甘肃省政协	http://district.ce.cn/newarea/sddy/202301/19/t20230119_38355967_6.shtml	0417
+霍卫平		7		全国		http://district.ce.cn/zt/rwk/sf/gs/zx/201302/26/t20130226_770987.shtml	副主席		甘肃省政协	http://district.ce.cn/newarea/sddy/202301/19/t20230119_38355967_8.shtml	0417
+刘仲奎		8		全国		http://district.ce.cn/zt/rwk/sf/gs/zx/201302/26/t20130226_770987.shtml	副主席		甘肃省政协	http://district.ce.cn/newarea/sddy/202301/19/t20230119_38355967_9.shtml	0417
+吴万华		9		全国		http://district.ce.cn/zt/rwk/sf/gs/zx/201302/26/t20130226_770987.shtml	副主席		甘肃省政协	http://district.ce.cn/newarea/sddy/202601/t20260130_2740291.shtml	0417
+黄泽元		10		全国		http://district.ce.cn/zt/rwk/sf/gs/zx/201302/26/t20130226_770987.shtml	秘书长		甘肃省政协	http://district.ce.cn/newarea/sddy/202601/t20260130_2740291.shtml	0417

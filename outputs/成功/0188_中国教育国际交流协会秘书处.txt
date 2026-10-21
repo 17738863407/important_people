@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨军		1		全国		https://www.ceaie.edu.cn/dist/#/us	秘书长		中国教育国际交流协会秘书处		0188
+王鲁新		2		全国		https://www.ceaie.edu.cn/dist/#/us	副秘书长		中国教育国际交流协会秘书处		0188
+于洋		3		全国		https://www.ceaie.edu.cn/dist/#/us	副秘书长		中国教育国际交流协会秘书处		0188

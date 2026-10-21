@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴昌文		1		安徽省	合肥市	https://sfj.hefei.gov.cn/jgsz/ldjs/index.html	合肥市司法局党委书记、局长、一级调研员		合肥市司法局		2308
+钱江		2		安徽省	合肥市	https://sfj.hefei.gov.cn/jgsz/ldjs/index.html	合肥市司法局党委副书记、副局长，市强制隔离戒毒所政委		合肥市司法局		2308
+李兵		3		安徽省	合肥市	https://sfj.hefei.gov.cn/jgsz/ldjs/index.html	合肥市司法局党委委员、政治部主任		合肥市司法局		2308
+陈光义		4		安徽省	合肥市	https://sfj.hefei.gov.cn/jgsz/ldjs/index.html	合肥市司法局党委委员、副局长		合肥市司法局		2308
+白飒飒		5		安徽省	合肥市	https://sfj.hefei.gov.cn/jgsz/ldjs/index.html	合肥市司法局副局长		合肥市司法局		2308
+赵庆一		6		安徽省	合肥市	https://sfj.hefei.gov.cn/jgsz/ldjs/index.html	合肥市司法局干部（正县级）		合肥市司法局		2308
+孙勇		7		安徽省	合肥市	https://sfj.hefei.gov.cn/jgsz/ldjs/index.html	合肥市司法局二级调研员		合肥市司法局		2308

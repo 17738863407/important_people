@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+尹晓毅		1		云南省		http://yn.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/	党组书记、局长		云南省气象局		4243
+胡劲松		2		云南省		http://yn.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/	党组成员、副局长		云南省气象局		4243
+罗庆仙		3		云南省		http://yn.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/	副局长		云南省气象局		4243
+黄玮		4		云南省		http://yn.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/	党组成员、副局长		云南省气象局		4243
+谢江霞		5		云南省		http://yn.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/	党组成员、纪检组组长		云南省气象局		4243

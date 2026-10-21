@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡建斌		1		广东省		https://nr.gd.gov.cn/zwgknew/ldfg/content/post_3929655.html	省自然资源厅党组书记、厅长		广东省自然资源厅		1985
+李彬		2		广东省		https://nr.gd.gov.cn/zwgknew/ldfg/content/post_3929655.html	省自然资源厅党组成员，省地质局党组书记、局长		广东省自然资源厅	https://nr.gd.gov.cn/zwgknew/ldfg/content/post_4501995.html	1985
+洪伟东		3		广东省		https://nr.gd.gov.cn/zwgknew/ldfg/content/post_3929655.html	省自然资源厅党组成员、副厅长		广东省自然资源厅	https://nr.gd.gov.cn/zwgknew/ldfg/content/post_3929647.html	1985
+蒋宏奇		4		广东省		https://nr.gd.gov.cn/zwgknew/ldfg/content/post_3929655.html	省自然资源厅党组成员，省林业局党组书记、局长		广东省自然资源厅	https://nr.gd.gov.cn/zwgknew/ldfg/content/post_4501998.html	1985
+朱国鸣		5		广东省		https://nr.gd.gov.cn/zwgknew/ldfg/content/post_3929655.html	省自然资源厅党组成员、副厅长		广东省自然资源厅	https://nr.gd.gov.cn/zwgknew/ldfg/content/post_3929642.html	1985
+胡春雷		6		广东省		https://nr.gd.gov.cn/zwgknew/ldfg/content/post_3929655.html	省自然资源厅党组成员、副厅长		广东省自然资源厅	https://nr.gd.gov.cn/zwgknew/ldfg/content/post_4698300.html	1985

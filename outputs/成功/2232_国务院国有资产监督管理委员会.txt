@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+程福波		1		全国		http://www.sasac.gov.cn/n2588020/index.html	国资委党委书记、主任		国务院国有资产监督管理委员会	http://www.sasac.gov.cn/n2588020/n2588057/n35531879/index.html	2232
+谭作钧		2		全国		http://www.sasac.gov.cn/n2588020/index.html	国资委党委委员、副主任，直属机关党委书记		国务院国有资产监督管理委员会	http://www.sasac.gov.cn/n2588020/n2588057/n19252954/index.html	2232
+龚堂华		3		全国		http://www.sasac.gov.cn/n2588020/index.html	驻委纪检监察组组长、委党委委员		国务院国有资产监督管理委员会	http://www.sasac.gov.cn/n2588020/n2588057/n25962515/index.html	2232
+李镇		4		全国		http://www.sasac.gov.cn/n2588020/index.html	国资委党委委员、副主任		国务院国有资产监督管理委员会	http://www.sasac.gov.cn/n2588020/n2588057/n32925954/index.html	2232
+庞骁刚		5		全国		http://www.sasac.gov.cn/n2588020/index.html	国资委党委委员、副主任		国务院国有资产监督管理委员会	http://www.sasac.gov.cn/n2588020/n2588057/n34699534/index.html	2232
+尚锐		6		全国		http://www.sasac.gov.cn/n2588020/index.html	国资委党委委员、副主任		国务院国有资产监督管理委员会	http://www.sasac.gov.cn/n2588020/n2588057/n35414555/index.html	2232
+肖宗辉		7		全国		http://www.sasac.gov.cn/n2588020/index.html	国资委党委委员		国务院国有资产监督管理委员会	http://www.sasac.gov.cn/n2588020/n2588057/n32344534/index.html	2232

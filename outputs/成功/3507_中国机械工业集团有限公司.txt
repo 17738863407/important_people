@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张晓仑		1		全国		http://www.sinomach.com.cn/gygj/jtgg/dsh/	董事长		中国机械工业集团有限公司		3507
+周开荃		2		全国		http://www.sinomach.com.cn/gygj/jtgg/dsh/	董事		中国机械工业集团有限公司		3507
+丁宏祥		3		全国		http://www.sinomach.com.cn/gygj/jtgg/dsh/	董事		中国机械工业集团有限公司		3507
+吴伟章		4		全国		http://www.sinomach.com.cn/gygj/jtgg/dsh/	外部董事		中国机械工业集团有限公司		3507
+沙先华		5		全国		http://www.sinomach.com.cn/gygj/jtgg/dsh/	外部董事		中国机械工业集团有限公司		3507
+张曦		6		全国		http://www.sinomach.com.cn/gygj/jtgg/dsh/	外部董事		中国机械工业集团有限公司		3507
+许高峰		7		全国		http://www.sinomach.com.cn/gygj/jtgg/dsh/	外部董事		中国机械工业集团有限公司		3507
+黄旭丹		8		全国		http://www.sinomach.com.cn/gygj/jtgg/dsh/	外部董事		中国机械工业集团有限公司		3507
+闫卫红		9		全国		http://www.sinomach.com.cn/gygj/jtgg/dsh/	职工董事		中国机械工业集团有限公司		3507

@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+范进		1		安徽省	合肥市	https://kjj.hefei.gov.cn/public/column/2971?type=4&catId=7036024&action=list&nav=3	局长		合肥市科学技术局	https://kjj.hefei.gov.cn/public/2971/107191127.html	1359
+戴兵		2		安徽省	合肥市	https://kjj.hefei.gov.cn/public/column/2971?type=4&catId=7036024&action=list&nav=3	党组成员、副局长		合肥市科学技术局	https://kjj.hefei.gov.cn/public/2971/104470105.html	1359
+洪芳		3		安徽省	合肥市	https://kjj.hefei.gov.cn/public/column/2971?type=4&catId=7036024&action=list&nav=3	党组成员、副局长		合肥市科学技术局	https://kjj.hefei.gov.cn/public/2971/108780639.html	1359
+高致远		4		安徽省	合肥市	https://kjj.hefei.gov.cn/public/column/2971?type=4&catId=7036024&action=list&nav=3	党组成员、总工程师		合肥市科学技术局	https://kjj.hefei.gov.cn/public/2971/108138705.html	1359

@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李兴华		1		甘肃省	张掖市	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/	市委书记		张掖市委	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/swld/swsj/	3786
+叶尔波力·孜汗		2		甘肃省	张掖市	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/	副书记		张掖市委	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/szfld/sz/	3786
+李泽文		3		甘肃省	张掖市	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/	副书记		张掖市委	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/swld/fsj/202304/t20230413_1023176.html	3786
+景国诚		4		甘肃省	张掖市	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/	市委常委		张掖市委	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/swld/swcw/201804/t20180425_1911.html	3786
+张永刚		5		甘肃省	张掖市	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/	市委常委		张掖市委	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/swld/swcw/202504/t20250407_1383620.html	3786
+李毓刚		6		甘肃省	张掖市	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/	市委常委		张掖市委	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/swld/swcw/201804/t20180425_1910.html	3786
+王韶华		7		甘肃省	张掖市	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/	市委常委；秘书长		张掖市委	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/swld/swcw/202605/t20260520_1544707.html	3786
+夏润亮		8		甘肃省	张掖市	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/	市委常委		张掖市委	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/swld/swcw/202607/t20260731_1569768.html	3786
+李锐		9		甘肃省	张掖市	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/	市委常委		张掖市委	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/swld/swcw/202110/t20211020_728139.html	3786
+芦建平		10		甘肃省	张掖市	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/	市委常委		张掖市委	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/swld/swcw/202112/t20211230_770721.html	3786
+白冰		11		甘肃省	张掖市	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/	市委常委		张掖市委	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/swld/swcw/202207/t20220705_873328.html	3786
+武冰		12		甘肃省	张掖市	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/	市委常委		张掖市委	https://www.zhangye.gov.cn/zyszfxxgk/ldzc/swld/swcw/202607/t20260701_1559653.html	3786

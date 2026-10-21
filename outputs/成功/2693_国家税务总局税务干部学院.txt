@@ -1,0 +1,22 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡静林		1		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局党委书记、局长		国家税务总局税务干部学院		2693
+蔡自力		2		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局党委委员、副局长		国家税务总局税务干部学院		2693
+黄运		3		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局办公厅（党委办公室）主任		国家税务总局税务干部学院		2693
+刘雅丽		4		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局人事司司长（党委组织部部长）		国家税务总局税务干部学院		2693
+柳毅		5		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局党建工作局局长（党委宣传部部长、巡视工作办公室主任）		国家税务总局税务干部学院		2693
+朱音		6		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局机关党委常务副书记		国家税务总局税务干部学院		2693
+傅靖		7		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局教育中心主任		国家税务总局税务干部学院		2693
+练奇峰		8		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局北京市税务局党委书记、局长		国家税务总局税务干部学院		2693
+许光烈		9		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局江苏省税务局党委书记、局长		国家税务总局税务干部学院		2693
+曾光辉		10		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局湖南省税务局党委书记、局长		国家税务总局税务干部学院		2693
+李宁国		11		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局辽宁省税务局党委书记、局长		国家税务总局税务干部学院		2693
+管振江		12		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局大连市税务局党委书记、局长		国家税务总局税务干部学院		2693
+段雨澜		13		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局税务干部学院党委书记、院长		国家税务总局税务干部学院		2693
+王锦锋		14		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局税务干部学院党委委员、副院长		国家税务总局税务干部学院		2693
+蒋轶彪		15		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局税务干部学院党委委员、副院长		国家税务总局税务干部学院		2693
+朱洁		16		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局税务干部学院党委委员、纪委书记		国家税务总局税务干部学院		2693
+任国保		17		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局税务干部学院党委委员、副院长		国家税务总局税务干部学院		2693
+岳颂		18		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局税务干部学院党委委员、副院长		国家税务总局税务干部学院		2693
+王军		19		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	援疆		国家税务总局税务干部学院		2693
+吴继红		20		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局税务干部学院党委委员、副院长		国家税务总局税务干部学院		2693
+尹磊		21		全国		http://www.tax-edu.net/getwgow.action?w_web_newschannel=9&modeurl=detail_zh&sitepath=scl_zh&w_web_cpid=5&ieb=false	国家税务总局税务干部学院党委委员、副院长		国家税务总局税务干部学院		2693

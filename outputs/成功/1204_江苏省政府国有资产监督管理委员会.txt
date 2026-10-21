@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+董梁		1		江苏省		https://jsgzw.jiangsu.gov.cn/col/col89417/index.html	省国资委主任、党委书记		江苏省政府国有资产监督管理委员会	https://jsgzw.jiangsu.gov.cn/art/2025/11/18/art_89417_18.html	1204
+陈咏梅		2		江苏省		https://jsgzw.jiangsu.gov.cn/col/col89417/index.html	省纪委监委派驻省国资委纪检监察组组长、省国资委党委委员		江苏省政府国有资产监督管理委员会	https://jsgzw.jiangsu.gov.cn/art/2025/7/10/art_89417_11.html	1204
+勾凤诚		3		江苏省		https://jsgzw.jiangsu.gov.cn/col/col89417/index.html	省国资委副主任、党委委员		江苏省政府国有资产监督管理委员会	https://jsgzw.jiangsu.gov.cn/art/2023/10/16/art_89417_10.html	1204
+何元胜		4		江苏省		https://jsgzw.jiangsu.gov.cn/col/col89417/index.html	省国资委副主任、党委委员		江苏省政府国有资产监督管理委员会	https://jsgzw.jiangsu.gov.cn/art/2023/10/16/art_89417_13.html	1204
+郁平		5		江苏省		https://jsgzw.jiangsu.gov.cn/col/col89417/index.html	省国资委副主任、党委委员		江苏省政府国有资产监督管理委员会	https://jsgzw.jiangsu.gov.cn/art/2023/10/16/art_89417_14.html	1204
+阙金华		6		江苏省		https://jsgzw.jiangsu.gov.cn/col/col89417/index.html	省国资委副主任、党委委员		江苏省政府国有资产监督管理委员会	https://jsgzw.jiangsu.gov.cn/art/2026/7/31/art_89417_19.html	1204
+关永健		7		江苏省		https://jsgzw.jiangsu.gov.cn/col/col89417/index.html	省国资委一级巡视员		江苏省政府国有资产监督管理委员会	https://jsgzw.jiangsu.gov.cn/art/2023/10/16/art_89417_16.html	1204

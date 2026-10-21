@@ -19,6 +19,7 @@ workspace/reports/
 workspace/snapshots/
 .artifact-work/
 .codex_tmp/
+.official_link_update_tmp/
 .codex-manual-cache/
 .playwright-cli/
 .chrome_cdp_profile/

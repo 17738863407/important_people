@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周光华		1		广西壮族自治区		http://slt.gxzf.gov.cn/zfxxgk/xxgknr/ldxx/	自治区水利厅党组书记		广西壮族自治区水利厅	http://slt.gxzf.gov.cn/zfxxgk/xxgknr/ldxx/t14105595.shtml	2488
+邓长球		2		广西壮族自治区		http://slt.gxzf.gov.cn/zfxxgk/xxgknr/ldxx/	自治区水利厅厅长		广西壮族自治区水利厅	http://slt.gxzf.gov.cn/zfxxgk/xxgknr/ldxx/t9681356.shtml	2488
+李建文		3		广西壮族自治区		http://slt.gxzf.gov.cn/zfxxgk/xxgknr/ldxx/	自治区水利厅副厅长、一级巡视员		广西壮族自治区水利厅	http://slt.gxzf.gov.cn/zfxxgk/xxgknr/ldxx/t18614148.shtml	2488
+陈润东		4		广西壮族自治区		http://slt.gxzf.gov.cn/zfxxgk/xxgknr/ldxx/	自治区水利厅党组成员、副厅长，自治区应急管理厅党委委员、副厅长		广西壮族自治区水利厅	http://slt.gxzf.gov.cn/zfxxgk/xxgknr/ldxx/t1641541.shtml	2488
+甘幸		5		广西壮族自治区		http://slt.gxzf.gov.cn/zfxxgk/xxgknr/ldxx/	自治区水利厅党组成员、副厅长		广西壮族自治区水利厅	http://slt.gxzf.gov.cn/zfxxgk/xxgknr/ldxx/t5997943.shtml	2488
+谭德伦		6		广西壮族自治区		http://slt.gxzf.gov.cn/zfxxgk/xxgknr/ldxx/	自治区水利厅党组成员，自治区河长制办公室专职副主任（副厅长级）		广西壮族自治区水利厅	http://slt.gxzf.gov.cn/zfxxgk/xxgknr/ldxx/t16789548.shtml	2488
+许林波		7		广西壮族自治区		http://slt.gxzf.gov.cn/zfxxgk/xxgknr/ldxx/	自治区水利厅党组成员、副厅长		广西壮族自治区水利厅	http://slt.gxzf.gov.cn/zfxxgk/xxgknr/ldxx/t18331491.shtml	2488
+言玲		8		广西壮族自治区		http://slt.gxzf.gov.cn/zfxxgk/xxgknr/ldxx/	自治区水利厅党组成员、自治区纪委监委驻水利厅纪检监察组组长		广西壮族自治区水利厅	http://slt.gxzf.gov.cn/zfxxgk/xxgknr/ldxx/t5311221.shtml	2488

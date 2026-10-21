@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+林明龙		1		海南省	海口市	http://sjj.haikou.gov.cn/hkssjj/jgjs/jgjs.shtml	局党组书记、局长		海口市审计局	http://sjj.haikou.gov.cn/hkssjj/ldxx/202401/96ddadd0d5874abda7b8c3bfb6c2c3fb.shtml	2432
+王俏婷		2		海南省	海口市	http://sjj.haikou.gov.cn/hkssjj/jgjs/jgjs.shtml	局党组成员、副局长		海口市审计局	http://sjj.haikou.gov.cn/hkssjj/ldxx/202401/30796ba33be04f45aa559673c1bec85b.shtml	2432
+陈期壮		3		海南省	海口市	http://sjj.haikou.gov.cn/hkssjj/jgjs/jgjs.shtml	局党组成员、副局长		海口市审计局	http://sjj.haikou.gov.cn/hkssjj/ldxx/202609/18e3f4d3d34d4c5e8324dc81e94f14dd.shtml	2432
+葛通		4		海南省	海口市	http://sjj.haikou.gov.cn/hkssjj/jgjs/jgjs.shtml	局党组成员、副局长		海口市审计局	http://sjj.haikou.gov.cn/hkssjj/ldxx/202604/a6f9d784758a4d008e10337fc07a1196.shtml	2432
+李薇薇		5		海南省	海口市	http://sjj.haikou.gov.cn/hkssjj/jgjs/jgjs.shtml	局党组成员、市工程项目审计中心主任		海口市审计局	http://sjj.haikou.gov.cn/hkssjj/ldxx/202609/399f12f2c1df490f99bd79aa976065fa.shtml	2432
+陈海锋		6		海南省	海口市	http://sjj.haikou.gov.cn/hkssjj/jgjs/jgjs.shtml	市经济责任审计工作联席会议办公室主任		海口市审计局	http://sjj.haikou.gov.cn/hkssjj/ldxx/202603/a0ca03f7d44047369c707f0baad63309.shtml	2432

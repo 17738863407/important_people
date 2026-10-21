@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+罗东川		1		全国		http://district.ce.cn/zt/rwk/sf/qh/index.shtml	省委书记、省长		青海省委	http://district.ce.cn/newarea/sddy/202609/t20260922_3230121.shtml	0436
+刘奇凡		2		全国		http://district.ce.cn/zt/rwk/sf/qh/index.shtml	省委副书记		青海省委	http://district.ce.cn/newarea/sddy/202312/17/t20231217_38832151.shtml	0436
+刘美频		3		全国		http://district.ce.cn/zt/rwk/sf/qh/index.shtml	省委常委、省纪委书记，省监委主任		青海省委	http://district.ce.cn/newarea/sddy/202501/24/t20250124_39277085.shtml	0436
+王卫东		4		全国		http://district.ce.cn/zt/rwk/sf/qh/index.shtml	省委常委、西宁市委书记		青海省委	http://district.ce.cn/newarea/sddy/202304/01/t20230401_38475951.shtml	0436
+张锦刚		5		全国		http://district.ce.cn/zt/rwk/sf/qh/index.shtml	省委常委、省政府党组副书记、副省长		青海省委	http://district.ce.cn/newarea/sddy/202501/04/t20250104_39256365.shtml	0436
+王大南		6		全国		http://district.ce.cn/zt/rwk/sf/qh/index.shtml	省委常委、宣传部部长		青海省委	http://district.ce.cn/newarea/sddy/202205/06/t20220506_37556636.shtml	0436
+班果		7		全国		http://district.ce.cn/zt/rwk/sf/qh/index.shtml	省委常委、统战部部长		青海省委	http://district.ce.cn/newarea/sddy/202205/30/t20220530_37691462.shtml	0436
+朱向峰		8		全国		http://district.ce.cn/zt/rwk/sf/qh/index.shtml	省委常委、省委秘书长		青海省委	http://district.ce.cn/newarea/sddy/202205/31/t20220531_37695527.shtml	0436
+曹俊		9		全国		http://district.ce.cn/zt/rwk/sf/qh/index.shtml	省委常委、组织部部长		青海省委	http://district.ce.cn/newarea/sddy/202602/t20260202_2745754.shtml	0436

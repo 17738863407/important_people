@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+冯军		1		山西省		https://sxgy.shanxify.gov.cn/article/detail/2025/10/id/9040071.shtml	山西省高级人民法院党组书记、院长		山西省高级人民法院		4560
+管应时		2		山西省		https://sxgy.shanxify.gov.cn/article/detail/2025/10/id/9040071.shtml	山西省高级人民法院党组副书记、副院长、机关党委书记		山西省高级人民法院		4560
+梁荣		3		山西省		https://sxgy.shanxify.gov.cn/article/detail/2025/10/id/9040071.shtml	山西省纪委监委驻山西省高级人民法院纪检监察组组长、山西省高级人民法院党组成员		山西省高级人民法院		4560
+邢益民		4		山西省		https://sxgy.shanxify.gov.cn/article/detail/2025/10/id/9040071.shtml	山西省高级人民法院党组成员、政治部主任		山西省高级人民法院		4560
+张建康		5		山西省		https://sxgy.shanxify.gov.cn/article/detail/2025/10/id/9040071.shtml	山西省高级人民法院党组成员、副院长		山西省高级人民法院		4560
+栗向东		6		山西省		https://sxgy.shanxify.gov.cn/article/detail/2025/10/id/9040071.shtml	山西省高级人民法院党组成员、副院长		山西省高级人民法院		4560
+魏佩芬		7		山西省		https://sxgy.shanxify.gov.cn/article/detail/2025/10/id/9040071.shtml	山西省高级人民法院副院长		山西省高级人民法院		4560
+丁毅		8		山西省		https://sxgy.shanxify.gov.cn/article/detail/2025/10/id/9040071.shtml	山西省高级人民法院党组成员、执行局局长		山西省高级人民法院		4560
+刘硕才		9		山西省		https://sxgy.shanxify.gov.cn/article/detail/2025/10/id/9040071.shtml	山西省高级人民法院审判委员会专职委员		山西省高级人民法院		4560
+邓一峰		10		山西省		https://sxgy.shanxify.gov.cn/article/detail/2025/10/id/9040071.shtml	山西省高级人民法院审判委员会专职委员		山西省高级人民法院		4560

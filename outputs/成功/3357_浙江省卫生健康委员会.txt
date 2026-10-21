@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+方健国		1		浙江省		https://www.zj.gov.cn/dctslm/zjswsjkwyh/index.html	党委书记、主任，省中医药管理局局长（兼）		浙江省卫生健康委员会	https://www.zj.gov.cn/col/col1229061850/art/2026/art_f8faa9bc1013932cd245041c536dd5c9.html	3357
+郑家淮		2		浙江省		https://www.zj.gov.cn/dctslm/zjswsjkwyh/index.html	党委副书记、一级巡视员		浙江省卫生健康委员会	https://www.zj.gov.cn/art/2024/7/29/art_1229061850_105515.html	3357
+徐旭卿		3		浙江省		https://www.zj.gov.cn/dctslm/zjswsjkwyh/index.html	副主任		浙江省卫生健康委员会	https://www.zj.gov.cn/art/2024/12/13/art_1229061850_105513.html	3357
+俞新乐		4		浙江省		https://www.zj.gov.cn/dctslm/zjswsjkwyh/index.html	党委委员、副主任		浙江省卫生健康委员会	https://www.zj.gov.cn/col/col1229061850/art/2021/art_1229061850_105511.html	3357
+姚强		5		浙江省		https://www.zj.gov.cn/dctslm/zjswsjkwyh/index.html	党委委员、副主任，省疾病预防控制局党组书记、局长		浙江省卫生健康委员会	https://www.zj.gov.cn/art/2024/12/13/art_1229061850_131754.html	3357
+林杰		6		浙江省		https://www.zj.gov.cn/dctslm/zjswsjkwyh/index.html	党委委员、副主任		浙江省卫生健康委员会	https://www.zj.gov.cn/art/2024/12/13/art_1229061850_148561.html	3357
+陈善方		7		浙江省		https://www.zj.gov.cn/dctslm/zjswsjkwyh/index.html	党委委员、省纪委省监委驻委纪检监察组组长		浙江省卫生健康委员会	https://www.zj.gov.cn/art/2024/7/29/art_1229061850_155428.html	3357
+朱炜		8		浙江省		https://www.zj.gov.cn/dctslm/zjswsjkwyh/index.html	党委委员、副主任		浙江省卫生健康委员会	https://www.zj.gov.cn/art/2024/7/29/art_1229061850_163924.html	3357
+黄凤		9		浙江省		https://www.zj.gov.cn/dctslm/zjswsjkwyh/index.html	党委委员、办公室主任		浙江省卫生健康委员会	https://www.zj.gov.cn/col/col1229061850/art/2026/art_678bc6849503687aaf673a501f19d946.html	3357
+胡玉璋		10		浙江省		https://www.zj.gov.cn/dctslm/zjswsjkwyh/index.html	二级巡视员		浙江省卫生健康委员会	https://www.zj.gov.cn/art/2024/7/29/art_1229061850_105505.html	3357

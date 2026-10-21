@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+戴斌		1		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202505/t20250526_960237.htm	院长		中国旅游研究院（文化和旅游部数据中心）		1535
+唐晓云		2		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202505/t20250526_960237.htm	副院长		中国旅游研究院（文化和旅游部数据中心）		1535
+马仪亮		3		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202505/t20250526_960237.htm	副院长		中国旅游研究院（文化和旅游部数据中心）		1535

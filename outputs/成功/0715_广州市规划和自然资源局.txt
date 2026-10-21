@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邓建富		1		广东省	广州市	https://ghzyj.gz.gov.cn/zwgk/xxgkml3/zzjg/ldfg/content/post_10885763.html	党组书记、一级巡视员		广州市规划和自然资源局		0715
+邓毛颖		2		广东省	广州市	https://ghzyj.gz.gov.cn/zwgk/xxgkml3/zzjg/ldfg/content/post_10885763.html	局长		广州市规划和自然资源局		0715
+姜莉		3		广东省	广州市	https://ghzyj.gz.gov.cn/zwgk/xxgkml3/zzjg/ldfg/content/post_10885763.html	党组成员、副局长		广州市规划和自然资源局		0715
+李善华		4		广东省	广州市	https://ghzyj.gz.gov.cn/zwgk/xxgkml3/zzjg/ldfg/content/post_10885763.html	党组成员、驻局纪检监察组组长		广州市规划和自然资源局		0715
+陈蓉		5		广东省	广州市	https://ghzyj.gz.gov.cn/zwgk/xxgkml3/zzjg/ldfg/content/post_10885763.html	党组成员、副局长		广州市规划和自然资源局		0715
+邓玮		6		广东省	广州市	https://ghzyj.gz.gov.cn/zwgk/xxgkml3/zzjg/ldfg/content/post_10885763.html	副局长		广州市规划和自然资源局		0715
+黄钧业		7		广东省	广州市	https://ghzyj.gz.gov.cn/zwgk/xxgkml3/zzjg/ldfg/content/post_10885763.html	党组成员，市土发中心党委书记、主任		广州市规划和自然资源局		0715
+方武祥		8		广东省	广州市	https://ghzyj.gz.gov.cn/zwgk/xxgkml3/zzjg/ldfg/content/post_10885763.html	一级调研员（市管干部）		广州市规划和自然资源局		0715
+周桥养		9		广东省	广州市	https://ghzyj.gz.gov.cn/zwgk/xxgkml3/zzjg/ldfg/content/post_10885763.html	一级调研员（市管干部）		广州市规划和自然资源局		0715
+蔡小波		10		广东省	广州市	https://ghzyj.gz.gov.cn/zwgk/xxgkml3/zzjg/ldfg/content/post_10885763.html	市编研中心主任		广州市规划和自然资源局		0715
+林锡艺		11		广东省	广州市	https://ghzyj.gz.gov.cn/zwgk/xxgkml3/zzjg/ldfg/content/post_10885763.html	总工程师、一级调研员		广州市规划和自然资源局		0715
+王冠贤		12		广东省	广州市	https://ghzyj.gz.gov.cn/zwgk/xxgkml3/zzjg/ldfg/content/post_10885763.html	总规划师、一级调研员		广州市规划和自然资源局		0715
+夏利芬		13		广东省	广州市	https://ghzyj.gz.gov.cn/zwgk/xxgkml3/zzjg/ldfg/content/post_10885763.html	总经济师、一级调研员		广州市规划和自然资源局		0715

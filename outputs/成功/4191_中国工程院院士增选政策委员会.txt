@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+钟志华		1		全国		https://www.cae.cn/cae/html/main/col15/column_15_1.html	主任		中国工程院院士增选政策委员会		4191
+邓秀新		2		全国		https://www.cae.cn/cae/html/main/col15/column_15_1.html	副主任：邓秀新、陈左宁		中国工程院院士增选政策委员会		4191
+陈左宁		3		全国		https://www.cae.cn/cae/html/main/col15/column_15_1.html	副主任：邓秀新、陈左宁		中国工程院院士增选政策委员会		4191

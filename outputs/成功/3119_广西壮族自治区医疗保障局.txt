@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张奕		1		广西壮族自治区		http://ybj.gxzf.gov.cn/zfxxgkzl/fdzdgknr/ldjj/	自治区医疗保障局党组书记、局长		广西壮族自治区医疗保障局	http://ybj.gxzf.gov.cn/xxgk/ldjj/jz/t659710.shtml	3119
+赖永东		2		广西壮族自治区		http://ybj.gxzf.gov.cn/zfxxgkzl/fdzdgknr/ldjj/	自治区医疗保障局党组成员、副局长、二级巡视员		广西壮族自治区医疗保障局	http://ybj.gxzf.gov.cn/xxgk/ldjj/fjz/t659708.shtml	3119
+姚方		3		广西壮族自治区		http://ybj.gxzf.gov.cn/zfxxgkzl/fdzdgknr/ldjj/	自治区医疗保障局党组成员、副局长		广西壮族自治区医疗保障局	http://ybj.gxzf.gov.cn/xxgk/ldjj/fjz/t9263392.shtml	3119
+吴华章		4		广西壮族自治区		http://ybj.gxzf.gov.cn/zfxxgkzl/fdzdgknr/ldjj/	自治区医疗保障局党组成员、副局长		广西壮族自治区医疗保障局	http://ybj.gxzf.gov.cn/zfxxgkzl/fdzdgknr/ldjj/fjz/t26077536.shtml	3119

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘文智		1		宁夏回族自治区		https://nxjy.nx.gov.cn/xxgk/zfxxgkml/jgzn/ldxx/	自治区司法厅党委委员，自治区监狱管理局党委书记、局长		宁夏回族自治区监狱管理局		2009
+刘佳		2		宁夏回族自治区		https://nxjy.nx.gov.cn/xxgk/zfxxgkml/jgzn/ldxx/	自治区监狱管理局党委副书记、政委		宁夏回族自治区监狱管理局		2009
+高立群		3		宁夏回族自治区		https://nxjy.nx.gov.cn/xxgk/zfxxgkml/jgzn/ldxx/	自治区监狱管理局党委副书记、宁朔实业集团有限责任公司总经理		宁夏回族自治区监狱管理局		2009
+马锋		4		宁夏回族自治区		https://nxjy.nx.gov.cn/xxgk/zfxxgkml/jgzn/ldxx/	自治区监狱管理局党委委员、副局长，二级巡视员		宁夏回族自治区监狱管理局		2009
+陈国明		5		宁夏回族自治区		https://nxjy.nx.gov.cn/xxgk/zfxxgkml/jgzn/ldxx/	自治区监狱管理局党委委员、政治部主任		宁夏回族自治区监狱管理局		2009
+张涛		6		宁夏回族自治区		https://nxjy.nx.gov.cn/xxgk/zfxxgkml/jgzn/ldxx/	自治区监狱管理局党委委员、副局长		宁夏回族自治区监狱管理局		2009

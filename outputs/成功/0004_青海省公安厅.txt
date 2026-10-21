@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李宏亚		1		青海省		http://gat.qinghai.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	青海省人民政府副省长，省公安厅党委书记、厅长、督察长		青海省公安厅		0004
+张振铎		2		青海省		http://gat.qinghai.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	青海省公安厅党委副书记、副厅长		青海省公安厅		0004
+曹虎		3		青海省		http://gat.qinghai.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	青海省公安厅党委委员、特勤局局长		青海省公安厅		0004
+文森		4		青海省		http://gat.qinghai.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	青海省公安厅党委委员、副厅长、反恐怖特别侦察队队长		青海省公安厅		0004
+李向东		5		青海省		http://gat.qinghai.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	青海省公安厅党委委员、副厅长		青海省公安厅		0004
+安胜年		6		青海省		http://gat.qinghai.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	青海省公安厅党委委员、副厅长		青海省公安厅		0004
+冯天玺		7		青海省		http://gat.qinghai.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	青海省公安厅党委委员、副厅长		青海省公安厅		0004
+李勇		8		青海省		http://gat.qinghai.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	青海省纪委监委驻省公安厅纪检监察组组长、省公安厅党委委员		青海省公安厅		0004
+李县军		9		青海省		http://gat.qinghai.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	青海省公安厅党委委员、副厅长		青海省公安厅		0004
+王永震		10		青海省		http://gat.qinghai.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	青海省公安厅党委委员、政治部主任		青海省公安厅		0004

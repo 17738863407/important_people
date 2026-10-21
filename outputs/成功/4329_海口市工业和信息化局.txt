@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王小宝		1		海南省	海口市	http://kgxj.haikou.gov.cn/zzjg/ldxx/	党组书记、局长		海口市工业和信息化局	http://kgxj.haikou.gov.cn/zzjg/ldxx/201804/t565842.shtml	4329
+周后贵		2		海南省	海口市	http://kgxj.haikou.gov.cn/zzjg/ldxx/	党组成员、副局长		海口市工业和信息化局	http://kgxj.haikou.gov.cn/zzjg/ldxx/202503/t1411103.shtml	4329
+吴忠远		3		海南省	海口市	http://kgxj.haikou.gov.cn/zzjg/ldxx/	党组成员、副局长		海口市工业和信息化局	http://kgxj.haikou.gov.cn/zzjg/ldxx/202601/t1499455.shtml	4329
+冯宁		4		海南省	海口市	http://kgxj.haikou.gov.cn/zzjg/ldxx/	党组成员、副局长		海口市工业和信息化局	http://kgxj.haikou.gov.cn/zzjg/ldxx/202601/t1499457.shtml	4329
+陈建任		5		海南省	海口市	http://kgxj.haikou.gov.cn/zzjg/ldxx/	二级调研员		海口市工业和信息化局	http://kgxj.haikou.gov.cn/zzjg/ldxx/202201/t565839.shtml	4329
+任文高		6		海南省	海口市	http://kgxj.haikou.gov.cn/zzjg/ldxx/	二级调研员		海口市工业和信息化局	http://kgxj.haikou.gov.cn/zzjg/ldxx/201804/t565835.shtml	4329
+黄毅		7		海南省	海口市	http://kgxj.haikou.gov.cn/zzjg/ldxx/	四级调研员		海口市工业和信息化局	http://kgxj.haikou.gov.cn/zzjg/ldxx/202601/t1501825.shtml	4329
+陈兰芳		8		海南省	海口市	http://kgxj.haikou.gov.cn/zzjg/ldxx/	四级调研员		海口市工业和信息化局	http://kgxj.haikou.gov.cn/zzjg/ldxx/202601/t1501828.shtml	4329

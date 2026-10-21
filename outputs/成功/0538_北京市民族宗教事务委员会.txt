@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李新		1		北京市		https://mzzjw.beijing.gov.cn/zwgk/zqxx/ldjs/	党组书记、主任		北京市民族宗教事务委员会		0538
+孙启		2		北京市		https://mzzjw.beijing.gov.cn/zwgk/zqxx/ldjs/	党组成员、副主任、机关党委书记		北京市民族宗教事务委员会		0538
+陈婷婷		3		北京市		https://mzzjw.beijing.gov.cn/zwgk/zqxx/ldjs/	党组成员、副主任		北京市民族宗教事务委员会		0538
+丁希松		4		北京市		https://mzzjw.beijing.gov.cn/zwgk/zqxx/ldjs/	党组成员、副主任		北京市民族宗教事务委员会		0538
+贺淑晶		5		北京市		https://mzzjw.beijing.gov.cn/zwgk/zqxx/ldjs/	一级巡视员		北京市民族宗教事务委员会		0538
+彭博		6		北京市		https://mzzjw.beijing.gov.cn/zwgk/zqxx/ldjs/	一级巡视员		北京市民族宗教事务委员会		0538
+王海丰		7		北京市		https://mzzjw.beijing.gov.cn/zwgk/zqxx/ldjs/	一级巡视员		北京市民族宗教事务委员会		0538

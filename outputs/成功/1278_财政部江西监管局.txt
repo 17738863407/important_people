@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘志		1		江西省		http://jx.mof.gov.cn/gywm/ldjj/	党组书记、局长		财政部江西监管局	http://jx.mof.gov.cn/gywm/ldjj/202607/t20260708_3993142.htm	1278
+胡新德		2		江西省		http://jx.mof.gov.cn/gywm/ldjj/	党组成员、纪检组长、一级巡视员		财政部江西监管局	http://jx.mof.gov.cn/gywm/ldjj/202607/t20260708_3993141.htm	1278
+张邓		3		江西省		http://jx.mof.gov.cn/gywm/ldjj/	党组成员、副局长		财政部江西监管局	http://jx.mof.gov.cn/gywm/ldjj/202607/t20260708_3993140.htm	1278
+殷毅		4		江西省		http://jx.mof.gov.cn/gywm/ldjj/	党组成员、副局长		财政部江西监管局	http://jx.mof.gov.cn/gywm/ldjj/202607/t20260708_3993139.htm	1278

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何建章		1		青海省	西宁市	https://fgw.xining.gov.cn/zwgk/fdzdgknr/jgjj/	党组书记、主任		西宁市发展和改革委员会	https://fgw.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202606/t20260603_235456.html	0566
+刘锋		2		青海省	西宁市	https://fgw.xining.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副主任		西宁市发展和改革委员会	https://fgw.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202401/t20240124_198700.html	0566
+闫庆庆		3		青海省	西宁市	https://fgw.xining.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副主任		西宁市发展和改革委员会	https://fgw.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202412/t20241219_211445.html	0566
+冯涛		4		青海省	西宁市	https://fgw.xining.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副主任		西宁市发展和改革委员会	https://fgw.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202401/t20240124_198701.html	0566
+钟经道		5		青海省	西宁市	https://fgw.xining.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副主任		西宁市发展和改革委员会	https://fgw.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202401/t20240124_198699.html	0566
+郭颖超		6		青海省	西宁市	https://fgw.xining.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、市服务业发展指导中心主任		西宁市发展和改革委员会	https://fgw.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202503/t20250318_213915.html	0566
+卢生慧		7		青海省	西宁市	https://fgw.xining.gov.cn/zwgk/fdzdgknr/jgjj/	市粮油质量检测中心主任		西宁市发展和改革委员会	https://fgw.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202112/t20211224_162922.html	0566

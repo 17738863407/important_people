@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+雷健坤		1		山西省		http://rst.shanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/tldjs/	山西省人力资源和社会保障厅党组书记、厅长		山西省人力资源和社会保障厅		2225
+孙四军		2		山西省		http://rst.shanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/tldjs/	山西省人力资源和社会保障厅党组成员、副厅长		山西省人力资源和社会保障厅		2225
+刘大宇		3		山西省		http://rst.shanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/tldjs/	山西省人力资源和社会保障厅党组成员、副厅长		山西省人力资源和社会保障厅		2225
+孙辉辉		4		山西省		http://rst.shanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/tldjs/	省纪委监委驻省人力资源和社会保障厅纪检监察组组长、厅党组成员		山西省人力资源和社会保障厅		2225
+王涛		5		山西省		http://rst.shanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/tldjs/	山西省人力资源和社会保障厅党组成员、山西省社会保险局局长		山西省人力资源和社会保障厅		2225
+杨建国		6		山西省		http://rst.shanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/tldjs/	山西省人力资源和社会保障厅党组成员、山西省就业服务局局长		山西省人力资源和社会保障厅		2225
+李浓		7		山西省		http://rst.shanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/tldjs/	山西省人力资源和社会保障厅一级巡视员		山西省人力资源和社会保障厅		2225
+赵红兵		8		山西省		http://rst.shanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/tldjs/	山西省人力资源和社会保障厅二级巡视员		山西省人力资源和社会保障厅		2225
+宋在平		9		山西省		http://rst.shanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/tldjs/	山西省人力资源和社会保障厅二级巡视员		山西省人力资源和社会保障厅		2225
+孙文革		10		山西省		http://rst.shanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/tldjs/	山西省人力资源和社会保障厅二级巡视员		山西省人力资源和社会保障厅		2225
+师振坤		11		山西省		http://rst.shanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/tldjs/	山西省人力资源和社会保障厅二级巡视员、养老保险处处长		山西省人力资源和社会保障厅		2225

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+牛恺		1		陕西省	宝鸡市	https://www.baoji.gov.cn/col9816/col9817/col293/	市长		宝鸡市人民政府	https://www.baoji.gov.cn/col9816/col9817/col293/col309/	3802
+王云祥		2		陕西省	宝鸡市	https://www.baoji.gov.cn/col9816/col9817/col293/	副市长		宝鸡市人民政府	https://www.baoji.gov.cn/col9816/col9817/col293/col307/202204/t20220403_838558.html	3802
+李立刚		3		陕西省	宝鸡市	https://www.baoji.gov.cn/col9816/col9817/col293/	副市长		宝鸡市人民政府	https://www.baoji.gov.cn/col9816/col9817/col293/col307/202607/t20260706_1282760.html	3802
+高宏真		4		陕西省	宝鸡市	https://www.baoji.gov.cn/col9816/col9817/col293/	副市长		宝鸡市人民政府	https://www.baoji.gov.cn/col9816/col9817/col293/col307/202312/t20231218_838562.html	3802
+李武发		5		陕西省	宝鸡市	https://www.baoji.gov.cn/col9816/col9817/col293/	副市长		宝鸡市人民政府	https://www.baoji.gov.cn/col9816/col9817/col293/col307/202204/t20220419_838560.html	3802
+车爽		6		陕西省	宝鸡市	https://www.baoji.gov.cn/col9816/col9817/col293/	副市长		宝鸡市人民政府	https://www.baoji.gov.cn/col9816/col9817/col293/col307/202501/t20250102_907877.html	3802
+冯晓军		7		陕西省	宝鸡市	https://www.baoji.gov.cn/col9816/col9817/col293/	副市长		宝鸡市人民政府	https://www.baoji.gov.cn/col9816/col9817/col293/col307/202407/t20240708_838564.html	3802
+李涛		8		陕西省	宝鸡市	https://www.baoji.gov.cn/col9816/col9817/col293/	副市长		宝鸡市人民政府	https://www.baoji.gov.cn/col9816/col9817/col293/col307/202512/t20251229_1236856.html	3802
+齐晓辉		9		陕西省	宝鸡市	https://www.baoji.gov.cn/col9816/col9817/col293/	秘书长		宝鸡市人民政府	https://www.baoji.gov.cn/col9816/col9817/col293/col306/202208/t20220825_838539.html	3802

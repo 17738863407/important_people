@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨德泉		1		辽宁省	大连市	https://gzw.dl.gov.cn/col/col9071/index.html?vc_xxgkarea=2102000075&number=DL014&jh=263	党委书记、主任		大连市人民政府国有资产监督管理委员会	https://gzw.dl.gov.cn/art/2026/2/12/art_9072_2499858.html	0819
+田宏		2		辽宁省	大连市	https://gzw.dl.gov.cn/col/col9071/index.html?vc_xxgkarea=2102000075&number=DL014&jh=263	党委委员、副主任		大连市人民政府国有资产监督管理委员会	https://gzw.dl.gov.cn/art/2026/2/12/art_9072_2499856.html	0819
+张作伟		3		辽宁省	大连市	https://gzw.dl.gov.cn/col/col9071/index.html?vc_xxgkarea=2102000075&number=DL014&jh=263	党委委员、副主任		大连市人民政府国有资产监督管理委员会	https://gzw.dl.gov.cn/art/2026/9/14/art_9072_2535442.html	0819
+黄坦		4		辽宁省	大连市	https://gzw.dl.gov.cn/col/col9071/index.html?vc_xxgkarea=2102000075&number=DL014&jh=263	党委委员、副主任		大连市人民政府国有资产监督管理委员会	https://gzw.dl.gov.cn/art/2026/2/12/art_9072_2499854.html	0819
+王慧		5		辽宁省	大连市	https://gzw.dl.gov.cn/col/col9071/index.html?vc_xxgkarea=2102000075&number=DL014&jh=263	党委委员、副主任		大连市人民政府国有资产监督管理委员会	https://gzw.dl.gov.cn/art/2026/2/12/art_9072_2499852.html	0819

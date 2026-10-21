@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张春雷		1		全国		https://www.ndsc.org.cn/News/Details/feb1e2db-b3fe-4598-be9e-bfc309314064	主任、党委书记		国家深海基地管理中心		1853
+宋成兵		2		全国		https://www.ndsc.org.cn/News/Details/feb1e2db-b3fe-4598-be9e-bfc309314064	副主任（总工程师）		国家深海基地管理中心		1853
+许学伟		3		全国		https://www.ndsc.org.cn/News/Details/feb1e2db-b3fe-4598-be9e-bfc309314064	副主任		国家深海基地管理中心		1853
+洪坦杰		4		全国		https://www.ndsc.org.cn/News/Details/feb1e2db-b3fe-4598-be9e-bfc309314064	党委专职副书记		国家深海基地管理中心		1853
+王晓亮		5		全国		https://www.ndsc.org.cn/News/Details/feb1e2db-b3fe-4598-be9e-bfc309314064	纪委书记		国家深海基地管理中心		1853
+丁忠军		6		全国		https://www.ndsc.org.cn/News/Details/feb1e2db-b3fe-4598-be9e-bfc309314064	副主任		国家深海基地管理中心		1853
+孙永福		7		全国		https://www.ndsc.org.cn/News/Details/feb1e2db-b3fe-4598-be9e-bfc309314064	副司（局）级		国家深海基地管理中心		1853

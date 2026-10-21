@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+段帅		1		贵州省	贵阳市	http://tjj.guiyang.gov.cn/2020_zwgk/2020_zfxxgkzl/2020_fdzdgknr/2020_jggk/	党组书记、局长		贵阳市统计局	http://tjj.guiyang.gov.cn/2020_zwgk/2020_zfxxgkzl/2020_fdzdgknr/2020_jggk/ldzc/202503/t20250319_87206483.html	2720
+杨云		2		贵州省	贵阳市	http://tjj.guiyang.gov.cn/2020_zwgk/2020_zfxxgkzl/2020_fdzdgknr/2020_jggk/	党组成员、副局长		贵阳市统计局	http://tjj.guiyang.gov.cn/2020_zwgk/2020_zfxxgkzl/2020_fdzdgknr/2020_jggk/ldzc/202503/t20250319_87206479.html	2720
+张华		3		贵州省	贵阳市	http://tjj.guiyang.gov.cn/2020_zwgk/2020_zfxxgkzl/2020_fdzdgknr/2020_jggk/	副局长		贵阳市统计局	http://tjj.guiyang.gov.cn/2020_zwgk/2020_zfxxgkzl/2020_fdzdgknr/2020_jggk/ldzc/202503/t20250319_87206477.html	2720
+岑琪		4		贵州省	贵阳市	http://tjj.guiyang.gov.cn/2020_zwgk/2020_zfxxgkzl/2020_fdzdgknr/2020_jggk/	党组成员、副局长		贵阳市统计局	http://tjj.guiyang.gov.cn/2020_zwgk/2020_zfxxgkzl/2020_fdzdgknr/2020_jggk/ldzc/202510/t20251016_88700615.html	2720
+沈毅		5		贵州省	贵阳市	http://tjj.guiyang.gov.cn/2020_zwgk/2020_zfxxgkzl/2020_fdzdgknr/2020_jggk/	二级调研员		贵阳市统计局	http://tjj.guiyang.gov.cn/2020_zwgk/2020_zfxxgkzl/2020_fdzdgknr/2020_jggk/ldzc/202503/t20250319_87206482.html	2720
+严朋华		6		贵州省	贵阳市	http://tjj.guiyang.gov.cn/2020_zwgk/2020_zfxxgkzl/2020_fdzdgknr/2020_jggk/	机关党委副书记兼机关纪委书记，三级调研员		贵阳市统计局	http://tjj.guiyang.gov.cn/2020_zwgk/2020_zfxxgkzl/2020_fdzdgknr/2020_jggk/ldzc/202503/t20250319_87206475.html	2720

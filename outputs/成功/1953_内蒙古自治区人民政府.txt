@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+包钢		1		全国		https://www.nmg.gov.cn/zwgk/zzqzf/bgn/	自治区人民政府主席		内蒙古自治区人民政府		1953
+王本强		2		全国		https://www.nmg.gov.cn/zwgk/zzqzf/bgn/	常务副主席		内蒙古自治区人民政府	https://www.nmg.gov.cn/zwgk/zzqzf/wbq/	1953
+奇巴图		3		全国		https://www.nmg.gov.cn/zwgk/zzqzf/bgn/	副主席		内蒙古自治区人民政府	https://www.nmg.gov.cn/zwgk/zzqzf/qbt/	1953
+郑光照		4		全国		https://www.nmg.gov.cn/zwgk/zzqzf/bgn/	副主席		内蒙古自治区人民政府	https://www.nmg.gov.cn/zwgk/zzqzf/zgz/	1953
+代钦		5		全国		https://www.nmg.gov.cn/zwgk/zzqzf/bgn/	副主席		内蒙古自治区人民政府	https://www.nmg.gov.cn/zwgk/zzqzf/dq/	1953
+孙俊青		6		全国		https://www.nmg.gov.cn/zwgk/zzqzf/bgn/	副主席		内蒙古自治区人民政府	https://www.nmg.gov.cn/zwgk/zzqzf/sjq/	1953
+唐毅		7		全国		https://www.nmg.gov.cn/zwgk/zzqzf/bgn/	副主席		内蒙古自治区人民政府	https://www.nmg.gov.cn/zwgk/zzqzf/ty/	1953
+苏和		8		全国		https://www.nmg.gov.cn/zwgk/zzqzf/bgn/	副主席		内蒙古自治区人民政府	https://www.nmg.gov.cn/zwgk/zzqzf/sh/	1953

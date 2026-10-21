@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+史自文		1		全国		https://www.acgnet.cn/news/43/	党委书记、董事长		中国动漫集团有限公司	https://www.acgnet.cn/about_info_D/180.html	1526
+肖健		2		全国		https://www.acgnet.cn/news/43/	党委副书记、总经理		中国动漫集团有限公司	https://www.acgnet.cn/news_detail/41.html	1526
+孙浩		3		全国		https://www.acgnet.cn/news/43/	党委委员、副总经理		中国动漫集团有限公司	https://www.acgnet.cn/news/44.html	1526
+孙悦		4		全国		https://www.acgnet.cn/news/43/	党委委员、副总经理		中国动漫集团有限公司	https://www.acgnet.cn/news/45.html	1526
+刘建功		5		全国		https://www.acgnet.cn/news/43/	党委副书记、纪委书记		中国动漫集团有限公司	https://www.acgnet.cn/news_detail/186.html	1526

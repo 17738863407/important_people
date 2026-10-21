@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王劲松		1		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200809_4673536.html	党委书记；中心主任		国家卫星气象中心		3733
+王灿新		2		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200809_4673536.html	纪委书记		国家卫星气象中心		3733
+唐世浩		3		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200809_4673536.html	中心副主任		国家卫星气象中心		3733
+张恒德		4		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200809_4673536.html	中心副主任		国家卫星气象中心		3733
+赵现纲		5		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200809_4673536.html	中心副主任		国家卫星气象中心		3733
+冯小虎		6		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200809_4673536.html	中心副主任		国家卫星气象中心		3733
+徐喆		7		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200809_4673536.html	总工程师		国家卫星气象中心		3733

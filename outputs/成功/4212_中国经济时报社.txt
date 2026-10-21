@@ -1,0 +1,2 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王忠宏		1		全国		https://www.drc.gov.cn/yjlyyyjbm/index.aspx?departmentid=28	社长、党委书记、研究员		中国经济时报社		4212

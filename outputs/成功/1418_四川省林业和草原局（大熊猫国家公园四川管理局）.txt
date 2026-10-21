@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+荣全		1		四川省		http://lcj.sc.gov.cn/scslyt/jgjj/zfxxgk_jgjj.shtml	党组书记、局长，四川省自然资源厅党组副书记、副厅长		四川省林业和草原局（大熊猫国家公园四川管理局）	http://lcj.sc.gov.cn/scslyt/jld/2026/7/14/87ac2a2d0de544e49d6b97fff766c6c9.shtml	1418
+王平		2		四川省		http://lcj.sc.gov.cn/scslyt/jgjj/zfxxgk_jgjj.shtml	党组成员、副局长		四川省林业和草原局（大熊猫国家公园四川管理局）	http://lcj.sc.gov.cn/scslyt/jld/2026/7/14/e9ea3551886a4e099cacf1819458dfd7.shtml	1418
+王景弘		3		四川省		http://lcj.sc.gov.cn/scslyt/jgjj/zfxxgk_jgjj.shtml	党组成员、副局长		四川省林业和草原局（大熊猫国家公园四川管理局）	http://lcj.sc.gov.cn/scslyt/jld/2026/7/14/c2070673281a4e1680238387c33eb4b7.shtml	1418
+陈宗迁		4		四川省		http://lcj.sc.gov.cn/scslyt/jgjj/zfxxgk_jgjj.shtml	党组成员、副局长，机关党委书记		四川省林业和草原局（大熊猫国家公园四川管理局）	http://lcj.sc.gov.cn/scslyt/jld/2026/7/14/1f380c6adbd24155a8e36fb6fd208b10.shtml	1418
+王国民		5		四川省		http://lcj.sc.gov.cn/scslyt/jgjj/zfxxgk_jgjj.shtml	驻局纪检监察组组长、党组成员、二级高级监察官		四川省林业和草原局（大熊猫国家公园四川管理局）	http://lcj.sc.gov.cn/scslyt/jld/2025/4/24/534de14001544b638772cad9d96cfe7b.shtml	1418
+郑伟		6		四川省		http://lcj.sc.gov.cn/scslyt/jgjj/zfxxgk_jgjj.shtml	党组成员、副局长，四川省应急管理厅副厅长		四川省林业和草原局（大熊猫国家公园四川管理局）	http://lcj.sc.gov.cn/scslyt/jld/2026/7/14/49846c728df34bf0950c8753d1e15705.shtml	1418
+周古鹏		7		四川省		http://lcj.sc.gov.cn/scslyt/jgjj/zfxxgk_jgjj.shtml	党组成员、副局长，大熊猫国家公园四川管理局党组书记、局长		四川省林业和草原局（大熊猫国家公园四川管理局）	http://lcj.sc.gov.cn/scslyt/jld/2026/6/15/89da9eab154f467291bffb0ebae54787.shtml	1418
+万洪云		8		四川省		http://lcj.sc.gov.cn/scslyt/jgjj/zfxxgk_jgjj.shtml	二级巡视员		四川省林业和草原局（大熊猫国家公园四川管理局）	http://lcj.sc.gov.cn/scslyt/jld/2025/4/18/2b263a1bdf7841f78a7dfb9364356833.shtml	1418
+昝玉军		9		四川省		http://lcj.sc.gov.cn/scslyt/jgjj/zfxxgk_jgjj.shtml	二级巡视员		四川省林业和草原局（大熊猫国家公园四川管理局）	http://lcj.sc.gov.cn/scslyt/jld/2025/4/18/85b1a5d7c1a54b27abfad92b0cd0243c.shtml	1418
+童伟		10		四川省		http://lcj.sc.gov.cn/scslyt/jgjj/zfxxgk_jgjj.shtml	二级巡视员		四川省林业和草原局（大熊猫国家公园四川管理局）	http://lcj.sc.gov.cn/scslyt/jld/2025/4/18/b971b4c9590c4472959eace54c870ade.shtml	1418
+杜松文		11		四川省		http://lcj.sc.gov.cn/scslyt/jgjj/zfxxgk_jgjj.shtml	二级巡视员		四川省林业和草原局（大熊猫国家公园四川管理局）	http://lcj.sc.gov.cn/scslyt/jld/2025/4/18/7c44581510d446dc8018d5a8182b1a24.shtml	1418
+杨茂雄		12		四川省		http://lcj.sc.gov.cn/scslyt/jgjj/zfxxgk_jgjj.shtml	二级巡视员		四川省林业和草原局（大熊猫国家公园四川管理局）	http://lcj.sc.gov.cn/scslyt/jld/2025/9/24/e1715f33fff647d487d1002408a5839d.shtml	1418
+张革成		13		四川省		http://lcj.sc.gov.cn/scslyt/jgjj/zfxxgk_jgjj.shtml	总工程师		四川省林业和草原局（大熊猫国家公园四川管理局）	http://lcj.sc.gov.cn/scslyt/jld/2026/7/14/055c1b9ab6f840dca8524596ed8cf708.shtml	1418

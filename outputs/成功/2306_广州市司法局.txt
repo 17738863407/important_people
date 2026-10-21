@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邓中文		1		广东省	广州市	http://sfj.gz.gov.cn/gkmlpt/index#14260	广州市司法局党委书记、局长、一级巡视员		广州市司法局	https://sfj.gz.gov.cn/gkmlpt/content/10/10061/post_10061856.html	2306
+甘正培		2		广东省	广州市	http://sfj.gz.gov.cn/gkmlpt/index#14260	广州市司法局党委委员、驻市司法局纪检监察组组长、二级巡视员		广州市司法局	https://sfj.gz.gov.cn/gkmlpt/content/10/10061/post_10061843.html	2306
+何友汉		3		广东省	广州市	http://sfj.gz.gov.cn/gkmlpt/index#14260	广州市司法局党委委员、 二级巡视员		广州市司法局	https://sfj.gz.gov.cn/gkmlpt/content/10/10061/post_10061824.html	2306
+张建山		4		广东省	广州市	http://sfj.gz.gov.cn/gkmlpt/index#14260	广州市司法局党委委员、副局长		广州市司法局	https://sfj.gz.gov.cn/gkmlpt/content/10/10061/post_10061811.html	2306
+左彪		5		广东省	广州市	http://sfj.gz.gov.cn/gkmlpt/index#14260	广州市司法局党委委员、副局长		广州市司法局	https://sfj.gz.gov.cn/gkmlpt/content/10/10061/post_10061791.html	2306
+石磊		6		广东省	广州市	http://sfj.gz.gov.cn/gkmlpt/index#14260	广州市司法局党委委员、副局长		广州市司法局	https://sfj.gz.gov.cn/gkmlpt/content/10/10062/post_10062768.html	2306
+江涛		7		广东省	广州市	http://sfj.gz.gov.cn/gkmlpt/index#14260	广州市司法局党委委员、政治部主任、机关党委书记		广州市司法局	https://sfj.gz.gov.cn/gkmlpt/content/10/10805/post_10805485.html	2306
+丘林		8		广东省	广州市	http://sfj.gz.gov.cn/gkmlpt/index#14260	广州市律师行业党委专职副书记		广州市司法局	https://sfj.gz.gov.cn/gkmlpt/content/10/10061/post_10061780.html	2306

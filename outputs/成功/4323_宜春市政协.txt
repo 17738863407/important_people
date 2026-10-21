@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李逸翔		1		江西省	宜春市	http://www.zxyc.gov.cn/ycszx/ldzc/pc/list.html	主席		宜春市政协	http://www.zxyc.gov.cn/ycszx/ldjs/pc/content/2017107699527630848/content_2017107699527630848.html	4323
+宋云波		2		江西省	宜春市	http://www.zxyc.gov.cn/ycszx/ldzc/pc/list.html	副主席		宜春市政协	http://www.zxyc.gov.cn/ycszx/ldjs/pc/content/2001309310131146752/content_2001309310131146752.html	4323
+彭金平		3		江西省	宜春市	http://www.zxyc.gov.cn/ycszx/ldzc/pc/list.html	副主席		宜春市政协	http://www.zxyc.gov.cn/ycszx/ldjs/pc/content/2001309315743125504/content_2001309315743125504.html	4323
+董晓明		4		江西省	宜春市	http://www.zxyc.gov.cn/ycszx/ldzc/pc/list.html	副主席		宜春市政协	http://www.zxyc.gov.cn/ycszx/ldjs/pc/content/2017107704401412096/content_2017107704401412096.html	4323
+谢慧		5		江西省	宜春市	http://www.zxyc.gov.cn/ycszx/ldzc/pc/list.html	副主席		宜春市政协	http://www.zxyc.gov.cn/ycszx/ldjs/pc/content/2001309325528436736/content_2001309325528436736.html	4323
+姚世贵		6		江西省	宜春市	http://www.zxyc.gov.cn/ycszx/ldzc/pc/list.html	副主席		宜春市政协	http://www.zxyc.gov.cn/ycszx/ldjs/pc/content/2001309331220107264/content_2001309331220107264.html	4323
+欧阳昕		7		江西省	宜春市	http://www.zxyc.gov.cn/ycszx/ldzc/pc/list.html	副主席		宜春市政协	http://www.zxyc.gov.cn/ycszx/ldjs/pc/content/2001309337066967040/content_2001309337066967040.html	4323
+吴凯萍		8		江西省	宜春市	http://www.zxyc.gov.cn/ycszx/ldzc/pc/list.html	副主席		宜春市政协	http://www.zxyc.gov.cn/ycszx/ldjs/pc/content/2001309341689090048/content_2001309341689090048.html	4323
+丁朝科		9		江西省	宜春市	http://www.zxyc.gov.cn/ycszx/ldzc/pc/list.html	副主席		宜春市政协	http://www.zxyc.gov.cn/ycszx/ldjs/pc/content/2017107708742516736/content_2017107708742516736.html	4323
+彭红梅		10		江西省	宜春市	http://www.zxyc.gov.cn/ycszx/ldzc/pc/list.html	秘书长		宜春市政协	http://www.zxyc.gov.cn/ycszx/ldjs/pc/content/2001309348144123904/content_2001309348144123904.html	4323

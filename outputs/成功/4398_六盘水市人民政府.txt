@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+臧侃		1		贵州省	六盘水市	https://www.gzlps.gov.cn/zwgk/jcxxgk/ldzc/szf/	市长		六盘水市人民政府	https://www.gzlps.gov.cn/zwgk/jcxxgk/ldzc/szf/zk/	4398
+冉拥军		2		贵州省	六盘水市	https://www.gzlps.gov.cn/zwgk/jcxxgk/ldzc/szf/	副市长		六盘水市人民政府	https://www.gzlps.gov.cn/zwgk/jcxxgk/ldzc/szf/ryj/	4398
+王相宇		3		贵州省	六盘水市	https://www.gzlps.gov.cn/zwgk/jcxxgk/ldzc/szf/	副市长		六盘水市人民政府	https://www.gzlps.gov.cn/zwgk/jcxxgk/ldzc/szf/wxy/	4398
+方裕谦		4		贵州省	六盘水市	https://www.gzlps.gov.cn/zwgk/jcxxgk/ldzc/szf/	副市长		六盘水市人民政府	https://www.gzlps.gov.cn/zwgk/jcxxgk/ldzc/szf/fyq/	4398
+刘江		5		贵州省	六盘水市	https://www.gzlps.gov.cn/zwgk/jcxxgk/ldzc/szf/	副市长		六盘水市人民政府	https://www.gzlps.gov.cn/zwgk/jcxxgk/ldzc/szf/lj/	4398
+李大旺		6		贵州省	六盘水市	https://www.gzlps.gov.cn/zwgk/jcxxgk/ldzc/szf/	副市长		六盘水市人民政府	https://www.gzlps.gov.cn/zwgk/jcxxgk/ldzc/szf/ldw/	4398
+赵庆强		7		贵州省	六盘水市	https://www.gzlps.gov.cn/zwgk/jcxxgk/ldzc/szf/	副市长		六盘水市人民政府	https://www.gzlps.gov.cn/zwgk/jcxxgk/ldzc/szf/zqq/	4398
+傅冬		8		贵州省	六盘水市	https://www.gzlps.gov.cn/zwgk/jcxxgk/ldzc/szf/	副市长		六盘水市人民政府	https://www.gzlps.gov.cn/zwgk/jcxxgk/ldzc/szf/fd/	4398
+文翔		9		贵州省	六盘水市	https://www.gzlps.gov.cn/zwgk/jcxxgk/ldzc/szf/	秘书长		六盘水市人民政府	https://www.gzlps.gov.cn/zwgk/jcxxgk/ldzc/szf/wx/	4398

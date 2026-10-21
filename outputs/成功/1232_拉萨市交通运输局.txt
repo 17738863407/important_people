@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+索朗多吉		1		西藏自治区	拉萨市	http://jtj.lasa.gov.cn/jtj/shuji/ldxx_list.shtml	拉萨市交通运输局党组书记、副局长、一级调研员		拉萨市交通运输局	http://jtj.lasa.gov.cn/jtj/shuji/202306/e2f6c7923e2542e4aa78527a57a97a93.shtml	1232
+张强		2		西藏自治区	拉萨市	http://jtj.lasa.gov.cn/jtj/shuji/ldxx_list.shtml	拉萨市交通运输局党组副书记、局长		拉萨市交通运输局	http://jtj.lasa.gov.cn/jtj/thsz/202408/76cc6d2d2fb74513bd0f686d2b0cf850.shtml	1232
+青扎		3		西藏自治区	拉萨市	http://jtj.lasa.gov.cn/jtj/shuji/ldxx_list.shtml	拉萨市交通运输局党组副书记、副局长、一级调研员		拉萨市交通运输局	http://jtj.lasa.gov.cn/jtj/ehsz/202111/e74cf1947fc34e4683f57adc6dcfe381.shtml	1232
+徐远		4		西藏自治区	拉萨市	http://jtj.lasa.gov.cn/jtj/shuji/ldxx_list.shtml	拉萨市交通运输局党组成员、副局长、二级调研员		拉萨市交通运输局	http://jtj.lasa.gov.cn/jtj/ehsz/202402/4dde0131b98e4379a76fd8ebedffc34e.shtml	1232
+拉姆次仁		5		西藏自治区	拉萨市	http://jtj.lasa.gov.cn/jtj/shuji/ldxx_list.shtml	拉萨市交通运输局党组成员、副局长		拉萨市交通运输局	http://jtj.lasa.gov.cn/jtj/ehsz/202208/9c6b88132a0e4808abc471ee03177ca4.shtml	1232
+巴罗		6		西藏自治区	拉萨市	http://jtj.lasa.gov.cn/jtj/shuji/ldxx_list.shtml	拉萨市交通运输局党组成员、道路运输管理局（拉萨市海事局）局长		拉萨市交通运输局	http://jtj.lasa.gov.cn/jtj/ehsz/202502/8e36dc519254474f84764c4921998b7d.shtml	1232
+布穷		7		西藏自治区	拉萨市	http://jtj.lasa.gov.cn/jtj/shuji/ldxx_list.shtml	拉萨市交通运输局党组成员、二级调研员		拉萨市交通运输局	http://jtj.lasa.gov.cn/jtj/fdyy/202111/d6180980149e4dd0b3a4e402a7cba8aa.shtml	1232

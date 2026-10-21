@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+文国锋		1		全国		https://www.mca.gov.cn/n158/n161/n303/c2407/content.html	党委书记；社长		中国社会报社		3680
+谈志林		2		全国		https://www.mca.gov.cn/n158/n161/n303/c2407/content.html	党委委员；总编辑		中国社会报社		3680
+张明媚		3		全国		https://www.mca.gov.cn/n158/n161/n303/c2407/content.html	党委委员；副社长		中国社会报社		3680
+徐付群		4		全国		https://www.mca.gov.cn/n158/n161/n303/c2407/content.html	党委委员；副总编辑		中国社会报社		3680
+田固		5		全国		https://www.mca.gov.cn/n158/n161/n303/c2407/content.html	党委副书记；副社长		中国社会报社		3680
+黄智晖		6		全国		https://www.mca.gov.cn/n158/n161/n303/c2407/content.html	党委委员；纪委书记		中国社会报社		3680
+张丽霞		7		全国		https://www.mca.gov.cn/n158/n161/n303/c2407/content.html	党委委员；副总编辑		中国社会报社		3680

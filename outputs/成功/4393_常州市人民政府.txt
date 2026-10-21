@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周伟		1		江苏省	常州市	https://www.changzhou.gov.cn/ns_news/899173345279347	市长		常州市人民政府		4393
+李林		2		江苏省	常州市	https://www.changzhou.gov.cn/ns_news/899173345279347	常务副市长		常州市人民政府	https://www.changzhou.gov.cn/ns_news/449148750685797	4393
+童剑		3		江苏省	常州市	https://www.changzhou.gov.cn/ns_news/899173345279347	副市长		常州市人民政府	https://www.changzhou.gov.cn/ns_news/773178782231907	4393
+狄志强		4		江苏省	常州市	https://www.changzhou.gov.cn/ns_news/899173345279347	副市长		常州市人民政府	https://www.changzhou.gov.cn/ns_news/246163550152040	4393
+蒋鹏举		5		江苏省	常州市	https://www.changzhou.gov.cn/ns_news/899173345279347	副市长		常州市人民政府	https://www.changzhou.gov.cn/ns_news/903164586840998	4393
+徐军		6		江苏省	常州市	https://www.changzhou.gov.cn/ns_news/899173345279347	副市长		常州市人民政府	https://www.changzhou.gov.cn/ns_news/41704436764221	4393
+潘冬铃		7		江苏省	常州市	https://www.changzhou.gov.cn/ns_news/899173345279347	副市长		常州市人民政府	https://www.changzhou.gov.cn/ns_news/991170287395917	4393
+浦天高		8		江苏省	常州市	https://www.changzhou.gov.cn/ns_news/899173345279347	副市长		常州市人民政府	https://www.changzhou.gov.cn/ns_news/106177675917685	4393
+胡理文		9		江苏省	常州市	https://www.changzhou.gov.cn/ns_news/899173345279347	副市长		常州市人民政府	https://www.changzhou.gov.cn/ns_news/557178782277826	4393
+孙靓靓		10		江苏省	常州市	https://www.changzhou.gov.cn/ns_news/899173345279347	副市长		常州市人民政府	https://www.changzhou.gov.cn/ns_news/816178278274479	4393

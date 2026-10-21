@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马雪飞		1		宁夏回族自治区		https://tj.nx.gov.cn/tjzz_htr/ldjs_htr/	自治区统计局党组书记、局长		宁夏回族自治区统计局	https://tj.nx.gov.cn/tjzz_htr/ldjs_htr/201901/t20190121_1469472.html	2712
+杨如文		2		宁夏回族自治区		https://tj.nx.gov.cn/tjzz_htr/ldjs_htr/	自治区统计局党组成员、副局长		宁夏回族自治区统计局	https://tj.nx.gov.cn/tjzz_htr/ldjs_htr/202109/t20210915_3029388.html	2712
+董金成		3		宁夏回族自治区		https://tj.nx.gov.cn/tjzz_htr/ldjs_htr/	自治区统计局党组成员、副局长		宁夏回族自治区统计局	https://tj.nx.gov.cn/tjzz_htr/ldjs_htr/202308/t20230821_4230659.html	2712
+万舒晨		4		宁夏回族自治区		https://tj.nx.gov.cn/tjzz_htr/ldjs_htr/	自治区统计局党组成员、副局长		宁夏回族自治区统计局	https://tj.nx.gov.cn/tjzz_htr/ldjs_htr/202607/t20260724_5297349.html	2712
+王军建		5		宁夏回族自治区		https://tj.nx.gov.cn/tjzz_htr/ldjs_htr/	自治区统计局总经济师		宁夏回族自治区统计局	https://tj.nx.gov.cn/tjzz_htr/ldjs_htr/202409/t20240902_4643104.html	2712
+季翔		6		宁夏回族自治区		https://tj.nx.gov.cn/tjzz_htr/ldjs_htr/	自治区统计局总统计师		宁夏回族自治区统计局	https://tj.nx.gov.cn/tjzz_htr/ldjs_htr/201901/t20190121_1469469.html	2712

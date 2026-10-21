@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杜平贵		1		青海省		https://lcj.qinghai.gov.cn/html/13/	青海省林业和草原局党组书记、局长，祁连山国家公园青海省管理局局长		青海省林业和草原局	https://lcj.qinghai.gov.cn/html/13/2022-08-17/content-60.html	1417
+林占兴		2		青海省		https://lcj.qinghai.gov.cn/html/13/	青海省林业和草原局党组成员、副局长		青海省林业和草原局	https://lcj.qinghai.gov.cn/html/13/2026-05-11/content-28510.html	1417
+韩强		3		青海省		https://lcj.qinghai.gov.cn/html/13/	青海省林业和草原局党组成员、副局长		青海省林业和草原局	https://lcj.qinghai.gov.cn/html/13/2023-07-06/content-9910.html	1417
+侯天民		4		青海省		https://lcj.qinghai.gov.cn/html/13/	青海省林业和草原局党组成员、副局长		青海省林业和草原局	https://lcj.qinghai.gov.cn/html/13/2025-08-05/content-59.html	1417
+田剑		5		青海省		https://lcj.qinghai.gov.cn/html/13/	青海省林业和草原局党组成员、副局长		青海省林业和草原局	https://lcj.qinghai.gov.cn/html/13/2025-02-06/content-52.html	1417
+韩非		6		青海省		https://lcj.qinghai.gov.cn/html/13/	青海省林业和草原局党组成员、援青办主任		青海省林业和草原局	https://lcj.qinghai.gov.cn/html/13/2025-08-05/content-57.html	1417
+才让旦周		7		青海省		https://lcj.qinghai.gov.cn/html/13/	青海省林业和草原局二级巡视员		青海省林业和草原局	https://lcj.qinghai.gov.cn/html/13/2025-03-20/content-8795.html	1417
+董君来		8		青海省		https://lcj.qinghai.gov.cn/html/13/	青海省林业和草原局二级巡视员		青海省林业和草原局	https://lcj.qinghai.gov.cn/html/13/2025-07-01/content-56.html	1417
+马建海		9		青海省		https://lcj.qinghai.gov.cn/html/13/	青海省林业和草原局总工程师		青海省林业和草原局	https://lcj.qinghai.gov.cn/html/13/2025-03-20/content-10211.html	1417

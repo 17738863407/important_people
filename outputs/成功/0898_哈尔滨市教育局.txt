@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何泉		1		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106693/bmzfxxgk_fdzt.shtml?tab=15c0493d375a4b12aa5813228a79df4f	党组书记、局长，市委教育工委常务副书记		哈尔滨市教育局	http://www.harbin.gov.cn/haerbin/c106695/202310/c01_937164.shtml	0898
+刘国君		2		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106693/bmzfxxgk_fdzt.shtml?tab=15c0493d375a4b12aa5813228a79df4f	党组成员、市纪委监委驻市教育局纪检监察组组长		哈尔滨市教育局	http://www.harbin.gov.cn/haerbin/c106695/202310/c01_937168.shtml	0898
+吴琼		3		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106693/bmzfxxgk_fdzt.shtml?tab=15c0493d375a4b12aa5813228a79df4f	党组成员、副局长		哈尔滨市教育局	http://www.harbin.gov.cn/haerbin/c106695/202310/c01_937169.shtml	0898
+邓向伟		4		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106693/bmzfxxgk_fdzt.shtml?tab=15c0493d375a4b12aa5813228a79df4f	党组成员、副局长		哈尔滨市教育局	http://www.harbin.gov.cn/haerbin/c106695/202412/c01_1030801.shtml	0898
+姜洪斌		5		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106693/bmzfxxgk_fdzt.shtml?tab=15c0493d375a4b12aa5813228a79df4f	党组成员、市委教育工委专职副书记		哈尔滨市教育局	http://www.harbin.gov.cn/haerbin/c106695/202607/c01_1135204.shtml	0898
+张慧莉		6		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106693/bmzfxxgk_fdzt.shtml?tab=15c0493d375a4b12aa5813228a79df4f	党组成员、副局长		哈尔滨市教育局	http://www.harbin.gov.cn/haerbin/c106695/202508/c01_1075086.shtml	0898
+孟晖		7		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106693/bmzfxxgk_fdzt.shtml?tab=15c0493d375a4b12aa5813228a79df4f	党组成员、市政府教育督导室督学		哈尔滨市教育局	http://www.harbin.gov.cn/haerbin/c106695/202607/c01_1135201.shtml	0898

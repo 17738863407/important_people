@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴文胜		1		安徽省		https://www.ahrtv.cn/ahrtv/xxgkw/jgld/ldjj/2022-11-07/FmjKtnloEjEHUfAF.html	安徽广播电视台党委书记、台长、总编辑		安徽广播电视台		0072
+章文静		2		安徽省		https://www.ahrtv.cn/ahrtv/xxgkw/jgld/ldjj/2022-11-07/FmjKtnloEjEHUfAF.html	安徽广播电视台党委副书记		安徽广播电视台		0072
+何勇明		3		安徽省		https://www.ahrtv.cn/ahrtv/xxgkw/jgld/ldjj/2022-11-07/FmjKtnloEjEHUfAF.html	安徽广播电视台党委委员、省监委驻安徽广播电视台监察专员		安徽广播电视台		0072
+丁国祥		4		安徽省		https://www.ahrtv.cn/ahrtv/xxgkw/jgld/ldjj/2022-11-07/FmjKtnloEjEHUfAF.html	安徽广播电视台党委委员、总工程师		安徽广播电视台		0072
+彭以学		5		安徽省		https://www.ahrtv.cn/ahrtv/xxgkw/jgld/ldjj/2022-11-07/FmjKtnloEjEHUfAF.html	安徽广播电视台党委委员、副台长		安徽广播电视台		0072
+章炜		6		安徽省		https://www.ahrtv.cn/ahrtv/xxgkw/jgld/ldjj/2022-11-07/FmjKtnloEjEHUfAF.html	安徽广播电视台党委委员、副台长		安徽广播电视台		0072
+袁卫东		7		安徽省		https://www.ahrtv.cn/ahrtv/xxgkw/jgld/ldjj/2022-11-07/FmjKtnloEjEHUfAF.html	安徽广播电视台党委委员、副总编辑		安徽广播电视台		0072
+李文学		8		安徽省		https://www.ahrtv.cn/ahrtv/xxgkw/jgld/ldjj/2022-11-07/FmjKtnloEjEHUfAF.html	安徽广播电视台党委委员、副台长		安徽广播电视台		0072

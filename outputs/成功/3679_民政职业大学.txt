@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李绚		1		北京市		https://www.mca.gov.cn/n158/n161/n303/c2405/content.html	党委书记；校长		民政职业大学		3679
+栗演兵		2		北京市		https://www.mca.gov.cn/n158/n161/n303/c2405/content.html	党委委员；副校长		民政职业大学		3679
+刘玉梅		3		北京市		https://www.mca.gov.cn/n158/n161/n303/c2405/content.html	党委委员；副校长		民政职业大学		3679
+王丽娟		4		北京市		https://www.mca.gov.cn/n158/n161/n303/c2405/content.html	党委副书记		民政职业大学		3679
+何振锋		5		北京市		https://www.mca.gov.cn/n158/n161/n303/c2405/content.html	党委委员；副校长		民政职业大学		3679
+邵全		6		北京市		https://www.mca.gov.cn/n158/n161/n303/c2405/content.html	党委委员；纪委书记		民政职业大学		3679

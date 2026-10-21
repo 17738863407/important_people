@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡志平		1		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/skjj/xxgkml_1945/gkxx_1946/ldfg_1948/202605/t20260520_5245100.html	党组书记、局长		银川市科学技术局		3160
+李倩楠		2		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/skjj/xxgkml_1945/gkxx_1946/ldfg_1948/202605/t20260520_5245100.html	党组成员、副局长		银川市科学技术局		3160
+王晓瑾		3		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/skjj/xxgkml_1945/gkxx_1946/ldfg_1948/202605/t20260520_5245100.html	一级调研员		银川市科学技术局		3160
+王学军		4		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/skjj/xxgkml_1945/gkxx_1946/ldfg_1948/202605/t20260520_5245100.html	二级调研员		银川市科学技术局		3160
+陆川		5		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/skjj/xxgkml_1945/gkxx_1946/ldfg_1948/202605/t20260520_5245100.html	三级调研员		银川市科学技术局		3160
+张振斌		6		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/skjj/xxgkml_1945/gkxx_1946/ldfg_1948/202605/t20260520_5245100.html	四级调研员		银川市科学技术局		3160

@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈建樾		1		全国		https://www.neac.gov.cn/seac/mwjs/twssmz/jgrysz.shtml	会长；中国社科院民族学与人类学研究所研究员		台湾少数民族研究会		1871
+杨筑慧		2		全国		https://www.neac.gov.cn/seac/mwjs/twssmz/jgrysz.shtml	副会长；中央民族大学民族学与社会学学院教授（兼秘书长、法定代表人）		台湾少数民族研究会		1871
+董建辉		3		全国		https://www.neac.gov.cn/seac/mwjs/twssmz/jgrysz.shtml	副会长；厦门大学人类学与民族学系教授		台湾少数民族研究会		1871
+田阡		4		全国		https://www.neac.gov.cn/seac/mwjs/twssmz/jgrysz.shtml	副会长；西南大学历史文化学院院长		台湾少数民族研究会		1871

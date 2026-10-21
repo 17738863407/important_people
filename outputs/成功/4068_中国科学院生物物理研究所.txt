@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘力		1		全国		https://ibp.cas.cn/js/xrld/	所长		中国科学院生物物理研究所	https://ibp.cas.cn/js/xrld/202411/t20241104_7417874.html	4068
+赵志刚		2		全国		https://ibp.cas.cn/js/xrld/	党委书记、副所长		中国科学院生物物理研究所	https://ibp.cas.cn/js/xrld/202411/t20241104_7417873.html	4068
+朱冰		3		全国		https://ibp.cas.cn/js/xrld/	副所长		中国科学院生物物理研究所	https://ibp.cas.cn/js/xrld/202411/t20241104_7417872.html	4068
+何生		4		全国		https://ibp.cas.cn/js/xrld/	学术副所长		中国科学院生物物理研究所	https://ibp.cas.cn/js/xrld/202411/t20241104_7417871.html	4068
+柳振峰		5		全国		https://ibp.cas.cn/js/xrld/	副所长		中国科学院生物物理研究所	https://ibp.cas.cn/js/xrld/202411/t20241104_7417870.html	4068
+舒春英		6		全国		https://ibp.cas.cn/js/xrld/	纪委书记		中国科学院生物物理研究所	https://ibp.cas.cn/js/xrld/202411/t20241104_7417869.html	4068

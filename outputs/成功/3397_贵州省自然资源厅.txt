@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周宏文		1		贵州省		https://zrzy.guizhou.gov.cn/wzgb/zwgk/zfxxgk/fdzdgknr/kgxx/	党委书记，厅长		贵州省自然资源厅	https://zrzy.guizhou.gov.cn/wzgb/zwgk/zfxxgk/fdzdgknr/kgxx/jgld/202201/t20220121_72374281.html	3397
+喻兴铸		2		贵州省		https://zrzy.guizhou.gov.cn/wzgb/zwgk/zfxxgk/fdzdgknr/kgxx/	党委委员，省林业局党组书记、局长		贵州省自然资源厅	https://zrzy.guizhou.gov.cn/wzgb/zwgk/zfxxgk/fdzdgknr/kgxx/jgld/202512/t20251222_89076223.html	3397
+杨德智		3		贵州省		https://zrzy.guizhou.gov.cn/wzgb/zwgk/zfxxgk/fdzdgknr/kgxx/	党委委员、副厅长		贵州省自然资源厅	https://zrzy.guizhou.gov.cn/wzgb/zwgk/zfxxgk/fdzdgknr/kgxx/jgld/202412/t20241202_86163279.html	3397
+王德杰		4		贵州省		https://zrzy.guizhou.gov.cn/wzgb/zwgk/zfxxgk/fdzdgknr/kgxx/	党委委员、副厅长（挂职）		贵州省自然资源厅	https://zrzy.guizhou.gov.cn/wzgb/zwgk/zfxxgk/fdzdgknr/kgxx/jgld/202602/t20260212_89508303.html	3397
+姚彤宝		5		贵州省		https://zrzy.guizhou.gov.cn/wzgb/zwgk/zfxxgk/fdzdgknr/kgxx/	党委委员、副厅长		贵州省自然资源厅	https://zrzy.guizhou.gov.cn/wzgb/zwgk/zfxxgk/fdzdgknr/kgxx/jgld/202511/t20251110_88930085.html	3397
+蒙朝阳		6		贵州省		https://zrzy.guizhou.gov.cn/wzgb/zwgk/zfxxgk/fdzdgknr/kgxx/	党委委员、副厅长		贵州省自然资源厅	https://zrzy.guizhou.gov.cn/wzgb/zwgk/zfxxgk/fdzdgknr/kgxx/jgld/202602/t20260212_89508287.html	3397
+谢旭轩		7		贵州省		https://zrzy.guizhou.gov.cn/wzgb/zwgk/zfxxgk/fdzdgknr/kgxx/	党委委员、副厅长		贵州省自然资源厅	https://zrzy.guizhou.gov.cn/wzgb/zwgk/zfxxgk/fdzdgknr/kgxx/jgld/202608/t20260810_90716191.html	3397
+赵明波		8		贵州省		https://zrzy.guizhou.gov.cn/wzgb/zwgk/zfxxgk/fdzdgknr/kgxx/	党委委员		贵州省自然资源厅	https://zrzy.guizhou.gov.cn/wzgb/zwgk/zfxxgk/fdzdgknr/kgxx/jgld/202609/t20260929_90947308.html	3397

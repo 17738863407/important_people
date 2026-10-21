@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谢又生		1		甘肃省		https://sft.gansu.gov.cn/sft/c113190/xxgk_jgjj.shtml	厅党委书记、厅长，省委依法治省委员会委员兼办公室副主任，省监狱管理局第一政委，省委政法委员会委员，省法学会副会长		甘肃省司法厅	https://sft.gansu.gov.cn/sft/c113143/202108/1756702.shtml	2323
+马宝明		2		甘肃省		https://sft.gansu.gov.cn/sft/c113190/xxgk_jgjj.shtml	厅党委委员，副厅长		甘肃省司法厅	https://sft.gansu.gov.cn/sft/c113143/202607/174373401.shtml	2323
+李嘉树		3		甘肃省		https://sft.gansu.gov.cn/sft/c113190/xxgk_jgjj.shtml	厅党委委员，省监狱管理局党委书记、局长		甘肃省司法厅	https://sft.gansu.gov.cn/sft/c113143/202503/246a9ec3a3b9426a84dedf6011b480c6.shtml	2323
+邵建斌		4		甘肃省		https://sft.gansu.gov.cn/sft/c113190/xxgk_jgjj.shtml	厅党委委员，副厅长		甘肃省司法厅	https://sft.gansu.gov.cn/sft/c113143/202608/174375733.shtml	2323
+何雯		5		甘肃省		https://sft.gansu.gov.cn/sft/c113190/xxgk_jgjj.shtml	厅党委委员、副厅长		甘肃省司法厅	https://sft.gansu.gov.cn/sft/c113143/202503/9dd5f4edf7ad4090963aae20db47ce40.shtml	2323
+寇明军		6		甘肃省		https://sft.gansu.gov.cn/sft/c113190/xxgk_jgjj.shtml	厅党委委员、省纪委监委派驻省司法厅纪检监察组组长		甘肃省司法厅	https://sft.gansu.gov.cn/sft/c113143/202401/173844134.shtml	2323
+何存鹏		7		甘肃省		https://sft.gansu.gov.cn/sft/c113190/xxgk_jgjj.shtml	厅党委委员、政治部主任		甘肃省司法厅	https://sft.gansu.gov.cn/sft/c113143/202503/af37b20806244c36bd441aa598e0ab22.shtml	2323
+王晶		8		甘肃省		https://sft.gansu.gov.cn/sft/c113190/xxgk_jgjj.shtml	厅二级巡视员		甘肃省司法厅	https://sft.gansu.gov.cn/sft/c113143/202503/7433c6b57342406494e655e86e0137e4.shtml	2323
+杨国民		9		甘肃省		https://sft.gansu.gov.cn/sft/c113190/xxgk_jgjj.shtml	厅二级巡视员		甘肃省司法厅	https://sft.gansu.gov.cn/sft/c113143/202202/1967308.shtml	2323
+王永平		10		甘肃省		https://sft.gansu.gov.cn/sft/c113190/xxgk_jgjj.shtml	厅二级巡视员		甘肃省司法厅	https://sft.gansu.gov.cn/sft/c113143/202202/1967310.shtml	2323
+任国民		11		甘肃省		https://sft.gansu.gov.cn/sft/c113190/xxgk_jgjj.shtml	厅二级巡视员		甘肃省司法厅	https://sft.gansu.gov.cn/sft/c113143/202503/93dc7bf291c5448c8e67e464c5002f54.shtml	2323
+宋宗萍		12		甘肃省		https://sft.gansu.gov.cn/sft/c113190/xxgk_jgjj.shtml	厅二级巡视员		甘肃省司法厅	https://sft.gansu.gov.cn/sft/c113143/202508/174188731.shtml	2323

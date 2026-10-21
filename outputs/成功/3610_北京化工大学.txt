@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李楠		1		北京市		https://www.buct.edu.cn/xrld_11376/list.htm	党委书记；党委常委		北京化工大学	https://www.buct.edu.cn/2026/0528/c11394a219874/page.htm	3610
+谭天伟		2		北京市		https://www.buct.edu.cn/xrld_11376/list.htm	党委副书记；党委常委；校长		北京化工大学	https://www.buct.edu.cn/2019/1112/c11395a149724/page.htm	3610
+宋来新		3		北京市		https://www.buct.edu.cn/xrld_11376/list.htm	党委副书记；党委常委		北京化工大学	https://www.buct.edu.cn/2019/1112/c11395a149720/page.htm	3610
+文永红		4		北京市		https://www.buct.edu.cn/xrld_11376/list.htm	党委副书记；纪委书记；党委常委		北京化工大学	https://www.buct.edu.cn/2019/1112/c11395a220715/page.htm	3610
+崔春花		5		北京市		https://www.buct.edu.cn/xrld_11376/list.htm	党委副书记；党委常委		北京化工大学	https://www.buct.edu.cn/2019/1112/c11395a149723/page.htm	3610
+王峰		6		北京市		https://www.buct.edu.cn/xrld_11376/list.htm	党委常委；副校长		北京化工大学	https://www.buct.edu.cn/2019/1112/c11397a149728/page.htm	3610
+任钟旗		7		北京市		https://www.buct.edu.cn/xrld_11376/list.htm	党委常委；副校长		北京化工大学	https://www.buct.edu.cn/2019/1112/c11397a149729/page.htm	3610
+梁永图		8		北京市		https://www.buct.edu.cn/xrld_11376/list.htm	党委常委；副校长		北京化工大学	https://www.buct.edu.cn/2023/0517/c11397a178778/page.htm	3610
+许海军		9		北京市		https://www.buct.edu.cn/xrld_11376/list.htm	党委常委；副校长		北京化工大学	https://www.buct.edu.cn/2023/0517/c11397a220716/page.htm	3610
+徐福建		10		北京市		https://www.buct.edu.cn/xrld_11376/list.htm	党委常委；副校长		北京化工大学	https://www.buct.edu.cn/2025/0114/c11397a203745/page.htm	3610
+苏海佳		11		北京市		https://www.buct.edu.cn/xrld_11376/list.htm	副校长		北京化工大学	https://www.buct.edu.cn/2023/0517/c11399a178780/page.htm	3610

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘正均		1		全国		https://www.famc.citic/gyhr/ldtd/index.shtml	党委书记、董事长、执行董事		中国华融资产管理股份有限公司		3985
+李子民		2		全国		https://www.famc.citic/gyhr/ldtd/index.shtml	党委副书记、执行董事、总裁		中国华融资产管理股份有限公司		3985
+曹焱		3		全国		https://www.famc.citic/gyhr/ldtd/index.shtml	党委委员、纪委书记		中国华融资产管理股份有限公司		3985
+赵晶晶		4		全国		https://www.famc.citic/gyhr/ldtd/index.shtml	党委委员、副总裁		中国华融资产管理股份有限公司		3985
+陈鹏君		5		全国		https://www.famc.citic/gyhr/ldtd/index.shtml	党委委员、副总裁		中国华融资产管理股份有限公司		3985
+刘泽云		6		全国		https://www.famc.citic/gyhr/ldtd/index.shtml	党委委员、副总裁、首席风险官、首席合规官		中国华融资产管理股份有限公司		3985
+张健		7		全国		https://www.famc.citic/gyhr/ldtd/index.shtml	党委委员、副总裁		中国华融资产管理股份有限公司		3985
+高敢		8		全国		https://www.famc.citic/gyhr/ldtd/index.shtml	总裁助理		中国华融资产管理股份有限公司		3985
+王永杰		9		全国		https://www.famc.citic/gyhr/ldtd/index.shtml	董事会秘书		中国华融资产管理股份有限公司		3985

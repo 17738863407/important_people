@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈首		1		全国		https://www.neac.gov.cn/seac/mwjs/rlxmzx/jgrysz.shtml	会长；国家民委理论研究司司长		中国人类学民族学研究会		1876
+关凯		2		全国		https://www.neac.gov.cn/seac/mwjs/rlxmzx/jgrysz.shtml	常务副会长；中央民族大学党委常委、民族学与社会学学院院长、教授		中国人类学民族学研究会		1876
+李辉		3		全国		https://www.neac.gov.cn/seac/mwjs/rlxmzx/jgrysz.shtml	副会长；复旦大学生命科学学院教授		中国人类学民族学研究会		1876
+张继焦		4		全国		https://www.neac.gov.cn/seac/mwjs/rlxmzx/jgrysz.shtml	副会长；中国社会科学院民族学与人类学研究所研究员		中国人类学民族学研究会		1876
+高丙中		5		全国		https://www.neac.gov.cn/seac/mwjs/rlxmzx/jgrysz.shtml	副会长；北京师范大学人文和社会科学高等研究院教授		中国人类学民族学研究会		1876
+梁永佳		6		全国		https://www.neac.gov.cn/seac/mwjs/rlxmzx/jgrysz.shtml	副会长；浙江大学人类学系主任、教授		中国人类学民族学研究会		1876
+孙国明		7		全国		https://www.neac.gov.cn/seac/mwjs/rlxmzx/jgrysz.shtml	秘书长、法定代表人；国家民委理论研究司二级巡视员		中国人类学民族学研究会		1876

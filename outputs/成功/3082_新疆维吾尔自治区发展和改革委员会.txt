@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+文华		1		新疆维吾尔自治区		http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/zfxxgk_zfld.shtml	自治区发展和改革委员会党组书记、副主任，自治区对口援疆工作协调领导小组办公室主任		新疆维吾尔自治区发展和改革委员会	http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/202507/abab9348c9aa4a9e970ec554a5ccea69.shtml	3082
+托乎提·热合曼		2		新疆维吾尔自治区		http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/zfxxgk_zfld.shtml	自治区发展和改革委员会党组副书记、主任		新疆维吾尔自治区发展和改革委员会	http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/202604/f9498ea4b4ba410191e1a67c5cedf550.shtml	3082
+葛标		3		新疆维吾尔自治区		http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/zfxxgk_zfld.shtml	自治区发展和改革委员会党组成员、一级巡视员，自治区粮食和物资储备局党委书记、副局长		新疆维吾尔自治区发展和改革委员会	http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/202104/a3320253ea7543f79075a3b0c12b2146.shtml	3082
+吴峻		4		新疆维吾尔自治区		http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/zfxxgk_zfld.shtml	自治区发展和改革委员会党组成员、副主任		新疆维吾尔自治区发展和改革委员会	http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/202407/ad321481b8164a68a1a32fc901003472.shtml	3082
+苏卡		5		新疆维吾尔自治区		http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/zfxxgk_zfld.shtml	自治区发展和改革委员会党组成员、自治区政府投资建设项目代建中心党委书记、主任		新疆维吾尔自治区发展和改革委员会	http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/202602/57447398fd9c46d5866478a31535b865.shtml	3082
+鞠丽丽		6		新疆维吾尔自治区		http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/zfxxgk_zfld.shtml	自治区发展和改革委员会党组成员、副主任		新疆维吾尔自治区发展和改革委员会	http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/202306/9f72695f32a949ae94c73ed3afe0f215.shtml	3082
+李冰		7		新疆维吾尔自治区		http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/zfxxgk_zfld.shtml	自治区发展和改革委员会党组成员、副主任		新疆维吾尔自治区发展和改革委员会	http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/202608/8190bd1e24a64079b4a1d7543e6dca07.shtml	3082
+杨旸		8		新疆维吾尔自治区		http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/zfxxgk_zfld.shtml	自治区发展和改革委员会党组成员，自治区能源局党组书记、局长		新疆维吾尔自治区发展和改革委员会	http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/202411/d6a3b559f4e043c5afc8e34f4ff46af6.shtml	3082
+许豫东		9		新疆维吾尔自治区		http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/zfxxgk_zfld.shtml	自治区发展和改革委员会党组成员，自治区政府投资项目评审中心党委书记、主任		新疆维吾尔自治区发展和改革委员会	http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/202505/4c3ad716aa474b8fb2b7d8712db57efd.shtml	3082
+侯全章		10		新疆维吾尔自治区		http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/zfxxgk_zfld.shtml	自治区发展和改革委员会党组成员、副主任		新疆维吾尔自治区发展和改革委员会	http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/202608/0ad59a2774c44725a9cd3b3e6477a9d0.shtml	3082
+黄宗亮		11		新疆维吾尔自治区		http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/zfxxgk_zfld.shtml	自治区发展和改革委员会党组成员、副主任		新疆维吾尔自治区发展和改革委员会	http://xjdrc.xinjiang.gov.cn/xjfgw/c108356/202608/f209184f66e945cc9e08eb6a6216ba93.shtml	3082

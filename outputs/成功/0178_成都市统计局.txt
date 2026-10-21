@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘忠		1		四川省	成都市	https://cdstats.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	党组书记、局长		成都市统计局	https://cdstats.chengdu.gov.cn/gkml/ldcy/1537157826898558976.shtml	0178
+向阳		2		四川省	成都市	https://cdstats.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	党组副书记、副局长		成都市统计局	https://cdstats.chengdu.gov.cn/gkml/ldcy/1630415191990620160.shtml	0178
+冉晓晞		3		四川省	成都市	https://cdstats.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	党组成员、副局长		成都市统计局	https://cdstats.chengdu.gov.cn/gkml/ldcy/1630415192556851200.shtml	0178
+彭阳		4		四川省	成都市	https://cdstats.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	党组成员、总经济师		成都市统计局	https://cdstats.chengdu.gov.cn/gkml/ldcy/1630415192179363840.shtml	0178
+夏波		5		四川省	成都市	https://cdstats.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	党组成员、总统计师、机关党委书记		成都市统计局	https://cdstats.chengdu.gov.cn/gkml/ldcy/1683767333283201025.shtml	0178
+罗晓东		6		四川省	成都市	https://cdstats.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	党组成员、副局长		成都市统计局	https://cdstats.chengdu.gov.cn/gkml/ldcy/1311748556037554176.shtml	0178

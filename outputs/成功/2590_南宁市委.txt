@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谭丕创		1		广西壮族自治区	南宁市	http://sw.nanning.gov.cn/dwld/	书记		南宁市委		2590
+钟得志		2		广西壮族自治区	南宁市	http://sw.nanning.gov.cn/dwld/	副书记		南宁市委		2590
+孙晋		3		广西壮族自治区	南宁市	http://sw.nanning.gov.cn/dwld/	副书记		南宁市委		2590
+韦江		4		广西壮族自治区	南宁市	http://sw.nanning.gov.cn/dwld/	常委		南宁市委		2590
+顾德庆		5		广西壮族自治区	南宁市	http://sw.nanning.gov.cn/dwld/	常委		南宁市委		2590
+李瑜		6		广西壮族自治区	南宁市	http://sw.nanning.gov.cn/dwld/	常委		南宁市委		2590
+丁伟		7		广西壮族自治区	南宁市	http://sw.nanning.gov.cn/dwld/	常委		南宁市委		2590
+邓娟娟		8		广西壮族自治区	南宁市	http://sw.nanning.gov.cn/dwld/	常委		南宁市委		2590
+杨智慧		9		广西壮族自治区	南宁市	http://sw.nanning.gov.cn/dwld/	常委		南宁市委		2590
+范江文		10		广西壮族自治区	南宁市	http://sw.nanning.gov.cn/dwld/	常委		南宁市委		2590
+贤海华		11		广西壮族自治区	南宁市	http://sw.nanning.gov.cn/dwld/	常委		南宁市委		2590
+黄岩		12		广西壮族自治区	南宁市	http://sw.nanning.gov.cn/dwld/	常委		南宁市委		2590

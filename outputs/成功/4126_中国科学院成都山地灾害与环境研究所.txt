@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+康世昌		1		四川省	成都市	https://imde.cas.cn/gkjj/ldjt/	所长		中国科学院成都山地灾害与环境研究所	https://imde.cas.cn/gkjj/ldjt/202508/t20250814_7904646.html	4126
+谭多财		2		四川省	成都市	https://imde.cas.cn/gkjj/ldjt/	党委书记、副所长		中国科学院成都山地灾害与环境研究所	https://imde.cas.cn/gkjj/ldjt/202508/t20250814_7904647.html	4126
+周鹏浩		3		四川省	成都市	https://imde.cas.cn/gkjj/ldjt/	纪委书记		中国科学院成都山地灾害与环境研究所	https://imde.cas.cn/gkjj/ldjt/202508/t20250814_7904648.html	4126
+李高军		4		四川省	成都市	https://imde.cas.cn/gkjj/ldjt/	学术副所长		中国科学院成都山地灾害与环境研究所	https://imde.cas.cn/gkjj/ldjt/202606/t20260624_8232778.html	4126

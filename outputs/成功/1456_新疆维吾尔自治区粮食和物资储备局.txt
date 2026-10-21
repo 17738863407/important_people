@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+葛标		1		新疆维吾尔自治区		https://lswz.xinjiang.gov.cn/xjgrain/jggk/jggk.shtml	自治区发展改革委党组成员、一级巡视员，自治区粮食和物资储备局党委书记、副局长		新疆维吾尔自治区粮食和物资储备局	https://lswz.xinjiang.gov.cn/xjgrain/grjl01/grjl.shtml	1456
+赵琰		2		新疆维吾尔自治区		https://lswz.xinjiang.gov.cn/xjgrain/jggk/jggk.shtml	自治区粮食和物资储备局党委副书记、局长		新疆维吾尔自治区粮食和物资储备局	https://lswz.xinjiang.gov.cn/xjgrain/c115661/grjl.shtml	1456
+李涛		3		新疆维吾尔自治区		https://lswz.xinjiang.gov.cn/xjgrain/jggk/jggk.shtml	党委委员、副局长（援疆）		新疆维吾尔自治区粮食和物资储备局	https://lswz.xinjiang.gov.cn/xjgrain/001/grjl.shtml	1456
+朱军生		4		新疆维吾尔自治区		https://lswz.xinjiang.gov.cn/xjgrain/jggk/jggk.shtml	党委委员、副局长		新疆维吾尔自治区粮食和物资储备局	https://lswz.xinjiang.gov.cn/xjgrain/c115913/grjl.shtml	1456
+盛磊		5		新疆维吾尔自治区		https://lswz.xinjiang.gov.cn/xjgrain/jggk/jggk.shtml	自治区粮食和物资储备局党委委员、副局长		新疆维吾尔自治区粮食和物资储备局	https://lswz.xinjiang.gov.cn/xjgrain/c115915/grjl.shtml	1456
+库来西·玉素甫		6		新疆维吾尔自治区		https://lswz.xinjiang.gov.cn/xjgrain/jggk/jggk.shtml	自治区粮食和物资储备局二级巡视员		新疆维吾尔自治区粮食和物资储备局	https://lswz.xinjiang.gov.cn/xjgrain/c115168/grjl.shtml	1456
+夏卫江		7		新疆维吾尔自治区		https://lswz.xinjiang.gov.cn/xjgrain/jggk/jggk.shtml	自治区粮食和物资储备局总经济师、一级调研员		新疆维吾尔自治区粮食和物资储备局	https://lswz.xinjiang.gov.cn/xjgrain/c115311/grjl.shtml	1456

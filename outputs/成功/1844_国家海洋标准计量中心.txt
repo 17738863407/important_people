@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+夏登文		1		全国		https://www.ncosm.org.cn/#/org/leader	国家海洋标准计量中心主任、党委书记		国家海洋标准计量中心		1844
+张志刚		2		全国		https://www.ncosm.org.cn/#/org/leader	国家海洋标准计量中心副主任		国家海洋标准计量中心		1844
+高占科		3		全国		https://www.ncosm.org.cn/#/org/leader	国家海洋标准计量中心副主任、总工程师		国家海洋标准计量中心		1844
+刘惠		4		全国		https://www.ncosm.org.cn/#/org/leader	国家海洋标准计量中心纪委书记		国家海洋标准计量中心		1844
+庞永超		5		全国		https://www.ncosm.org.cn/#/org/leader	国家海洋标准计量中心副主任		国家海洋标准计量中心		1844
+姜秋		6		全国		https://www.ncosm.org.cn/#/org/leader	国家海洋标准计量中心党委专职副书记		国家海洋标准计量中心		1844

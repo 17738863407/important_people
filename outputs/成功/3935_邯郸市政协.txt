@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+韩俊兰		1		河北省	邯郸市	http://zx.hd.gov.cn/List.asp?L-7737308469.Html	主席		邯郸市政协		3935
+董卫		2		河北省	邯郸市	http://zx.hd.gov.cn/List.asp?L-7737308469.Html	副主席		邯郸市政协		3935
+曹淑霞		3		河北省	邯郸市	http://zx.hd.gov.cn/List.asp?L-7737308469.Html	副主席		邯郸市政协		3935
+马宏志		4		河北省	邯郸市	http://zx.hd.gov.cn/List.asp?L-7737308469.Html	副主席		邯郸市政协		3935
+樊中青		5		河北省	邯郸市	http://zx.hd.gov.cn/List.asp?L-7737308469.Html	副主席		邯郸市政协		3935
+薛洪志		6		河北省	邯郸市	http://zx.hd.gov.cn/List.asp?L-7737308469.Html	副主席		邯郸市政协		3935
+于保叙		7		河北省	邯郸市	http://zx.hd.gov.cn/List.asp?L-7737308469.Html	副主席		邯郸市政协		3935
+姜青辉		8		河北省	邯郸市	http://zx.hd.gov.cn/List.asp?L-7737308469.Html	副主席		邯郸市政协		3935
+李涌		9		河北省	邯郸市	http://zx.hd.gov.cn/List.asp?L-7737308469.Html	副主席		邯郸市政协		3935
+张国群		10		河北省	邯郸市	http://zx.hd.gov.cn/List.asp?L-7737308469.Html	副主席		邯郸市政协		3935
+张晓中		11		河北省	邯郸市	http://zx.hd.gov.cn/List.asp?L-7737308469.Html	秘书长		邯郸市政协		3935

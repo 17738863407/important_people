@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吕恒良		1		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/zygh/gkml/jgxx/202312/t20231225_7743019.shtml	党组书记、局长		青岛市自然资源和规划局		2164
+薛洪利		2		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/zygh/gkml/jgxx/202312/t20231225_7743019.shtml	党组成员、副局长		青岛市自然资源和规划局		2164
+石磊		3		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/zygh/gkml/jgxx/202312/t20231225_7743019.shtml	党组成员、副局长		青岛市自然资源和规划局		2164
+庞兵锋		4		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/zygh/gkml/jgxx/202312/t20231225_7743019.shtml	党组成员、副局长		青岛市自然资源和规划局		2164
+章锡年		5		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/zygh/gkml/jgxx/202312/t20231225_7743019.shtml	党组成员、青岛市生态修复和土地整治中心主任		青岛市自然资源和规划局		2164
+李宪强		6		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/zygh/gkml/jgxx/202312/t20231225_7743019.shtml	党组成员、副局长		青岛市自然资源和规划局		2164
+毕敬平		7		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/zygh/gkml/jgxx/202312/t20231225_7743019.shtml	党组成员、青岛市土地储备整理中心主任		青岛市自然资源和规划局		2164
+王集浩		8		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/zygh/gkml/jgxx/202312/t20231225_7743019.shtml	二级巡视员		青岛市自然资源和规划局		2164
+吴青		9		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/zygh/gkml/jgxx/202312/t20231225_7743019.shtml	副巡视员		青岛市自然资源和规划局		2164

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+侯振刚		1		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202306/t20230606_944262.htm	司长		文化和旅游部市场管理司		1518
+李建伟		2		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202306/t20230606_944262.htm	一级巡视员		文化和旅游部市场管理司		1518
+李晓勇		3		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202306/t20230606_944262.htm	副司长		文化和旅游部市场管理司		1518
+余昌国		4		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202306/t20230606_944262.htm	副司长		文化和旅游部市场管理司		1518
+彭程		5		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202306/t20230606_944262.htm	副司长（在外挂职）		文化和旅游部市场管理司		1518
+王瑾		6		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202306/t20230606_944262.htm	副司长		文化和旅游部市场管理司		1518

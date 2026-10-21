@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+林芊		1		海南省	海口市	http://wsb.haikou.gov.cn/hkswsb/ldxx/list.shtml	主任		海口市外事办公室	http://wsb.haikou.gov.cn/hkswsb/ldxx/202607/05ccccfcf82f43bf99eab4ec7c2d5e3e.shtml	2968
+周傲霜		2		海南省	海口市	http://wsb.haikou.gov.cn/hkswsb/ldxx/list.shtml	副主任		海口市外事办公室	http://wsb.haikou.gov.cn/hkswsb/ldxx/202607/2b249e4e593743eb81580a78fe2d1d44.shtml	2968
+薛君		3		海南省	海口市	http://wsb.haikou.gov.cn/hkswsb/ldxx/list.shtml	副主任		海口市外事办公室	http://wsb.haikou.gov.cn/hkswsb/ldxx/202607/2327c329a9334fe3a78bd45e89d04b98.shtml	2968
+许智晶		4		海南省	海口市	http://wsb.haikou.gov.cn/hkswsb/ldxx/list.shtml	副主任		海口市外事办公室	http://wsb.haikou.gov.cn/hkswsb/ldxx/202505/1a3f547be4e8490ebc5c368113e3589f.shtml	2968

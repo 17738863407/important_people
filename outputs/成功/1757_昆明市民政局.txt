@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高庚		1		云南省	昆明市	https://mzj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	局党组书记、局长		昆明市民政局	https://mzj.km.gov.cn/c/2025-10-16/5026735.shtml	1757
+肖向飞		2		云南省	昆明市	https://mzj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	局党组成员、副局长		昆明市民政局	https://mzj.km.gov.cn/c/2025-10-16/5026736.shtml	1757
+何艳波		3		云南省	昆明市	https://mzj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	局党组成员、副局长		昆明市民政局	https://mzj.km.gov.cn/c/2025-10-16/5026740.shtml	1757
+胡国海		4		云南省	昆明市	https://mzj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	局党组成员、副局长		昆明市民政局	https://mzj.km.gov.cn/c/2025-10-16/5026742.shtml	1757
+马承斌		5		云南省	昆明市	https://mzj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	局党组成员、副局长		昆明市民政局	https://mzj.km.gov.cn/c/2025-10-16/5026743.shtml	1757

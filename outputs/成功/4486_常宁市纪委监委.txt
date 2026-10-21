@@ -1,0 +1,10 @@
+﻿姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+曾德伟		1		湖南省	衡阳市	http://www.cnsjw.gov.cn/jgzn/ldjg/index.html	中国共产党常宁市第十四届纪律检查委员会书记；中国共产党常宁市第十四届纪律检查委员会常务委员会委员		常宁市纪委监委	http://www.cnsjw.gov.cn/jgzn/ldjg/zggcdcnsdsejjljcwyh/sj/20250305/i3593113.html	4486
+屈方利		2		湖南省	衡阳市	http://www.cnsjw.gov.cn/jgzn/ldjg/index.html	中国共产党常宁市第十四届纪律检查委员会副书记；中国共产党常宁市第十四届纪律检查委员会常务委员会委员		常宁市纪委监委	http://www.cnsjw.gov.cn/jgzn/ldjg/zggcdcnsdsejjljcwyh/fsj/20260730/i3938870.html	4486
+欧曙良		3		湖南省	衡阳市	http://www.cnsjw.gov.cn/jgzn/ldjg/index.html	中国共产党常宁市第十四届纪律检查委员会副书记；中国共产党常宁市第十四届纪律检查委员会常务委员会委员		常宁市纪委监委	http://www.cnsjw.gov.cn/jgzn/ldjg/zggcdcnsdsejjljcwyh/fsj/20260730/i3938874.html	4486
+刘泽平		4		湖南省	衡阳市	http://www.cnsjw.gov.cn/jgzn/ldjg/index.html	中国共产党常宁市第十四届纪律检查委员会副书记；中国共产党常宁市第十四届纪律检查委员会常务委员会委员		常宁市纪委监委	http://www.cnsjw.gov.cn/jgzn/ldjg/zggcdcnsdsejjljcwyh/fsj/20260730/i3938876.html	4486
+刘军巧		5		湖南省	衡阳市	http://www.cnsjw.gov.cn/jgzn/ldjg/index.html	中国共产党常宁市第十四届纪律检查委员会常务委员会委员		常宁市纪委监委	http://www.cnsjw.gov.cn/jgzn/ldjg/zggcdcnsdsejjljcwyh/cwwyhwy/20260730/i3938925.html	4486
+邓威		6		湖南省	衡阳市	http://www.cnsjw.gov.cn/jgzn/ldjg/index.html	中国共产党常宁市第十四届纪律检查委员会常务委员会委员		常宁市纪委监委	http://www.cnsjw.gov.cn/jgzn/ldjg/zggcdcnsdsejjljcwyh/cwwyhwy/20260730/i3938923.html	4486
+周荣		7		湖南省	衡阳市	http://www.cnsjw.gov.cn/jgzn/ldjg/index.html	中国共产党常宁市第十四届纪律检查委员会常务委员会委员		常宁市纪委监委	http://www.cnsjw.gov.cn/jgzn/ldjg/zggcdcnsdsejjljcwyh/cwwyhwy/20260730/i3938922.html	4486
+杨立军		8		湖南省	衡阳市	http://www.cnsjw.gov.cn/jgzn/ldjg/index.html	中国共产党常宁市第十四届纪律检查委员会常务委员会委员		常宁市纪委监委	http://www.cnsjw.gov.cn/jgzn/ldjg/zggcdcnsdsejjljcwyh/cwwyhwy/20260730/i3938921.html	4486
+许峰		9		湖南省	衡阳市	http://www.cnsjw.gov.cn/jgzn/ldjg/index.html	中国共产党常宁市第十四届纪律检查委员会常务委员会委员		常宁市纪委监委	http://www.cnsjw.gov.cn/jgzn/ldjg/zggcdcnsdsejjljcwyh/cwwyhwy/20260730/i3938919.html	4486

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+牟治平		1		广东省	佛山市	https://www.foshan.gov.cn/zwgk/index.html	广东省佛山市委副书记，市政府市长、党组书记		佛山市人民政府	http://www.foshan.gov.cn/zwgk/ldzc/szfld/sz/	3819
+刘杰		2		广东省	佛山市	https://www.foshan.gov.cn/zwgk/index.html	副市长		佛山市人民政府	https://www.foshan.gov.cn/zwgk/ldzc/szfld/fsz/content/post_5698805.html	3819
+徐薇		3		广东省	佛山市	https://www.foshan.gov.cn/zwgk/index.html	副市长		佛山市人民政府	https://www.foshan.gov.cn/zwgk/ldzc/szfld/fsz/content/post_6953522.html	3819
+乔羽		4		广东省	佛山市	https://www.foshan.gov.cn/zwgk/index.html	副市长		佛山市人民政府	https://www.foshan.gov.cn/zwgk/ldzc/szfld/fsz/content/post_4878781.html	3819
+黄少文		5		广东省	佛山市	https://www.foshan.gov.cn/zwgk/index.html	副市长		佛山市人民政府	https://www.foshan.gov.cn/zwgk/ldzc/szfld/fsz/content/post_5136819.html	3819
+文曦		6		广东省	佛山市	https://www.foshan.gov.cn/zwgk/index.html	副市长		佛山市人民政府	https://www.foshan.gov.cn/zwgk/ldzc/szfld/fsz/content/post_5776714.html	3819
+梁继征		7		广东省	佛山市	https://www.foshan.gov.cn/zwgk/index.html	副市长		佛山市人民政府	https://www.foshan.gov.cn/zwgk/ldzc/szfld/fsz/content/post_6156407.html	3819

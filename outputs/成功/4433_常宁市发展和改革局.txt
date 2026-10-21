@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+肖恒军		1		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/fgj/gzjg/ldxx/index.html	常宁市发展和改革局(常宁市粮食和物资储备局)局长、常宁市国防动员办公室(常宁市人民防空办公室)主任		常宁市发展和改革局	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/fgj/gzjg/ldxx/20260109/i3847676.html	4433
+郭凌		2		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/fgj/gzjg/ldxx/index.html	常宁市发改局党组成员、国防动员办公室专职副主任		常宁市发展和改革局	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/fgj/gzjg/ldxx/20260109/i3847665.html	4433
+彭常棋		3		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/fgj/gzjg/ldxx/index.html	常宁市发展和改革局党组成员、副局长		常宁市发展和改革局	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/fgj/gzjg/ldxx/20260109/i3847664.html	4433
+陈建军		4		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/fgj/gzjg/ldxx/index.html	常宁市发改局党组成员、副局长		常宁市发展和改革局	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/fgj/gzjg/ldxx/20260109/i3847663.html	4433

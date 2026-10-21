@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+任伟方		1		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218947/index.html	局长、党委书记		宁波市机关事务管理局	https://www.ningbo.gov.cn/art/2022/10/11/art_1229218947_134612.html	1912
+何小宝		2		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218947/index.html	副局长、党委副书记		宁波市机关事务管理局	https://www.ningbo.gov.cn/art/2022/10/11/art_1229218947_134613.html	1912
+方伟亮		3		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218947/index.html	副局长、党委委员		宁波市机关事务管理局	https://www.ningbo.gov.cn/art/2024/1/8/art_1229218947_154706.html	1912
+李声波		4		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218947/index.html	副局长、党委委员		宁波市机关事务管理局	https://www.ningbo.gov.cn/art/2025/7/14/art_1229218947_179180.html	1912
+徐小设		5		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218947/index.html	党委委员、二级巡视员		宁波市机关事务管理局	https://www.ningbo.gov.cn/col/col1229218947/art/2026/art_553a7416d329479584c2afc6b3138bee.html	1912
+王正祥		6		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218947/index.html	二级巡视员		宁波市机关事务管理局	https://www.ningbo.gov.cn/art/2020/7/31/art_1229218947_26236.html	1912

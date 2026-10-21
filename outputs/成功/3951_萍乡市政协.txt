@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+聂晓葵		1		江西省	萍乡市	https://www.jxpxzx.gov.cn/ldzc/	市政协主席		萍乡市政协		3951
+贺雪平		2		江西省	萍乡市	https://www.jxpxzx.gov.cn/ldzc/	市政协副主席		萍乡市政协		3951
+崔传鹏		3		江西省	萍乡市	https://www.jxpxzx.gov.cn/ldzc/	市政协副主席		萍乡市政协		3951
+刘新农		4		江西省	萍乡市	https://www.jxpxzx.gov.cn/ldzc/	市政协副主席		萍乡市政协		3951
+宋玖萍		5		江西省	萍乡市	https://www.jxpxzx.gov.cn/ldzc/	市政协副主席		萍乡市政协		3951
+万四新		6		江西省	萍乡市	https://www.jxpxzx.gov.cn/ldzc/	市政协副主席		萍乡市政协		3951
+曾琦		7		江西省	萍乡市	https://www.jxpxzx.gov.cn/ldzc/	市政协副主席		萍乡市政协		3951
+刘韬		8		江西省	萍乡市	https://www.jxpxzx.gov.cn/ldzc/	市政协副主席		萍乡市政协		3951
+刘志高		9		江西省	萍乡市	https://www.jxpxzx.gov.cn/ldzc/	市政协秘书长		萍乡市政协		3951

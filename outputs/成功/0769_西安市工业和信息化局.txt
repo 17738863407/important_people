@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘鑫		1		陕西省	西安市	http://gxj.xa.gov.cn/zfxxgk/zzjg/ldjsjfg/1.html	市工信局党组书记、局长		西安市工业和信息化局		0769
+郭亚龙		2		陕西省	西安市	http://gxj.xa.gov.cn/zfxxgk/zzjg/ldjsjfg/1.html	市工信局党组成员、副局长，市委军民融合办副主任		西安市工业和信息化局		0769
+王晖		3		陕西省	西安市	http://gxj.xa.gov.cn/zfxxgk/zzjg/ldjsjfg/1.html	市工信局党组成员、市纪委监委驻市工信局纪检监察组组长		西安市工业和信息化局		0769
+刘婷		4		陕西省	西安市	http://gxj.xa.gov.cn/zfxxgk/zzjg/ldjsjfg/1.html	市工信局党组成员、副局长		西安市工业和信息化局		0769

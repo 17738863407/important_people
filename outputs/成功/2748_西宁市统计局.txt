@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘波		1		青海省	西宁市	https://tjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	青海省西宁市统计局党组书记、局长		西宁市统计局	https://tjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202608/t20260804_260131.html	2748
+李安琪		2		青海省	西宁市	https://tjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	青海省西宁市统计局党组成员、副局长、二级调研员		西宁市统计局	https://tjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202012/t20201220_69014.html	2748
+逯启安		3		青海省	西宁市	https://tjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	青海省西宁市统计局党组成员、副局长		西宁市统计局	https://tjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202412/t20241210_211073.html	2748
+郭振龙		4		青海省	西宁市	https://tjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	青海省西宁市统计局党组成员、副局长		西宁市统计局	https://tjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202012/t20201220_69063.html	2748

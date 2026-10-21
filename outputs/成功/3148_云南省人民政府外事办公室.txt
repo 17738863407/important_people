@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨绍成		1		云南省		https://yfao.yn.gov.cn/ynwb/ldcy/	党组书记、主任		云南省人民政府外事办公室	https://yfao.yn.gov.cn/ynwb/ldcy/202511/t20251105_2560805.html	3148
+温志雄		2		云南省		https://yfao.yn.gov.cn/ynwb/ldcy/	党组成员、副主任 省区域合作办主任		云南省人民政府外事办公室	https://yfao.yn.gov.cn/ynwb/ldcy/202511/t20251105_2561207.html	3148
+马作昕		3		云南省		https://yfao.yn.gov.cn/ynwb/ldcy/	党组成员、副主任		云南省人民政府外事办公室	https://yfao.yn.gov.cn/ynwb/ldcy/202511/t20251105_2561278.html	3148
+合涛		4		云南省		https://yfao.yn.gov.cn/ynwb/ldcy/	党组成员、副主任		云南省人民政府外事办公室	https://yfao.yn.gov.cn/ynwb/ldcy/202511/t20251105_2561390.html	3148
+王宇		5		云南省		https://yfao.yn.gov.cn/ynwb/ldcy/	省人民对外友好协会专职副会长		云南省人民政府外事办公室	https://yfao.yn.gov.cn/ynwb/ldcy/202511/t20251105_2561521.html	3148

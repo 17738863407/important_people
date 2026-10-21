@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王毅		1		四川省	成都市	https://cdhrss.chengdu.gov.cn/cdrsj/c109720/list.shtml	中共成都市委组织部副部长，成都市人力资源和社会保障局党组书记。 领导分工：主持市人力资源和社会保障局全面工作。 领导简历：王毅，男，汉族，1970 年 2 月出生，大学学历、在职硕士，中共党员		成都市人力资源和社会保障局	https://cdhrss.chengdu.gov.cn/cdrsj/c109720/2026-09/16/content_313c819ff7e34be28f1378f6db820c17.shtml	0169
+皮大云		2		四川省	成都市	https://cdhrss.chengdu.gov.cn/cdrsj/c109720/list.shtml	成都市人力资源和社会保障局党组成员、副局长		成都市人力资源和社会保障局	https://cdhrss.chengdu.gov.cn/cdrsj/c109720/2025-08/13/content_e318d9288d984eeda33bd4128aeb2251.shtml	0169
+黄通贵		3		四川省	成都市	https://cdhrss.chengdu.gov.cn/cdrsj/c109720/list.shtml	成都市人力资源和社会保障局党组成员、副局长		成都市人力资源和社会保障局	https://cdhrss.chengdu.gov.cn/cdrsj/c109720/2022-11/10/content_b5cc100d4b944c2eab1b92e2d03a2b73.shtml	0169
+李果		4		四川省	成都市	https://cdhrss.chengdu.gov.cn/cdrsj/c109720/list.shtml	成都市人力资源和社会保障局党组成员、副局长		成都市人力资源和社会保障局	https://cdhrss.chengdu.gov.cn/cdrsj/c109720/2023-05/25/content_b0f7a617e32c4a6a9b8d4eb537aed9b7.shtml	0169
+亓国荣		5		四川省	成都市	https://cdhrss.chengdu.gov.cn/cdrsj/c109720/list.shtml	成都市人力资源和社会保障局党组成员、副局长		成都市人力资源和社会保障局	https://cdhrss.chengdu.gov.cn/cdrsj/c109720/2022-11/10/content_6aa3904a8fdc44e09b3c46207109efc0.shtml	0169
+晏波		6		四川省	成都市	https://cdhrss.chengdu.gov.cn/cdrsj/c109720/list.shtml	成都市人力资源和社会保障局党组成员、驻局纪检监察组组长		成都市人力资源和社会保障局	https://cdhrss.chengdu.gov.cn/cdrsj/c109720/2023-03/06/content_d7f71fbf6c274e288b2522765f73bcc5.shtml	0169
+沈星梅		7		四川省	成都市	https://cdhrss.chengdu.gov.cn/cdrsj/c109720/list.shtml	成都市人力资源和社会保障局党组成员、机关党委书记		成都市人力资源和社会保障局	https://cdhrss.chengdu.gov.cn/cdrsj/c109720/2023-03/06/content_61e253f3d06940759834ead95312d70f.shtml	0169

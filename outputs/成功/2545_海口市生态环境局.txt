@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+颜为军		1		海南省	海口市	https://sthb.haikou.gov.cn/jgjs/ldbzjfg/	党组书记、局长		海口市生态环境局	https://sthb.haikou.gov.cn/jgjs/ldbzjfg/202201/t659637.shtml	2545
+黄兹波		2		海南省	海口市	https://sthb.haikou.gov.cn/jgjs/ldbzjfg/	党组成员、副局长		海口市生态环境局	https://sthb.haikou.gov.cn/jgjs/ldbzjfg/202201/t659639.shtml	2545
+符圣和		3		海南省	海口市	https://sthb.haikou.gov.cn/jgjs/ldbzjfg/	党组成员、站长		海口市生态环境局	https://sthb.haikou.gov.cn/jgjs/ldbzjfg/202201/t659643.shtml	2545
+虞驰		4		海南省	海口市	https://sthb.haikou.gov.cn/jgjs/ldbzjfg/	党组成员、副局长		海口市生态环境局	https://sthb.haikou.gov.cn/jgjs/ldbzjfg/202201/t659640.shtml	2545
+易正超		5		海南省	海口市	https://sthb.haikou.gov.cn/jgjs/ldbzjfg/	三级调研员		海口市生态环境局	https://sthb.haikou.gov.cn/jgjs/ldbzjfg/202201/t659642.shtml	2545
+郑红		6		海南省	海口市	https://sthb.haikou.gov.cn/jgjs/ldbzjfg/	四级调研员		海口市生态环境局	https://sthb.haikou.gov.cn/jgjs/ldbzjfg/202201/t659641.shtml	2545

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈玲玲		1		全国		https://cemcs.cas.cn/jggk/xrld/	副主任（主持工作）		中国科学院分子细胞科学卓越创新中心		4095
+李劲松		2		全国		https://cemcs.cas.cn/jggk/xrld/	学术主任		中国科学院分子细胞科学卓越创新中心		4095
+沈   毅		3		全国		https://cemcs.cas.cn/jggk/xrld/	党委书记、副主任		中国科学院分子细胞科学卓越创新中心		4095
+姚娅平		4		全国		https://cemcs.cas.cn/jggk/xrld/	纪委书记		中国科学院分子细胞科学卓越创新中心		4095
+赵　允		5		全国		https://cemcs.cas.cn/jggk/xrld/	副主任		中国科学院分子细胞科学卓越创新中心		4095
+许琛琦		6		全国		https://cemcs.cas.cn/jggk/xrld/	副主任		中国科学院分子细胞科学卓越创新中心		4095

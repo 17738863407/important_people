@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张涛		1		河北省	张家口市	https://www.zjk.gov.cn/zfld.thtml?contentId=227262	市政府市长		张家口市人民政府		3911
+陈宇		2		河北省	张家口市	https://www.zjk.gov.cn/zfld.thtml?contentId=227262	市政府常务副市长		张家口市人民政府	https://www.zjk.gov.cn/zfld.thtml?contentId=246547	3911
+闫利艳		3		河北省	张家口市	https://www.zjk.gov.cn/zfld.thtml?contentId=227262	市政府副市长		张家口市人民政府	https://www.zjk.gov.cn/zfld.thtml?contentId=50756	3911
+赵强		4		河北省	张家口市	https://www.zjk.gov.cn/zfld.thtml?contentId=227262	市政府副市长		张家口市人民政府	https://www.zjk.gov.cn/zfld.thtml?contentId=194606	3911
+贾瑞生		5		河北省	张家口市	https://www.zjk.gov.cn/zfld.thtml?contentId=227262	市政府副市长		张家口市人民政府	https://www.zjk.gov.cn/zfld.thtml?contentId=230729	3911
+任秋彦		6		河北省	张家口市	https://www.zjk.gov.cn/zfld.thtml?contentId=227262	市政府副市长		张家口市人民政府	https://www.zjk.gov.cn/zfld.thtml?contentId=254869	3911
+刘禹		7		河北省	张家口市	https://www.zjk.gov.cn/zfld.thtml?contentId=227262	市政府副市长		张家口市人民政府	https://www.zjk.gov.cn/zfld.thtml?contentId=254870	3911

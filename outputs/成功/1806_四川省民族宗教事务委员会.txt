@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈武		1		四川省		http://mzw.sc.gov.cn/scsmzw/dwgk/xxgk_jgjj.shtml	四川省民族宗教委党组书记		四川省民族宗教事务委员会	http://mzw.sc.gov.cn/scsmzw/chenwu/xxgk_ldxx.shtml	1806
+宋秋		2		四川省		http://mzw.sc.gov.cn/scsmzw/dwgk/xxgk_jgjj.shtml	四川省民族宗教委主任		四川省民族宗教事务委员会	http://mzw.sc.gov.cn/scsmzw/sqhd/xxgk_ldxx.shtml	1806
+刘向鸿		3		四川省		http://mzw.sc.gov.cn/scsmzw/dwgk/xxgk_jgjj.shtml	四川省民族宗教委党组成员、副主任		四川省民族宗教事务委员会	http://mzw.sc.gov.cn/scsmzw/lxhzyhd/xxgk_ldxx.shtml	1806
+胡勇		4		四川省		http://mzw.sc.gov.cn/scsmzw/dwgk/xxgk_jgjj.shtml	四川省民族宗教委党组成员、副主任		四川省民族宗教事务委员会	http://mzw.sc.gov.cn/scsmzw/huy/xxgk_ldxx.shtml	1806
+马小合		5		四川省		http://mzw.sc.gov.cn/scsmzw/dwgk/xxgk_jgjj.shtml	四川省民族宗教委党组成员、副主任		四川省民族宗教事务委员会	http://mzw.sc.gov.cn/scsmzw/mxh/xxgk_ldxx.shtml	1806
+洛绒卓玛		6		四川省		http://mzw.sc.gov.cn/scsmzw/dwgk/xxgk_jgjj.shtml	四川省民族宗教委党组成员、副主任		四川省民族宗教事务委员会	http://mzw.sc.gov.cn/scsmzw/lrzm/xxgk_ldxx.shtml	1806
+宋建标		7		四川省		http://mzw.sc.gov.cn/scsmzw/dwgk/xxgk_jgjj.shtml	四川省民族宗教委党组成员、副主任		四川省民族宗教事务委员会	http://mzw.sc.gov.cn/scsmzw/sjb/xxgk_ldxx.shtml	1806
+崔雨风		8		四川省		http://mzw.sc.gov.cn/scsmzw/dwgk/xxgk_jgjj.shtml	四川省民族宗教委一级巡视员		四川省民族宗教事务委员会	http://mzw.sc.gov.cn/scsmzw/cyf/xxgk_ldxx.shtml	1806
+松呷		9		四川省		http://mzw.sc.gov.cn/scsmzw/dwgk/xxgk_jgjj.shtml	四川省民族宗教委一级巡视员		四川省民族宗教事务委员会	http://mzw.sc.gov.cn/scsmzw/sxzyhd/xxgk_ldxx.shtml	1806
+帅祥军		10		四川省		http://mzw.sc.gov.cn/scsmzw/dwgk/xxgk_jgjj.shtml	四川省民族宗教委二级巡视员		四川省民族宗教事务委员会	http://mzw.sc.gov.cn/scsmzw/sxjzyhd/xxgk_ldxx.shtml	1806
+沈宗辉		11		四川省		http://mzw.sc.gov.cn/scsmzw/dwgk/xxgk_jgjj.shtml	四川省民族宗教委二级巡视员		四川省民族宗教事务委员会	http://mzw.sc.gov.cn/scsmzw/szh/xxgk_ldxx.shtml	1806

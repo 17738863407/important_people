@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡玉亭		1		全国		http://www.jl.gov.cn/szf/	省长		吉林省人民政府	http://www.jl.gov.cn/shengqing/202401/t20240116_3016876.html	1154
+刘凯		2		全国		http://www.jl.gov.cn/szf/	副省长		吉林省人民政府	http://www.jl.gov.cn/shengqing/202401/t20240116_3016885.html	1154
+孙简		3		全国		http://www.jl.gov.cn/szf/	副省长		吉林省人民政府	http://www.jl.gov.cn/shengqing/202505/t20250513_3455641.html	1154
+刘伟		4		全国		http://www.jl.gov.cn/szf/	副省长		吉林省人民政府	http://www.jl.gov.cn/shengqing/202512/t20251208_3516889.html	1154
+陈育煌		5		全国		http://www.jl.gov.cn/szf/	副省长		吉林省人民政府	http://www.jl.gov.cn/shengqing/202603/t20260324_3597502.html	1154
+金育辉		6		全国		http://www.jl.gov.cn/szf/	省政府党组成员		吉林省人民政府	http://www.jl.gov.cn/shengqing/202401/t20240116_3016889.html	1154
+洪庆		7		全国		http://www.jl.gov.cn/szf/	秘书长		吉林省人民政府	http://www.jl.gov.cn/shengqing/202501/t20250107_3352760.html	1154

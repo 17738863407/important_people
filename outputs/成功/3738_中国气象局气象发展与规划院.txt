@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李丽军		1		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4592428.html	院长；党委书记		中国气象局气象发展与规划院		3738
+洪兰江		2		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4592428.html	党委常委；纪委书记		中国气象局气象发展与规划院		3738
+廖军		3		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4592428.html	副院长；党委常委		中国气象局气象发展与规划院		3738
+冷春香		4		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4592428.html	副院长；党委常委		中国气象局气象发展与规划院		3738
+董章杭		5		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4592428.html	副院长；党委常委		中国气象局气象发展与规划院		3738
+刘彤		6		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4592428.html	三级职员		中国气象局气象发展与规划院		3738
+罗大武		7		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4592428.html	四级职员		中国气象局气象发展与规划院		3738
+李晔		8		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4592428.html	四级职员		中国气象局气象发展与规划院		3738
+顾青峰		9		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4592428.html	总工程师		中国气象局气象发展与规划院		3738

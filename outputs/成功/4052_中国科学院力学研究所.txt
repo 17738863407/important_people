@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘桂菊		1		全国		https://imech.cas.cn/about/xrld/	党委书记		中国科学院力学研究所		4052
+黄河激		2		全国		https://imech.cas.cn/about/xrld/	所长		中国科学院力学研究所		4052
+何国威		3		全国		https://imech.cas.cn/about/xrld/	学术所长		中国科学院力学研究所		4052
+李强		4		全国		https://imech.cas.cn/about/xrld/	纪委书记		中国科学院力学研究所		4052
+刘小明		5		全国		https://imech.cas.cn/about/xrld/	副所长		中国科学院力学研究所		4052
+王展		6		全国		https://imech.cas.cn/about/xrld/	副所长		中国科学院力学研究所		4052
+卢哲猛		7		全国		https://imech.cas.cn/about/xrld/	所务委员		中国科学院力学研究所		4052
+闫聪		8		全国		https://imech.cas.cn/about/xrld/	所务委员		中国科学院力学研究所		4052

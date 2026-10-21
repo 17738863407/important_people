@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+严音莉		1		海南省	海口市	https://amr.haikou.gov.cn/xxgk/fdzdgknr/jgjs_8060/ldxx/201911/t1105575.shtml	海口市市场监督管理局党组书记、局长		海口市市场监督管理局		0082
+邓剑雄		2		海南省	海口市	https://amr.haikou.gov.cn/xxgk/fdzdgknr/jgjs_8060/ldxx/201911/t1105575.shtml	海口市市场监督管理局党组成员、海口市知识产权局局长		海口市市场监督管理局		0082
+古玉才		3		海南省	海口市	https://amr.haikou.gov.cn/xxgk/fdzdgknr/jgjs_8060/ldxx/201911/t1105575.shtml	海口市市场监督管理局党组成员、副局长		海口市市场监督管理局		0082
+林进团		4		海南省	海口市	https://amr.haikou.gov.cn/xxgk/fdzdgknr/jgjs_8060/ldxx/201911/t1105575.shtml	海口市市场监督管理局党组成员、副局长		海口市市场监督管理局		0082
+黎新骞		5		海南省	海口市	https://amr.haikou.gov.cn/xxgk/fdzdgknr/jgjs_8060/ldxx/201911/t1105575.shtml	海口市市场监督管理局党组成员、副局长		海口市市场监督管理局		0082
+陈克江		6		海南省	海口市	https://amr.haikou.gov.cn/xxgk/fdzdgknr/jgjs_8060/ldxx/201911/t1105575.shtml	市纪委监委驻市市场监督管理局纪检监察组组长、市市场监督管理局党组成员		海口市市场监督管理局		0082

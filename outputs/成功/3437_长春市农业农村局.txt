@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李铁刚		1		吉林省	长春市	http://zwgk.changchun.gov.cn/zcbm/fgw_98077/nyjxxgkml/202412/t20241210_3365719.html	长春市农业农村局党组书记		长春市农业农村局		3437
+徐伟民		2		吉林省	长春市	http://zwgk.changchun.gov.cn/zcbm/fgw_98077/nyjxxgkml/202412/t20241210_3365719.html	长春市农业农村局党组成员、副局长（正局长级）		长春市农业农村局		3437
+史凌冬		3		吉林省	长春市	http://zwgk.changchun.gov.cn/zcbm/fgw_98077/nyjxxgkml/202412/t20241210_3365719.html	长春市农业农村局党组成员、副局长		长春市农业农村局		3437
+孔翔		4		吉林省	长春市	http://zwgk.changchun.gov.cn/zcbm/fgw_98077/nyjxxgkml/202412/t20241210_3365719.html	长春市农业农村局党组成员、副局长		长春市农业农村局		3437
+王立春		5		吉林省	长春市	http://zwgk.changchun.gov.cn/zcbm/fgw_98077/nyjxxgkml/202412/t20241210_3365719.html	长春市农业农村局党组成员、副局长		长春市农业农村局		3437
+李雪飞		6		吉林省	长春市	http://zwgk.changchun.gov.cn/zcbm/fgw_98077/nyjxxgkml/202412/t20241210_3365719.html	长春市农业农村局党组成员、副局长		长春市农业农村局		3437
+王兴刚		7		吉林省	长春市	http://zwgk.changchun.gov.cn/zcbm/fgw_98077/nyjxxgkml/202412/t20241210_3365719.html	长春市农业农村局党组成员、副局长		长春市农业农村局		3437
+孔令波		8		吉林省	长春市	http://zwgk.changchun.gov.cn/zcbm/fgw_98077/nyjxxgkml/202412/t20241210_3365719.html	二级巡视员		长春市农业农村局		3437
+李文成		9		吉林省	长春市	http://zwgk.changchun.gov.cn/zcbm/fgw_98077/nyjxxgkml/202412/t20241210_3365719.html	二级巡视员		长春市农业农村局		3437

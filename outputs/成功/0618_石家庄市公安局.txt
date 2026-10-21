@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨东川		1		河北省	石家庄市	https://gaj.sjz.gov.cn/columns/92d9b7ab-323f-4945-b355-e2265aef7dca/index.html	副市长、市公安局党委书记、局长、督察长		石家庄市公安局		0618
+葛涛		2		河北省	石家庄市	https://gaj.sjz.gov.cn/columns/92d9b7ab-323f-4945-b355-e2265aef7dca/index.html	党委副书记、常务副局长		石家庄市公安局		0618
+王晓龙		3		河北省	石家庄市	https://gaj.sjz.gov.cn/columns/92d9b7ab-323f-4945-b355-e2265aef7dca/index.html	党委委员、副局长、交管局局长		石家庄市公安局		0618
+姜俊军		4		河北省	石家庄市	https://gaj.sjz.gov.cn/columns/92d9b7ab-323f-4945-b355-e2265aef7dca/index.html	党委委员、副局长		石家庄市公安局		0618
+王颖		5		河北省	石家庄市	https://gaj.sjz.gov.cn/columns/92d9b7ab-323f-4945-b355-e2265aef7dca/index.html	党委委员、副局长		石家庄市公安局		0618
+王海龙		6		河北省	石家庄市	https://gaj.sjz.gov.cn/columns/92d9b7ab-323f-4945-b355-e2265aef7dca/index.html	党委委员、市纪委监委驻市公安局纪检监察组组长		石家庄市公安局		0618
+张翼		7		河北省	石家庄市	https://gaj.sjz.gov.cn/columns/92d9b7ab-323f-4945-b355-e2265aef7dca/index.html	党委委员、情指中心主任		石家庄市公安局		0618
+崔勇		8		河北省	石家庄市	https://gaj.sjz.gov.cn/columns/92d9b7ab-323f-4945-b355-e2265aef7dca/index.html	政治部主任		石家庄市公安局		0618
+黄福成		9		河北省	石家庄市	https://gaj.sjz.gov.cn/columns/92d9b7ab-323f-4945-b355-e2265aef7dca/index.html	副局长		石家庄市公安局		0618
+王劲超		10		河北省	石家庄市	https://gaj.sjz.gov.cn/columns/92d9b7ab-323f-4945-b355-e2265aef7dca/index.html	副局长		石家庄市公安局		0618
+张红卫		11		河北省	石家庄市	https://gaj.sjz.gov.cn/columns/92d9b7ab-323f-4945-b355-e2265aef7dca/index.html	反恐专员		石家庄市公安局		0618
+郭大维		12		河北省	石家庄市	https://gaj.sjz.gov.cn/columns/92d9b7ab-323f-4945-b355-e2265aef7dca/index.html	副局长		石家庄市公安局		0618

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+金志		1		浙江省		https://www.zj.gov.cn/dctslm/zjstyj/index.html	党组书记、局长		浙江省体育局	https://www.zj.gov.cn/art/2024/4/12/art_1229278030_126817.html	3354
+毛根洪		2		浙江省		https://www.zj.gov.cn/dctslm/zjstyj/index.html	党组成员、副局长		浙江省体育局	https://www.zj.gov.cn/art/2024/8/2/art_1229278030_164175.html	3354
+朱启南		3		浙江省		https://www.zj.gov.cn/dctslm/zjstyj/index.html	党组成员、副局长		浙江省体育局	https://www.zj.gov.cn/art/2024/8/2/art_1229278030_164180.html	3354
+廖洪钰		4		浙江省		https://www.zj.gov.cn/dctslm/zjstyj/index.html	党组成员、副局长		浙江省体育局	https://www.zj.gov.cn/art/2023/8/2/art_1229278030_152186.html	3354
+卢旺忠		5		浙江省		https://www.zj.gov.cn/dctslm/zjstyj/index.html	党组成员、副局长		浙江省体育局	https://www.zj.gov.cn/art/2022/5/7/art_1229278030_126811.html	3354

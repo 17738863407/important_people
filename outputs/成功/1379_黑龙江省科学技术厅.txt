@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈苏		1		黑龙江省		http://kjt.hlj.gov.cn/kjt/c113927/jgldnew.shtml	厅长、党组书记		黑龙江省科学技术厅		1379
+张喆		2		黑龙江省		http://kjt.hlj.gov.cn/kjt/c113927/jgldnew.shtml	副厅长、党组成员		黑龙江省科学技术厅		1379
+姜雁龙		3		黑龙江省		http://kjt.hlj.gov.cn/kjt/c113927/jgldnew.shtml	驻省科技厅纪检监察组组长、党组成员		黑龙江省科学技术厅		1379
+闫志金		4		黑龙江省		http://kjt.hlj.gov.cn/kjt/c113927/jgldnew.shtml	副厅长、党组成员		黑龙江省科学技术厅		1379
+安建光		5		黑龙江省		http://kjt.hlj.gov.cn/kjt/c113927/jgldnew.shtml	副厅长、党组成员		黑龙江省科学技术厅		1379
+韩国卿		6		黑龙江省		http://kjt.hlj.gov.cn/kjt/c113927/jgldnew.shtml	副厅长、党组成员		黑龙江省科学技术厅		1379
+刘爱丽		7		黑龙江省		http://kjt.hlj.gov.cn/kjt/c113927/jgldnew.shtml	一级巡视员		黑龙江省科学技术厅		1379
+韩金华		8		黑龙江省		http://kjt.hlj.gov.cn/kjt/c113927/jgldnew.shtml	一级巡视员		黑龙江省科学技术厅		1379

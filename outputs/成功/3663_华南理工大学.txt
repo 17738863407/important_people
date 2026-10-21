@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于祥成		1		广东省	广州市	https://www.scut.edu.cn/new/9019/list.htm	党委书记；党委常委		华南理工大学	https://www.scut.edu.cn/new/2026/0830/c315a60462/page.htm	3663
+杨中民		2		广东省	广州市	https://www.scut.edu.cn/new/9019/list.htm	校长；党委副书记；党委常委		华南理工大学	https://www.scut.edu.cn/new/2026/0306/c315a59596/page.htm	3663
+徐国正		3		广东省	广州市	https://www.scut.edu.cn/new/9019/list.htm	党委副书记；纪委书记；党委常委		华南理工大学	https://www.scut.edu.cn/new/2022/0915/c315a49725/page.htm	3663
+麦均洪		4		广东省	广州市	https://www.scut.edu.cn/new/9019/list.htm	党委副书记；党委常委		华南理工大学	https://www.scut.edu.cn/new/2023/0821/c315a49731/page.htm	3663
+李卫青		5		广东省	广州市	https://www.scut.edu.cn/new/9019/list.htm	党委副书记；副校长；党委常委		华南理工大学	https://www.scut.edu.cn/new/2022/0713/c315a49722/page.htm	3663
+李正		6		广东省	广州市	https://www.scut.edu.cn/new/9019/list.htm	副校长；党委常委		华南理工大学	https://www.scut.edu.cn/new/2023/0821/c315a49728/page.htm	3663
+晋刚		7		广东省	广州市	https://www.scut.edu.cn/new/9019/list.htm	副校长；党委常委		华南理工大学	https://www.scut.edu.cn/new/2023/0821/c315a49729/page.htm	3663
+吴波		8		广东省	广州市	https://www.scut.edu.cn/new/9019/list.htm	副校长；党委常委		华南理工大学	https://www.scut.edu.cn/new/2023/0810/c315a49727/page.htm	3663
+许勇		9		广东省	广州市	https://www.scut.edu.cn/new/9019/list.htm	副校长		华南理工大学	https://www.scut.edu.cn/new/2023/0807/c315a49726/page.htm	3663
+林艺文		10		广东省	广州市	https://www.scut.edu.cn/new/9019/list.htm	副校长；党委常委		华南理工大学	https://www.scut.edu.cn/new/2025/0522/c315a57513/page.htm	3663
+王均		11		广东省	广州市	https://www.scut.edu.cn/new/9019/list.htm	党委常委		华南理工大学		3663

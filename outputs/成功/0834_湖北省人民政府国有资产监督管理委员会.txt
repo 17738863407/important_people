@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈忠		1		湖北省		http://gzw.hubei.gov.cn/zfxxgk/fdzdgknr/zfgzjg/ldxx/	党委书记、主任		湖北省人民政府国有资产监督管理委员会	https://gzw.hubei.gov.cn/zfxxgk/fdzdgknr/zfgzjg/ldxx/cz/	0834
+胡铁军		2		湖北省		http://gzw.hubei.gov.cn/zfxxgk/fdzdgknr/zfgzjg/ldxx/	党委委员、副主任		湖北省人民政府国有资产监督管理委员会	https://gzw.hubei.gov.cn/zfxxgk/fdzdgknr/zfgzjg/ldxx/htj/	0834
+朱芳		3		湖北省		http://gzw.hubei.gov.cn/zfxxgk/fdzdgknr/zfgzjg/ldxx/	党委委员、副主任		湖北省人民政府国有资产监督管理委员会	https://gzw.hubei.gov.cn/zfxxgk/fdzdgknr/zfgzjg/ldxx/zf/	0834
+周文		4		湖北省		http://gzw.hubei.gov.cn/zfxxgk/fdzdgknr/zfgzjg/ldxx/	省纪委监委派驻省政府国资委纪检监察组组长、省政府国资委党委委员		湖北省人民政府国有资产监督管理委员会	https://gzw.hubei.gov.cn/zfxxgk/fdzdgknr/zfgzjg/ldxx/zw/	0834
+吴玉祥		5		湖北省		http://gzw.hubei.gov.cn/zfxxgk/fdzdgknr/zfgzjg/ldxx/	党委委员、副主任		湖北省人民政府国有资产监督管理委员会	https://gzw.hubei.gov.cn/zfxxgk/fdzdgknr/zfgzjg/ldxx/wyx/	0834
+平本栋		6		湖北省		http://gzw.hubei.gov.cn/zfxxgk/fdzdgknr/zfgzjg/ldxx/	党委委员、副主任		湖北省人民政府国有资产监督管理委员会	https://gzw.hubei.gov.cn/zfxxgk/fdzdgknr/zfgzjg/ldxx/pbd/	0834

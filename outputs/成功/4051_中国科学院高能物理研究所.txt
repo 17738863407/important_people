@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+曹俊		1		全国		https://ihep.cas.cn/gk/sld/	所长		中国科学院高能物理研究所		4051
+王生		2		全国		https://ihep.cas.cn/gk/sld/	党委书记		中国科学院高能物理研究所		4051
+董宇辉		3		全国		https://ihep.cas.cn/gk/sld/	副所长		中国科学院高能物理研究所		4051
+李伟		4		全国		https://ihep.cas.cn/gk/sld/	纪委书记		中国科学院高能物理研究所		4051
+鲁巍		5		全国		https://ihep.cas.cn/gk/sld/	副所长		中国科学院高能物理研究所		4051
+温良剑		6		全国		https://ihep.cas.cn/gk/sld/	副所长		中国科学院高能物理研究所		4051
+刘聪展		7		全国		https://ihep.cas.cn/gk/sld/	副所长		中国科学院高能物理研究所		4051

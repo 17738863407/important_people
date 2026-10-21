@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郭占江		1		内蒙古自治区		https://nmt.nmg.gov.cn/jg/	党委农牧办主任、农牧厅（乡村振兴局）党组书记、农牧厅厅长、乡村振兴局局长		内蒙古自治区农牧厅	https://nmt.nmg.gov.cn/jg/ldjs/202405/t20240506_2502917.html	1960
+海山		2		内蒙古自治区		https://nmt.nmg.gov.cn/jg/	农牧厅（乡村振兴局）党组成员、农牧厅副厅长		内蒙古自治区农牧厅	https://nmt.nmg.gov.cn/jg/ldjs/202405/t20240506_2502918.html	1960
+赵玉生		3		内蒙古自治区		https://nmt.nmg.gov.cn/jg/	农牧厅（乡村振兴局）党组成员、农牧厅副厅长		内蒙古自治区农牧厅	https://nmt.nmg.gov.cn/jg/ldjs/202405/t20240506_2502919.html	1960
+张化珍		4		内蒙古自治区		https://nmt.nmg.gov.cn/jg/	农牧厅（乡村振兴局）党组成员、农牧厅副厅长		内蒙古自治区农牧厅	https://nmt.nmg.gov.cn/jg/ldjs/202405/t20240506_2502921.html	1960
+庞博		5		内蒙古自治区		https://nmt.nmg.gov.cn/jg/	农牧厅（乡村振兴局）党组成员、 农牧厅副厅长		内蒙古自治区农牧厅	https://nmt.nmg.gov.cn/jg/ldjs/202503/t20250321_2685615.html	1960
+赵永祥		6		内蒙古自治区		https://nmt.nmg.gov.cn/jg/	农牧厅（乡村振兴局）党组成员、农牧厅副厅长		内蒙古自治区农牧厅	https://nmt.nmg.gov.cn/jg/ldjs/202405/t20240506_2502922.html	1960
+张明杰		7		内蒙古自治区		https://nmt.nmg.gov.cn/jg/	农牧厅(乡村振兴局)党组成员、驻农牧厅(乡村振兴局)纪检监察组组长		内蒙古自治区农牧厅	https://nmt.nmg.gov.cn/jg/ldjs/202405/t20240506_2502925.html	1960
+张雨		8		内蒙古自治区		https://nmt.nmg.gov.cn/jg/	农牧厅(乡村振兴局)党组成员、农牧厅副厅长		内蒙古自治区农牧厅	https://nmt.nmg.gov.cn/jg/ldjs/202409/t20240914_2575505.html	1960
+吴忠岩		9		内蒙古自治区		https://nmt.nmg.gov.cn/jg/	二级巡视员		内蒙古自治区农牧厅	https://nmt.nmg.gov.cn/jg/ldjs/202405/t20240506_2502927.html	1960

@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何正义		1		甘肃省		https://zjt.gansu.gov.cn/zjt/c108224/xxgk_jgld.shtml	甘肃省住房和城乡建设厅党组书记		甘肃省住房和城乡建设厅		3378
+陈一夫		2		甘肃省		https://zjt.gansu.gov.cn/zjt/c108224/xxgk_jgld.shtml	甘肃省住房和城乡建设厅厅长		甘肃省住房和城乡建设厅		3378
+曹武祥		3		甘肃省		https://zjt.gansu.gov.cn/zjt/c108224/xxgk_jgld.shtml	甘肃省住房和城乡建设厅党组成员、派驻纪检监察组组长		甘肃省住房和城乡建设厅		3378
+姜显明		4		甘肃省		https://zjt.gansu.gov.cn/zjt/c108224/xxgk_jgld.shtml	甘肃省住房和城乡建设厅党组成员、副厅长		甘肃省住房和城乡建设厅		3378
+王勇		5		甘肃省		https://zjt.gansu.gov.cn/zjt/c108224/xxgk_jgld.shtml	甘肃省住房和城乡建设厅党组成员、副厅长		甘肃省住房和城乡建设厅		3378
+段廷智		6		甘肃省		https://zjt.gansu.gov.cn/zjt/c108224/xxgk_jgld.shtml	甘肃省住房和城乡建设厅党组成员、副厅长		甘肃省住房和城乡建设厅		3378
+王光照		7		甘肃省		https://zjt.gansu.gov.cn/zjt/c108224/xxgk_jgld.shtml	甘肃省住房和城乡建设厅二级巡视员		甘肃省住房和城乡建设厅		3378
+张睿		8		甘肃省		https://zjt.gansu.gov.cn/zjt/c108224/xxgk_jgld.shtml	甘肃省住房和城乡建设厅二级巡视员		甘肃省住房和城乡建设厅		3378
+田园		9		甘肃省		https://zjt.gansu.gov.cn/zjt/c108224/xxgk_jgld.shtml	甘肃省住房和城乡建设厅二级巡视员		甘肃省住房和城乡建设厅		3378
+邵斌		10		甘肃省		https://zjt.gansu.gov.cn/zjt/c108224/xxgk_jgld.shtml	甘肃省住房和城乡建设厅二级巡视员		甘肃省住房和城乡建设厅		3378

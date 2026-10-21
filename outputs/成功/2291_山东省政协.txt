@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+葛慧君		1		全国		http://www.sdzx.gov.cn/channels/ch00036/	主席；党组书记		山东省政协	http://www.sdzx.gov.cn/channels/ch03196/	2291
+张新文		2		全国		http://www.sdzx.gov.cn/channels/ch00036/	副主席；党组副书记		山东省政协	http://www.sdzx.gov.cn/channels/ch00051/	2291
+孙继业		3		全国		http://www.sdzx.gov.cn/channels/ch00036/	副主席		山东省政协	http://www.sdzx.gov.cn/channels/ch00045/	2291
+程林		4		全国		http://www.sdzx.gov.cn/channels/ch00036/	副主席		山东省政协	http://www.sdzx.gov.cn/channels/ch00047/	2291
+刘均刚		5		全国		http://www.sdzx.gov.cn/channels/ch00036/	副主席		山东省政协	http://www.sdzx.gov.cn/channels/ch00048/	2291
+段青英		6		全国		http://www.sdzx.gov.cn/channels/ch00036/	副主席		山东省政协	http://www.sdzx.gov.cn/channels/ch00050/	2291
+宋永祥		7		全国		http://www.sdzx.gov.cn/channels/ch00036/	副主席；党组成员		山东省政协	http://www.sdzx.gov.cn/channels/ch00940/	2291
+田卫东		8		全国		http://www.sdzx.gov.cn/channels/ch00036/	副主席；党组成员		山东省政协	http://www.sdzx.gov.cn/channels/ch00942/	2291
+秦传滨		9		全国		http://www.sdzx.gov.cn/channels/ch00036/	秘书长；党组成员		山东省政协	http://www.sdzx.gov.cn/channels/ch00053/	2291
+邓云锋		10		全国		http://www.sdzx.gov.cn/channels/ch00036/	党组副书记		山东省政协	http://www.sdzx.gov.cn/channels/ch00042/	2291

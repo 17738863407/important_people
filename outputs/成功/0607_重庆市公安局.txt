@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谭权		1		重庆市		http://gaj.cq.gov.cn/zwgk/zfxxgkml/jgjj/	重庆市政府副市长、党组成员，市公安局党委书记、局长、督察长，市委政法委副书记		重庆市公安局		0607
+罗勇		2		重庆市		http://gaj.cq.gov.cn/zwgk/zfxxgkml/jgjj/	重庆市公安局党委副书记、副局长（正厅局长级）		重庆市公安局		0607
+高绍贵		3		重庆市		http://gaj.cq.gov.cn/zwgk/zfxxgkml/jgjj/	重庆市公安局党委委员、特勤局局长		重庆市公安局		0607
+阳东辰		4		重庆市		http://gaj.cq.gov.cn/zwgk/zfxxgkml/jgjj/	重庆市公安局党委委员、副局长、一级巡视员		重庆市公安局		0607
+龙庆		5		重庆市		http://gaj.cq.gov.cn/zwgk/zfxxgkml/jgjj/	重庆市公安局党委委员、副局长、一级巡视员		重庆市公安局		0607
+夏斌		6		重庆市		http://gaj.cq.gov.cn/zwgk/zfxxgkml/jgjj/	重庆市公安局党委委员、副局长		重庆市公安局		0607
+李威		7		重庆市		http://gaj.cq.gov.cn/zwgk/zfxxgkml/jgjj/	重庆市公安局党委委员、市纪委监委驻市公安局纪检监察组组长、二级高级监察官		重庆市公安局		0607
+王雪峰		8		重庆市		http://gaj.cq.gov.cn/zwgk/zfxxgkml/jgjj/	重庆市公安局党委委员、副局长		重庆市公安局		0607
+王俊其		9		重庆市		http://gaj.cq.gov.cn/zwgk/zfxxgkml/jgjj/	重庆市公安局副局长		重庆市公安局		0607

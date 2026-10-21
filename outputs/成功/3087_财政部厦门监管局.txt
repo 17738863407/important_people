@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡成玉		1		全国		http://xm.mof.gov.cn/zhuanyuangbangaikuang/	党组书记、局长		财政部厦门监管局	http://xm.mof.gov.cn/zhuanyuangbangaikuang/202302/t20230221_3867466.htm	3087
+郑延良		2		全国		http://xm.mof.gov.cn/zhuanyuangbangaikuang/	党组成员、纪检组长、一级巡视员		财政部厦门监管局	http://xm.mof.gov.cn/zhuanyuangbangaikuang/201810/t20181031_3058881.htm	3087
+黄京菁		3		全国		http://xm.mof.gov.cn/zhuanyuangbangaikuang/	党组成员、副局长		财政部厦门监管局	http://xm.mof.gov.cn/zhuanyuangbangaikuang/202607/t20260702_3992767.htm	3087

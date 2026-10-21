@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+武毅		1		山东省	济南市	http://jnbusiness.jinan.gov.cn/col8296/art/2026/art_8296_424574.html	市商务局党组书记、局长		济南市商务局		1162
+李晓军		2		山东省	济南市	http://jnbusiness.jinan.gov.cn/col8296/art/2026/art_8296_424574.html	市商务局党组成员、副局长		济南市商务局		1162
+刘燕飞		3		山东省	济南市	http://jnbusiness.jinan.gov.cn/col8296/art/2026/art_8296_424574.html	市商务局党组成员、副局长		济南市商务局		1162
+卜繁钢		4		山东省	济南市	http://jnbusiness.jinan.gov.cn/col8296/art/2026/art_8296_424574.html	市商务局党组成员、副局长		济南市商务局		1162
+邱美艳		5		山东省	济南市	http://jnbusiness.jinan.gov.cn/col8296/art/2026/art_8296_424574.html	市商务局党组成员、副局长		济南市商务局		1162

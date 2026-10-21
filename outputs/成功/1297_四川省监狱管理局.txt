@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+钟静		1		四川省		https://jyglj.sc.gov.cn/scjyglj/jld/leaderList.shtml	四川省司法厅党委委员，省监狱管理局党委书记、局长		四川省监狱管理局	https://jyglj.sc.gov.cn/scjyglj/jld/2026/6/12/0aca0bd7bae44f0ea7f5149c268f166d.shtml	1297
+曾永忠		2		四川省		https://jyglj.sc.gov.cn/scjyglj/jld/leaderList.shtml	四川省监狱管理局党委副书记、政委		四川省监狱管理局	https://jyglj.sc.gov.cn/scjyglj/jld/2021/1/28/34839240d39249e4ab1288a83caa90d4.shtml	1297
+龚达生		3		四川省		https://jyglj.sc.gov.cn/scjyglj/jld/leaderList.shtml	四川省监狱管理局党委委员、副局长		四川省监狱管理局	https://jyglj.sc.gov.cn/scjyglj/jld/2021/1/28/dc19b90edf734222ba8791cf153add83.shtml	1297
+郑涛		4		四川省		https://jyglj.sc.gov.cn/scjyglj/jld/leaderList.shtml	四川省监狱管理局党委委员、副局长		四川省监狱管理局	https://jyglj.sc.gov.cn/scjyglj/jld/2024/3/7/28f2deb9374341209ff71765b4158713.shtml	1297
+吴涛		5		四川省		https://jyglj.sc.gov.cn/scjyglj/jld/leaderList.shtml	四川省监狱管理局党委委员、副局长		四川省监狱管理局	https://jyglj.sc.gov.cn/scjyglj/jld/2024/5/22/9c7bb2440593401ea5f1f90a1a9fefbe.shtml	1297
+黄晓露		6		四川省		https://jyglj.sc.gov.cn/scjyglj/jld/leaderList.shtml	四川省监狱管理局党委委员、政治部主任，机关党委书记		四川省监狱管理局	https://jyglj.sc.gov.cn/scjyglj/jld/2025/12/30/42d906fd853947df83d948c8b98850d3.shtml	1297

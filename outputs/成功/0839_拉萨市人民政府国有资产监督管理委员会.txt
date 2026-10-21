@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+贺慧先		1		西藏自治区	拉萨市	http://gzw.lasa.gov.cn/gzw/shuji/ldxx_list.shtml	党委书记、副主任		拉萨市人民政府国有资产监督管理委员会	http://gzw.lasa.gov.cn/gzw/shuji/202106/2fb3897e6bfc47d7bd62c14ad0dba9cf.shtml	0839
+洛桑扎西		2		西藏自治区	拉萨市	http://gzw.lasa.gov.cn/gzw/shuji/ldxx_list.shtml	党委副书记、主任		拉萨市人民政府国有资产监督管理委员会	http://gzw.lasa.gov.cn/gzw/thsz/202410/9379e3a4f3d54f8292323f47131fffb6.shtml	0839
+次旦多吉		3		西藏自治区	拉萨市	http://gzw.lasa.gov.cn/gzw/shuji/ldxx_list.shtml	副主任		拉萨市人民政府国有资产监督管理委员会	http://gzw.lasa.gov.cn/gzw/fzr/202508/adcf1fbd76044b7ea063d86281c3841c.shtml	0839
+曹其杰		4		西藏自治区	拉萨市	http://gzw.lasa.gov.cn/gzw/shuji/ldxx_list.shtml	党委委员、副主任		拉萨市人民政府国有资产监督管理委员会	http://gzw.lasa.gov.cn/gzw/fzr/202508/001d860aa24d40799700d9e82914a0ca.shtml	0839
+李雪莲		5		西藏自治区	拉萨市	http://gzw.lasa.gov.cn/gzw/shuji/ldxx_list.shtml	党委委员、副主任		拉萨市人民政府国有资产监督管理委员会	http://gzw.lasa.gov.cn/gzw/fzr/202501/7e489cb711b648b2a5cad08890638570.shtml	0839
+肖伟洪		6		西藏自治区	拉萨市	http://gzw.lasa.gov.cn/gzw/shuji/ldxx_list.shtml	党委委员、副主任		拉萨市人民政府国有资产监督管理委员会	http://gzw.lasa.gov.cn/gzw/fzr/202309/6148154ab70a4ed49334bde71645d448.shtml	0839
+斯塔多吉		7		西藏自治区	拉萨市	http://gzw.lasa.gov.cn/gzw/shuji/ldxx_list.shtml	党委委员、副主任		拉萨市人民政府国有资产监督管理委员会	http://gzw.lasa.gov.cn/gzw/fzr/202008/5c0420fcdcdd4373951114cd0b81782d.shtml	0839

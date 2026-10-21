@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈衡治		1		浙江省		https://www.zj.gov.cn/dctslm/zjsfzhggwyh/index.html	党组书记、主任		浙江省发展和改革委员会	https://www.zj.gov.cn/art/2023/3/22/art_1229139152_142135.html	3323
+潘建漳		2		浙江省		https://www.zj.gov.cn/dctslm/zjsfzhggwyh/index.html	党组成员、副主任（正厅长级）		浙江省发展和改革委员会	https://www.zj.gov.cn/art/2024/9/27/art_1229139152_167101.html	3323
+骆梅英		3		浙江省		https://www.zj.gov.cn/dctslm/zjsfzhggwyh/index.html	党组成员、副主任（兼），省粮食物资局党组书记、局长（正厅长级）		浙江省发展和改革委员会	https://www.zj.gov.cn/art/2022/4/8/art_1229139152_124092.html	3323
+陈德毅		4		浙江省		https://www.zj.gov.cn/dctslm/zjsfzhggwyh/index.html	党组成员、驻委纪检监察组组长、一级巡视员		浙江省发展和改革委员会	https://www.zj.gov.cn/art/2022/3/15/art_1229139152_123183.html	3323
+章春华		5		浙江省		https://www.zj.gov.cn/dctslm/zjsfzhggwyh/index.html	党组成员、副主任		浙江省发展和改革委员会	https://www.zj.gov.cn/art/2022/2/9/art_1229139152_121645.html	3323
+张曙明		6		浙江省		https://www.zj.gov.cn/dctslm/zjsfzhggwyh/index.html	党组成员、副主任		浙江省发展和改革委员会	https://www.zj.gov.cn/art/2021/11/9/art_1229139152_123185.html	3323
+闫西安		7		浙江省		https://www.zj.gov.cn/dctslm/zjsfzhggwyh/index.html	党组成员、副主任（挂职）		浙江省发展和改革委员会	https://www.zj.gov.cn/art/2023/6/8/art_1229139152_144280.html	3323
+骆方豪		8		浙江省		https://www.zj.gov.cn/dctslm/zjsfzhggwyh/index.html	党组成员、副主任		浙江省发展和改革委员会	https://www.zj.gov.cn/art/2022/6/20/art_1229139152_127133.html	3323
+张笑钦		9		浙江省		https://www.zj.gov.cn/dctslm/zjsfzhggwyh/index.html	党组成员（副厅长级）		浙江省发展和改革委员会	https://www.zj.gov.cn/art/2022/3/15/art_1229139152_123179.html	3323
+沈晓栋		10		浙江省		https://www.zj.gov.cn/dctslm/zjsfzhggwyh/index.html	党组成员、副主任		浙江省发展和改革委员会	https://www.zj.gov.cn/art/2022/3/15/art_1229139152_123186.html	3323
+俞奉庆		11		浙江省		https://www.zj.gov.cn/dctslm/zjsfzhggwyh/index.html	党组成员、省能源局局长		浙江省发展和改革委员会	https://www.zj.gov.cn/art/2023/3/31/art_1229139152_142477.html	3323
+黄鸿鸿		12		浙江省		https://www.zj.gov.cn/dctslm/zjsfzhggwyh/index.html	党组成员、长三角生态绿色一体化发展示范区执行委员会副主任		浙江省发展和改革委员会	https://www.zj.gov.cn/art/2023/7/5/art_1229139152_145324.html	3323

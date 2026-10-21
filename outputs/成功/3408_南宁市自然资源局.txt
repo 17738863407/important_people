@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄钊		1		广西壮族自治区	南宁市	http://zrzyj.nanning.gov.cn/bjgk/ldbz/t6532253.html	南宁市自然资源局党组书记、局长		南宁市自然资源局		3408
+许强初		2		广西壮族自治区	南宁市	http://zrzyj.nanning.gov.cn/bjgk/ldbz/t6532253.html	南宁市自然资源局党组成员、南宁市林业局党组书记、局长、一级调研员		南宁市自然资源局		3408
+李伍坚		3		广西壮族自治区	南宁市	http://zrzyj.nanning.gov.cn/bjgk/ldbz/t6532253.html	南宁市自然资源局副局长、三级调研员		南宁市自然资源局		3408
+林剑		4		广西壮族自治区	南宁市	http://zrzyj.nanning.gov.cn/bjgk/ldbz/t6532253.html	南宁市自然资源局党组成员、副局长、二级调研员		南宁市自然资源局		3408
+欧有		5		广西壮族自治区	南宁市	http://zrzyj.nanning.gov.cn/bjgk/ldbz/t6532253.html	南宁市自然资源局党组成员，市纪委、监委驻市自然资源局纪检监察组组长		南宁市自然资源局		3408
+李鹏		6		广西壮族自治区	南宁市	http://zrzyj.nanning.gov.cn/bjgk/ldbz/t6532253.html	南宁市自然资源局党组成员、副局长、三级调研员		南宁市自然资源局		3408
+黄剑宾		7		广西壮族自治区	南宁市	http://zrzyj.nanning.gov.cn/bjgk/ldbz/t6532253.html	南宁市自然资源局二级调研员		南宁市自然资源局		3408
+王福良		8		广西壮族自治区	南宁市	http://zrzyj.nanning.gov.cn/bjgk/ldbz/t6532253.html	南宁市自然资源局三级调研员		南宁市自然资源局		3408
+瞿昀		9		广西壮族自治区	南宁市	http://zrzyj.nanning.gov.cn/bjgk/ldbz/t6532253.html	南宁市自然资源局三级调研员		南宁市自然资源局		3408

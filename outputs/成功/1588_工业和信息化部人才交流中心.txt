@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李学林		1		全国		https://www.miitec.cn/gywm/index.html	党委书记、主任		工业和信息化部人才交流中心		1588
+色云峰		2		全国		https://www.miitec.cn/gywm/index.html	党委副书记		工业和信息化部人才交流中心		1588
+任利华		3		全国		https://www.miitec.cn/gywm/index.html	党委委员、副主任		工业和信息化部人才交流中心		1588
+曾卫明		4		全国		https://www.miitec.cn/gywm/index.html	党委委员、副主任		工业和信息化部人才交流中心		1588

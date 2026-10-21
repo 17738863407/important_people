@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+白静		1		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/ssfj_22408/fdzdgknr/?gk=2&cid=23437#bmjgjjID	党组书记、局长，市强制隔离戒毒所第一政委		呼和浩特市司法局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/ssfj_22408/fdzdgknr/jgjj/ldjj/202105/t20210525_930104.html	1059
+高园		2		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/ssfj_22408/fdzdgknr/?gk=2&cid=23437#bmjgjjID	党组成员、副局长		呼和浩特市司法局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/ssfj_22408/fdzdgknr/jgjj/ldjj/202105/t20210525_930092.html	1059
+金琦		3		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/ssfj_22408/fdzdgknr/?gk=2&cid=23437#bmjgjjID	党组成员、强制隔离戒毒所党委书记、所长		呼和浩特市司法局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/ssfj_22408/fdzdgknr/jgjj/ldjj/202105/t20210525_930084.html	1059
+李剑		4		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/ssfj_22408/fdzdgknr/?gk=2&cid=23437#bmjgjjID	党组成员、政治警务部主任		呼和浩特市司法局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/ssfj_22408/fdzdgknr/jgjj/ldjj/202310/t20231010_1599295.html	1059

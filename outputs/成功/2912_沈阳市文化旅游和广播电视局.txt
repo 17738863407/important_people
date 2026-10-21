@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马宁		1		辽宁省	沈阳市	https://wlgd.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202606/t20260610_5039673.html	市文化旅游和广播电视局党组书记、局长，兼市委宣传部副部长		沈阳市文化旅游和广播电视局		2912
+李振福		2		辽宁省	沈阳市	https://wlgd.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202606/t20260610_5039673.html	党组成员、纪检监察组组长		沈阳市文化旅游和广播电视局		2912
+岳阳		3		辽宁省	沈阳市	https://wlgd.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202606/t20260610_5039673.html	党组成员、副局长		沈阳市文化旅游和广播电视局		2912
+王爱玲		4		辽宁省	沈阳市	https://wlgd.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202606/t20260610_5039673.html	副局长		沈阳市文化旅游和广播电视局		2912
+杨芳		5		辽宁省	沈阳市	https://wlgd.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202606/t20260610_5039673.html	党组成员、副局长		沈阳市文化旅游和广播电视局		2912
+惠锋		6		辽宁省	沈阳市	https://wlgd.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202606/t20260610_5039673.html	党组成员、副局长		沈阳市文化旅游和广播电视局		2912

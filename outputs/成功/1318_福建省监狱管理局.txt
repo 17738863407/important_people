@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+钟火阵		1		福建省		http://jyj.sft.fujian.gov.cn/jggk/jgld/zhz/	省司法厅党委委员、省监狱管理局党委书记、局长		福建省监狱管理局		1318
+曾文嘉		2		福建省		http://jyj.sft.fujian.gov.cn/jggk/jgld/zhz/	省监狱管理局党委副书记、政治委员		福建省监狱管理局	http://jyj.sft.fujian.gov.cn/jggk/jgld/cwj_60016/	1318
+吴邦辉		3		福建省		http://jyj.sft.fujian.gov.cn/jggk/jgld/zhz/	省监狱管理局党委委员、政治部主任、直属机关党委书记		福建省监狱管理局	http://jyj.sft.fujian.gov.cn/jggk/jgld/wbh/	1318
+郭海松		4		福建省		http://jyj.sft.fujian.gov.cn/jggk/jgld/zhz/	省监狱管理局党委委员、副局长		福建省监狱管理局	http://jyj.sft.fujian.gov.cn/jggk/jgld/ghs/	1318
+王竞		5		福建省		http://jyj.sft.fujian.gov.cn/jggk/jgld/zhz/	省监狱管理局党委委员、纪委书记		福建省监狱管理局	http://jyj.sft.fujian.gov.cn/jggk/jgld/wj/	1318

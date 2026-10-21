@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+段广平		1		辽宁省		https://zjt.ln.gov.cn/zjt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省住房和城乡建设厅党组书记、厅长		辽宁省住房和城乡建设厅	https://zjt.ln.gov.cn/zjt/zfxxgk/fdzdgknr/jgjj/bmld/dgp/index.shtml	3384
+曹桂喆		2		辽宁省		https://zjt.ln.gov.cn/zjt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省住房和城乡建设厅党组成员、副厅长		辽宁省住房和城乡建设厅	https://zjt.ln.gov.cn/zjt/zfxxgk/fdzdgknr/jgjj/bmld/cgz/index.shtml	3384
+张朋声		3		辽宁省		https://zjt.ln.gov.cn/zjt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省住房和城乡建设厅党组成员、副厅长		辽宁省住房和城乡建设厅	https://zjt.ln.gov.cn/zjt/zfxxgk/fdzdgknr/jgjj/bmld/zps/index.shtml	3384
+王光辉		4		辽宁省		https://zjt.ln.gov.cn/zjt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省住房和城乡建设厅党组成员、副厅长		辽宁省住房和城乡建设厅	https://zjt.ln.gov.cn/zjt/zfxxgk/fdzdgknr/jgjj/bmld/zcl/index.shtml	3384
+童锡钢		5		辽宁省		https://zjt.ln.gov.cn/zjt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省住房和城乡建设厅党组成员、副厅长		辽宁省住房和城乡建设厅	https://zjt.ln.gov.cn/zjt/zfxxgk/fdzdgknr/jgjj/bmld/lhy/index.shtml	3384
+郝德胜		6		辽宁省		https://zjt.ln.gov.cn/zjt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省纪委监委驻省住房和城乡建设厅纪检监察组组长、辽宁省住房和城乡建设厅党组成员、二级高级监察官		辽宁省住房和城乡建设厅	https://zjt.ln.gov.cn/zjt/zfxxgk/fdzdgknr/jgjj/bmld/hds/index.shtml	3384
+毕慧		7		辽宁省		https://zjt.ln.gov.cn/zjt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省住房和城乡建设厅党组成员、副厅长		辽宁省住房和城乡建设厅	https://zjt.ln.gov.cn/zjt/zfxxgk/fdzdgknr/jgjj/bmld/bh/index.shtml	3384
+胡林涛		8		辽宁省		https://zjt.ln.gov.cn/zjt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省住房和城乡建设厅党组成员、副厅长		辽宁省住房和城乡建设厅	https://zjt.ln.gov.cn/zjt/zfxxgk/fdzdgknr/jgjj/bmld/hlt/index.shtml	3384
+吕慧芬		9		辽宁省		https://zjt.ln.gov.cn/zjt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省住房和城乡建设厅党组成员、副厅长		辽宁省住房和城乡建设厅	https://zjt.ln.gov.cn/zjt/zfxxgk/fdzdgknr/jgjj/bmld/lhf/index.shtml	3384

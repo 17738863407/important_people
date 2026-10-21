@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴秋云		1		海南省	海口市	http://zffwzx.haikou.gov.cn/jgjs/	党组书记;局长		海口市营商环境建设局	http://zffwzx.haikou.gov.cn/jgjs/ldxx/202103/t434174.shtml	3302
+周小军		2		海南省	海口市	http://zffwzx.haikou.gov.cn/jgjs/	党组成员;副局长		海口市营商环境建设局	http://zffwzx.haikou.gov.cn/jgjs/ldxx/202103/t434180.shtml	3302
+张武		3		海南省	海口市	http://zffwzx.haikou.gov.cn/jgjs/	党组成员;副局长		海口市营商环境建设局	http://zffwzx.haikou.gov.cn/jgjs/ldxx/202510/t1467036.shtml	3302
+刘璐		4		海南省	海口市	http://zffwzx.haikou.gov.cn/jgjs/	党组成员;市政务服务中心主任		海口市营商环境建设局	http://zffwzx.haikou.gov.cn/jgjs/ldxx/202310/t1318167.shtml	3302
+刘春林		5		海南省	海口市	http://zffwzx.haikou.gov.cn/jgjs/	党组成员;市12345管理中心党总支书记		海口市营商环境建设局	http://zffwzx.haikou.gov.cn/jgjs/ldxx/202103/t434178.shtml	3302
+符傲霜		6		海南省	海口市	http://zffwzx.haikou.gov.cn/jgjs/	二级调研员		海口市营商环境建设局	http://zffwzx.haikou.gov.cn/jgjs/ldxx/202103/t434175.shtml	3302
+梁振武		7		海南省	海口市	http://zffwzx.haikou.gov.cn/jgjs/	三级调研员		海口市营商环境建设局	http://zffwzx.haikou.gov.cn/jgjs/ldxx/202103/t434177.shtml	3302
+张舒童		8		海南省	海口市	http://zffwzx.haikou.gov.cn/jgjs/	四级调研员		海口市营商环境建设局	http://zffwzx.haikou.gov.cn/jgjs/ldxx/202103/t434179.shtml	3302
+高传仁		9		海南省	海口市	http://zffwzx.haikou.gov.cn/jgjs/	四级调研员		海口市营商环境建设局	http://zffwzx.haikou.gov.cn/jgjs/ldxx/202511/t1468367.shtml	3302

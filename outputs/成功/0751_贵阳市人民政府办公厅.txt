@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+艾疆		1		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/ldzc/szfbgtld_new/szfbgtld_jggk/index.html	市人民政府副秘书长		贵阳市人民政府办公厅		0751
+刘启信		2		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/ldzc/szfbgtld_new/szfbgtld_jggk/index.html	市人民政府副秘书长		贵阳市人民政府办公厅		0751
+祖章能		3		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/ldzc/szfbgtld_new/szfbgtld_jggk/index.html	市人民政府副秘书长		贵阳市人民政府办公厅		0751
+龙宣宗		4		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/ldzc/szfbgtld_new/szfbgtld_jggk/index.html	市人民政府副秘书长		贵阳市人民政府办公厅		0751
+方超		5		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/ldzc/szfbgtld_new/szfbgtld_jggk/index.html	市人民政府副秘书长		贵阳市人民政府办公厅		0751
+周龙		6		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/ldzc/szfbgtld_new/szfbgtld_jggk/index.html	市人民政府副秘书长		贵阳市人民政府办公厅		0751
+杨凯		7		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/ldzc/szfbgtld_new/szfbgtld_jggk/index.html	市人民政府副秘书长		贵阳市人民政府办公厅		0751
+马曲		8		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/ldzc/szfbgtld_new/szfbgtld_jggk/index.html	市人民政府办公厅副主任		贵阳市人民政府办公厅		0751
+刘洪		9		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/ldzc/szfbgtld_new/szfbgtld_jggk/index.html	市人民政府办公厅副主任		贵阳市人民政府办公厅		0751

@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李勇		1		河北省		https://szj.hebei.gov.cn/zwgk/002001/002001001/leaderWindow.html	党组成员、副局长		河北省数据和政务服务局		2668
+张燕		2		河北省		https://szj.hebei.gov.cn/zwgk/002001/002001001/leaderWindow.html	党组成员、副局长		河北省数据和政务服务局		2668
+张彤		3		河北省		https://szj.hebei.gov.cn/zwgk/002001/002001001/leaderWindow.html	党组成员、副局长		河北省数据和政务服务局		2668

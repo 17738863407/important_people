@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邱伟		1		四川省	成都市	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/common_list_2.shtml	中共成都市委宣传部副部长，成都市文化广电旅游局党组书记、局长，成都市文物局局长，成都市三星堆—金沙遗址申遗保护工作专班办公室主任		成都市文化广电旅游局	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/2023-06/30/content_095f8f01ed3348599f8cc3004972ba1c.shtml	0180
+叶哲彦		2		四川省	成都市	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/common_list_2.shtml	成都市文化广电旅游局党组成员、副局长		成都市文化广电旅游局	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/2026-09/01/content_b548f31f3d184786b83756bfdab4eb6f.shtml	0180
+唐小峰		3		四川省	成都市	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/common_list_2.shtml	成都市文化广电旅游局党组成员、副局长、机关党委书记		成都市文化广电旅游局	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/2019-12/07/content_718845bd3862463c8cc3610c4cc6a633.shtml	0180
+李天昊		4		四川省	成都市	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/common_list_2.shtml	成都市文化广电旅游局党组成员、副局长		成都市文化广电旅游局	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/2019-12/07/content_f83c576f15e942b28f9477a7c6f8a183.shtml	0180
+王健		5		四川省	成都市	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/common_list_2.shtml	成都市文化广电旅游局副局长		成都市文化广电旅游局	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/2019-12/07/content_60a51778bdc241d994a8897032e1b51b.shtml	0180
+袁雪峰		6		四川省	成都市	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/common_list_2.shtml	成都市文化广电旅游局党组成员、副局长，成都市文物局专职副局长		成都市文化广电旅游局	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/2025-10/17/content_b8eb869aabe34ffeb194addbc70ce1ac.shtml	0180
+张蓓		7		四川省	成都市	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/common_list_2.shtml	成都市文化广电旅游局党组成员、驻局纪检组长		成都市文化广电旅游局	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/2019-12/07/content_e2298cfa71574bc694b9b733291b8fd9.shtml	0180
+王林		8		四川省	成都市	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/common_list_2.shtml	成都市文化广电旅游局副局长、成都市三星堆-金沙遗址申遗保护工作专班办公室专职副主任		成都市文化广电旅游局	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/2025-07/08/content_6e98e3c536ba4bd49be772d870329496.shtml	0180
+夏凛		9		四川省	成都市	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/common_list_2.shtml	成都市文化广电旅游局党组成员、成都市文化市场综合行政执法总队总队长		成都市文化广电旅游局	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/2025-10/17/content_fa9208d799a545ca967ebaa802922879.shtml	0180
+王敏		10		四川省	成都市	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/common_list_2.shtml	成都市文化广电旅游局二级巡视员		成都市文化广电旅游局	https://cdwglj.chengdu.gov.cn/cdwglj/c133190/2019-12/07/content_c98ae7d3aa184eb5805834668cca1df7.shtml	0180

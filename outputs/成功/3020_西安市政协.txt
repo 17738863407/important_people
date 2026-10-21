@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王吉德		1		陕西省	西安市	https://www.xa-cppcc.gov.cn/zxgk/zxld/	主席		西安市政协		3020
+卢凯		2		陕西省	西安市	https://www.xa-cppcc.gov.cn/zxgk/zxld/	副主席		西安市政协		3020
+肖西亮		3		陕西省	西安市	https://www.xa-cppcc.gov.cn/zxgk/zxld/	副主席		西安市政协		3020
+王国根		4		陕西省	西安市	https://www.xa-cppcc.gov.cn/zxgk/zxld/	副主席		西安市政协		3020
+陈长春		5		陕西省	西安市	https://www.xa-cppcc.gov.cn/zxgk/zxld/	副主席		西安市政协		3020
+张华俊		6		陕西省	西安市	https://www.xa-cppcc.gov.cn/zxgk/zxld/	副主席		西安市政协		3020
+姜长智		7		陕西省	西安市	https://www.xa-cppcc.gov.cn/zxgk/zxld/	副主席		西安市政协		3020
+王晓萍		8		陕西省	西安市	https://www.xa-cppcc.gov.cn/zxgk/zxld/	副主席		西安市政协		3020
+邢欣		9		陕西省	西安市	https://www.xa-cppcc.gov.cn/zxgk/zxld/	副主席		西安市政协		3020
+苟继东		10		陕西省	西安市	https://www.xa-cppcc.gov.cn/zxgk/zxld/	秘书长		西安市政协		3020

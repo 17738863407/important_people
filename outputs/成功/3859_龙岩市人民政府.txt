@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蔡琳		1		福建省	龙岩市	https://www.longyan.gov.cn/gk/flgk/szfld/	市长		龙岩市人民政府	https://www.longyan.gov.cn/gk/flgk/szfld/cl/	3859
+陈荣水		2		福建省	龙岩市	https://www.longyan.gov.cn/gk/flgk/szfld/	副市长		龙岩市人民政府	https://www.longyan.gov.cn/gk/flgk/szfld/crs/	3859
+乔晓明		3		福建省	龙岩市	https://www.longyan.gov.cn/gk/flgk/szfld/	副市长		龙岩市人民政府	https://www.longyan.gov.cn/gk/flgk/szfld/qxm/	3859
+修洪		4		福建省	龙岩市	https://www.longyan.gov.cn/gk/flgk/szfld/	副市长		龙岩市人民政府	https://www.longyan.gov.cn/gk/flgk/szfld/xh/	3859
+简洪坤		5		福建省	龙岩市	https://www.longyan.gov.cn/gk/flgk/szfld/	副市长		龙岩市人民政府	https://www.longyan.gov.cn/gk/flgk/szfld/jhk/	3859
+詹崇仁		6		福建省	龙岩市	https://www.longyan.gov.cn/gk/flgk/szfld/	副市长		龙岩市人民政府	https://www.longyan.gov.cn/gk/flgk/szfld/zcr/	3859
+戴伟荣		7		福建省	龙岩市	https://www.longyan.gov.cn/gk/flgk/szfld/	副市长		龙岩市人民政府	https://www.longyan.gov.cn/gk/flgk/szfld/dwr/	3859
+赖进益		8		福建省	龙岩市	https://www.longyan.gov.cn/gk/flgk/szfld/	副市长		龙岩市人民政府	https://www.longyan.gov.cn/gk/flgk/szfld/ljy/	3859
+罗剑		9		福建省	龙岩市	https://www.longyan.gov.cn/gk/flgk/szfld/	副市长		龙岩市人民政府	https://www.longyan.gov.cn/gk/flgk/szfld/lj/	3859
+钟海峰		10		福建省	龙岩市	https://www.longyan.gov.cn/gk/flgk/szfld/	秘书长		龙岩市人民政府	https://www.longyan.gov.cn/gk/flgk/szfld/zhf/	3859

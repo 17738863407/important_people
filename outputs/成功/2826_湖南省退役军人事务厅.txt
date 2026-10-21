@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谢春		1		湖南省		https://tyjrswt.hunan.gov.cn/tyjrswt/c100258/c100259/c100260/xxgklb.html	湖南省退役军人事务厅党组书记、厅长		湖南省退役军人事务厅	https://tyjrswt.hunan.gov.cn/tyjrswt/c100258/c100259/c100260/202111/t20211103_20974882.html	2826
+邓燕飞		2		湖南省		https://tyjrswt.hunan.gov.cn/tyjrswt/c100258/c100259/c100260/xxgklb.html	湖南省退役军人事务厅党组成员、副厅长		湖南省退役军人事务厅	https://tyjrswt.hunan.gov.cn/tyjrswt/c100258/c100259/c100260/201909/t20190929_10468952.html	2826
+蒋伟		3		湖南省		https://tyjrswt.hunan.gov.cn/tyjrswt/c100258/c100259/c100260/xxgklb.html	湖南省退役军人事务厅党组成员、副厅长		湖南省退役军人事务厅	https://tyjrswt.hunan.gov.cn/tyjrswt/c100258/c100259/c100260/202311/t20231129_32452091.html	2826
+刘勇		4		湖南省		https://tyjrswt.hunan.gov.cn/tyjrswt/c100258/c100259/c100260/xxgklb.html	湖南省退役军人事务厅党组成员、副厅长		湖南省退役军人事务厅	https://tyjrswt.hunan.gov.cn/tyjrswt/c100258/c100259/c100260/202206/t20220617_26265044.html	2826
+牟作明		5		湖南省		https://tyjrswt.hunan.gov.cn/tyjrswt/c100258/c100259/c100260/xxgklb.html	省军区政治工作局副主任，省退役军人事务厅党组成员、副厅长（兼）		湖南省退役军人事务厅	https://tyjrswt.hunan.gov.cn/tyjrswt/c100258/c100259/c100260/202406/t20240614_33327801.html	2826
+邵波		6		湖南省		https://tyjrswt.hunan.gov.cn/tyjrswt/c100258/c100259/c100260/xxgklb.html	湖南省退役军人事务厅党组成员、副厅长		湖南省退役军人事务厅	https://tyjrswt.hunan.gov.cn/tyjrswt/c100258/c100259/c100260/202408/t20240819_33434701.html	2826

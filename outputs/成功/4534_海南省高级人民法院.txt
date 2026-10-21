@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+戴军		1		海南省		https://www.hicourt.gov.cn/article/index/id/MyhJMjAwMjAwMSACAAA.shtml	海南省高级人民法院党组书记、院长		海南省高级人民法院	https://www.hicourt.gov.cn/article/detail/2024/04/id/8462166.shtml	4534
+陈祥军		2		海南省		https://www.hicourt.gov.cn/article/index/id/MyhJMjAwMjAwMSACAAA.shtml	海南省高级人民法院党组副书记、副院长		海南省高级人民法院	https://www.hicourt.gov.cn/article/detail/2026/06/id/9340124.shtml	4534
+夏君丽		3		海南省		https://www.hicourt.gov.cn/article/index/id/MyhJMjAwMjAwMSACAAA.shtml	海南省高级人民法院党组成员、副院长		海南省高级人民法院	https://www.hicourt.gov.cn/article/detail/2024/03/id/8451856.shtml	4534
+李戈		4		海南省		https://www.hicourt.gov.cn/article/index/id/MyhJMjAwMjAwMSACAAA.shtml	海南省高级人民法院党组成员、副院长、执行局局长		海南省高级人民法院	https://www.hicourt.gov.cn/article/detail/2024/03/id/8451858.shtml	4534
+刘忠成		5		海南省		https://www.hicourt.gov.cn/article/index/id/MyhJMjAwMjAwMSACAAA.shtml	海南省高级人民法院党组成员、政治部主任		海南省高级人民法院	https://www.hicourt.gov.cn/article/detail/2026/06/id/9340127.shtml	4534
+苏志辉		6		海南省		https://www.hicourt.gov.cn/article/index/id/MyhJMjAwMjAwMSACAAA.shtml	海南省高级人民法院党组成员，海南省第一中级人民法院党组书记、院长		海南省高级人民法院	https://www.hicourt.gov.cn/article/detail/2026/06/id/9340129.shtml	4534
+黄胜春		7		海南省		https://www.hicourt.gov.cn/article/index/id/MyhJMjAwMjAwMSACAAA.shtml	海南省高级人民法院审判委员会专职委员		海南省高级人民法院	https://www.hicourt.gov.cn/article/detail/2024/03/id/8462172.shtml	4534
+林达		8		海南省		https://www.hicourt.gov.cn/article/index/id/MyhJMjAwMjAwMSACAAA.shtml	海南省高级人民法院审判委员会专职委员		海南省高级人民法院	https://www.hicourt.gov.cn/article/detail/2026/03/id/9244750.shtml	4534

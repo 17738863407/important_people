@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+应建勇		1		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218859/index.html	党组书记、局长		宁波市文化广电旅游局	https://www.ningbo.gov.cn/art/2023/12/15/art_1229218859_153130.html	1940
+王世斌		2		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218859/index.html	党组副书记、副局长		宁波市文化广电旅游局	https://www.ningbo.gov.cn/art/2023/6/30/art_1229218859_145153.html	1940
+陈彩凤		3		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218859/index.html	副局长		宁波市文化广电旅游局	https://www.ningbo.gov.cn/art/2023/6/30/art_1229218859_124119.html	1940
+章建雷		4		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218859/index.html	党组成员、副局长		宁波市文化广电旅游局	https://www.ningbo.gov.cn/art/2023/6/30/art_1229218859_124120.html	1940
+索朗罗布		5		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218859/index.html	副局长、党组成员		宁波市文化广电旅游局	https://www.ningbo.gov.cn/art/2025/3/11/art_1229218859_175458.html	1940
+陈海波		6		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218859/index.html	党组成员、副局长		宁波市文化广电旅游局	https://www.ningbo.gov.cn/art/2023/6/30/art_1229218859_145156.html	1940
+邵道良		7		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218859/index.html	党组成员、文化市场行政执法队队长		宁波市文化广电旅游局	https://www.ningbo.gov.cn/art/2023/6/30/art_1229218859_135737.html	1940
+裴宏军		8		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218859/index.html	党组成员、组织人事处处长、一级调研员		宁波市文化广电旅游局	https://www.ningbo.gov.cn/art/2023/6/30/art_1229218859_145188.html	1940
+穆晓莉		9		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218859/index.html	二级巡视员		宁波市文化广电旅游局	https://www.ningbo.gov.cn/art/2023/6/30/art_1229218859_145157.html	1940

@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李耀华		1		全国		https://www.ydcmdei.org.cn/center-role-leader	主任、党总支书记		国家药品监督管理局医疗器械技术审评检查长三角分中心		3147
+缪佳		2		全国		https://www.ydcmdei.org.cn/center-role-leader	副主任、党总支委员		国家药品监督管理局医疗器械技术审评检查长三角分中心		3147
+高中		3		全国		https://www.ydcmdei.org.cn/center-role-leader	副主任		国家药品监督管理局医疗器械技术审评检查长三角分中心		3147

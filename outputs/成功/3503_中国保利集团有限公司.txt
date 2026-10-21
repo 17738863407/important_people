@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+祖斌		1		全国		http://www.poly.com.cn/poly/gywm/ldtd/A044002003Gone1.html	集团党委书记 董事长		中国保利集团有限公司		3503
+吴盛悦		2		全国		http://www.poly.com.cn/poly/gywm/ldtd/A044002003Gone1.html	集团党委副书记 总经理		中国保利集团有限公司		3503
+张浩		3		全国		http://www.poly.com.cn/poly/gywm/ldtd/A044002003Gone1.html	集团党委副书记		中国保利集团有限公司		3503
+陈关中		4		全国		http://www.poly.com.cn/poly/gywm/ldtd/A044002003Gone1.html	集团党委常委 副总经理		中国保利集团有限公司		3503
+朱铭新		5		全国		http://www.poly.com.cn/poly/gywm/ldtd/A044002003Gone1.html	集团党委常委 副总经理		中国保利集团有限公司		3503

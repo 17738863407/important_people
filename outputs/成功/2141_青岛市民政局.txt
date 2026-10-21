@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张艳		1		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/mzj/gkml/jgxx/202112/t20211207_3926246.shtml	党组书记、局长		青岛市民政局		2141
+王海春		2		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/mzj/gkml/jgxx/202112/t20211207_3926246.shtml	党组成员、副局长		青岛市民政局		2141
+张帅		3		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/mzj/gkml/jgxx/202112/t20211207_3926246.shtml	副局长		青岛市民政局		2141
+魏华		4		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/mzj/gkml/jgxx/202112/t20211207_3926246.shtml	党组成员、青岛市民政事务综合服务中心主任		青岛市民政局		2141
+盛梅		5		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/mzj/gkml/jgxx/202112/t20211207_3926246.shtml	党组成员、青岛市慈善总会专职副秘书长		青岛市民政局		2141
+杨建军		6		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/mzj/gkml/jgxx/202112/t20211207_3926246.shtml	党组成员、副局长		青岛市民政局		2141
+朱信臣		7		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/mzj/gkml/jgxx/202112/t20211207_3926246.shtml	党组成员、副局长		青岛市民政局		2141
+张屹卿		8		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/mzj/gkml/jgxx/202112/t20211207_3926246.shtml	二级巡视员		青岛市民政局		2141
+于子周		9		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/mzj/gkml/jgxx/202112/t20211207_3926246.shtml	副局级领导干部		青岛市民政局		2141
+朱涛		10		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/mzj/gkml/jgxx/202112/t20211207_3926246.shtml	副局级领导干部		青岛市民政局		2141

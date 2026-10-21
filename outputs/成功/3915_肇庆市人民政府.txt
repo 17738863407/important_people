@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李兴文		1		广东省	肇庆市	https://www.zhaoqing.gov.cn/xxgk/ldzc/index.html	市委常委，市政府常务副市长、党组副书记		肇庆市人民政府	https://www.zhaoqing.gov.cn/xxgk/ldzc/content/post_3177145.html	3915
+刘泾波		2		广东省	肇庆市	https://www.zhaoqing.gov.cn/xxgk/ldzc/index.html	市委常委，市政府副市长、党组成员，兼任广东省（肇庆）大型产业集聚区规划建设指挥部总指挥、粤桂试验区（肇庆）党工委书记		肇庆市人民政府	https://www.zhaoqing.gov.cn/xxgk/ldzc/content/post_3177144.html	3915
+申奥		3		广东省	肇庆市	https://www.zhaoqing.gov.cn/xxgk/ldzc/index.html	市政府副市长、党组成员		肇庆市人民政府	https://www.zhaoqing.gov.cn/xxgk/ldzc/content/post_3177143.html	3915
+谢桂坤		4		广东省	肇庆市	https://www.zhaoqing.gov.cn/xxgk/ldzc/index.html	市政府副市长、党组成员		肇庆市人民政府	https://www.zhaoqing.gov.cn/xxgk/ldzc/content/post_3177142.html	3915
+严宏宇		5		广东省	肇庆市	https://www.zhaoqing.gov.cn/xxgk/ldzc/index.html	市政府副市长、党组成员		肇庆市人民政府	https://www.zhaoqing.gov.cn/xxgk/ldzc/content/post_3177141.html	3915
+徐舟		6		广东省	肇庆市	https://www.zhaoqing.gov.cn/xxgk/ldzc/index.html	市政府副市长、党组成员，兼任市公安局局长		肇庆市人民政府	https://www.zhaoqing.gov.cn/xxgk/ldzc/content/post_3177140.html	3915
+邹莹		7		广东省	肇庆市	https://www.zhaoqing.gov.cn/xxgk/ldzc/index.html	市政府副市长		肇庆市人民政府	https://www.zhaoqing.gov.cn/xxgk/ldzc/content/post_3177348.html	3915
+孔令炬		8		广东省	肇庆市	https://www.zhaoqing.gov.cn/xxgk/ldzc/index.html	市政府党组成员、秘书长		肇庆市人民政府	https://www.zhaoqing.gov.cn/xxgk/ldzc/content/post_3177832.html	3915

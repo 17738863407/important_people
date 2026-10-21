@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谢高岗		1		全国		http://bpf.cas.cn/jgsz/xrjld/	局长		中国科学院财务与资产管理局		4038
+罗雯		2		全国		http://bpf.cas.cn/jgsz/xrjld/	副局长		中国科学院财务与资产管理局		4038
+利斌		3		全国		http://bpf.cas.cn/jgsz/xrjld/	副局长		中国科学院财务与资产管理局		4038
+尹叶		4		全国		http://bpf.cas.cn/jgsz/xrjld/	副局长		中国科学院财务与资产管理局		4038

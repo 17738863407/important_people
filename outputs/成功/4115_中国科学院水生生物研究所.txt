@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+缪炜		1		全国		https://ihb.cas.cn/jggk/xrld/	所长		中国科学院水生生物研究所	https://ihb.cas.cn/sourcedb/cn/gb/yjy1/ssswdyxysx/200907/t20090722_5749618.html	4115
+解绶启		2		全国		https://ihb.cas.cn/jggk/xrld/	党委书记、副所长		中国科学院水生生物研究所	https://ihb.cas.cn/sourcedb/cn/gb/yjy1/sczzcxywlyy/202407/t20240704_7212586.html	4115
+梁琼		3		全国		https://ihb.cas.cn/jggk/xrld/	党委副书记、纪委书记		中国科学院水生生物研究所	http://ihb.cas.cn/sourcedb/cn/gb/xkdtr/202205/t20220507_6445043.html	4115
+徐军		4		全国		https://ihb.cas.cn/jggk/xrld/	副所长		中国科学院水生生物研究所	https://ihb.cas.cn/sourcedb/cn/gb/yjy1/ssswdyxysx/201206/t20120611_5749500.html	4115
+徐镇		5		全国		https://ihb.cas.cn/jggk/xrld/	副所长		中国科学院水生生物研究所	https://ihb.cas.cn/sourcedb/cn/gb/yjy1/sczzcxywlyy/202103/t20210330_5986614.html	4115

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘圣国		1		北京市		https://sjj.beijing.gov.cn/zwxx/jgzn/jldjs/	北京市审计局党组书记、局长		北京市审计局		2424
+王炜		2		北京市		https://sjj.beijing.gov.cn/zwxx/jgzn/jldjs/	北京市审计局党组成员、副局长、一级巡视员		北京市审计局		2424
+曾晓冬		3		北京市		https://sjj.beijing.gov.cn/zwxx/jgzn/jldjs/	北京市审计局党组成员、副局长、一级巡视员		北京市审计局		2424
+王海江		4		北京市		https://sjj.beijing.gov.cn/zwxx/jgzn/jldjs/	北京市审计局党组成员、驻局纪检监察组组长、二级高级监察官		北京市审计局		2424
+陈新		5		北京市		https://sjj.beijing.gov.cn/zwxx/jgzn/jldjs/	北京市审计局党组成员、副局长		北京市审计局		2424
+于晨		6		北京市		https://sjj.beijing.gov.cn/zwxx/jgzn/jldjs/	北京市审计局党组成员、总审计师		北京市审计局		2424
+闫哲		7		北京市		https://sjj.beijing.gov.cn/zwxx/jgzn/jldjs/	北京市审计局副局长		北京市审计局		2424
+张永红		8		北京市		https://sjj.beijing.gov.cn/zwxx/jgzn/jldjs/	北京市审计局一级巡视员		北京市审计局		2424
+匡贡献		9		北京市		https://sjj.beijing.gov.cn/zwxx/jgzn/jldjs/	北京市审计局二级巡视员		北京市审计局		2424

@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邵军		1		上海市		https://sdb.sh.gov.cn/fdzdgknr/ldxx/	市数据局党组书记、局长		上海市数据局	https://sdb.sh.gov.cn/fdzdgknr/ldxx/20250612/70b65a48ee6847f98580d9e3db47aa0d.html	2289
+高天		2		上海市		https://sdb.sh.gov.cn/fdzdgknr/ldxx/	市数据局党组成员、副局长		上海市数据局	https://sdb.sh.gov.cn/fdzdgknr/ldxx/20250911/3a8735ead3fa4686935289fdd15c639c.html	2289
+钱晓		3		上海市		https://sdb.sh.gov.cn/fdzdgknr/ldxx/	市数据局党组成员、副局长		上海市数据局	https://sdb.sh.gov.cn/fdzdgknr/ldxx/20250612/8e897bb11928409493f97618fb055f5a.html	2289
+翁轶丛		4		上海市		https://sdb.sh.gov.cn/fdzdgknr/ldxx/	市数据局党组成员、副局长		上海市数据局	https://sdb.sh.gov.cn/fdzdgknr/ldxx/20250612/f56e689bc3b14647a8b48aad2ba8ec8d.html	2289

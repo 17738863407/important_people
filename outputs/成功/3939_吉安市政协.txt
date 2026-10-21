@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈定宇		1		江西省	吉安市	http://www.jxjazx.gov.cn/news-list-zxld.html	党组书记		吉安市政协	http://www.jxjazx.gov.cn/news-show-11433.html	3939
+肖玉兰		2		江西省	吉安市	http://www.jxjazx.gov.cn/news-list-zxld.html	主席		吉安市政协	http://www.jxjazx.gov.cn/news-show-10978.html	3939
+刘晓彬		3		江西省	吉安市	http://www.jxjazx.gov.cn/news-list-zxld.html	副主席		吉安市政协	http://www.jxjazx.gov.cn/news-show-10981.html	3939
+徐年春		4		江西省	吉安市	http://www.jxjazx.gov.cn/news-list-zxld.html	副主席		吉安市政协	http://www.jxjazx.gov.cn/news-show-10982.html	3939
+李金花		5		江西省	吉安市	http://www.jxjazx.gov.cn/news-list-zxld.html	副主席		吉安市政协	http://www.jxjazx.gov.cn/news-show-10984.html	3939
+张海峰		6		江西省	吉安市	http://www.jxjazx.gov.cn/news-list-zxld.html	副主席		吉安市政协	http://www.jxjazx.gov.cn/news-show-10985.html	3939
+邱秀华		7		江西省	吉安市	http://www.jxjazx.gov.cn/news-list-zxld.html	副主席		吉安市政协	http://www.jxjazx.gov.cn/news-show-10996.html	3939
+彭仁才		8		江西省	吉安市	http://www.jxjazx.gov.cn/news-list-zxld.html	副主席		吉安市政协	http://www.jxjazx.gov.cn/news-show-10997.html	3939
+管萍		9		江西省	吉安市	http://www.jxjazx.gov.cn/news-list-zxld.html	副主席		吉安市政协	http://www.jxjazx.gov.cn/news-show-11002.html	3939
+邹卫梅		10		江西省	吉安市	http://www.jxjazx.gov.cn/news-list-zxld.html	副主席		吉安市政协	http://www.jxjazx.gov.cn/news-show-11194.html	3939
+曾扬光		11		江西省	吉安市	http://www.jxjazx.gov.cn/news-list-zxld.html	秘书长		吉安市政协	http://www.jxjazx.gov.cn/news-show-11009.html	3939

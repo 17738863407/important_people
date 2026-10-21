@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张雨浦		1		全国		https://www.nx.gov.cn/zzqzf/	主席		宁夏回族自治区人民政府	https://www.nx.gov.cn/zzsl/zyp/	2006
+买彦州		2		全国		https://www.nx.gov.cn/zzqzf/	副主席		宁夏回族自治区人民政府	https://www.nx.gov.cn/zzsl/myz/	2006
+王立		3		全国		https://www.nx.gov.cn/zzqzf/	副主席		宁夏回族自治区人民政府	https://www.nx.gov.cn/zzsl/wl/	2006
+刘军		4		全国		https://www.nx.gov.cn/zzqzf/	副主席		宁夏回族自治区人民政府	https://www.nx.gov.cn/zzsl/lj/	2006
+马宗保		5		全国		https://www.nx.gov.cn/zzqzf/	副主席		宁夏回族自治区人民政府	https://www.nx.gov.cn/zzsl/mzb/	2006
+吴澜		6		全国		https://www.nx.gov.cn/zzqzf/	副主席		宁夏回族自治区人民政府	https://www.nx.gov.cn/zzsl/wul/	2006
+马金元		7		全国		https://www.nx.gov.cn/zzqzf/	秘书长		宁夏回族自治区人民政府	https://www.nx.gov.cn/zzsl/mjy/	2006

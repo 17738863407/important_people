@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王立新		1		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/swaqsws_674705/	司长		外交部涉外安全事务司		1576
+张徐民		2		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/swaqsws_674705/	副司长		外交部涉外安全事务司		1576
+刘涛		3		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/swaqsws_674705/	副司长		外交部涉外安全事务司		1576
+马文军		4		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/swaqsws_674705/	副司长		外交部涉外安全事务司		1576

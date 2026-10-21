@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谭成旭		1		全国		https://www.ansteel.cn/subcomponent/GroupExecutives?name=%E5%85%B3%E4%BA%8E%E9%9E%8D%E9%92%A2&idParent=1884&idSon=1892&nameSon=%E7%AE%A1%E7%90%86%E5%9B%A2%E9%98%9F	董事长、党委书记		鞍钢集团有限公司		3514
+郭斌		2		全国		https://www.ansteel.cn/subcomponent/GroupExecutives?name=%E5%85%B3%E4%BA%8E%E9%9E%8D%E9%92%A2&idParent=1884&idSon=1892&nameSon=%E7%AE%A1%E7%90%86%E5%9B%A2%E9%98%9F	董事、总经理、党委副书记		鞍钢集团有限公司		3514
+唐兵		3		全国		https://www.ansteel.cn/subcomponent/GroupExecutives?name=%E5%85%B3%E4%BA%8E%E9%9E%8D%E9%92%A2&idParent=1884&idSon=1892&nameSon=%E7%AE%A1%E7%90%86%E5%9B%A2%E9%98%9F	董事、党委副书记		鞍钢集团有限公司		3514
+闫立兵		4		全国		https://www.ansteel.cn/subcomponent/GroupExecutives?name=%E5%85%B3%E4%BA%8E%E9%9E%8D%E9%92%A2&idParent=1884&idSon=1892&nameSon=%E7%AE%A1%E7%90%86%E5%9B%A2%E9%98%9F	中央纪委国家监委驻鞍钢集团有限公司纪检监察组组长、鞍钢集团有限公司党委常委		鞍钢集团有限公司		3514
+徐世帅		5		全国		https://www.ansteel.cn/subcomponent/GroupExecutives?name=%E5%85%B3%E4%BA%8E%E9%9E%8D%E9%92%A2&idParent=1884&idSon=1892&nameSon=%E7%AE%A1%E7%90%86%E5%9B%A2%E9%98%9F	副总经理、党委常委		鞍钢集团有限公司		3514
+刘文胜		6		全国		https://www.ansteel.cn/subcomponent/GroupExecutives?name=%E5%85%B3%E4%BA%8E%E9%9E%8D%E9%92%A2&idParent=1884&idSon=1892&nameSon=%E7%AE%A1%E7%90%86%E5%9B%A2%E9%98%9F	副总经理、党委常委		鞍钢集团有限公司		3514
+迟鸣		7		全国		https://www.ansteel.cn/subcomponent/GroupExecutives?name=%E5%85%B3%E4%BA%8E%E9%9E%8D%E9%92%A2&idParent=1884&idSon=1892&nameSon=%E7%AE%A1%E7%90%86%E5%9B%A2%E9%98%9F	副总经理、党委常委兼鞍钢集团有限公司保密总监		鞍钢集团有限公司		3514
+李顺健		8		全国		https://www.ansteel.cn/subcomponent/GroupExecutives?name=%E5%85%B3%E4%BA%8E%E9%9E%8D%E9%92%A2&idParent=1884&idSon=1892&nameSon=%E7%AE%A1%E7%90%86%E5%9B%A2%E9%98%9F	副总经理、党委常委		鞍钢集团有限公司		3514
+吴琨宗		9		全国		https://www.ansteel.cn/subcomponent/GroupExecutives?name=%E5%85%B3%E4%BA%8E%E9%9E%8D%E9%92%A2&idParent=1884&idSon=1892&nameSon=%E7%AE%A1%E7%90%86%E5%9B%A2%E9%98%9F	总会计师、党委常委		鞍钢集团有限公司		3514

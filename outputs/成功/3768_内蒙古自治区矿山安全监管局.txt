@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+田一军		1		内蒙古自治区		https://www.nmg.gov.cn/zwgk/zfjg2026/bmgljg/ksaqjgj/	自治区应急管理厅党委委员、副厅长，自治区矿山安全监管局局长		内蒙古自治区矿山安全监管局		3768
+张国强		2		内蒙古自治区		https://www.nmg.gov.cn/zwgk/zfjg2026/bmgljg/ksaqjgj/	副局长		内蒙古自治区矿山安全监管局		3768
+梁国庆		3		内蒙古自治区		https://www.nmg.gov.cn/zwgk/zfjg2026/bmgljg/ksaqjgj/	副局长		内蒙古自治区矿山安全监管局		3768

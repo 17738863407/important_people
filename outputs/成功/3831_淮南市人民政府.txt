@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+欧冬林		1		安徽省	淮南市	https://www.huainan.gov.cn/site/tpl/150847965?activeId=4965107	市长		淮南市人民政府	https://www.huainan.gov.cn/content/column/4965261?liId=152394079	3831
+文见宝		2		安徽省	淮南市	https://www.huainan.gov.cn/site/tpl/150847965?activeId=4965107	副市长		淮南市人民政府	https://www.huainan.gov.cn/content/column/4965261?liId=152394009	3831
+牛方括		3		安徽省	淮南市	https://www.huainan.gov.cn/site/tpl/150847965?activeId=4965107	副市长		淮南市人民政府	https://www.huainan.gov.cn/content/column/4965261?liId=152394095	3831
+陆晞		4		安徽省	淮南市	https://www.huainan.gov.cn/site/tpl/150847965?activeId=4965107	副市长		淮南市人民政府	https://www.huainan.gov.cn/content/column/4965261?liId=47076210	3831
+王启超		5		安徽省	淮南市	https://www.huainan.gov.cn/site/tpl/150847965?activeId=4965107	副市长		淮南市人民政府	https://www.huainan.gov.cn/content/column/4965261?liId=152394029	3831
+陈长勇		6		安徽省	淮南市	https://www.huainan.gov.cn/site/tpl/150847965?activeId=4965107	副市长		淮南市人民政府	https://www.huainan.gov.cn/content/column/4965261?liId=152394104	3831
+唐兵		7		安徽省	淮南市	https://www.huainan.gov.cn/site/tpl/150847965?activeId=4965107	副市长		淮南市人民政府	https://www.huainan.gov.cn/content/column/4965261?liId=152394110	3831
+胡德春		8		安徽省	淮南市	https://www.huainan.gov.cn/site/tpl/150847965?activeId=4965107	秘书长		淮南市人民政府	https://www.huainan.gov.cn/content/column/4965261?liId=152394083	3831

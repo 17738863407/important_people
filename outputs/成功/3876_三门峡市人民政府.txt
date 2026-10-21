@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+柳波		1		河南省	三门峡市	https://www.smx.gov.cn/4099/0000/zhengfuxinxi-1.html	市委副书记，市人民政府党组书记、市长		三门峡市人民政府	https://www.smx.gov.cn/4099/616402368/1115296.html	3876
+张志刚		2		河南省	三门峡市	https://www.smx.gov.cn/4099/0000/zhengfuxinxi-1.html	市委常委、市政府党组副书记、副市长		三门峡市人民政府	https://www.smx.gov.cn/4099/2026/6/2142577.html	3876
+王照生		3		河南省	三门峡市	https://www.smx.gov.cn/4099/0000/zhengfuxinxi-1.html	市委常委、市政府副市长、党组成员		三门峡市人民政府	https://www.smx.gov.cn/4099/616763520/1763731.html	3876
+卫祥玉		4		河南省	三门峡市	https://www.smx.gov.cn/4099/0000/zhengfuxinxi-1.html	市政府副市长		三门峡市人民政府	https://www.smx.gov.cn/4099/615748320/833923.html	3876
+杨红忠		5		河南省	三门峡市	https://www.smx.gov.cn/4099/0000/zhengfuxinxi-1.html	市政府副市长、党组成员		三门峡市人民政府	https://www.smx.gov.cn/4099/616338432/1095721.html	3876
+艾合买提·艾开木		6		河南省	三门峡市	https://www.smx.gov.cn/4099/0000/zhengfuxinxi-1.html	市政府副市长、党组成员		三门峡市人民政府	https://www.smx.gov.cn/4099/616701312/1518505.html	3876
+张静		7		河南省	三门峡市	https://www.smx.gov.cn/4099/0000/zhengfuxinxi-1.html	市政府副市长、党组成员		三门峡市人民政府	https://www.smx.gov.cn/4099/2026/6/2263274.html	3876
+范卫彬		8		河南省	三门峡市	https://www.smx.gov.cn/4099/0000/zhengfuxinxi-1.html	市政府副市长、党组成员，市公安局党委书记、局长、督察长		三门峡市人民政府	https://www.smx.gov.cn/4099/616338432/1095718.html	3876
+吕大伟		9		河南省	三门峡市	https://www.smx.gov.cn/4099/0000/zhengfuxinxi-1.html	市政府秘书长、党组成员		三门峡市人民政府	https://www.smx.gov.cn/4099/616424832/1123120.html	3876

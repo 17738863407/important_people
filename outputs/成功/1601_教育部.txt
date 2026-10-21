@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+怀进鹏		1		全国		http://www.moe.gov.cn/jyb_zzjg/moe_187/	教育部党组书记、部长		教育部	http://www.moe.gov.cn/jyb_zzjg/moe_187/huaijinpeng/	1601
+王嘉毅		2		全国		http://www.moe.gov.cn/jyb_zzjg/moe_187/	教育部党组成员、副部长、总督学		教育部	http://www.moe.gov.cn/jyb_zzjg/moe_187/wangjiayi/	1601
+熊四皓		3		全国		http://www.moe.gov.cn/jyb_zzjg/moe_187/	教育部党组成员、副部长		教育部	http://www.moe.gov.cn/jyb_zzjg/moe_187/xiongsihao/	1601
+王承文		4		全国		http://www.moe.gov.cn/jyb_zzjg/moe_187/	教育部党组成员、中央纪委国家监委驻教育部纪检监察组组长		教育部	http://www.moe.gov.cn/jyb_zzjg/moe_187/wangchengwen/	1601
+杜江峰		5		全国		http://www.moe.gov.cn/jyb_zzjg/moe_187/	教育部党组成员、副部长		教育部	http://www.moe.gov.cn/jyb_zzjg/moe_187/dujiangfeng/	1601
+王光彦		6		全国		http://www.moe.gov.cn/jyb_zzjg/moe_187/	教育部党组成员、副部长，直属机关党委书记		教育部	http://www.moe.gov.cn/jyb_zzjg/moe_187/wangguangyan/	1601
+任友群		7		全国		http://www.moe.gov.cn/jyb_zzjg/moe_187/	教育部党组成员、副部长		教育部	http://www.moe.gov.cn/jyb_zzjg/moe_187/renyouqun/	1601

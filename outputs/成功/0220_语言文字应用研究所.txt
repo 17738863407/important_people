@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘朋建		1		全国		http://www.china-language.edu.cn/#/aboutUs	所长		语言文字应用研究所		0220
+容宏		2		全国		http://www.china-language.edu.cn/#/aboutUs	副所长		语言文字应用研究所		0220
+王敏		3		全国		http://www.china-language.edu.cn/#/aboutUs	副所长		语言文字应用研究所		0220
+王奇		4		全国		http://www.china-language.edu.cn/#/aboutUs	副所长		语言文字应用研究所		0220

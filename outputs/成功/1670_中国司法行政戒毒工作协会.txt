@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+肖义舜		1		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zgsfxzjdgzxh/	会长		中国司法行政戒毒工作协会		1670
+徐辉		2		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zgsfxzjdgzxh/	副会长		中国司法行政戒毒工作协会		1670
+高贞		3		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zgsfxzjdgzxh/	副会长		中国司法行政戒毒工作协会		1670
+李一黎		4		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zgsfxzjdgzxh/	副会长		中国司法行政戒毒工作协会		1670
+蔡呈伟		5		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zgsfxzjdgzxh/	副会长		中国司法行政戒毒工作协会		1670
+禹冰		6		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zgsfxzjdgzxh/	副会长		中国司法行政戒毒工作协会		1670
+刘一兵		7		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zgsfxzjdgzxh/	副会长		中国司法行政戒毒工作协会		1670
+王书言		8		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zgsfxzjdgzxh/	秘书长		中国司法行政戒毒工作协会		1670

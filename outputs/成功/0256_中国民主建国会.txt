@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郝明金		1		全国		https://www.cndca.org.cn/mjzy/ldhdj/index.html	主席		中国民主建国会		0256
+秦博勇		2		全国		https://www.cndca.org.cn/mjzy/ldhdj/index.html	常务副主席		中国民主建国会		0256
+孙东生		3		全国		https://www.cndca.org.cn/mjzy/ldhdj/index.html	副主席		中国民主建国会		0256
+沈金强		4		全国		https://www.cndca.org.cn/mjzy/ldhdj/index.html	副主席		中国民主建国会		0256
+孙菊生		5		全国		https://www.cndca.org.cn/mjzy/ldhdj/index.html	副主席		中国民主建国会		0256
+洪慧民		6		全国		https://www.cndca.org.cn/mjzy/ldhdj/index.html	副主席		中国民主建国会		0256
+张文彤		7		全国		https://www.cndca.org.cn/mjzy/ldhdj/index.html	副主席		中国民主建国会		0256
+司马红		8		全国		https://www.cndca.org.cn/mjzy/ldhdj/index.html	副主席		中国民主建国会		0256
+程京		9		全国		https://www.cndca.org.cn/mjzy/ldhdj/index.html	副主席		中国民主建国会		0256
+解冬		10		全国		https://www.cndca.org.cn/mjzy/ldhdj/index.html	副主席		中国民主建国会		0256
+李忠民		11		全国		https://www.cndca.org.cn/mjzy/ldhdj/index.html	副主席		中国民主建国会		0256

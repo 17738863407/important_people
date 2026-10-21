@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王刚		1		云南省	普洱市	https://www.puershi.gov.cn/zwgk/szfld.htm	普洱市委副书记、市人民政府市长、党组书记		普洱市人民政府	https://www.puershi.gov.cn/info/94881/815392.htm	3871
+陈群		2		云南省	普洱市	https://www.puershi.gov.cn/zwgk/szfld.htm	普洱市委常委、市人民政府常务副市长、党组副书记		普洱市人民政府	https://www.puershi.gov.cn/info/94881/815462.htm	3871
+陈然		3		云南省	普洱市	https://www.puershi.gov.cn/zwgk/szfld.htm	普洱市委常委、市人民政府副市长、党组成员（挂职）		普洱市人民政府	https://www.puershi.gov.cn/info/94881/2009612.htm	3871
+胡剑荣		4		云南省	普洱市	https://www.puershi.gov.cn/zwgk/szfld.htm	普洱市人民政府副市长		普洱市人民政府	https://www.puershi.gov.cn/info/94881/815332.htm	3871
+杨中兴		5		云南省	普洱市	https://www.puershi.gov.cn/zwgk/szfld.htm	普洱市人民政府副市长、党组成员		普洱市人民政府	https://www.puershi.gov.cn/info/94881/815422.htm	3871
+徐红斌		6		云南省	普洱市	https://www.puershi.gov.cn/zwgk/szfld.htm	普洱市人民政府副市长、党组成员		普洱市人民政府	https://www.puershi.gov.cn/info/94881/815432.htm	3871
+杨绍武		7		云南省	普洱市	https://www.puershi.gov.cn/zwgk/szfld.htm	普洱市人民政府副市长、党组成员		普洱市人民政府	https://www.puershi.gov.cn/info/94881/1487682.htm	3871
+李海峰		8		云南省	普洱市	https://www.puershi.gov.cn/zwgk/szfld.htm	普洱市人民政府副市长、党组成员，市公安局局长		普洱市人民政府	https://www.puershi.gov.cn/info/94881/1913492.htm	3871
+姜志刚		9		云南省	普洱市	https://www.puershi.gov.cn/zwgk/szfld.htm	普洱市人民政府秘书长、党组成员，市政府机关党组书记		普洱市人民政府	https://www.puershi.gov.cn/info/94881/815502.htm	3871

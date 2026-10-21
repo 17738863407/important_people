@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+白天		1		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/gjjjs_674249/	司长		外交部国际经济司		1566
+郭学军		2		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/gjjjs_674249/	副司长		外交部国际经济司		1566
+王刚		3		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/gjjjs_674249/	副司长		外交部国际经济司		1566
+王琪		4		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/gjjjs_674249/	副司长		外交部国际经济司		1566
+梁恒柱		5		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/gjjjs_674249/	副司长		外交部国际经济司		1566

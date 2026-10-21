@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈瑞峰		1		全国		https://www.mzgbxy.org.cn/mzgbxy/gaikuang/202106/1145713.shtml	院长		中央民族干部学院		1745
+王海龙		2		全国		https://www.mzgbxy.org.cn/mzgbxy/gaikuang/202106/1145713.shtml	党委书记		中央民族干部学院		1745
+范振军		3		全国		https://www.mzgbxy.org.cn/mzgbxy/gaikuang/202106/1145713.shtml	党委副书记 分管日常工作的副院长（正司长级）		中央民族干部学院		1745
+刘国军		4		全国		https://www.mzgbxy.org.cn/mzgbxy/gaikuang/202106/1145713.shtml	党委委员、副院长		中央民族干部学院		1745
+宋璐璐		5		全国		https://www.mzgbxy.org.cn/mzgbxy/gaikuang/202106/1145713.shtml	党委委员、纪委书记		中央民族干部学院		1745
+王珍		6		全国		https://www.mzgbxy.org.cn/mzgbxy/gaikuang/202106/1145713.shtml	副院长		中央民族干部学院		1745
+陈传康		7		全国		https://www.mzgbxy.org.cn/mzgbxy/gaikuang/202106/1145713.shtml	副院长		中央民族干部学院		1745
+高虹		8		全国		https://www.mzgbxy.org.cn/mzgbxy/gaikuang/202106/1145713.shtml	总会计师		中央民族干部学院		1745

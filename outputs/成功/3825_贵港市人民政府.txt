@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+潘展东		1		广西壮族自治区	贵港市	http://www.gxgg.gov.cn/xxgk/ldjj/	贵港市委副书记 贵港市人民政府副市长、代理市长、党组书记		贵港市人民政府	http://www.gxgg.gov.cn/xxgk/ldjj/sz/	3825
+刘启		2		广西壮族自治区	贵港市	http://www.gxgg.gov.cn/xxgk/ldjj/	贵港市委常委 贵港市人民政府党组副书记		贵港市人民政府	http://www.gxgg.gov.cn/xxgk/ldjj/fsz/t28118930.shtml	3825
+黄英梅		3		广西壮族自治区	贵港市	http://www.gxgg.gov.cn/xxgk/ldjj/	贵港市委常委、统战部部长 贵港市人民政府副市长、党组成员 贵港市政协党组副书记（兼）		贵港市人民政府	http://www.gxgg.gov.cn/xxgk/ldjj/fsz/t28120508.shtml	3825
+程绍华		4		广西壮族自治区	贵港市	http://www.gxgg.gov.cn/xxgk/ldjj/	贵港市委常委（挂任） 贵港市人民政府副市长、党组成员		贵港市人民政府	http://www.gxgg.gov.cn/xxgk/ldjj/fsz/t18629396.shtml	3825
+杨海强		5		广西壮族自治区	贵港市	http://www.gxgg.gov.cn/xxgk/ldjj/	贵港市人民政府副市长、党组成员 贵港市公安局党委书记、局长		贵港市人民政府	http://www.gxgg.gov.cn/xxgk/ldjj/fsz/t19574674.shtml	3825
+李金涛		6		广西壮族自治区	贵港市	http://www.gxgg.gov.cn/xxgk/ldjj/	贵港市人民政府副市长、党组成员		贵港市人民政府	http://www.gxgg.gov.cn/xxgk/ldjj/fsz/t26029209.shtml	3825
+李湘凡		7		广西壮族自治区	贵港市	http://www.gxgg.gov.cn/xxgk/ldjj/	贵港市人民政府副市长		贵港市人民政府	http://www.gxgg.gov.cn/xxgk/ldjj/fsz/t28089052.shtml	3825
+苏干秋		8		广西壮族自治区	贵港市	http://www.gxgg.gov.cn/xxgk/ldjj/	贵港市人民政府党组成员		贵港市人民政府	http://www.gxgg.gov.cn/xxgk/ldjj/fsz/t28118955.shtml	3825
+刘洋		9		广西壮族自治区	贵港市	http://www.gxgg.gov.cn/xxgk/ldjj/	贵港市人民政府党组成员		贵港市人民政府	http://www.gxgg.gov.cn/xxgk/ldjj/fsz/t28118975.shtml	3825
+梁超庆		10		广西壮族自治区	贵港市	http://www.gxgg.gov.cn/xxgk/ldjj/	贵港市人民政府秘书长、党组成员 贵港市人民政府办公室党组书记、主任 贵港市自然资源局党组书记、局长		贵港市人民政府	http://www.gxgg.gov.cn/xxgk/ldjj/fsz/t28089131.shtml	3825

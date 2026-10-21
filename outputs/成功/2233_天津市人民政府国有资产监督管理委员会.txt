@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑伟铭		1		天津市		https://sasac.tj.gov.cn/JGGK7326/	党委书记、主任		天津市人民政府国有资产监督管理委员会	https://sasac.tj.gov.cn/JGGK7326/LDZC3953/LWLD4332/202103/t20210322_5391137.html	2233
+王志勇		2		天津市		https://sasac.tj.gov.cn/JGGK7326/	一级巡视员		天津市人民政府国有资产监督管理委员会	https://sasac.tj.gov.cn/JGGK7326/LDZC3953/LWLD4332/202204/t20220413_5856137.html	2233
+王洪		3		天津市		https://sasac.tj.gov.cn/JGGK7326/	党委副书记兼市国资委党委党校校长		天津市人民政府国有资产监督管理委员会	https://sasac.tj.gov.cn/JGGK7326/LDZC3953/LWLD4332/202008/t20200810_3440570.html	2233
+原战船		4		天津市		https://sasac.tj.gov.cn/JGGK7326/	党委副书记		天津市人民政府国有资产监督管理委员会	https://sasac.tj.gov.cn/JGGK7326/LDZC3953/LWLD4332/202409/t20240919_6733293.html	2233
+张蕾		5		天津市		https://sasac.tj.gov.cn/JGGK7326/	党委委员、副主任、一级巡视员		天津市人民政府国有资产监督管理委员会	https://sasac.tj.gov.cn/JGGK7326/LDZC3953/LWLD4332/202008/t20200810_3440563.html	2233
+张福旺		6		天津市		https://sasac.tj.gov.cn/JGGK7326/	党委委员、副主任、一级巡视员		天津市人民政府国有资产监督管理委员会	https://sasac.tj.gov.cn/JGGK7326/LDZC3953/LWLD4332/202507/t20250730_7101643.html	2233
+段赛颖		7		天津市		https://sasac.tj.gov.cn/JGGK7326/	党委委员、市纪委监委派驻市国资委党委纪检监察组组长		天津市人民政府国有资产监督管理委员会	https://sasac.tj.gov.cn/JGGK7326/LDZC3953/LWLD4332/202201/t20220107_5774277.html	2233
+韩云翔		8		天津市		https://sasac.tj.gov.cn/JGGK7326/	党委委员、副主任		天津市人民政府国有资产监督管理委员会	https://sasac.tj.gov.cn/JGGK7326/LDZC3953/LWLD4332/202407/t20240712_6673921.html	2233
+韩剑		9		天津市		https://sasac.tj.gov.cn/JGGK7326/	党委委员、副主任		天津市人民政府国有资产监督管理委员会	https://sasac.tj.gov.cn/JGGK7326/LDZC3953/LWLD4332/202506/t20250618_6960972.html	2233

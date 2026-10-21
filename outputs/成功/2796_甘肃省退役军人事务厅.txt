@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+崔进泰		1		甘肃省		https://tyjr.gansu.gov.cn/tyjr/c105203/jgxx.shtml	甘肃省退役军人事务厅党组书记、厅长		甘肃省退役军人事务厅	https://tyjr.gansu.gov.cn/tyjr/ldxx/202105/1458715.shtml	2796
+杨元庆		2		甘肃省		https://tyjr.gansu.gov.cn/tyjr/c105203/jgxx.shtml	甘肃省退役军人事务厅党组成员、副厅长		甘肃省退役军人事务厅	https://tyjr.gansu.gov.cn/tyjr/ldxx/202306/169859839.shtml	2796
+梁维吉		3		甘肃省		https://tyjr.gansu.gov.cn/tyjr/c105203/jgxx.shtml	甘肃省退役军人事务厅党组成员、副厅长		甘肃省退役军人事务厅	https://tyjr.gansu.gov.cn/tyjr/ldxx/202401/173835706.shtml	2796
+常大伟		4		甘肃省		https://tyjr.gansu.gov.cn/tyjr/c105203/jgxx.shtml	甘肃省退役军人事务厅党组成员、副厅长		甘肃省退役军人事务厅	https://tyjr.gansu.gov.cn/tyjr/ldxx/202402/173858586.shtml	2796
+靳生喜		5		甘肃省		https://tyjr.gansu.gov.cn/tyjr/c105203/jgxx.shtml	甘肃省纪委监委派驻省退役军人事务厅纪检监察组组长、厅党组成员、二级高级监察官		甘肃省退役军人事务厅	https://tyjr.gansu.gov.cn/tyjr/ldxx/202501/174055858.shtml	2796
+李晓敏		6		甘肃省		https://tyjr.gansu.gov.cn/tyjr/c105203/jgxx.shtml	甘肃省退役军人事务厅二级巡视员		甘肃省退役军人事务厅	https://tyjr.gansu.gov.cn/tyjr/ldxx/202501/174055932.shtml	2796
+温玉林		7		甘肃省		https://tyjr.gansu.gov.cn/tyjr/c105203/jgxx.shtml	甘肃省退役军人事务厅二级巡视员		甘肃省退役军人事务厅	https://tyjr.gansu.gov.cn/tyjr/ldxx/202601/174265983.shtml	2796

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑子凯		1		全国		https://www.nfra.gov.cn/branch/gansu/view/pages/common/ItemList.html?itemId=2082&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=2080&itemUrl=ItemListRightArticle.html	国家金融监督管理总局甘肃监管局党委书记、局长		国家金融监督管理总局甘肃监管局		4027
+胡睿		2		全国		https://www.nfra.gov.cn/branch/gansu/view/pages/common/ItemList.html?itemId=2082&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=2080&itemUrl=ItemListRightArticle.html	国家金融监督管理总局甘肃监管局党委委员、副局长		国家金融监督管理总局甘肃监管局		4027
+李弘		3		全国		https://www.nfra.gov.cn/branch/gansu/view/pages/common/ItemList.html?itemId=2082&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=2080&itemUrl=ItemListRightArticle.html	国家金融监督管理总局甘肃监管局党委委员、副局长		国家金融监督管理总局甘肃监管局		4027
+李建国		4		全国		https://www.nfra.gov.cn/branch/gansu/view/pages/common/ItemList.html?itemId=2082&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=2080&itemUrl=ItemListRightArticle.html	国家金融监督管理总局甘肃监管局党委委员、纪委书记		国家金融监督管理总局甘肃监管局		4027
+唐玉石		5		全国		https://www.nfra.gov.cn/branch/gansu/view/pages/common/ItemList.html?itemId=2082&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=2080&itemUrl=ItemListRightArticle.html	国家金融监督管理总局甘肃监管局党委委员、副局长		国家金融监督管理总局甘肃监管局		4027

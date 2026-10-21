@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘军		1		江苏省		https://jssjt.jiangsu.gov.cn/col/col89732/index.html	江苏省委审计委员会办公室主任，省审计厅厅长、党组书记		江苏省审计厅	https://jssjt.jiangsu.gov.cn/art/2026/4/17/art_89732_11759005.html	1208
+李海洋		2		江苏省		https://jssjt.jiangsu.gov.cn/col/col89732/index.html	省审计厅副厅长、党组成员、一级总监		江苏省审计厅	https://jssjt.jiangsu.gov.cn/art/2026/4/17/art_89732_11759003.html	1208
+印兴国		3		江苏省		https://jssjt.jiangsu.gov.cn/col/col89732/index.html	省审计厅副厅长、党组成员		江苏省审计厅	https://jssjt.jiangsu.gov.cn/art/2026/4/17/art_89732_11759002.html	1208
+刁品庆		4		江苏省		https://jssjt.jiangsu.gov.cn/col/col89732/index.html	省审计厅副厅长、党组成员		江苏省审计厅	https://jssjt.jiangsu.gov.cn/art/2026/4/17/art_89732_11759001.html	1208
+薛红海		5		江苏省		https://jssjt.jiangsu.gov.cn/col/col89732/index.html	省审计厅党组成员、省经济责任审计工作联席会议办公室主任（副厅级）		江苏省审计厅	https://jssjt.jiangsu.gov.cn/art/2026/4/17/art_89732_11758992.html	1208
+臧玉淼		6		江苏省		https://jssjt.jiangsu.gov.cn/col/col89732/index.html	省审计厅副厅长、党组成员		江苏省审计厅	https://jssjt.jiangsu.gov.cn/art/2026/4/17/art_89732_11758991.html	1208

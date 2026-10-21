@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵韶峰		1		海南省		http://ga.hainan.gov.cn/sgat/0100/lingdao.shtml	省公安厅党委书记、厅长、督察长		海南省公安厅	http://ga.hainan.gov.cn/sgat/ldxxxxx/202607/cff570a6a2764c0294ec8f475788430c.shtml	0600
+易鹏		2		海南省		http://ga.hainan.gov.cn/sgat/0100/lingdao.shtml	海南省公安厅党委副书记、副厅长		海南省公安厅	http://ga.hainan.gov.cn/sgat/ldxxxxx/202109/01a65c95bb474ae7bb58d2fe3eb27a48.shtml	0600
+张益宾		3		海南省		http://ga.hainan.gov.cn/sgat/0100/lingdao.shtml	海南省公安厅党委委员，特勤局党委书记、局长		海南省公安厅	http://ga.hainan.gov.cn/sgat/ldxxxxx/202010/2b56b6a8024e4a96ad51e02c00303569.shtml	0600
+张文东		4		海南省		http://ga.hainan.gov.cn/sgat/0100/lingdao.shtml	海南省公安厅党委委员、副厅长		海南省公安厅	http://ga.hainan.gov.cn/sgat/ldxxxxx/202111/9e257a44dc4343b2944540d64126b81d.shtml	0600
+甄志刚		5		海南省		http://ga.hainan.gov.cn/sgat/0100/lingdao.shtml	海南省公安厅党委委员、副厅长		海南省公安厅	http://ga.hainan.gov.cn/sgat/ldxxxxx/202401/c11929c37b9d417b9f216c5e28c95bed.shtml	0600
+林刚		6		海南省		http://ga.hainan.gov.cn/sgat/0100/lingdao.shtml	海南省公安厅党委委员，副厅长		海南省公安厅	http://ga.hainan.gov.cn/sgat/ldxxxxx/202602/f624433b0330492cb96b3b4e78e25029.shtml	0600
+陈亮明		7		海南省		http://ga.hainan.gov.cn/sgat/0100/lingdao.shtml	海南省公安厅党委委员、省纪委监委驻省公安厅纪检监察组组长		海南省公安厅	http://ga.hainan.gov.cn/sgat/ldxxxxx/202512/c1546ad457cf46c1af39c7c253bfe47a.shtml	0600
+邹翔		8		海南省		http://ga.hainan.gov.cn/sgat/0100/lingdao.shtml	海南省公安厅党委委员、副厅长		海南省公安厅	http://ga.hainan.gov.cn/sgat/ldxxxxx/202103/09bf1abbb3cb4413a4bebd1bced40ff2.shtml	0600
+闫铁恒		9		海南省		http://ga.hainan.gov.cn/sgat/0100/lingdao.shtml	海南省公安厅党委委员、副厅长		海南省公安厅	http://ga.hainan.gov.cn/sgat/ldxxxxx/202511/da457b52101346489a0137f2e756813a.shtml	0600
+郑文权		10		海南省		http://ga.hainan.gov.cn/sgat/0100/lingdao.shtml	海南省公安厅党委委员、政治部主任		海南省公安厅	http://ga.hainan.gov.cn/sgat/ldxxxxx/202001/984282733c1549dc83def12feb775c9a.shtml	0600
+马凯		11		海南省		http://ga.hainan.gov.cn/sgat/0100/lingdao.shtml	海南省公安厅党委委员、海口市人民政府副市长、市公安局党委书记、局长		海南省公安厅	http://ga.hainan.gov.cn/sgat/ldxxxxx/202401/805faccbd9254ff78ab400f94ce3f32f.shtml	0600
+陈志伟		12		海南省		http://ga.hainan.gov.cn/sgat/0100/lingdao.shtml	海南省公安厅党委委员、三亚市人民政府副市长、市公安局党委书记、局长		海南省公安厅	http://ga.hainan.gov.cn/sgat/ldxxxxx/202602/6d668c4754d54ceba9fe0ce664e42a33.shtml	0600

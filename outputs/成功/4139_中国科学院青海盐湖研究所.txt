@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑诗礼		1		全国		https://isl.cas.cn/dwgk/xrld/	副所长（主持工作）		中国科学院青海盐湖研究所	https://isl.cas.cn/dwgk/xrld/202306/t20230630_6800745.html	4139
+王建萍		2		全国		https://isl.cas.cn/dwgk/xrld/	党委副书记、副所长		中国科学院青海盐湖研究所	https://isl.cas.cn/dwgk/xrld/202306/t20230630_6800753.html	4139
+冯海涛		3		全国		https://isl.cas.cn/dwgk/xrld/	副所长		中国科学院青海盐湖研究所	https://isl.cas.cn/dwgk/xrld/202306/t20230630_6800747.html	4139
+杨勇刚		4		全国		https://isl.cas.cn/dwgk/xrld/	党委副书记、纪委书记		中国科学院青海盐湖研究所	https://isl.cas.cn/dwgk/xrld/202306/t20230630_6800752.html	4139

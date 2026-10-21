@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张鹏		1		内蒙古自治区		https://tj.nmg.gov.cn/zfxxgk/?gk=1	党组书记、局长		内蒙古自治区统计局	https://tj.nmg.gov.cn/zfxxgk/fdzdgknr/jgjj/ldjj/202609/t20260918_2955801.html	2711
+静永波		2		内蒙古自治区		https://tj.nmg.gov.cn/zfxxgk/?gk=1	党组成员、副局长		内蒙古自治区统计局	https://tj.nmg.gov.cn/zfxxgk/fdzdgknr/jgjj/ldjj/202203/t20220315_2017435.html	2711
+汪传敬		3		内蒙古自治区		https://tj.nmg.gov.cn/zfxxgk/?gk=1	党组成员、副局长		内蒙古自治区统计局	https://tj.nmg.gov.cn/zfxxgk/fdzdgknr/jgjj/ldjj/202207/t20220706_2083966.html	2711
+王晓妍		4		内蒙古自治区		https://tj.nmg.gov.cn/zfxxgk/?gk=1	党组成员、副局长		内蒙古自治区统计局	https://tj.nmg.gov.cn/zfxxgk/fdzdgknr/jgjj/ldjj/202407/t20240726_2547375.html	2711
+吕强		5		内蒙古自治区		https://tj.nmg.gov.cn/zfxxgk/?gk=1	党组成员、副局长		内蒙古自治区统计局	https://tj.nmg.gov.cn/zfxxgk/fdzdgknr/jgjj/ldjj/202609/t20260918_2955813.html	2711

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李毅		1		黑龙江省		https://gat.hlj.gov.cn/gat/c115792/common_zfxxgk.shtml	黑龙江省政府副省长、党组成员，省委政法委副书记，省公安厅厅长、党委书记、督察长		黑龙江省公安厅	https://gat.hlj.gov.cn/gat/c115792/202312/c00_31698006.shtml	0629
+江兆才		2		黑龙江省		https://gat.hlj.gov.cn/gat/c115792/common_zfxxgk.shtml	省公安厅党委委员、特勤局党委书记、局长		黑龙江省公安厅	https://gat.hlj.gov.cn/gat/c115792/202312/c00_31698172.shtml	0629
+马凯		3		黑龙江省		https://gat.hlj.gov.cn/gat/c115792/common_zfxxgk.shtml	省公安厅党委委员、副厅长		黑龙江省公安厅	https://gat.hlj.gov.cn/gat/c115792/202312/c00_31698178.shtml	0629
+佟强		4		黑龙江省		https://gat.hlj.gov.cn/gat/c115792/common_zfxxgk.shtml	省公安厅党委委员、省纪委监委驻省公安厅纪检监察组组长、二级高级监察官		黑龙江省公安厅	https://gat.hlj.gov.cn/gat/c115792/202507/c00_31859516.shtml	0629
+刘宇鹏		5		黑龙江省		https://gat.hlj.gov.cn/gat/c115792/common_zfxxgk.shtml	省公安厅党委委员、副厅长		黑龙江省公安厅	https://gat.hlj.gov.cn/gat/c115792/202507/c00_31859527.shtml	0629
+张业伟		6		黑龙江省		https://gat.hlj.gov.cn/gat/c115792/common_zfxxgk.shtml	黑龙江省公安厅党委委员、副厅长，治安管理总队总队长		黑龙江省公安厅	https://gat.hlj.gov.cn/gat/c115792/202312/c00_31698173.shtml	0629
+郑文凯		7		黑龙江省		https://gat.hlj.gov.cn/gat/c115792/common_zfxxgk.shtml	黑龙江省公安厅党委委员、政治部主任		黑龙江省公安厅	https://gat.hlj.gov.cn/gat/c115792/202312/c00_31698174.shtml	0629
+徐景波		8		黑龙江省		https://gat.hlj.gov.cn/gat/c115792/common_zfxxgk.shtml	省公安厅反恐专员		黑龙江省公安厅	https://gat.hlj.gov.cn/gat/c115792/202507/c00_31859528.shtml	0629

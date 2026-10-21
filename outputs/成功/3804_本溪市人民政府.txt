@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郭志强		1		辽宁省	本溪市	https://www.benxi.gov.cn/ld	市长		本溪市人民政府	https://www.benxi.gov.cn/ld/sz/content_663080	3804
+殷俊		2		辽宁省	本溪市	https://www.benxi.gov.cn/ld	副市长		本溪市人民政府	https://www.benxi.gov.cn/ld/fsz/content_628731	3804
+王宏亮		3		辽宁省	本溪市	https://www.benxi.gov.cn/ld	副市长		本溪市人民政府	https://www.benxi.gov.cn/ld/fsz/content_665817	3804
+栾奎杰		4		辽宁省	本溪市	https://www.benxi.gov.cn/ld	副市长		本溪市人民政府	https://www.benxi.gov.cn/ld/fsz/content_617012	3804
+张继承		5		辽宁省	本溪市	https://www.benxi.gov.cn/ld	副市长		本溪市人民政府	https://www.benxi.gov.cn/ld/fsz/content_617706	3804
+袁佺		6		辽宁省	本溪市	https://www.benxi.gov.cn/ld	副市长		本溪市人民政府	https://www.benxi.gov.cn/ld/fsz/content_668894	3804
+李众		7		辽宁省	本溪市	https://www.benxi.gov.cn/ld	副市长		本溪市人民政府	https://www.benxi.gov.cn/ld/fsz/content_654231	3804
+王之成		8		辽宁省	本溪市	https://www.benxi.gov.cn/ld	副市长		本溪市人民政府	https://www.benxi.gov.cn/ld/fsz/content_663858	3804
+王世友		9		辽宁省	本溪市	https://www.benxi.gov.cn/ld	副市长		本溪市人民政府	https://www.benxi.gov.cn/ld/fsz/content_665818	3804
+潘政宗		10		辽宁省	本溪市	https://www.benxi.gov.cn/ld	秘书长		本溪市人民政府	https://www.benxi.gov.cn/ld/msz/content_754	3804

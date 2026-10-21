@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+宋福龙		1		全国		https://jxzx.jxnews.com.cn/ldjj/index.shtml	主席		江西省政协	https://jxzx.jxnews.com.cn/system/2025/01/19/020763866.shtml	1290
+陈俊卿		2		全国		https://jxzx.jxnews.com.cn/ldjj/index.shtml	副主席		江西省政协	https://jxzx.jxnews.com.cn/system/2023/04/27/020046074.shtml	1290
+谢茹		3		全国		https://jxzx.jxnews.com.cn/ldjj/index.shtml	副主席		江西省政协	https://jxzx.jxnews.com.cn/system/2023/04/27/020046106.shtml	1290
+卢天锡		4		全国		https://jxzx.jxnews.com.cn/ldjj/index.shtml	副主席		江西省政协	https://jxzx.jxnews.com.cn/system/2023/04/27/020046131.shtml	1290
+于秀明		5		全国		https://jxzx.jxnews.com.cn/ldjj/index.shtml	副主席		江西省政协	https://jxzx.jxnews.com.cn/system/2023/04/27/020046133.shtml	1290
+辜清		6		全国		https://jxzx.jxnews.com.cn/ldjj/index.shtml	副主席		江西省政协	https://jxzx.jxnews.com.cn/system/2023/04/27/020046135.shtml	1290
+徐忠		7		全国		https://jxzx.jxnews.com.cn/ldjj/index.shtml	副主席		江西省政协	https://jxzx.jxnews.com.cn/system/2026/01/30/031042810.shtml	1290
+杨伟东		8		全国		https://jxzx.jxnews.com.cn/ldjj/index.shtml	党组成员		江西省政协	https://jxzx.jxnews.com.cn/system/2025/12/22/031008911.shtml	1290
+刘文华		9		全国		https://jxzx.jxnews.com.cn/ldjj/index.shtml	秘书长		江西省政协	https://jxzx.jxnews.com.cn/system/2026/01/30/031042805.shtml	1290

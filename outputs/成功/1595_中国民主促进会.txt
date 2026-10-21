@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蔡达峰		1		全国		https://www.mj.org.cn/mjgk/mjzyxrldrjj/	主席		中国民主促进会	https://www.mj.org.cn/mjgk/mjzyxrldrjj/202504/t20250411_295430.htm	1595
+朱永新		2		全国		https://www.mj.org.cn/mjgk/mjzyxrldrjj/	常务副主席		中国民主促进会	https://www.mj.org.cn/mjgk/mjzyxrldrjj/202504/t20250411_295429.htm	1595
+王刚		3		全国		https://www.mj.org.cn/mjgk/mjzyxrldrjj/	副主席		中国民主促进会	https://www.mj.org.cn/mjgk/mjzyxrldrjj/202504/t20250411_295427.htm	1595
+陶凯元		4		全国		https://www.mj.org.cn/mjgk/mjzyxrldrjj/	副主席		中国民主促进会	https://www.mj.org.cn/mjgk/mjzyxrldrjj/202504/t20250411_295426.htm	1595
+庞丽娟		5		全国		https://www.mj.org.cn/mjgk/mjzyxrldrjj/	副主席		中国民主促进会	https://www.mj.org.cn/mjgk/mjzyxrldrjj/202504/t20250411_295425.htm	1595
+黄震		6		全国		https://www.mj.org.cn/mjgk/mjzyxrldrjj/	副主席		中国民主促进会	https://www.mj.org.cn/mjgk/mjzyxrldrjj/202504/t20250411_295424.htm	1595
+高友东		7		全国		https://www.mj.org.cn/mjgk/mjzyxrldrjj/	副主席		中国民主促进会	https://www.mj.org.cn/mjgk/mjzyxrldrjj/202504/t20250411_295423.htm	1595
+李玛琳		8		全国		https://www.mj.org.cn/mjgk/mjzyxrldrjj/	副主席		中国民主促进会	https://www.mj.org.cn/mjgk/mjzyxrldrjj/202504/t20250411_295422.htm	1595
+何志敏		9		全国		https://www.mj.org.cn/mjgk/mjzyxrldrjj/	副主席		中国民主促进会	https://www.mj.org.cn/mjgk/mjzyxrldrjj/202504/t20250411_295420.htm	1595

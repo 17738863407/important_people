@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙开连•0•0		1		山东省	济南市	https://www.jnzx.gov.cn/static/html_static/2026/01/21/1618484.html?from=516	主席		济南市政协		1193
+王京文•0•0		2		山东省	济南市	https://www.jnzx.gov.cn/static/html_static/2026/01/21/1618484.html?from=516	副主席		济南市政协		1193
+王伯芝•0•0		3		山东省	济南市	https://www.jnzx.gov.cn/static/html_static/2026/01/21/1618484.html?from=516	副主席		济南市政协		1193
+赵居安•0•0		4		山东省	济南市	https://www.jnzx.gov.cn/static/html_static/2026/01/21/1618484.html?from=516	副主席		济南市政协		1193
+刘勤•0•0		5		山东省	济南市	https://www.jnzx.gov.cn/static/html_static/2026/01/21/1618484.html?from=516	副主席		济南市政协		1193
+王建森•0•0		6		山东省	济南市	https://www.jnzx.gov.cn/static/html_static/2026/01/21/1618484.html?from=516	副主席		济南市政协		1193
+刘霞•0•0		7		山东省	济南市	https://www.jnzx.gov.cn/static/html_static/2026/01/21/1618484.html?from=516	副主席		济南市政协		1193
+姜明•0•0		8		山东省	济南市	https://www.jnzx.gov.cn/static/html_static/2026/01/21/1618484.html?from=516	副主席		济南市政协		1193
+李旭东•0•0		9		山东省	济南市	https://www.jnzx.gov.cn/static/html_static/2026/01/21/1618484.html?from=516	秘书长		济南市政协		1193

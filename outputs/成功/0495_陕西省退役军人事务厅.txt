@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孟小瓒		1		陕西省		https://dva.shaanxi.gov.cn/sy/jg/index.html	陕西省退役军人事务厅党组书记、厅长		陕西省退役军人事务厅	https://dva.shaanxi.gov.cn/sy/jg/ldxx/202609/t20260904_3674462.html	0495
+高巨会		2		陕西省		https://dva.shaanxi.gov.cn/sy/jg/index.html	陕西省退役军人事务厅党组成员、副厅长		陕西省退役军人事务厅	https://dva.shaanxi.gov.cn/sy/jg/ldxx/202409/t20240920_2616144.html	0495
+庄廷军		3		陕西省		https://dva.shaanxi.gov.cn/sy/jg/index.html	陕西省退役军人事务厅党组成员、副厅长		陕西省退役军人事务厅	https://dva.shaanxi.gov.cn/sy/jg/ldxx/202409/t20240920_2616141.html	0495
+杜鹏		4		陕西省		https://dva.shaanxi.gov.cn/sy/jg/index.html	陕西省退役军人事务厅党组成员、副厅长		陕西省退役军人事务厅	https://dva.shaanxi.gov.cn/sy/jg/ldxx/202601/t20260108_3603383.html	0495
+李曙升		5		陕西省		https://dva.shaanxi.gov.cn/sy/jg/index.html	陕西省退役军人事务厅党组成员、副厅长		陕西省退役军人事务厅	https://dva.shaanxi.gov.cn/sy/jg/ldxx/202606/t20260629_3651494.html	0495
+金小奇		6		陕西省		https://dva.shaanxi.gov.cn/sy/jg/index.html	陕西省退役军人事务厅二级巡视员		陕西省退役军人事务厅	https://dva.shaanxi.gov.cn/sy/jg/ldxx/202409/t20240905_2587223.html	0495

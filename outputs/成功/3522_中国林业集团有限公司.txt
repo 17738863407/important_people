@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+单忠立		1		全国		https://www.cfgc.cn/cfgc/gywm/gltd/dw/A149002002001Gone1.html	党委书记、董事长		中国林业集团有限公司		3522
+李留彬		2		全国		https://www.cfgc.cn/cfgc/gywm/gltd/dw/A149002002001Gone1.html	党委委员、副总经理		中国林业集团有限公司		3522
+梁中基		3		全国		https://www.cfgc.cn/cfgc/gywm/gltd/dw/A149002002001Gone1.html	党委委员、副总经理		中国林业集团有限公司		3522
+王迎财		4		全国		https://www.cfgc.cn/cfgc/gywm/gltd/dw/A149002002001Gone1.html	党委委员、总会计师		中国林业集团有限公司		3522
+王云飞		5		全国		https://www.cfgc.cn/cfgc/gywm/gltd/dw/A149002002001Gone1.html	党委委员、纪委书记		中国林业集团有限公司		3522
+翁文林		6		全国		https://www.cfgc.cn/cfgc/gywm/gltd/dw/A149002002001Gone1.html	党委委员、副总经理		中国林业集团有限公司		3522

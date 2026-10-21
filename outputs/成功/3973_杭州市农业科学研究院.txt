@@ -1,0 +1,6 @@
+﻿姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+程志强		1		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229833647/index.html	党组副书记、院长		杭州市农业科学研究院		3973
+林福平		2		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229833647/index.html	党组成员、副院长		杭州市农业科学研究院		3973
+何海强		3		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229833647/index.html	党组成员、副院长		杭州市农业科学研究院		3973
+郑军辉		4		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229833647/index.html	党组成员、副院长		杭州市农业科学研究院		3973
+严建立		5		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229833647/index.html	四级普通职员		杭州市农业科学研究院		3973

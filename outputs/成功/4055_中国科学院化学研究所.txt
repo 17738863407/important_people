@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王树		1		全国		https://ic.cas.cn/about/xrld/	所长		中国科学院化学研究所	https://ic.cas.cn/../../about/xrld/202307/t20230725_6950609.html	4055
+范青华		2		全国		https://ic.cas.cn/about/xrld/	党委书记、副所长		中国科学院化学研究所	https://ic.cas.cn/../../about/xrld/202307/t20230725_6950608.html	4055
+刘斌		3		全国		https://ic.cas.cn/about/xrld/	纪委书记		中国科学院化学研究所	https://ic.cas.cn/../../about/xrld/202307/t20230725_6950607.html	4055
+郑企雨		4		全国		https://ic.cas.cn/about/xrld/	副所长		中国科学院化学研究所	https://ic.cas.cn/../../about/xrld/202309/t20230921_6950606.html	4055
+周恒		5		全国		https://ic.cas.cn/about/xrld/	副所长		中国科学院化学研究所	https://ic.cas.cn/../../about/xrld/202407/t20240712_7218732.html	4055
+郭玉国		6		全国		https://ic.cas.cn/about/xrld/	所务委员		中国科学院化学研究所	https://ic.cas.cn/../../about/xrld/202407/t20240712_7218731.html	4055

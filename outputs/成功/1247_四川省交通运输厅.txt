@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄河		1		四川省		http://jtt.sc.gov.cn/jtt/c101516/zfxxgk_jgjj.shtml	四川省交通运输厅党组书记、厅长		四川省交通运输厅	http://jtt.sc.gov.cn/jtt/c112240/ldjs_huanghe.shtml	1247
+胡洪波		2		四川省		http://jtt.sc.gov.cn/jtt/c101516/zfxxgk_jgjj.shtml	四川省交通运输厅党组成员、副厅长		四川省交通运输厅	https://jtt.sc.gov.cn/jtt/c101498/ldjs_hhb.shtml	1247
+谭晓政		3		四川省		http://jtt.sc.gov.cn/jtt/c101516/zfxxgk_jgjj.shtml	四川省交通运输厅党组成员，副厅长		四川省交通运输厅	http://jtt.sc.gov.cn/jtt/c112554/ldjs_txz.shtml	1247
+王波		4		四川省		http://jtt.sc.gov.cn/jtt/c101516/zfxxgk_jgjj.shtml	四川省交通运输厅安全总监		四川省交通运输厅	http://jtt.sc.gov.cn/jtt/c101501/ldjs_wb.shtml	1247
+王茂奎		5		四川省		http://jtt.sc.gov.cn/jtt/c101516/zfxxgk_jgjj.shtml	四川省交通运输厅党组成员、副厅长		四川省交通运输厅	http://jtt.sc.gov.cn/jtt/c105802/ldjs_wmk.shtml	1247
+寇小兵		6		四川省		http://jtt.sc.gov.cn/jtt/c101516/zfxxgk_jgjj.shtml	四川省交通运输厅总规划师、一级巡视员		四川省交通运输厅	http://jtt.sc.gov.cn/jtt/c101507/ldjs_kxb.shtml	1247
+张贤翠		7		四川省		http://jtt.sc.gov.cn/jtt/c101516/zfxxgk_jgjj.shtml	四川省交通运输厅党组成员、副厅长、机关党委书记		四川省交通运输厅	http://jtt.sc.gov.cn/jtt/c107093/ldjs_zxc.shtml	1247
+覃建伟		8		四川省		http://jtt.sc.gov.cn/jtt/c101516/zfxxgk_jgjj.shtml	四川省交通运输厅副厅长		四川省交通运输厅	http://jtt.sc.gov.cn/jtt/c112215/ldjs_qjw.shtml	1247
+胡厚池		9		四川省		http://jtt.sc.gov.cn/jtt/c101516/zfxxgk_jgjj.shtml	四川省交通运输厅党组成员、副厅长		四川省交通运输厅	http://jtt.sc.gov.cn/jtt/c112248/ldjs_huhc.shtml	1247
+古亦杨		10		四川省		http://jtt.sc.gov.cn/jtt/c101516/zfxxgk_jgjj.shtml	驻厅纪检监察组组长，厅党组成员		四川省交通运输厅	http://jtt.sc.gov.cn/jtt/guyy/ldjs_guyy.shtml	1247
+邓良权		11		四川省		http://jtt.sc.gov.cn/jtt/c101516/zfxxgk_jgjj.shtml	四川省交通运输厅二级巡视员		四川省交通运输厅	http://jtt.sc.gov.cn/jtt/c107095/ldjs_dlq.shtml	1247
+周海宁		12		四川省		http://jtt.sc.gov.cn/jtt/c101516/zfxxgk_jgjj.shtml	四川省交通运输厅二级巡视员		四川省交通运输厅	http://jtt.sc.gov.cn/jtt/c112359/ldjs_zhn.shtml	1247

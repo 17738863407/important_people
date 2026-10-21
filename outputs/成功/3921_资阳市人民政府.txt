@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+颜磊		1		四川省	资阳市	https://www.ziyang.gov.cn/zysrmzf/zfld/pc/list.html	市长		资阳市人民政府	https://www.ziyang.gov.cn/zysrmzf/yl/pc/list.html	3921
+陈庆		2		四川省	资阳市	https://www.ziyang.gov.cn/zysrmzf/zfld/pc/list.html	副市长		资阳市人民政府	https://www.ziyang.gov.cn/zysrmzf/fsz/pc/content/content_2066318186893713408.html	3921
+罗道坤		3		四川省	资阳市	https://www.ziyang.gov.cn/zysrmzf/zfld/pc/list.html	副市长		资阳市人民政府	https://www.ziyang.gov.cn/zysrmzf/fsz/pc/content/content_1819372712187740160.html	3921
+林显奎		4		四川省	资阳市	https://www.ziyang.gov.cn/zysrmzf/zfld/pc/list.html	副市长		资阳市人民政府	https://www.ziyang.gov.cn/zysrmzf/fsz/pc/content/content_1819372731502510080.html	3921
+李发刚		5		四川省	资阳市	https://www.ziyang.gov.cn/zysrmzf/zfld/pc/list.html	副市长		资阳市人民政府	https://www.ziyang.gov.cn/zysrmzf/fsz/pc/content/content_1876480534246895616.html	3921
+刘建华		6		四川省	资阳市	https://www.ziyang.gov.cn/zysrmzf/zfld/pc/list.html	副市长		资阳市人民政府	https://www.ziyang.gov.cn/zysrmzf/fsz/pc/content/content_1935136446286733312.html	3921
+龙太钦		7		四川省	资阳市	https://www.ziyang.gov.cn/zysrmzf/zfld/pc/list.html	副市长		资阳市人民政府	https://www.ziyang.gov.cn/zysrmzf/fsz/pc/content/content_2083135963925245952.html	3921
+赵钢		8		四川省	资阳市	https://www.ziyang.gov.cn/zysrmzf/zfld/pc/list.html	秘书长		资阳市人民政府	https://www.ziyang.gov.cn/zysrmzf/msz/pc/content/content_1879790010234372096.html	3921

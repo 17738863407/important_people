@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+阳向东		1		贵州省		https://whhly.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/ldzc_5978033/	省文化和旅游厅党组书记、厅长（省文物局局长），省委宣传部副部长（兼）		贵州省文化和旅游厅	https://whhly.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/ldzc_5978033/202507/t20250722_88319127.html	2866
+张勇		2		贵州省		https://whhly.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/ldzc_5978033/	省文化和旅游厅党组成员、省文物事业发展中心主任		贵州省文化和旅游厅	https://whhly.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/ldzc_5978033/202503/t20250317_87184903.html	2866
+卢涛		3		贵州省		https://whhly.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/ldzc_5978033/	省文化和旅游厅党组成员、省纪委省监委派驻省文化和旅游厅纪检监察组组长		贵州省文化和旅游厅	https://whhly.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/ldzc_5978033/202503/t20250317_87184909.html	2866
+王建华		4		贵州省		https://whhly.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/ldzc_5978033/	省文化和旅游厅（省文物局）副厅长（副局长）		贵州省文化和旅游厅	https://whhly.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/ldzc_5978033/202606/t20260622_90545334.html	2866
+何军		5		贵州省		https://whhly.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/ldzc_5978033/	省文化和旅游厅党组成员、副厅长（挂职）		贵州省文化和旅游厅	https://whhly.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/ldzc_5978033/202601/t20260115_89302519.html	2866
+王竹		6		贵州省		https://whhly.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/ldzc_5978033/	省文化和旅游厅党组成员、省文化和旅游厅（省文物局）副厅长（副局长）		贵州省文化和旅游厅	https://whhly.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/ldzc_5978033/202608/t20260817_90738676.html	2866
+邹晓风		7		贵州省		https://whhly.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/ldzc_5978033/	省文化和旅游厅党组成员、省文化和旅游厅（省文物局）副厅长（副局长）		贵州省文化和旅游厅	https://whhly.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/ldzc_5978033/202608/t20260817_90738669.html	2866
+袁伟		8		贵州省		https://whhly.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/ldzc_5978033/	一级巡视员		贵州省文化和旅游厅	https://whhly.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/ldzc_5978033/202503/t20250317_87184905.html	2866
+史静一		9		贵州省		https://whhly.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/ldzc_5978033/	二级巡视员（保留副厅长级）		贵州省文化和旅游厅	https://whhly.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/ldzc_5978033/202503/t20250317_87184904.html	2866

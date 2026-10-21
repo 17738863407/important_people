@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘忠		1		重庆市		https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/	党组书记、局长		重庆市水利局	https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/fzrxx/lz/202501/t20250123_14202611.html	2478
+秦敏		2		重庆市		https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/	党组成员、副局长		重庆市水利局	https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/fzrxx/qm/202606/t20260604_15727381.html	2478
+卢峰		3		重庆市		https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/	党组成员、副局长		重庆市水利局	https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/fzrxx/lf/201912/t20191221_2199579.html	2478
+贾爱珍		4		重庆市		https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/	党组成员、市纪委监委驻市水利局纪检监察组组长		重庆市水利局	https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/fzrxx/jaz/202207/t20220728_10960584.html	2478
+黄明忠		5		重庆市		https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/	党组成员、副局长		重庆市水利局	https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/fzrxx/hmz/202111/t20211103_9922205.html	2478
+王卫国		6		重庆市		https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/	党组成员、副局长		重庆市水利局	https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/fzrxx/wwg/202408/t20240823_13549551.html	2478
+宋刚勇		7		重庆市		https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/	党组成员、副局长		重庆市水利局	https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/fzrxx/sgy/202504/t20250410_14509722.html	2478
+殷平顺		8		重庆市		https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/	党组成员、副局长		重庆市水利局	https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/fzrxx/yps/202604/t20260428_15640240.html	2478
+谢飞		9		重庆市		https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/	一级总监		重庆市水利局	https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/fzrxx/xf/201912/t20191221_2198929.html	2478
+罗治洪		10		重庆市		https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/	一级总监		重庆市水利局	https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/fzrxx/lzh/201912/t20191221_2200133.html	2478
+刘力新		11		重庆市		https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/	二级总监		重庆市水利局	https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/fzrxx/llx/201912/t20191221_2200657.html	2478
+刘家明		12		重庆市		https://slj.cq.gov.cn/zwgk_250/fdzdgknr/jgzn/	二级总监		重庆市水利局	https://slj.cq.gov.cn/zwgk_250/ldxx/ljm/201912/t20191221_2201072.html	2478

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周诚君		1		江苏省		https://nanjing.pbc.gov.cn/nanjing/2908467/index.html	中国人民银行江苏省分行党委书记、行长，国家外汇管理局江苏省分局局长		中国人民银行江苏省分行		4016
+唐志新		2		江苏省		https://nanjing.pbc.gov.cn/nanjing/2908467/index.html	中国人民银行江苏省分行党委委员、副行长		中国人民银行江苏省分行		4016
+陈小梅		3		江苏省		https://nanjing.pbc.gov.cn/nanjing/2908467/index.html	中国人民银行江苏省分行党委委员、工会主席		中国人民银行江苏省分行		4016
+李京阳		4		江苏省		https://nanjing.pbc.gov.cn/nanjing/2908467/index.html	中国人民银行江苏省分行党委委员、纪委书记		中国人民银行江苏省分行		4016
+戴俊		5		江苏省		https://nanjing.pbc.gov.cn/nanjing/2908467/index.html	中国人民银行江苏省分行党委委员、副行长，国家外汇管理局江苏省分局副局长		中国人民银行江苏省分行		4016
+陈涤非		6		江苏省		https://nanjing.pbc.gov.cn/nanjing/2908467/index.html	中国人民银行江苏省分行党委委员、副行长		中国人民银行江苏省分行		4016

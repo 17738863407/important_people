@@ -1,0 +1,2 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+		1		江西省		https://yjglt.jiangxi.gov.cn/jxsyjglt/col/col37601/index.html	抽取失败：HTTPSConnectionPool(host='yjglt.jiangxi.gov.cn', port=443): Max retries exceeded with url: /jxsyjglt/col/col37601/index.html (Caused by NewConnectionError("HTTPSConnection(host='yjglt.jiangxi.gov.cn', port=443): Failed to establish a new connection: [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。"))		江西省应急管理厅		3212

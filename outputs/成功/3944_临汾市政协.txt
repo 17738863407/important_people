@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郝忠祥		1		山西省	临汾市	http://www.lfzx.gov.cn/plus/list.php?tid=9	主席		临汾市政协	http://www.lfzx.gov.cn/a/zhengxiejianjie/zhengxielingdao/2020/0115/107.html	3944
+任耀文		2		山西省	临汾市	http://www.lfzx.gov.cn/plus/list.php?tid=9	副主席		临汾市政协	http://www.lfzx.gov.cn/a/zhengxiejianjie/zhengxielingdao/2020/0520/193.html	3944
+杨忠华		3		山西省	临汾市	http://www.lfzx.gov.cn/plus/list.php?tid=9	副主席		临汾市政协	http://www.lfzx.gov.cn/a/zhengxiejianjie/zhengxielingdao/2020/0115/108.html	3944
+王阿家		4		山西省	临汾市	http://www.lfzx.gov.cn/plus/list.php?tid=9	副主席		临汾市政协	http://www.lfzx.gov.cn/a/zhengxiejianjie/zhengxielingdao/2020/0104/106.html	3944
+蔡志强		5		山西省	临汾市	http://www.lfzx.gov.cn/plus/list.php?tid=9	副主席		临汾市政协	http://www.lfzx.gov.cn/a/zhengxiejianjie/zhengxielingdao/2020/0104/105.html	3944
+张瑞萍		6		山西省	临汾市	http://www.lfzx.gov.cn/plus/list.php?tid=9	副主席		临汾市政协	http://www.lfzx.gov.cn/a/zhengxiejianjie/zhengxielingdao/2020/0520/194.html	3944
+张重辉		7		山西省	临汾市	http://www.lfzx.gov.cn/plus/list.php?tid=9	副主席		临汾市政协	http://www.lfzx.gov.cn/a/zhengxiejianjie/zhengxielingdao/2020/0115/110.html	3944
+李俊平		8		山西省	临汾市	http://www.lfzx.gov.cn/plus/list.php?tid=9	副主席		临汾市政协	http://www.lfzx.gov.cn/a/zhengxiejianjie/zhengxielingdao/2020/0115/109.html	3944
+曹樯		9		山西省	临汾市	http://www.lfzx.gov.cn/plus/list.php?tid=9	秘书长		临汾市政协	http://www.lfzx.gov.cn/a/zhengxiejianjie/zhengxielingdao/2020/0313/135.html	3944

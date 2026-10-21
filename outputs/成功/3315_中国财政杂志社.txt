@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+靳俐		1		全国		https://www.zgcznet.com/xxdt/bsfm/ldjj/index.html	中国财政杂志社党委书记、社长		中国财政杂志社	https://www.zgcznet.com/xxdt/bsfm/ldjj/202603/20260302/j_2026030214422300017724338767278664.html	3315
+朱安明		2		全国		https://www.zgcznet.com/xxdt/bsfm/ldjj/index.html	中国财政杂志社党委委员、副社长		中国财政杂志社	https://www.zgcznet.com/xxdt/bsfm/ldjj/202607/20260706/j_2026070611082500017833074384817207.html	3315
+赵登发		3		全国		https://www.zgcznet.com/xxdt/bsfm/ldjj/index.html	中国财政杂志社党委委员、纪委书记		中国财政杂志社	https://www.zgcznet.com/xxdt/bsfm/ldjj/202307/20230726/j_2023072615280500016903566179137861.html	3315
+闫秀丽		4		全国		https://www.zgcznet.com/xxdt/bsfm/ldjj/index.html	中国财政杂志社党委委员、副社长		中国财政杂志社	https://www.zgcznet.com/xxdt/bsfm/ldjj/202501/20250124/j_2025012414452900017377012625998268.html	3315

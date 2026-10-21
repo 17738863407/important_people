@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+廖文彬		1		四川省	雅安市	https://www.yaan.gov.cn/leader.html	市委书记		雅安市委	https://www.yaan.gov.cn/leader/detail/b718c611df12b4fc8eb292a9ae13bd7a.html	3782
+黎明		2		四川省	雅安市	https://www.yaan.gov.cn/leader.html	市委副书记，市政府市长、党组书记		雅安市委	https://www.yaan.gov.cn/leader/detail/156b508b-0967-4126-b4b6-c5de1d994217.html	3782
+张大奇		3		四川省	雅安市	https://www.yaan.gov.cn/leader.html	市委常委、组织部部长		雅安市委	https://www.yaan.gov.cn/leader/detail/305f4652187748f55f36e2421dab193b.html	3782
+李蓉		4		四川省	雅安市	https://www.yaan.gov.cn/leader.html	市委常委、统战部部长，市总工会主席		雅安市委	https://www.yaan.gov.cn/leader/detail/d97ed3018035b2cca7f1736da27d9cfb.html	3782
+杨庆利		5		四川省	雅安市	https://www.yaan.gov.cn/leader.html	市委常委、雅安军分区大校政治委员		雅安市委	https://www.yaan.gov.cn/leader/detail/13d4b88999616e7f0771ff9ae54125fe.html	3782
+何连俊		6		四川省	雅安市	https://www.yaan.gov.cn/leader.html	市委常委，市国资委党委书记		雅安市委	https://www.yaan.gov.cn/leader/detail/170ff7be801e8491da02964ed6d3882e.html	3782
+陈万见		7		四川省	雅安市	https://www.yaan.gov.cn/leader.html	市委常委，市政府常务副市长、党组副书记		雅安市委	https://www.yaan.gov.cn/leader/detail/397c37199a099ecd19479ab6112a7afe.html	3782
+龚兵		8		四川省	雅安市	https://www.yaan.gov.cn/leader.html	市委常委、秘书长，雅安经济技术开发区党工委书记		雅安市委	https://www.yaan.gov.cn/leader/detail/32bc7751ab7c968a7679b027eaf79429.html	3782
+熊启然		9		四川省	雅安市	https://www.yaan.gov.cn/leader.html	市委常委、市纪委书记、市监委主任		雅安市委	https://www.yaan.gov.cn/leader/detail/5a00a84ecf04431338a86add1c81f279.html	3782
+戴思国		10		四川省	雅安市	https://www.yaan.gov.cn/leader.html	市委常委，市政府副市长、党组成员		雅安市委	https://www.yaan.gov.cn/leader/detail/751539d5edf18fb2b94f66f8cfec3612.html	3782

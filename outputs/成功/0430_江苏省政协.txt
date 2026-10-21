@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张义珍		1		全国		http://district.ce.cn/zt/rwk/sf/js/zx/201302/26/t20130226_770864.shtml	主席		江苏省政协	http://district.ce.cn/newarea/sddy/202201/22/t20220122_37279836.shtml	0430
+杨岳		2		全国		http://district.ce.cn/zt/rwk/sf/js/zx/201302/26/t20130226_770864.shtml	副主席		江苏省政协	http://district.ce.cn/newarea/sddy/202301/18/t20230118_38354728_1.shtml	0430
+韩立明		3		全国		http://district.ce.cn/zt/rwk/sf/js/zx/201302/26/t20130226_770864.shtml	副主席		江苏省政协	http://district.ce.cn/newarea/sddy/202501/21/t20250121_39273585.shtml	0430
+惠建林		4		全国		http://district.ce.cn/zt/rwk/sf/js/zx/201302/26/t20130226_770864.shtml	副主席		江苏省政协	http://district.ce.cn/newarea/sddy/202401/25/t20240125_38881042.shtml	0430
+洪慧民		5		全国		http://district.ce.cn/zt/rwk/sf/js/zx/201302/26/t20130226_770864.shtml	副主席		江苏省政协	http://district.ce.cn/newarea/sddy/202301/18/t20230118_38354728_2.shtml	0430
+胡刚		6		全国		http://district.ce.cn/zt/rwk/sf/js/zx/201302/26/t20130226_770864.shtml	副主席		江苏省政协	http://district.ce.cn/newarea/sddy/202301/18/t20230118_38354728_3.shtml	0430
+姚晓东		7		全国		http://district.ce.cn/zt/rwk/sf/js/zx/201302/26/t20130226_770864.shtml	副主席		江苏省政协	http://district.ce.cn/newarea/sddy/202301/18/t20230118_38354728_4.shtml	0430
+方伟		8		全国		http://district.ce.cn/zt/rwk/sf/js/zx/201302/26/t20130226_770864.shtml	副主席		江苏省政协	http://district.ce.cn/newarea/sddy/202501/21/t20250121_39273585.shtml	0430
+张乐夫		9		全国		http://district.ce.cn/zt/rwk/sf/js/zx/201302/26/t20130226_770864.shtml	副主席		江苏省政协	http://district.ce.cn/newarea/sddy/202301/18/t20230118_38354728_6.shtml	0430
+周岚		10		全国		http://district.ce.cn/zt/rwk/sf/js/zx/201302/26/t20130226_770864.shtml	副主席		江苏省政协	http://district.ce.cn/newarea/sddy/202301/18/t20230118_38354728_7.shtml	0430
+马余强		11		全国		http://district.ce.cn/zt/rwk/sf/js/zx/201302/26/t20130226_770864.shtml	副主席		江苏省政协	http://district.ce.cn/newarea/sddy/202301/18/t20230118_38354728_8.shtml	0430

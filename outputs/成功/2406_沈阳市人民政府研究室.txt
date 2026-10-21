@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+付长宇		1		辽宁省	沈阳市	https://www.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmzn/202111/t20211102_619903.html	党组书记、主任		沈阳市人民政府研究室		2406
+李奇峰		2		辽宁省	沈阳市	https://www.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmzn/202111/t20211102_619903.html	党组成员、副主任		沈阳市人民政府研究室		2406
+杨书勇		3		辽宁省	沈阳市	https://www.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmzn/202111/t20211102_619903.html	党组成员、副主任		沈阳市人民政府研究室		2406
+张健		4		辽宁省	沈阳市	https://www.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmzn/202111/t20211102_619903.html	党组成员、副主任		沈阳市人民政府研究室		2406

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马文杰		1		青海省	西宁市	https://www.qh.jcy.gov.cn/c/xn/xnjgsz1.jhtml	党组书记、检察长		西宁市人民检察院	https://www.qh.jcy.gov.cn/c/xn/xnjgsz1/61888.jhtml	4412
+同青权		2		青海省	西宁市	https://www.qh.jcy.gov.cn/c/xn/xnjgsz1.jhtml	检委会专职委员		西宁市人民检察院	https://www.qh.jcy.gov.cn/c/xn/xnjgsz1/66101.jhtml	4412
+李昊德		3		青海省	西宁市	https://www.qh.jcy.gov.cn/c/xn/xnjgsz1.jhtml	党组成员、副检察长		西宁市人民检察院	https://www.qh.jcy.gov.cn/c/xn/xnjgsz1/66100.jhtml	4412
+苏庆青		4		青海省	西宁市	https://www.qh.jcy.gov.cn/c/xn/xnjgsz1.jhtml	检委会专职检委		西宁市人民检察院	https://www.qh.jcy.gov.cn/c/xn/xnjgsz1/61893.jhtml	4412
+袭凤青		5		青海省	西宁市	https://www.qh.jcy.gov.cn/c/xn/xnjgsz1.jhtml	党组成员、政治部主任		西宁市人民检察院	https://www.qh.jcy.gov.cn/c/xn/xnjgsz1/61892.jhtml	4412
+王虹		6		青海省	西宁市	https://www.qh.jcy.gov.cn/c/xn/xnjgsz1.jhtml	党组成员、副检察长		西宁市人民检察院	https://www.qh.jcy.gov.cn/c/xn/xnjgsz1/61891.jhtml	4412
+兰茜		7		青海省	西宁市	https://www.qh.jcy.gov.cn/c/xn/xnjgsz1.jhtml	党组成员、副检察长		西宁市人民检察院	https://www.qh.jcy.gov.cn/c/xn/xnjgsz1/61890.jhtml	4412
+谭志轶		8		青海省	西宁市	https://www.qh.jcy.gov.cn/c/xn/xnjgsz1.jhtml	党组副书记、副检察长		西宁市人民检察院	https://www.qh.jcy.gov.cn/c/xn/xnjgsz1/61889.jhtml	4412

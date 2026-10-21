@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄国彦		1		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=23	郑州市城市管理局（郑州市城市综合执法局）党组书记、局长		郑州市城市管理局	https://public.zhengzhou.gov.cn/D14Y/6963820.jhtml	2083
+张建彬		2		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=23	党组成员、副局长		郑州市城市管理局	https://public.zhengzhou.gov.cn/D14Y/177397.jhtml	2083
+张祎		3		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=23	党组成员、副局长		郑州市城市管理局	https://public.zhengzhou.gov.cn/D14Y/5995216.jhtml	2083
+刘德富		4		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=23	党组成员、一级调研员		郑州市城市管理局	https://public.zhengzhou.gov.cn/D14Y/6963840.jhtml	2083
+李新渠		5		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=23	党组成员、派驻纪检监察组组长		郑州市城市管理局	https://public.zhengzhou.gov.cn/D14Y/8449695.jhtml	2083
+董连江		6		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=23	党组成员、副局长		郑州市城市管理局	https://public.zhengzhou.gov.cn/D14Y/8875741.jhtml	2083
+李雪生		7		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=23	二级巡视员		郑州市城市管理局	https://public.zhengzhou.gov.cn/D14Y/248654.jhtml	2083
+韩永进		8		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=23	一级调研员		郑州市城市管理局	https://public.zhengzhou.gov.cn/D14Y/142264.jhtml	2083
+李伟民		9		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=23	一级调研员		郑州市城市管理局	https://public.zhengzhou.gov.cn/D14Y/7825643.jhtml	2083
+杨卫民		10		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=23	三级调研员		郑州市城市管理局	https://public.zhengzhou.gov.cn/D14Y/318759.jhtml	2083

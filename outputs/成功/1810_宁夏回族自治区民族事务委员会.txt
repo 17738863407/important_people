@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨继宏		1		宁夏回族自治区		https://mzzj.nx.gov.cn/zwgk/zfxxgkml/ldjj/	自治区民委党组书记、主任		宁夏回族自治区民族事务委员会	https://mzzj.nx.gov.cn/zwgk/zfxxgkml/ldjj/202006/t20200628_2147325.html	1810
+张惠琴		2		宁夏回族自治区		https://mzzj.nx.gov.cn/zwgk/zfxxgkml/ldjj/	自治区民委党组成员、副主任		宁夏回族自治区民族事务委员会	https://mzzj.nx.gov.cn/zwgk/zfxxgkml/ldjj/201912/t20191212_1882410.html	1810
+马小涛		3		宁夏回族自治区		https://mzzj.nx.gov.cn/zwgk/zfxxgkml/ldjj/	自治区民委党组成员、副主任		宁夏回族自治区民族事务委员会	https://mzzj.nx.gov.cn/zwgk/zfxxgkml/ldjj/202606/t20260609_5260132.html	1810
+马振林		4		宁夏回族自治区		https://mzzj.nx.gov.cn/zwgk/zfxxgkml/ldjj/	自治区民委一级巡视员		宁夏回族自治区民族事务委员会	https://mzzj.nx.gov.cn/zwgk/zfxxgkml/ldjj/202606/t20260609_5260139.html	1810
+杨浩		5		宁夏回族自治区		https://mzzj.nx.gov.cn/zwgk/zfxxgkml/ldjj/	自治区民委二级巡视员		宁夏回族自治区民族事务委员会	https://mzzj.nx.gov.cn/zwgk/zfxxgkml/ldjj/202303/t20230315_3995731.html	1810

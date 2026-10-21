@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+罗东川		1		全国		http://www.qinghai.gov.cn/zwgk/ldzc/	省长		青海省人民政府	http://www.qinghai.gov.cn/zwgk/ldzc/ldc/jj/index.shtml	2165
+张锦刚		2		全国		http://www.qinghai.gov.cn/zwgk/ldzc/	副省长		青海省人民政府	http://www.qinghai.gov.cn/zwgk/ldzc/zjg/jj/index.shtml	2165
+刘涛		3		全国		http://www.qinghai.gov.cn/zwgk/ldzc/	副省长		青海省人民政府	http://www.qinghai.gov.cn/zwgk/ldzc/liutao/jj/index.html	2165
+杨志文		4		全国		http://www.qinghai.gov.cn/zwgk/ldzc/	副省长		青海省人民政府	http://www.qinghai.gov.cn/zwgk/ldzc/yangzhiwen/jj/index.html	2165
+刘超		5		全国		http://www.qinghai.gov.cn/zwgk/ldzc/	副省长		青海省人民政府	http://www.qinghai.gov.cn/zwgk/ldzc/liuchao/jj/index.html	2165
+李宏亚		6		全国		http://www.qinghai.gov.cn/zwgk/ldzc/	副省长		青海省人民政府	http://www.qinghai.gov.cn/zwgk/ldzc/lihongya/jj/index.html	2165
+王海红		7		全国		http://www.qinghai.gov.cn/zwgk/ldzc/	副省长		青海省人民政府	http://www.qinghai.gov.cn/zwgk/ldzc/wanghaihong/jj/index.html	2165
+程基伟		8		全国		http://www.qinghai.gov.cn/zwgk/ldzc/	副省长		青海省人民政府	http://www.qinghai.gov.cn/zwgk/ldzc/cjw/jj/index.shtml	2165
+苏全仁		9		全国		http://www.qinghai.gov.cn/zwgk/ldzc/	秘书长		青海省人民政府	http://www.qinghai.gov.cn/zwgk/ldzc/suquanren/jj/index.html	2165

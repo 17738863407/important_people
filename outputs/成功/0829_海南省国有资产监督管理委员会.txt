@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马咏华		1		海南省		https://gzw.hainan.gov.cn/jbxxgk/	党委书记、主任		海南省国有资产监督管理委员会	https://gzw.hainan.gov.cn/jbxxgk/ldxx/wld/202004/t20200430_2783105.html	0829
+陈文平		2		海南省		https://gzw.hainan.gov.cn/jbxxgk/	党委副书记（正厅级）		海南省国有资产监督管理委员会	https://gzw.hainan.gov.cn/jbxxgk/ldxx/wld/202601/t20260127_4017532.html	0829
+申琦		3		海南省		https://gzw.hainan.gov.cn/jbxxgk/	党委委员、副主任		海南省国有资产监督管理委员会	https://gzw.hainan.gov.cn/jbxxgk/ldxx/wld/202307/t20230718_3456186.html	0829
+吴亚梅		4		海南省		https://gzw.hainan.gov.cn/jbxxgk/	党委委员、副主任		海南省国有资产监督管理委员会	https://gzw.hainan.gov.cn/jbxxgk/ldxx/wld/202311/t20231124_3534617.html	0829
+李伟		5		海南省		https://gzw.hainan.gov.cn/jbxxgk/	党委委员、副主任		海南省国有资产监督管理委员会	https://gzw.hainan.gov.cn/jbxxgk/ldxx/wld/202508/t20250813_3912304.html	0829
+李知洋		6		海南省		https://gzw.hainan.gov.cn/jbxxgk/	党委委员		海南省国有资产监督管理委员会	https://gzw.hainan.gov.cn/jbxxgk/ldxx/wld/202512/t20251202_3981362.html	0829
+阮联森		7		海南省		https://gzw.hainan.gov.cn/jbxxgk/	二级巡视员		海南省国有资产监督管理委员会	https://gzw.hainan.gov.cn/jbxxgk/ldxx/wld/202510/t20251020_3949444.html	0829
+武军		8		海南省		https://gzw.hainan.gov.cn/jbxxgk/	二级巡视员		海南省国有资产监督管理委员会	https://gzw.hainan.gov.cn/jbxxgk/ldxx/wld/202603/t20260303_4035334.html	0829

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+庄荣文		1		全国		https://www.cac.gov.cn/wxzw/bgs/bld/A09370101index_1.htm	主任		中央网络安全和信息化委员会办公室（国家互联网信息办公室）	https://www.cac.gov.cn/wxzw/bgs/bld/zrw/A0937010101index_1.htm	0126
+王京涛		2		全国		https://www.cac.gov.cn/wxzw/bgs/bld/A09370101index_1.htm	副主任		中央网络安全和信息化委员会办公室（国家互联网信息办公室）	https://www.cac.gov.cn/wxzw/bgs/bld/wjt/A0937010107index_1.htm	0126
+杨建文		3		全国		https://www.cac.gov.cn/wxzw/bgs/bld/A09370101index_1.htm	副主任		中央网络安全和信息化委员会办公室（国家互联网信息办公室）	https://www.cac.gov.cn/wxzw/bgs/bld/yjw/A0937010108index_1.htm	0126
+李长喜		4		全国		https://www.cac.gov.cn/wxzw/bgs/bld/A09370101index_1.htm	副主任		中央网络安全和信息化委员会办公室（国家互联网信息办公室）	https://www.cac.gov.cn/wxzw/bgs/bld/lcx/A0937010109index_1.htm	0126
+张拥军		5		全国		https://www.cac.gov.cn/wxzw/bgs/bld/A09370101index_1.htm	副主任		中央网络安全和信息化委员会办公室（国家互联网信息办公室）	https://www.cac.gov.cn/wxzw/bgs/bld/zyj/A0937010110index_1.htm	0126

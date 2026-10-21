@@ -1,0 +1,4 @@
+﻿姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+段圭晴		1		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/rsj/gzjg/ldxx/index.html	常宁市人社局党组成员、副局长		常宁市人力资源和社会保障局	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/rsj/gzjg/ldxx/20260105/i3844832.html	4440
+唐晓霞		2		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/rsj/gzjg/ldxx/index.html	常宁市人社局副局长		常宁市人力资源和社会保障局	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/rsj/gzjg/ldxx/20260105/i3844830.html	4440
+刘海涛		3		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/rsj/gzjg/ldxx/index.html	常宁市人社局党组成员		常宁市人力资源和社会保障局	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/rsj/gzjg/ldxx/20260105/i3844822.html	4440

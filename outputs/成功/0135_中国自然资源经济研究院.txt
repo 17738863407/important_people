@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+白星碧		1		全国		http://www.canre.org.cn/dwgk/dwld.htm	党委书记、院长		中国自然资源经济研究院		0135
+贾文龙		2		全国		http://www.canre.org.cn/dwgk/dwld.htm	党委委员、副院长		中国自然资源经济研究院		0135
+吴尚昆		3		全国		http://www.canre.org.cn/dwgk/dwld.htm	党委委员、副院长		中国自然资源经济研究院		0135
+高兵		4		全国		http://www.canre.org.cn/dwgk/dwld.htm	党委委员、副院长		中国自然资源经济研究院		0135
+左永召		5		全国		http://www.canre.org.cn/dwgk/dwld.htm	党委委员、纪委书记		中国自然资源经济研究院		0135
+姜开勤		6		全国		http://www.canre.org.cn/dwgk/dwld.htm	党委委员、副院长		中国自然资源经济研究院		0135

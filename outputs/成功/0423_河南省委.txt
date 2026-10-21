@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周祖翼		1		全国		http://district.ce.cn/zt/rwk/sf/ha/index.shtml	省委书记		河南省委	http://district.ce.cn/newarea/sddy/202609/t20260923_3232336.shtml	0423
+王陆进		2		全国		http://district.ce.cn/zt/rwk/sf/ha/index.shtml	省委副书记、代省长		河南省委	http://district.ce.cn/newarea/sddy/202609/t20260924_3234265.shtml	0423
+张巍		3		全国		http://district.ce.cn/zt/rwk/sf/ha/index.shtml	省委副书记、政法委书记、省委教育工委书记		河南省委	http://district.ce.cn/newarea/sddy/202507/t20250731_2426636.shtml	0423
+安伟		4		全国		http://district.ce.cn/zt/rwk/sf/ha/index.shtml	省委常委		河南省委	http://district.ce.cn/newarea/sddy/202609/t20260911_3208152.shtml	0423
+秦国文		5		全国		http://district.ce.cn/zt/rwk/sf/ha/index.shtml	省委常委、省纪委书记，省监委主任		河南省委	http://district.ce.cn/newarea/sddy/202508/t20250822_2451232.shtml	0423
+王刚		6		全国		http://district.ce.cn/zt/rwk/sf/ha/index.shtml	省委常委、组织部部长		河南省委	http://district.ce.cn/newarea/sddy/202305/09/t20230509_38537426.shtml	0423
+张雷明		7		全国		http://district.ce.cn/zt/rwk/sf/ha/index.shtml	省委常委、统战部部长		河南省委	http://district.ce.cn/newarea/sddy/202212/27/t20221227_38310358.shtml	0423
+赵钧		8		全国		http://district.ce.cn/zt/rwk/sf/ha/index.shtml	省委常委、省军区少将司令员		河南省委	http://district.ce.cn/newarea/sddy/202405/11/t20240511_38999528.shtml	0423
+张敏		9		全国		http://district.ce.cn/zt/rwk/sf/ha/index.shtml	省委常委，副省长、省政府党组副书记		河南省委	http://district.ce.cn/newarea/sddy/202405/24/t20240524_39014858.shtml	0423
+王崧		10		全国		http://district.ce.cn/zt/rwk/sf/ha/index.shtml	省委常委、宣传部部长、郑州市委书记		河南省委	http://district.ce.cn/newarea/sddy/202609/t20260911_3208152.shtml	0423
+陈春江		11		全国		http://district.ce.cn/zt/rwk/sf/ha/index.shtml	省委常委、洛阳市委书记		河南省委	http://district.ce.cn/newarea/sddy/202510/t20251020_2527360.shtml	0423
+李涛		12		全国		http://district.ce.cn/zt/rwk/sf/ha/index.shtml	省委常委、省委秘书长		河南省委	http://district.ce.cn/newarea/sddy/202606/t20260625_3051847.shtml	0423

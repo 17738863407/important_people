@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王同奇		1		北京市		https://www.cup.edu.cn/xxgk/xld/index.htm	党委书记；党委常委		中国石油大学（北京）	https://www.cup.edu.cn/xxgk/xld/dwsj/wangtq.htm	3615
+金衍		2		北京市		https://www.cup.edu.cn/xxgk/xld/index.htm	党委副书记；党委常委；校长		中国石油大学（北京）	https://www.cup.edu.cn/xxgk/xld/dwfsj/jinyan.htm	3615
+蒲俊霖		3		北京市		https://www.cup.edu.cn/xxgk/xld/index.htm	党委副书记；党委常委		中国石油大学（北京）	https://www.cup.edu.cn/xxgk/xld/dwfsj/pujl.htm	3615
+吉昌华		4		北京市		https://www.cup.edu.cn/xxgk/xld/index.htm	党委副书记；纪委书记；党委常委		中国石油大学（北京）	https://www.cup.edu.cn/xxgk/xld/dwfsj/dc1ad50bd73e4661aed6153210a1545a.htm	3615
+刘植昌		5		北京市		https://www.cup.edu.cn/xxgk/xld/index.htm	党委常委；副校长		中国石油大学（北京）	https://www.cup.edu.cn/xxgk/xld/dwcw/liuzc.htm	3615
+张广清		6		北京市		https://www.cup.edu.cn/xxgk/xld/index.htm	党委常委；副校长		中国石油大学（北京）	https://www.cup.edu.cn/xxgk/xld/dwcw/zhanggq.htm	3615
+李景叶		7		北京市		https://www.cup.edu.cn/xxgk/xld/index.htm	党委常委；副校长		中国石油大学（北京）	https://www.cup.edu.cn/xxgk/xld/dwcw/lijy.htm	3615
+黄磊		8		北京市		https://www.cup.edu.cn/xxgk/xld/index.htm	党委常委；副校长		中国石油大学（北京）	https://www.cup.edu.cn/xxgk/xld/dwcw/huangl.htm	3615
+李军		9		北京市		https://www.cup.edu.cn/xxgk/xld/index.htm	党委常委；副校长		中国石油大学（北京）	https://www.cup.edu.cn/xxgk/xld/dwcw/lijun.htm	3615
+李丽平		10		北京市		https://www.cup.edu.cn/xxgk/xld/index.htm	党委常委		中国石油大学（北京）	https://www.cup.edu.cn/xxgk/xld/dwcw/index.htm	3615

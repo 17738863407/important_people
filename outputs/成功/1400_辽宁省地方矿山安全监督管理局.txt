@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于海峰		1		辽宁省		https://ksaq.ln.gov.cn/mkaq/zfxxgk/fdzdgknr/jgjj/index.shtml	省应急管理厅党委委员，省地方矿山安全监督管理局党组书记、局长		辽宁省地方矿山安全监督管理局	https://ksaq.ln.gov.cn/mkaq/zfxxgk/fdzdgknr/jgjj/bmld/dmz/2022122816103661118/index.shtml	1400
+谭灏		2		辽宁省		https://ksaq.ln.gov.cn/mkaq/zfxxgk/fdzdgknr/jgjj/index.shtml	省地方矿山安全监督管理局党组成员、副局长		辽宁省地方矿山安全监督管理局	https://ksaq.ln.gov.cn/mkaq/zfxxgk/fdzdgknr/jgjj/bmld/th/2024022210132045272/index.shtml	1400
+崔忠会		3		辽宁省		https://ksaq.ln.gov.cn/mkaq/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省地方矿山安全监督管理局党组成员、副局长		辽宁省地方矿山安全监督管理局	https://ksaq.ln.gov.cn/mkaq/zfxxgk/fdzdgknr/jgjj/bmld/czh/2025031217350711864/index.shtml	1400
+张永利		4		辽宁省		https://ksaq.ln.gov.cn/mkaq/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省地方矿山安全监督管理局党组成员、副局长		辽宁省地方矿山安全监督管理局	https://ksaq.ln.gov.cn/mkaq/zfxxgk/fdzdgknr/jgjj/bmld/zyl/2026050609571717372/index.shtml	1400

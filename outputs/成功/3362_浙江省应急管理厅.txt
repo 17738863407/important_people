@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨胜杰		1		浙江省		https://www.zj.gov.cn/dctslm/zjsyjglt/index.html	党委书记、厅长		浙江省应急管理厅	https://www.zj.gov.cn/col/col1229277935/art/2026/art_606e3fe76dc38f16f9f16b01bf301ff8.html	3362
+钱宏丰		2		浙江省		https://www.zj.gov.cn/dctslm/zjsyjglt/index.html	党委委员、副厅长		浙江省应急管理厅	https://www.zj.gov.cn/art/2021/11/9/art_1229277935_42267.html	3362
+王金永		3		浙江省		https://www.zj.gov.cn/dctslm/zjsyjglt/index.html	党委委员、副厅长		浙江省应急管理厅	https://www.zj.gov.cn/art/2021/11/9/art_1229277935_42265.html	3362
+叶建迅		4		浙江省		https://www.zj.gov.cn/dctslm/zjsyjglt/index.html	党委委员、副厅长、新闻发言人		浙江省应急管理厅	https://www.zj.gov.cn/art/2022/4/18/art_1229277935_124466.html	3362
+吴晓荣		5		浙江省		https://www.zj.gov.cn/dctslm/zjsyjglt/index.html	党委委员、副厅长		浙江省应急管理厅	https://www.zj.gov.cn/art/2021/11/9/art_1229277935_42272.html	3362
+陈三强		6		浙江省		https://www.zj.gov.cn/dctslm/zjsyjglt/index.html	党委委员、副厅长		浙江省应急管理厅	https://www.zj.gov.cn/art/2023/6/5/art_1229277935_144151.html	3362
+戴茂富		7		浙江省		https://www.zj.gov.cn/dctslm/zjsyjglt/index.html	党委委员、副厅长		浙江省应急管理厅	https://www.zj.gov.cn/art/2023/12/15/art_1229277935_153171.html	3362

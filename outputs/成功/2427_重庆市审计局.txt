@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+戴希		1		重庆市		http://sjj.cq.gov.cn/zwgk/gkmu/zzjg/	市委审计办主任；市审计局党组书记、局长		重庆市审计局	http://sjj.cq.gov.cn/zwgk/ld/dx/	2427
+李嘉荣		2		重庆市		http://sjj.cq.gov.cn/zwgk/gkmu/zzjg/	市审计局党组成员、市经济责任审计工作联席会议办公室主任		重庆市审计局	http://sjj.cq.gov.cn/zwgk/ld/ljr/	2427
+于娟		3		重庆市		http://sjj.cq.gov.cn/zwgk/gkmu/zzjg/	市审计局党组成员、副局长		重庆市审计局	http://sjj.cq.gov.cn/zwgk/ld/yj/	2427
+徐涛		4		重庆市		http://sjj.cq.gov.cn/zwgk/gkmu/zzjg/	市审计局党组成员、副局长		重庆市审计局	http://sjj.cq.gov.cn/zwgk/ld/xutao/	2427
+许川		5		重庆市		http://sjj.cq.gov.cn/zwgk/gkmu/zzjg/	市审计局党组成员、副局长		重庆市审计局	http://sjj.cq.gov.cn/zwgk/ld/xuchuan/	2427
+方晓		6		重庆市		http://sjj.cq.gov.cn/zwgk/gkmu/zzjg/	市审计局党组成员、副局长		重庆市审计局	http://sjj.cq.gov.cn/zwgk/ld/fangxiao/	2427
+董强		7		重庆市		http://sjj.cq.gov.cn/zwgk/gkmu/zzjg/	市审计局党组成员、副局长		重庆市审计局	http://sjj.cq.gov.cn/zwgk/ld/dongqiang/	2427
+汤怀		8		重庆市		http://sjj.cq.gov.cn/zwgk/gkmu/zzjg/	市审计局党组成员、总审计师		重庆市审计局	http://sjj.cq.gov.cn/zwgk/ld/tanghuai/	2427

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+燕琴		1		全国		http://www.casm.ac.cn/chbyjj/chldzct/index.html	院长		中国测绘科学研究院		0138
+任振宇		2		全国		http://www.casm.ac.cn/chbyjj/chldzct/index.html	党委书记 副院长		中国测绘科学研究院		0138
+刘纪平		3		全国		http://www.casm.ac.cn/chbyjj/chldzct/index.html	党委委员 副院长 总工程师		中国测绘科学研究院		0138
+赵苛然		4		全国		http://www.casm.ac.cn/chbyjj/chldzct/index.html	党委委员 纪委书记		中国测绘科学研究院		0138
+王慧君		5		全国		http://www.casm.ac.cn/chbyjj/chldzct/index.html	副院长		中国测绘科学研究院		0138
+张宏伟		6		全国		http://www.casm.ac.cn/chbyjj/chldzct/index.html	副院长		中国测绘科学研究院		0138
+翟亮		7		全国		http://www.casm.ac.cn/chbyjj/chldzct/index.html	副院长		中国测绘科学研究院		0138

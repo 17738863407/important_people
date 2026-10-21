@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+傅强		1		贵州省		http://aas.guizhou.gov.cn/zfxxgk/fdzdgknr/jgjj/	院党委书记		贵州省农业科学院	http://aas.guizhou.gov.cn/xxgk/ldjj/202503/t20250321_87223071.html	0056
+张洪亮		2		贵州省		http://aas.guizhou.gov.cn/zfxxgk/fdzdgknr/jgjj/	党委副书记、院长		贵州省农业科学院	http://aas.guizhou.gov.cn/xxgk/ldjj/202503/t20250321_87223077.html	0056
+肖虎		3		贵州省		http://aas.guizhou.gov.cn/zfxxgk/fdzdgknr/jgjj/	院党委副书记		贵州省农业科学院	http://aas.guizhou.gov.cn/xxgk/ldjj/202607/t20260706_90590348.html	0056
+孟平红		4		贵州省		http://aas.guizhou.gov.cn/zfxxgk/fdzdgknr/jgjj/	贵州省农业科学院副院长		贵州省农业科学院	http://aas.guizhou.gov.cn/xxgk/ldjj/202503/t20250321_87223069.html	0056
+吴康云		5		贵州省		http://aas.guizhou.gov.cn/zfxxgk/fdzdgknr/jgjj/	贵州省农业科学院党委委员、副院长		贵州省农业科学院	http://aas.guizhou.gov.cn/xxgk/ldjj/202503/t20250321_87223068.html	0056
+何光前		6		贵州省		http://aas.guizhou.gov.cn/zfxxgk/fdzdgknr/jgjj/	贵州省农业科学院党委委员、副院长		贵州省农业科学院	http://aas.guizhou.gov.cn/xxgk/ldjj/202503/t20250321_87223067.html	0056
+向华		7		贵州省		http://aas.guizhou.gov.cn/zfxxgk/fdzdgknr/jgjj/	贵州省农业科学院党委委员、副院长		贵州省农业科学院	http://aas.guizhou.gov.cn/xxgk/ldjj/202503/t20250321_87223055.html	0056
+卢瑶		8		贵州省		http://aas.guizhou.gov.cn/zfxxgk/fdzdgknr/jgjj/	贵州省农业科学院党委委员、副院长		贵州省农业科学院	http://aas.guizhou.gov.cn/xxgk/ldjj/202503/t20250321_87223054.html	0056
+李武		9		贵州省		http://aas.guizhou.gov.cn/zfxxgk/fdzdgknr/jgjj/	贵州省农业科学院党委委员		贵州省农业科学院	http://aas.guizhou.gov.cn/xxgk/ldjj/202601/t20260130_89357128.html	0056

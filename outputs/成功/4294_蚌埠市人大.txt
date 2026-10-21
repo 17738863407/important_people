@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王波		1		安徽省	蚌埠市	http://www.bbrd.gov.cn/rdgk/cwhldcy/index.html	主任		蚌埠市人大		4294
+徐伟红		2		安徽省	蚌埠市	http://www.bbrd.gov.cn/rdgk/cwhldcy/index.html	副主任		蚌埠市人大		4294
+汪若怀		3		安徽省	蚌埠市	http://www.bbrd.gov.cn/rdgk/cwhldcy/index.html	副主任		蚌埠市人大		4294
+陈常林		4		安徽省	蚌埠市	http://www.bbrd.gov.cn/rdgk/cwhldcy/index.html	副主任		蚌埠市人大		4294
+桑延慧		5		安徽省	蚌埠市	http://www.bbrd.gov.cn/rdgk/cwhldcy/index.html	秘书长		蚌埠市人大		4294

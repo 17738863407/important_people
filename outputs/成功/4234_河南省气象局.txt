@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈怀亮		1		河南省		http://ha.cma.gov.cn/bmgk/ldjj/	党组书记、局长		河南省气象局		4234
+李飞		2		河南省		http://ha.cma.gov.cn/bmgk/ldjj/	党组成员、副局长		河南省气象局		4234
+郑世林		3		河南省		http://ha.cma.gov.cn/bmgk/ldjj/	党组成员、副局长		河南省气象局		4234
+顾伟宗		4		河南省		http://ha.cma.gov.cn/bmgk/ldjj/	党组成员、副局长		河南省气象局		4234
+陈志峰		5		河南省		http://ha.cma.gov.cn/bmgk/ldjj/	党组成员、纪检组组长		河南省气象局		4234

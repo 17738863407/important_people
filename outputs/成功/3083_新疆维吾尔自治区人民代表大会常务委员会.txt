@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+祖木热提·吾布力		1		全国		https://www.xjpcsc.gov.cn/cover-024251z8/xinjiangweiwuerzizhiqudishisijierenmindaibiaodahuichangwuweiyuanhuizhurenhuiyichengyuan	常委会主任		新疆维吾尔自治区人民代表大会常务委员会	https://www.xjpcsc.gov.cn/list-6s85ibsp/xktym/1/15	3083
+王明山		2		全国		https://www.xjpcsc.gov.cn/cover-024251z8/xinjiangweiwuerzizhiqudishisijierenmindaibiaodahuichangwuweiyuanhuizhurenhuiyichengyuan	常委会副主任		新疆维吾尔自治区人民代表大会常务委员会	https://www.xjpcsc.gov.cn/list-o867in28/wangmingshan/1/15	3083
+李宁平		3		全国		https://www.xjpcsc.gov.cn/cover-024251z8/xinjiangweiwuerzizhiqudishisijierenmindaibiaodahuichangwuweiyuanhuizhurenhuiyichengyuan	常委会副主任		新疆维吾尔自治区人民代表大会常务委员会	https://www.xjpcsc.gov.cn/list-l6f08d16/lnp/1/15	3083
+迪力夏提·柯德尔汗		4		全国		https://www.xjpcsc.gov.cn/cover-024251z8/xinjiangweiwuerzizhiqudishisijierenmindaibiaodahuichangwuweiyuanhuizhurenhuiyichengyuan	常委会副主任		新疆维吾尔自治区人民代表大会常务委员会	https://www.xjpcsc.gov.cn/list-u6p60060/dlxt/1/15	3083
+平新来		5		全国		https://www.xjpcsc.gov.cn/cover-024251z8/xinjiangweiwuerzizhiqudishisijierenmindaibiaodahuichangwuweiyuanhuizhurenhuiyichengyuan	常委会副主任		新疆维吾尔自治区人民代表大会常务委员会	https://www.xjpcsc.gov.cn/list-n1py0c60/hdebk/1/15	3083
+王国和		6		全国		https://www.xjpcsc.gov.cn/cover-024251z8/xinjiangweiwuerzizhiqudishisijierenmindaibiaodahuichangwuweiyuanhuizhurenhuiyichengyuan	常委会副主任		新疆维吾尔自治区人民代表大会常务委员会	https://www.xjpcsc.gov.cn/list-65863871/wgh/1/15	3083
+买买提明·卡德		7		全国		https://www.xjpcsc.gov.cn/cover-024251z8/xinjiangweiwuerzizhiqudishisijierenmindaibiaodahuichangwuweiyuanhuizhurenhuiyichengyuan	常委会副主任		新疆维吾尔自治区人民代表大会常务委员会	https://www.xjpcsc.gov.cn/list-e046hwhv/mmtm/1/15	3083
+艾尼瓦尔·吐尔逊		8		全国		https://www.xjpcsc.gov.cn/cover-024251z8/xinjiangweiwuerzizhiqudishisijierenmindaibiaodahuichangwuweiyuanhuizhurenhuiyichengyuan	常委会副主任		新疆维吾尔自治区人民代表大会常务委员会	https://www.xjpcsc.gov.cn/list-f59az28c/seht/1/15	3083
+宋亚君		9		全国		https://www.xjpcsc.gov.cn/cover-024251z8/xinjiangweiwuerzizhiqudishisijierenmindaibiaodahuichangwuweiyuanhuizhurenhuiyichengyuan	常委会副主任		新疆维吾尔自治区人民代表大会常务委员会	https://www.xjpcsc.gov.cn/list-ygmuzd1c/songyajun/1/15	3083

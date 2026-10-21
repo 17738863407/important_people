@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李初敏		1		湖北省	黄冈市	http://www.hgzx.gov.cn/zxld/	主席		黄冈市政协	https://www.hgzx.gov.cn/zxld/2026-07-02/1.html	3938
+王银芬		2		湖北省	黄冈市	http://www.hgzx.gov.cn/zxld/	副主席		黄冈市政协	https://www.hgzx.gov.cn/zxld/2026-07-02/2.html	3938
+詹汉彬		3		湖北省	黄冈市	http://www.hgzx.gov.cn/zxld/	副主席		黄冈市政协	https://www.hgzx.gov.cn/zxld/2026-07-02/5.html	3938
+黄玉琴		4		湖北省	黄冈市	http://www.hgzx.gov.cn/zxld/	副主席		黄冈市政协	https://www.hgzx.gov.cn/zxld/2026-07-02/6.html	3938
+周银芝		5		湖北省	黄冈市	http://www.hgzx.gov.cn/zxld/	副主席		黄冈市政协	https://www.hgzx.gov.cn/zxld/2026-07-02/7.html	3938
+蔡艮生		6		湖北省	黄冈市	http://www.hgzx.gov.cn/zxld/	副主席		黄冈市政协	https://www.hgzx.gov.cn/zxld/2026-07-02/9.html	3938
+余红志		7		湖北省	黄冈市	http://www.hgzx.gov.cn/zxld/	秘书长		黄冈市政协	https://www.hgzx.gov.cn/zxld/2026-07-02/10.html	3938

@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王鸿岳		1		甘肃省	兰州市	https://www.gslzzx.gov.cn/col/col11739/index.html	主席		兰州市政协		0746
+任丽梅		2		甘肃省	兰州市	https://www.gslzzx.gov.cn/col/col11739/index.html	副主席		兰州市政协		0746
+杜泽秀		3		甘肃省	兰州市	https://www.gslzzx.gov.cn/col/col11739/index.html	副主席		兰州市政协		0746
+高永健		4		甘肃省	兰州市	https://www.gslzzx.gov.cn/col/col11739/index.html	副主席		兰州市政协		0746
+杨衍佑		5		甘肃省	兰州市	https://www.gslzzx.gov.cn/col/col11739/index.html	副主席		兰州市政协		0746
+王柠		6		甘肃省	兰州市	https://www.gslzzx.gov.cn/col/col11739/index.html	副主席		兰州市政协		0746
+刘应兰		7		甘肃省	兰州市	https://www.gslzzx.gov.cn/col/col11739/index.html	副主席		兰州市政协		0746
+刘立善		8		甘肃省	兰州市	https://www.gslzzx.gov.cn/col/col11739/index.html	副主席		兰州市政协		0746
+潘进军		9		甘肃省	兰州市	https://www.gslzzx.gov.cn/col/col11739/index.html	副主席		兰州市政协		0746
+孙裕		10		甘肃省	兰州市	https://www.gslzzx.gov.cn/col/col11739/index.html	副主席		兰州市政协		0746
+张天泉		11		甘肃省	兰州市	https://www.gslzzx.gov.cn/col/col11739/index.html	副主席		兰州市政协		0746
+乔冬梅		12		甘肃省	兰州市	https://www.gslzzx.gov.cn/col/col11739/index.html	副主席		兰州市政协		0746
+颜烨鲁		13		甘肃省	兰州市	https://www.gslzzx.gov.cn/col/col11739/index.html	秘书长		兰州市政协		0746

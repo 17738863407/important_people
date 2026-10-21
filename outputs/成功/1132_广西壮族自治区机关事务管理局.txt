@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄小川		1		广西壮族自治区		http://jgswj.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk_1/ldjj/	自治区人民政府副秘书长，自治区机关事务管理局党组书记、局长，政协第十三届广西壮族自治区委员会委员		广西壮族自治区机关事务管理局	http://jgswj.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk_1/ldjj/ldrl/index.shtml	1132
+杨健豪		2		广西壮族自治区		http://jgswj.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk_1/ldjj/	自治区机关事务管理局党组成员、副局长		广西壮族自治区机关事务管理局	http://jgswj.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk_1/ldjj/t19208411.shtml	1132
+梁万山		3		广西壮族自治区		http://jgswj.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk_1/ldjj/	自治区机关事务管理局党组成员、副局长		广西壮族自治区机关事务管理局	http://jgswj.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk_1/ldjj/t10095821.shtml	1132
+黄译萩		4		广西壮族自治区		http://jgswj.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk_1/ldjj/	自治区机关事务管理局党组成员、副局长		广西壮族自治区机关事务管理局	http://jgswj.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk_1/ldjj/t16494527.shtml	1132
+黄日全		5		广西壮族自治区		http://jgswj.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk_1/ldjj/	自治区纪委监委驻自治区机关事务管理局纪检监察组组长、自治区机关事务管理局党组成员		广西壮族自治区机关事务管理局	http://jgswj.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk_1/ldjj/t27806587.shtml	1132

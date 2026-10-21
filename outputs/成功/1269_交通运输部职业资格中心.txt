@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张杰		1		全国		https://www.jtzyzg.org.cn/LTPU/LEAP/home/html/centerInt.html	党委书记、主任、		交通运输部职业资格中心		1269
+王刚		2		全国		https://www.jtzyzg.org.cn/LTPU/LEAP/home/html/centerInt.html	副主任、		交通运输部职业资格中心		1269
+孙海		3		全国		https://www.jtzyzg.org.cn/LTPU/LEAP/home/html/centerInt.html	党委委员、副主任、纪委书记、		交通运输部职业资格中心		1269

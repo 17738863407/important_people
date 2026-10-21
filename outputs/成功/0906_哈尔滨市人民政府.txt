@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王合生		1		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c104516/zwgk.shtml	市长		哈尔滨市人民政府	https://www.harbin.gov.cn/haerbin/lddtzqx/zwgk_leader_detail.shtml	0906
+李冕		2		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c104516/zwgk.shtml	副市长		哈尔滨市人民政府	https://www.harbin.gov.cn/haerbin/lddtjch/zwgk_leader_detail.shtml	0906
+邱纪成		3		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c104516/zwgk.shtml	副市长		哈尔滨市人民政府	https://www.harbin.gov.cn/haerbin/c112689/zwgk_leader_detail.shtml	0906
+杨慧		4		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c104516/zwgk.shtml	副市长		哈尔滨市人民政府	https://www.harbin.gov.cn/haerbin/c112258/zwgk_leader_detail.shtml	0906
+张海华		5		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c104516/zwgk.shtml	副市长		哈尔滨市人民政府	https://www.harbin.gov.cn/haerbin/lddtzhh/zwgk_leader_detail.shtml	0906
+冯昕		6		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c104516/zwgk.shtml	副市长		哈尔滨市人民政府	https://www.harbin.gov.cn/haerbin/lddtfx/zwgk_leader_detail.shtml	0906
+尹喜峰		7		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c104516/zwgk.shtml	副市长		哈尔滨市人民政府	https://www.harbin.gov.cn/haerbin/lddtyxf/zwgk_leader_detail.shtml	0906
+杨淑鹏		8		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c104516/zwgk.shtml	副市长		哈尔滨市人民政府	https://www.harbin.gov.cn/haerbin/lddtysp/zwgk_leader_detail.shtml	0906
+李亚飞		9		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c104516/zwgk.shtml	副市长		哈尔滨市人民政府	https://www.harbin.gov.cn/haerbin/c112691/zwgk_leader_detail.shtml	0906

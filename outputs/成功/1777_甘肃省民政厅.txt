@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+苟保平		1		甘肃省		https://mzt.gansu.gov.cn/mzt/c119691/xxgk_jgjj.shtml	厅党组书记、厅长		甘肃省民政厅	https://mzt.gansu.gov.cn/mzt/c107763/202401/173843237.shtml	1777
+袁征		2		甘肃省		https://mzt.gansu.gov.cn/mzt/c119691/xxgk_jgjj.shtml	省纪委监委派驻省民政厅纪检监察组组长、厅党组成员		甘肃省民政厅	https://mzt.gansu.gov.cn/mzt/c107763/202501/174056021.shtml	1777
+刘全生		3		甘肃省		https://mzt.gansu.gov.cn/mzt/c119691/xxgk_jgjj.shtml	厅党组成员、副厅长		甘肃省民政厅	https://mzt.gansu.gov.cn/mzt/c107763/202609/174391912.shtml	1777
+王力		4		甘肃省		https://mzt.gansu.gov.cn/mzt/c119691/xxgk_jgjj.shtml	厅党组成员、副厅长		甘肃省民政厅	https://mzt.gansu.gov.cn/mzt/c107763/202511/174247223.shtml	1777
+常正虎		5		甘肃省		https://mzt.gansu.gov.cn/mzt/c119691/xxgk_jgjj.shtml	厅党组成员、副厅长		甘肃省民政厅	https://mzt.gansu.gov.cn/mzt/c107763/202312/173811648.shtml	1777
+吴健		6		甘肃省		https://mzt.gansu.gov.cn/mzt/c119691/xxgk_jgjj.shtml	厅党组成员、副厅长		甘肃省民政厅	https://mzt.gansu.gov.cn/mzt/c107763/202412/174043855.shtml	1777
+蔡强		7		甘肃省		https://mzt.gansu.gov.cn/mzt/c119691/xxgk_jgjj.shtml	厅一级巡视员		甘肃省民政厅	https://mzt.gansu.gov.cn/mzt/c107763/202008/702475.shtml	1777
+李斌		8		甘肃省		https://mzt.gansu.gov.cn/mzt/c119691/xxgk_jgjj.shtml	厅二级巡视员		甘肃省民政厅	https://mzt.gansu.gov.cn/mzt/c107763/202007/702469.shtml	1777
+李建民		9		甘肃省		https://mzt.gansu.gov.cn/mzt/c119691/xxgk_jgjj.shtml	厅二级巡视员		甘肃省民政厅	https://mzt.gansu.gov.cn/mzt/c107763/202410/173998493.shtml	1777
+柴晓军		10		甘肃省		https://mzt.gansu.gov.cn/mzt/c119691/xxgk_jgjj.shtml	厅规划财务处处长、二级巡视员		甘肃省民政厅	https://mzt.gansu.gov.cn/mzt/c107763/202609/174392815.shtml	1777

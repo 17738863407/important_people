@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈锋		1		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202205/t20220507_932826.htm	党委书记		文化和旅游部离退休人员服务中心		1511
+李金波		2		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202205/t20220507_932826.htm	副主任		文化和旅游部离退休人员服务中心		1511
+杨宁		3		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202205/t20220507_932826.htm	纪委书记、副主任		文化和旅游部离退休人员服务中心		1511
+李莉		4		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202205/t20220507_932826.htm	副主任		文化和旅游部离退休人员服务中心		1511

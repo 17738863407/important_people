@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何维		1		全国		https://www.ngd.org.cn/gs/bjld/index.htm	十四届全国人大常委会副委员长，农工党十七届中央主席，中国和平统一促进会副会长，中国红十字会会长		中国农工民主党	https://www.ngd.org.cn/gs/bjld/590ce9a215b340c79a89398341157cd0.htm	1898
+杨震		2		全国		https://www.ngd.org.cn/gs/bjld/index.htm	十四届全国政协副主席、农工党十七届中央常务副主席、欧美同学会(中国留学人员联谊会)第九届理事会会长		中国农工民主党	https://www.ngd.org.cn/gs/bjld/8bf99400ac1543ee9af89d2186738971.htm	1898
+王路		3		全国		https://www.ngd.org.cn/gs/bjld/index.htm	十四届全国政协常委、副秘书长，农工党十七届中央专职副主席		中国农工民主党	https://www.ngd.org.cn/gs/bjld/1897271ee615487d82054ae5998cbb40.htm	1898
+焦红		4		全国		https://www.ngd.org.cn/gs/bjld/index.htm	十四届全国政协常委，农工党十七届中央副主席		中国农工民主党	https://www.ngd.org.cn/gs/bjld/5dc39cc6dbda457c82b563314dfffe56.htm	1898
+吕忠梅		5		全国		https://www.ngd.org.cn/gs/bjld/index.htm	十四届全国人大常委会委员、环境与资源保护委员会副主任委员，农工党十七届中央副主席，中国法学会副会长		中国农工民主党	https://www.ngd.org.cn/gs/bjld/4e2a14bc9848482fb8c334bc94d9fe9e.htm	1898
+杨关林		6		全国		https://www.ngd.org.cn/gs/bjld/index.htm	十四届全国人大常委会委员、教育科学文化卫生委员会副主任委员，农工党十七届中央专职副主席		中国农工民主党	https://www.ngd.org.cn/gs/bjld/46ec37908a0f4213b2b337ffd2fd4c1b.htm	1898
+但彦铮		7		全国		https://www.ngd.org.cn/gs/bjld/index.htm	十四届全国政协常委，农工党十七届中央副主席、重庆市委会主委，重庆市政府副市长		中国农工民主党	https://www.ngd.org.cn/gs/bjld/7fb3853a8adf4c589350754268f39e54.htm	1898
+张全		8		全国		https://www.ngd.org.cn/gs/bjld/index.htm	十四届全国政协常委，农工党十七届中央副主席、上海市委会主委，十六届上海市人大常委会副主任		中国农工民主党	https://www.ngd.org.cn/gs/bjld/2f771aa90970418eb57e28949462d2d1.htm	1898
+王金南		9		全国		https://www.ngd.org.cn/gs/bjld/index.htm	十四届全国政协常委、人口资源环境委员会副主任，农工党十七届中央副主席、北京市委会主委，十四届北京市政协副主席，中国环境科学学会理事长，中国工程院院士		中国农工民主党	https://www.ngd.org.cn/gs/bjld/cd5c52a033fc4a83a16fa5984b07e105.htm	1898
+徐涛		10		全国		https://www.ngd.org.cn/gs/bjld/index.htm	十四届全国政协常委，农工党十七届中央副主席，广州实验室副主任，中国生物物理学会理事长，中国科学院院士		中国农工民主党	https://www.ngd.org.cn/gs/bjld/7dda13998f7e47bca0da339b99548e1f.htm	1898
+邓蓉玲		11		全国		https://www.ngd.org.cn/gs/bjld/index.htm	十四届全国人大常委会副秘书长，十四届全国政协常委，农工党十七届中央副主席		中国农工民主党	https://www.ngd.org.cn/gs/bjld/4d43c6f79bc74e3a85505031a46f4b40.htm	1898

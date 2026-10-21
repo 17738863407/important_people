@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王赤		1		全国		https://www.nssc.cas.cn/jgsz2015/tzgjjg/nmkjtq/	实验室主任		中国科学院南美空间天气实验室		4163
+杨国韬		2		全国		https://www.nssc.cas.cn/jgsz2015/tzgjjg/nmkjtq/	实验室执行主任		中国科学院南美空间天气实验室		4163
+刘正宽		3		全国		https://www.nssc.cas.cn/jgsz2015/tzgjjg/nmkjtq/	实验室行政副主任		中国科学院南美空间天气实验室		4163

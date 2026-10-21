@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+沈晓明		1		全国		http://district.ce.cn/zt/rwk/sf/hn/index.shtml	省委书记，省人大常委会主任		湖南省委	http://district.ce.cn/newarea/sddy/202401/28/t20240128_38883645.shtml	0427
+毛伟明		2		全国		http://district.ce.cn/zt/rwk/sf/hn/index.shtml	省委副书记、省长		湖南省委	http://district.ce.cn/newarea/sddy/202101/29/t20210129_36272227.shtml	0427
+谢卫江		3		全国		http://district.ce.cn/zt/rwk/sf/hn/index.shtml	省委副书记，岳阳市委书记		湖南省委	http://district.ce.cn/newarea/sddy/202507/t20250724_2418390.shtml	0427
+隋忠诚		4		全国		http://district.ce.cn/zt/rwk/sf/hn/index.shtml	省委常委、统战部部长		湖南省委	http://district.ce.cn/newarea/sddy/202112/02/t20211202_37136654.shtml	0427
+魏建锋		5		全国		http://district.ce.cn/zt/rwk/sf/hn/index.shtml	省委常委、纪委书记，监委主任		湖南省委	http://district.ce.cn/newarea/sddy/202602/t20260207_2759230.shtml	0427
+王道席		6		全国		http://district.ce.cn/zt/rwk/sf/hn/index.shtml	省委常委、常务副省长		湖南省委	http://district.ce.cn/newarea/sddy/202603/t20260322_2847193.shtml	0427
+刘红兵		7		全国		http://district.ce.cn/zt/rwk/sf/hn/index.shtml	省委常委、宣传部部长		湖南省委	http://district.ce.cn/newarea/sddy/202504/30/t20250430_39352915.shtml	0427
+郭灵计		8		全国		http://district.ce.cn/zt/rwk/sf/hn/index.shtml	省委常委、组织部部长		湖南省委	http://district.ce.cn/newarea/sddy/202509/t20250917_2479221.shtml	0427
+马永生		9		全国		http://district.ce.cn/zt/rwk/sf/hn/index.shtml	省委常委、省军区政委		湖南省委	http://district.ce.cn/newarea/sddy/202501/18/t20250118_39270455.shtml	0427
+王俊寿		10		全国		http://district.ce.cn/zt/rwk/sf/hn/index.shtml	省委常委、秘书长		湖南省委	http://district.ce.cn/newarea/sddy/202607/t20260706_3071422.shtml	0427

@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵国忠		1		内蒙古自治区		https://lsj.nmg.gov.cn/zfxxgkzl/fdzdgknr/?gk=3&cid=16961	内蒙古自治区发展和改革委员会党组成员、内蒙古自治区粮食和物资储备局党组书记、局长		内蒙古自治区粮食和物资储备局	https://lsj.nmg.gov.cn/zfxxgkzl/fdzdgknr/jgjj/ldjj/202111/t20211112_1947915.html	1447
+宝鲁		2		内蒙古自治区		https://lsj.nmg.gov.cn/zfxxgkzl/fdzdgknr/?gk=3&cid=16961	内蒙古自治区粮食和物资储备局党组成员、副局长		内蒙古自治区粮食和物资储备局	https://lsj.nmg.gov.cn/zfxxgkzl/fdzdgknr/jgjj/ldjj/202111/t20211112_1947916.html	1447
+王树平		3		内蒙古自治区		https://lsj.nmg.gov.cn/zfxxgkzl/fdzdgknr/?gk=3&cid=16961	内蒙古自治区粮食和物资储备局党组成员、副局长		内蒙古自治区粮食和物资储备局	https://lsj.nmg.gov.cn/zfxxgkzl/fdzdgknr/jgjj/ldjj/202111/t20211112_1947917.html	1447

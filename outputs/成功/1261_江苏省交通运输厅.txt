@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴永宏		1		江苏省		https://jtyst.jiangsu.gov.cn/col/col77121/	省交通运输厅厅长、党组书记		江苏省交通运输厅	http://jtyst.jiangsu.gov.cn/art/2021/11/12/art_60017_10112285.html	1261
+凌耀初		2		江苏省		https://jtyst.jiangsu.gov.cn/col/col77121/	省交通运输厅一级巡视员		江苏省交通运输厅	http://jtyst.jiangsu.gov.cn/art/2019/5/6/art_60017_8328866.html	1261
+王慧廷		3		江苏省		https://jtyst.jiangsu.gov.cn/col/col77121/	省交通运输厅副厅长、党组成员		江苏省交通运输厅	http://jtyst.jiangsu.gov.cn/art/2019/5/6/art_60017_8328870.html	1261
+冯兆祥		4		江苏省		https://jtyst.jiangsu.gov.cn/col/col77121/	省交通运输厅党组成员、省铁路办公室副主任		江苏省交通运输厅	http://jtyst.jiangsu.gov.cn/art/2022/3/4/art_60017_10365072.html	1261
+张欣		5		江苏省		https://jtyst.jiangsu.gov.cn/col/col77121/	省交通运输厅副厅长、党组成员		江苏省交通运输厅	http://jtyst.jiangsu.gov.cn/art/2021/3/10/art_60017_9698604.html	1261
+侯建宇		6		江苏省		https://jtyst.jiangsu.gov.cn/col/col77121/	省交通运输厅副厅长、党组成员		江苏省交通运输厅	http://jtyst.jiangsu.gov.cn/art/2021/3/10/art_60017_9698603.html	1261
+陈海鹰		7		江苏省		https://jtyst.jiangsu.gov.cn/col/col77121/	省纪委监委派驻省交通运输厅纪检监察组组长、厅党组成员、二级高级监察官		江苏省交通运输厅	http://jtyst.jiangsu.gov.cn/art/2023/12/29/art_60017_11113994.html	1261
+史国刚		8		江苏省		https://jtyst.jiangsu.gov.cn/col/col77121/	省交通运输厅党组成员，省交通工程建设局局长、党组书记		江苏省交通运输厅	http://jtyst.jiangsu.gov.cn/art/2022/3/4/art_60017_10365076.html	1261
+宋国森		9		江苏省		https://jtyst.jiangsu.gov.cn/col/col77121/	省交通运输厅副厅长、党组成员		江苏省交通运输厅	http://jtyst.jiangsu.gov.cn/art/2023/2/21/art_60017_10763355.html	1261
+蒋波		10		江苏省		https://jtyst.jiangsu.gov.cn/col/col77121/	省邮政管理局局长兼省交通运输厅副厅长		江苏省交通运输厅	http://jtyst.jiangsu.gov.cn/art/2023/12/29/art_60017_11114007.html	1261
+尹红亮		11		江苏省		https://jtyst.jiangsu.gov.cn/col/col77121/	省交通运输厅副厅长、党组成员		江苏省交通运输厅	http://jtyst.jiangsu.gov.cn/art/2025/8/5/art_60017_11618420.html	1261

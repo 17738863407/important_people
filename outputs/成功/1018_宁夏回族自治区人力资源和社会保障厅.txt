@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+金万宏		1		宁夏回族自治区		https://hrss.nx.gov.cn/xxgk/gkmu/ldxx/	党组书记、厅长，外国专家局局长		宁夏回族自治区人力资源和社会保障厅	https://hrss.nx.gov.cn/xxgk/gkmu/ldxx/202004/t20200408_2015627.html	1018
+杨帆		2		宁夏回族自治区		https://hrss.nx.gov.cn/xxgk/gkmu/ldxx/	党组成员、副厅长		宁夏回族自治区人力资源和社会保障厅	https://hrss.nx.gov.cn/xxgk/gkmu/ldxx/202410/t20241025_4707407.html	1018
+葛向东		3		宁夏回族自治区		https://hrss.nx.gov.cn/xxgk/gkmu/ldxx/	党组成员、副厅长		宁夏回族自治区人力资源和社会保障厅	https://hrss.nx.gov.cn/xxgk/gkmu/ldxx/202204/t20220401_3413637.html	1018
+翟嘉涛		4		宁夏回族自治区		https://hrss.nx.gov.cn/xxgk/gkmu/ldxx/	党组成员、副厅长		宁夏回族自治区人力资源和社会保障厅	https://hrss.nx.gov.cn/xxgk/gkmu/ldxx/202502/t20250225_4836256.html	1018
+何爱燕		5		宁夏回族自治区		https://hrss.nx.gov.cn/xxgk/gkmu/ldxx/	党组成员、社会保险事业管理局局长		宁夏回族自治区人力资源和社会保障厅	https://hrss.nx.gov.cn/xxgk/gkmu/ldxx/202412/t20241216_4760272.html	1018

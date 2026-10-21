@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨大勇		1		吉林省		https://mzt.jl.gov.cn/xxgk_2643/jgzn/	省民政厅党组书记、厅长		吉林省民政厅	https://mzt.jl.gov.cn/xxgk_2643/jgzn/ldjj/201703/t20170329_2601118.html	1786
+刘乃军		2		吉林省		https://mzt.jl.gov.cn/xxgk_2643/jgzn/	省民政厅党组成员、副厅长（正厅长级）		吉林省民政厅	https://mzt.jl.gov.cn/xxgk_2643/jgzn/ldjj/202610/t20261010_9727758.html	1786
+张小川		3		吉林省		https://mzt.jl.gov.cn/xxgk_2643/jgzn/	省民政厅党组成员、副厅长		吉林省民政厅	https://mzt.jl.gov.cn/xxgk_2643/jgzn/ldjj/202312/t20231220_8854633.html	1786
+张陶		4		吉林省		https://mzt.jl.gov.cn/xxgk_2643/jgzn/	省民政厅党组成员、副厅长		吉林省民政厅	https://mzt.jl.gov.cn/xxgk_2643/jgzn/ldjj/202503/t20250311_9085970.html	1786
+孙钰林		5		吉林省		https://mzt.jl.gov.cn/xxgk_2643/jgzn/	省民政厅党组成员		吉林省民政厅	https://mzt.jl.gov.cn/xxgk_2643/jgzn/ldjj/202503/t20250311_9085971.html	1786
+杜文革		6		吉林省		https://mzt.jl.gov.cn/xxgk_2643/jgzn/	省民政厅一级巡视员		吉林省民政厅	https://mzt.jl.gov.cn/xxgk_2643/jgzn/ldjj/201712/t20171221_3555436.html	1786
+孟令辉		7		吉林省		https://mzt.jl.gov.cn/xxgk_2643/jgzn/	省民政厅二级巡视员		吉林省民政厅	https://mzt.jl.gov.cn/xxgk_2643/jgzn/ldjj/202312/t20231220_8854635.html	1786

@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李晓兵		1		陕西省	西安市	https://www.snnu.edu.cn/xxgk/xrld.htm	党委书记；党委常委		陕西师范大学	https://www.snnu.edu.cn/info/1552/56024.htm	3672
+陈新兵		2		陕西省	西安市	https://www.snnu.edu.cn/xxgk/xrld.htm	党委副书记；校长；党委常委		陕西师范大学	https://www.snnu.edu.cn/info/1582/56084.htm	3672
+卢胜利		3		陕西省	西安市	https://www.snnu.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		陕西师范大学	https://www.snnu.edu.cn/info/1562/56044.htm	3672
+罗永辉		4		陕西省	西安市	https://www.snnu.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		陕西师范大学	https://www.snnu.edu.cn/info/1562/56064.htm	3672
+唐勤		5		陕西省	西安市	https://www.snnu.edu.cn/xxgk/xrld.htm	党委副书记；纪委书记；党委常委		陕西师范大学	https://www.snnu.edu.cn/info/1562/112464.htm	3672
+周正朝		6		陕西省	西安市	https://www.snnu.edu.cn/xxgk/xrld.htm	副校长；党委常委		陕西师范大学	https://www.snnu.edu.cn/info/1592/56114.htm	3672
+王云博		7		陕西省	西安市	https://www.snnu.edu.cn/xxgk/xrld.htm	副校长；党委常委		陕西师范大学	https://www.snnu.edu.cn/info/1592/56254.htm	3672
+李秉忠		8		陕西省	西安市	https://www.snnu.edu.cn/xxgk/xrld.htm	副校长；党委常委		陕西师范大学	https://www.snnu.edu.cn/info/1592/56264.htm	3672
+袁一芳		9		陕西省	西安市	https://www.snnu.edu.cn/xxgk/xrld.htm	党委常委		陕西师范大学	https://www.snnu.edu.cn/info/1602/124084.htm	3672
+赵丽		10		陕西省	西安市	https://www.snnu.edu.cn/xxgk/xrld.htm	党委常委		陕西师范大学	https://www.snnu.edu.cn/info/1602/123274.htm	3672

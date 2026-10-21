@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+涂宏伟		1		江西省	南昌市	http://jgj.nc.gov.cn/ncsjgswj/gkldxx/202412/2832aa16c57b4a76b8ee0abf9516a65c.shtml	南昌市机关事务管理局党组成员、副局长		南昌市机关事务管理局		1116
+冯明亮		2		江西省	南昌市	http://jgj.nc.gov.cn/ncsjgswj/gkldxx/202412/2832aa16c57b4a76b8ee0abf9516a65c.shtml	市机关事务管理局党组成员、副局长		南昌市机关事务管理局		1116
+黄敏		3		江西省	南昌市	http://jgj.nc.gov.cn/ncsjgswj/gkldxx/202412/2832aa16c57b4a76b8ee0abf9516a65c.shtml	市机关事务管理局党组成员、副局长		南昌市机关事务管理局		1116
+胡文俊		4		江西省	南昌市	http://jgj.nc.gov.cn/ncsjgswj/gkldxx/202412/2832aa16c57b4a76b8ee0abf9516a65c.shtml	市机关事务管理局三级调研员		南昌市机关事务管理局		1116

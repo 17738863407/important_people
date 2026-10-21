@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王永财		1		辽宁省	大连市	https://xfj.dl.gov.cn/col/col9992/index.html?vc_xxgkarea=2102000068&number=DL014&jh=263	市政府副秘书长，市信访局党组书记、局长兼市委社会工作部副部长		大连市信访局	https://xfj.dl.gov.cn/art/2025/12/25/art_9993_2492671.html	3049
+叶涛		2		辽宁省	大连市	https://xfj.dl.gov.cn/col/col9992/index.html?vc_xxgkarea=2102000068&number=DL014&jh=263	党组成员、副局长		大连市信访局	https://xfj.dl.gov.cn/art/2025/7/21/art_9993_2451932.html	3049
+杨冰		3		辽宁省	大连市	https://xfj.dl.gov.cn/col/col9992/index.html?vc_xxgkarea=2102000068&number=DL014&jh=263	党组成员、副局长		大连市信访局	https://xfj.dl.gov.cn/art/2025/7/21/art_9993_2451934.html	3049
+赵瑞		4		辽宁省	大连市	https://xfj.dl.gov.cn/col/col9992/index.html?vc_xxgkarea=2102000068&number=DL014&jh=263	党组成员、副局长		大连市信访局	https://xfj.dl.gov.cn/art/2025/7/21/art_9993_2451949.html	3049
+刘大为		5		辽宁省	大连市	https://xfj.dl.gov.cn/col/col9992/index.html?vc_xxgkarea=2102000068&number=DL014&jh=263	党组成员、副局长		大连市信访局	https://xfj.dl.gov.cn/art/2025/7/21/art_9993_2451985.html	3049
+陈全民		6		辽宁省	大连市	https://xfj.dl.gov.cn/col/col9992/index.html?vc_xxgkarea=2102000068&number=DL014&jh=263	督查专员		大连市信访局	https://xfj.dl.gov.cn/art/2025/12/25/art_9993_2492670.html	3049
+祝连启		7		辽宁省	大连市	https://xfj.dl.gov.cn/col/col9992/index.html?vc_xxgkarea=2102000068&number=DL014&jh=263	二级巡视员		大连市信访局	https://xfj.dl.gov.cn/art/2025/7/21/art_9993_2451986.html	3049

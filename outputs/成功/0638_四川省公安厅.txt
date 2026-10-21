@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高展		1		四川省		https://gat.sc.gov.cn/scgat/c103341/zfxxgk_jgjj.shtml	公安厅党委副书记、常务副厅长		四川省公安厅	https://gat.sc.gov.cn/scgat/c105695/2026/7/21/c8d6c2bd79b541e0842ba88b04a34278.shtml	0638
+舒文		2		四川省		https://gat.sc.gov.cn/scgat/c103341/zfxxgk_jgjj.shtml	公安厅副厅长兼党委副书记、一级警务专员，一级警监警衔		四川省公安厅	https://gat.sc.gov.cn/scgat/c105695/2025/8/25/305e27ba49494c40abf579798a5b66f8.shtml	0638
+胡国民		3		四川省		https://gat.sc.gov.cn/scgat/c103341/zfxxgk_jgjj.shtml	公安厅党委委员，成都市人民政府党组成员、副市长，市公安局党委书记、局长、督察长，市委政法委副书记，一级警监警衔		四川省公安厅	https://gat.sc.gov.cn/scgat/c105695/2025/8/25/762f8bc588ec46faaa261e9b36c3d19d.shtml	0638
+张洪		4		四川省		https://gat.sc.gov.cn/scgat/c103341/zfxxgk_jgjj.shtml	公安厅党委委员、副厅长、一级警务专员，一级警监警衔		四川省公安厅	https://gat.sc.gov.cn/scgat/c105695/2025/8/25/2140524b9c7f4659943037d5277232f9.shtml	0638
+周述		5		四川省		https://gat.sc.gov.cn/scgat/c103341/zfxxgk_jgjj.shtml	公安厅党委委员、副厅长，二级警监警衔		四川省公安厅	https://gat.sc.gov.cn/scgat/c105695/2025/8/25/aef0692d0e6a4a0bb2482c4b69dcebc0.shtml	0638
+李强		6		四川省		https://gat.sc.gov.cn/scgat/c103341/zfxxgk_jgjj.shtml	公安厅党委委员、副厅长，二级警监警衔		四川省公安厅	https://gat.sc.gov.cn/scgat/c105695/2025/8/25/be5dc071434f4621908912c3ef9f7e43.shtml	0638
+张琦		7		四川省		https://gat.sc.gov.cn/scgat/c103341/zfxxgk_jgjj.shtml	公安厅党委委员、政治部主任，一级警监警衔		四川省公安厅	https://gat.sc.gov.cn/scgat/c105695/2025/8/25/9c06ae2f501c4a9ca7282a4768180b55.shtml	0638
+李洪斌		8		四川省		https://gat.sc.gov.cn/scgat/c103341/zfxxgk_jgjj.shtml	省纪委监委驻公安厅纪检监察组组长、公安厅党委委员，二级高级监察官，二级警监警衔		四川省公安厅	https://gat.sc.gov.cn/scgat/c105695/2025/8/25/c1acb1252dc04701bed072f71fd6a767.shtml	0638

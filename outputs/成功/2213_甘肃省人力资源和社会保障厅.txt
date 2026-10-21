@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周丽宁		1		甘肃省		https://rst.gansu.gov.cn/rst/c113683/202606/174348422.shtml	厅党组书记、厅长		甘肃省人力资源和社会保障厅	https://rst.gansu.gov.cn/rst/c113681/202009/40fc9b7cbe8d42bb9244b336f2f090e1.shtml	2213
+何永强		2		甘肃省		https://rst.gansu.gov.cn/rst/c113683/202606/174348422.shtml	党组成员、副厅长		甘肃省人力资源和社会保障厅	https://rst.gansu.gov.cn/rst/c113682/202009/d5a1a2b120654f1fb1467d8a89c32768.shtml	2213
+李帆		3		甘肃省		https://rst.gansu.gov.cn/rst/c113683/202606/174348422.shtml	党组成员、副厅长		甘肃省人力资源和社会保障厅	https://rst.gansu.gov.cn/rst/c113682/202304/169821046.shtml	2213
+张旭中		4		甘肃省		https://rst.gansu.gov.cn/rst/c113683/202606/174348422.shtml	党组成员、省纪委监委派驻省人社厅纪检监察组组长		甘肃省人力资源和社会保障厅	https://rst.gansu.gov.cn/rst/c113682/202009/86ff512c911c4ddc913f83e5a45c7946.shtml	2213
+向东		5		甘肃省		https://rst.gansu.gov.cn/rst/c113683/202606/174348422.shtml	党组成员、副厅长		甘肃省人力资源和社会保障厅	https://rst.gansu.gov.cn/rst/c113682/202601/174272881.shtml	2213
+马有信		6		甘肃省		https://rst.gansu.gov.cn/rst/c113683/202606/174348422.shtml	厅一级巡视员		甘肃省人力资源和社会保障厅	https://rst.gansu.gov.cn/rst/c113683/202601/174272978.shtml	2213
+史举红		7		甘肃省		https://rst.gansu.gov.cn/rst/c113683/202606/174348422.shtml	二级巡视员		甘肃省人力资源和社会保障厅	https://rst.gansu.gov.cn/rst/c113683/202409/173996231.shtml	2213
+赵刚		8		甘肃省		https://rst.gansu.gov.cn/rst/c113683/202606/174348422.shtml	厅二级巡视员		甘肃省人力资源和社会保障厅	https://rst.gansu.gov.cn/rst/c113683/202601/174273114.shtml	2213
+白跃忠		9		甘肃省		https://rst.gansu.gov.cn/rst/c113683/202606/174348422.shtml	厅二级巡视员		甘肃省人力资源和社会保障厅	https://rst.gansu.gov.cn/rst/c113683/202601/174273115.shtml	2213
+张辉		10		甘肃省		https://rst.gansu.gov.cn/rst/c113683/202606/174348422.shtml	厅二级巡视员		甘肃省人力资源和社会保障厅	https://rst.gansu.gov.cn/rst/c113683/202606/174348432.shtml	2213
+祁莅国		11		甘肃省		https://rst.gansu.gov.cn/rst/c113683/202606/174348422.shtml	厅二级巡视员		甘肃省人力资源和社会保障厅	https://rst.gansu.gov.cn/rst/c113683/202606/174348411.shtml	2213
+仵晓伟		12		甘肃省		https://rst.gansu.gov.cn/rst/c113683/202606/174348422.shtml	厅二级巡视员		甘肃省人力资源和社会保障厅		2213

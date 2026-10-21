@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+罗鹏志		1		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/xzbscx/sksz/gzjg/ldxx/index.html	水口山镇党委书记		水口山镇	https://www.hnchangning.gov.cn/zwgk/xzbscx/sksz/gzjg/ldxx/20260615/i3917613.html	4479
+龙坤		2		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/xzbscx/sksz/gzjg/ldxx/index.html	水口山镇党委副书记、镇长		水口山镇	https://www.hnchangning.gov.cn/zwgk/xzbscx/sksz/gzjg/ldxx/20260211/i3861810.html	4479
+刘国程		3		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/xzbscx/sksz/gzjg/ldxx/index.html	水口山镇人大主席		水口山镇	https://www.hnchangning.gov.cn/zwgk/xzbscx/sksz/gzjg/ldxx/20260106/i3845598.html	4479

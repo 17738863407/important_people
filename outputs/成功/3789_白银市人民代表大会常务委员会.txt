@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+惠强		1		甘肃省	白银市	https://www.baiyin.gov.cn/ldzc/index.html	主任		白银市人民代表大会常务委员会	https://www.baiyin.gov.cn/ldzc/bysrd/sfj/art/2022/art_2f0ab7a2f1204993b1c3d82a14c98b09.html	3789
+郝平英		2		甘肃省	白银市	https://www.baiyin.gov.cn/ldzc/index.html	副主任		白银市人民代表大会常务委员会	https://www.baiyin.gov.cn/ldzc/bysrd/hpy/art/2022/art_ea529a2b741b4cf2bdcb2df6b19d03e8.html	3789
+任文贵		3		甘肃省	白银市	https://www.baiyin.gov.cn/ldzc/index.html	副主任		白银市人民代表大会常务委员会	https://www.baiyin.gov.cn/ldzc/bysrd/wxd/art/2022/art_9ae2a92a1ff04508a44de936246ec192.html	3789
+马世斌		4		甘肃省	白银市	https://www.baiyin.gov.cn/ldzc/index.html	副主任		白银市人民代表大会常务委员会	https://www.baiyin.gov.cn/ldzc/bysrd/msb/art/2025/art_8e4c2fdf898c4eaaae4f95a5368632a2.html	3789
+何艳君		5		甘肃省	白银市	https://www.baiyin.gov.cn/ldzc/index.html	副主任		白银市人民代表大会常务委员会	https://www.baiyin.gov.cn/ldzc/bysrd/hyj/art/2025/art_02b69b4686f14857bd1389af467ca778.html	3789
+任辉		6		甘肃省	白银市	https://www.baiyin.gov.cn/ldzc/index.html	秘书长		白银市人民代表大会常务委员会	https://www.baiyin.gov.cn/ldzc/bysrd/rh/art/2025/art_6a23ab49d1a34a07b1e0545e57a98b00.html	3789

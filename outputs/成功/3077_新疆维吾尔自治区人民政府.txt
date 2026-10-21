@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+艾尔肯·吐尼亚孜		1		全国		https://www.xinjiang.gov.cn/xinjiang/zfld1/zfxxgk_zfld.shtml	新疆维吾尔自治区党委副书记、自治区人民政府主席、党组书记		新疆维吾尔自治区人民政府	https://www.xinjiang.gov.cn/xinjiang/aek/zfld_zx.shtml	3077
+张迎春		2		全国		https://www.xinjiang.gov.cn/xinjiang/zfld1/zfxxgk_zfld.shtml	副主席		新疆维吾尔自治区人民政府	https://www.xinjiang.gov.cn/xinjiang/c116107/zfld_list.shtml	3077
+玉苏甫江·麦麦提		3		全国		https://www.xinjiang.gov.cn/xinjiang/zfld1/zfxxgk_zfld.shtml	副主席		新疆维吾尔自治区人民政府	https://www.xinjiang.gov.cn/xinjiang/yspjmmt/zfld_list.shtml	3077
+木合亚提·加尔木哈买提		4		全国		https://www.xinjiang.gov.cn/xinjiang/zfld1/zfxxgk_zfld.shtml	副主席		新疆维吾尔自治区人民政府	https://www.xinjiang.gov.cn/xinjiang/mhmtjrmhmt/zfld_list.shtml	3077
+薛斌		5		全国		https://www.xinjiang.gov.cn/xinjiang/zfld1/zfxxgk_zfld.shtml	副主席		新疆维吾尔自治区人民政府	https://www.xinjiang.gov.cn/xinjiang/fzxxb/zfld_list.shtml	3077
+朱立凡		6		全国		https://www.xinjiang.gov.cn/xinjiang/zfld1/zfxxgk_zfld.shtml	副主席		新疆维吾尔自治区人民政府	https://www.xinjiang.gov.cn/xinjiang/c114811/zfld_list.shtml	3077
+潘曦		7		全国		https://www.xinjiang.gov.cn/xinjiang/zfld1/zfxxgk_zfld.shtml	副主席		新疆维吾尔自治区人民政府	https://www.xinjiang.gov.cn/xinjiang/fzxpx/zfld_list.shtml	3077
+聂壮		8		全国		https://www.xinjiang.gov.cn/xinjiang/zfld1/zfxxgk_zfld.shtml	副主席		新疆维吾尔自治区人民政府	https://www.xinjiang.gov.cn/xinjiang/fzxnz/zfld_list.shtml	3077
+克衣色尔·克尤木		9		全国		https://www.xinjiang.gov.cn/xinjiang/zfld1/zfxxgk_zfld.shtml	副主席		新疆维吾尔自治区人民政府	https://www.xinjiang.gov.cn/xinjiang/c115672/zfld_list.shtml	3077
+马合木提·吾买尔江		10		全国		https://www.xinjiang.gov.cn/xinjiang/zfld1/zfxxgk_zfld.shtml	副主席		新疆维吾尔自治区人民政府	https://www.xinjiang.gov.cn/xinjiang/c116398/zfld_list.shtml	3077

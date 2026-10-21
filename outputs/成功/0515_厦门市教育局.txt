@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈文强		1		福建省	厦门市	https://edu.xm.gov.cn/xxgk/zfxxgk/zfxxgkml/jgzn/jyjld/	中共厦门市委教育工作委员会委员、书记，中共厦门市教育局党组成员、书记，厦门市教育局局长		厦门市教育局	https://edu.xm.gov.cn/xxgk/zfxxgk/zfxxgkml/jgzn/jyjld/202509/t20250909_2954594.htm	0515
+洪军		2		福建省	厦门市	https://edu.xm.gov.cn/xxgk/zfxxgk/zfxxgkml/jgzn/jyjld/	中共厦门市委教育工作委员会副书记、中共厦门市教育局党组副书记		厦门市教育局	https://edu.xm.gov.cn/xxgk/zfxxgk/zfxxgkml/jgzn/jyjld/201908/t20190802_2322527.htm	0515
+陈本杰		3		福建省	厦门市	https://edu.xm.gov.cn/xxgk/zfxxgk/zfxxgkml/jgzn/jyjld/	中共厦门市委教育工作委员会委员、中共厦门市教育局党组成员，市教育纪检监察工委书记，市纪委监委驻市教育局纪检监察组组长		厦门市教育局	https://edu.xm.gov.cn/xxgk/zfxxgk/zfxxgkml/jgzn/jyjld/202112/t20211231_2614216.htm	0515
+吴雪慧		4		福建省	厦门市	https://edu.xm.gov.cn/xxgk/zfxxgk/zfxxgkml/jgzn/jyjld/	中共厦门市委教育工作委员会委员、中共厦门市教育局党组成员，厦门市教育局副局长		厦门市教育局	https://edu.xm.gov.cn/xxgk/zfxxgk/zfxxgkml/jgzn/jyjld/202211/t20221122_2704097.htm	0515
+庄剑光		5		福建省	厦门市	https://edu.xm.gov.cn/xxgk/zfxxgk/zfxxgkml/jgzn/jyjld/	中共厦门市委教育工作委员会委员、中共厦门市教育局党组成员，厦门市教育局副局长；兼任厦门一中党委书记		厦门市教育局	https://edu.xm.gov.cn/xxgk/zfxxgk/zfxxgkml/jgzn/jyjld/202312/t20231201_2801297.htm	0515
+叶本刚		6		福建省	厦门市	https://edu.xm.gov.cn/xxgk/zfxxgk/zfxxgkml/jgzn/jyjld/	中共厦门市委教育工作委员会委员、中共厦门市教育局党组成员、厦门市教育局专职副总督学		厦门市教育局	https://edu.xm.gov.cn/xxgk/zfxxgk/zfxxgkml/jgzn/jyjld/202509/t20250909_2954588.htm	0515
+刘芳		7		福建省	厦门市	https://edu.xm.gov.cn/xxgk/zfxxgk/zfxxgkml/jgzn/jyjld/	中共厦门市委教育工作委员会委员、中共厦门市教育局党组成员、厦门市教育局副局长		厦门市教育局	https://edu.xm.gov.cn/xxgk/zfxxgk/zfxxgkml/jgzn/jyjld/202509/t20250909_2954585.htm	0515
+许华娟		8		福建省	厦门市	https://edu.xm.gov.cn/xxgk/zfxxgk/zfxxgkml/jgzn/jyjld/	中共厦门市委教育工作委员会委员、厦门市教育局副局长		厦门市教育局	https://edu.xm.gov.cn/xxgk/zfxxgk/zfxxgkml/jgzn/jyjld/202604/t20260424_2992966.htm	0515

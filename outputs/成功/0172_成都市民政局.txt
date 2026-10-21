@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+付敏		1		四川省	成都市	https://cdmzj.chengdu.gov.cn/cdmzj_gb/c121885/xxgk_list.shtml	成都市民政局党组成员、书记		成都市民政局	https://cdmzj.chengdu.gov.cn/gkml/ldcy/1545015975538065408.shtml	0172
+黄德斌		2		四川省	成都市	https://cdmzj.chengdu.gov.cn/cdmzj_gb/c121885/xxgk_list.shtml	成都市民政局党组成员、副局长		成都市民政局	https://cdmzj.chengdu.gov.cn/gkml/ldcy/1641733790902546432.shtml	0172
+达娃娜姆		3		四川省	成都市	https://cdmzj.chengdu.gov.cn/cdmzj_gb/c121885/xxgk_list.shtml	成都市纪委监委驻市民政局纪检监察组组长、成都市民政局党组成员		成都市民政局	https://cdmzj.chengdu.gov.cn/gkml/ldcy/1641733790734774272.shtml	0172
+刘赵峰		4		四川省	成都市	https://cdmzj.chengdu.gov.cn/cdmzj_gb/c121885/xxgk_list.shtml	成都市民政局副局长		成都市民政局	https://cdmzj.chengdu.gov.cn/gkml/ldcy/1443555788567085056.shtml	0172

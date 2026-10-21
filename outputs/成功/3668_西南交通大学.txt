@@ -1,0 +1,16 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+闫学东		1		四川省	成都市	https://www.swjtu.edu.cn/xxgk/xrld.htm	党委书记；党委常委		西南交通大学	https://www.swjtu.edu.cn/info/2132/154952.htm	3668
+王平		2		四川省	成都市	https://www.swjtu.edu.cn/xxgk/xrld.htm	校长；党委副书记；党委常委		西南交通大学	https://www.swjtu.edu.cn/info/2172/155132.htm	3668
+杨爱华		3		四川省	成都市	https://www.swjtu.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		西南交通大学	https://www.swjtu.edu.cn/info/2142/154972.htm	3668
+夏玉峰		4		四川省	成都市	https://www.swjtu.edu.cn/xxgk/xrld.htm	党委副书记；纪委书记；党委常委		西南交通大学	https://www.swjtu.edu.cn/info/2142/154982.htm	3668
+郭俊		5		四川省	成都市	https://www.swjtu.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		西南交通大学	https://www.swjtu.edu.cn/info/2142/155212.htm	3668
+高平平		6		四川省	成都市	https://www.swjtu.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		西南交通大学	https://www.swjtu.edu.cn/info/2142/154992.htm	3668
+康国政		7		四川省	成都市	https://www.swjtu.edu.cn/xxgk/xrld.htm	副校长；党委常委		西南交通大学	https://www.swjtu.edu.cn/info/2182/155142.htm	3668
+刘长军		8		四川省	成都市	https://www.swjtu.edu.cn/xxgk/xrld.htm	副校长；党委常委		西南交通大学	https://www.swjtu.edu.cn/info/2182/155152.htm	3668
+何正友		9		四川省	成都市	https://www.swjtu.edu.cn/xxgk/xrld.htm	副校长；党委常委		西南交通大学	https://www.swjtu.edu.cn/info/2182/155162.htm	3668
+晏启祥		10		四川省	成都市	https://www.swjtu.edu.cn/xxgk/xrld.htm	副校长；党委常委		西南交通大学	https://www.swjtu.edu.cn/info/2182/155172.htm	3668
+钱林茂		11		四川省	成都市	https://www.swjtu.edu.cn/xxgk/xrld.htm	副校长；党委常委		西南交通大学	https://www.swjtu.edu.cn/info/2182/155182.htm	3668
+宋新		12		四川省	成都市	https://www.swjtu.edu.cn/xxgk/xrld.htm	校长助理		西南交通大学	https://www.swjtu.edu.cn/info/2192/155192.htm	3668
+崔凯		13		四川省	成都市	https://www.swjtu.edu.cn/xxgk/xrld.htm	校长助理		西南交通大学	https://www.swjtu.edu.cn/info/2192/155202.htm	3668
+汪铮		14		四川省	成都市	https://www.swjtu.edu.cn/xxgk/xrld.htm	党委常委		西南交通大学	https://www.swjtu.edu.cn/info/2162/155112.htm	3668
+朱剑松		15		四川省	成都市	https://www.swjtu.edu.cn/xxgk/xrld.htm	党委常委		西南交通大学	https://www.swjtu.edu.cn/info/2162/155122.htm	3668

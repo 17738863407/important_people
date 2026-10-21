@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张玉卓		1		全国		https://www.cae.cn/cae/html/main/col9/column_9_1.html	院长		中国工程院	https://www.cae.cn/cae/html/main/col9/2026-07/11/20260711082010763528345_1.html	0128
+张军		2		全国		https://www.cae.cn/cae/html/main/col9/column_9_1.html	副院长		中国工程院	https://www.cae.cn/cae/html/main/col9/2026-07/11/20260711082105644663195_1.html	0128
+陈杰		3		全国		https://www.cae.cn/cae/html/main/col9/column_9_1.html	副院长		中国工程院	https://www.cae.cn/cae/html/main/col9/2026-07/11/20260711082348781760260_1.html	0128
+李仲平		4		全国		https://www.cae.cn/cae/html/main/col9/column_9_1.html	副院长		中国工程院	https://www.cae.cn/cae/html/main/col9/2026-07/11/20260711082422496230465_1.html	0128
+陈建峰		5		全国		https://www.cae.cn/cae/html/main/col9/column_9_1.html	副院长		中国工程院	https://www.cae.cn/cae/html/main/col9/2026-07/11/20260711082448648997888_1.html	0128
+陈薇		6		全国		https://www.cae.cn/cae/html/main/col9/column_9_1.html	副院长		中国工程院	https://www.cae.cn/cae/html/main/col9/2026-07/11/20260711082513220692686_1.html	0128

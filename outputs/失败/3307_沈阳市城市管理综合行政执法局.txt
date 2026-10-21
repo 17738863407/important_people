@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+丰学岩		1		辽宁省	沈阳市	https://zfj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202605/t20260509_5024388.html	党组书记、局长		沈阳市城市管理综合行政执法局		3307
+张正义		2		辽宁省	沈阳市	https://zfj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202605/t20260509_5024388.html	党组成员、副局长，兼市园林局局长		沈阳市城市管理综合行政执法局		3307
+滕广亮		3		辽宁省	沈阳市	https://zfj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202605/t20260509_5024388.html	党组成员、副局长		沈阳市城市管理综合行政执法局		3307
+赵策		4		辽宁省	沈阳市	https://zfj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202605/t20260509_5024388.html	党组成员、副局长		沈阳市城市管理综合行政执法局		3307
+郭俊峰		5		辽宁省	沈阳市	https://zfj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202605/t20260509_5024388.html	党组成员、副局长		沈阳市城市管理综合行政执法局		3307
+仇艳娥		6		辽宁省	沈阳市	https://zfj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202605/t20260509_5024388.html	自然资源执法分局党委书记		沈阳市城市管理综合行政执法局		3307
+陈宝东		7		辽宁省	沈阳市	https://zfj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202605/t20260509_5024388.html	市城市精细化管理服务中心（园林绿化与市容环卫管护中心）书记		沈阳市城市管理综合行政执法局		3307
+寇恩来		8		辽宁省	沈阳市	https://zfj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202605/t20260509_5024388.html	自然资源执法分局局长		沈阳市城市管理综合行政执法局		3307
+代保清		9		辽宁省	沈阳市	https://zfj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202605/t20260509_5024388.html	市园林科学研究院（环境卫生工程设计研究院）院长		沈阳市城市管理综合行政执法局		3307
+高琳琰		10		辽宁省	沈阳市	https://zfj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202605/t20260509_5024388.html	水务执法分局局长		沈阳市城市管理综合行政执法局		3307

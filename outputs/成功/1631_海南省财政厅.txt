@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李逊敏		1		海南省		https://mof.hainan.gov.cn/sczt/0103/leadlist.shtml?ddtab=true	党组书记、厅长		海南省财政厅	https://mof.hainan.gov.cn/sczt/0103/201811/b5ede563ae054526863b52895f356deb.shtml	1631
+姚世来		2		海南省		https://mof.hainan.gov.cn/sczt/0103/leadlist.shtml?ddtab=true	海南省纪委监委驻省财政厅纪检监察组组长、省财政厅党组成员		海南省财政厅	https://mof.hainan.gov.cn/sczt/0103/201911/ccf3e9cf1425435b91fc1cfc68941ff0.shtml	1631
+周正		3		海南省		https://mof.hainan.gov.cn/sczt/0103/leadlist.shtml?ddtab=true	厅党组成员、副厅长		海南省财政厅	https://mof.hainan.gov.cn/sczt/0103/201911/9c670697ba994e2791a61048e1ea784a.shtml	1631
+李秀强		4		海南省		https://mof.hainan.gov.cn/sczt/0103/leadlist.shtml?ddtab=true	厅党组成员、副厅长		海南省财政厅	https://mof.hainan.gov.cn/sczt/0103/201911/be1feeef74a04b399a936b12175016b1.shtml	1631
+张雪		5		海南省		https://mof.hainan.gov.cn/sczt/0103/leadlist.shtml?ddtab=true	厅党组成员、副厅长		海南省财政厅	https://mof.hainan.gov.cn/sczt/0103/202203/33ecee2276084df8a9f66edbf5bcbdec.shtml	1631
+苏才丰		6		海南省		https://mof.hainan.gov.cn/sczt/0103/leadlist.shtml?ddtab=true	厅党组成员、省省直单位会计管理中心（省财政国库支付局）主任（局长）		海南省财政厅	https://mof.hainan.gov.cn/sczt/0103/201811/35dc4678ba274271bb306e742232d1a7.shtml	1631
+杨玉琬		7		海南省		https://mof.hainan.gov.cn/sczt/0103/leadlist.shtml?ddtab=true	厅二级巡视员		海南省财政厅	https://mof.hainan.gov.cn/sczt/0103/202603/44b1c9426ef842729e9182335f6c458c.shtml	1631
+吴泳		8		海南省		https://mof.hainan.gov.cn/sczt/0103/leadlist.shtml?ddtab=true	厅二级巡视员		海南省财政厅	https://mof.hainan.gov.cn/sczt/0103/202603/99f9bd89196b4afd89b00e6cc82ba349.shtml	1631
+卢宾		9		海南省		https://mof.hainan.gov.cn/sczt/0103/leadlist.shtml?ddtab=true	厅机关党委专职副书记、二级巡视员		海南省财政厅	https://mof.hainan.gov.cn/sczt/0103/202603/376338ab9c084232a7c13ab39eb2a624.shtml	1631
+张红丽		10		海南省		https://mof.hainan.gov.cn/sczt/0103/leadlist.shtml?ddtab=true	总会计师、一级调研员，机关党委副书记，机关纪委书记		海南省财政厅	https://mof.hainan.gov.cn/sczt/0103/202603/e2b0b6f773484cdc911343e0b452813a.shtml	1631

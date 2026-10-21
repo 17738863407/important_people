@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邓维元		1		黑龙江省	鹤岗市	https://www.hegang.gov.cn/hegang/szf/index_szf.shtml	市长		鹤岗市人民政府	https://www.hegang.gov.cn/hegang/xsz/202410/61559.shtml	3829
+齐东亮		2		黑龙江省	鹤岗市	https://www.hegang.gov.cn/hegang/szf/index_szf.shtml	副市长		鹤岗市人民政府	https://www.hegang.gov.cn/hegang/fsz/202307/79.shtml	3829
+周茂林		3		黑龙江省	鹤岗市	https://www.hegang.gov.cn/hegang/szf/index_szf.shtml	副市长		鹤岗市人民政府	https://www.hegang.gov.cn/hegang/fsz/202607/92164.shtml	3829
+宋洪柱		4		黑龙江省	鹤岗市	https://www.hegang.gov.cn/hegang/szf/index_szf.shtml	副市长		鹤岗市人民政府	https://www.hegang.gov.cn/hegang/fsz/202606/92165.shtml	3829
+张剑		5		黑龙江省	鹤岗市	https://www.hegang.gov.cn/hegang/szf/index_szf.shtml	副市长		鹤岗市人民政府	https://www.hegang.gov.cn/hegang/fsz/202403/26647.shtml	3829
+赵运鹏		6		黑龙江省	鹤岗市	https://www.hegang.gov.cn/hegang/szf/index_szf.shtml	副市长		鹤岗市人民政府	https://www.hegang.gov.cn/hegang/fsz/202502/69739.shtml	3829
+陈旭光		7		黑龙江省	鹤岗市	https://www.hegang.gov.cn/hegang/szf/index_szf.shtml	副市长		鹤岗市人民政府	https://www.hegang.gov.cn/hegang/fsz/202606/92166.shtml	3829
+郝洪山		8		黑龙江省	鹤岗市	https://www.hegang.gov.cn/hegang/szf/index_szf.shtml	副市长		鹤岗市人民政府	https://www.hegang.gov.cn/hegang/fsz/202608/93314.shtml	3829
+魏迎军		9		黑龙江省	鹤岗市	https://www.hegang.gov.cn/hegang/szf/index_szf.shtml	副市长		鹤岗市人民政府	https://www.hegang.gov.cn/hegang/fsz/202608/93315.shtml	3829
+范吉涛		10		黑龙江省	鹤岗市	https://www.hegang.gov.cn/hegang/szf/index_szf.shtml	秘书长		鹤岗市人民政府	https://www.hegang.gov.cn/hegang/msz/202507/78193.shtml	3829

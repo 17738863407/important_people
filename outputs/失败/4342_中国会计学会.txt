@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+舒惠好		1		全国		https://www.asc.net.cn/News/NewsContent.aspx?NewsID=1BC818DF-8612-4BC0-9B9C-2B3F4E22CD8B&PageCode=MENU_AE_AD	常务副会长		中国会计学会		4342
+王化成		2		全国		https://www.asc.net.cn/News/NewsContent.aspx?NewsID=1BC818DF-8612-4BC0-9B9C-2B3F4E22CD8B&PageCode=MENU_AE_AD	副会长		中国会计学会		4342
+方红星		3		全国		https://www.asc.net.cn/News/NewsContent.aspx?NewsID=1BC818DF-8612-4BC0-9B9C-2B3F4E22CD8B&PageCode=MENU_AE_AD	副会长		中国会计学会		4342
+杜兴强		4		全国		https://www.asc.net.cn/News/NewsContent.aspx?NewsID=1BC818DF-8612-4BC0-9B9C-2B3F4E22CD8B&PageCode=MENU_AE_AD	副会长		中国会计学会		4342
+张少峰		5		全国		https://www.asc.net.cn/News/NewsContent.aspx?NewsID=1BC818DF-8612-4BC0-9B9C-2B3F4E22CD8B&PageCode=MENU_AE_AD	副会长		中国会计学会		4342
+张龙平		6		全国		https://www.asc.net.cn/News/NewsContent.aspx?NewsID=1BC818DF-8612-4BC0-9B9C-2B3F4E22CD8B&PageCode=MENU_AE_AD	副会长		中国会计学会		4342
+刘光忠		7		全国		https://www.asc.net.cn/News/NewsContent.aspx?NewsID=1BC818DF-8612-4BC0-9B9C-2B3F4E22CD8B&PageCode=MENU_AE_AD	副会长		中国会计学会		4342
+陈信元		8		全国		https://www.asc.net.cn/News/NewsContent.aspx?NewsID=1BC818DF-8612-4BC0-9B9C-2B3F4E22CD8B&PageCode=MENU_AE_AD	副会长		中国会计学会		4342
+赵德武		9		全国		https://www.asc.net.cn/News/NewsContent.aspx?NewsID=1BC818DF-8612-4BC0-9B9C-2B3F4E22CD8B&PageCode=MENU_AE_AD	副会长		中国会计学会		4342
+胡少先		10		全国		https://www.asc.net.cn/News/NewsContent.aspx?NewsID=1BC818DF-8612-4BC0-9B9C-2B3F4E22CD8B&PageCode=MENU_AE_AD	副会长		中国会计学会		4342
+黄世忠		11		全国		https://www.asc.net.cn/News/NewsContent.aspx?NewsID=1BC818DF-8612-4BC0-9B9C-2B3F4E22CD8B&PageCode=MENU_AE_AD	副会长		中国会计学会		4342

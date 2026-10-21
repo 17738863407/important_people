@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨佳瑛		1		上海市		https://rsj.sh.gov.cn/tjgld_17202/20240603/ffe1ced105614e5289093fba5b04dd1f.html	党组书记、局长		上海市人力资源和社会保障局		2207
+费予清		2		上海市		https://rsj.sh.gov.cn/tjgld_17202/20240603/ffe1ced105614e5289093fba5b04dd1f.html	党组成员、副局长、一级巡视员		上海市人力资源和社会保障局	https://rsj.sh.gov.cn/tjgld_17202/20240603/de41337e143e4dcbb5fa86b0bf8245e2.html	2207
+谈琳		3		上海市		https://rsj.sh.gov.cn/tjgld_17202/20240603/ffe1ced105614e5289093fba5b04dd1f.html	党组成员、副局长		上海市人力资源和社会保障局	https://rsj.sh.gov.cn/tjgld_17202/20240603/efdf887d630f4bab9e21f143814c2520.html	2207
+李炜		4		上海市		https://rsj.sh.gov.cn/tjgld_17202/20240603/ffe1ced105614e5289093fba5b04dd1f.html	党组成员、副局长		上海市人力资源和社会保障局	https://rsj.sh.gov.cn/tjgld_17202/20240603/1319b162a3d64bcdba3467cb573bee5d.html	2207
+谭友林		5		上海市		https://rsj.sh.gov.cn/tjgld_17202/20240603/ffe1ced105614e5289093fba5b04dd1f.html	党组成员、副局长兼市就促中心党委书记		上海市人力资源和社会保障局	https://rsj.sh.gov.cn/tjgld_17202/20240603/7a6efb01dfa1499d9bf1185472212ede.html	2207
+李斌		6		上海市		https://rsj.sh.gov.cn/tjgld_17202/20240603/ffe1ced105614e5289093fba5b04dd1f.html	党组成员、市纪委监委驻市人社局纪检监察组组长		上海市人力资源和社会保障局	https://rsj.sh.gov.cn/tjgld_17202/20240603/fb099420c5ba45ce8d74957eee579c3e.html	2207
+卜缨		7		上海市		https://rsj.sh.gov.cn/tjgld_17202/20240603/ffe1ced105614e5289093fba5b04dd1f.html	市社保中心党委书记		上海市人力资源和社会保障局	https://rsj.sh.gov.cn/tjgld_17202/20240603/df06992fc5a147c6bed25385667b5b41.html	2207
+程征东		8		上海市		https://rsj.sh.gov.cn/tjgld_17202/20240603/ffe1ced105614e5289093fba5b04dd1f.html	市社保中心主任		上海市人力资源和社会保障局	https://rsj.sh.gov.cn/tjgld_17202/20240603/cad41882991c4c868a7694cddd1b79f2.html	2207
+周国良		9		上海市		https://rsj.sh.gov.cn/tjgld_17202/20240603/ffe1ced105614e5289093fba5b04dd1f.html	市就促中心主任		上海市人力资源和社会保障局	https://rsj.sh.gov.cn/tjgld_17202/20240603/acbfccd7afa246f693187da5435ef7b3.html	2207

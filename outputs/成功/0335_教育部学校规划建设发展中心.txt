@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+晁桂明		1		全国		https://www.csdp.edu.cn/onepage186.html	主任		教育部学校规划建设发展中心		0335
+陈建荣		2		全国		https://www.csdp.edu.cn/onepage186.html	副主任		教育部学校规划建设发展中心		0335
+王长树		3		全国		https://www.csdp.edu.cn/onepage186.html	副主任		教育部学校规划建设发展中心		0335

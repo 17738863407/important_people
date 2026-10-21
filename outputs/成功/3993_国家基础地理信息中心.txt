@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈常松		1		全国		http://www.ngcc.cn/zzjg/ldzc/	党委书记、主任		国家基础地理信息中心		3993
+赵勇		2		全国		http://www.ngcc.cn/zzjg/ldzc/	副主任		国家基础地理信息中心		3993
+黄蔚		3		全国		http://www.ngcc.cn/zzjg/ldzc/	副主任		国家基础地理信息中心		3993
+张东芹		4		全国		http://www.ngcc.cn/zzjg/ldzc/	纪委书记		国家基础地理信息中心		3993
+章炜		5		全国		http://www.ngcc.cn/zzjg/ldzc/	党委专职副书记		国家基础地理信息中心		3993
+张振华		6		全国		http://www.ngcc.cn/zzjg/ldzc/	副主任		国家基础地理信息中心		3993
+刘建军		7		全国		http://www.ngcc.cn/zzjg/ldzc/	副主任		国家基础地理信息中心		3993

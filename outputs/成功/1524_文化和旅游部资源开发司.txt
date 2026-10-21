@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+满宏卫		1		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202408/t20240806_954527.htm	司长		文化和旅游部资源开发司		1524
+宋奇慧		2		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202408/t20240806_954527.htm	一级巡视员		文化和旅游部资源开发司		1524
+王鹤云		3		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202408/t20240806_954527.htm	一级巡视员		文化和旅游部资源开发司		1524
+吴科锋		4		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202408/t20240806_954527.htm	副司长		文化和旅游部资源开发司		1524
+张锐瑞		5		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202408/t20240806_954527.htm	副司长		文化和旅游部资源开发司		1524
+魏立忠		6		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202408/t20240806_954527.htm	副司长		文化和旅游部资源开发司		1524

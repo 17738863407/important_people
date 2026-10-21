@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吕江宇		1		甘肃省	兰州市	http://yjj.lanzhou.gov.cn/col/col16214/index.html	兰州市应急管理局党委书记、局长		兰州市应急管理局	http://yjj.lanzhou.gov.cn/art/2026/9/25/art_10575_1742604.html	3225
+安胜利		2		甘肃省	兰州市	http://yjj.lanzhou.gov.cn/col/col16214/index.html	兰州市应急管理局党委委员、副局长		兰州市应急管理局	http://yjj.lanzhou.gov.cn/art/2019/5/10/art_10575_584197.html	3225
+齐俊德		3		甘肃省	兰州市	http://yjj.lanzhou.gov.cn/col/col16214/index.html	兰州市应急管理局党委委员、副局长		兰州市应急管理局	http://yjj.lanzhou.gov.cn/art/2026/2/2/art_10575_1677490.html	3225
+赵晓山		4		甘肃省	兰州市	http://yjj.lanzhou.gov.cn/col/col16214/index.html	兰州市应急管理局党委委员、副局长		兰州市应急管理局	http://yjj.lanzhou.gov.cn/art/2025/9/5/art_10575_584195.html	3225
+李建奎		5		甘肃省	兰州市	http://yjj.lanzhou.gov.cn/col/col16214/index.html	兰州市应急管理局一级调研员		兰州市应急管理局	http://yjj.lanzhou.gov.cn/art/2019/5/10/art_10575_584198.html	3225
+李友军		6		甘肃省	兰州市	http://yjj.lanzhou.gov.cn/col/col16214/index.html	兰州市应急管理局总工程师		兰州市应急管理局	http://yjj.lanzhou.gov.cn/art/2019/5/10/art_10575_584194.html	3225
+陈斌		7		甘肃省	兰州市	http://yjj.lanzhou.gov.cn/col/col16214/index.html	兰州市应急管理局三级调研员		兰州市应急管理局	http://yjj.lanzhou.gov.cn/art/2019/5/10/art_10575_584192.html	3225

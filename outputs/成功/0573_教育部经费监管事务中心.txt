@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘景		1		全国		https://fsac.cee.edu.cn/zhongxingaikuang/zhongxinlingdao/	党总支书记、主任		教育部经费监管事务中心	https://fsac.cee.edu.cn/zhongxingaikuang/zhongxinlingdao/zhongxinzhuren/2015-10-26/151.html	0573
+徐薇		2		全国		https://fsac.cee.edu.cn/zhongxingaikuang/zhongxinlingdao/	副主任		教育部经费监管事务中心	https://fsac.cee.edu.cn/zhongxingaikuang/zhongxinlingdao/zhongxinfuzhuren/2023-03-10/743.html	0573
+吕东伟		3		全国		https://fsac.cee.edu.cn/zhongxingaikuang/zhongxinlingdao/	党总支副书记、副主任		教育部经费监管事务中心	https://fsac.cee.edu.cn/zhongxingaikuang/zhongxinlingdao/zhongxinfuzhuren/2024-12-03/897.html	0573
+王小力		4		全国		https://fsac.cee.edu.cn/zhongxingaikuang/zhongxinlingdao/	副主任		教育部经费监管事务中心	https://fsac.cee.edu.cn/zhongxingaikuang/zhongxinlingdao/zhongxinfuzhuren/2026-09-10/1034.html	0573

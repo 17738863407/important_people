@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨长利		1		全国		http://www.cgnpc.com.cn/cgn/c100915/gltd.shtml	党委书记 董事长		中国广核集团有限公司		3473
+庞松涛		2		全国		http://www.cgnpc.com.cn/cgn/c100915/gltd.shtml	党委副书记 董事 总经理		中国广核集团有限公司		3473
+李历		3		全国		http://www.cgnpc.com.cn/cgn/c100915/gltd.shtml	党委副书记 董事		中国广核集团有限公司		3473
+何海滨		4		全国		http://www.cgnpc.com.cn/cgn/c100915/gltd.shtml	党委常委 总会计师		中国广核集团有限公司		3473
+李亦伦		5		全国		http://www.cgnpc.com.cn/cgn/c100915/gltd.shtml	党委常委 副总经理		中国广核集团有限公司		3473
+蔡振		6		全国		http://www.cgnpc.com.cn/cgn/c100915/gltd.shtml	党委常委 副总经理		中国广核集团有限公司		3473

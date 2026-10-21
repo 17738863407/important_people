@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郎文荣		1		浙江省		https://www.zj.gov.cn/dctslm/zjsgfdybgs/index.html	中共浙江省委军民融合发展委员会办公室常务副主任，浙江省国防动员办公室主任、党组书记		浙江省国防动员办公室	https://www.zj.gov.cn/art/2024/4/30/art_1229278489_160351.html	3326
+严政		2		浙江省		https://www.zj.gov.cn/dctslm/zjsgfdybgs/index.html	中共浙江省委军民融合发展委员会办公室室务委员、浙江省国防动员办公室党组成员，一级巡视员		浙江省国防动员办公室	https://www.zj.gov.cn/art/2024/3/11/art_1229278489_157716.html	3326
+卢飞云		3		浙江省		https://www.zj.gov.cn/dctslm/zjsgfdybgs/index.html	中共浙江省委军民融合发展委员会办公室副主任，浙江省国防动员办公室副主任、党组成员		浙江省国防动员办公室	https://www.zj.gov.cn/art/2024/3/11/art_1229278489_157723.html	3326
+赖红林		4		浙江省		https://www.zj.gov.cn/dctslm/zjsgfdybgs/index.html	中共浙江省委军民融合发展委员会办公室副主任		浙江省国防动员办公室	https://www.zj.gov.cn/art/2024/8/6/art_1229278489_164342.html	3326
+冯华东		5		浙江省		https://www.zj.gov.cn/dctslm/zjsgfdybgs/index.html	中共浙江省委军民融合发展委员会办公室副主任，浙江省国防动员办公室副主任、党组成员		浙江省国防动员办公室	https://www.zj.gov.cn/art/2024/3/11/art_1229278489_157717.html	3326
+张军伟		6		浙江省		https://www.zj.gov.cn/dctslm/zjsgfdybgs/index.html	中共浙江省委军民融合发展委员会办公室副主任，浙江省国防动员办公室副主任、党组成员		浙江省国防动员办公室	https://www.zj.gov.cn/art/2024/3/11/art_1229278489_157718.html	3326
+丁来周		7		浙江省		https://www.zj.gov.cn/dctslm/zjsgfdybgs/index.html	中共浙江省委军民融合发展委员会办公室室务委员、浙江省国防动员办公室党组成员，综合秘书处处长、一级调研员		浙江省国防动员办公室	https://www.zj.gov.cn/art/2024/3/11/art_1229278489_157722.html	3326

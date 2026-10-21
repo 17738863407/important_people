@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+庄建球		1		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=platform&k=law&t=org&i=02&d=4	郑州市委副书记，市政府市长、党组书记		郑州市人民政府	https://public.zhengzhou.gov.cn/D13X/9080459.jhtml	2099
+陈宏伟		2		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=platform&k=law&t=org&i=02&d=4	郑州市委常委，市政府副市长、党组副书记		郑州市人民政府	https://public.zhengzhou.gov.cn/D13X/6172112.jhtml	2099
+石秀田		3		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=platform&k=law&t=org&i=02&d=4	郑州市政府副市长、党组成员，市公安局党委书记、局长、督察长		郑州市人民政府	https://public.zhengzhou.gov.cn/D13X/6446965.jhtml	2099
+陈红民		4		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=platform&k=law&t=org&i=02&d=4	郑州市政府副市长、党组成员		郑州市人民政府	https://public.zhengzhou.gov.cn/D13X/6405185.jhtml	2099
+王滔		5		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=platform&k=law&t=org&i=02&d=4	郑州市政府副市长、党组成员		郑州市人民政府	https://public.zhengzhou.gov.cn/D13X/8693750.jhtml	2099
+马志峰		6		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=platform&k=law&t=org&i=02&d=4	郑州市政府副市长、党组成员		郑州市人民政府	https://public.zhengzhou.gov.cn/D13X/6889204.jhtml	2099
+李凤芝		7		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=platform&k=law&t=org&i=02&d=4	郑州市政府副市长		郑州市人民政府	https://public.zhengzhou.gov.cn/D13X/6889260.jhtml	2099
+张艳敏		8		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=platform&k=law&t=org&i=02&d=4	郑州市政府副市长、党组成员		郑州市人民政府	https://public.zhengzhou.gov.cn/D13X/9607535.jhtml	2099
+杨金军		9		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=platform&k=law&t=org&i=02&d=4	郑州市政府秘书长、党组成员，机关党组书记		郑州市人民政府	https://public.zhengzhou.gov.cn/D13X/9874979.jhtml	2099

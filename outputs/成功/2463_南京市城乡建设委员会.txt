@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于茂高		1		江苏省	南京市	https://sjw.nanjing.gov.cn/njscxjswyh/?id=xxgk_215	主任、党委书记		南京市城乡建设委员会		2463
+陆一		2		江苏省	南京市	https://sjw.nanjing.gov.cn/njscxjswyh/?id=xxgk_215	副主任、二级巡视员		南京市城乡建设委员会		2463
+宋刚		3		江苏省	南京市	https://sjw.nanjing.gov.cn/njscxjswyh/?id=xxgk_215	副主任，党委委员		南京市城乡建设委员会		2463
+石平府		4		江苏省	南京市	https://sjw.nanjing.gov.cn/njscxjswyh/?id=xxgk_215	副主任、党委委员		南京市城乡建设委员会		2463
+薛海		5		江苏省	南京市	https://sjw.nanjing.gov.cn/njscxjswyh/?id=xxgk_215	副主任、党委委员		南京市城乡建设委员会		2463
+谢冬		6		江苏省	南京市	https://sjw.nanjing.gov.cn/njscxjswyh/?id=xxgk_215	副主任、党委委员		南京市城乡建设委员会		2463
+王晓华		7		江苏省	南京市	https://sjw.nanjing.gov.cn/njscxjswyh/?id=xxgk_215	二级巡视员		南京市城乡建设委员会		2463
+陈银军		8		江苏省	南京市	https://sjw.nanjing.gov.cn/njscxjswyh/?id=xxgk_215	一级调研员		南京市城乡建设委员会		2463

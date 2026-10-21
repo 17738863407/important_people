@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+姜劲儒		1		陕西省	西安市	http://police.xa.gov.cn/zwgk/jggk/ldxx/1.html	西安市人民政府副市长、党组成员，市公安局党委书记、局长、督察长		西安市公安局		2077
+周军户		2		陕西省	西安市	http://police.xa.gov.cn/zwgk/jggk/ldxx/1.html	市公安局党委副书记、常务副局长		西安市公安局		2077
+殷浩		3		陕西省	西安市	http://police.xa.gov.cn/zwgk/jggk/ldxx/1.html	市公安局党委委员、副局长、二级警务专员，西咸新区分局局长		西安市公安局		2077
+张炜		4		陕西省	西安市	http://police.xa.gov.cn/zwgk/jggk/ldxx/1.html	市公安局党委委员、副局长、二级警务专员		西安市公安局		2077
+贾鹏图		5		陕西省	西安市	http://police.xa.gov.cn/zwgk/jggk/ldxx/1.html	市公安局党委委员、政治部主任		西安市公安局		2077
+魏随康		6		陕西省	西安市	http://police.xa.gov.cn/zwgk/jggk/ldxx/1.html	市公安局党委委员、副局长		西安市公安局		2077
+李强		7		陕西省	西安市	http://police.xa.gov.cn/zwgk/jggk/ldxx/1.html	市公安局党委委员、市纪委监委驻市公安局纪检监察组组长		西安市公安局		2077

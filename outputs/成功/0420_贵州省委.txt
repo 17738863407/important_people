@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐麟		1		全国		http://district.ce.cn/zt/rwk/sf/gz/index.shtml	省委书记、省人大常委会主任		贵州省委	http://district.ce.cn/newarea/sddy/202301/17/t20230117_38352990.shtml	0420
+李炳军		2		全国		http://district.ce.cn/zt/rwk/sf/gz/index.shtml	省委副书记、省长		贵州省委	http://district.ce.cn/newarea/sddy/202301/17/t20230117_38352992.shtml	0420
+马汉成		3		全国		http://district.ce.cn/zt/rwk/sf/gz/index.shtml	省委副书记、政法委书记		贵州省委	http://district.ce.cn/newarea/sddy/202501/06/t20250106_39257300.shtml	0420
+卢雍政		4		全国		http://district.ce.cn/zt/rwk/sf/gz/index.shtml	省委常委、宣传部部长、教育工委书记		贵州省委	http://district.ce.cn/newarea/sddy/202204/28/t20220428_37540948_4.shtml	0420
+郭强		5		全国		http://district.ce.cn/zt/rwk/sf/gz/index.shtml	省委常委，遵义市委书记		贵州省委	http://district.ce.cn/newarea/sddy/202609/t20260901_3185394.shtml	0420
+李睿		6		全国		http://district.ce.cn/zt/rwk/sf/gz/index.shtml	省委常委、纪委书记、省监委代理主任		贵州省委	http://district.ce.cn/newarea/sddy/202607/t20260714_3085708.shtml	0420
+王雷		7		全国		http://district.ce.cn/zt/rwk/sf/gz/index.shtml	省委常委，省军区少将司令员		贵州省委	http://district.ce.cn/newarea/sddy/202304/01/t20230401_38475566.shtml	0420
+郭锡文		8		全国		http://district.ce.cn/zt/rwk/sf/gz/index.shtml	省委常委、毕节市委书记		贵州省委	http://district.ce.cn/newarea/sddy/202509/t20250901_2460579.shtml	0420
+胡广杰		9		全国		http://district.ce.cn/zt/rwk/sf/gz/index.shtml	省委常委、副省长，省政府党组副书记		贵州省委	http://district.ce.cn/newarea/sddy/202607/t20260714_3086114.shtml	0420
+曲林		10		全国		http://district.ce.cn/zt/rwk/sf/gz/index.shtml	省委常委、组织部部长		贵州省委	http://district.ce.cn/newarea/sddy/202601/t20260114_2700458.shtml	0420

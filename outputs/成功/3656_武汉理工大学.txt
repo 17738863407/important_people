@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孟芳兵		1		湖北省	武汉市	https://www.whut.edu.cn/xuexiaogaikuang/xrld/	党委书记		武汉理工大学	https://www.whut.edu.cn/xuexiaogaikuang/xrld/grjj/202507/t20250711_1380561.shtml	3656
+王发洲		2		湖北省	武汉市	https://www.whut.edu.cn/xuexiaogaikuang/xrld/	党委副书记；校长		武汉理工大学	https://www.whut.edu.cn/xuexiaogaikuang/xrld/grjj/202507/t20250711_1380562.shtml	3656
+刘春江		3		湖北省	武汉市	https://www.whut.edu.cn/xuexiaogaikuang/xrld/	党委副书记		武汉理工大学	https://www.whut.edu.cn/xuexiaogaikuang/xrld/grjj/202510/t20251016_1380566.shtml	3656
+李金发		4		湖北省	武汉市	https://www.whut.edu.cn/xuexiaogaikuang/xrld/	党委副书记；纪委书记		武汉理工大学	https://www.whut.edu.cn/xuexiaogaikuang/xrld/grjj/202508/t20250825_1380565.shtml	3656
+李潮欣		5		湖北省	武汉市	https://www.whut.edu.cn/xuexiaogaikuang/xrld/	党委副书记		武汉理工大学	https://www.whut.edu.cn/xuexiaogaikuang/xrld/grjj/202510/t20251016_1380568.shtml	3656
+沈革武		6		湖北省	武汉市	https://www.whut.edu.cn/xuexiaogaikuang/xrld/	副校长		武汉理工大学	https://www.whut.edu.cn/xuexiaogaikuang/xrld/grjj/202507/t20250711_1380563.shtml	3656
+罗蓉		7		湖北省	武汉市	https://www.whut.edu.cn/xuexiaogaikuang/xrld/	副校长		武汉理工大学	https://www.whut.edu.cn/xuexiaogaikuang/xrld/grjj/202302/t20230227_1380558.shtml	3656
+麦立强		8		湖北省	武汉市	https://www.whut.edu.cn/xuexiaogaikuang/xrld/	副校长		武汉理工大学	https://www.whut.edu.cn/xuexiaogaikuang/xrld/grjj/202312/t20231213_1380559.shtml	3656
+张笛		9		湖北省	武汉市	https://www.whut.edu.cn/xuexiaogaikuang/xrld/	副校长		武汉理工大学	https://www.whut.edu.cn/xuexiaogaikuang/xrld/grjj/202507/t20250711_1380564.shtml	3656
+胡剑		10		湖北省	武汉市	https://www.whut.edu.cn/xuexiaogaikuang/xrld/	副校长		武汉理工大学	https://www.whut.edu.cn/xuexiaogaikuang/xrld/grjj/202510/t20251016_1380569.shtml	3656
+李政颖		11		湖北省	武汉市	https://www.whut.edu.cn/xuexiaogaikuang/xrld/	副校长		武汉理工大学	https://www.whut.edu.cn/xuexiaogaikuang/xrld/grjj/202510/t20251016_1380567.shtml	3656

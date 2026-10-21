@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马祯青		1		青海省	西宁市	https://sfj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	西宁市司法局党组书记、局长		西宁市司法局	https://sfj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202307/t20230706_189040.html	2319
+高根顺		2		青海省	西宁市	https://sfj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	西宁市司法局党组成员、副局长（正县级）		西宁市司法局	https://sfj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202402/t20240228_200111.html	2319
+张弛		3		青海省	西宁市	https://sfj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	西宁市司法局党组成员、副局长		西宁市司法局	https://sfj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202410/t20241024_209264.html	2319
+达玲玲		4		青海省	西宁市	https://sfj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	西宁市司法局党组成员、政治部主任		西宁市司法局	https://sfj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202206/t20220623_170721.html	2319

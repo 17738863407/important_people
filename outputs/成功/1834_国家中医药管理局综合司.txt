@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邢超		1		全国		http://www.natcm.gov.cn/bangongshi/guanyuwomen/2019-07-24/10332.html	综合司副司长、二级巡视员		国家中医药管理局综合司		1834
+李希贤		2		全国		http://www.natcm.gov.cn/bangongshi/guanyuwomen/2019-07-24/10332.html	综合司副司长		国家中医药管理局综合司		1834
+高敏		3		全国		http://www.natcm.gov.cn/bangongshi/guanyuwomen/2019-07-24/10332.html	综合司副司长		国家中医药管理局综合司		1834

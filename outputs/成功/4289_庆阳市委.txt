@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周继军		1		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld	市委书记		庆阳市委	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld/sj/content_347845	4289
+胡志勇		2		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld	市委副书记、市长		庆阳市委	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld/swfsj/content_347847	4289
+徐志强		3		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld	市委副书记、市委政法委书记、市委党校校长		庆阳市委	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld/swfsj/content_347846	4289
+孔卫涛		4		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld	市委常委、西峰区委书记		庆阳市委	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld/swcw/content_347852	4289
+张希岳		5		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld	市委常委、市委统战部部长，市社会主义学院院长，市政协党组副书记		庆阳市委	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld/swcw/content_347849	4289
+韩鹏		6		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld	市委常委、庆阳军分区大校司令员		庆阳市委	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld/swcw/content_347851	4289
+齐鹏		7		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld	市委常委、市委组织部部长		庆阳市委	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld/swcw/content_347853	4289
+张鸿举		8		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld	市委常委、庆城县委书记		庆阳市委	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld/swcw/content_347848	4289
+刘长发		9		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld	市委常委、市政府党组副书记、常务副市长		庆阳市委	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld/swcw/content_347855	4289
+刘殿龙		10		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld	市委常委、市纪委书记、市监委代主任		庆阳市委	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld/swcw/content_347854	4289
+李菊霞		11		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld	市委常委、市委宣传部部长		庆阳市委	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/swld/swcw/content_351504	4289

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张烨		1		陕西省		https://tjj.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/	党组书记、局长		陕西省统计局	https://tjj.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202006/t20200629_508771.html	2741
+胡清升		2		陕西省		https://tjj.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/	局党组成员、副局长		陕西省统计局	https://tjj.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202006/t20200629_508773.html	2741
+葛小伟		3		陕西省		https://tjj.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/	局党组成员、副局长		陕西省统计局	https://tjj.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202006/t20200629_508776.html	2741
+成华		4		陕西省		https://tjj.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/	局党组成员、副局长		陕西省统计局	https://tjj.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202606/t20260605_3645076.html	2741
+魏静怡		5		陕西省		https://tjj.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/	省地方社会经济调查中心主任		陕西省统计局	https://tjj.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202006/t20200629_508777.html	2741

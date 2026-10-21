@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐龙蛟		1		河北省	石家庄市	https://rsj.sjz.gov.cn/columns/290161c2-578c-4ef7-a587-50b774af966e/index.html	党组书记、局长		石家庄市人力资源和社会保障局		2209
+徐志峰		2		河北省	石家庄市	https://rsj.sjz.gov.cn/columns/290161c2-578c-4ef7-a587-50b774af966e/index.html	党组成员、副局长		石家庄市人力资源和社会保障局		2209
+张洁敏		3		河北省	石家庄市	https://rsj.sjz.gov.cn/columns/290161c2-578c-4ef7-a587-50b774af966e/index.html	党组成员、市纪委监委驻人社局纪检监察组组长		石家庄市人力资源和社会保障局		2209
+谢富强		4		河北省	石家庄市	https://rsj.sjz.gov.cn/columns/290161c2-578c-4ef7-a587-50b774af966e/index.html	党组成员、副局长		石家庄市人力资源和社会保障局		2209
+田军		5		河北省	石家庄市	https://rsj.sjz.gov.cn/columns/290161c2-578c-4ef7-a587-50b774af966e/index.html	党组成员、副局长		石家庄市人力资源和社会保障局		2209
+李昕		6		河北省	石家庄市	https://rsj.sjz.gov.cn/columns/290161c2-578c-4ef7-a587-50b774af966e/index.html	市社会保险中心主任		石家庄市人力资源和社会保障局		2209
+侯文献		7		河北省	石家庄市	https://rsj.sjz.gov.cn/columns/290161c2-578c-4ef7-a587-50b774af966e/index.html	市就业服务中心主任		石家庄市人力资源和社会保障局		2209
+孟宪明		8		河北省	石家庄市	https://rsj.sjz.gov.cn/columns/290161c2-578c-4ef7-a587-50b774af966e/index.html	市人才开发交流中心主任		石家庄市人力资源和社会保障局		2209
+宋志宏		9		河北省	石家庄市	https://rsj.sjz.gov.cn/columns/290161c2-578c-4ef7-a587-50b774af966e/index.html	技师学院党委书记		石家庄市人力资源和社会保障局		2209

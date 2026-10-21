@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱万奎		1		湖北省		http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	厅党组书记、厅长		湖北省经济和信息化厅	http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/zwk/	1284
+陈琦		2		湖北省		http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	厅党组成员、副厅长		湖北省经济和信息化厅	http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/cj/	1284
+郭波		3		湖北省		http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	厅党组成员、副厅长		湖北省经济和信息化厅	http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/jxt_gb/	1284
+陈礼斌		4		湖北省		http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	驻厅纪检监察组组长、厅党组成员		湖北省经济和信息化厅	http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/clb/	1284
+刘卫军		5		湖北省		http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	厅党组成员、副厅长		湖北省经济和信息化厅	http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/lwj/	1284
+王琼		6		湖北省		http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	厅党组成员、副厅长		湖北省经济和信息化厅	http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/wq/	1284
+江斌		7		湖北省		http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	一级巡视员		湖北省经济和信息化厅	http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/jxt_jb/	1284
+周开斌		8		湖北省		http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	一级巡视员		湖北省经济和信息化厅	http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/zkb/	1284
+盛章学		9		湖北省		http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	一级巡视员		湖北省经济和信息化厅	http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/szx/	1284

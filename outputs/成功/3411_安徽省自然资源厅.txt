@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+汪谦慎		1		安徽省		https://zrzyt.ah.gov.cn/gybt/index.html	安徽省自然资源厅党组书记、厅长		安徽省自然资源厅	https://zrzyt.ah.gov.cn/gybt/ldjs/149728051.html	3411
+方成		2		安徽省		https://zrzyt.ah.gov.cn/gybt/index.html	安徽省自然资源厅党组成员、副厅长		安徽省自然资源厅	https://zrzyt.ah.gov.cn/gybt/ldjs/145876261.html	3411
+张和成		3		安徽省		https://zrzyt.ah.gov.cn/gybt/index.html	安徽省自然资源厅党组成员，省测绘总院（测绘局）院长（局长）		安徽省自然资源厅	https://zrzyt.ah.gov.cn/gybt/ldjs/148079691.html	3411
+王辉		4		安徽省		https://zrzyt.ah.gov.cn/gybt/index.html	安徽省自然资源厅党组成员、副厅长		安徽省自然资源厅	https://zrzyt.ah.gov.cn/gybt/ldjs/149671571.html	3411
+刘林		5		安徽省		https://zrzyt.ah.gov.cn/gybt/index.html	安徽省自然资源厅党组成员、副厅长		安徽省自然资源厅	https://zrzyt.ah.gov.cn/gybt/ldjs/150282631.html	3411
+周叔利		6		安徽省		https://zrzyt.ah.gov.cn/gybt/index.html	安徽省自然资源厅党组成员、政治部主任		安徽省自然资源厅	https://zrzyt.ah.gov.cn/gybt/ldjs/150400911.html	3411
+承良杰		7		安徽省		https://zrzyt.ah.gov.cn/gybt/index.html	安徽省自然资源厅党组成员、副厅长		安徽省自然资源厅	https://zrzyt.ah.gov.cn/gybt/ldjs/150670541.html	3411

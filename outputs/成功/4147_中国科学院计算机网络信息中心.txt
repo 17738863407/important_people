@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙德刚		1		全国		https://cnic.cas.cn/zxgk/xrld/	党委书记		中国科学院计算机网络信息中心		4147
+周园春		2		全国		https://cnic.cas.cn/zxgk/xrld/	主任、党委副书记		中国科学院计算机网络信息中心		4147
+龙春		3		全国		https://cnic.cas.cn/zxgk/xrld/	副主任		中国科学院计算机网络信息中心		4147
+于建军		4		全国		https://cnic.cas.cn/zxgk/xrld/	副主任		中国科学院计算机网络信息中心		4147
+徐艳坤		5		全国		https://cnic.cas.cn/zxgk/xrld/	纪委书记		中国科学院计算机网络信息中心		4147
+祝恒书		6		全国		https://cnic.cas.cn/zxgk/xrld/	学术副主任		中国科学院计算机网络信息中心		4147

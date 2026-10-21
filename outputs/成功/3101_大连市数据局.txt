@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李运		1		辽宁省	大连市	https://xzfw.dl.gov.cn/col/col9019/index.html?vc_xxgkarea=2102000002&number=DL014&jh=263	市数据局党组书记、市数据局（市营商局、市公共资源交易办）局长（主任），市大数据中心（市信息中心）主任		大连市数据局	https://xzfw.dl.gov.cn/art/2024/11/1/art_9020_2355541.html	3101
+王芳		2		辽宁省	大连市	https://xzfw.dl.gov.cn/col/col9019/index.html?vc_xxgkarea=2102000002&number=DL014&jh=263	市数据局副局长（副主任）		大连市数据局	https://xzfw.dl.gov.cn/art/2023/7/5/art_9020_2084330.html	3101
+刘成		3		辽宁省	大连市	https://xzfw.dl.gov.cn/col/col9019/index.html?vc_xxgkarea=2102000002&number=DL014&jh=263	市数据局党组成员、副局长（副主任）		大连市数据局	https://xzfw.dl.gov.cn/art/2023/7/11/art_9020_2084329.html	3101
+于娜		4		辽宁省	大连市	https://xzfw.dl.gov.cn/col/col9019/index.html?vc_xxgkarea=2102000002&number=DL014&jh=263	市数据局党组成员、副局长（副主任）		大连市数据局	https://xzfw.dl.gov.cn/art/2026/2/4/art_9020_2498328.html	3101
+邹奕冰		5		辽宁省	大连市	https://xzfw.dl.gov.cn/col/col9019/index.html?vc_xxgkarea=2102000002&number=DL014&jh=263	市数据局党组成员、副局长（副主任）		大连市数据局	https://xzfw.dl.gov.cn/art/2026/6/8/art_9020_2515512.html	3101

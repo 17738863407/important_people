@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李伟		1		内蒙古自治区		https://jyt.nmg.gov.cn/wtgk_0/	自治区党委教育工作委员会书记，自治区教育厅党组书记		内蒙古自治区教育厅	https://jyt.nmg.gov.cn/wtgk_0/ldjj_25197/202312/t20231211_2424104.html	1340
+张俊喜		2		内蒙古自治区		https://jyt.nmg.gov.cn/wtgk_0/	自治区党委教育工作委员会委员，自治区教育厅党组成员、副厅长		内蒙古自治区教育厅	https://jyt.nmg.gov.cn/wtgk_0/ldjj_25197/202212/t20221209_2185769.html	1340
+朱宝江		3		内蒙古自治区		https://jyt.nmg.gov.cn/wtgk_0/	自治区党委教育工作委员会委员，自治区教育厅党组成员、副厅长		内蒙古自治区教育厅	https://jyt.nmg.gov.cn/wtgk_0/ldjj_25197/202301/t20230103_2196949.html	1340
+陈明		4		内蒙古自治区		https://jyt.nmg.gov.cn/wtgk_0/	自治区党委教育工作委员会委员，自治区教育厅党组成员、副厅长		内蒙古自治区教育厅	https://jyt.nmg.gov.cn/wtgk_0/ldjj_25197/202601/t20260122_2852292.html	1340
+安利民		5		内蒙古自治区		https://jyt.nmg.gov.cn/wtgk_0/	自治区教育厅党组成员、自治区教育考试院院长		内蒙古自治区教育厅	https://jyt.nmg.gov.cn/wtgk_0/ldjj_25197/202212/t20221209_2185766.html	1340
+杨玉春		6		内蒙古自治区		https://jyt.nmg.gov.cn/wtgk_0/	自治区教育厅党组成员		内蒙古自治区教育厅	https://jyt.nmg.gov.cn/wtgk_0/ldjj_25197/202505/t20250509_2719786.html	1340

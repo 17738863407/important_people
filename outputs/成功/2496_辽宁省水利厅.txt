@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+冯东昕		1		辽宁省		https://slt.ln.gov.cn/slt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组书记、厅长。		辽宁省水利厅	https://slt.ln.gov.cn/slt/zfxxgk/fdzdgknr/jgjj/bmld/2021101410224237763/index.shtml	2496
+魏永庆		2		辽宁省		https://slt.ln.gov.cn/slt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员，辽宁省河库管理服务中心（辽宁省水文局）主任（局长）。		辽宁省水利厅	https://slt.ln.gov.cn/slt/zfxxgk/fdzdgknr/jgjj/bmld/2022053110300725476/index.shtml	2496
+范骁锋		3		辽宁省		https://slt.ln.gov.cn/slt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长。		辽宁省水利厅	https://slt.ln.gov.cn/slt/zfxxgk/fdzdgknr/jgjj/bmld/2021101410225845556/index.shtml	2496
+于翔		4		辽宁省		https://slt.ln.gov.cn/slt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长。		辽宁省水利厅	https://slt.ln.gov.cn/slt/zfxxgk/fdzdgknr/jgjj/bmld/2021101409485797385/index.shtml	2496
+李松		5		辽宁省		https://slt.ln.gov.cn/slt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省水利厅	https://slt.ln.gov.cn/slt/zfxxgk/fdzdgknr/jgjj/bmld/2025050615184051159/index.shtml	2496
+王国军		6		辽宁省		https://slt.ln.gov.cn/slt/zfxxgk/fdzdgknr/jgjj/index.shtml	省纪委监委驻省水利厅纪检监察组组长、省水利厅党组成员。		辽宁省水利厅	https://slt.ln.gov.cn/slt/zfxxgk/fdzdgknr/jgjj/bmld/2021101409473472023/index.shtml	2496
+陈志荣		7		辽宁省		https://slt.ln.gov.cn/slt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长（挂职）。		辽宁省水利厅	https://slt.ln.gov.cn/slt/zfxxgk/fdzdgknr/jgjj/bmld/2026071011014486822/index.shtml	2496
+姜吉宇		8		辽宁省		https://slt.ln.gov.cn/slt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长。		辽宁省水利厅	https://slt.ln.gov.cn/slt/zfxxgk/fdzdgknr/jgjj/bmld/2026071011092453727/index.shtml	2496

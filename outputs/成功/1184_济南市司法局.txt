@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李强		1		山东省	济南市	http://jnssfj.jinan.gov.cn/col48946/art/2026/art_48946_4775153.html	党委书记、局长，济南第二监狱第一政委		济南市司法局		1184
+赵锋		2		山东省	济南市	http://jnssfj.jinan.gov.cn/col48946/art/2026/art_48946_4775153.html	党委委员，济南监狱党委书记、监狱长		济南市司法局		1184
+雷存松		3		山东省	济南市	http://jnssfj.jinan.gov.cn/col48946/art/2026/art_48946_4775153.html	党委委员、副局长		济南市司法局		1184
+邹和岩		4		山东省	济南市	http://jnssfj.jinan.gov.cn/col48946/art/2026/art_48946_4775153.html	党委委员，济南第二监狱监狱长、二级警务专员		济南市司法局		1184
+朱寿民		5		山东省	济南市	http://jnssfj.jinan.gov.cn/col48946/art/2026/art_48946_4775153.html	党委委员、政治部主任		济南市司法局		1184
+赵国宏		6		山东省	济南市	http://jnssfj.jinan.gov.cn/col48946/art/2026/art_48946_4775153.html	党委委员、副局长		济南市司法局		1184
+陈其军		7		山东省	济南市	http://jnssfj.jinan.gov.cn/col48946/art/2026/art_48946_4775153.html	市政府参事		济南市司法局		1184
+王翠香		8		山东省	济南市	http://jnssfj.jinan.gov.cn/col48946/art/2026/art_48946_4775153.html	二级巡视员		济南市司法局		1184
+方静		9		山东省	济南市	http://jnssfj.jinan.gov.cn/col48946/art/2026/art_48946_4775153.html	一级调研员		济南市司法局		1184
+李业清		10		山东省	济南市	http://jnssfj.jinan.gov.cn/col48946/art/2026/art_48946_4775153.html	正处级领导干部		济南市司法局		1184

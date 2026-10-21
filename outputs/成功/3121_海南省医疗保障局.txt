@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+苏金明		1		海南省		https://ybj.hainan.gov.cn/jgjs/	[党组书记、局长]		海南省医疗保障局	https://ybj.hainan.gov.cn/jgjs/ldxx/202603/t20260302_4035002.html	3121
+谢江波		2		海南省		https://ybj.hainan.gov.cn/jgjs/	[党组成员、副局长]		海南省医疗保障局	https://ybj.hainan.gov.cn/jgjs/ldxx/202510/t20251021_3949950.html	3121
+李维华		3		海南省		https://ybj.hainan.gov.cn/jgjs/	[党组成员、副局长]		海南省医疗保障局	https://ybj.hainan.gov.cn/jgjs/ldxx/202510/t20251020_3949298.html	3121

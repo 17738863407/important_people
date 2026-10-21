@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+信长星		1		全国		https://www.jsrd.gov.cn/rdgl/cwhzcry/	主任		江苏省人民代表大会常务委员会	https://www.jsrd.gov.cn/rdgl/cwhzcry/xincx/	1207
+樊金龙		2		全国		https://www.jsrd.gov.cn/rdgl/cwhzcry/	副主任		江苏省人民代表大会常务委员会	https://www.jsrd.gov.cn/rdgl/cwhzcry/fanjl/	1207
+张爱军		3		全国		https://www.jsrd.gov.cn/rdgl/cwhzcry/	副主任		江苏省人民代表大会常务委员会	https://www.jsrd.gov.cn/rdgl/cwhzcry/zhangaj/	1207
+储永宏		4		全国		https://www.jsrd.gov.cn/rdgl/cwhzcry/	副主任		江苏省人民代表大会常务委员会		1207
+魏国强		5		全国		https://www.jsrd.gov.cn/rdgl/cwhzcry/	副主任		江苏省人民代表大会常务委员会	https://www.jsrd.gov.cn/rdgl/cwhzcry/weigq/	1207
+夏心旻		6		全国		https://www.jsrd.gov.cn/rdgl/cwhzcry/	副主任		江苏省人民代表大会常务委员会	https://www.jsrd.gov.cn/rdgl/cwhzcry/xiaxm/	1207
+周广智		7		全国		https://www.jsrd.gov.cn/rdgl/cwhzcry/	副主任		江苏省人民代表大会常务委员会	https://www.jsrd.gov.cn/rdgl/cwhzcry/zhougz/	1207
+王学锋		8		全国		https://www.jsrd.gov.cn/rdgl/cwhzcry/	副主任		江苏省人民代表大会常务委员会	https://www.jsrd.gov.cn/rdgl/cwhzcry/wangxf/	1207
+陈建刚		9		全国		https://www.jsrd.gov.cn/rdgl/cwhzcry/	秘书长		江苏省人民代表大会常务委员会	https://www.jsrd.gov.cn/rdgl/cwhzcry/chenjg/	1207

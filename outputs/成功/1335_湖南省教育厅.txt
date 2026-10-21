@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高山		1		湖南省		http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/	省委教育工委分管日常工作的副书记，省教育厅党组书记、厅长		湖南省教育厅	http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/201903/t20190306_4042906.html	1335
+仇怡		2		湖南省		http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/	省委教育工委副书记，省教育厅党组副书记、副厅长		湖南省教育厅	http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/202604/t20260417_33957787.html	1335
+王仁祥		3		湖南省		http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/	省教育厅副厅长		湖南省教育厅	http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/202409/t20240920_11184249.html	1335
+曾市南		4		湖南省		http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/	省委教育工委委员、省教育厅党组成员、驻厅纪检监察组组长		湖南省教育厅	http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/202208/t20220803_1074845.html	1335
+余伟良		5		湖南省		http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/	省委教育工委委员，省教育厅党组成员		湖南省教育厅	http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/202401/t20240102_32616893.html	1335
+孙传贵		6		湖南省		http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/	省委教育工委委员，省教育厅党组成员、副厅长		湖南省教育厅	http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/202402/t20240206_1115359.html	1335
+朱正华		7		湖南省		http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/	省委教育工委委员，省教育厅党组成员		湖南省教育厅	http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/202402/t20240219_32876947.html	1335
+黄智勇		8		湖南省		http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/	省委教育工委委员，省教育厅党组成员、总督学		湖南省教育厅	http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/202409/t20240909_1139353.html	1335
+刘起军		9		湖南省		http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/	一级巡视员		湖南省教育厅	http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/201903/t20190306_4042904.html	1335
+王玲		10		湖南省		http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/	一级巡视员		湖南省教育厅	http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/202502/t20250214_1155075.html	1335
+吴德平		11		湖南省		http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/	二级巡视员		湖南省教育厅	http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/202512/t20251223_1172049.html	1335
+王红冰		12		湖南省		http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/	二级巡视员		湖南省教育厅	http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/jgzn/jgld/202411/t20241107_33495409.html	1335

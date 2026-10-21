@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何谋军		1		贵州省	贵阳市	http://zyghj.guiyang.gov.cn/newsite/zwgk/zfxxgk/fdzdgknr/jggk/jgld2/	贵阳市自然资源和规划局党委书记、局长，一级调研员。		贵阳市自然资源和规划局	http://zyghj.guiyang.gov.cn/newsite/zwgk/ldzc1/202503/t20250317_87187579.html	3451
+强勇		2		贵州省	贵阳市	http://zyghj.guiyang.gov.cn/newsite/zwgk/zfxxgk/fdzdgknr/jggk/jgld2/	贵阳市自然资源和规划局党委副书记、副局长、三级调研员。		贵阳市自然资源和规划局	http://zyghj.guiyang.gov.cn/newsite/zwgk/ldzc1/202607/t20260714_90617205.html	3451
+李春生		3		贵州省	贵阳市	http://zyghj.guiyang.gov.cn/newsite/zwgk/zfxxgk/fdzdgknr/jggk/jgld2/	贵阳市自然资源和规划局党委委员、副局长，三级调研员。		贵阳市自然资源和规划局	http://zyghj.guiyang.gov.cn/newsite/zwgk/ldzc1/202503/t20250317_87187575.html	3451
+纪红帆		4		贵州省	贵阳市	http://zyghj.guiyang.gov.cn/newsite/zwgk/zfxxgk/fdzdgknr/jggk/jgld2/	贵阳市自然资源和规划局党委委员、副局长、三级调研员。		贵阳市自然资源和规划局	http://zyghj.guiyang.gov.cn/newsite/zwgk/ldzc1/202503/t20250317_87187569.html	3451
+廖贵荣		5		贵州省	贵阳市	http://zyghj.guiyang.gov.cn/newsite/zwgk/zfxxgk/fdzdgknr/jggk/jgld2/	贵阳市自然资源和规划局党委委员、贵阳市不动产登记中心主任。		贵阳市自然资源和规划局	http://zyghj.guiyang.gov.cn/newsite/zwgk/ldzc1/202605/t20260528_90221784.html	3451
+国寒		6		贵州省	贵阳市	http://zyghj.guiyang.gov.cn/newsite/zwgk/zfxxgk/fdzdgknr/jggk/jgld2/	贵阳市自然资源和规划局党委委员、贵阳市土地矿产资源储备中心主任。		贵阳市自然资源和规划局	http://zyghj.guiyang.gov.cn/newsite/zwgk/ldzc1/202605/t20260528_90221790.html	3451
+刘建春		7		贵州省	贵阳市	http://zyghj.guiyang.gov.cn/newsite/zwgk/zfxxgk/fdzdgknr/jggk/jgld2/	贵阳市自然资源和规划局正县长级干部、二级调研员。		贵阳市自然资源和规划局	http://zyghj.guiyang.gov.cn/newsite/zwgk/ldzc1/202503/t20250317_87187553.html	3451
+冉炜		8		贵州省	贵阳市	http://zyghj.guiyang.gov.cn/newsite/zwgk/zfxxgk/fdzdgknr/jggk/jgld2/	贵阳市自然资源和规划局二级调研员。		贵阳市自然资源和规划局	http://zyghj.guiyang.gov.cn/newsite/zwgk/ldzc1/202503/t20250317_87187507.html	3451

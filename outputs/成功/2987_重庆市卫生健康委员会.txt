@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张维斌		1		重庆市		http://wsjkw.cq.gov.cn/zwgk_242/fdzdgknr/jgjj/?lm=%E6%9C%BA%E6%9E%84%E8%AE%BE%E7%BD%AE	党委书记、主任		重庆市卫生健康委员会	http://wsjkw.cq.gov.cn/zwgk_242/ldxx/zwb/202303/t20230330_11831359.html	2987
+李畔		2		重庆市		http://wsjkw.cq.gov.cn/zwgk_242/fdzdgknr/jgjj/?lm=%E6%9C%BA%E6%9E%84%E8%AE%BE%E7%BD%AE	党委副书记，市疾控局党组书记、局长		重庆市卫生健康委员会	http://wsjkw.cq.gov.cn/zwgk_242/ldxx/lp/202007/t20200720_7700729.html	2987
+赵勇		3		重庆市		http://wsjkw.cq.gov.cn/zwgk_242/fdzdgknr/jgjj/?lm=%E6%9C%BA%E6%9E%84%E8%AE%BE%E7%BD%AE	党委委员、副主任，市中医药管理局局长，一级巡视员		重庆市卫生健康委员会	http://wsjkw.cq.gov.cn/zwgk_242/ldxx/zy/202307/t20230709_12134200.html	2987
+邢雅翕		4		重庆市		http://wsjkw.cq.gov.cn/zwgk_242/fdzdgknr/jgjj/?lm=%E6%9C%BA%E6%9E%84%E8%AE%BE%E7%BD%AE	副主任		重庆市卫生健康委员会	http://wsjkw.cq.gov.cn/zwgk_242/ldxx/xyw/202307/t20230709_12134202.html	2987
+黄崑		5		重庆市		http://wsjkw.cq.gov.cn/zwgk_242/fdzdgknr/jgjj/?lm=%E6%9C%BA%E6%9E%84%E8%AE%BE%E7%BD%AE	党委委员、驻市卫生健康委纪检监察组组长		重庆市卫生健康委员会	http://wsjkw.cq.gov.cn/zwgk_242/ldxx/hb/202506/t20250605_14688926.html	2987
+潘建波		6		重庆市		http://wsjkw.cq.gov.cn/zwgk_242/fdzdgknr/jgjj/?lm=%E6%9C%BA%E6%9E%84%E8%AE%BE%E7%BD%AE	党委委员、副主任		重庆市卫生健康委员会	http://wsjkw.cq.gov.cn/zwgk_242/ldxx/panjianbo/202401/t20240110_12806443.html	2987
+胡宇峰		7		重庆市		http://wsjkw.cq.gov.cn/zwgk_242/fdzdgknr/jgjj/?lm=%E6%9C%BA%E6%9E%84%E8%AE%BE%E7%BD%AE	党委委员、副主任		重庆市卫生健康委员会	http://wsjkw.cq.gov.cn/zwgk_242/ldxx/hyf/202411/t20241125_13830351.html	2987

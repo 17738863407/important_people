@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李跃旗		1		浙江省		https://www.zj.gov.cn/dctslm/zjszfhcxjst/index.html	党组书记、厅长		浙江省住房和城乡建设厅	https://www.zj.gov.cn/art/2021/11/15/art_1229278044_147081.html	3363
+姚昭晖		2		浙江省		https://www.zj.gov.cn/dctslm/zjszfhcxjst/index.html	党组成员、副厅长、一级巡视员		浙江省住房和城乡建设厅	https://www.zj.gov.cn/art/2021/11/15/art_1229278044_147092.html	3363
+赵秋立		3		浙江省		https://www.zj.gov.cn/dctslm/zjszfhcxjst/index.html	党组成员、副厅长		浙江省住房和城乡建设厅	https://www.zj.gov.cn/art/2023/6/19/art_1229278044_147086.html	3363
+宋炳坚		4		浙江省		https://www.zj.gov.cn/dctslm/zjszfhcxjst/index.html	党组成员、总工程师		浙江省住房和城乡建设厅	https://www.zj.gov.cn/art/2021/11/15/art_1229278044_147089.html	3363
+施卫忠		5		浙江省		https://www.zj.gov.cn/dctslm/zjszfhcxjst/index.html	党组成员、副厅长		浙江省住房和城乡建设厅	https://www.zj.gov.cn/art/2022/8/30/art_1229278044_147087.html	3363
+周剑		6		浙江省		https://www.zj.gov.cn/dctslm/zjszfhcxjst/index.html	党组成员、省纪委省监委派驻纪检监察组组长		浙江省住房和城乡建设厅	https://www.zj.gov.cn/col/col1229278044/art/2026/art_79efe916ea210a9fcd27de0141cf7d2f.html	3363

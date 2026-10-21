@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+任小龙		1		陕西省	西安市	https://www.xidian.edu.cn/xxgk.htm	党委书记；党委常委		西安电子科技大学	https://www.xidian.edu.cn/info/1067/33968.htm	3673
+高新波		2		陕西省	西安市	https://www.xidian.edu.cn/xxgk.htm	党委副书记；校长；党委常委		西安电子科技大学	https://www.xidian.edu.cn/info/1067/65115.htm	3673
+林松涛		3		陕西省	西安市	https://www.xidian.edu.cn/xxgk.htm	党委副书记；党委常委		西安电子科技大学	https://www.xidian.edu.cn/info/1067/43648.htm	3673
+白旭东		4		陕西省	西安市	https://www.xidian.edu.cn/xxgk.htm	党委副书记；党委常委		西安电子科技大学	https://www.xidian.edu.cn/info/1067/52212.htm	3673
+王泉		5		陕西省	西安市	https://www.xidian.edu.cn/xxgk.htm	副校长；党委常委		西安电子科技大学	https://www.xidian.edu.cn/info/1067/34902.htm	3673
+张进成		6		陕西省	西安市	https://www.xidian.edu.cn/xxgk.htm	副校长；党委常委		西安电子科技大学	https://www.xidian.edu.cn/info/1067/43647.htm	3673
+朱文凯		7		陕西省	西安市	https://www.xidian.edu.cn/xxgk.htm	副校长；党委常委		西安电子科技大学	https://www.xidian.edu.cn/info/1067/52213.htm	3673
+李赞		8		陕西省	西安市	https://www.xidian.edu.cn/xxgk.htm	副校长；党委常委		西安电子科技大学	https://www.xidian.edu.cn/info/1067/52214.htm	3673
+刘宏伟		9		陕西省	西安市	https://www.xidian.edu.cn/xxgk.htm	副校长		西安电子科技大学	https://www.xidian.edu.cn/info/1067/52215.htm	3673
+毛立强		10		陕西省	西安市	https://www.xidian.edu.cn/xxgk.htm	副校长；党委常委		西安电子科技大学	https://www.xidian.edu.cn/info/1067/79415.htm	3673
+季庆阳		11		陕西省	西安市	https://www.xidian.edu.cn/xxgk.htm	党委常委		西安电子科技大学		3673
+蔡固顺		12		陕西省	西安市	https://www.xidian.edu.cn/xxgk.htm	党委常委		西安电子科技大学		3673

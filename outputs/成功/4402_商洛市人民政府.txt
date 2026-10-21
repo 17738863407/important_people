@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵孝		1		陕西省	商洛市	http://shangluo.gov.cn/szf.htm	市长		商洛市人民政府	https://shangluo.gov.cn/szf/zx.htm	4402
+赵鹏		2		陕西省	商洛市	http://shangluo.gov.cn/szf.htm	副市长		商洛市人民政府	https://shangluo.gov.cn/szf/zp.htm	4402
+万松博		3		陕西省	商洛市	http://shangluo.gov.cn/szf.htm	副市长		商洛市人民政府	https://shangluo.gov.cn/szf/wsb.htm	4402
+夏启宗		4		陕西省	商洛市	http://shangluo.gov.cn/szf.htm	副市长		商洛市人民政府	https://shangluo.gov.cn/szf/xqz.htm	4402
+璩泽涛		5		陕西省	商洛市	http://shangluo.gov.cn/szf.htm	副市长		商洛市人民政府	https://shangluo.gov.cn/szf/qzt.htm	4402
+王宇鹏		6		陕西省	商洛市	http://shangluo.gov.cn/szf.htm	副市长		商洛市人民政府	https://shangluo.gov.cn/szf/wyp.htm	4402
+鲁志华		7		陕西省	商洛市	http://shangluo.gov.cn/szf.htm	副市长		商洛市人民政府	https://shangluo.gov.cn/szf/lzh.htm	4402
+强力		8		陕西省	商洛市	http://shangluo.gov.cn/szf.htm	副市长		商洛市人民政府	https://shangluo.gov.cn/szf/ql.htm	4402

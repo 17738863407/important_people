@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马鹏斐		1		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycswlxxhj_38263/xxgkml_38266/gkxx_38267/ldxx/202605/t20260508_5235046.html	市数据局党组书记、局长		银川市数据局		3174
+卿峰		2		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycswlxxhj_38263/xxgkml_38266/gkxx_38267/ldxx/202605/t20260508_5235046.html	市数据局党组成员、副局长		银川市数据局		3174
+马娟		3		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycswlxxhj_38263/xxgkml_38266/gkxx_38267/ldxx/202605/t20260508_5235046.html	市数据局党组成员、副局长		银川市数据局		3174
+买小林		4		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycswlxxhj_38263/xxgkml_38266/gkxx_38267/ldxx/202605/t20260508_5235046.html	市数据局党组成员、副局长		银川市数据局		3174
+穆国虎		5		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycswlxxhj_38263/xxgkml_38266/gkxx_38267/ldxx/202605/t20260508_5235046.html	市数据局党组成员、副局长（挂职）		银川市数据局		3174
+邓荣		6		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycswlxxhj_38263/xxgkml_38266/gkxx_38267/ldxx/202605/t20260508_5235046.html			银川市数据局		3174

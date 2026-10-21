@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张爽		1		全国		http://kzp.mof.gov.cn/list_content.jsp?class_id=01_02_02	党委书记、主任		财政部会计财务评价中心		1404
+肖伟华		2		全国		http://kzp.mof.gov.cn/list_content.jsp?class_id=01_02_02	党委委员、纪委书记		财政部会计财务评价中心		1404
+李守忠		3		全国		http://kzp.mof.gov.cn/list_content.jsp?class_id=01_02_02	党委委员、副主任		财政部会计财务评价中心		1404

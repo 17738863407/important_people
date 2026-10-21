@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+秦松		1		山东省	烟台市	https://yic.cas.cn/yjsgk/xrld/	所长		中国科学院烟台海岸带研究所	http://yic.cas.cn/yjsgk/xrld/202209/t20220906_6509859.html	4085
+杨宏		2		山东省	烟台市	https://yic.cas.cn/yjsgk/xrld/	党委书记、副所长		中国科学院烟台海岸带研究所	https://yic.cas.cn/yjsgk/xrld/202607/t20260725_8255198.html	4085
+韩广轩		3		山东省	烟台市	https://yic.cas.cn/yjsgk/xrld/	副所长		中国科学院烟台海岸带研究所	http://yic.cas.cn/yjsgk/xrld/202209/t20220906_6509858.html	4085
+程培周		4		山东省	烟台市	https://yic.cas.cn/yjsgk/xrld/	纪委书记		中国科学院烟台海岸带研究所	http://yic.cas.cn/yjsgk/xrld/202311/t20231121_6912239.html	4085
+赵军		5		山东省	烟台市	https://yic.cas.cn/yjsgk/xrld/	副所长		中国科学院烟台海岸带研究所	http://yic.cas.cn/yjsgk/xrld/202405/t20240522_7168013.html	4085

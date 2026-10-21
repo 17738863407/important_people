@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡俊锋		1		甘肃省		https://www.gsas.ac.cn/index.php/cms/item-list-category-779.shtml	党委书记、院长		甘肃省科学院	https://www.gsas.ac.cn/index.php/cms/item-view-id-2733.shtml	3765
+杨东杰		2		甘肃省		https://www.gsas.ac.cn/index.php/cms/item-list-category-779.shtml	党委委员、纪委书记		甘肃省科学院	https://www.gsas.ac.cn/index.php/cms/item-view-id-2732.shtml	3765
+徐仰涛		3		甘肃省		https://www.gsas.ac.cn/index.php/cms/item-list-category-779.shtml	党委委员、副院长		甘肃省科学院	https://www.gsas.ac.cn/index.php/cms/item-view-id-2731.shtml	3765
+王治业		4		甘肃省		https://www.gsas.ac.cn/index.php/cms/item-list-category-779.shtml	副院长		甘肃省科学院	https://www.gsas.ac.cn/index.php/cms/item-view-id-6184.shtml	3765

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周宁		1		青海省		http://tjj.qinghai.gov.cn/xxgk_2458/xxgkml/jgxx/ldxx/	青海省统计局党组书记、局长		青海省统计局	http://tjj.qinghai.gov.cn/xxgk_2458/xxgkml/jgxx/ldxx/202507/t20250702_297278.html	2738
+高平		2		青海省		http://tjj.qinghai.gov.cn/xxgk_2458/xxgkml/jgxx/ldxx/	青海省统计局一级巡视员		青海省统计局	http://tjj.qinghai.gov.cn/xxgk_2458/xxgkml/jgxx/ldxx/202507/t20250702_297277.html	2738
+陈宇祺		3		青海省		http://tjj.qinghai.gov.cn/xxgk_2458/xxgkml/jgxx/ldxx/	青海省统计局党组成员、副局长		青海省统计局	http://tjj.qinghai.gov.cn/xxgk_2458/xxgkml/jgxx/ldxx/202507/t20250702_297274.html	2738
+郭宝娇		4		青海省		http://tjj.qinghai.gov.cn/xxgk_2458/xxgkml/jgxx/ldxx/	青海省统计局党组成员、副局长		青海省统计局	http://tjj.qinghai.gov.cn/xxgk_2458/xxgkml/jgxx/ldxx/202601/t20260116_392417.html	2738
+张鹏		5		青海省		http://tjj.qinghai.gov.cn/xxgk_2458/xxgkml/jgxx/ldxx/	青海省统计局党组成员、援青办主任		青海省统计局	http://tjj.qinghai.gov.cn/xxgk_2458/xxgkml/jgxx/ldxx/202508/t20250819_323355.html	2738
+周琰玲		6		青海省		http://tjj.qinghai.gov.cn/xxgk_2458/xxgkml/jgxx/ldxx/	青海省统计局二级巡视员		青海省统计局	http://tjj.qinghai.gov.cn/xxgk_2458/xxgkml/jgxx/ldxx/202507/t20250702_297276.html	2738

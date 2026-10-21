@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘南华		1		湖北省	武汉市	https://gaj.wuhan.gov.cn/zwgk_12/fdzdgknr/xxgk/ldxx/	市公安局党委副书记、副局长（正局级）、一级警务专员，二级警监警衔		武汉市公安局		0620
+张向锋		2		湖北省	武汉市	https://gaj.wuhan.gov.cn/zwgk_12/fdzdgknr/xxgk/ldxx/	市公安局党委委员、特勤局党委书记、局长		武汉市公安局		0620
+彭磊		3		湖北省	武汉市	https://gaj.wuhan.gov.cn/zwgk_12/fdzdgknr/xxgk/ldxx/	市公安局党委委员、副局长、二级警务专员，二级警监警衔		武汉市公安局		0620
+刘焕俊		4		湖北省	武汉市	https://gaj.wuhan.gov.cn/zwgk_12/fdzdgknr/xxgk/ldxx/	市公安局党委委员、副局长、二级警务专员，二级警监警衔		武汉市公安局		0620
+万红		5		湖北省	武汉市	https://gaj.wuhan.gov.cn/zwgk_12/fdzdgknr/xxgk/ldxx/	市公安局党委委员、副局长、二级警务专员，二级警监警衔		武汉市公安局		0620
+陈孝海		6		湖北省	武汉市	https://gaj.wuhan.gov.cn/zwgk_12/fdzdgknr/xxgk/ldxx/	市公安局党委委员、副局长、二级警务专员，三级警监警衔		武汉市公安局		0620
+蒋帮兴		7		湖北省	武汉市	https://gaj.wuhan.gov.cn/zwgk_12/fdzdgknr/xxgk/ldxx/	市公安局党委委员、市纪委监委派驻市公安局纪检监察组组长、三级高级监察官		武汉市公安局		0620
+陈光		8		湖北省	武汉市	https://gaj.wuhan.gov.cn/zwgk_12/fdzdgknr/xxgk/ldxx/	市公安局党委委员、副局长、二级警务专员，二级警监警衔		武汉市公安局		0620
+刘辉		9		湖北省	武汉市	https://gaj.wuhan.gov.cn/zwgk_12/fdzdgknr/xxgk/ldxx/	市公安局党委委员、政治部主任，三级警监警衔		武汉市公安局		0620

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李红雨		1		陕西省	西安市	http://edu.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	西安市教育局党委书记、局长		西安市教育局		0513
+李鹏程		2		陕西省	西安市	http://edu.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	西安市教育局党委副书记		西安市教育局		0513
+熊伟		3		陕西省	西安市	http://edu.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	西安市教育局党委委员、市纪委监委派驻市教育局纪检监察组组长		西安市教育局		0513
+李萌		4		陕西省	西安市	http://edu.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	西安市教育局党委委员、副局长		西安市教育局		0513
+王小虎		5		陕西省	西安市	http://edu.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	西安市教育局二级巡视员		西安市教育局		0513
+程军安		6		陕西省	西安市	http://edu.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	西安市教育局二级巡视员		西安市教育局		0513
+安广浩		7		陕西省	西安市	http://edu.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	西安市教育局一级调研员，市教育考试中心党总支书记、主任		西安市教育局		0513

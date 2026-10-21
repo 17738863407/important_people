@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨增胜		1		山东省		http://www.shandong.gov.cn/col/col314084/index.html	省司法厅党委书记、厅长，省监狱管理局第一政委		山东省司法厅		2387
+胡凤莹		2		山东省		http://www.shandong.gov.cn/col/col314084/index.html	省司法厅党委委员、省纪委监委驻省司法厅纪检监察组组长、二级高级监察官		山东省司法厅		2387
+刘振远		3		山东省		http://www.shandong.gov.cn/col/col314084/index.html	省司法厅党委委员、副厅长，省戒毒管理局局长		山东省司法厅		2387
+田秀娟		4		山东省		http://www.shandong.gov.cn/col/col314084/index.html	省司法厅党委委员、副厅长		山东省司法厅		2387
+尹东升		5		山东省		http://www.shandong.gov.cn/col/col314084/index.html	省司法厅党委委员、副厅长		山东省司法厅		2387
+孙春雷		6		山东省		http://www.shandong.gov.cn/col/col314084/index.html	省司法厅党委委员、政治部（警务部）主任（副厅级）		山东省司法厅		2387
+王发军		7		山东省		http://www.shandong.gov.cn/col/col314084/index.html	省司法厅党委委员、副厅长，省监狱管理局党委书记、局长		山东省司法厅		2387
+姜运华		8		山东省		http://www.shandong.gov.cn/col/col314084/index.html	省司法厅一级巡视员		山东省司法厅		2387

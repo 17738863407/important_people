@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘蕾		1		广东省	深圳市	http://wtl.sz.gov.cn/gkmlpt/index#3440	党组书记、局长		深圳市文化广电旅游体育局	https://wtl.sz.gov.cn/gkmlpt/content/11/11403/post_11403671.html	3003
+莫士龙		2		广东省	深圳市	http://wtl.sz.gov.cn/gkmlpt/index#3440	党组成员、副局长		深圳市文化广电旅游体育局	https://wtl.sz.gov.cn/gkmlpt/content/12/12910/post_12910005.html	3003
+何建辉		3		广东省	深圳市	http://wtl.sz.gov.cn/gkmlpt/index#3440	党组成员、副局长		深圳市文化广电旅游体育局	https://wtl.sz.gov.cn/gkmlpt/content/10/10907/post_10907954.html	3003
+丁中元		4		广东省	深圳市	http://wtl.sz.gov.cn/gkmlpt/index#3440	党组成员、副局长		深圳市文化广电旅游体育局	https://wtl.sz.gov.cn/gkmlpt/content/10/10908/post_10908223.html	3003
+施文丽		5		广东省	深圳市	http://wtl.sz.gov.cn/gkmlpt/index#3440	党组成员、副局长		深圳市文化广电旅游体育局	https://wtl.sz.gov.cn/gkmlpt/content/11/11385/post_11385695.html	3003

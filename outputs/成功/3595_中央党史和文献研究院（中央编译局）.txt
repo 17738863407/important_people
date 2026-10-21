@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+曲青山		1		全国		https://www.dswxyjy.org.cn/GB/427143/427145/index.html	院长		中央党史和文献研究院（中央编译局）	https://www.dswxyjy.org.cn/GB/427143/427145/427146/index.html	3595
+黄一兵		2		全国		https://www.dswxyjy.org.cn/GB/427143/427145/index.html	副院长		中央党史和文献研究院（中央编译局）	https://www.dswxyjy.org.cn/GB/427143/427145/437284/index.html	3595
+王全春		3		全国		https://www.dswxyjy.org.cn/GB/427143/427145/index.html	副院长		中央党史和文献研究院（中央编译局）	https://www.dswxyjy.org.cn/GB/427143/427145/441813/index.html	3595
+王均伟		4		全国		https://www.dswxyjy.org.cn/GB/427143/427145/index.html	院学术和编审委员会主任（副部长级）		中央党史和文献研究院（中央编译局）	https://www.dswxyjy.org.cn/GB/427143/427145/441814/index.html	3595
+孙东升		5		全国		https://www.dswxyjy.org.cn/GB/427143/427145/index.html	副院长		中央党史和文献研究院（中央编译局）	https://www.dswxyjy.org.cn/GB/427143/427145/457552/index.html	3595
+季正聚		6		全国		https://www.dswxyjy.org.cn/GB/427143/427145/index.html	副院长、中央编译局局长		中央党史和文献研究院（中央编译局）	https://www.dswxyjy.org.cn/GB/427143/427145/458286/index.html	3595

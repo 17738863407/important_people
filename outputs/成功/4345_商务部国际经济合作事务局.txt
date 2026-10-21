@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张冠彬		1		全国		http://www.aieco.org.cn/article/guanywm/zzjg/200403/20040300191922.html	局长兼党委书记		商务部国际经济合作事务局		4345
+张震		2		全国		http://www.aieco.org.cn/article/guanywm/zzjg/200403/20040300191922.html	党委副书记兼纪委书记		商务部国际经济合作事务局		4345
+陈昊		3		全国		http://www.aieco.org.cn/article/guanywm/zzjg/200403/20040300191922.html	党委委员、副局长		商务部国际经济合作事务局		4345
+朱晓清		4		全国		http://www.aieco.org.cn/article/guanywm/zzjg/200403/20040300191922.html	党委委员、副局长		商务部国际经济合作事务局		4345

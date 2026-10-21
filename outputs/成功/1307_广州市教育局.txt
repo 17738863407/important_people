@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈敏生		1		广东省	广州市	https://jyj.gz.gov.cn/gk/zfxxgkml/zzjg/ldfg/content/post_10882508.html	广州市教育局党委书记、局长		广州市教育局		1307
+曾东标		2		广东省	广州市	https://jyj.gz.gov.cn/gk/zfxxgkml/zzjg/ldfg/content/post_10882508.html	广州市教育局党委副书记、市委教育工作领导小组办公室专职副主任		广州市教育局		1307
+张潇元		3		广东省	广州市	https://jyj.gz.gov.cn/gk/zfxxgkml/zzjg/ldfg/content/post_10882508.html	广州市教育局党委委员，市纪委监委驻市教育局纪检监察组组长、三级高级监察官		广州市教育局		1307
+蔡健安		4		广东省	广州市	https://jyj.gz.gov.cn/gk/zfxxgkml/zzjg/ldfg/content/post_10882508.html	广州市教育局党委委员、副局长、主任督学		广州市教育局		1307
+吴强		5		广东省	广州市	https://jyj.gz.gov.cn/gk/zfxxgkml/zzjg/ldfg/content/post_10882508.html	广州市教育局党委委员、副局长		广州市教育局		1307
+林平		6		广东省	广州市	https://jyj.gz.gov.cn/gk/zfxxgkml/zzjg/ldfg/content/post_10882508.html	广州市教育局市管一级调研员		广州市教育局		1307
+赵琼飞		7		广东省	广州市	https://jyj.gz.gov.cn/gk/zfxxgkml/zzjg/ldfg/content/post_10882508.html	广州市教育局市管一级调研员		广州市教育局		1307
+李长庚		8		广东省	广州市	https://jyj.gz.gov.cn/gk/zfxxgkml/zzjg/ldfg/content/post_10882508.html	广州市教育局市管一级调研员		广州市教育局		1307

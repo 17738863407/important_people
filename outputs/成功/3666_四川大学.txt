@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+甘霖		1		四川省	成都市	https://www.scu.edu.cn/xxgk/ldjg.htm	党委书记；党委常委		四川大学	https://www.scu.edu.cn/info/1801/33253.htm	3666
+汪劲松		2		四川省	成都市	https://www.scu.edu.cn/xxgk/ldjg.htm	校长；党委副书记；党委常委		四川大学	https://www.scu.edu.cn/info/1802/33254.htm	3666
+褚良银		3		四川省	成都市	https://www.scu.edu.cn/xxgk/ldjg.htm	常务副校长		四川大学	https://www.scu.edu.cn/info/1804/33256.htm	3666
+张卓		4		四川省	成都市	https://www.scu.edu.cn/xxgk/ldjg.htm	党委副书记；纪委书记；党委常委		四川大学	https://www.scu.edu.cn/info/1805/33261.htm	3666
+李正赤		5		四川省	成都市	https://www.scu.edu.cn/xxgk/ldjg.htm	党委副书记；党委常委		四川大学	https://www.scu.edu.cn/info/1805/33262.htm	3666
+刘晓虎		6		四川省	成都市	https://www.scu.edu.cn/xxgk/ldjg.htm	党委副书记；党委常委		四川大学	https://www.scu.edu.cn/info/1805/33263.htm	3666
+黄园		7		四川省	成都市	https://www.scu.edu.cn/xxgk/ldjg.htm	党委副书记；党委常委		四川大学	https://www.scu.edu.cn/info/1805/33264.htm	3666
+叶玲		8		四川省	成都市	https://www.scu.edu.cn/xxgk/ldjg.htm	副校长；党委常委		四川大学	https://www.scu.edu.cn/info/1806/33265.htm	3666
+游劲松		9		四川省	成都市	https://www.scu.edu.cn/xxgk/ldjg.htm	副校长		四川大学	https://www.scu.edu.cn/info/1806/33266.htm	3666
+刘超		10		四川省	成都市	https://www.scu.edu.cn/xxgk/ldjg.htm	副校长；党委常委		四川大学	https://www.scu.edu.cn/info/1806/33268.htm	3666
+韩芳		11		四川省	成都市	https://www.scu.edu.cn/xxgk/ldjg.htm	副校长；党委常委		四川大学	https://www.scu.edu.cn/info/1806/33269.htm	3666
+熊林		12		四川省	成都市	https://www.scu.edu.cn/xxgk/ldjg.htm	副校长；党委常委		四川大学	https://www.scu.edu.cn/info/1806/39152.htm	3666
+王金友		13		四川省	成都市	https://www.scu.edu.cn/xxgk/ldjg.htm	党委常委		四川大学		3666
+徐海鑫		14		四川省	成都市	https://www.scu.edu.cn/xxgk/ldjg.htm	党委常委		四川大学		3666

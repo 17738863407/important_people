@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴桂峰		1		辽宁省	大连市	https://mzw.dl.gov.cn/col/col9047/index.html?vc_xxgkarea=2102000065&number=DL014&jh=263	市委统战部副部长，市民族和宗教局党组书记、局长		大连市民族和宗教事务局	https://mzw.dl.gov.cn/art/2026/1/7/art_9048_2495825.html	1795
+黄治苹		2		辽宁省	大连市	https://mzw.dl.gov.cn/col/col9047/index.html?vc_xxgkarea=2102000065&number=DL014&jh=263	市民族和宗教局党组成员、副局长		大连市民族和宗教事务局	https://mzw.dl.gov.cn/art/2026/1/7/art_9048_2495824.html	1795
+张大勇		3		辽宁省	大连市	https://mzw.dl.gov.cn/col/col9047/index.html?vc_xxgkarea=2102000065&number=DL014&jh=263	市民族和宗教局党组成员、副局长		大连市民族和宗教事务局	https://mzw.dl.gov.cn/art/2026/1/7/art_9048_2495823.html	1795

@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡少华		1		全国		https://ic.most.cn/page/zxjj/lxfs/#zxld/	主任		科学技术部信息中心		1084
+张丽		2		全国		https://ic.most.cn/page/zxjj/lxfs/#zxld/	副主任		科学技术部信息中心		1084
+宋学鹏		3		全国		https://ic.most.cn/page/zxjj/lxfs/#zxld/	副主任		科学技术部信息中心		1084

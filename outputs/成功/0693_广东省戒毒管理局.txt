@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张友生		1		广东省		http://gdjdj.gd.gov.cn/gdjdj/zwgk/ldxx/index.html	广东省司法厅党委委员、广东省戒毒管理局党委书记、局长张友生		广东省戒毒管理局	http://gdjdj.gd.gov.cn/gdjdj/zwgk/ldxx/content/post_610192.html	0693
+闫干卿		2		广东省		http://gdjdj.gd.gov.cn/gdjdj/zwgk/ldxx/index.html	广东省戒毒管理局党委委员、纪委书记闫干卿		广东省戒毒管理局	http://gdjdj.gd.gov.cn/gdjdj/zwgk/ldxx/content/post_2507684.html	0693
+彭文武		3		广东省		http://gdjdj.gd.gov.cn/gdjdj/zwgk/ldxx/index.html	广东省戒毒管理局党委委员、副局长彭文武		广东省戒毒管理局	http://gdjdj.gd.gov.cn/gdjdj/zwgk/ldxx/content/post_4755530.html	0693
+邱贵芹		4		广东省		http://gdjdj.gd.gov.cn/gdjdj/zwgk/ldxx/index.html	广东省戒毒管理局党委委员、政治部主任邱贵芹		广东省戒毒管理局	http://gdjdj.gd.gov.cn/gdjdj/zwgk/ldxx/content/post_4024989.html	0693
+杨运根		5		广东省		http://gdjdj.gd.gov.cn/gdjdj/zwgk/ldxx/index.html	广东省戒毒管理局党委委员、副局长杨运根		广东省戒毒管理局	http://gdjdj.gd.gov.cn/gdjdj/zwgk/ldxx/content/post_4611394.html	0693

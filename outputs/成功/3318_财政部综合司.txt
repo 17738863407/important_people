@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李先忠		1		全国		http://zhs.mof.gov.cn/guanyuwomen/lingdaozhici/	综合司司长		财政部综合司		3318
+方向阳		2		全国		http://zhs.mof.gov.cn/guanyuwomen/lingdaozhici/	财政票据监管中心主任		财政部综合司		3318
+李卫华		3		全国		http://zhs.mof.gov.cn/guanyuwomen/lingdaozhici/	财政票据监管中心一级巡视员		财政部综合司		3318
+李剑		4		全国		http://zhs.mof.gov.cn/guanyuwomen/lingdaozhici/	综合司 一级巡视员		财政部综合司		3318
+孙涛		5		全国		http://zhs.mof.gov.cn/guanyuwomen/lingdaozhici/	综合司副司长		财政部综合司		3318
+井明		6		全国		http://zhs.mof.gov.cn/guanyuwomen/lingdaozhici/	综合司副司长		财政部综合司		3318
+张炜伟		7		全国		http://zhs.mof.gov.cn/guanyuwomen/lingdaozhici/	财政票据监管中心副主任		财政部综合司		3318
+戴佳		8		全国		http://zhs.mof.gov.cn/guanyuwomen/lingdaozhici/	综合司副司长		财政部综合司		3318

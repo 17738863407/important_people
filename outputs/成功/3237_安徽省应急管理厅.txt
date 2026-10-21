@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周天伟		1		安徽省		https://yjt.ah.gov.cn/public/column/9377745?type=4&catId=49947371&action=list&nav=3	安徽省应急管理厅党委书记、厅长		安徽省应急管理厅		3237
+马锐		2		安徽省		https://yjt.ah.gov.cn/public/column/9377745?type=4&catId=49947371&action=list&nav=3	安徽省消防救援总队总队长、省应急管理厅党委委员		安徽省应急管理厅		3237
+白中华		3		安徽省		https://yjt.ah.gov.cn/public/column/9377745?type=4&catId=49947371&action=list&nav=3	安徽省应急管理厅党委委员、副厅长		安徽省应急管理厅		3237
+胡明		4		安徽省		https://yjt.ah.gov.cn/public/column/9377745?type=4&catId=49947371&action=list&nav=3	安徽省应急管理厅党委委员、副厅长		安徽省应急管理厅		3237
+庞士磊		5		安徽省		https://yjt.ah.gov.cn/public/column/9377745?type=4&catId=49947371&action=list&nav=3	安徽省应急管理厅党委委员、副厅长		安徽省应急管理厅		3237
+王茂祥		6		安徽省		https://yjt.ah.gov.cn/public/column/9377745?type=4&catId=49947371&action=list&nav=3	安徽省应急管理厅党委委员、副厅长		安徽省应急管理厅		3237
+吴然喜		7		安徽省		https://yjt.ah.gov.cn/public/column/9377745?type=4&catId=49947371&action=list&nav=3	安徽省纪委监委驻省应急管理厅纪检监察组组长、省应急管理厅党委委员		安徽省应急管理厅		3237
+汤文明		8		安徽省		https://yjt.ah.gov.cn/public/column/9377745?type=4&catId=49947371&action=list&nav=3	安徽省应急管理厅党委委员、副厅长		安徽省应急管理厅		3237
+何家齐		9		安徽省		https://yjt.ah.gov.cn/public/column/9377745?type=4&catId=49947371&action=list&nav=3	安徽省应急管理厅总工程师		安徽省应急管理厅		3237
+蔡正中		10		安徽省		https://yjt.ah.gov.cn/public/column/9377745?type=4&catId=49947371&action=list&nav=3	安徽省应急管理厅总工程师		安徽省应急管理厅		3237
+赵春桥		11		安徽省		https://yjt.ah.gov.cn/public/column/9377745?type=4&catId=49947371&action=list&nav=3	安徽省应急管理厅二级巡视员		安徽省应急管理厅		3237
+龚关		12		安徽省		https://yjt.ah.gov.cn/public/column/9377745?type=4&catId=49947371&action=list&nav=3	安徽省应急管理厅二级巡视员		安徽省应急管理厅		3237
+魏文斌		13		安徽省		https://yjt.ah.gov.cn/public/column/9377745?type=4&catId=49947371&action=list&nav=3	安徽省应急管理厅二级巡视员		安徽省应急管理厅		3237

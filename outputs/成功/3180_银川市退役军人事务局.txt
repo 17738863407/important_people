@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘光辉		1		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycstyjrswj_39116/xxgkml_39119/gkxx_39120/ldxx_39122/202503/t20250324_4863350.html	银川市退役军人事务局党组书记、局长		银川市退役军人事务局		3180
+王汉宁		2		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycstyjrswj_39116/xxgkml_39119/gkxx_39120/ldxx_39122/202503/t20250324_4863350.html	银川市退役军人事务局党组成员、副局长		银川市退役军人事务局		3180
+张晓萌		3		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycstyjrswj_39116/xxgkml_39119/gkxx_39120/ldxx_39122/202503/t20250324_4863350.html	银川市退役军人事务局党组成员、副局长		银川市退役军人事务局		3180
+冯永涛		4		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycstyjrswj_39116/xxgkml_39119/gkxx_39120/ldxx_39122/202503/t20250324_4863350.html	川市退役军人事务局党组成员、副局长（兼）		银川市退役军人事务局		3180
+黄小强		5		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycstyjrswj_39116/xxgkml_39119/gkxx_39120/ldxx_39122/202503/t20250324_4863350.html	银川市退役军人事务局党组成员、 市军休所党委书记、所长		银川市退役军人事务局		3180
+丁薇		6		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycstyjrswj_39116/xxgkml_39119/gkxx_39120/ldxx_39122/202503/t20250324_4863350.html	银川市退役军人事务局二级调研员		银川市退役军人事务局		3180
+康勇		7		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycstyjrswj_39116/xxgkml_39119/gkxx_39120/ldxx_39122/202503/t20250324_4863350.html	银川市退役军人事务局二级调研员		银川市退役军人事务局		3180

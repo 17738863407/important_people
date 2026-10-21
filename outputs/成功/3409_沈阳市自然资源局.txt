@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张智		1		辽宁省	沈阳市	https://zrzyj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/	党组副书记、副局长		沈阳市自然资源局	https://zrzyj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/bmld/202208/t20220822_4092714.html	3409
+潘洪嵩		2		辽宁省	沈阳市	https://zrzyj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/	党组成员、副局长		沈阳市自然资源局	https://zrzyj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/bmld/202208/t20220822_4073655.html	3409
+刘威		3		辽宁省	沈阳市	https://zrzyj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/	党组成员、副局长		沈阳市自然资源局	https://zrzyj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/bmld/202208/t20220822_4092521.html	3409
+王志丰		4		辽宁省	沈阳市	https://zrzyj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/	二级巡视员		沈阳市自然资源局	https://zrzyj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/bmld/202307/t20230717_4497195.html	3409
+张海伏		5		辽宁省	沈阳市	https://zrzyj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/	二级巡视员		沈阳市自然资源局	https://zrzyj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/bmld/202208/t20220822_4117518.html	3409

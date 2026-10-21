@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+裴金佳		1		全国		https://www.mva.gov.cn/jigou/jgzn/nsjg/	退役军人事务部党组书记、部长，中央军民融合发展委员会办公室副主任		退役军人事务部	https://www.mva.gov.cn/jigou/ldjs/ldjj/pjj/202205/t20220507_60340.html	1706
+杨逸铮		2		全国		https://www.mva.gov.cn/jigou/jgzn/nsjg/	中央纪委国家监委驻退役军人事务部纪检监察组组长、退役军人事务部党组成员		退役军人事务部	https://www.mva.gov.cn/jigou/ldjs/ldjj/yyz/202410/t20241018_448956.html	1706
+徐耀		3		全国		https://www.mva.gov.cn/jigou/jgzn/nsjg/	退役军人事务部党组成员、副部长		退役军人事务部	https://www.mva.gov.cn/jigou/ldjs/ldjj/xy/202412/t20241220_459206.html	1706
+隋洪波		4		全国		https://www.mva.gov.cn/jigou/jgzn/nsjg/	退役军人事务部党组成员、副部长		退役军人事务部	https://www.mva.gov.cn/jigou/ldjs/ldjj/shb/202604/t20260430_540238.html	1706
+洪宗明		5		全国		https://www.mva.gov.cn/jigou/jgzn/nsjg/	退役军人事务部党组成员、副部长		退役军人事务部	https://www.mva.gov.cn/jigou/ldjs/ldjj/hzm/202606/t20260604_543951.html	1706

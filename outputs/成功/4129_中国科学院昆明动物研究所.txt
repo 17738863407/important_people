@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+施鹏		1		云南省	昆明市	https://kiz.cas.cn/gkjj/leadership/	所长		中国科学院昆明动物研究所	https://kiz.cas.cn/gkjj/leadership/xrld/202503/t20250324_7563573.html	4129
+李心祥		2		云南省	昆明市	https://kiz.cas.cn/gkjj/leadership/	党委书记、副所长		中国科学院昆明动物研究所	https://kiz.cas.cn/gkjj/leadership/xrld/202503/t20250324_7563622.html	4129
+王雨华		3		云南省	昆明市	https://kiz.cas.cn/gkjj/leadership/	党委副书记、纪委书记		中国科学院昆明动物研究所	https://kiz.cas.cn/gkjj/leadership/xrld/202503/t20250324_7563630.html	4129
+吴东东		4		云南省	昆明市	https://kiz.cas.cn/gkjj/leadership/	副所长		中国科学院昆明动物研究所	https://kiz.cas.cn/gkjj/leadership/xrld/202503/t20250324_7563634.html	4129
+李明		5		云南省	昆明市	https://kiz.cas.cn/gkjj/leadership/	副所长		中国科学院昆明动物研究所	https://kiz.cas.cn/gkjj/leadership/xrld/202503/t20250324_7563638.html	4129

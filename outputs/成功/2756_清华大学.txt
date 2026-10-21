@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邱勇		1		北京市		https://www.tsinghua.edu.cn/xxgk/xrld.htm	党委书记		清华大学	https://www.tsinghua.edu.cn/info/3178/118205.htm	2756
+李路明		2		北京市		https://www.tsinghua.edu.cn/xxgk/xrld.htm	校长；党委副书记		清华大学	https://www.tsinghua.edu.cn/info/1326/108940.htm	2756
+向波涛		3		北京市		https://www.tsinghua.edu.cn/xxgk/xrld.htm	党委常务副书记		清华大学	https://www.tsinghua.edu.cn/info/3086/112476.htm	2756
+曾嵘		4		北京市		https://www.tsinghua.edu.cn/xxgk/xrld.htm	常务副校长		清华大学	https://www.tsinghua.edu.cn/info/3206/120107.htm	2756
+过勇		5		北京市		https://www.tsinghua.edu.cn/xxgk/xrld.htm	党委副书记		清华大学	https://www.tsinghua.edu.cn/info/1330/102361.htm	2756
+赵罡		6		北京市		https://www.tsinghua.edu.cn/xxgk/xrld.htm	党委副书记；纪委书记；国家监委驻清华大学监察专员		清华大学	https://www.tsinghua.edu.cn/info/1330/102363.htm	2756
+许庆红		7		北京市		https://www.tsinghua.edu.cn/xxgk/xrld.htm	党委副书记		清华大学	https://www.tsinghua.edu.cn/info/1330/102364.htm	2756
+白本锋		8		北京市		https://www.tsinghua.edu.cn/xxgk/xrld.htm	党委副书记；副校长		清华大学	https://www.tsinghua.edu.cn/info/1330/115931.htm	2756
+彭刚		9		北京市		https://www.tsinghua.edu.cn/xxgk/xrld.htm	副校长		清华大学	https://www.tsinghua.edu.cn/info/1329/102356.htm	2756
+王宏伟		10		北京市		https://www.tsinghua.edu.cn/xxgk/xrld.htm	副校长		清华大学	https://www.tsinghua.edu.cn/info/1329/102359.htm	2756
+吴华强		11		北京市		https://www.tsinghua.edu.cn/xxgk/xrld.htm	副校长		清华大学	https://www.tsinghua.edu.cn/info/1329/120110.htm	2756
+李志华		12		北京市		https://www.tsinghua.edu.cn/xxgk/xrld.htm	副校长		清华大学	https://www.tsinghua.edu.cn/info/1329/127194.htm	2756
+王亚愚		13		北京市		https://www.tsinghua.edu.cn/xxgk/xrld.htm	副校长		清华大学	https://www.tsinghua.edu.cn/info/1329/127195.htm	2756

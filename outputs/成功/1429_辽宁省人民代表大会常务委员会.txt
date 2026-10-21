@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+许昆林		1		全国		https://www.lnrd.gov.cn/lnrd/rdgk/zcry/index.shtml	主任		辽宁省人民代表大会常务委员会	https://www.lnrd.gov.cn/lnrd/rdgk/zcry/zr/2023092116031118823/index.shtml	1429
+陈向群		2		全国		https://www.lnrd.gov.cn/lnrd/rdgk/zcry/index.shtml	副主任		辽宁省人民代表大会常务委员会	https://www.lnrd.gov.cn/lnrd/rdgk/zcry/fzr/2023092116053640835/index.shtml	1429
+刘慧晏		3		全国		https://www.lnrd.gov.cn/lnrd/rdgk/zcry/index.shtml	副主任		辽宁省人民代表大会常务委员会	https://www.lnrd.gov.cn/lnrd/rdgk/zcry/fzr/2024020213585268754/index.shtml	1429
+陈绿平		4		全国		https://www.lnrd.gov.cn/lnrd/rdgk/zcry/index.shtml	副主任		辽宁省人民代表大会常务委员会	https://www.lnrd.gov.cn/lnrd/rdgk/zcry/fzr/2023092116052382896/index.shtml	1429
+于国安		5		全国		https://www.lnrd.gov.cn/lnrd/rdgk/zcry/index.shtml	副主任		辽宁省人民代表大会常务委员会	https://www.lnrd.gov.cn/lnrd/rdgk/zcry/fzr/2023092116051199080/index.shtml	1429
+张淑萍		6		全国		https://www.lnrd.gov.cn/lnrd/rdgk/zcry/index.shtml	副主任		辽宁省人民代表大会常务委员会	https://www.lnrd.gov.cn/lnrd/rdgk/zcry/fzr/2023092116045285908/index.shtml	1429
+许光文		7		全国		https://www.lnrd.gov.cn/lnrd/rdgk/zcry/index.shtml	副主任		辽宁省人民代表大会常务委员会	https://www.lnrd.gov.cn/lnrd/rdgk/zcry/fzr/2024020214021837289/index.shtml	1429
+姜小林		8		全国		https://www.lnrd.gov.cn/lnrd/rdgk/zcry/index.shtml	秘书长		辽宁省人民代表大会常务委员会	https://www.lnrd.gov.cn/lnrd/rdgk/zcry/msz/2023092116072568697/index.shtml	1429

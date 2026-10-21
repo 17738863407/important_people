@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李朝波		1		福建省	福州市	https://www.fuzhou.gov.cn/zgfzzt/srsj/fzrs/rsjj/ldxx/lcb/	福州市人力资源和社会保障局党组书记、局长，兼市委组织部部务会议成员		福州市人力资源和社会保障局	https://www.fuzhou.gov.cn/zgfzzt/srsj/fzrs/rsjj/ldxx/lcb/	0580
+倪馨		2		福建省	福州市	https://www.fuzhou.gov.cn/zgfzzt/srsj/fzrs/rsjj/ldxx/lcb/	福州市人力资源和社会保障局党组成员、总会计师、三级调研员		福州市人力资源和社会保障局	https://www.fuzhou.gov.cn/zgfzzt/srsj/fzrs/rsjj/ldxx/nx/	0580
+林星飞		3		福建省	福州市	https://www.fuzhou.gov.cn/zgfzzt/srsj/fzrs/rsjj/ldxx/lcb/	福州市人力资源和社会保障局党组成员、四级调研员		福州市人力资源和社会保障局	https://www.fuzhou.gov.cn/zgfzzt/srsj/fzrs/rsjj/ldxx/lxf/	0580
+张莺		4		福建省	福州市	https://www.fuzhou.gov.cn/zgfzzt/srsj/fzrs/rsjj/ldxx/lcb/	福州市人力资源和社会保障局党组成员、副局长		福州市人力资源和社会保障局	https://www.fuzhou.gov.cn/zgfzzt/srsj/fzrs/rsjj/ldxx/zy/	0580
+张岩锋		5		福建省	福州市	https://www.fuzhou.gov.cn/zgfzzt/srsj/fzrs/rsjj/ldxx/lcb/	福州市人力资源和社会保障局党组成员、副局长		福州市人力资源和社会保障局	https://www.fuzhou.gov.cn/zgfzzt/srsj/fzrs/rsjj/ldxx/zyf/	0580
+徐文磊		6		福建省	福州市	https://www.fuzhou.gov.cn/zgfzzt/srsj/fzrs/rsjj/ldxx/lcb/	福州市人力资源和社会保障局党组成员、副局长，一级调研员		福州市人力资源和社会保障局	https://www.fuzhou.gov.cn/zgfzzt/srsj/fzrs/rsjj/ldxx/xwl/	0580
+鄢铮炜		7		福建省	福州市	https://www.fuzhou.gov.cn/zgfzzt/srsj/fzrs/rsjj/ldxx/lcb/	福州市人力资源和社会保障局党组成员、副局长		福州市人力资源和社会保障局	https://www.fuzhou.gov.cn/zgfzzt/srsj/fzrs/rsjj/ldxx/yzw/	0580

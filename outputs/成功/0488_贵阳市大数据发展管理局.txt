@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张雪蓉		1		贵州省	贵阳市	http://dsjj.guiyang.gov.cn/newsite/zwgk/zfxxgk_5848436/fdzdgknr/jggk/jgld_5977768/	贵阳市大数据发展管理局党委书记、局长		贵阳市大数据发展管理局	https://dsjj.guiyang.gov.cn/newsite/zwgk/zfxxgk_5848436/fdzdgknr/jggk/jgld_5977768/202503/t20250314_87168136.html	0488
+莫鹏		2		贵州省	贵阳市	http://dsjj.guiyang.gov.cn/newsite/zwgk/zfxxgk_5848436/fdzdgknr/jggk/jgld_5977768/	贵阳市大数据发展管理局党委副书记、副局长，三级调研员		贵阳市大数据发展管理局	https://dsjj.guiyang.gov.cn/newsite/zwgk/zfxxgk_5848436/fdzdgknr/jggk/jgld_5977768/202608/t20260813_90729743.html	0488
+欧阳玲玲		3		贵州省	贵阳市	http://dsjj.guiyang.gov.cn/newsite/zwgk/zfxxgk_5848436/fdzdgknr/jggk/jgld_5977768/	贵阳市大数据发展管理局党委委员、副局长		贵阳市大数据发展管理局	https://dsjj.guiyang.gov.cn/newsite/zwgk/zfxxgk_5848436/fdzdgknr/jggk/jgld_5977768/202505/t20250528_87934049.html	0488
+汪乃澄		4		贵州省	贵阳市	http://dsjj.guiyang.gov.cn/newsite/zwgk/zfxxgk_5848436/fdzdgknr/jggk/jgld_5977768/	贵阳市大数据发展管理局党委委员、副局长		贵阳市大数据发展管理局	https://dsjj.guiyang.gov.cn/newsite/zwgk/zfxxgk_5848436/fdzdgknr/jggk/jgld_5977768/202606/t20260625_90556219.html	0488
+何庆		5		贵州省	贵阳市	http://dsjj.guiyang.gov.cn/newsite/zwgk/zfxxgk_5848436/fdzdgknr/jggk/jgld_5977768/	贵阳市大数据发展管理局党委委员、副局长		贵阳市大数据发展管理局	https://dsjj.guiyang.gov.cn/newsite/zwgk/zfxxgk_5848436/fdzdgknr/jggk/jgld_5977768/202609/t20260910_90857219.html	0488

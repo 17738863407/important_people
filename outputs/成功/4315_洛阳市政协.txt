@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙延文		1		河南省	洛阳市	https://gw.lyzzxs.gov.cn/szdt/zxld/	主席		洛阳市政协		4315
+张汉智		2		河南省	洛阳市	https://gw.lyzzxs.gov.cn/szdt/zxld/	副主席		洛阳市政协		4315
+魏险峰		3		河南省	洛阳市	https://gw.lyzzxs.gov.cn/szdt/zxld/	副主席		洛阳市政协		4315
+宗玉红		4		河南省	洛阳市	https://gw.lyzzxs.gov.cn/szdt/zxld/	副主席		洛阳市政协		4315
+王燕飞		5		河南省	洛阳市	https://gw.lyzzxs.gov.cn/szdt/zxld/	副主席		洛阳市政协		4315
+仝宇鹏		6		河南省	洛阳市	https://gw.lyzzxs.gov.cn/szdt/zxld/	副主席		洛阳市政协		4315
+王淑霞		7		河南省	洛阳市	https://gw.lyzzxs.gov.cn/szdt/zxld/	副主席		洛阳市政协		4315
+何武周		8		河南省	洛阳市	https://gw.lyzzxs.gov.cn/szdt/zxld/	副主席		洛阳市政协		4315
+赵振峰		9		河南省	洛阳市	https://gw.lyzzxs.gov.cn/szdt/zxld/	副主席		洛阳市政协		4315
+曹亦俊		10		河南省	洛阳市	https://gw.lyzzxs.gov.cn/szdt/zxld/	副主席		洛阳市政协		4315
+夏许峰		11		河南省	洛阳市	https://gw.lyzzxs.gov.cn/szdt/zxld/	副主席		洛阳市政协		4315
+赵红艺		12		河南省	洛阳市	https://gw.lyzzxs.gov.cn/szdt/zxld/	秘书长候选人		洛阳市政协		4315

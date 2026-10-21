@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈吉宁		1		全国		http://district.ce.cn/zt/rwk/sf/sh/index.shtml	市委书记		上海市委		0440
+朱忠明		2		全国		http://district.ce.cn/zt/rwk/sf/sh/index.shtml	市委副书记、市长		上海市委		0440
+迟耀云		3		全国		http://district.ce.cn/zt/rwk/sf/sh/index.shtml	市委常委、市纪委书记、市监委主任		上海市委		0440
+赵嘉鸣		4		全国		http://district.ce.cn/zt/rwk/sf/sh/index.shtml	市委常委、宣传部部长		上海市委		0440
+陈通		5		全国		http://district.ce.cn/zt/rwk/sf/sh/index.shtml	市委常委、统战部部长，市政协党组副书记		上海市委		0440
+张为		6		全国		http://district.ce.cn/zt/rwk/sf/sh/index.shtml	市委常委、组织部部长		上海市委		0440
+陈金山		7		全国		http://district.ce.cn/zt/rwk/sf/sh/index.shtml	市委常委，临港新片区党工委书记、管委会主任		上海市委		0440
+李政		8		全国		http://district.ce.cn/zt/rwk/sf/sh/index.shtml	市委常委，浦东新区区委书记		上海市委		0440
+华源		9		全国		http://district.ce.cn/zt/rwk/sf/sh/index.shtml	市委常委、市政府党组副书记、副市长、市委秘书长		上海市委		0440
+陈杰		10		全国		http://district.ce.cn/zt/rwk/sf/sh/index.shtml	市委常委、副市长		上海市委		0440

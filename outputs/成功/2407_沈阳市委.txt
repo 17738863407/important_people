@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+霍步刚		1		辽宁省	沈阳市	https://www.shenyang.gov.cn/dwgk/swld/	省委副书记、市委书记。兼任沈阳警备区党委第一书记		沈阳市委	https://www.shenyang.gov.cn/dwgk/swld/sj/202505/t20250522_4854650.html	2407
+马珊珊		2		辽宁省	沈阳市	https://www.shenyang.gov.cn/dwgk/swld/	市委副书记、市长、市政府党组书记		沈阳市委	https://www.shenyang.gov.cn/dwgk/swld/fsj/202609/t20260913_5088376.html	2407
+魏红江		3		辽宁省	沈阳市	https://www.shenyang.gov.cn/dwgk/swld/	市委副书记		沈阳市委	https://www.shenyang.gov.cn/dwgk/swld/fsj/202607/t20260720_5059778.html	2407
+杨志宏		4		辽宁省	沈阳市	https://www.shenyang.gov.cn/dwgk/swld/	市委常委、市委统战部部长		沈阳市委	https://www.shenyang.gov.cn/dwgk/swld/cw/202309/t20230914_4527269.html	2407
+谷军营		5		辽宁省	沈阳市	https://www.shenyang.gov.cn/dwgk/swld/	市委常委、副市长、市政府党组副书记。兼任市委军民融合办主任、市委金融办主任、市委金融工委书记		沈阳市委	https://www.shenyang.gov.cn/dwgk/swld/cw/202309/t20230914_4527266.html	2407
+苏共建		6		辽宁省	沈阳市	https://www.shenyang.gov.cn/dwgk/swld/	市委常委		沈阳市委	https://www.shenyang.gov.cn/dwgk/swld/cw/202607/t20260721_5060045.html	2407
+张吉慧		7		辽宁省	沈阳市	https://www.shenyang.gov.cn/dwgk/swld/	市委常委、市纪委书记、市监委主任		沈阳市委	https://www.shenyang.gov.cn/dwgk/swld/cw/202412/t20241231_4789228.html	2407
+孙宏伟		8		辽宁省	沈阳市	https://www.shenyang.gov.cn/dwgk/swld/	市委常委、市委组织部部长。兼任市委党校（沈阳行政学院、市社会主义学院）校（院）长		沈阳市委	https://www.shenyang.gov.cn/dwgk/swld/cw/202504/t20250403_4831701.html	2407
+闫占峰		9		辽宁省	沈阳市	https://www.shenyang.gov.cn/dwgk/swld/	市委常委、浑南区委书记。兼任沈阳空港经济区、自贸区沈阳片区、沈阳综合保税区党工委书记		沈阳市委	https://www.shenyang.gov.cn/dwgk/swld/cw/202508/t20250814_4890480.html	2407
+李刚		10		辽宁省	沈阳市	https://www.shenyang.gov.cn/dwgk/swld/	市委常委、副市长、市政府党组成员		沈阳市委	https://www.shenyang.gov.cn/dwgk/swld/cw/202512/t20251231_4963289.html	2407
+王立伟		11		辽宁省	沈阳市	https://www.shenyang.gov.cn/dwgk/swld/	市委常委、市委秘书长。兼任市委办公厅主任、市委改革办主任、市委财经办主任、市直机关工委书记		沈阳市委	https://www.shenyang.gov.cn/dwgk/swld/cw/202512/t20251231_4963295.html	2407
+米德龙		12		辽宁省	沈阳市	https://www.shenyang.gov.cn/dwgk/swld/	市委常委、市委政法委书记、市委社会工作部部长。兼任市委“两新”工委书记、市委依法治市办主任		沈阳市委	https://www.shenyang.gov.cn/dwgk/swld/cw/202606/t20260611_5040213.html	2407
+王间		13		辽宁省	沈阳市	https://www.shenyang.gov.cn/dwgk/swld/	市委常委、副市长、市政府党组成员		沈阳市委	https://www.shenyang.gov.cn/dwgk/swld/cw/202606/t20260618_5043670.html	2407
+何涛		14		辽宁省	沈阳市	https://www.shenyang.gov.cn/dwgk/swld/	市委常委、市委宣传部部长。兼任市委教科工委书记		沈阳市委	https://www.shenyang.gov.cn/dwgk/swld/cw/202607/t20260721_5060006.html	2407

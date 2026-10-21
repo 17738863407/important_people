@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+缪建民		1		全国		https://www.cmhk.com/main/gyzsj/gltd/index.html	董事长		招商局集团有限公司		3531
+李永明		2		全国		https://www.cmhk.com/main/gyzsj/gltd/index.html	董事		招商局集团有限公司		3531
+邓仁杰		3		全国		https://www.cmhk.com/main/gyzsj/gltd/index.html	副总经理		招商局集团有限公司		3531
+冯波鸣		4		全国		https://www.cmhk.com/main/gyzsj/gltd/index.html	副总经理		招商局集团有限公司		3531
+宫立云		5		全国		https://www.cmhk.com/main/gyzsj/gltd/index.html	董事		招商局集团有限公司		3531
+吴泊		6		全国		https://www.cmhk.com/main/gyzsj/gltd/index.html	总会计师		招商局集团有限公司		3531
+宋嵘		7		全国		https://www.cmhk.com/main/gyzsj/gltd/index.html	副总经理		招商局集团有限公司		3531
+蒋铁峰		8		全国		https://www.cmhk.com/main/gyzsj/gltd/index.html	副总经理		招商局集团有限公司		3531

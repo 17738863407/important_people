@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吕辉斌		1		新疆维吾尔自治区		https://zjt.xinjiang.gov.cn/xjzjt/c113127/jigou.shtml	党组书记、副厅长		新疆维吾尔自治区住房和城乡建设厅	https://zjt.xinjiang.gov.cn/xjzjt/c116383/leader_detail_lhb2.shtml	3388
+霍懋敏		2		新疆维吾尔自治区		https://zjt.xinjiang.gov.cn/xjzjt/c113127/jigou.shtml	厅长		新疆维吾尔自治区住房和城乡建设厅	https://zjt.xinjiang.gov.cn/xjzjt/c116191/leader_detail_hmm.shtml	3388
+耿明杰		3		新疆维吾尔自治区		https://zjt.xinjiang.gov.cn/xjzjt/c113127/jigou.shtml	党组成员、副厅长、一级巡视员		新疆维吾尔自治区住房和城乡建设厅	https://zjt.xinjiang.gov.cn/xjzjt/c115488/leader_detail_gmj.shtml	3388
+潘伟		4		新疆维吾尔自治区		https://zjt.xinjiang.gov.cn/xjzjt/c113127/jigou.shtml	厅党组成员、副厅长		新疆维吾尔自治区住房和城乡建设厅	https://zjt.xinjiang.gov.cn/xjzjt/c116373/leader_detail_pw.shtml	3388
+李彬		5		新疆维吾尔自治区		https://zjt.xinjiang.gov.cn/xjzjt/c113127/jigou.shtml	党组成员、副厅长		新疆维吾尔自治区住房和城乡建设厅	https://zjt.xinjiang.gov.cn/xjzjt/c116353/leader_detail_lb.shtml	3388
+马昱		6		新疆维吾尔自治区		https://zjt.xinjiang.gov.cn/xjzjt/c113127/jigou.shtml	党组成员、副厅长		新疆维吾尔自治区住房和城乡建设厅	https://zjt.xinjiang.gov.cn/xjzjt/c116356/leader_detail_my.shtml	3388

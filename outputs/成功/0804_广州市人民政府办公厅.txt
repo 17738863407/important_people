@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙志洋		1		广东省	广州市	https://www.gz.gov.cn/gkmlpt/content/9/9985/post_9985138.html	市长		广州市人民政府办公厅		0804
+陈杰		2		广东省	广州市	https://www.gz.gov.cn/gkmlpt/content/9/9985/post_9985138.html	常务副市长		广州市人民政府办公厅		0804
+王焕清		3		广东省	广州市	https://www.gz.gov.cn/gkmlpt/content/9/9985/post_9985138.html	副市长		广州市人民政府办公厅		0804
+谭萍		4		广东省	广州市	https://www.gz.gov.cn/gkmlpt/content/9/9985/post_9985138.html	副市长		广州市人民政府办公厅		0804
+张锐		5		广东省	广州市	https://www.gz.gov.cn/gkmlpt/content/9/9985/post_9985138.html	副市长		广州市人民政府办公厅		0804
+江智涛		6		广东省	广州市	https://www.gz.gov.cn/gkmlpt/content/9/9985/post_9985138.html	副市长		广州市人民政府办公厅		0804
+赖志鸿		7		广东省	广州市	https://www.gz.gov.cn/gkmlpt/content/9/9985/post_9985138.html	副市长		广州市人民政府办公厅		0804
+胡浩		8		广东省	广州市	https://www.gz.gov.cn/gkmlpt/content/9/9985/post_9985138.html	副市长		广州市人民政府办公厅		0804
+洪谦		9		广东省	广州市	https://www.gz.gov.cn/gkmlpt/content/9/9985/post_9985138.html	秘书长		广州市人民政府办公厅		0804

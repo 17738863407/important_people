@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴秀玲		1		山西省	朔州市	http://www.shuozhou.gov.cn/xxgk/ldzc/	市长		朔州市人民政府	http://www.shuozhou.gov.cn/xxgk/ldzc/szs/wxl/	3883
+高喜全		2		山西省	朔州市	http://www.shuozhou.gov.cn/xxgk/ldzc/	副市长		朔州市人民政府	http://www.shuozhou.gov.cn/xxgk/ldzc/fsz/td_31178/	3883
+刘亮		3		山西省	朔州市	http://www.shuozhou.gov.cn/xxgk/ldzc/	副市长		朔州市人民政府	http://www.shuozhou.gov.cn/xxgk/ldzc/fsz/td_14807/	3883
+魏元平		4		山西省	朔州市	http://www.shuozhou.gov.cn/xxgk/ldzc/	副市长		朔州市人民政府	http://www.shuozhou.gov.cn/xxgk/ldzc/fsz/ztm/	3883
+黄勇		5		山西省	朔州市	http://www.shuozhou.gov.cn/xxgk/ldzc/	副市长		朔州市人民政府	http://www.shuozhou.gov.cn/xxgk/ldzc/fsz/111_31059/	3883
+邵平安		6		山西省	朔州市	http://www.shuozhou.gov.cn/xxgk/ldzc/	副市长		朔州市人民政府	http://www.shuozhou.gov.cn/xxgk/ldzc/fsz/111_21030/	3883
+刘宏武		7		山西省	朔州市	http://www.shuozhou.gov.cn/xxgk/ldzc/	秘书长		朔州市人民政府	http://www.shuozhou.gov.cn/xxgk/ldzc/msz/lhw/	3883

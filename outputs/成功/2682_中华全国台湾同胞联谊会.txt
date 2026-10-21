@@ -1,0 +1,17 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑建闽		1		全国		https://www.tailian.org.cn/web/tlgk/ldjg/index.html	会长		中华全国台湾同胞联谊会	https://www.tailian.org.cn/web/tlgk/ldjg/hz/zjm/index.html	2682
+纪斌		2		全国		https://www.tailian.org.cn/web/tlgk/ldjg/index.html	党组书记 副会长		中华全国台湾同胞联谊会	https://www.tailian.org.cn/web/tlgk/ldjg/dzsjfhz/jb/index.html	2682
+杨毅周		3		全国		https://www.tailian.org.cn/web/tlgk/ldjg/index.html	专职副会长		中华全国台湾同胞联谊会	https://www.tailian.org.cn/web/tlgk/ldjg/zzfhz/yyz/index.html	2682
+郑平		4		全国		https://www.tailian.org.cn/web/tlgk/ldjg/index.html	专职副会长		中华全国台湾同胞联谊会	https://www.tailian.org.cn/web/tlgk/ldjg/zzfhz/zp/index.html	2682
+蔡睿		5		全国		https://www.tailian.org.cn/web/tlgk/ldjg/index.html	专职副会长		中华全国台湾同胞联谊会	https://www.tailian.org.cn/web/tlgk/ldjg/zzfhz/cr/index.html	2682
+王昱		6		全国		https://www.tailian.org.cn/web/tlgk/ldjg/index.html	兼职副会长		中华全国台湾同胞联谊会	https://www.tailian.org.cn/web/tlgk/ldjg/jzfhz/wy/index.html	2682
+卢丽安		7		全国		https://www.tailian.org.cn/web/tlgk/ldjg/index.html	兼职副会长		中华全国台湾同胞联谊会	https://www.tailian.org.cn/web/tlgk/ldjg/jzfhz/lla/index.html	2682
+白天亮		8		全国		https://www.tailian.org.cn/web/tlgk/ldjg/index.html	兼职副会长		中华全国台湾同胞联谊会	https://www.tailian.org.cn/web/tlgk/ldjg/jzfhz/btl/index.html	2682
+江尔雄		9		全国		https://www.tailian.org.cn/web/tlgk/ldjg/index.html	兼职副会长		中华全国台湾同胞联谊会	https://www.tailian.org.cn/web/tlgk/ldjg/jzfhz/jex/index.html	2682
+江利平		10		全国		https://www.tailian.org.cn/web/tlgk/ldjg/index.html	兼职副会长		中华全国台湾同胞联谊会	https://www.tailian.org.cn/web/tlgk/ldjg/jzfhz/jlp/index.html	2682
+邹振球		11		全国		https://www.tailian.org.cn/web/tlgk/ldjg/index.html	兼职副会长		中华全国台湾同胞联谊会	https://www.tailian.org.cn/web/tlgk/ldjg/jzfhz/zzq/index.html	2682
+陈云英		12		全国		https://www.tailian.org.cn/web/tlgk/ldjg/index.html	兼职副会长		中华全国台湾同胞联谊会	https://www.tailian.org.cn/web/tlgk/ldjg/jzfhz/cyy/index.html	2682
+周琪		13		全国		https://www.tailian.org.cn/web/tlgk/ldjg/index.html	兼职副会长		中华全国台湾同胞联谊会	https://www.tailian.org.cn/web/tlgk/ldjg/jzfhz/zq/index.html	2682
+符之冠		14		全国		https://www.tailian.org.cn/web/tlgk/ldjg/index.html	兼职副会长		中华全国台湾同胞联谊会	https://www.tailian.org.cn/web/tlgk/ldjg/jzfhz/fzg/index.html	2682
+曾旭晴		15		全国		https://www.tailian.org.cn/web/tlgk/ldjg/index.html	兼职副会长		中华全国台湾同胞联谊会	https://www.tailian.org.cn/web/tlgk/ldjg/jzfhz/zxq/index.html	2682
+颜珂		16		全国		https://www.tailian.org.cn/web/tlgk/ldjg/index.html	兼职副会长		中华全国台湾同胞联谊会	https://www.tailian.org.cn/web/tlgk/ldjg/jzfhz/yk/index.html	2682

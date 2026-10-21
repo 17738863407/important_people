@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+曹顺清		1		青海省	西宁市	https://xnsrsj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	局党组书记、局长		西宁市人力资源和社会保障局	https://xnsrsj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202112/t20211203_160287.html	3093
+周奎		2		青海省	西宁市	https://xnsrsj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	局党组成员、副局长		西宁市人力资源和社会保障局	https://xnsrsj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202112/t20211203_160289.html	3093
+谭屹涛		3		青海省	西宁市	https://xnsrsj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	局党组成员、副局长		西宁市人力资源和社会保障局	https://xnsrsj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202112/t20211203_160288.html	3093
+郭霞		4		青海省	西宁市	https://xnsrsj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	局党组成员、副局长		西宁市人力资源和社会保障局	https://xnsrsj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202303/t20230315_183448.html	3093
+陈信国		5		青海省	西宁市	https://xnsrsj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、市就业服务局局长		西宁市人力资源和社会保障局	https://xnsrsj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202411/t20241101_209528.html	3093
+刘娜		6		青海省	西宁市	https://xnsrsj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、市社会保险服务局局长		西宁市人力资源和社会保障局	https://xnsrsj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202411/t20241101_209529.html	3093

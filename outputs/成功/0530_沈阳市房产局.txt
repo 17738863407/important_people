@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+石国琦		1		辽宁省	沈阳市	https://fcj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/			沈阳市房产局		0530
+黄殿忠		2		辽宁省	沈阳市	https://fcj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/	党组成员、副局长		沈阳市房产局		0530
+李兆煦		3		辽宁省	沈阳市	https://fcj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/	党组成员、副局长		沈阳市房产局		0530
+尹稷华		4		辽宁省	沈阳市	https://fcj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/	党组成员、副局长		沈阳市房产局		0530
+常会宇		5		辽宁省	沈阳市	https://fcj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/	城市公用事业发展中心党委书记		沈阳市房产局		0530
+廖文予		6		辽宁省	沈阳市	https://fcj.shenyang.gov.cn/zwgkzdgz/fdzdgknr/jgjj/	市管干部		沈阳市房产局		0530

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘陈立		1		广东省	深圳市	https://siat.cas.cn/jggl/xrld/	院长、党委委员		中国科学院深圳先进技术研究院	https://siat.cas.cn/jggl/xrld/202412/t20241212_7454678.html	4122
+蔺占兵		2		广东省	深圳市	https://siat.cas.cn/jggl/xrld/	党委书记、副院长		中国科学院深圳先进技术研究院	https://siat.cas.cn/jggl/xrld/202606/t20260624_8232754.html	4122
+王筑		3		广东省	深圳市	https://siat.cas.cn/jggl/xrld/	纪委书记、党委委员		中国科学院深圳先进技术研究院	https://siat.cas.cn/jggl/xrld/202412/t20241212_7454674.html	4122
+许建斌		4		广东省	深圳市	https://siat.cas.cn/jggl/xrld/	学术副院长		中国科学院深圳先进技术研究院	https://siat.cas.cn/jggl/xrld/202412/t20241212_7454673.html	4122
+梁栋		5		广东省	深圳市	https://siat.cas.cn/jggl/xrld/	副院长、党委委员		中国科学院深圳先进技术研究院	https://siat.cas.cn/jggl/xrld/202505/t20250520_7788862.html	4122
+吴新宇		6		广东省	深圳市	https://siat.cas.cn/jggl/xrld/	副院长		中国科学院深圳先进技术研究院	https://siat.cas.cn/jggl/xrld/202505/t20250520_7788870.html	4122

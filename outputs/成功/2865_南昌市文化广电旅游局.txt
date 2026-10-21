@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+万利平		1		江西省	南昌市	http://wgxj.nc.gov.cn/wgxlj/ldxx/nav_wztt.shtml	党组书记、局长		南昌市文化广电旅游局		2865
+刘斯武		2		江西省	南昌市	http://wgxj.nc.gov.cn/wgxlj/ldxx/nav_wztt.shtml	党组副书记、副局长（正县长级）		南昌市文化广电旅游局		2865
+刘芬芳		3		江西省	南昌市	http://wgxj.nc.gov.cn/wgxlj/ldxx/nav_wztt.shtml	党组成员、副局长		南昌市文化广电旅游局		2865
+曾育婷		4		江西省	南昌市	http://wgxj.nc.gov.cn/wgxlj/ldxx/nav_wztt.shtml	党组成员、副局长		南昌市文化广电旅游局		2865
+徐芬		5		江西省	南昌市	http://wgxj.nc.gov.cn/wgxlj/ldxx/nav_wztt.shtml	一级调研员		南昌市文化广电旅游局		2865
+宋国平		6		江西省	南昌市	http://wgxj.nc.gov.cn/wgxlj/ldxx/nav_wztt.shtml	三级调研员		南昌市文化广电旅游局		2865
+罗东文		7		江西省	南昌市	http://wgxj.nc.gov.cn/wgxlj/ldxx/nav_wztt.shtml	三级调研员		南昌市文化广电旅游局		2865
+邓穆超		8		江西省	南昌市	http://wgxj.nc.gov.cn/wgxlj/ldxx/nav_wztt.shtml	四级调研员		南昌市文化广电旅游局		2865

@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王爱东		1		江西省	南昌市	https://nczx.nc.gov.cn/news/1025232.html	市政协党组书记、主席		南昌市政协		1849
+黄清玉		2		江西省	南昌市	https://nczx.nc.gov.cn/news/1025232.html	市政协副主席		南昌市政协		1849
+熊志刚		3		江西省	南昌市	https://nczx.nc.gov.cn/news/1025232.html	市政协副主席		南昌市政协		1849
+万敏		4		江西省	南昌市	https://nczx.nc.gov.cn/news/1025232.html	市政协副主席		南昌市政协		1849
+宋亮生		5		江西省	南昌市	https://nczx.nc.gov.cn/news/1025232.html	市政协党组成员、副主席		南昌市政协		1849
+谢为民		6		江西省	南昌市	https://nczx.nc.gov.cn/news/1025232.html	市政协党组成员、副主席		南昌市政协		1849
+薛有旺		7		江西省	南昌市	https://nczx.nc.gov.cn/news/1025232.html	市政协副主席		南昌市政协		1849
+黄小华		8		江西省	南昌市	https://nczx.nc.gov.cn/news/1025232.html	市政协党组成员、副主席		南昌市政协		1849
+魏宏平		9		江西省	南昌市	https://nczx.nc.gov.cn/news/1025232.html	市政协副主席		南昌市政协		1849
+谭伯乐		10		江西省	南昌市	https://nczx.nc.gov.cn/news/1025232.html	市政协党组成员、副主席		南昌市政协		1849
+李广振		11		江西省	南昌市	https://nczx.nc.gov.cn/news/1025232.html	省政府参事、市政协原一级巡视员		南昌市政协		1849
+于立山		12		江西省	南昌市	https://nczx.nc.gov.cn/news/1025232.html	市政协二级巡视员		南昌市政协		1849
+徐峰		13		江西省	南昌市	https://nczx.nc.gov.cn/news/1025232.html	市政协党组成员、秘书长、办公室主任		南昌市政协		1849

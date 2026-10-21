@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+罗慧		1		陕西省		http://sn.cma.gov.cn/zfxxgk/zwgk/jgyzn/	党组书记、局长		陕西省气象局	http://sn.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/202101/t20210128_2658953.html	2508
+李社宏		2		陕西省		http://sn.cma.gov.cn/zfxxgk/zwgk/jgyzn/	党组成员、西安市气象局党组书记、局长		陕西省气象局	http://sn.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/202101/t20210129_2661742.html	2508
+刘凌河		3		陕西省		http://sn.cma.gov.cn/zfxxgk/zwgk/jgyzn/	党组成员、副局长		陕西省气象局	http://sn.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/202512/t20251215_7497248.html	2508
+张国勇		4		陕西省		http://sn.cma.gov.cn/zfxxgk/zwgk/jgyzn/	党组成员、纪检组长		陕西省气象局	http://sn.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/202109/t20210930_3857303.html	2508
+赵奎锋		5		陕西省		http://sn.cma.gov.cn/zfxxgk/zwgk/jgyzn/	党组成员、副局长		陕西省气象局	http://sn.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/202101/t20210129_2661749.html	2508
+贺文彬		6		陕西省		http://sn.cma.gov.cn/zfxxgk/zwgk/jgyzn/	党组成员、副局长		陕西省气象局	http://sn.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/202403/t20240318_6133358.html	2508
+赵光明		7		陕西省		http://sn.cma.gov.cn/zfxxgk/zwgk/jgyzn/	二级巡视员		陕西省气象局	http://sn.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/202101/t20210129_2661571.html	2508
+杨文峰		8		陕西省		http://sn.cma.gov.cn/zfxxgk/zwgk/jgyzn/	总工程师 、二级巡视员		陕西省气象局	http://sn.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/202101/t20210129_2661756.html	2508

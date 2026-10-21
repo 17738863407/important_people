@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李晓静		1		陕西省	咸阳市	https://www.xianyang.gov.cn/zfxxgk/fdzdgknr/ldzc/szxld/	市政协主席		咸阳市政协	https://www.xianyang.gov.cn/zfxxgk/fdzdgknr/ldzc/szxld/lxj/	4321
+邢步宜		2		陕西省	咸阳市	https://www.xianyang.gov.cn/zfxxgk/fdzdgknr/ldzc/szxld/	市政协副主席		咸阳市政协	https://www.xianyang.gov.cn/zfxxgk/fdzdgknr/ldzc/szxld/lby/	4321
+史耀东		3		陕西省	咸阳市	https://www.xianyang.gov.cn/zfxxgk/fdzdgknr/ldzc/szxld/	市政协副主席		咸阳市政协	https://www.xianyang.gov.cn/zfxxgk/fdzdgknr/ldzc/szxld/syd/	4321
+房晓飞		4		陕西省	咸阳市	https://www.xianyang.gov.cn/zfxxgk/fdzdgknr/ldzc/szxld/	市政协副主席		咸阳市政协	https://www.xianyang.gov.cn/zfxxgk/fdzdgknr/ldzc/szxld/fxf/	4321
+沙石		5		陕西省	咸阳市	https://www.xianyang.gov.cn/zfxxgk/fdzdgknr/ldzc/szxld/	市政协副主席		咸阳市政协	https://www.xianyang.gov.cn/zfxxgk/fdzdgknr/ldzc/szxld/ss/	4321
+刘敏		6		陕西省	咸阳市	https://www.xianyang.gov.cn/zfxxgk/fdzdgknr/ldzc/szxld/	市政协副主席		咸阳市政协	https://www.xianyang.gov.cn/zfxxgk/fdzdgknr/ldzc/szxld/lm/	4321
+苏霆		7		陕西省	咸阳市	https://www.xianyang.gov.cn/zfxxgk/fdzdgknr/ldzc/szxld/	市政协副主席		咸阳市政协	https://www.xianyang.gov.cn/zfxxgk/fdzdgknr/ldzc/szxld/st/	4321
+蒲春侠		8		陕西省	咸阳市	https://www.xianyang.gov.cn/zfxxgk/fdzdgknr/ldzc/szxld/	市政协副主席		咸阳市政协	https://www.xianyang.gov.cn/zfxxgk/fdzdgknr/ldzc/szxld/pcx_32919/	4321
+何剑		9		陕西省	咸阳市	https://www.xianyang.gov.cn/zfxxgk/fdzdgknr/ldzc/szxld/	咸阳市政协党组成员、秘书长，机关党组书记		咸阳市政协	https://www.xianyang.gov.cn/zfxxgk/fdzdgknr/ldzc/szxld/hj_32920/	4321

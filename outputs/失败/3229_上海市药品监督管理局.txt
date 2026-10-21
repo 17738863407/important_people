@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐徕		1		上海市		https://yjj.sh.gov.cn/sjld/20230320/1f0e825e80d442649a99bc5885a490f6.html	上海市药品监督管理局党组书记、局长		上海市药品监督管理局	https://yjj.sh.gov.cn/jczc/20191223/e6ad102c021b4e81b82907306cbf8bd0.html	3229
+张清		2		上海市		https://yjj.sh.gov.cn/sjld/20230320/1f0e825e80d442649a99bc5885a490f6.html	上海市药品监督管理局党组成员、副局长		上海市药品监督管理局	https://yjj.sh.gov.cn/jczc/20191223/fb84af6beead4d18938e3e3a10bf150d.html	3229
+郭术廷		3		上海市		https://yjj.sh.gov.cn/sjld/20230320/1f0e825e80d442649a99bc5885a490f6.html	上海市药品监督管理局党组成员、副局长		上海市药品监督管理局	https://yjj.sh.gov.cn/jczc/20191223/f64ff85ebe724d8496eaf44d33493755.html	3229
+赵燕君		4		上海市		https://yjj.sh.gov.cn/sjld/20230320/1f0e825e80d442649a99bc5885a490f6.html	上海市药品监督管理局党组成员、副局长		上海市药品监督管理局	https://yjj.sh.gov.cn/jczc/20191223/85235882126041df809755144547a65c.html	3229

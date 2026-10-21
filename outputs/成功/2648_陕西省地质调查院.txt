@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄建军		1		陕西省		https://www.sxigs.cn/main/zyyj/lingdaozhichuang.html	党委书记		陕西省地质调查院		2648
+侯登峰		2		陕西省		https://www.sxigs.cn/main/zyyj/lingdaozhichuang.html	党委副书记、院长		陕西省地质调查院		2648
+张晓团		3		陕西省		https://www.sxigs.cn/main/zyyj/lingdaozhichuang.html	党委委员、副院长		陕西省地质调查院		2648
+李学斌		4		陕西省		https://www.sxigs.cn/main/zyyj/lingdaozhichuang.html	党委委员、副院长		陕西省地质调查院		2648

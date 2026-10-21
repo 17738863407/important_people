@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘世虎		1		江苏省		https://jszwb.jiangsu.gov.cn/col/col81492/index.html?eqid=b4f53bd20014322d00000004643d013c	党组书记、局长，省政务服务管理办公室主任		江苏省数据局		1218
+张旻		2		江苏省		https://jszwb.jiangsu.gov.cn/col/col81492/index.html?eqid=b4f53bd20014322d00000004643d013c	党组成员、副局长		江苏省数据局		1218
+方靖		3		江苏省		https://jszwb.jiangsu.gov.cn/col/col81492/index.html?eqid=b4f53bd20014322d00000004643d013c	党组成员、副局长		江苏省数据局		1218
+杨波		4		江苏省		https://jszwb.jiangsu.gov.cn/col/col81492/index.html?eqid=b4f53bd20014322d00000004643d013c	党组成员、副局长，省大数据管理中心党委书记、主任		江苏省数据局		1218

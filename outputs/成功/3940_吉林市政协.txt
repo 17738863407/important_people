@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王荣新		1		吉林省	吉林市	http://www.jlszx.gov.cn/zxld/	副主席		吉林市政协		3940
+陈东		2		吉林省	吉林市	http://www.jlszx.gov.cn/zxld/	副主席		吉林市政协		3940
+李显辉		3		吉林省	吉林市	http://www.jlszx.gov.cn/zxld/	副主席		吉林市政协		3940
+钟方丽		4		吉林省	吉林市	http://www.jlszx.gov.cn/zxld/	副主席		吉林市政协		3940
+张立春		5		吉林省	吉林市	http://www.jlszx.gov.cn/zxld/	副主席		吉林市政协		3940
+闫铎		6		吉林省	吉林市	http://www.jlszx.gov.cn/zxld/	副主席		吉林市政协		3940
+金永善		7		吉林省	吉林市	http://www.jlszx.gov.cn/zxld/	秘书长		吉林市政协		3940

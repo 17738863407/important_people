@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡昌升		1		全国		http://district.ce.cn/zt/rwk/sf/xz/index.shtml	党委书记		西藏自治区党委	http://district.ce.cn/newarea/sddy/202609/t20260922_3230113.shtml	0443
+严金海		2		全国		http://district.ce.cn/zt/rwk/sf/xz/index.shtml	党委副书记、区人大常委会主任		西藏自治区党委	http://district.ce.cn/newarea/sddy/202501/22/t20250122_39274724.shtml	0443
+嘎玛泽登		3		全国		http://district.ce.cn/zt/rwk/sf/xz/index.shtml	党委副书记、政府主席		西藏自治区党委	http://district.ce.cn/newarea/sddy/202501/22/t20250122_39274725.shtml	0443
+龚会才		4		全国		http://district.ce.cn/zt/rwk/sf/xz/index.shtml	党委副书记，秘书长，政府常务副主席		西藏自治区党委	http://district.ce.cn/newarea/sddy/202609/t20260918_3221623.shtml	0443
+何录春		5		全国		http://district.ce.cn/zt/rwk/sf/xz/index.shtml	党委副书记，政法委书记		西藏自治区党委	http://district.ce.cn/newarea/sddy/202610/t20261008_3250066.shtml	0443
+赖蛟		6		全国		http://district.ce.cn/zt/rwk/sf/xz/index.shtml	党委常委		西藏自治区党委	http://district.ce.cn/newarea/sddy/202111/20/t20211120_37101329.shtml	0443
+任维		7		全国		http://district.ce.cn/zt/rwk/sf/xz/index.shtml	党委常委、政府常务副主席		西藏自治区党委	http://district.ce.cn/newarea/sddy/202112/11/t20211211_37163212.shtml	0443
+才让太		8		全国		http://district.ce.cn/zt/rwk/sf/xz/index.shtml	党委常委、统战部部长，自治区政协党组副书记		西藏自治区党委	http://district.ce.cn/newarea/sddy/202606/t20260613_3028128.shtml	0443
+达娃次仁		9		全国		http://district.ce.cn/zt/rwk/sf/xz/index.shtml	党委常委、拉萨市委书记		西藏自治区党委	http://district.ce.cn/newarea/sddy/202603/t20260324_2852226.shtml	0443
+旦巴		10		全国		http://district.ce.cn/zt/rwk/sf/xz/index.shtml	党委常委、政府常务副主席		西藏自治区党委	http://district.ce.cn/newarea/sddy/202502/21/t20250221_39298552.shtml	0443
+姜文鹏		11		全国		http://district.ce.cn/zt/rwk/sf/xz/index.shtml	党委常委、区纪委书记，监委主任		西藏自治区党委	http://district.ce.cn/newarea/sddy/202501/22/t20250122_39274741.shtml	0443
+徐芝文		12		全国		http://district.ce.cn/zt/rwk/sf/xz/index.shtml	党委常委、宣传部部长、组织部部长		西藏自治区党委	http://district.ce.cn/newarea/sddy/202609/t20260924_3233834.shtml	0443

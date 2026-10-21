@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李波		1		贵州省	贵阳市	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/	贵阳市委教育工委副书记，贵阳市教育局党委书记、局长		贵阳市教育局	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/202503/t20250314_87172992.html	1305
+郑胥		2		贵州省	贵阳市	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/	贵阳市教育局党委副书记，贵阳市委教育工委委员，贵阳市教育局副局长		贵阳市教育局	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/202503/t20250314_87175268.html	1305
+姚红路		3		贵州省	贵阳市	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/	贵阳市委教育工委副书记，贵阳市教育局党委委员		贵阳市教育局	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/202503/t20250314_87175088.html	1305
+张仁山		4		贵州省	贵阳市	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/	贵阳市委教育工委委员，贵阳市教育局党委委员、副局长		贵阳市教育局	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/202609/t20260922_90928231.html	1305
+李玮		5		贵州省	贵阳市	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/	贵阳市委教育工委委员，贵阳市教育局党委委员、副局长		贵阳市教育局	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/202503/t20250314_87175429.html	1305
+彭科芬		6		贵州省	贵阳市	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/	贵安新区社会事业管理局党组成员、副局长，贵阳市教育局党委委员		贵阳市教育局	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/202512/t20251231_89109215.html	1305
+刘红迎		7		贵州省	贵阳市	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/	贵阳市教育局党委委员、副局长（挂职）		贵阳市教育局	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/202609/t20260922_90928271.html	1305
+张雪丽		8		贵州省	贵阳市	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/	贵阳市教育局正县长级督学		贵阳市教育局	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/202503/t20250314_87175302.html	1305
+万乐		9		贵州省	贵阳市	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/	贵阳市教育局副县长级督学		贵阳市教育局	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/202503/t20250314_87175530.html	1305
+周海兵		10		贵州省	贵阳市	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/	贵阳市教育局副县长级督学		贵阳市教育局	https://jyj.guiyang.gov.cn/zfxxgk_5617343/fdzdgknr/jgjj/jgld_5977956/202512/t20251231_89109292.html	1305

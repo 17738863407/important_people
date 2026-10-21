@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+毛庆斌		1		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201909/t20190903_846039.htm	常务副书记、巡视办主任		文化和旅游部机关党委		1507
+关红雯		2		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201909/t20190903_846039.htm	一级巡视员		文化和旅游部机关党委		1507
+蒋清华		3		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201909/t20190903_846039.htm	副书记、纪委书记		文化和旅游部机关党委		1507
+杨彬		4		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201909/t20190903_846039.htm	副书记		文化和旅游部机关党委		1507

@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+顾坤		1		江苏省	淮安市	https://www.huaian.gov.cn/col/13323_831852/index.html	市委书记		淮安市委		3775
+杨新忠		2		江苏省	淮安市	https://www.huaian.gov.cn/col/13323_831852/index.html	市委副书记，市政府代市长		淮安市委	https://www.huaian.gov.cn/col/11626_751116/index.html	3775
+胡毅		3		江苏省	淮安市	https://www.huaian.gov.cn/col/13323_831852/index.html	市委副书记、统战部部长		淮安市委	https://www.huaian.gov.cn/col/17525_285178/index.html	3775
+周方舒		4		江苏省	淮安市	https://www.huaian.gov.cn/col/13323_831852/index.html	市委常委、宣传部部长		淮安市委	https://www.huaian.gov.cn/col/18186_124114/index.html	3775
+吴茂春		5		江苏省	淮安市	https://www.huaian.gov.cn/col/13323_831852/index.html	市委常委，市纪委书记，市监委主任		淮安市委	https://www.huaian.gov.cn/col/17922_178538/index.html	3775
+还红华		6		江苏省	淮安市	https://www.huaian.gov.cn/col/13323_831852/index.html	市委常委、组织部部长		淮安市委	https://www.huaian.gov.cn/col/18187_545654/index.html	3775
+张冲林		7		江苏省	淮安市	https://www.huaian.gov.cn/col/13323_831852/index.html	市委常委、秘书长，市政府副市长		淮安市委	https://www.huaian.gov.cn/col/18127_238116/index.html	3775
+贺宝祥		8		江苏省	淮安市	https://www.huaian.gov.cn/col/13323_831852/index.html	市委常委、政法委书记		淮安市委	https://www.huaian.gov.cn/col/16794_677483/index.html	3775
+颜复		9		江苏省	淮安市	https://www.huaian.gov.cn/col/13323_831852/index.html	市委常委，市政府副市长		淮安市委	https://www.huaian.gov.cn/col/13466_251723/index.html	3775
+刘爱国		10		江苏省	淮安市	https://www.huaian.gov.cn/col/13323_831852/index.html	市委常委，淮安经济技术开发区党工委书记		淮安市委	https://www.huaian.gov.cn/col/14391_424625/index.html	3775
+吴义朋		11		江苏省	淮安市	https://www.huaian.gov.cn/col/13323_831852/index.html	市委常委，淮安军分区政治委员		淮安市委	https://www.huaian.gov.cn/col/18188_352264/index.html	3775

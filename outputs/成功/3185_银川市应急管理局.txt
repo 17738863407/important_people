@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高亮		1		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sajj_2488/xxgkml_2491/gkxx_2492/ldfg_2494/202608/t20260814_5313145.html	党委书记、局长		银川市应急管理局		3185
+王峻		2		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sajj_2488/xxgkml_2491/gkxx_2492/ldfg_2494/202608/t20260814_5313145.html	党委委员、副局长、三级调研员		银川市应急管理局		3185
+彭昆		3		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sajj_2488/xxgkml_2491/gkxx_2492/ldfg_2494/202608/t20260814_5313145.html	党委委员、副局长		银川市应急管理局		3185
+雍晓林		4		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sajj_2488/xxgkml_2491/gkxx_2492/ldfg_2494/202608/t20260814_5313145.html	党委委员、副局长		银川市应急管理局		3185
+陈建军		5		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sajj_2488/xxgkml_2491/gkxx_2492/ldfg_2494/202608/t20260814_5313145.html	党委委员、副局长		银川市应急管理局		3185
+张伟		6		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sajj_2488/xxgkml_2491/gkxx_2492/ldfg_2494/202608/t20260814_5313145.html	一级调研员		银川市应急管理局		3185
+朱军		7		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sajj_2488/xxgkml_2491/gkxx_2492/ldfg_2494/202608/t20260814_5313145.html	二级调研员		银川市应急管理局		3185

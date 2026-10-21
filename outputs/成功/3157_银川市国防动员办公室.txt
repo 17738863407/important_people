@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王涛		1		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycsrmfkbgs_38520/xxgkml_38523/gkxx_38524/ldxx_38526/202506/t20250618_4937639.html	银川市国防动员办公室党组书记、副主任		银川市国防动员办公室		3157
+侯自强		2		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycsrmfkbgs_38520/xxgkml_38523/gkxx_38524/ldxx_38526/202506/t20250618_4937639.html	银川市发展和改革委员会党组书记、主任，银川市国防动员办公室主任		银川市国防动员办公室		3157
+蒋恒斌		3		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycsrmfkbgs_38520/xxgkml_38523/gkxx_38524/ldxx_38526/202506/t20250618_4937639.html	银川市国防动员办公室党组成员、副主任		银川市国防动员办公室		3157
+王通达		4		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycsrmfkbgs_38520/xxgkml_38523/gkxx_38524/ldxx_38526/202506/t20250618_4937639.html	银川市国防动员办公室党组成员、四级调研员、综合科科长		银川市国防动员办公室		3157

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+席北斗		1		全国		https://www.craes.cn/zjhky/xrld/	院长、党委副书记		中国环境科学研究院	https://www.craes.cn/zjhky/xrld/202504/t20250402_1106380.shtml	0329
+刘春燕		2		全国		https://www.craes.cn/zjhky/xrld/	党委书记、副院长		中国环境科学研究院	https://www.craes.cn/zjhky/xrld/202506/t20250616_1121405.shtml	0329
+梁恒		3		全国		https://www.craes.cn/zjhky/xrld/	纪委书记		中国环境科学研究院	https://www.craes.cn/zjhky/xrld/202504/t20250402_1106379.shtml	0329
+陈胜		4		全国		https://www.craes.cn/zjhky/xrld/	副院长		中国环境科学研究院	https://www.craes.cn/zjhky/xrld/202504/t20250402_1106378.shtml	0329
+全占军		5		全国		https://www.craes.cn/zjhky/xrld/	副院长		中国环境科学研究院	https://www.craes.cn/zjhky/xrld/202504/t20250402_1106377.shtml	0329
+徐义生		6		全国		https://www.craes.cn/zjhky/xrld/	总工程师		中国环境科学研究院	https://www.craes.cn/zjhky/xrld/202504/t20250402_1106367.shtml	0329

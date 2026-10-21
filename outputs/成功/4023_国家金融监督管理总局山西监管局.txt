@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+倪金乾		1		全国		https://www.nfra.gov.cn/branch/shanxi/view/pages/common/ItemList.html?itemId=1331&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=1329&itemUrl=ItemListRightArticle.html	国家金融监督管理总局山西监管局党委书记、局长		国家金融监督管理总局山西监管局		4023
+张健		2		全国		https://www.nfra.gov.cn/branch/shanxi/view/pages/common/ItemList.html?itemId=1331&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=1329&itemUrl=ItemListRightArticle.html	国家金融监督管理总局山西监管局党委委员、副局长		国家金融监督管理总局山西监管局		4023
+周兰领		3		全国		https://www.nfra.gov.cn/branch/shanxi/view/pages/common/ItemList.html?itemId=1331&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=1329&itemUrl=ItemListRightArticle.html	国家金融监督管理总局山西监管局党委委员、副局长		国家金融监督管理总局山西监管局		4023
+赵建飞		4		全国		https://www.nfra.gov.cn/branch/shanxi/view/pages/common/ItemList.html?itemId=1331&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=1329&itemUrl=ItemListRightArticle.html	国家金融监督管理总局山西监管局党委委员、副局长		国家金融监督管理总局山西监管局		4023

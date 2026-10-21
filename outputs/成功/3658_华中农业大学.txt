@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+姚江林		1		湖北省	武汉市	https://www.hzau.edu.cn/xxgk/xxld.htm	党委书记；党委常委		华中农业大学		3658
+王世杰		2		湖北省	武汉市	https://www.hzau.edu.cn/xxgk/xxld.htm	党委副书记；党委常委		华中农业大学		3658
+李向东		3		湖北省	武汉市	https://www.hzau.edu.cn/xxgk/xxld.htm	党委副书记；党委常委		华中农业大学		3658
+赵凯		4		湖北省	武汉市	https://www.hzau.edu.cn/xxgk/xxld.htm	党委副书记；纪委书记；党委常委		华中农业大学		3658
+严建兵		5		湖北省	武汉市	https://www.hzau.edu.cn/xxgk/xxld.htm	校长		华中农业大学		3658
+郭刚奇		6		湖北省	武汉市	https://www.hzau.edu.cn/xxgk/xxld.htm	副校长；党委常委		华中农业大学		3658
+青平		7		湖北省	武汉市	https://www.hzau.edu.cn/xxgk/xxld.htm	副校长；党委常委		华中农业大学		3658
+杨少波		8		湖北省	武汉市	https://www.hzau.edu.cn/xxgk/xxld.htm	副校长；党委常委		华中农业大学		3658
+李大鹏		9		湖北省	武汉市	https://www.hzau.edu.cn/xxgk/xxld.htm	副校长；党委常委		华中农业大学		3658
+张拥军		10		湖北省	武汉市	https://www.hzau.edu.cn/xxgk/xxld.htm	副校长；党委常委		华中农业大学		3658

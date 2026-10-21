@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+任东		1		安徽省	宿州市	https://www.ahsz.gov.cn/ldzc1/	市委副书记，市政府党组书记、市长		宿州市人民政府	https://www.ahsz.gov.cn/content/column/167473061?liId=161973231&leaderTypeId=90385511	3887
+陆勤山		2		安徽省	宿州市	https://www.ahsz.gov.cn/ldzc1/	市政府党组副书记、常务副市长		宿州市人民政府	https://www.ahsz.gov.cn/content/column/167473061?liId=161973451&leaderTypeId=90385511	3887
+杨泽胜		3		安徽省	宿州市	https://www.ahsz.gov.cn/ldzc1/	副市长，民进宿州市委会主委		宿州市人民政府	https://www.ahsz.gov.cn/content/column/167473061?liId=161973351&leaderTypeId=90385511	3887
+吴绪峰		4		安徽省	宿州市	https://www.ahsz.gov.cn/ldzc1/	市政府党组成员、副市长		宿州市人民政府	https://www.ahsz.gov.cn/content/column/167473061?liId=161973361&leaderTypeId=90385511	3887
+李莉		5		安徽省	宿州市	https://www.ahsz.gov.cn/ldzc1/	市政府党组成员、副市长		宿州市人民政府	https://www.ahsz.gov.cn/content/column/167473061?liId=161973411&leaderTypeId=90385511	3887
+汪峻		6		安徽省	宿州市	https://www.ahsz.gov.cn/ldzc1/	市政府党组成员、副市长		宿州市人民政府	https://www.ahsz.gov.cn/content/column/167473061?liId=161973441&leaderTypeId=90385511	3887
+李荣权		7		安徽省	宿州市	https://www.ahsz.gov.cn/ldzc1/	市政府党组成员、秘书长		宿州市人民政府	https://www.ahsz.gov.cn/content/column/167473061?liId=161973371&leaderTypeId=90385511	3887

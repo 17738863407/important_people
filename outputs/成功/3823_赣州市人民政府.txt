@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+漆海云		1		江西省	赣州市	https://www.ganzhou.gov.cn/gzszf/sz001/zw_sz.shtml	市政府市长、党组书记		赣州市人民政府	https://www.ganzhou.gov.cn/gzszf/sz001/zw_sz.shtml	3823
+何琦		2		江西省	赣州市	https://www.ganzhou.gov.cn/gzszf/sz001/zw_sz.shtml	市政府副市长、党组成员		赣州市人民政府	https://www.ganzhou.gov.cn/gzszf/gzhq/zw_sz.shtml	3823
+聂兆华		3		江西省	赣州市	https://www.ganzhou.gov.cn/gzszf/sz001/zw_sz.shtml	市委常委、副市长（挂职）		赣州市人民政府	https://www.ganzhou.gov.cn/gzszf/dlt/zw_sz.shtml	3823
+刘通		4		江西省	赣州市	https://www.ganzhou.gov.cn/gzszf/sz001/zw_sz.shtml	市委常委、副市长（挂职）		赣州市人民政府	https://www.ganzhou.gov.cn/gzszf/dfl/zw_sz.shtml	3823
+罗瑞华		5		江西省	赣州市	https://www.ganzhou.gov.cn/gzszf/sz001/zw_sz.shtml	市政府副市长、党组成员		赣州市人民政府	https://www.ganzhou.gov.cn/gzszf/c114522/zw_sz.shtml	3823
+邹治宇		6		江西省	赣州市	https://www.ganzhou.gov.cn/gzszf/sz001/zw_sz.shtml	市政府副市长、党组成员		赣州市人民政府	https://www.ganzhou.gov.cn/gzszf/csl/zw_sz.shtml	3823
+叶新		7		江西省	赣州市	https://www.ganzhou.gov.cn/gzszf/sz001/zw_sz.shtml	市政府副市长、党组成员		赣州市人民政府	https://www.ganzhou.gov.cn/gzszf/c1024372/zw_sz.shtml	3823
+雷鸣		8		江西省	赣州市	https://www.ganzhou.gov.cn/gzszf/sz001/zw_sz.shtml	市政府副市长、民建赣州市委会主委		赣州市人民政府	https://www.ganzhou.gov.cn/gzszf/gzslm/zw_sz.shtml	3823
+连天浪		9		江西省	赣州市	https://www.ganzhou.gov.cn/gzszf/sz001/zw_sz.shtml	市政府副市长、党组成员		赣州市人民政府	https://www.ganzhou.gov.cn/gzszf/ltl/zw_sz.shtml	3823
+谢卫东		10		江西省	赣州市	https://www.ganzhou.gov.cn/gzszf/sz001/zw_sz.shtml	市政府秘书长、党组成员		赣州市人民政府	https://www.ganzhou.gov.cn/gzszf/xwd/zw_sz.shtml	3823

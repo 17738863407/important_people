@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张纳军		1		青海省		http://fgw.qinghai.gov.cn/zfxxgk/ldzz/	党组书记		青海省发展和改革委员会	http://fgw.qinghai.gov.cn/zfxxgk/ldzz/dzsj_zr/znj/	0556
+华中		2		青海省		http://fgw.qinghai.gov.cn/zfxxgk/ldzz/	党组副书记、主任		青海省发展和改革委员会	http://fgw.qinghai.gov.cn/zfxxgk/ldzz/dzsj_zr/tjc/	0556
+陈亮		3		青海省		http://fgw.qinghai.gov.cn/zfxxgk/ldzz/	党组成员，驻委纪检监察组组长		青海省发展和改革委员会	http://fgw.qinghai.gov.cn/zfxxgk/ldzz/dzgcy/cl/	0556
+吴密森		4		青海省		http://fgw.qinghai.gov.cn/zfxxgk/ldzz/	党组成员、副主任		青海省发展和改革委员会	http://fgw.qinghai.gov.cn/zfxxgk/ldzz/dzgcy/wms/	0556
+丁永顺		5		青海省		http://fgw.qinghai.gov.cn/zfxxgk/ldzz/	党组成员、副主任		青海省发展和改革委员会	http://fgw.qinghai.gov.cn/zfxxgk/ldzz/dzgcy/dys/	0556
+杨国庆		6		青海省		http://fgw.qinghai.gov.cn/zfxxgk/ldzz/	党组成员、副主任		青海省发展和改革委员会	http://fgw.qinghai.gov.cn/zfxxgk/ldzz/dzgcy/ygq/	0556
+许海铭		7		青海省		http://fgw.qinghai.gov.cn/zfxxgk/ldzz/	党组成员、副主任，省能源局党组书记、局长		青海省发展和改革委员会	http://fgw.qinghai.gov.cn/zfxxgk/ldzz/dzgcy/xhm1/	0556
+崔智		8		青海省		http://fgw.qinghai.gov.cn/zfxxgk/ldzz/	党组成员、副主任		青海省发展和改革委员会	http://fgw.qinghai.gov.cn/zfxxgk/ldzz/dzgcy/cz/	0556
+柳雪莲		9		青海省		http://fgw.qinghai.gov.cn/zfxxgk/ldzz/	党组成员，省粮食局党组书记、局长		青海省发展和改革委员会	http://fgw.qinghai.gov.cn/zfxxgk/ldzz/dzgcy/lxl/	0556
+朱成青		10		青海省		http://fgw.qinghai.gov.cn/zfxxgk/ldzz/	党组成员、副主任		青海省发展和改革委员会	http://fgw.qinghai.gov.cn/zfxxgk/ldzz/dzgcy/zcq/	0556
+孙洪波		11		青海省		http://fgw.qinghai.gov.cn/zfxxgk/ldzz/	党组成员、副主任（援青）		青海省发展和改革委员会	http://fgw.qinghai.gov.cn/zfxxgk/ldzz/dzgcy/shb/	0556

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+许勤		1		全国		http://district.ce.cn/zt/rwk/sf/hlj/index.shtml	省委书记，省人大常委会主任		黑龙江省委	http://district.ce.cn/newarea/sddy/202301/17/t20230117_38351719.shtml	0424
+梁惠玲		2		全国		http://district.ce.cn/zt/rwk/sf/hlj/index.shtml	省委副书记、省长		黑龙江省委	http://district.ce.cn/newarea/sddy/202301/17/t20230117_38351686.shtml	0424
+刘惠		3		全国		http://district.ce.cn/zt/rwk/sf/hlj/index.shtml	省委副书记、政法委书记		黑龙江省委	http://district.ce.cn/newarea/sddy/202508/t20250801_2427948.shtml	0424
+杨博		4		全国		http://district.ce.cn/zt/rwk/sf/hlj/index.shtml	省委常委、组织部部长		黑龙江省委	http://district.ce.cn/newarea/sddy/202205/06/t20220506_37555730_2.shtml	0424
+陈少波		5		全国		http://district.ce.cn/zt/rwk/sf/hlj/index.shtml	省委常委、常务副省长		黑龙江省委	http://district.ce.cn/newarea/sddy/202401/22/t20240122_38875336.shtml	0424
+于洪涛		6		全国		http://district.ce.cn/zt/rwk/sf/hlj/index.shtml	省委常委、哈尔滨市委书记		黑龙江省委	http://district.ce.cn/newarea/sddy/202401/20/t20240120_38874304.shtml	0424
+王岚		7		全国		http://district.ce.cn/zt/rwk/sf/hlj/index.shtml	省委常委、宣传部部长		黑龙江省委	http://district.ce.cn/newarea/sddy/202509/t20250918_2480298.shtml	0424
+徐向国		8		全国		http://district.ce.cn/zt/rwk/sf/hlj/index.shtml	省委常委、秘书长		黑龙江省委	http://district.ce.cn/newarea/sddy/202407/01/t20240701_39055331.shtml	0424
+刘振国		9		全国		http://district.ce.cn/zt/rwk/sf/hlj/index.shtml	省委常委、统战部部长，省政协党组副书记		黑龙江省委	http://district.ce.cn/newarea/sddy/202604/t20260430_2939411.shtml	0424

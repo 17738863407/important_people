@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴强		1		吉林省		https://sft.jl.gov.cn/jgsz/tld/	吉林省司法厅党组书记、厅长，省监狱管理局第一政委		吉林省司法厅	https://sft.jl.gov.cn/jgsz/tld/202103/t20210311_7963784.html	2333
+徐淑红		2		吉林省		https://sft.jl.gov.cn/jgsz/tld/	吉林省司法厅党组成员、副厅长		吉林省司法厅	https://sft.jl.gov.cn/jgsz/tld/201810/t20181022_6059341.html	2333
+邓健		3		吉林省		https://sft.jl.gov.cn/jgsz/tld/	吉林省司法厅副厅长		吉林省司法厅	https://sft.jl.gov.cn/jgsz/tld/202005/t20200526_7238691.html	2333
+初冬		4		吉林省		https://sft.jl.gov.cn/jgsz/tld/	吉林省司法厅党组成员、副厅长，省监狱管理局党组书记、局长		吉林省司法厅	https://sft.jl.gov.cn/jgsz/tld/202401/t20240103_8859642.html	2333
+张永咏		5		吉林省		https://sft.jl.gov.cn/jgsz/tld/	吉林省司法厅党组成员、副厅长		吉林省司法厅	https://sft.jl.gov.cn/jgsz/tld/202609/t20260910_9705659.html	2333
+王德林		6		吉林省		https://sft.jl.gov.cn/jgsz/tld/	吉林省司法厅党组成员、省纪委监委驻省司法厅纪检监察组组长		吉林省司法厅	https://sft.jl.gov.cn/jgsz/tld/202511/t20251126_9360580.html	2333
+唐云伟		7		吉林省		https://sft.jl.gov.cn/jgsz/tld/	吉林省司法厅党组成员，厅政治部（警务部）主任		吉林省司法厅	https://sft.jl.gov.cn/jgsz/tld/202509/t20250911_9319266.html	2333
+林松		8		吉林省		https://sft.jl.gov.cn/jgsz/tld/	吉林省司法厅一级巡视员		吉林省司法厅	https://sft.jl.gov.cn/jgsz/tld/201810/t20181022_6059337.html	2333

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+余洋		1		西藏自治区	拉萨市	http://zfjs.lasa.gov.cn/zjj/shuji/ldxx_list.shtml	局党组副书记、局长		拉萨市住房和城乡建设局	http://zfjs.lasa.gov.cn/zjj/thsz/202407/55413a3f7f594ca3916560e425349f60.shtml	3309
+张刚强		2		西藏自治区	拉萨市	http://zfjs.lasa.gov.cn/zjj/shuji/ldxx_list.shtml	党组成员、副局长		拉萨市住房和城乡建设局	http://zfjs.lasa.gov.cn/zjj/ehsz/202508/83a83aff876c42229f264426dcf0e2b9.shtml	3309
+扎西拉旺		3		西藏自治区	拉萨市	http://zfjs.lasa.gov.cn/zjj/shuji/ldxx_list.shtml	党组成员、副局长		拉萨市住房和城乡建设局	http://zfjs.lasa.gov.cn/zjj/ehsz/202508/70629d583a3144c095ece52d1fe51098.shtml	3309
+陈天放		4		西藏自治区	拉萨市	http://zfjs.lasa.gov.cn/zjj/shuji/ldxx_list.shtml	党组成员、副局长		拉萨市住房和城乡建设局	http://zfjs.lasa.gov.cn/zjj/ehsz/202508/f3f52343780f40a38c4d2387bd185334.shtml	3309
+何霞		5		西藏自治区	拉萨市	http://zfjs.lasa.gov.cn/zjj/shuji/ldxx_list.shtml	局党组成员、副局长		拉萨市住房和城乡建设局	http://zfjs.lasa.gov.cn/zjj/ehsz/202508/895ecddfeb374fac8567f53e07d161bd.shtml	3309
+江必林		6		西藏自治区	拉萨市	http://zfjs.lasa.gov.cn/zjj/shuji/ldxx_list.shtml	局党组成员、副局长		拉萨市住房和城乡建设局	http://zfjs.lasa.gov.cn/zjj/ehsz/202508/7dac9e90157a47bf88670b5c8903a80d.shtml	3309
+扎西卓嘎		7		西藏自治区	拉萨市	http://zfjs.lasa.gov.cn/zjj/shuji/ldxx_list.shtml	二级调研员		拉萨市住房和城乡建设局	http://zfjs.lasa.gov.cn/zjj/ehsz/201910/87c5576849c04248b0e97c1d97d89d20.shtml	3309

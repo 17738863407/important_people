@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+苟护生		1		全国		https://www.ciecc.com.cn/col/col1591/index.html	党委书记、董事长		中国国际工程咨询有限公司		3529
+郭铭群		2		全国		https://www.ciecc.com.cn/col/col1591/index.html	党委副书记、董事、总经理		中国国际工程咨询有限公司		3529
+朱岚		3		全国		https://www.ciecc.com.cn/col/col1591/index.html	党委副书记；职工董事；工会主席		中国国际工程咨询有限公司		3529
+王丽静		4		全国		https://www.ciecc.com.cn/col/col1591/index.html	党委委员；总会计师		中国国际工程咨询有限公司		3529
+潘小海		5		全国		https://www.ciecc.com.cn/col/col1591/index.html	党委委员；副总经理		中国国际工程咨询有限公司		3529
+沈浩		6		全国		https://www.ciecc.com.cn/col/col1591/index.html	党委委员；副总经理；董事会秘书		中国国际工程咨询有限公司		3529
+李显锋		7		全国		https://www.ciecc.com.cn/col/col1591/index.html	党委委员；纪委书记		中国国际工程咨询有限公司		3529
+刘富荣		8		全国		https://www.ciecc.com.cn/col/col1591/index.html	党委委员；副总经理		中国国际工程咨询有限公司		3529
+赵旭峰		9		全国		https://www.ciecc.com.cn/col/col1591/index.html	党委委员；副总经理		中国国际工程咨询有限公司		3529
+尤伯军		10		全国		https://www.ciecc.com.cn/col/col1591/index.html	总经济师		中国国际工程咨询有限公司		3529

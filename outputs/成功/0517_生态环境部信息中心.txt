@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+汪海洋		1		全国		http://www.eicmee.cn/zxgk/ldjs/	党委书记、主任		生态环境部信息中心		0517
+毛剑英		2		全国		http://www.eicmee.cn/zxgk/ldjs/	党委委员、纪委书记		生态环境部信息中心		0517
+李蔚		3		全国		http://www.eicmee.cn/zxgk/ldjs/	党委委员、副主任		生态环境部信息中心		0517
+陈煜欣		4		全国		http://www.eicmee.cn/zxgk/ldjs/	党委委员、总工程师		生态环境部信息中心		0517
+张波		5		全国		http://www.eicmee.cn/zxgk/ldjs/	副总工程师兼数字生态文明研究所所长		生态环境部信息中心		0517

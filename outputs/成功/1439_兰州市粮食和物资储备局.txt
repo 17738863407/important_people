@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+左世合		1		甘肃省	兰州市	http://lshwzcb.lanzhou.gov.cn/col/col4895/index.html	党组成员、副局长		兰州市粮食和物资储备局	http://lshwzcb.lanzhou.gov.cn/art/2025/8/28/art_4895_1549126.html	1439
+和劼		2		甘肃省	兰州市	http://lshwzcb.lanzhou.gov.cn/col/col4895/index.html	副局长		兰州市粮食和物资储备局	http://lshwzcb.lanzhou.gov.cn/art/2026/8/17/art_4895_1727863.html	1439
+贾峰		3		甘肃省	兰州市	http://lshwzcb.lanzhou.gov.cn/col/col4895/index.html	党组成员、副局长		兰州市粮食和物资储备局	http://lshwzcb.lanzhou.gov.cn/art/2026/8/17/art_4895_1727865.html	1439

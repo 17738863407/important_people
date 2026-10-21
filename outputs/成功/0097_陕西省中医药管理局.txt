@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+雷颖		1		陕西省		https://atcm.shaanxi.gov.cn/zfxxgk/fdzdgknr/ldxx/	省卫生健康委员会党组成员、省中医药管理局局长		陕西省中医药管理局	https://atcm.shaanxi.gov.cn/zfxxgk/fdzdgknr/ldxx/202504/t20250430_3510751.html	0097
+孔群		2		陕西省		https://atcm.shaanxi.gov.cn/zfxxgk/fdzdgknr/ldxx/	副局长、二级巡视员		陕西省中医药管理局	https://atcm.shaanxi.gov.cn/zfxxgk/fdzdgknr/ldxx/202006/t20200630_518943.html	0097
+李斌		3		陕西省		https://atcm.shaanxi.gov.cn/zfxxgk/fdzdgknr/ldxx/	副局长		陕西省中医药管理局	https://atcm.shaanxi.gov.cn/zfxxgk/fdzdgknr/ldxx/202504/t20250430_3510752.html	0097

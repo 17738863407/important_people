@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+石崧		1		辽宁省		https://mzt.ln.gov.cn/mzt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省民政厅党组书记		辽宁省民政厅	https://mzt.ln.gov.cn/mzt/zfxxgk/fdzdgknr/jgjj/bmld/ss/index.shtml	1787
+周强		2		辽宁省		https://mzt.ln.gov.cn/mzt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省民政厅厅长		辽宁省民政厅	https://mzt.ln.gov.cn/mzt/zfxxgk/fdzdgknr/jgjj/bmld/zq/index.shtml	1787
+王茂彦		3		辽宁省		https://mzt.ln.gov.cn/mzt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省民政厅党组成员、副厅长		辽宁省民政厅	https://mzt.ln.gov.cn/mzt/zfxxgk/fdzdgknr/jgjj/bmld/wmy/index.shtml	1787
+吕正春		4		辽宁省		https://mzt.ln.gov.cn/mzt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省纪委监委驻省民政厅纪检监察组组长、省民政厅党组成员、二级高级监察官		辽宁省民政厅	https://mzt.ln.gov.cn/mzt/zfxxgk/fdzdgknr/jgjj/bmld/lzc/index.shtml	1787
+陈进		5		辽宁省		https://mzt.ln.gov.cn/mzt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省民政厅党组成员、副厅长兼辽宁省老龄工作委员会办公室主任		辽宁省民政厅	https://mzt.ln.gov.cn/mzt/zfxxgk/fdzdgknr/jgjj/bmld/cj/index.shtml	1787
+李双祥		6		辽宁省		https://mzt.ln.gov.cn/mzt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省民政厅党组成员、副厅长（挂职，时间2年）		辽宁省民政厅	https://mzt.ln.gov.cn/mzt/zfxxgk/fdzdgknr/jgjj/bmld/lsx/index.shtml	1787
+李新宝		7		辽宁省		https://mzt.ln.gov.cn/mzt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省民政厅党组成员、副厅长		辽宁省民政厅	https://mzt.ln.gov.cn/mzt/zfxxgk/fdzdgknr/jgjj/bmld/lxb/index.shtml	1787
+白云松		8		辽宁省		https://mzt.ln.gov.cn/mzt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省民政厅党组成员、副厅长		辽宁省民政厅	https://mzt.ln.gov.cn/mzt/zfxxgk/fdzdgknr/jgjj/bmld/bys/index.shtml	1787

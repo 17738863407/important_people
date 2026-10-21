@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王金南		1		全国		https://www.caep.org.cn/bygk/xrld/	中国工程院院士、名誉院长		生态环境部环境规划院	https://www.caep.org.cn/bygk/xrld/202604/t20260403_1148228.html	0130
+孙守亮		2		全国		https://www.caep.org.cn/bygk/xrld/	党委书记、副院长		生态环境部环境规划院	https://www.caep.org.cn/bygk/xrld/202604/t20260403_1148227.html	0130
+许其功		3		全国		https://www.caep.org.cn/bygk/xrld/	院长		生态环境部环境规划院	https://www.caep.org.cn/bygk/xrld/202604/t20260403_1148226.html	0130
+万军		4		全国		https://www.caep.org.cn/bygk/xrld/	党委委员、副院长		生态环境部环境规划院	https://www.caep.org.cn/bygk/xrld/202604/t20260403_1148225.html	0130
+韩孝成		5		全国		https://www.caep.org.cn/bygk/xrld/	党委委员、纪委书记		生态环境部环境规划院	https://www.caep.org.cn/bygk/xrld/202604/t20260403_1148224.html	0130
+雷宇		6		全国		https://www.caep.org.cn/bygk/xrld/	党委委员、总工程师		生态环境部环境规划院	https://www.caep.org.cn/bygk/xrld/202604/t20260403_1148223.html	0130
+秦昌波		7		全国		https://www.caep.org.cn/bygk/xrld/	党委委员、总规划师		生态环境部环境规划院	https://www.caep.org.cn/bygk/xrld/202604/t20260403_1148222.html	0130

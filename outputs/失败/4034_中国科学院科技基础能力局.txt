@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+卢方军		1		全国		https://bsc.cas.cn/zzjg/xrld/	局长		中国科学院科技基础能力局		4034
+杨为进		2		全国		https://bsc.cas.cn/zzjg/xrld/	副局长		中国科学院科技基础能力局		4034
+苏奋振		3		全国		https://bsc.cas.cn/zzjg/xrld/	副局长		中国科学院科技基础能力局		4034
+张韵		4		全国		https://bsc.cas.cn/zzjg/xrld/	副局长		中国科学院科技基础能力局		4034

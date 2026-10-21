@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张治荣		1		宁夏回族自治区		http://www.nxmu.edu.cn/xxgk/xrld.htm	党委书记		宁夏医科大学	http://www.nxmu.edu.cn/info/1152/1626.htm	4273
+姜怡邓		2		宁夏回族自治区		http://www.nxmu.edu.cn/xxgk/xrld.htm	党委副书记、校长		宁夏医科大学	http://www.nxmu.edu.cn/info/1152/2454.htm	4273
+邓彦芳		3		宁夏回族自治区		http://www.nxmu.edu.cn/xxgk/xrld.htm	党委副书记		宁夏医科大学		4273
+韩蕃璠		4		宁夏回族自治区		http://www.nxmu.edu.cn/xxgk/xrld.htm	党委副书记		宁夏医科大学		4273
+张立杰		5		宁夏回族自治区		http://www.nxmu.edu.cn/xxgk/xrld.htm	党委常委、纪委书记、监察专员		宁夏医科大学		4273
+牛建国		6		宁夏回族自治区		http://www.nxmu.edu.cn/xxgk/xrld.htm	党委常委、副校长		宁夏医科大学		4273
+杨怡		7		宁夏回族自治区		http://www.nxmu.edu.cn/xxgk/xrld.htm	副校长		宁夏医科大学		4273
+刘娟		8		宁夏回族自治区		http://www.nxmu.edu.cn/xxgk/xrld.htm	党委常委、总医院党委书记		宁夏医科大学		4273
+韩怀钦		9		宁夏回族自治区		http://www.nxmu.edu.cn/xxgk/xrld.htm	党委常委、副校长		宁夏医科大学		4273
+王汉卿		10		宁夏回族自治区		http://www.nxmu.edu.cn/xxgk/xrld.htm	党委常委、副校长		宁夏医科大学		4273
+魏晋怡		11		宁夏回族自治区		http://www.nxmu.edu.cn/xxgk/xrld.htm	党委常委、组织部部长		宁夏医科大学		4273
+张云飞		12		宁夏回族自治区		http://www.nxmu.edu.cn/xxgk/xrld.htm	党委常委、宣传部部长		宁夏医科大学		4273
+邱鹏飞		13		宁夏回族自治区		http://www.nxmu.edu.cn/xxgk/xrld.htm	党委常委、办公室主任、统战部部长		宁夏医科大学		4273

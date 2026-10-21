@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+江拥洛追		1		西藏自治区	拉萨市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%94%BF%E6%B2%BB%E5%8D%8F%E5%95%86%E4%BC%9A%E8%AE%AE%E6%8B%89%E8%90%A8%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/62680536	主席		拉萨市政协	https://baike.baidu.com/item/%E6%B1%9F%E6%8B%A5%E6%B4%9B%E8%BF%BD/16335511	0015
+亚古		2		西藏自治区	拉萨市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%94%BF%E6%B2%BB%E5%8D%8F%E5%95%86%E4%BC%9A%E8%AE%AE%E6%8B%89%E8%90%A8%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/62680536	副主席		拉萨市政协		0015
+拉巴		3		西藏自治区	拉萨市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%94%BF%E6%B2%BB%E5%8D%8F%E5%95%86%E4%BC%9A%E8%AE%AE%E6%8B%89%E8%90%A8%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/62680536	副主席		拉萨市政协		0015
+岳国红		4		西藏自治区	拉萨市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%94%BF%E6%B2%BB%E5%8D%8F%E5%95%86%E4%BC%9A%E8%AE%AE%E6%8B%89%E8%90%A8%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/62680536	副主席、党组成员、一级巡视员		拉萨市政协		0015
+达娃		5		西藏自治区	拉萨市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%94%BF%E6%B2%BB%E5%8D%8F%E5%95%86%E4%BC%9A%E8%AE%AE%E6%8B%89%E8%90%A8%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/62680536	副主席		拉萨市政协		0015
+刘亮		6		西藏自治区	拉萨市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%94%BF%E6%B2%BB%E5%8D%8F%E5%95%86%E4%BC%9A%E8%AE%AE%E6%8B%89%E8%90%A8%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/62680536	副主席		拉萨市政协		0015
+宋留柱		7		西藏自治区	拉萨市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%94%BF%E6%B2%BB%E5%8D%8F%E5%95%86%E4%BC%9A%E8%AE%AE%E6%8B%89%E8%90%A8%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/62680536	副主席		拉萨市政协		0015
+韩云拴		8		西藏自治区	拉萨市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%94%BF%E6%B2%BB%E5%8D%8F%E5%95%86%E4%BC%9A%E8%AE%AE%E6%8B%89%E8%90%A8%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/62680536	副主席		拉萨市政协		0015
+卢炜升		9		西藏自治区	拉萨市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%94%BF%E6%B2%BB%E5%8D%8F%E5%95%86%E4%BC%9A%E8%AE%AE%E6%8B%89%E8%90%A8%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/62680536	副主席		拉萨市政协		0015
+詹晓圣		10		西藏自治区	拉萨市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%94%BF%E6%B2%BB%E5%8D%8F%E5%95%86%E4%BC%9A%E8%AE%AE%E6%8B%89%E8%90%A8%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/62680536	副主席		拉萨市政协		0015
+邹玉明		11		西藏自治区	拉萨市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%94%BF%E6%B2%BB%E5%8D%8F%E5%95%86%E4%BC%9A%E8%AE%AE%E6%8B%89%E8%90%A8%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/62680536	秘书长		拉萨市政协		0015
+补选詹晓圣为副主席		12		西藏自治区	拉萨市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%94%BF%E6%B2%BB%E5%8D%8F%E5%95%86%E4%BC%9A%E8%AE%AE%E6%8B%89%E8%90%A8%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/62680536	秘书长		拉萨市政协		0015

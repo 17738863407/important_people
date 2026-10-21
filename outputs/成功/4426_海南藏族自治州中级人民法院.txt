@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张静		1		青海省	海南藏族自治州	https://qhhnzy.qhwsfy.gov.cn/article/detail/2026/09/id/9493601.shtml	海南藏族自治州中级人民法院党组书记、院长		海南藏族自治州中级人民法院		4426
+东智加		2		青海省	海南藏族自治州	https://qhhnzy.qhwsfy.gov.cn/article/detail/2026/09/id/9493601.shtml	海南藏族自治州中级人民法院党组副书记、副院长		海南藏族自治州中级人民法院		4426
+杨晓红		3		青海省	海南藏族自治州	https://qhhnzy.qhwsfy.gov.cn/article/detail/2026/09/id/9493601.shtml	海南藏族自治州中级人民法院党组成员、副院长		海南藏族自治州中级人民法院		4426
+孟祥奎		4		青海省	海南藏族自治州	https://qhhnzy.qhwsfy.gov.cn/article/detail/2026/09/id/9493601.shtml	海南藏族自治州中级人民法院党组成员		海南藏族自治州中级人民法院		4426
+而见多杰		5		青海省	海南藏族自治州	https://qhhnzy.qhwsfy.gov.cn/article/detail/2026/09/id/9493601.shtml	海南藏族自治州中级人民法院党组成员、政治部主任		海南藏族自治州中级人民法院		4426
+索南彭措		6		青海省	海南藏族自治州	https://qhhnzy.qhwsfy.gov.cn/article/detail/2026/09/id/9493601.shtml	海南藏族自治州中级人民法院审判委员会专职委员、民事审判一庭庭长		海南藏族自治州中级人民法院		4426
+刘爱全		7		青海省	海南藏族自治州	https://qhhnzy.qhwsfy.gov.cn/article/detail/2026/09/id/9493601.shtml	海南藏族自治州中级人民法院审判委员会专职委员		海南藏族自治州中级人民法院		4426

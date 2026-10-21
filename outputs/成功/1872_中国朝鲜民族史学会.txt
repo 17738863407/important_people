@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑信哲		1		全国		https://www.neac.gov.cn/seac/mwjs/cxmzs/jgrysz.shtml	会长；中国社会科学院民族学与人类学研究所研究员		中国朝鲜民族史学会		1872
+郑喜淑		2		全国		https://www.neac.gov.cn/seac/mwjs/cxmzs/jgrysz.shtml	副会长；中央民族大学民族博物馆副研究馆员		中国朝鲜民族史学会		1872
+李花子		3		全国		https://www.neac.gov.cn/seac/mwjs/cxmzs/jgrysz.shtml	副会长；中国社会科学院历史研究所研究员		中国朝鲜民族史学会		1872
+金俊		4		全国		https://www.neac.gov.cn/seac/mwjs/cxmzs/jgrysz.shtml	副会长；浙江工商大学东亚研究院副教授		中国朝鲜民族史学会		1872
+朴今海		5		全国		https://www.neac.gov.cn/seac/mwjs/cxmzs/jgrysz.shtml	副会长；延边大学民族研究院院长		中国朝鲜民族史学会		1872
+朴光星		6		全国		https://www.neac.gov.cn/seac/mwjs/cxmzs/jgrysz.shtml	副会长；中央民族大学民族学与社会学学院副教授（兼秘书长）		中国朝鲜民族史学会		1872
+姜龙范		7		全国		https://www.neac.gov.cn/seac/mwjs/cxmzs/jgrysz.shtml	副会长；天津外国语大学东北亚研究中心主任		中国朝鲜民族史学会		1872
+李春虎		8		全国		https://www.neac.gov.cn/seac/mwjs/cxmzs/jgrysz.shtml	副会长；上海外国语大学东方语言学院副院长		中国朝鲜民族史学会		1872
+孙启军		9		全国		https://www.neac.gov.cn/seac/mwjs/cxmzs/jgrysz.shtml	副会长；国家民委政策法规司政策处处长		中国朝鲜民族史学会		1872

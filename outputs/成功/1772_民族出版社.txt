@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郭喜		1		全国		https://www.mzpub.com/team	党委书记、社长		民族出版社		1772
+王国升		2		全国		https://www.mzpub.com/team	党委副书记、总编辑		民族出版社		1772
+牙库甫		3		全国		https://www.mzpub.com/team	副总编辑		民族出版社		1772
+惠峰		4		全国		https://www.mzpub.com/team	副社长		民族出版社		1772
+姚克		5		全国		https://www.mzpub.com/team	纪委书记		民族出版社		1772
+郝强		6		全国		https://www.mzpub.com/team	总会计师		民族出版社		1772
+赵文		7		全国		https://www.mzpub.com/team	副司级调研员		民族出版社		1772

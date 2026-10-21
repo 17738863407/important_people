@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张志刚		1		云南省		https://mpa.yn.gov.cn/zfxxgk/fdzdgknr/jgzz/ldcy/202502/t20250226_2933434.html	云南省市场监督管理局党组成员，云南省药品监督管理局党组书记、局长		云南省药品监督管理局		1701
+胡雨		2		云南省		https://mpa.yn.gov.cn/zfxxgk/fdzdgknr/jgzz/ldcy/202502/t20250226_2933434.html	云南省药品监督管理局党组成员、副局长		云南省药品监督管理局		1701
+史玉刚		3		云南省		https://mpa.yn.gov.cn/zfxxgk/fdzdgknr/jgzz/ldcy/202502/t20250226_2933434.html	云南省药品监督管理局党组成员、副局长		云南省药品监督管理局		1701
+张路晗		4		云南省		https://mpa.yn.gov.cn/zfxxgk/fdzdgknr/jgzz/ldcy/202502/t20250226_2933434.html	云南省药品监督管理局党组成员、副局长		云南省药品监督管理局		1701

@@ -1,0 +1,8 @@
+﻿姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐嵩舜		1		贵州省		https://gxs.guizhou.gov.cn/zwgk/ldzc1/	贵州省供销合作社联合社党组书记、理事会主任、直属机关党委书记		贵州省供销合作社联合社	http://gxs.guizhou.gov.cn/zwgk/ldzc1/202604/t20260414_90003703.html	0776
+陈为民		2		贵州省		https://gxs.guizhou.gov.cn/zwgk/ldzc1/	贵州省供销合作社联合社党组成员、理事会副主任		贵州省供销合作社联合社	http://gxs.guizhou.gov.cn/zwgk/ldzc1/202503/t20250325_87269029.html	0776
+严爱中		3		贵州省		https://gxs.guizhou.gov.cn/zwgk/ldzc1/	贵州省供销合作社联合社党组成员、理事会副主任		贵州省供销合作社联合社	http://gxs.guizhou.gov.cn/zwgk/ldzc1/202503/t20250325_87269027.html	0776
+焦德禄		4		贵州省		https://gxs.guizhou.gov.cn/zwgk/ldzc1/	贵州省供销合作社联合社党组成员、理事会副主任		贵州省供销合作社联合社	http://gxs.guizhou.gov.cn/zwgk/ldzc1/202510/t20251009_88678420.html	0776
+张锴		5		贵州省		https://gxs.guizhou.gov.cn/zwgk/ldzc1/	贵州省供销合作社联合社党组成员、理事会副主任		贵州省供销合作社联合社	http://gxs.guizhou.gov.cn/zwgk/ldzc1/202604/t20260428_90053367.html	0776
+吉鸣		6		贵州省		https://gxs.guizhou.gov.cn/zwgk/ldzc1/	贵州省供销合作社联合社党组成员、监事会主任		贵州省供销合作社联合社	http://gxs.guizhou.gov.cn/zwgk/ldzc1/202608/t20260810_90716858.html	0776
+石磊		7		贵州省		https://gxs.guizhou.gov.cn/zwgk/ldzc1/	贵州省供销合作社联合社二级巡视员		贵州省供销合作社联合社	http://gxs.guizhou.gov.cn/zwgk/ldzc1/202503/t20250325_87269011.html	0776

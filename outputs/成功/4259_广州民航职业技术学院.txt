@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐戊填		1		广东省	广州市	https://www.gcac.edu.cn/xxgk1/xxld.htm	党委书记		广州民航职业技术学院		4259
+郭仁刚		2		广东省	广州市	https://www.gcac.edu.cn/xxgk1/xxld.htm	党委副书记、院长		广州民航职业技术学院		4259
+郭晖云		3		广东省	广州市	https://www.gcac.edu.cn/xxgk1/xxld.htm	党委副书记		广州民航职业技术学院		4259
+张昭		4		广东省	广州市	https://www.gcac.edu.cn/xxgk1/xxld.htm	党委委员、副院长		广州民航职业技术学院		4259
+王乐		5		广东省	广州市	https://www.gcac.edu.cn/xxgk1/xxld.htm	党委委员、纪委书记		广州民航职业技术学院		4259
+涂卫军		6		广东省	广州市	https://www.gcac.edu.cn/xxgk1/xxld.htm	党委委员、副院长		广州民航职业技术学院		4259
+胡成伟		7		广东省	广州市	https://www.gcac.edu.cn/xxgk1/xxld.htm	党委委员、副院长		广州民航职业技术学院		4259
+余晓阳		8		广东省	广州市	https://www.gcac.edu.cn/xxgk1/xxld.htm	党委委员、工会主席		广州民航职业技术学院		4259

@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李波		1		河北省	廊坊市	http://www.zxlf.gov.cn/lfzxweb/web/article.jsp?strColId=1508480800354012&strId=1630461637187066&strWebSiteId=1354153871125000	主席		廊坊市政协		3943
+布泽文		2		河北省	廊坊市	http://www.zxlf.gov.cn/lfzxweb/web/article.jsp?strColId=1508480800354012&strId=1630461637187066&strWebSiteId=1354153871125000	副主席		廊坊市政协		3943
+高树民		3		河北省	廊坊市	http://www.zxlf.gov.cn/lfzxweb/web/article.jsp?strColId=1508480800354012&strId=1630461637187066&strWebSiteId=1354153871125000	副主席		廊坊市政协		3943
+李艳军		4		河北省	廊坊市	http://www.zxlf.gov.cn/lfzxweb/web/article.jsp?strColId=1508480800354012&strId=1630461637187066&strWebSiteId=1354153871125000	副主席		廊坊市政协		3943
+许伯		5		河北省	廊坊市	http://www.zxlf.gov.cn/lfzxweb/web/article.jsp?strColId=1508480800354012&strId=1630461637187066&strWebSiteId=1354153871125000	副主席		廊坊市政协		3943
+田景红		6		河北省	廊坊市	http://www.zxlf.gov.cn/lfzxweb/web/article.jsp?strColId=1508480800354012&strId=1630461637187066&strWebSiteId=1354153871125000	副主席		廊坊市政协		3943
+郭军		7		河北省	廊坊市	http://www.zxlf.gov.cn/lfzxweb/web/article.jsp?strColId=1508480800354012&strId=1630461637187066&strWebSiteId=1354153871125000	副主席		廊坊市政协		3943
+李清涛		8		河北省	廊坊市	http://www.zxlf.gov.cn/lfzxweb/web/article.jsp?strColId=1508480800354012&strId=1630461637187066&strWebSiteId=1354153871125000	副主席		廊坊市政协		3943
+马晓衡		9		河北省	廊坊市	http://www.zxlf.gov.cn/lfzxweb/web/article.jsp?strColId=1508480800354012&strId=1630461637187066&strWebSiteId=1354153871125000	副主席		廊坊市政协		3943
+孟宪明		10		河北省	廊坊市	http://www.zxlf.gov.cn/lfzxweb/web/article.jsp?strColId=1508480800354012&strId=1630461637187066&strWebSiteId=1354153871125000	副主席		廊坊市政协		3943
+王振生		11		河北省	廊坊市	http://www.zxlf.gov.cn/lfzxweb/web/article.jsp?strColId=1508480800354012&strId=1630461637187066&strWebSiteId=1354153871125000	秘书长		廊坊市政协		3943

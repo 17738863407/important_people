@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何建章		1		青海省	西宁市	https://shj.xining.gov.cn/zwgk/xxgkml/jgjj/ldxx/202504/t20250427_129138.html	局长		西宁市生态环境局		2409
+赵杰		2		青海省	西宁市	https://shj.xining.gov.cn/zwgk/xxgkml/jgjj/ldxx/202504/t20250427_129138.html	副局长		西宁市生态环境局		2409
+刘扬		3		青海省	西宁市	https://shj.xining.gov.cn/zwgk/xxgkml/jgjj/ldxx/202504/t20250427_129138.html	副局长		西宁市生态环境局		2409
+杨敏春		4		青海省	西宁市	https://shj.xining.gov.cn/zwgk/xxgkml/jgjj/ldxx/202504/t20250427_129138.html	副局长		西宁市生态环境局		2409
+张全录		5		青海省	西宁市	https://shj.xining.gov.cn/zwgk/xxgkml/jgjj/ldxx/202504/t20250427_129138.html	三级调研员		西宁市生态环境局		2409
+魏兴月		6		青海省	西宁市	https://shj.xining.gov.cn/zwgk/xxgkml/jgjj/ldxx/202504/t20250427_129138.html	四级调研员		西宁市生态环境局		2409
+曹剑		7		青海省	西宁市	https://shj.xining.gov.cn/zwgk/xxgkml/jgjj/ldxx/202504/t20250427_129138.html	四级调研员		西宁市生态环境局		2409
+王宁		8		青海省	西宁市	https://shj.xining.gov.cn/zwgk/xxgkml/jgjj/ldxx/202504/t20250427_129138.html	副县级干部		西宁市生态环境局		2409

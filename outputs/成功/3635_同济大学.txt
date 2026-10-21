@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑庆华		1		上海市		https://www.tongji.edu.cn/xxgk1/xrld1.htm	党委书记		同济大学	https://www.tongji.edu.cn/info/1300/41802.htm	3635
+朱小杰		2		上海市		https://www.tongji.edu.cn/xxgk1/xrld1.htm	党委常务副书记		同济大学	https://www.tongji.edu.cn/info/1119/42666.htm	3635
+许铁峰		3		上海市		https://www.tongji.edu.cn/xxgk1/xrld1.htm	党委副书记；纪委书记		同济大学	https://www.tongji.edu.cn/info/1120/44145.htm	3635
+刘润		4		上海市		https://www.tongji.edu.cn/xxgk1/xrld1.htm	党委副书记		同济大学	https://www.tongji.edu.cn/info/1120/29409.htm	3635
+曹静		5		上海市		https://www.tongji.edu.cn/xxgk1/xrld1.htm	党委副书记		同济大学	https://www.tongji.edu.cn/info/1120/41267.htm	3635
+杨金龙		6		上海市		https://www.tongji.edu.cn/xxgk1/xrld1.htm	校长		同济大学	https://www.tongji.edu.cn/info/1122/35385.htm	3635
+吕培明		7		上海市		https://www.tongji.edu.cn/xxgk1/xrld1.htm	常务副校长		同济大学	https://www.tongji.edu.cn/info/1123/29405.htm	3635
+童小华		8		上海市		https://www.tongji.edu.cn/xxgk1/xrld1.htm	副校长		同济大学	https://www.tongji.edu.cn/info/1124/29406.htm	3635
+赵宪忠		9		上海市		https://www.tongji.edu.cn/xxgk1/xrld1.htm	副校长		同济大学	https://www.tongji.edu.cn/info/1124/36496.htm	3635
+石振明		10		上海市		https://www.tongji.edu.cn/xxgk1/xrld1.htm	副校长		同济大学	https://www.tongji.edu.cn/info/1124/37642.htm	3635
+许学军		11		上海市		https://www.tongji.edu.cn/xxgk1/xrld1.htm	副校长		同济大学	https://www.tongji.edu.cn/info/1124/20267.htm	3635
+李翔宁		12		上海市		https://www.tongji.edu.cn/xxgk1/xrld1.htm	副校长		同济大学	https://www.tongji.edu.cn/info/1124/41268.htm	3635

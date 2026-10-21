@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李亚飞		1		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106631/bmzfxxgk_fdzt.shtml?tab=9843ebd0739b4c2987e1c0a82a5fe462	哈尔滨市政府副市长， 哈尔滨市发展和改革委员会党组书记、主任		哈尔滨市发展和改革委员会	http://www.harbin.gov.cn/haerbin/c106633/202307/c01_757478.shtml	0893
+李佰权		2		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106631/bmzfxxgk_fdzt.shtml?tab=9843ebd0739b4c2987e1c0a82a5fe462	哈尔滨市发展和改革委员会党组成员、副主任（兼市能源局局长）、二级巡视员		哈尔滨市发展和改革委员会	http://www.harbin.gov.cn/haerbin/c106633/202307/c01_757475.shtml	0893
+杨丽梅		3		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106631/bmzfxxgk_fdzt.shtml?tab=9843ebd0739b4c2987e1c0a82a5fe462	哈尔滨市发展和改革委员会党组成员、副主任、二级巡视员		哈尔滨市发展和改革委员会	http://www.harbin.gov.cn/haerbin/c106633/202307/c01_757476.shtml	0893
+葛剑辉		4		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106631/bmzfxxgk_fdzt.shtml?tab=9843ebd0739b4c2987e1c0a82a5fe462	哈尔滨市发展和改革委员会党组成员、副主任、哈尔滨新区管委会副主任		哈尔滨市发展和改革委员会	http://www.harbin.gov.cn/haerbin/c106633/202312/c01_954685.shtml	0893
+刘云涛		5		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106631/bmzfxxgk_fdzt.shtml?tab=9843ebd0739b4c2987e1c0a82a5fe462	哈尔滨市发展和改革委员会党组成员、 副主任		哈尔滨市发展和改革委员会	http://www.harbin.gov.cn/haerbin/c106633/202307/c01_757473.shtml	0893
+李晓晖		6		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106631/bmzfxxgk_fdzt.shtml?tab=9843ebd0739b4c2987e1c0a82a5fe462	哈尔滨市发展和改革委员会党组成员，市纪委监委派驻市发改委纪检监察组组长、四级高级监察官		哈尔滨市发展和改革委员会	http://www.harbin.gov.cn/haerbin/c106633/202605/c01_1126106.shtml	0893
+徐立新		7		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106631/bmzfxxgk_fdzt.shtml?tab=9843ebd0739b4c2987e1c0a82a5fe462	哈尔滨市发展和改革委员会总经济师、一级调研员		哈尔滨市发展和改革委员会	http://www.harbin.gov.cn/haerbin/c106633/202608/c01_1138668.shtml	0893

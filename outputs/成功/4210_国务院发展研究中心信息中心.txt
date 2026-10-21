@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李慧莲		1		全国		https://www.drc.gov.cn/yjlyyyjbm/index.aspx?departmentid=20	主任、党支部书记、研究员		国务院发展研究中心信息中心		4210
+朱贤强		2		全国		https://www.drc.gov.cn/yjlyyyjbm/index.aspx?departmentid=20	副主任、研究员		国务院发展研究中心信息中心		4210
+王怀宇		3		全国		https://www.drc.gov.cn/yjlyyyjbm/index.aspx?departmentid=20	副主任、研究员		国务院发展研究中心信息中心		4210

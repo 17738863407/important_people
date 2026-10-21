@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张云明		1		陕西省	西安市	https://www.nwpu.edu.cn/xxgk/ld.htm	党委书记；党委常委		西北工业大学	https://www.nwpu.edu.cn/leader_cont.jsp?urltype=news.NewsContentUrl&wbtreeid=7128&wbnewsid=122748	2003
+宋保维		2		陕西省	西安市	https://www.nwpu.edu.cn/xxgk/ld.htm	校长；党委副书记；党委常委		西北工业大学	https://www.nwpu.edu.cn/leader_cont.jsp?urltype=news.NewsContentUrl&wbtreeid=7188&wbnewsid=120468	2003
+吕卫东		3		陕西省	西安市	https://www.nwpu.edu.cn/xxgk/ld.htm	党委常务副书记；党委常委		西北工业大学	https://www.nwpu.edu.cn/leader_cont.jsp?urltype=news.NewsContentUrl&wbtreeid=7148&wbnewsid=120498	2003
+张艳宁		4		陕西省	西安市	https://www.nwpu.edu.cn/xxgk/ld.htm	常务副校长；党委常委		西北工业大学	https://www.nwpu.edu.cn/leader_cont.jsp?urltype=news.NewsContentUrl&wbtreeid=7198&wbnewsid=120528	2003
+徐永兵		5		陕西省	西安市	https://www.nwpu.edu.cn/xxgk/ld.htm	党委副书记；纪委书记；国家监委驻西北工业大学监察专员；党委常委		西北工业大学	https://www.nwpu.edu.cn/leader_cont.jsp?urltype=news.NewsContentUrl&wbtreeid=7158&wbnewsid=120548	2003
+杨晓		6		陕西省	西安市	https://www.nwpu.edu.cn/xxgk/ld.htm	党委副书记；党委常委		西北工业大学	https://www.nwpu.edu.cn/leader_cont.jsp?urltype=news.NewsContentUrl&wbtreeid=7158&wbnewsid=120578	2003
+张开富		7		陕西省	西安市	https://www.nwpu.edu.cn/xxgk/ld.htm	副校长；党委常委		西北工业大学	https://www.nwpu.edu.cn/leader_cont.jsp?urltype=news.NewsContentUrl&wbtreeid=7208&wbnewsid=120598	2003
+岳晓奎		8		陕西省	西安市	https://www.nwpu.edu.cn/xxgk/ld.htm	副校长；党委常委		西北工业大学	https://www.nwpu.edu.cn/leader_cont.jsp?urltype=news.NewsContentUrl&wbtreeid=7208&wbnewsid=120638	2003
+王伶		9		陕西省	西安市	https://www.nwpu.edu.cn/xxgk/ld.htm	副校长；党委常委		西北工业大学	https://www.nwpu.edu.cn/leader_cont.jsp?urltype=news.NewsContentUrl&wbtreeid=7208&wbnewsid=120628	2003
+张富利		10		陕西省	西安市	https://www.nwpu.edu.cn/xxgk/ld.htm	副校长；党委常委		西北工业大学	https://www.nwpu.edu.cn/leader_cont.jsp?urltype=news.NewsContentUrl&wbtreeid=7208&wbnewsid=120618	2003
+孔杰		11		陕西省	西安市	https://www.nwpu.edu.cn/xxgk/ld.htm	副校长；党委常委		西北工业大学	https://www.nwpu.edu.cn/leader_cont.jsp?urltype=news.NewsContentUrl&wbtreeid=7208&wbnewsid=120608	2003
+王宇波		12		陕西省	西安市	https://www.nwpu.edu.cn/xxgk/ld.htm	党委常委		西北工业大学		2003

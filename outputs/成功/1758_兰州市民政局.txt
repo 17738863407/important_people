@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈立江		1		甘肃省	兰州市	http://mzj.lanzhou.gov.cn/col/col16213/index.html	局党组书记、局长		兰州市民政局	http://mzj.lanzhou.gov.cn/art/2026/1/8/art_2486_102138.html	1758
+贾文		2		甘肃省	兰州市	http://mzj.lanzhou.gov.cn/col/col16213/index.html	局党组成员、驻局纪检监察组组长		兰州市民政局	http://mzj.lanzhou.gov.cn/art/2024/10/17/art_2486_1219705.html	1758
+刘凤霞		3		甘肃省	兰州市	http://mzj.lanzhou.gov.cn/col/col16213/index.html	局党组成员、副局长		兰州市民政局	http://mzj.lanzhou.gov.cn/art/2026/1/8/art_2486_1399212.html	1758
+王垚		4		甘肃省	兰州市	http://mzj.lanzhou.gov.cn/col/col16213/index.html	局党组成员、副局长		兰州市民政局	http://mzj.lanzhou.gov.cn/art/2026/1/8/art_2486_1087722.html	1758
+王永祥		5		甘肃省	兰州市	http://mzj.lanzhou.gov.cn/col/col16213/index.html	党组成员、副局长		兰州市民政局	http://mzj.lanzhou.gov.cn/art/2026/1/8/art_2486_1570756.html	1758
+何谋赟		6		甘肃省	兰州市	http://mzj.lanzhou.gov.cn/col/col16213/index.html	局党组成员、副局长		兰州市民政局	http://mzj.lanzhou.gov.cn/art/2026/1/8/art_2486_1670275.html	1758
+牛义		7		甘肃省	兰州市	http://mzj.lanzhou.gov.cn/col/col16213/index.html	二级调研员		兰州市民政局	http://mzj.lanzhou.gov.cn/art/2026/1/8/art_2486_458610.html	1758
+罗富迎		8		甘肃省	兰州市	http://mzj.lanzhou.gov.cn/col/col16213/index.html	三级调研员		兰州市民政局	http://mzj.lanzhou.gov.cn/art/2026/1/8/art_2486_548166.html	1758
+李彤		9		甘肃省	兰州市	http://mzj.lanzhou.gov.cn/col/col16213/index.html	三级调研员		兰州市民政局	http://mzj.lanzhou.gov.cn/art/2024/10/17/art_2486_992451.html	1758
+王明杰		10		甘肃省	兰州市	http://mzj.lanzhou.gov.cn/col/col16213/index.html	三级调研员		兰州市民政局	http://mzj.lanzhou.gov.cn/art/2026/1/8/art_2486_1270086.html	1758

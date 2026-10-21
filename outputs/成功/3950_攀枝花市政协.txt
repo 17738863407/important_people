@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李仁杰		1		四川省	攀枝花市	http://www.pzhzx.gov.cn/Web/LeaderList?ChannelID=09bc6134-16ef-4b6c-bb5a-eba7273df03e	主席		攀枝花市政协		3950
+申剑		2		四川省	攀枝花市	http://www.pzhzx.gov.cn/Web/LeaderList?ChannelID=09bc6134-16ef-4b6c-bb5a-eba7273df03e	副主席		攀枝花市政协		3950
+李绍华		3		四川省	攀枝花市	http://www.pzhzx.gov.cn/Web/LeaderList?ChannelID=09bc6134-16ef-4b6c-bb5a-eba7273df03e	副主席		攀枝花市政协		3950
+魏渠河		4		四川省	攀枝花市	http://www.pzhzx.gov.cn/Web/LeaderList?ChannelID=09bc6134-16ef-4b6c-bb5a-eba7273df03e	副主席		攀枝花市政协		3950
+饶晓东		5		四川省	攀枝花市	http://www.pzhzx.gov.cn/Web/LeaderList?ChannelID=09bc6134-16ef-4b6c-bb5a-eba7273df03e	副主席		攀枝花市政协		3950
+李俊洪		6		四川省	攀枝花市	http://www.pzhzx.gov.cn/Web/LeaderList?ChannelID=09bc6134-16ef-4b6c-bb5a-eba7273df03e	副主席		攀枝花市政协		3950
+高继兵		7		四川省	攀枝花市	http://www.pzhzx.gov.cn/Web/LeaderList?ChannelID=09bc6134-16ef-4b6c-bb5a-eba7273df03e	副主席		攀枝花市政协		3950
+谭明安		8		四川省	攀枝花市	http://www.pzhzx.gov.cn/Web/LeaderList?ChannelID=09bc6134-16ef-4b6c-bb5a-eba7273df03e	副主席		攀枝花市政协		3950
+李杰		9		四川省	攀枝花市	http://www.pzhzx.gov.cn/Web/LeaderList?ChannelID=09bc6134-16ef-4b6c-bb5a-eba7273df03e	副主席		攀枝花市政协		3950
+温洮		10		四川省	攀枝花市	http://www.pzhzx.gov.cn/Web/LeaderList?ChannelID=09bc6134-16ef-4b6c-bb5a-eba7273df03e	秘书长		攀枝花市政协		3950

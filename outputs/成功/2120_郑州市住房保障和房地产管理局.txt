@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵凯		1		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=19	党组书记、局长		郑州市住房保障和房地产管理局	https://public.zhengzhou.gov.cn/D14Y/7455899.jhtml	2120
+杨智威		2		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=19	党组成员、副局长、三级调研员		郑州市住房保障和房地产管理局	https://public.zhengzhou.gov.cn/D14Y/172951.jhtml	2120
+陈黎平		3		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=19	党组成员、一级调研员		郑州市住房保障和房地产管理局	https://public.zhengzhou.gov.cn/D14Y/280905.jhtml	2120
+石建军		4		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=19	党组成员、副局长		郑州市住房保障和房地产管理局	https://public.zhengzhou.gov.cn/D14Y/8868113.jhtml	2120
+赵建庭		5		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=19	党组成员、副局长、三级调研员		郑州市住房保障和房地产管理局	https://public.zhengzhou.gov.cn/D14Y/10029392.jhtml	2120
+高琳		6		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=19	党组成员、副局长、三级调研员		郑州市住房保障和房地产管理局	https://public.zhengzhou.gov.cn/D14Y/10090185.jhtml	2120
+赵伟		7		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=19	二级调研员		郑州市住房保障和房地产管理局	https://public.zhengzhou.gov.cn/D14Y/9808207.jhtml	2120
+尹兴利		8		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=19	三级调研员		郑州市住房保障和房地产管理局	https://public.zhengzhou.gov.cn/D14Y/4713590.jhtml	2120

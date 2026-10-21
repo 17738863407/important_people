@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李颖		1		贵州省	贵阳市	http://gzw.guiyang.gov.cn/zfxxgk_500647/fdzdgknr/jggk/jgld_5978327/	贵阳市人民政府国有资产监督管理委员会党委书记		贵阳市人民政府国有资产监督管理委员会	http://gzw.guiyang.gov.cn/zfxxgk_500647/fdzdgknr/jggk/jgld_5978327/202609/t20260910_90857169.html	0824
+张顺		2		贵州省	贵阳市	http://gzw.guiyang.gov.cn/zfxxgk_500647/fdzdgknr/jggk/jgld_5978327/	贵阳市人民政府国有资产监督管理委员会主任人选		贵阳市人民政府国有资产监督管理委员会	http://gzw.guiyang.gov.cn/zfxxgk_500647/fdzdgknr/jggk/jgld_5978327/202610/t20261012_90980134.html	0824
+冯峻辉		3		贵州省	贵阳市	http://gzw.guiyang.gov.cn/zfxxgk_500647/fdzdgknr/jggk/jgld_5978327/	贵阳市人民政府国有资产监督管理委员会党委委员、副主任		贵阳市人民政府国有资产监督管理委员会	http://gzw.guiyang.gov.cn/zfxxgk_500647/fdzdgknr/jggk/jgld_5978327/202503/t20250317_87188488.html	0824
+唐兴华		4		贵州省	贵阳市	http://gzw.guiyang.gov.cn/zfxxgk_500647/fdzdgknr/jggk/jgld_5978327/	贵阳市人民政府国有资产监督管理委员会党委委员、副主任		贵阳市人民政府国有资产监督管理委员会	http://gzw.guiyang.gov.cn/zfxxgk_500647/fdzdgknr/jggk/jgld_5978327/202503/t20250317_87188366.html	0824
+游媛		5		贵州省	贵阳市	http://gzw.guiyang.gov.cn/zfxxgk_500647/fdzdgknr/jggk/jgld_5978327/	贵阳市人民政府国有资产监督管理委员会党委委员、副主任		贵阳市人民政府国有资产监督管理委员会	http://gzw.guiyang.gov.cn/zfxxgk_500647/fdzdgknr/jggk/jgld_5978327/202503/t20250317_87188336.html	0824
+周华松		6		贵州省	贵阳市	http://gzw.guiyang.gov.cn/zfxxgk_500647/fdzdgknr/jggk/jgld_5978327/	贵阳市纪律检查委员会、贵阳市监察委员会派驻第十四纪检监察组组长，贵阳市人民政府国有资产监督管理委员会党委委员，四级高级监察官		贵阳市人民政府国有资产监督管理委员会	http://gzw.guiyang.gov.cn/zfxxgk_500647/fdzdgknr/jggk/jgld_5978327/202508/t20250813_88453665.html	0824

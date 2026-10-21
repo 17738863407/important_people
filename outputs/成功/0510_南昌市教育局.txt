@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄琰		1		江西省	南昌市	https://edu.nc.gov.cn/ncjyj/ldjj/nav_wztt.shtml	市委教育工委书记、市教育局局长		南昌市教育局		0510
+万晓玲		2		江西省	南昌市	https://edu.nc.gov.cn/ncjyj/ldjj/nav_wztt.shtml	市委教育工委委员、市教育局副局长		南昌市教育局		0510
+吴涛		3		江西省	南昌市	https://edu.nc.gov.cn/ncjyj/ldjj/nav_wztt.shtml	市委教育工委委员、市教育局副局长		南昌市教育局		0510
+李通		4		江西省	南昌市	https://edu.nc.gov.cn/ncjyj/ldjj/nav_wztt.shtml	市委教育工委委员、驻局纪检监察组组长		南昌市教育局		0510
+谢敬钧		5		江西省	南昌市	https://edu.nc.gov.cn/ncjyj/ldjj/nav_wztt.shtml	市委教育工委委员、市教育局副局长		南昌市教育局		0510
+付青岚		6		江西省	南昌市	https://edu.nc.gov.cn/ncjyj/ldjj/nav_wztt.shtml	市教育局三级调研员		南昌市教育局		0510
+李智良		7		江西省	南昌市	https://edu.nc.gov.cn/ncjyj/ldjj/nav_wztt.shtml	市教育局二级调研员		南昌市教育局		0510
+陈子柠		8		江西省	南昌市	https://edu.nc.gov.cn/ncjyj/ldjj/nav_wztt.shtml	市教育局三级调研员		南昌市教育局		0510
+朱道清		9		江西省	南昌市	https://edu.nc.gov.cn/ncjyj/ldjj/nav_wztt.shtml	市教育局四级调研员		南昌市教育局		0510

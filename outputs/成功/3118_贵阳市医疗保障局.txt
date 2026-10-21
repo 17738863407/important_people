@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+金松		1		贵州省	贵阳市	http://ybj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978808/	党组书记、局长、一级调研员		贵阳市医疗保障局	https://ybj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978808/202503/t20250319_87202172.html	3118
+金辛		2		贵州省	贵阳市	http://ybj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978808/	党组成员、副局长、三级调研员		贵阳市医疗保障局	https://ybj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978808/202503/t20250319_87202224.html	3118
+周虎		3		贵州省	贵阳市	http://ybj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978808/	党组成员、副局长、三级调研员		贵阳市医疗保障局	https://ybj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978808/202503/t20250319_87202265.html	3118
+欧德冰		4		贵州省	贵阳市	http://ybj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978808/	党组成员，副局长，三级调研员		贵阳市医疗保障局	https://ybj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978808/202510/t20251029_88881456.html	3118

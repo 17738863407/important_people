@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李德伟		1		四川省		http://ylbzj.sc.gov.cn/scsybj/nc010402/yy_zfxxgk_leader.shtml	党组书记、局长		四川省医疗保障局	http://ylbzj.sc.gov.cn/scsybj/nc01040201/2025/12/31/606035039de5447f9c221e160700cb9d.shtml	3257
+彭波		2		四川省		http://ylbzj.sc.gov.cn/scsybj/nc010402/yy_zfxxgk_leader.shtml	党组成员、副局长		四川省医疗保障局	http://ylbzj.sc.gov.cn/scsybj/nc01040202/2026/5/18/83ea513d3f334a588bc665987108a46e.shtml	3257
+邓顺涛		3		四川省		http://ylbzj.sc.gov.cn/scsybj/nc010402/yy_zfxxgk_leader.shtml	党组成员、副局长、机关党委书记		四川省医疗保障局	http://ylbzj.sc.gov.cn/scsybj/nc01040202/2025/1/14/6937619d71d441f7a504c3c68e190dea.shtml	3257
+王锦强		4		四川省		http://ylbzj.sc.gov.cn/scsybj/nc010402/yy_zfxxgk_leader.shtml	党组成员、副局长		四川省医疗保障局	http://ylbzj.sc.gov.cn/scsybj/nc01040202/2025/1/14/1d6fd54fa8234b54a14b31c36a64769c.shtml	3257
+任格		5		四川省		http://ylbzj.sc.gov.cn/scsybj/nc010402/yy_zfxxgk_leader.shtml	党组成员、副局长		四川省医疗保障局	http://ylbzj.sc.gov.cn/scsybj/nc01040202/2024/11/28/e67bcc7089d442189694fcfc190bb033.shtml	3257
+张海峰		6		四川省		http://ylbzj.sc.gov.cn/scsybj/nc010402/yy_zfxxgk_leader.shtml	一级巡视员		四川省医疗保障局	http://ylbzj.sc.gov.cn/scsybj/nc01040203/2025/1/14/c63fb6fc6dfb416ba03ba3c3ed461b04.shtml	3257
+田维		7		四川省		http://ylbzj.sc.gov.cn/scsybj/nc010402/yy_zfxxgk_leader.shtml	二级巡视员		四川省医疗保障局	http://ylbzj.sc.gov.cn/scsybj/nc01040203/2024/11/28/8fe5dd26a23f4c1a98e2c1da416be1f6.shtml	3257
+刘博		8		四川省		http://ylbzj.sc.gov.cn/scsybj/nc010402/yy_zfxxgk_leader.shtml	二级巡视员		四川省医疗保障局	http://ylbzj.sc.gov.cn/scsybj/nc01040203/2024/11/28/74f829571e0245c8968428d300a152cc.shtml	3257

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+任鸿斌		1		全国		https://www.ccpit.org/jgsz.html	会长、党组书记		中国国际贸易促进委员会	https://www.ccpit.org/renhongbin	0149
+李庆霜		2		全国		https://www.ccpit.org/jgsz.html	副会长、党组成员		中国国际贸易促进委员会	https://www.ccpit.org/liqingshuang	0149
+李兴乾		3		全国		https://www.ccpit.org/jgsz.html	副会长、党组成员		中国国际贸易促进委员会	https://www.ccpit.org/lixingqian	0149
+聂文慧		4		全国		https://www.ccpit.org/jgsz.html	副会长、党组成员		中国国际贸易促进委员会	https://www.ccpit.org/niewenhui	0149
+刘健男		5		全国		https://www.ccpit.org/jgsz.html	副会长、党组成员		中国国际贸易促进委员会	https://www.ccpit.org/liujiannan	0149
+林红红		6		全国		https://www.ccpit.org/jgsz.html	副会长、党组成员		中国国际贸易促进委员会	https://www.ccpit.org/linhonghong	0149

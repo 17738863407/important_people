@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张贵轩		1		全国		http://www.cidca.gov.cn/jgzn/jgdwrss.htm	机关党委分管日常工作的副书记；人事司司长		国家国际发展合作署机关党委（人事司）		3720
+刘蕾		2		全国		http://www.cidca.gov.cn/jgzn/jgdwrss.htm	机关党委副书记；机关纪委书记		国家国际发展合作署机关党委（人事司）		3720
+王国庆		3		全国		http://www.cidca.gov.cn/jgzn/jgdwrss.htm	机关党委副书记；人事司副司长		国家国际发展合作署机关党委（人事司）		3720

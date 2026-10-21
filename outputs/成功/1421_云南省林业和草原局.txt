@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+万勇		1		云南省		https://lcj.yn.gov.cn/html/zhengwugongkai/jigoujianjie/lingdaozhuanlan/#tp	省自然资源厅党组成员，省林业和草原局局长、党组书记		云南省林业和草原局	https://lcj.yn.gov.cn/html/2021/lingdaozhuanlan_0601/62739.html	1421
+文彬		2		云南省		https://lcj.yn.gov.cn/html/zhengwugongkai/jigoujianjie/lingdaozhuanlan/#tp	省应急管理厅党委委员、副厅长，省林业和草原局党组成员		云南省林业和草原局	https://lcj.yn.gov.cn/html/2020/lingdaozhuanlan_0707/56975.html	1421
+段利武		3		云南省		https://lcj.yn.gov.cn/html/zhengwugongkai/jigoujianjie/lingdaozhuanlan/#tp	省林业和草原局副局长、党组成员，省应急管理厅党委委员		云南省林业和草原局	https://lcj.yn.gov.cn/html/2024/lingdaozhuanlan_1122/72582.html	1421
+田建宏		4		云南省		https://lcj.yn.gov.cn/html/zhengwugongkai/jigoujianjie/lingdaozhuanlan/#tp	省林业和草原局副局长、党组成员		云南省林业和草原局	https://lcj.yn.gov.cn/html/2022/lingdaozhuanlan_0819/66813.html	1421
+赵永平		5		云南省		https://lcj.yn.gov.cn/html/zhengwugongkai/jigoujianjie/lingdaozhuanlan/#tp	省林业和草原局副局长、党组成员		云南省林业和草原局	https://lcj.yn.gov.cn/html/2021/lingdaozhuanlan_0205/61352.html	1421
+丁鲲		6		云南省		https://lcj.yn.gov.cn/html/zhengwugongkai/jigoujianjie/lingdaozhuanlan/#tp	省林业和草原局副局长、党组成员		云南省林业和草原局	https://lcj.yn.gov.cn/html/2022/lingdaozhuanlan_0411/65646.html	1421

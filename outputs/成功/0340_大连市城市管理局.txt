@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王端平		1		辽宁省	大连市	https://csglj.dl.gov.cn/col/col9035/index.html?vc_xxgkarea=2102000042&number=DL014&jh=263	党组书记、局长		大连市城市管理局	https://csglj.dl.gov.cn/art/2023/7/5/art_9036_2086610.html	0340
+张彬		2		辽宁省	大连市	https://csglj.dl.gov.cn/col/col9035/index.html?vc_xxgkarea=2102000042&number=DL014&jh=263	党组成员、市市政公用事业服务中心主任		大连市城市管理局	https://csglj.dl.gov.cn/art/2026/6/4/art_9036_2086609.html	0340
+庞少涛		3		辽宁省	大连市	https://csglj.dl.gov.cn/col/col9035/index.html?vc_xxgkarea=2102000042&number=DL014&jh=263	党组成员、副局长		大连市城市管理局	https://csglj.dl.gov.cn/art/2026/6/4/art_9036_2086608.html	0340
+柳广宇		4		辽宁省	大连市	https://csglj.dl.gov.cn/col/col9035/index.html?vc_xxgkarea=2102000042&number=DL014&jh=263	党组成员、副局长		大连市城市管理局	https://csglj.dl.gov.cn/art/2026/6/4/art_9036_2515117.html	0340
+郭大和		5		辽宁省	大连市	https://csglj.dl.gov.cn/col/col9035/index.html?vc_xxgkarea=2102000042&number=DL014&jh=263	党组成员、副局长		大连市城市管理局	https://csglj.dl.gov.cn/art/2026/6/4/art_9036_2086607.html	0340

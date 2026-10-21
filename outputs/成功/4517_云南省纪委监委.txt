@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄祎		1		云南省		https://www.ynjjjc.gov.cn/html/xinxigongkai/lingdaojigou/	中国共产党云南省第十一届纪律检查委员会书记；中国共产党云南省第十一届纪律检查委员会常务委员会委员；云南省监察委员会主任		云南省纪委监委		4517
+周航		2		云南省		https://www.ynjjjc.gov.cn/html/xinxigongkai/lingdaojigou/	中国共产党云南省第十一届纪律检查委员会副书记；中国共产党云南省第十一届纪律检查委员会常务委员会委员；云南省监察委员会副主任		云南省纪委监委		4517
+方志鸣		3		云南省		https://www.ynjjjc.gov.cn/html/xinxigongkai/lingdaojigou/	中国共产党云南省第十一届纪律检查委员会副书记；中国共产党云南省第十一届纪律检查委员会常务委员会委员；云南省监察委员会副主任		云南省纪委监委		4517
+王江华		4		云南省		https://www.ynjjjc.gov.cn/html/xinxigongkai/lingdaojigou/	中国共产党云南省第十一届纪律检查委员会副书记；中国共产党云南省第十一届纪律检查委员会常务委员会委员；云南省监察委员会副主任		云南省纪委监委		4517
+李林波		5		云南省		https://www.ynjjjc.gov.cn/html/xinxigongkai/lingdaojigou/	中国共产党云南省第十一届纪律检查委员会常务委员会委员		云南省纪委监委		4517
+师逸		6		云南省		https://www.ynjjjc.gov.cn/html/xinxigongkai/lingdaojigou/	中国共产党云南省第十一届纪律检查委员会常务委员会委员		云南省纪委监委		4517
+董毅		7		云南省		https://www.ynjjjc.gov.cn/html/xinxigongkai/lingdaojigou/	中国共产党云南省第十一届纪律检查委员会常务委员会委员		云南省纪委监委		4517
+雷岗		8		云南省		https://www.ynjjjc.gov.cn/html/xinxigongkai/lingdaojigou/	中国共产党云南省第十一届纪律检查委员会常务委员会委员		云南省纪委监委		4517

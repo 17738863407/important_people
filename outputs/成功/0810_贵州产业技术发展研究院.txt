@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+魏雄军		1		贵州省		http://www.gziid.cn/xxgk/ldzc_5979379/	党委书记、院长		贵州产业技术发展研究院	http://www.gziid.cn/xxgk/ldzc_5979379/202504/t20250415_87525843.html	0810
+罗鹏		2		贵州省		http://www.gziid.cn/xxgk/ldzc_5979379/	党委委员、副院长（正厅长级）		贵州产业技术发展研究院	http://www.gziid.cn/xxgk/ldzc_5979379/202509/t20250928_88658512.html	0810
+鲁成军		3		贵州省		http://www.gziid.cn/xxgk/ldzc_5979379/	党委委员、副院长		贵州产业技术发展研究院	http://www.gziid.cn/xxgk/ldzc_5979379/202504/t20250415_87525846.html	0810

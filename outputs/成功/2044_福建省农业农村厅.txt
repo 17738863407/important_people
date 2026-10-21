@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈明旺		1		福建省		https://nynct.fujian.gov.cn/zjnyt/stld/cmw/	省委农办主任，省农业农村厅党组书记、厅长，省乡村振兴局局长		福建省农业农村厅		2044
+黄强		2		福建省		https://nynct.fujian.gov.cn/zjnyt/stld/cmw/	驻厅纪检监察组组长、厅党组成员、二级高级监察官		福建省农业农村厅	https://nynct.fujian.gov.cn/zjnyt/stld/hq/	2044
+吴顺意		3		福建省		https://nynct.fujian.gov.cn/zjnyt/stld/cmw/	党组成员、副厅长		福建省农业农村厅	https://nynct.fujian.gov.cn/zjnyt/stld/wsy/	2044
+袁忠贤		4		福建省		https://nynct.fujian.gov.cn/zjnyt/stld/cmw/	党组成员、副厅长		福建省农业农村厅	https://nynct.fujian.gov.cn/zjnyt/stld/yzx/	2044
+陈道清		5		福建省		https://nynct.fujian.gov.cn/zjnyt/stld/cmw/	党组成员、副厅长		福建省农业农村厅	https://nynct.fujian.gov.cn/zjnyt/stld/cdq/	2044
+陆涛		6		福建省		https://nynct.fujian.gov.cn/zjnyt/stld/cmw/	党组成员、副厅长		福建省农业农村厅	https://nynct.fujian.gov.cn/zjnyt/stld/lt/	2044

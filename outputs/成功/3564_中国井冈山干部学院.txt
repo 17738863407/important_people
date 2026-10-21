@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+石泰峰		1		全国		https://www.celaj.gov.cn/col7/list.html	院长		中国井冈山干部学院		3564
+陈永奇		2		全国		https://www.celaj.gov.cn/col7/list.html	第一副院长		中国井冈山干部学院		3564
+张鹏		3		全国		https://www.celaj.gov.cn/col7/list.html	分管日常工作的副院长		中国井冈山干部学院		3564
+柯华		4		全国		https://www.celaj.gov.cn/col7/list.html	副院长		中国井冈山干部学院		3564
+程吉生		5		全国		https://www.celaj.gov.cn/col7/list.html	副院长		中国井冈山干部学院		3564
+肖华孝		6		全国		https://www.celaj.gov.cn/col7/list.html	副院长		中国井冈山干部学院		3564
+王旭宽		7		全国		https://www.celaj.gov.cn/col7/list.html	院务委员		中国井冈山干部学院		3564

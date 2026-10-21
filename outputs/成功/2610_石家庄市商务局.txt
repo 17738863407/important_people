@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘春东		1		河北省	石家庄市	https://swj.sjz.gov.cn/columns/baf980db-45e7-42ce-8753-2127d4fba04d/202011/26/a145af3f-b08e-4de4-882f-70491cedb516.html	局长、党组书记兼中国国际贸易促进委员会石家庄市支会会长，市二级巡视员		石家庄市商务局		2610
+董彦会		2		河北省	石家庄市	https://swj.sjz.gov.cn/columns/baf980db-45e7-42ce-8753-2127d4fba04d/202011/26/a145af3f-b08e-4de4-882f-70491cedb516.html	纪检监察组组长、三级调研员、四级高级监察官、党组成员		石家庄市商务局		2610
+杜铁行		3		河北省	石家庄市	https://swj.sjz.gov.cn/columns/baf980db-45e7-42ce-8753-2127d4fba04d/202011/26/a145af3f-b08e-4de4-882f-70491cedb516.html	副局长、党组成员、三级调研员		石家庄市商务局		2610
+高素彦		4		河北省	石家庄市	https://swj.sjz.gov.cn/columns/baf980db-45e7-42ce-8753-2127d4fba04d/202011/26/a145af3f-b08e-4de4-882f-70491cedb516.html	副局长		石家庄市商务局		2610
+赵磊		5		河北省	石家庄市	https://swj.sjz.gov.cn/columns/baf980db-45e7-42ce-8753-2127d4fba04d/202011/26/a145af3f-b08e-4de4-882f-70491cedb516.html	二级巡视员		石家庄市商务局		2610
+张涛		6		河北省	石家庄市	https://swj.sjz.gov.cn/columns/baf980db-45e7-42ce-8753-2127d4fba04d/202011/26/a145af3f-b08e-4de4-882f-70491cedb516.html	二级调研员		石家庄市商务局		2610
+陈光辉		7		河北省	石家庄市	https://swj.sjz.gov.cn/columns/baf980db-45e7-42ce-8753-2127d4fba04d/202011/26/a145af3f-b08e-4de4-882f-70491cedb516.html	二级调研员		石家庄市商务局		2610
+王春		8		河北省	石家庄市	https://swj.sjz.gov.cn/columns/baf980db-45e7-42ce-8753-2127d4fba04d/202011/26/a145af3f-b08e-4de4-882f-70491cedb516.html	三级调研员		石家庄市商务局		2610

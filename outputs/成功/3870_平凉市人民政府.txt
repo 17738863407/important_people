@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李荣		1		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	市长		平凉市人民政府	https://www.pingliang.gov.cn/lmtj/ldzc/szfld/lr/index.html	3870
+马世友		2		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	常务副市长		平凉市人民政府	https://www.pingliang.gov.cn/lmtj/ldzc/szfld/msy/index.html	3870
+魏政		3		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	副市长		平凉市人民政府	https://www.pingliang.gov.cn/lmtj/ldzc/szfld/wz/index.html	3870
+史建芳		4		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	副市长		平凉市人民政府	https://www.pingliang.gov.cn/lmtj/ldzc/szfld/sjf/index.html	3870
+古小冬		5		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	副市长		平凉市人民政府	https://www.pingliang.gov.cn/lmtj/ldzc/szfld/gxd/index.html	3870
+王度林		6		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	副市长		平凉市人民政府	https://www.pingliang.gov.cn/lmtj/ldzc/szfld/wdl/index.html	3870
+景晓东		7		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	副市长		平凉市人民政府	https://www.pingliang.gov.cn/lmtj/ldzc/szfld/jxd/index.html	3870
+贺涛		8		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	副市长		平凉市人民政府	https://www.pingliang.gov.cn/lmtj/ldzc/szfld/ht/index.html	3870

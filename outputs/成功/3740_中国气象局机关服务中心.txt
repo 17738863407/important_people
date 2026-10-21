@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄燕		1		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4626032.html	党委书记；主任		中国气象局机关服务中心		3740
+李冬梅		2		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4626032.html	党委常委；纪委书记		中国气象局机关服务中心		3740
+李佳欣		3		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4626032.html	党委常委；副主任		中国气象局机关服务中心		3740
+周欣		4		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4626032.html	党委常委；副主任		中国气象局机关服务中心		3740
+刘震坤		5		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4626032.html	党委常委；副主任		中国气象局机关服务中心		3740
+李中		6		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4626032.html	四级职员		中国气象局机关服务中心		3740
+廖京文		7		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4626032.html	总会计师		中国气象局机关服务中心		3740

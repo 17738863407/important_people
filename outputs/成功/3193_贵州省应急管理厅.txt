@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+滕伟华		1		贵州省		http://yjgl.guizhou.gov.cn/gk/zfxxgk/fdzdgk/jgjj_5888748/	党委书记；厅长		贵州省应急管理厅	http://yjgl.guizhou.gov.cn/gk/ldzc_5888731/twh/	3193
+孙晓东		2		贵州省		http://yjgl.guizhou.gov.cn/gk/zfxxgk/fdzdgk/jgjj_5888748/	党委副书记；副厅长		贵州省应急管理厅	http://yjgl.guizhou.gov.cn/gk/ldzc_5888731/sxd_5889129/	3193
+杨全德		3		贵州省		http://yjgl.guizhou.gov.cn/gk/zfxxgk/fdzdgk/jgjj_5888748/	党委委员；省消防总队总队长		贵州省应急管理厅	http://yjgl.guizhou.gov.cn/gk/ldzc_5888731/yqd/	3193
+谢志昌		4		贵州省		http://yjgl.guizhou.gov.cn/gk/zfxxgk/fdzdgk/jgjj_5888748/	党委委员；副厅长		贵州省应急管理厅	http://yjgl.guizhou.gov.cn/gk/ldzc_5888731/xzc/	3193
+陈樑		5		贵州省		http://yjgl.guizhou.gov.cn/gk/zfxxgk/fdzdgk/jgjj_5888748/	党委委员；副厅长		贵州省应急管理厅	http://yjgl.guizhou.gov.cn/gk/ldzc_5888731/cl_5889133/	3193
+王学军		6		贵州省		http://yjgl.guizhou.gov.cn/gk/zfxxgk/fdzdgk/jgjj_5888748/	党委委员；政治部主任		贵州省应急管理厅	http://yjgl.guizhou.gov.cn/gk/ldzc_5888731/wjl_5919680/	3193
+张翼		7		贵州省		http://yjgl.guizhou.gov.cn/gk/zfxxgk/fdzdgk/jgjj_5888748/	党委委员；副厅长		贵州省应急管理厅	http://yjgl.guizhou.gov.cn/gk/ldzc_5888731/zy/	3193
+娄钢强		8		贵州省		http://yjgl.guizhou.gov.cn/gk/zfxxgk/fdzdgk/jgjj_5888748/	党委委员；副厅长		贵州省应急管理厅	http://yjgl.guizhou.gov.cn/gk/ldzc_5888731/lgq/	3193
+马炼		9		贵州省		http://yjgl.guizhou.gov.cn/gk/zfxxgk/fdzdgk/jgjj_5888748/	一级巡视员		贵州省应急管理厅	http://yjgl.guizhou.gov.cn/gk/ldzc_5888731/ml_5889139/	3193
+余尚贵		10		贵州省		http://yjgl.guizhou.gov.cn/gk/zfxxgk/fdzdgk/jgjj_5888748/	二级巡视员		贵州省应急管理厅	http://yjgl.guizhou.gov.cn/gk/ldzc_5888731/ysg_5889143/	3193
+李立奎		11		贵州省		http://yjgl.guizhou.gov.cn/gk/zfxxgk/fdzdgk/jgjj_5888748/	二级巡视员		贵州省应急管理厅	http://yjgl.guizhou.gov.cn/gk/ldzc_5888731/llk/	3193

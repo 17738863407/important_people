@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王青锋		1		全国		https://www.sinafrica.cas.cn/zxgk/jgsz/	中国科学院武汉植物园主任、中-非联合研究中心主任		中国科学院中-非联合研究中心		4162
+严雪		2		全国		https://www.sinafrica.cas.cn/zxgk/jgsz/	中-非联合研究中心执行主任		中国科学院中-非联合研究中心		4162
+张过师		3		全国		https://www.sinafrica.cas.cn/zxgk/jgsz/	中-非联合研究中心海外主管		中国科学院中-非联合研究中心		4162
+余泉		4		全国		https://www.sinafrica.cas.cn/zxgk/jgsz/	中-非联合研究中心海外主管		中国科学院中-非联合研究中心		4162
+余海峰		5		全国		https://www.sinafrica.cas.cn/zxgk/jgsz/	中-非联合研究中心海外主管		中国科学院中-非联合研究中心		4162
+刘怀博		6		全国		https://www.sinafrica.cas.cn/zxgk/jgsz/	中-非联合研究中心海外主管		中国科学院中-非联合研究中心		4162
+燕丽娜		7		全国		https://www.sinafrica.cas.cn/zxgk/jgsz/	中-非联合研究中心财务与项目主管		中国科学院中-非联合研究中心		4162
+邵旭		8		全国		https://www.sinafrica.cas.cn/zxgk/jgsz/	中-非联合研究中心招生与教育主管		中国科学院中-非联合研究中心		4162
+李涵		9		全国		https://www.sinafrica.cas.cn/zxgk/jgsz/	中-非联合研究中心公共信息主管		中国科学院中-非联合研究中心		4162

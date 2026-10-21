@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘杰		1		湖北省	武汉市	https://www.cug.edu.cn/xxgk/xrld.htm	党委书记；党委常委		中国地质大学（武汉）	https://www.cug.edu.cn/info/11051/104607.htm	3655
+李建威		2		湖北省	武汉市	https://www.cug.edu.cn/xxgk/xrld.htm	党委副书记；校长；党委常委		中国地质大学（武汉）	https://www.cug.edu.cn/info/11052/104608.htm	3655
+王林清		3		湖北省	武汉市	https://www.cug.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		中国地质大学（武汉）	https://www.cug.edu.cn/info/11052/104613.htm	3655
+王甫		4		湖北省	武汉市	https://www.cug.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		中国地质大学（武汉）	https://www.cug.edu.cn/info/11052/103747.htm	3655
+杨凡		5		湖北省	武汉市	https://www.cug.edu.cn/xxgk/xrld.htm	党委副书记；纪委书记；党委常委		中国地质大学（武汉）	https://www.cug.edu.cn/info/11052/118273.htm	3655
+章军锋		6		湖北省	武汉市	https://www.cug.edu.cn/xxgk/xrld.htm	副校长		中国地质大学（武汉）	https://www.cug.edu.cn/info/11055/105516.htm	3655
+胡守庚		7		湖北省	武汉市	https://www.cug.edu.cn/xxgk/xrld.htm	副校长；党委常委		中国地质大学（武汉）	https://www.cug.edu.cn/info/11055/105510.htm	3655
+夏帆		8		湖北省	武汉市	https://www.cug.edu.cn/xxgk/xrld.htm	副校长；党委常委		中国地质大学（武汉）	https://www.cug.edu.cn/info/11055/106880.htm	3655
+王文起		9		湖北省	武汉市	https://www.cug.edu.cn/xxgk/xrld.htm	副校长；党委常委		中国地质大学（武汉）	https://www.cug.edu.cn/info/11055/105512.htm	3655
+严德天		10		湖北省	武汉市	https://www.cug.edu.cn/xxgk/xrld.htm	校长助理		中国地质大学（武汉）	https://www.cug.edu.cn/info/11056/116313.htm	3655
+郭上江		11		湖北省	武汉市	https://www.cug.edu.cn/xxgk/xrld.htm	校长助理		中国地质大学（武汉）	https://www.cug.edu.cn/info/11056/103362.htm	3655
+陈文武		12		湖北省	武汉市	https://www.cug.edu.cn/xxgk/xrld.htm	党委常委		中国地质大学（武汉）	https://www.cug.edu.cn/info/11057/102932.htm	3655

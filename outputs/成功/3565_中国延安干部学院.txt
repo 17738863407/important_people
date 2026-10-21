@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+石泰峰		1		全国		https://www.celay.org.cn/zjzyy/xyld.htm	院长		中国延安干部学院		3565
+邢善萍		2		全国		https://www.celay.org.cn/zjzyy/xyld.htm	第一副院长		中国延安干部学院		3565
+李术峰		3		全国		https://www.celay.org.cn/zjzyy/xyld.htm	分管日常工作的副院长		中国延安干部学院		3565
+王纪刚		4		全国		https://www.celay.org.cn/zjzyy/xyld.htm	副院长		中国延安干部学院		3565
+曹琨		5		全国		https://www.celay.org.cn/zjzyy/xyld.htm	副院长		中国延安干部学院		3565
+王成文		6		全国		https://www.celay.org.cn/zjzyy/xyld.htm	副院长		中国延安干部学院		3565

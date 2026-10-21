@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+许瑾		1		广西壮族自治区		http://lshwzcbj.gxzf.gov.cn/jgxx/ldbz/	自治区发展和改革委员会党组成员，自治区粮食和物资储备局党组书记、局长、一级巡视员，自治区妇女联合会副主席（兼）		广西壮族自治区粮食和物资储备局	http://lshwzcbj.gxzf.gov.cn/jgxx/ldbz/jzrl/	1440
+梁永文		2		广西壮族自治区		http://lshwzcbj.gxzf.gov.cn/jgxx/ldbz/	自治区粮食和物资储备局党组成员、副局长		广西壮族自治区粮食和物资储备局	http://lshwzcbj.gxzf.gov.cn/jgxx/ldbz/t27320027.shtml	1440
+覃家权		3		广西壮族自治区		http://lshwzcbj.gxzf.gov.cn/jgxx/ldbz/	自治区粮食和物资储备局党组成员、副局长		广西壮族自治区粮食和物资储备局	http://lshwzcbj.gxzf.gov.cn/jgxx/ldbz/t17357053.shtml	1440
+甘志新		4		广西壮族自治区		http://lshwzcbj.gxzf.gov.cn/jgxx/ldbz/	自治区粮食和物资储备局党组成员、副局长		广西壮族自治区粮食和物资储备局	http://lshwzcbj.gxzf.gov.cn/jgxx/ldbz/t20447591.shtml	1440

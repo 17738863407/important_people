@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐淑		1		北京市		https://www.nai.edu.cn/gyxy/xrld.htm	党委书记		北京国家会计学院	https://www.nai.edu.cn/info/1191/69321.htm	4337
+叶康涛		2		北京市		https://www.nai.edu.cn/gyxy/xrld.htm	党委副书记、院长		北京国家会计学院	https://www.nai.edu.cn/info/1191/1201.htm	4337
+崔华清		3		北京市		https://www.nai.edu.cn/gyxy/xrld.htm	党委委员、副院长		北京国家会计学院	https://www.nai.edu.cn/info/1191/1211.htm	4337
+李旭红		4		北京市		https://www.nai.edu.cn/gyxy/xrld.htm	党委委员、副院长		北京国家会计学院	https://www.nai.edu.cn/info/1191/1231.htm	4337
+张璐		5		北京市		https://www.nai.edu.cn/gyxy/xrld.htm	党委委员、副院长		北京国家会计学院	https://www.nai.edu.cn/info/1191/69471.htm	4337
+汤晓斌		6		北京市		https://www.nai.edu.cn/gyxy/xrld.htm	党委委员、纪委书记		北京国家会计学院	https://www.nai.edu.cn/info/1191/69481.htm	4337

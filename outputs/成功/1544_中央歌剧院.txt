@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+姚友超		1		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202604/t20260416_965486.htm	党委书记		中央歌剧院		1544
+王培		2		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202604/t20260416_965486.htm	院长、党委副书记		中央歌剧院		1544
+高艾		3		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202604/t20260416_965486.htm	副院长（正局级）		中央歌剧院		1544
+么红		4		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202604/t20260416_965486.htm	副院长		中央歌剧院		1544
+张百成		5		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202604/t20260416_965486.htm	党委副书记、纪委书记		中央歌剧院		1544
+吴钊		6		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202604/t20260416_965486.htm	副院长		中央歌剧院		1544

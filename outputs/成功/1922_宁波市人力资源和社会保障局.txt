@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+沈红屹		1		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218827/index.html	宁波市人力资源和社会保障局局长、党组书记		宁波市人力资源和社会保障局	https://www.ningbo.gov.cn/art/2025/12/24/art_1229218827_183125.html	1922
+陈勇		2		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218827/index.html	宁波市人力资源和社会保障局副局长、党组成员、二级巡视员		宁波市人力资源和社会保障局	https://www.ningbo.gov.cn/art/2020/6/9/art_1229218827_25962.html	1922
+王效民		3		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218827/index.html	宁波市人力资源和社会保障局副局长、二级巡视员		宁波市人力资源和社会保障局	https://www.ningbo.gov.cn/art/2020/6/9/art_1229218827_25961.html	1922
+严俊		4		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218827/index.html	宁波市人力资源和社会保障局副局长、党组成员		宁波市人力资源和社会保障局	https://www.ningbo.gov.cn/art/2021/11/15/art_1229218827_115388.html	1922
+张杰		5		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218827/index.html	宁波市人力资源和社会保障局副局长、党组成员		宁波市人力资源和社会保障局	https://www.ningbo.gov.cn/col/col1229218827/art/2026/art_76c56d17bcdd45f39569c9417f9eb8f0.html	1922
+吴骏		6		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218827/index.html	宁波市人力资源和社会保障局党组成员、宁波市社会保险管理服务中心主任		宁波市人力资源和社会保障局	https://www.ningbo.gov.cn/col/col1229218827/art/2026/art_4cd924254788465d893523ee028dad1e.html	1922
+金庆奎		7		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218827/index.html	宁波市人力资源和社会保障局二级巡视员、宁波市社会保险管理服务中心副主任		宁波市人力资源和社会保障局	https://www.ningbo.gov.cn/art/2020/6/9/art_1229218827_25956.html	1922
+钱义林		8		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218827/index.html	宁波市人力资源和社会保障局二级巡视员		宁波市人力资源和社会保障局	https://www.ningbo.gov.cn/art/2020/6/9/art_1229218827_25958.html	1922
+林建国		9		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218827/index.html	宁波市人力资源和社会保障局一级调研员		宁波市人力资源和社会保障局	https://www.ningbo.gov.cn/art/2020/6/9/art_1229218827_25957.html	1922

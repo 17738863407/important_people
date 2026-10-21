@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+程步一		1		广东省		https://smzt.gd.gov.cn/jggk/index.html	党组书记、副厅长		广东省民政厅	https://smzt.gd.gov.cn/jggk/ldzc/cby/index.html	2506
+张晨		2		广东省		https://smzt.gd.gov.cn/jggk/index.html	厅长		广东省民政厅	https://smzt.gd.gov.cn/jggk/ldzc/zhangchen/index.html	2506
+曾凡瑞		3		广东省		https://smzt.gd.gov.cn/jggk/index.html	党组成员、副厅长		广东省民政厅	https://smzt.gd.gov.cn/jggk/ldzc/zfr/index.html	2506
+熊松		4		广东省		https://smzt.gd.gov.cn/jggk/index.html	党组成员、副厅长		广东省民政厅	https://smzt.gd.gov.cn/jggk/ldzc/xs/index.html	2506
+李长林		5		广东省		https://smzt.gd.gov.cn/jggk/index.html	党组成员、省纪委监委驻省民政厅纪检监察组组长		广东省民政厅	https://smzt.gd.gov.cn/jggk/ldzc/lichanglin/index.html	2506
+鲍魁		6		广东省		https://smzt.gd.gov.cn/jggk/index.html	党组成员、副厅长		广东省民政厅	https://smzt.gd.gov.cn/jggk/ldzc/bk/index.html	2506
+张东霞		7		广东省		https://smzt.gd.gov.cn/jggk/index.html	二级巡视员		广东省民政厅	https://smzt.gd.gov.cn/jggk/ldzc/zdx/index.html	2506

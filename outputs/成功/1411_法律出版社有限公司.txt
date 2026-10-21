@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+梁尚华		1		全国		https://www.lawpress.com.cn/index.php?c=leader&m=index&column_id=46	党委书记、董事长		法律出版社有限公司		1411
+张雪纯		2		全国		https://www.lawpress.com.cn/index.php?c=leader&m=index&column_id=46	党委副书记、总编辑		法律出版社有限公司		1411
+王锋		3		全国		https://www.lawpress.com.cn/index.php?c=leader&m=index&column_id=46	党委委员、副社长		法律出版社有限公司		1411
+许纪峰		4		全国		https://www.lawpress.com.cn/index.php?c=leader&m=index&column_id=46	党委委员、纪委书记		法律出版社有限公司		1411
+周诚		5		全国		https://www.lawpress.com.cn/index.php?c=leader&m=index&column_id=46	党委委员、副总编辑		法律出版社有限公司		1411

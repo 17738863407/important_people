@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+韩权芬		1		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sxzsphzwfwj_22435/fdzdgknr_25816/?gk=2&cid=25824#bmjgjjID	党组书记、局长		呼和浩特市行政审批和政务服务局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sxzsphzwfwj_22435/fdzdgknr_25816/jgjj/ldjj/202308/t20230828_1577802.html	1068
+段利滨		2		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sxzsphzwfwj_22435/fdzdgknr_25816/?gk=2&cid=25824#bmjgjjID	党组成员、副局长，三级调研员		呼和浩特市行政审批和政务服务局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sxzsphzwfwj_22435/fdzdgknr_25816/jgjj/ldjj/202308/t20230828_1577808.html	1068
+徐小杰		3		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sxzsphzwfwj_22435/fdzdgknr_25816/?gk=2&cid=25824#bmjgjjID	党组成员、副局长，三级调研员		呼和浩特市行政审批和政务服务局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sxzsphzwfwj_22435/fdzdgknr_25816/jgjj/ldjj/202105/t20210526_941812.html	1068
+李少莉		4		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sxzsphzwfwj_22435/fdzdgknr_25816/?gk=2&cid=25824#bmjgjjID	副局长		呼和浩特市行政审批和政务服务局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sxzsphzwfwj_22435/fdzdgknr_25816/jgjj/ldjj/202207/t20220726_1323533.html	1068

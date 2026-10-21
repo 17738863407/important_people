@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李连霞		1		天津市		https://gk.tj.gov.cn/tjsjdglj/fdzdgknr/jgxx/ldxx/202307/t20230712_6350378.html	市司法局党委委员，市戒毒管理局党委书记、局长		天津市戒毒管理局		0730
+孟庆龙		2		天津市		https://gk.tj.gov.cn/tjsjdglj/fdzdgknr/jgxx/ldxx/202307/t20230712_6350378.html	市戒毒管理局党委委员、副局长、二级巡视员职级		天津市戒毒管理局		0730
+刘文喜		3		天津市		https://gk.tj.gov.cn/tjsjdglj/fdzdgknr/jgxx/ldxx/202307/t20230712_6350378.html	市戒毒管理局党委委员、副局长、二级巡视员职级		天津市戒毒管理局		0730

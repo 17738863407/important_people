@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡金波		1		全国		https://sioc.cas.cn/about/xr/	所长、党委书记		中国科学院上海有机化学研究所		4092
+刘菲		2		全国		https://sioc.cas.cn/about/xr/	副所长		中国科学院上海有机化学研究所		4092
+李昂		3		全国		https://sioc.cas.cn/about/xr/	副所长、党委副书记		中国科学院上海有机化学研究所		4092
+石岩森		4		全国		https://sioc.cas.cn/about/xr/	纪委书记		中国科学院上海有机化学研究所		4092
+黄正		5		全国		https://sioc.cas.cn/about/xr/	副所长		中国科学院上海有机化学研究所		4092
+沈其龙		6		全国		https://sioc.cas.cn/about/xr/	副所长		中国科学院上海有机化学研究所		4092

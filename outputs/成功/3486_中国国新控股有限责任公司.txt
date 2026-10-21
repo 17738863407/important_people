@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐思伟		1		全国		http://www.crhc.cn/gywm/gsld/A005001003index_1.htm	党委：党委书记；董事会：董事长		中国国新控股有限责任公司		3486
+侯晓		2		全国		http://www.crhc.cn/gywm/gsld/A005001003index_1.htm	党委：党委副书记；董事会：董事；高级管理人员：总经理		中国国新控股有限责任公司		3486
+黄耀文		3		全国		http://www.crhc.cn/gywm/gsld/A005001003index_1.htm	党委：党委副书记；董事会：董事		中国国新控股有限责任公司		3486
+延彦东		4		全国		http://www.crhc.cn/gywm/gsld/A005001003index_1.htm	党委：党委副书记		中国国新控股有限责任公司		3486
+宁东升		5		全国		http://www.crhc.cn/gywm/gsld/A005001003index_1.htm	党委：党委委员、纪委书记		中国国新控股有限责任公司		3486
+房小兵		6		全国		http://www.crhc.cn/gywm/gsld/A005001003index_1.htm	党委：党委委员；高级管理人员：副总经理		中国国新控股有限责任公司		3486
+贺禹		7		全国		http://www.crhc.cn/gywm/gsld/A005001003index_1.htm	董事会：外部董事		中国国新控股有限责任公司		3486
+李绍烛		8		全国		http://www.crhc.cn/gywm/gsld/A005001003index_1.htm	董事会：外部董事		中国国新控股有限责任公司		3486
+宫晓冰		9		全国		http://www.crhc.cn/gywm/gsld/A005001003index_1.htm	董事会：外部董事		中国国新控股有限责任公司		3486
+杨宁		10		全国		http://www.crhc.cn/gywm/gsld/A005001003index_1.htm	高级管理人员：副总经理		中国国新控股有限责任公司		3486
+唐玉立		11		全国		http://www.crhc.cn/gywm/gsld/A005001003index_1.htm	高级管理人员：董事会秘书		中国国新控股有限责任公司		3486
+李永华		12		全国		http://www.crhc.cn/gywm/gsld/A005001003index_1.htm	高级管理人员：总法律顾问、总经理助理		中国国新控股有限责任公司		3486

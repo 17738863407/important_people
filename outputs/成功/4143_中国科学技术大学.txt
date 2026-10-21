@@ -1,0 +1,16 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+白春礼		1		全国		https://www.ustc.edu.cn/xxgk/xrld.htm	名誉校长		中国科学技术大学	https://www.ustc.edu.cn/info/1007/6943.htm	4143
+舒歌群		2		全国		https://www.ustc.edu.cn/xxgk/xrld.htm	党委书记		中国科学技术大学	https://www.ustc.edu.cn/info/1007/6942.htm	4143
+常进		3		全国		https://www.ustc.edu.cn/xxgk/xrld.htm	校长、党委副书记		中国科学技术大学	https://www.ustc.edu.cn/info/1007/22163.htm	4143
+潘建伟		4		全国		https://www.ustc.edu.cn/xxgk/xrld.htm	常务副校长		中国科学技术大学	https://www.ustc.edu.cn/info/1007/6940.htm	4143
+蒋一		5		全国		https://www.ustc.edu.cn/xxgk/xrld.htm	党委常务副书记		中国科学技术大学	https://www.ustc.edu.cn/info/1007/14013.htm	4143
+傅尧		6		全国		https://www.ustc.edu.cn/xxgk/xrld.htm	党委常委、常务副校长		中国科学技术大学	https://www.ustc.edu.cn/info/1007/15480.htm	4143
+刘连新		7		全国		https://www.ustc.edu.cn/xxgk/xrld.htm	党委常委、副校长		中国科学技术大学	https://www.ustc.edu.cn/info/1007/21851.htm	4143
+刘浏		8		全国		https://www.ustc.edu.cn/xxgk/xrld.htm	党委副书记、纪委书记、国家监委驻中国科学技术大学监察专员		中国科学技术大学	https://www.ustc.edu.cn/info/1007/21235.htm	4143
+周丛照		9		全国		https://www.ustc.edu.cn/xxgk/xrld.htm	党委副书记		中国科学技术大学	https://www.ustc.edu.cn/info/1007/6926.htm	4143
+邓建松		10		全国		https://www.ustc.edu.cn/xxgk/xrld.htm	党委常委、副校长		中国科学技术大学	https://www.ustc.edu.cn/info/1007/16697.htm	4143
+汪毓明		11		全国		https://www.ustc.edu.cn/xxgk/xrld.htm	党委常委、副校长		中国科学技术大学	https://www.ustc.edu.cn/info/1007/21852.htm	4143
+李峰		12		全国		https://www.ustc.edu.cn/xxgk/xrld.htm	党委常委、副校长、党委统战部部长		中国科学技术大学	https://www.ustc.edu.cn/info/1007/21853.htm	4143
+薛天		13		全国		https://www.ustc.edu.cn/xxgk/xrld.htm	党委常委、校长助理		中国科学技术大学	https://www.ustc.edu.cn/info/1007/16726.htm	4143
+王伟		14		全国		https://www.ustc.edu.cn/xxgk/xrld.htm	党委常委、党委宣传部部长		中国科学技术大学	https://www.ustc.edu.cn/info/1007/21854.htm	4143
+申成龙		15		全国		https://www.ustc.edu.cn/xxgk/xrld.htm	党委常委、党委组织部部长		中国科学技术大学	https://www.ustc.edu.cn/info/1007/21855.htm	4143

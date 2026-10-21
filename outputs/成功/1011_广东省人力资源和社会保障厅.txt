@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杜敏琪		1		广东省		https://hrss.gd.gov.cn/ldzc/index.html	厅党组书记、厅长		广东省人力资源和社会保障厅	https://hrss.gd.gov.cn/ldzc/content/post_4132930.html	1011
+黄毅		2		广东省		https://hrss.gd.gov.cn/ldzc/index.html	厅党组成员、副厅长		广东省人力资源和社会保障厅	https://hrss.gd.gov.cn/ldzc/content/post_4851084.html	1011
+谢忠保		3		广东省		https://hrss.gd.gov.cn/ldzc/index.html	厅党组成员、副厅长		广东省人力资源和社会保障厅	https://hrss.gd.gov.cn/ldzc/content/post_3926708.html	1011
+夏青		4		广东省		https://hrss.gd.gov.cn/ldzc/index.html	厅党组成员、省社会保险基金管理局党委书记		广东省人力资源和社会保障厅	https://hrss.gd.gov.cn/ldzc/content/post_3992593.html	1011
+邱璟		5		广东省		https://hrss.gd.gov.cn/ldzc/index.html	厅党组成员、副厅长，省总工会兼职副主席		广东省人力资源和社会保障厅	https://hrss.gd.gov.cn/ldzc/content/post_4503165.html	1011
+潘健		6		广东省		https://hrss.gd.gov.cn/ldzc/index.html	厅二级巡视员		广东省人力资源和社会保障厅	https://hrss.gd.gov.cn/ldzc/content/post_3802605.html	1011
+袁伟		7		广东省		https://hrss.gd.gov.cn/ldzc/index.html	厅二级巡视员、机关工会主席		广东省人力资源和社会保障厅	https://hrss.gd.gov.cn/ldzc/content/post_3045583.html	1011
+林国斌		8		广东省		https://hrss.gd.gov.cn/ldzc/index.html	厅二级巡视员		广东省人力资源和社会保障厅	https://hrss.gd.gov.cn/ldzc/content/post_4235567.html	1011
+蔡吉恒		9		广东省		https://hrss.gd.gov.cn/ldzc/index.html	厅二级巡视员		广东省人力资源和社会保障厅	https://hrss.gd.gov.cn/ldzc/content/post_4515906.html	1011
+黄明		10		广东省		https://hrss.gd.gov.cn/ldzc/index.html	厅二级巡视员		广东省人力资源和社会保障厅	https://hrss.gd.gov.cn/ldzc/content/post_4515907.html	1011
+钟振宇		11		广东省		https://hrss.gd.gov.cn/ldzc/index.html	驻厅纪检监察组二级巡视员		广东省人力资源和社会保障厅	https://hrss.gd.gov.cn/ldzc/content/post_4940142.html	1011
+戴由武		12		广东省		https://hrss.gd.gov.cn/ldzc/index.html	厅二级巡视员		广东省人力资源和社会保障厅	https://hrss.gd.gov.cn/ldzc/content/post_4891591.html	1011
+李宝新		13		广东省		https://hrss.gd.gov.cn/ldzc/index.html	厅二级巡视员		广东省人力资源和社会保障厅	https://hrss.gd.gov.cn/ldzc/content/post_4891600.html	1011

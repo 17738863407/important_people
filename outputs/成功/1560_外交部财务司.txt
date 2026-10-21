@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+林先江		1		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/cws_674721/	司长		外交部财务司		1560
+董斌		2		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/cws_674721/	副司长		外交部财务司		1560
+牛培萍		3		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/cws_674721/	副司长		外交部财务司		1560
+张彪		4		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/cws_674721/	副司长		外交部财务司		1560

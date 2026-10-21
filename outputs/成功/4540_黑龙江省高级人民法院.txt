@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王春福		1		黑龙江省		http://www.hljcourt.gov.cn/public/more.php?LocationID=0202000000	黑龙江省高级人民法院常务副院长、党组副书记、审判委员会委员、省委政法委委员		黑龙江省高级人民法院	http://www.hljcourt.gov.cn/public/detail.php?id=36859	4540
+王启胜		2		黑龙江省		http://www.hljcourt.gov.cn/public/more.php?LocationID=0202000000	黑龙江省高级人民法院副院长、党组成员、审判委员会委员		黑龙江省高级人民法院	http://www.hljcourt.gov.cn/public/detail.php?id=25658	4540
+刘超		3		黑龙江省		http://www.hljcourt.gov.cn/public/more.php?LocationID=0202000000	黑龙江省高级人民法院政治部主任、党组成员		黑龙江省高级人民法院	http://www.hljcourt.gov.cn/public/detail.php?id=38855	4540
+于世伟		4		黑龙江省		http://www.hljcourt.gov.cn/public/more.php?LocationID=0202000000	黑龙江省高级人民法院副院长、党组成员、审判委员会委员		黑龙江省高级人民法院	http://www.hljcourt.gov.cn/public/detail.php?id=40409	4540
+李岫岩		5		黑龙江省		http://www.hljcourt.gov.cn/public/more.php?LocationID=0202000000	黑龙江省高级人民法院副院长、党组成员、审判委员会委员		黑龙江省高级人民法院	http://www.hljcourt.gov.cn/public/detail.php?id=42937	4540
+毕同春		6		黑龙江省		http://www.hljcourt.gov.cn/public/more.php?LocationID=0202000000	黑龙江省高级人民法院副院长、党组成员、审判委员会委员		黑龙江省高级人民法院	http://www.hljcourt.gov.cn/public/detail.php?id=38204	4540
+洪松		7		黑龙江省		http://www.hljcourt.gov.cn/public/more.php?LocationID=0202000000	黑龙江省纪委监委驻省法院纪检监察组组长、省法院党组成员		黑龙江省高级人民法院	http://www.hljcourt.gov.cn/public/detail.php?id=44699	4540
+郑颖辉		8		黑龙江省		http://www.hljcourt.gov.cn/public/more.php?LocationID=0202000000	黑龙江省高级人民法院审判委员会专职委员		黑龙江省高级人民法院	http://www.hljcourt.gov.cn/public/detail.php?id=36237	4540
+朱卫国		9		黑龙江省		http://www.hljcourt.gov.cn/public/more.php?LocationID=0202000000	黑龙省高级人民法院审判委员会专职委员		黑龙江省高级人民法院	http://www.hljcourt.gov.cn/public/detail.php?id=44684	4540
+朱晓天		10		黑龙江省		http://www.hljcourt.gov.cn/public/more.php?LocationID=0202000000	黑龙江省高级人民法院审判委员会委员		黑龙江省高级人民法院	http://www.hljcourt.gov.cn/public/detail.php?id=31373	4540
+刘雪峰		11		黑龙江省		http://www.hljcourt.gov.cn/public/more.php?LocationID=0202000000	黑龙江省高级人民法院一级高级法官		黑龙江省高级人民法院	http://www.hljcourt.gov.cn/public/detail.php?id=44700	4540
+王洪亮		12		黑龙江省		http://www.hljcourt.gov.cn/public/more.php?LocationID=0202000000	黑龙江省高级人民法院二级高级法官		黑龙江省高级人民法院	http://www.hljcourt.gov.cn/public/detail.php?id=44701	4540

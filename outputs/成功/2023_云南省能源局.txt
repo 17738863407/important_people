@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨永铸		1		云南省		https://nyj.yn.gov.cn/zfxxgk/fdzdgknr/jgxx/ldxx/	党组书记、局长		云南省能源局		2023
+乔国新		2		云南省		https://nyj.yn.gov.cn/zfxxgk/fdzdgknr/jgxx/ldxx/	党组成员、副局长、一级巡视员		云南省能源局		2023
+田宏伟		3		云南省		https://nyj.yn.gov.cn/zfxxgk/fdzdgknr/jgxx/ldxx/	党组成员、副局长		云南省能源局		2023
+陈帆		4		云南省		https://nyj.yn.gov.cn/zfxxgk/fdzdgknr/jgxx/ldxx/	副局长		云南省能源局		2023
+付晖		5		云南省		https://nyj.yn.gov.cn/zfxxgk/fdzdgknr/jgxx/ldxx/	总工程师		云南省能源局		2023
+吴锋		6		云南省		https://nyj.yn.gov.cn/zfxxgk/fdzdgknr/jgxx/ldxx/	安全监管总监		云南省能源局		2023

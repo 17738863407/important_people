@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+柳景武		1		山东省		http://www.shandong.gov.cn/col/col314064/index.html	省委副秘书长，省机关事务局党组书记、局长		山东省机关事务管理局		2365
+邢伟		2		山东省		http://www.shandong.gov.cn/col/col314064/index.html	省机关事务局党组成员、副局长（正厅级）		山东省机关事务管理局		2365
+胡伟政		3		山东省		http://www.shandong.gov.cn/col/col314064/index.html	省机关事务局党组成员、副局长，兼任局直属机关党委书记		山东省机关事务管理局		2365
+朱婷婷		4		山东省		http://www.shandong.gov.cn/col/col314064/index.html	省机关事务局党组成员、副局长		山东省机关事务管理局		2365
+王发菊		5		山东省		http://www.shandong.gov.cn/col/col314064/index.html	省机关事务局党组成员、副局长		山东省机关事务管理局		2365

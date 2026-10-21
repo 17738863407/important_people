@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何勋		1		四川省	成都市	https://cddrc.chengdu.gov.cn/cdsfzggw/jgsz/Organization.shtml	成都市政协党组成员、副主席，市发展改革委党组书记、主任		成都市发展和改革委员会	https://cddrc.chengdu.gov.cn/cdsfzggw/ldjj/2024-08/26/content_06ff73910fe24a87bed5446bf879954f.shtml	0164
+尹宏		2		四川省	成都市	https://cddrc.chengdu.gov.cn/cdsfzggw/jgsz/Organization.shtml	市发展改革委党组副书记，省同城化办常务副主任		成都市发展和改革委员会	https://cddrc.chengdu.gov.cn/cdsfzggw/ldjj/2024-08/26/content_c8c39c4fa94945aaa3a6d350910d1ea3.shtml	0164
+周世杰		3		四川省	成都市	https://cddrc.chengdu.gov.cn/cdsfzggw/jgsz/Organization.shtml	市发展改革委副主任，市数据局局长		成都市发展和改革委员会	https://cddrc.chengdu.gov.cn/cdsfzggw/ldjj/2024-08/26/content_bb6703c8eca74b71b5cc8b5ef8dff787.shtml	0164
+唐芳		4		四川省	成都市	https://cddrc.chengdu.gov.cn/cdsfzggw/jgsz/Organization.shtml	市发展改革委党组成员、驻市发展改革委纪检监察组组长		成都市发展和改革委员会	https://cddrc.chengdu.gov.cn/cdsfzggw/ldjj/2024-08/26/content_240619ffdef348e2bbc111af31d5246d.shtml	0164
+陈健		5		四川省	成都市	https://cddrc.chengdu.gov.cn/cdsfzggw/jgsz/Organization.shtml	市发展改革委副主任		成都市发展和改革委员会	https://cddrc.chengdu.gov.cn/cdsfzggw/ldjj/2024-08/26/content_56ede50b376145d3830bd402fa588fc6.shtml	0164
+贾燕兵		6		四川省	成都市	https://cddrc.chengdu.gov.cn/cdsfzggw/jgsz/Organization.shtml	市发展改革委副主任		成都市发展和改革委员会	https://cddrc.chengdu.gov.cn/cdsfzggw/ldjj/2025-10/24/content_24a764816e5046f0904d1add68e3777b.shtml	0164
+张实睿		7		四川省	成都市	https://cddrc.chengdu.gov.cn/cdsfzggw/jgsz/Organization.shtml	市发展改革委副主任		成都市发展和改革委员会	https://cddrc.chengdu.gov.cn/cdsfzggw/ldjj/2024-08/26/content_1655007660304f03bfe0289cddbda6e7.shtml	0164
+杨磊		8		四川省	成都市	https://cddrc.chengdu.gov.cn/cdsfzggw/jgsz/Organization.shtml	市发展改革委党组成员、机关党委书记		成都市发展和改革委员会	https://cddrc.chengdu.gov.cn/cdsfzggw/ldjj/2024-08/26/content_5d3323ef4a3349f1afa5302d060dfb65.shtml	0164
+李椿		9		四川省	成都市	https://cddrc.chengdu.gov.cn/cdsfzggw/jgsz/Organization.shtml	市发展改革委总工程师		成都市发展和改革委员会	https://cddrc.chengdu.gov.cn/cdsfzggw/ldjj/2024-08/26/content_71572fbb3ca14598bfa12d9365f9c67a.shtml	0164
+秦晓克		10		四川省	成都市	https://cddrc.chengdu.gov.cn/cdsfzggw/jgsz/Organization.shtml	市粮食和储备局专职副局长		成都市发展和改革委员会	https://cddrc.chengdu.gov.cn/cdsfzggw/ldjj/2025-01/02/content_9c7daacf408b42a8af758eae1377bbe8.shtml	0164
+吴英		11		四川省	成都市	https://cddrc.chengdu.gov.cn/cdsfzggw/jgsz/Organization.shtml	市发展改革委二级巡视员		成都市发展和改革委员会	https://cddrc.chengdu.gov.cn/cdsfzggw/ldjj/2024-08/26/content_888b0e53ceaa4b95b06fcdc73bf70034.shtml	0164
+李建中		12		四川省	成都市	https://cddrc.chengdu.gov.cn/cdsfzggw/jgsz/Organization.shtml	市发展改革委党组成员、总经济师		成都市发展和改革委员会	https://cddrc.chengdu.gov.cn/cdsfzggw/ldjj/2025-11/27/content_752b0e17a3da4fb3859be264945b2ce4.shtml	0164

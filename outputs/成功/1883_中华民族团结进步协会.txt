@@ -1,0 +1,18 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵勇		1		全国		https://www.neac.gov.cn/seac/mwjs/mztjjb/jgrysz.shtml	会长；国家民委副主任、党组成员		中华民族团结进步协会		1883
+隋青		2		全国		https://www.neac.gov.cn/seac/mwjs/mztjjb/jgrysz.shtml	副会长；全国政协民族和宗教委员会驻会副主任		中华民族团结进步协会		1883
+石亚洲		3		全国		https://www.neac.gov.cn/seac/mwjs/mztjjb/jgrysz.shtml	副会长；中央民族大学党委常委、副校长（兼秘书长、法定代表人）		中华民族团结进步协会		1883
+刘文达		4		全国		https://www.neac.gov.cn/seac/mwjs/mztjjb/jgrysz.shtml	副会长；国务院港澳办交流司一级巡视员		中华民族团结进步协会		1883
+朱小杰		5		全国		https://www.neac.gov.cn/seac/mwjs/mztjjb/jgrysz.shtml	副会长；教育部民族教育司司长		中华民族团结进步协会		1883
+李勇		6		全国		https://www.neac.gov.cn/seac/mwjs/mztjjb/jgrysz.shtml	副会长；工信部机关党委常务副书记		中华民族团结进步协会		1883
+杨玉成		7		全国		https://www.neac.gov.cn/seac/mwjs/mztjjb/jgrysz.shtml	副会长；国家民委国际交流司副司长		中华民族团结进步协会		1883
+兰步锦		8		全国		https://www.neac.gov.cn/seac/mwjs/mztjjb/jgrysz.shtml	副会长；国家民委共同发展司原一级巡视员（已退休）		中华民族团结进步协会		1883
+明文军		9		全国		https://www.neac.gov.cn/seac/mwjs/mztjjb/jgrysz.shtml	副会长；文旅部艺术司司长		中华民族团结进步协会		1883
+陈洪波		10		全国		https://www.neac.gov.cn/seac/mwjs/mztjjb/jgrysz.shtml	副会长；国家乡村振兴局政策法规司司长		中华民族团结进步协会		1883
+姚焕		11		全国		https://www.neac.gov.cn/seac/mwjs/mztjjb/jgrysz.shtml	副会长；国资委党建工作局局长		中华民族团结进步协会		1883
+王子建		12		全国		https://www.neac.gov.cn/seac/mwjs/mztjjb/jgrysz.shtml	副会长；深圳市委统战部副部长、市民宗局局长		中华民族团结进步协会		1883
+王延中		13		全国		https://www.neac.gov.cn/seac/mwjs/mztjjb/jgrysz.shtml	副会长；中科院民族学与人类学研究所所长		中华民族团结进步协会		1883
+任发政		14		全国		https://www.neac.gov.cn/seac/mwjs/mztjjb/jgrysz.shtml	副会长；中国工程院院士、中国农业大学教授		中华民族团结进步协会		1883
+丁希松		15		全国		https://www.neac.gov.cn/seac/mwjs/mztjjb/jgrysz.shtml	副会长；北京市民族宗教委副主任		中华民族团结进步协会		1883
+宫长义		16		全国		https://www.neac.gov.cn/seac/mwjs/mztjjb/jgrysz.shtml	副会长；江苏省民族团结进步促进会会长		中华民族团结进步协会		1883
+黄传芳		17		全国		https://www.neac.gov.cn/seac/mwjs/mztjjb/jgrysz.shtml	副会长；中央广播电视台编务会议成员		中华民族团结进步协会		1883

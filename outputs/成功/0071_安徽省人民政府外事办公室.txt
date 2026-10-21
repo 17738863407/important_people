@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+秦俊峰		1		安徽省		https://ahfao.ah.gov.cn/public/column/21741?type=4&catId=32715611&action=list&nav=3	省外办党组书记、主任		安徽省人民政府外事办公室	https://ahfao.ah.gov.cn/public/21741/123202271.html	0071
+樊忠厚		2		安徽省		https://ahfao.ah.gov.cn/public/column/21741?type=4&catId=32715611&action=list&nav=3	省外办一级巡视员		安徽省人民政府外事办公室	https://ahfao.ah.gov.cn/public/21741/123202281.html	0071
+王年宝		3		安徽省		https://ahfao.ah.gov.cn/public/column/21741?type=4&catId=32715611&action=list&nav=3	省外办党组成员、副主任、机关党委书记		安徽省人民政府外事办公室	https://ahfao.ah.gov.cn/public/21741/123202291.html	0071
+彭传武		4		安徽省		https://ahfao.ah.gov.cn/public/column/21741?type=4&catId=32715611&action=list&nav=3	省外办党组成员、副主任		安徽省人民政府外事办公室	https://ahfao.ah.gov.cn/public/21741/123202301.html	0071
+吕小梅		5		安徽省		https://ahfao.ah.gov.cn/public/column/21741?type=4&catId=32715611&action=list&nav=3	省外办党组成员、副主任		安徽省人民政府外事办公室	https://ahfao.ah.gov.cn/public/21741/123202321.html	0071

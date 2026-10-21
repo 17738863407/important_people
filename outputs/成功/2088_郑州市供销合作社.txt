@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+唐莉军		1		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=52	党组书记、理事会主任		郑州市供销合作社	https://public.zhengzhou.gov.cn/D14Y/6817149.jhtml	2088
+胡永革		2		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=52	党组成员、监事会主任		郑州市供销合作社	https://public.zhengzhou.gov.cn/D14Y/10035970.jhtml	2088
+刘辉		3		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=52	党组成员、理事会副主任		郑州市供销合作社	https://public.zhengzhou.gov.cn/D14Y/6817156.jhtml	2088
+邓德邻		4		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=52	党组成员、理事会副主任		郑州市供销合作社	https://public.zhengzhou.gov.cn/D14Y/304010.jhtml	2088
+王慧		5		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=52	党组成员、理事会副主任		郑州市供销合作社	https://public.zhengzhou.gov.cn/D14Y/8399076.jhtml	2088
+刘乐乐		6		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=52	党组成员、理事会副主任		郑州市供销合作社	https://public.zhengzhou.gov.cn/D14Y/8847811.jhtml	2088
+段长海		7		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=52	党组成员、理事会副主任		郑州市供销合作社	https://public.zhengzhou.gov.cn/D14Y/9829626.jhtml	2088
+赵文生		8		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=52	二级调研员		郑州市供销合作社	https://public.zhengzhou.gov.cn/D14Y/183102.jhtml	2088
+常建明		9		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=52	二级调研员		郑州市供销合作社	https://public.zhengzhou.gov.cn/D14Y/6505571.jhtml	2088
+毛玮		10		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=52	三级调研员		郑州市供销合作社	https://public.zhengzhou.gov.cn/D14Y/183115.jhtml	2088

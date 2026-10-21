@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张学军		1		吉林省	长春市	https://ciomp.cas.cn/skjj/xrld/	所长		中国科学院长春光学精密机械与物理研究所		4086
+金宏		2		吉林省	长春市	https://ciomp.cas.cn/skjj/xrld/	党委书记、副所长		中国科学院长春光学精密机械与物理研究所		4086
+孙焕		3		吉林省	长春市	https://ciomp.cas.cn/skjj/xrld/	党委副书记、纪委书记		中国科学院长春光学精密机械与物理研究所		4086
+王建立		4		吉林省	长春市	https://ciomp.cas.cn/skjj/xrld/	副所长		中国科学院长春光学精密机械与物理研究所		4086
+李耀彬		5		吉林省	长春市	https://ciomp.cas.cn/skjj/xrld/	副所长		中国科学院长春光学精密机械与物理研究所		4086
+孙守红		6		吉林省	长春市	https://ciomp.cas.cn/skjj/xrld/	副所长、党委副书记		中国科学院长春光学精密机械与物理研究所		4086
+韩诚山		7		吉林省	长春市	https://ciomp.cas.cn/skjj/xrld/	副所长		中国科学院长春光学精密机械与物理研究所		4086
+黎大兵		8		吉林省	长春市	https://ciomp.cas.cn/skjj/xrld/	副所长		中国科学院长春光学精密机械与物理研究所		4086
+薛栋林		9		吉林省	长春市	https://ciomp.cas.cn/skjj/xrld/	所务委员		中国科学院长春光学精密机械与物理研究所		4086
+魏君成		10		吉林省	长春市	https://ciomp.cas.cn/skjj/xrld/	所务委员		中国科学院长春光学精密机械与物理研究所		4086
+李光鑫		11		吉林省	长春市	https://ciomp.cas.cn/skjj/xrld/	所务委员		中国科学院长春光学精密机械与物理研究所		4086

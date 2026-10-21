@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+乔彦强		1		河南省	漯河市	https://www.luohe.gov.cn/zfxxgkpt/fdzdgknr1/ldzc1	市委副书记，市长、党组书记		漯河市人民政府	https://www.luohe.gov.cn/zfxxgkpt/fdzdgknr1/ldzc1/content_126535	4306
+周剑		2		河南省	漯河市	https://www.luohe.gov.cn/zfxxgkpt/fdzdgknr1/ldzc1	副市长		漯河市人民政府	https://www.luohe.gov.cn/zfxxgkpt/fdzdgknr1/ldzc1/content_126537	4306
+刘志辉		3		河南省	漯河市	https://www.luohe.gov.cn/zfxxgkpt/fdzdgknr1/ldzc1	副市长		漯河市人民政府	https://www.luohe.gov.cn/zfxxgkpt/fdzdgknr1/ldzc1/content_1044094	4306
+宋琰琰		4		河南省	漯河市	https://www.luohe.gov.cn/zfxxgkpt/fdzdgknr1/ldzc1	副市长		漯河市人民政府	https://www.luohe.gov.cn/zfxxgkpt/fdzdgknr1/ldzc1/content_126540	4306
+时中华		5		河南省	漯河市	https://www.luohe.gov.cn/zfxxgkpt/fdzdgknr1/ldzc1	副市长		漯河市人民政府	https://www.luohe.gov.cn/zfxxgkpt/fdzdgknr1/ldzc1/content_1028257	4306
+王奇山		6		河南省	漯河市	https://www.luohe.gov.cn/zfxxgkpt/fdzdgknr1/ldzc1	副市长		漯河市人民政府	https://www.luohe.gov.cn/zfxxgkpt/fdzdgknr1/ldzc1/content_1044096	4306
+项丽		7		河南省	漯河市	https://www.luohe.gov.cn/zfxxgkpt/fdzdgknr1/ldzc1	副市长		漯河市人民政府	https://www.luohe.gov.cn/zfxxgkpt/fdzdgknr1/ldzc1/content_1044095	4306
+闫沛		8		河南省	漯河市	https://www.luohe.gov.cn/zfxxgkpt/fdzdgknr1/ldzc1	秘书长		漯河市人民政府	https://www.luohe.gov.cn/zfxxgkpt/fdzdgknr1/ldzc1/content_126541	4306

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘金国		1		全国		https://www.ccdi.gov.cn/xxgkn/ldjg/	主任		国家监察委员会	https://www.ccdi.gov.cn/xxgkn/ldjg/ljg/	0143
+喻红秋		2		全国		https://www.ccdi.gov.cn/xxgkn/ldjg/	副主任		国家监察委员会	https://www.ccdi.gov.cn/xxgkn/ldjg/yhq/	0143
+孙新阳		3		全国		https://www.ccdi.gov.cn/xxgkn/ldjg/	副主任		国家监察委员会	https://www.ccdi.gov.cn/xxgkn/ldjg/sunxinyang/	0143
+刘学新		4		全国		https://www.ccdi.gov.cn/xxgkn/ldjg/	副主任		国家监察委员会	https://www.ccdi.gov.cn/xxgkn/ldjg/liuxuexin/	0143
+张福海		5		全国		https://www.ccdi.gov.cn/xxgkn/ldjg/	副主任		国家监察委员会	https://www.ccdi.gov.cn/xxgkn/ldjg/zhangfuhai/	0143
+赵世勇		6		全国		https://www.ccdi.gov.cn/xxgkn/ldjg/	副主任		国家监察委员会	https://www.ccdi.gov.cn/xxgkn/ldjg/zhaoshiyong/	0143
+张忠		7		全国		https://www.ccdi.gov.cn/xxgkn/ldjg/	副主任		国家监察委员会	https://www.ccdi.gov.cn/xxgkn/ldjg/zhangzhong/	0143

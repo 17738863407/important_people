@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+毛伟明		1		全国		https://www.hunan.gov.cn/hnszf/szf/szf.html	省长		湖南省人民政府	https://www.hunan.gov.cn/hnszf/szf/zfld/mwm/mwmsz.html	1073
+王道席		2		全国		https://www.hunan.gov.cn/hnszf/szf/szf.html	副省长		湖南省人民政府	https://www.hunan.gov.cn/hnszf/szf/zfld/wdx1/cwfsz_zy.html	1073
+王一鸥		3		全国		https://www.hunan.gov.cn/hnszf/szf/szf.html	副省长		湖南省人民政府	https://www.hunan.gov.cn/hnszf/szf/zfld/wyo/fsz.html	1073
+蒋涤非		4		全国		https://www.hunan.gov.cn/hnszf/szf/szf.html	副省长		湖南省人民政府	https://www.hunan.gov.cn/hnszf/szf/zfld/jdf/fsz.html	1073
+陈竞		5		全国		https://www.hunan.gov.cn/hnszf/szf/szf.html	副省长		湖南省人民政府	https://www.hunan.gov.cn/hnszf/szf/zfld/cj1/fsz.html	1073
+余红胜		6		全国		https://www.hunan.gov.cn/hnszf/szf/szf.html	副省长		湖南省人民政府	https://www.hunan.gov.cn/hnszf/szf/zfld/yhs/fsz.html	1073
+刘扬		7		全国		https://www.hunan.gov.cn/hnszf/szf/szf.html	副省长		湖南省人民政府	https://www.hunan.gov.cn/hnszf/szf/zfld/ly1/fsz.html	1073
+王卫安		8		全国		https://www.hunan.gov.cn/hnszf/szf/szf.html	秘书长		湖南省人民政府	https://www.hunan.gov.cn/hnszf/szf/zfld/wwa/wwamsz.html	1073

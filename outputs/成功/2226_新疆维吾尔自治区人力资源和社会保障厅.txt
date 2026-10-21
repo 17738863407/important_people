@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵丽		1		新疆维吾尔自治区		https://rst.xinjiang.gov.cn/xjrst/c112670/zfxxgk_ldxx.shtml	驻厅纪检监察组组长、党组成员		新疆维吾尔自治区人力资源和社会保障厅	https://rst.xinjiang.gov.cn/xjrst/c112670/202410/59320533d0ec4ee182ff8a32050965fd.shtml	2226
+蔡琦		2		新疆维吾尔自治区		https://rst.xinjiang.gov.cn/xjrst/c112670/zfxxgk_ldxx.shtml	厅党组成员、副厅长		新疆维吾尔自治区人力资源和社会保障厅	https://rst.xinjiang.gov.cn/xjrst/c112670/202504/40657357a6b347f3ab01141887d085c7.shtml	2226
+李宁		3		新疆维吾尔自治区		https://rst.xinjiang.gov.cn/xjrst/c112670/zfxxgk_ldxx.shtml	社会保险中心党委书记、副主任		新疆维吾尔自治区人力资源和社会保障厅	https://rst.xinjiang.gov.cn/xjrst/c112670/202102/56e5745c2b8d41f8949460aa599778f7.shtml	2226
+樊爱银		4		新疆维吾尔自治区		https://rst.xinjiang.gov.cn/xjrst/c112670/zfxxgk_ldxx.shtml	社会保险中心党委副书记、主任		新疆维吾尔自治区人力资源和社会保障厅	https://rst.xinjiang.gov.cn/xjrst/c112670/202207/557093df21aa4a44bdc0fce31337c0c8.shtml	2226
+杨晓龙		5		新疆维吾尔自治区		https://rst.xinjiang.gov.cn/xjrst/c112670/zfxxgk_ldxx.shtml	公共就业服务中心党委书记		新疆维吾尔自治区人力资源和社会保障厅	https://rst.xinjiang.gov.cn/xjrst/c112670/202307/4359d436e9e042bda0eddfac4ee12c7d.shtml	2226
+曹云		6		新疆维吾尔自治区		https://rst.xinjiang.gov.cn/xjrst/c112670/zfxxgk_ldxx.shtml	公共就业服务中心党委副书记、主任		新疆维吾尔自治区人力资源和社会保障厅	https://rst.xinjiang.gov.cn/xjrst/c112670/202509/d8450c05e9294c3b9be1d3159bc828ea.shtml	2226
+沈平江		7		新疆维吾尔自治区		https://rst.xinjiang.gov.cn/xjrst/c112670/zfxxgk_ldxx.shtml	公共就业服务中心党委委员、副主任、二级巡视员		新疆维吾尔自治区人力资源和社会保障厅	https://rst.xinjiang.gov.cn/xjrst/c112670/202111/cd88db00b72343caba0899849b33f70e.shtml	2226
+刘怀章		8		新疆维吾尔自治区		https://rst.xinjiang.gov.cn/xjrst/c112670/zfxxgk_ldxx.shtml	二级巡视员		新疆维吾尔自治区人力资源和社会保障厅	https://rst.xinjiang.gov.cn/xjrst/c112670/202207/1bb9ed64449b44bb8fd1acdecdd0ec5c.shtml	2226
+童春雷		9		新疆维吾尔自治区		https://rst.xinjiang.gov.cn/xjrst/c112670/zfxxgk_ldxx.shtml	二级巡视员		新疆维吾尔自治区人力资源和社会保障厅	https://rst.xinjiang.gov.cn/xjrst/c112670/202403/4009c37e86c84a02820ae3a9c046d4dc.shtml	2226
+古海林		10		新疆维吾尔自治区		https://rst.xinjiang.gov.cn/xjrst/c112670/zfxxgk_ldxx.shtml	二级巡视员		新疆维吾尔自治区人力资源和社会保障厅	https://rst.xinjiang.gov.cn/xjrst/c112670/202403/4fa899e15b4343f38a5ffd126057d666.shtml	2226
+李雅君		11		新疆维吾尔自治区		https://rst.xinjiang.gov.cn/xjrst/c112670/zfxxgk_ldxx.shtml	二级巡视员		新疆维吾尔自治区人力资源和社会保障厅	https://rst.xinjiang.gov.cn/xjrst/c112670/202408/19b53690706e4739a5f7a8af3feed1c0.shtml	2226
+周立民		12		新疆维吾尔自治区		https://rst.xinjiang.gov.cn/xjrst/c112670/zfxxgk_ldxx.shtml	二级巡视员		新疆维吾尔自治区人力资源和社会保障厅	https://rst.xinjiang.gov.cn/xjrst/c112670/202603/b856cc8a7c0b45b28bf53fbc917ba9ae.shtml	2226

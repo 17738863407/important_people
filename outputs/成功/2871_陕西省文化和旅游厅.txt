@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高阳		1		陕西省		https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/lzyj/ldxx/	党组书记、厅长		陕西省文化和旅游厅	https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/lzyj/ldxx/202409/t20240910_2593954.html	2871
+杜金根		2		陕西省		https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/lzyj/ldxx/	厅党组成员、副厅长		陕西省文化和旅游厅	https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/lzyj/ldxx/202409/t20240910_2593952.html	2871
+郑晓燕		3		陕西省		https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/lzyj/ldxx/	厅党组成员、副厅长		陕西省文化和旅游厅	https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/lzyj/ldxx/202409/t20240910_2593951.html	2871
+杨亚莉		4		陕西省		https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/lzyj/ldxx/	党组成员、驻厅纪检监察组组长		陕西省文化和旅游厅	https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/lzyj/ldxx/202409/t20240910_2593950.html	2871
+刘海荣		5		陕西省		https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/lzyj/ldxx/	厅党组成员、副厅长		陕西省文化和旅游厅	https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/lzyj/ldxx/202409/t20240910_2593949.html	2871
+王淳		6		陕西省		https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/lzyj/ldxx/	厅党组成员、副厅长		陕西省文化和旅游厅	https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/lzyj/ldxx/202409/t20240910_2593948.html	2871
+戴卫红		7		陕西省		https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/lzyj/ldxx/	厅二级巡视员		陕西省文化和旅游厅	https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/lzyj/ldxx/202409/t20240910_2593947.html	2871
+谭佳峰		8		陕西省		https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/lzyj/ldxx/	厅二级巡视员		陕西省文化和旅游厅	https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/lzyj/ldxx/202509/t20250930_3572496.html	2871
+郭宝才		9		陕西省		https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/lzyj/ldxx/	厅二级巡视员		陕西省文化和旅游厅	https://whhlyt.shaanxi.gov.cn/zfxxgk/fdzdgknr/lzyj/ldxx/202601/t20260120_3606275.html	2871

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李强		1		全国		https://www.neea.edu.cn/html1/folder/22031/3306-1.htm	党委书记、院长		教育部教育考试院		1886
+张为舟		2		全国		https://www.neea.edu.cn/html1/folder/22031/3306-1.htm	副院长		教育部教育考试院		1886
+蔺为民		3		全国		https://www.neea.edu.cn/html1/folder/22031/3306-1.htm	副院长		教育部教育考试院		1886
+高升		4		全国		https://www.neea.edu.cn/html1/folder/22031/3306-1.htm	副院长		教育部教育考试院		1886
+卢波辉		5		全国		https://www.neea.edu.cn/html1/folder/22031/3306-1.htm	党委副书记		教育部教育考试院		1886
+蔡武越		6		全国		https://www.neea.edu.cn/html1/folder/22031/3306-1.htm	副院长		教育部教育考试院		1886
+平伟		7		全国		https://www.neea.edu.cn/html1/folder/22031/3306-1.htm	党委副书记、纪委书记		教育部教育考试院		1886

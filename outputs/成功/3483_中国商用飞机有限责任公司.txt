@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+贺东风		1		全国		http://www.comac.cc/gywm/gsld/	董事长、党委书记		中国商用飞机有限责任公司	http://www.comac.cc/gywm/gsld/201801/31/t20180131_6132558.shtml	3483
+沈波		2		全国		http://www.comac.cc/gywm/gsld/	副董事长、总经理、党委副书记		中国商用飞机有限责任公司	http://www.comac.cc/gywm/gsld/202304/25/t20230425_7361024.shtml	3483
+罗晓		3		全国		http://www.comac.cc/gywm/gsld/	党委副书记、董事		中国商用飞机有限责任公司	http://www.comac.cc/gywm/gsld/202501/20/t20250120_7400808.shtml	3483
+戚学锋		4		全国		http://www.comac.cc/gywm/gsld/	党委常委、副总经理		中国商用飞机有限责任公司	http://www.comac.cc/gywm/gsld/202310/09/t20231009_7370763.shtml	3483
+于世海		5		全国		http://www.comac.cc/gywm/gsld/	党委常委、总会计师		中国商用飞机有限责任公司	http://www.comac.cc/gywm/gsld/202402/05/t20240205_7378418.shtml	3483
+罗兴平		6		全国		http://www.comac.cc/gywm/gsld/	驻公司纪检监察组组长、党委常委		中国商用飞机有限责任公司	http://www.comac.cc/gywm/gsld/202404/02/t20240402_7381532.shtml	3483
+李玲		7		全国		http://www.comac.cc/gywm/gsld/	党委常委、副总经理		中国商用飞机有限责任公司	http://www.comac.cc/gywm/gsld/202407/13/t20240713_7388870.shtml	3483
+张小光		8		全国		http://www.comac.cc/gywm/gsld/	党委常委、副总经理		中国商用飞机有限责任公司	http://www.comac.cc/gywm/gsld/202503/28/t20250328_7404349.shtml	3483
+吴文生		9		全国		http://www.comac.cc/gywm/gsld/	党委常委、副总经理		中国商用飞机有限责任公司	http://www.comac.cc/gywm/gsld/202504/14/t20250414_7404385.shtml	3483

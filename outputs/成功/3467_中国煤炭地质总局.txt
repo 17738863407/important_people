@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马刚		1		全国		http://www.ccgc.cn/?mod=aboutlist&tid=160	党委副书记、局长		中国煤炭地质总局		3467
+范宝营		2		全国		http://www.ccgc.cn/?mod=aboutlist&tid=160	党委委员、副局长；首席合规官		中国煤炭地质总局		3467
+琚宜太		3		全国		http://www.ccgc.cn/?mod=aboutlist&tid=160	党委委员、副局长		中国煤炭地质总局		3467
+王彦卿		4		全国		http://www.ccgc.cn/?mod=aboutlist&tid=160	党委委员、总会计师		中国煤炭地质总局		3467
+武岳彪		5		全国		http://www.ccgc.cn/?mod=aboutlist&tid=160	党委委员、副局长		中国煤炭地质总局		3467

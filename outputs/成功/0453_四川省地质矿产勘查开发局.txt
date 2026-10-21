@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周冰		1		四川省		http://dkj.sc.gov.cn/scdkj/aboutleader/about_leader.shtml	局党委副书记、机关党委书记		四川省地质矿产勘查开发局	http://dkj.sc.gov.cn/scdkj/aboutleader/2023/5/31/9f04214fa16a4ab9b5d09c6d5acd7500.shtml	0453
+单鑫		2		四川省		http://dkj.sc.gov.cn/scdkj/aboutleader/about_leader.shtml	局党委委员、副局长		四川省地质矿产勘查开发局	http://dkj.sc.gov.cn/scdkj/aboutleader/2023/10/13/79c486961dc5413fb0cf06f29cc0dc89.shtml	0453
+谢启兴		3		四川省		http://dkj.sc.gov.cn/scdkj/aboutleader/about_leader.shtml	局党委委员、副局长		四川省地质矿产勘查开发局	http://dkj.sc.gov.cn/scdkj/aboutleader/2024/12/26/32959405c97e48dc925de4bca622f450.shtml	0453
+胡海军		4		四川省		http://dkj.sc.gov.cn/scdkj/aboutleader/about_leader.shtml	局党委委员、副局长		四川省地质矿产勘查开发局	http://dkj.sc.gov.cn/scdkj/aboutleader/2024/12/26/ea14a12558244f15a0ee21e3473e819c.shtml	0453
+屈争真		5		四川省		http://dkj.sc.gov.cn/scdkj/aboutleader/about_leader.shtml	局党委委员、副局长		四川省地质矿产勘查开发局	http://dkj.sc.gov.cn/scdkj/aboutleader/2025/7/28/a73d7bbb2af74d168ca3ff0700119cc3.shtml	0453
+冷静		6		四川省		http://dkj.sc.gov.cn/scdkj/aboutleader/about_leader.shtml	驻局纪检监察组组长、局党委委员		四川省地质矿产勘查开发局	http://dkj.sc.gov.cn/scdkj/aboutleader/2025/9/2/402c10a96b1d4c929f23db32ca0ef6c4.shtml	0453
+王锋		7		四川省		http://dkj.sc.gov.cn/scdkj/aboutleader/about_leader.shtml	二级巡视员（省管）		四川省地质矿产勘查开发局	http://dkj.sc.gov.cn/scdkj/aboutleader/2022/1/25/0878f5ad1c384e46b3ba7c8e2a143409.shtml	0453
+刘劲松		8		四川省		http://dkj.sc.gov.cn/scdkj/aboutleader/about_leader.shtml	二级巡视员（省管）		四川省地质矿产勘查开发局	http://dkj.sc.gov.cn/scdkj/aboutleader/2020/3/23/5adbf98485724519934fc1fbb5a9d323.shtml	0453
+张禹德		9		四川省		http://dkj.sc.gov.cn/scdkj/aboutleader/about_leader.shtml	二级巡视员		四川省地质矿产勘查开发局	http://dkj.sc.gov.cn/scdkj/aboutleader/2022/1/25/696cf4704d4044798be5934e8028fe5a.shtml	0453
+黄劲松		10		四川省		http://dkj.sc.gov.cn/scdkj/aboutleader/about_leader.shtml	二级巡视员		四川省地质矿产勘查开发局	http://dkj.sc.gov.cn/scdkj/aboutleader/2026/6/4/770801e5a95d4052b0f6eaa8f0d449da.shtml	0453

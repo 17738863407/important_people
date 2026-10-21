@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈鸣波		1		全国		https://www.spacechina.com/n25/n142/n152/n166/index.html	董事长；党组书记		中国航天科技集团有限公司	https://www.spacechina.com/n25/n142/n152/n166/n4058243/n4058272/index.html	3545
+周劼		2		全国		https://www.spacechina.com/n25/n142/n152/n166/index.html	董事 总经理；党组副书记		中国航天科技集团有限公司	https://www.spacechina.com/n25/n142/n152/n166/n4325594/n4325599/index.html	3545
+庞锦		3		全国		https://www.spacechina.com/n25/n142/n152/n166/index.html	董事；党组副书记		中国航天科技集团有限公司	https://www.spacechina.com/n25/n142/n152/n166/n4252705/n4252739/index.html	3545
+董云鹏		4		全国		https://www.spacechina.com/n25/n142/n152/n166/index.html	纪检监察组组长；党组成员		中国航天科技集团有限公司	https://www.spacechina.com/n25/n142/n152/n166/n4160836/n4160859/index.html	3545
+陈林		5		全国		https://www.spacechina.com/n25/n142/n152/n166/index.html	党组成员；总会计师		中国航天科技集团有限公司	https://www.spacechina.com/n25/n142/n152/n166/n4037872/n4037895/index.html	3545
+王树志		6		全国		https://www.spacechina.com/n25/n142/n152/n166/index.html	党组成员；副总经理		中国航天科技集团有限公司	https://www.spacechina.com/n25/n142/n152/n166/n4287570/n4287596/index.html	3545
+杨立军		7		全国		https://www.spacechina.com/n25/n142/n152/n166/index.html	党组成员；副总经理		中国航天科技集团有限公司	https://www.spacechina.com/n25/n142/n152/n166/n4300943/n4300948/index.html	3545
+严泽想		8		全国		https://www.spacechina.com/n25/n142/n152/n166/index.html	党组成员；副总经理		中国航天科技集团有限公司	https://www.spacechina.com/n25/n142/n152/n166/n4318066/n4318018/index.html	3545
+谢平		9		全国		https://www.spacechina.com/n25/n142/n152/n166/index.html	党组成员；副总经理		中国航天科技集团有限公司	https://www.spacechina.com/n25/n142/n152/n166/n4705321/n4705405/index.html	3545

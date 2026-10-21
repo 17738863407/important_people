@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙晓函		1		河北省		https://czt.hebei.gov.cn/zwgk/ldfg/	党组书记、厅长		河北省财政厅	http://czt.hebei.gov.cn/root17/zfxx/202607/t20260720_2399041.html	0383
+梁宝卿		2		河北省		https://czt.hebei.gov.cn/zwgk/ldfg/	党组成员、省纪委监委驻省财政厅纪检监察组组长		河北省财政厅	http://czt.hebei.gov.cn/root17/zfxx/202607/t20260720_2399040.html	0383
+武炜		3		河北省		https://czt.hebei.gov.cn/zwgk/ldfg/	党组成员、副厅长		河北省财政厅	http://czt.hebei.gov.cn/root17/zfxx/202607/t20260720_2399039.html	0383
+赵志东		4		河北省		https://czt.hebei.gov.cn/zwgk/ldfg/	党组成员、副厅长		河北省财政厅	http://czt.hebei.gov.cn/root17/zfxx/202607/t20260720_2399038.html	0383
+李明雨		5		河北省		https://czt.hebei.gov.cn/zwgk/ldfg/	党组成员、副厅长		河北省财政厅	http://czt.hebei.gov.cn/root17/zfxx/202607/t20260720_2399037.html	0383
+刘沉达		6		河北省		https://czt.hebei.gov.cn/zwgk/ldfg/	党组成员、副厅长		河北省财政厅	http://czt.hebei.gov.cn/root17/zfxx/202607/t20260720_2399036.html	0383

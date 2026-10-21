@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王昆		1		全国		https://www.cnis.ac.cn/wap/dh/gkdh/xrld_2252/	党委书记、院长		中国标准化研究院		4019
+李治平		2		全国		https://www.cnis.ac.cn/wap/dh/gkdh/xrld_2252/	党委委员、副院长		中国标准化研究院		4019
+代林虎		3		全国		https://www.cnis.ac.cn/wap/dh/gkdh/xrld_2252/	党委副书记兼纪委书记		中国标准化研究院		4019
+戴新华		4		全国		https://www.cnis.ac.cn/wap/dh/gkdh/xrld_2252/	党委委员、副院长		中国标准化研究院		4019
+卢丽丽		5		全国		https://www.cnis.ac.cn/wap/dh/gkdh/xrld_2252/	党委委员、副院长		中国标准化研究院		4019
+陈伟亮		6		全国		https://www.cnis.ac.cn/wap/dh/gkdh/xrld_2252/	副院长		中国标准化研究院		4019

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王华		1		贵州省		https://jdglj.guizhou.gov.cn/zwgk/	贵州省司法厅党委委员，贵州省戒毒管理局党委书记、局长		贵州省戒毒管理局	https://jdglj.guizhou.gov.cn/zwgk/ldzc_5978035/202503/t20250317_87185189.html	1104
+李海		2		贵州省		https://jdglj.guizhou.gov.cn/zwgk/	贵州省戒毒管理局党委副书记、政委		贵州省戒毒管理局	https://jdglj.guizhou.gov.cn/zwgk/ldzc_5978035/202503/t20250317_87185187.html	1104
+陈静		3		贵州省		https://jdglj.guizhou.gov.cn/zwgk/	贵州省戒毒管理局党委委员、副局长		贵州省戒毒管理局	https://jdglj.guizhou.gov.cn/zwgk/ldzc_5978035/202503/t20250317_87185186.html	1104
+冯建军		4		贵州省		https://jdglj.guizhou.gov.cn/zwgk/	贵州省戒毒管理局党委委员、副局长		贵州省戒毒管理局	https://jdglj.guizhou.gov.cn/zwgk/ldzc_5978035/202503/t20250317_87185185.html	1104
+林红梅		5		贵州省		https://jdglj.guizhou.gov.cn/zwgk/	贵州省戒毒管理局党委委员、政治部主任		贵州省戒毒管理局	https://jdglj.guizhou.gov.cn/zwgk/ldzc_5978035/202503/t20250317_87185184.html	1104

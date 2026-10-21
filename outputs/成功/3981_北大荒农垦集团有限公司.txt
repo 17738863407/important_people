@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王兆成		1		全国		https://www.chinabdh.com/ManagementTeam.html	北大荒农垦集团有限公司党委书记、董事长		北大荒农垦集团有限公司		3981
+陈有方		2		全国		https://www.chinabdh.com/ManagementTeam.html	北大荒农垦集团有限公司党委副书记、副董事长、总经理		北大荒农垦集团有限公司		3981
+姜庆海		3		全国		https://www.chinabdh.com/ManagementTeam.html	北大荒农垦集团有限公司党委副书记、工会主席		北大荒农垦集团有限公司		3981
+姜化峰		4		全国		https://www.chinabdh.com/ManagementTeam.html	省纪委监委驻北大荒农垦集团有限公司纪检监察组组长、北大荒农垦集团有限公司党委委员		北大荒农垦集团有限公司		3981
+任淑兰		5		全国		https://www.chinabdh.com/ManagementTeam.html	北大荒农垦集团有限公司党委委员、副总经理		北大荒农垦集团有限公司		3981
+于秉坤		6		全国		https://www.chinabdh.com/ManagementTeam.html	北大荒农垦集团有限公司党委委员、副总经理		北大荒农垦集团有限公司		3981
+孙宏亮		7		全国		https://www.chinabdh.com/ManagementTeam.html	北大荒农垦集团有限公司党委委员、副总经理		北大荒农垦集团有限公司		3981
+苗立强		8		全国		https://www.chinabdh.com/ManagementTeam.html	北大荒农垦集团有限公司党委委员、副总经理		北大荒农垦集团有限公司		3981
+岳远林		9		全国		https://www.chinabdh.com/ManagementTeam.html	北大荒农垦集团有限公司党委委员、副总经理		北大荒农垦集团有限公司		3981

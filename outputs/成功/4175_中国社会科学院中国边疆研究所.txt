@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙宏年		1		全国		http://bjs.cssn.cn/bj_bsgk/leader/now_leader/	党委书记		中国社会科学院中国边疆研究所		4175
+范恩实		2		全国		http://bjs.cssn.cn/bj_bsgk/leader/now_leader/	副所长（主持所务工作）		中国社会科学院中国边疆研究所		4175
+吕文利		3		全国		http://bjs.cssn.cn/bj_bsgk/leader/now_leader/	纪委书记、副所长		中国社会科学院中国边疆研究所		4175
+戴洪伟		4		全国		http://bjs.cssn.cn/bj_bsgk/leader/now_leader/	副所长		中国社会科学院中国边疆研究所		4175

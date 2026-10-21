@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+肖玮		1		全国		https://www.spp.gov.cn/spp/gjyjg/nsjg/202512/t20251215_404098.shtml	副主任		最高人民检察院政治部		3569
+周玉庆		2		全国		https://www.spp.gov.cn/spp/gjyjg/nsjg/202512/t20251215_404098.shtml	副主任		最高人民检察院政治部		3569
+张旭		3		全国		https://www.spp.gov.cn/spp/gjyjg/nsjg/202512/t20251215_404098.shtml	干部一部部长		最高人民检察院政治部		3569
+丁旭涛		4		全国		https://www.spp.gov.cn/spp/gjyjg/nsjg/202512/t20251215_404098.shtml	干部二部部长		最高人民检察院政治部		3569
+白兵利		5		全国		https://www.spp.gov.cn/spp/gjyjg/nsjg/202512/t20251215_404098.shtml	宣传教育培训部部长		最高人民检察院政治部		3569
+陈婧		6		全国		https://www.spp.gov.cn/spp/gjyjg/nsjg/202512/t20251215_404098.shtml	队伍建设指导部部长		最高人民检察院政治部		3569

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+车东育		1		辽宁省	沈阳市	https://gzw.shenyang.gov.cn/xxgk/fdzdgknr/jgjj/	沈阳市人民政府国有资产监督管理委员会党委书记、主任		沈阳市人民政府国有资产监督管理委员会	https://gzw.shenyang.gov.cn/xxgk/fdzdgknr/jgjj/bmld/202308/t20230802_4506672.html	0850
+宁兴华		2		辽宁省	沈阳市	https://gzw.shenyang.gov.cn/xxgk/fdzdgknr/jgjj/	沈阳市人民政府国有资产监督管理委员会党委委员、副主任		沈阳市人民政府国有资产监督管理委员会	https://gzw.shenyang.gov.cn/xxgk/fdzdgknr/jgjj/bmld/202601/t20260115_4970826.html	0850
+邹军		3		辽宁省	沈阳市	https://gzw.shenyang.gov.cn/xxgk/fdzdgknr/jgjj/	沈阳市人民政府国有资产监督管理委员会党委委员、副主任		沈阳市人民政府国有资产监督管理委员会	https://gzw.shenyang.gov.cn/xxgk/fdzdgknr/jgjj/bmld/202206/t20220621_3329263.html	0850
+张蓬		4		辽宁省	沈阳市	https://gzw.shenyang.gov.cn/xxgk/fdzdgknr/jgjj/	沈阳市人民政府国有资产监督管理委员会 党委委员、 副主任		沈阳市人民政府国有资产监督管理委员会	https://gzw.shenyang.gov.cn/xxgk/fdzdgknr/jgjj/bmld/202603/t20260304_4994982.html	0850
+李乐		5		辽宁省	沈阳市	https://gzw.shenyang.gov.cn/xxgk/fdzdgknr/jgjj/	沈阳市人民政府国有资产监督管理委员会 党委委员、 副主任		沈阳市人民政府国有资产监督管理委员会	https://gzw.shenyang.gov.cn/xxgk/fdzdgknr/jgjj/bmld/202408/t20240829_4723714.html	0850
+王琳琳		6		辽宁省	沈阳市	https://gzw.shenyang.gov.cn/xxgk/fdzdgknr/jgjj/	沈阳市人民政府国有资产监督管理委员会一级巡视员		沈阳市人民政府国有资产监督管理委员会	https://gzw.shenyang.gov.cn/xxgk/fdzdgknr/jgjj/bmld/202206/t20220621_3332223.html	0850

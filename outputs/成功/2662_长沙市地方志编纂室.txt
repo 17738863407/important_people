@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李德胜		1		湖南省	长沙市	http://szb.changsha.gov.cn/xxgk_49214/xxgkml/zzjg_49252/ldxx/	党组书记、主任		长沙市地方志编纂室	http://szb.changsha.gov.cn/xxgk_49214/xxgkml/zzjg_49252/ldxx/202308/t20230822_11198472.html	2662
+肖清平		2		湖南省	长沙市	http://szb.changsha.gov.cn/xxgk_49214/xxgkml/zzjg_49252/ldxx/	党组成员、副主任		长沙市地方志编纂室	http://szb.changsha.gov.cn/xxgk_49214/xxgkml/zzjg_49252/ldxx/202001/t20200119_6388919.html	2662
+曾牧野		3		湖南省	长沙市	http://szb.changsha.gov.cn/xxgk_49214/xxgkml/zzjg_49252/ldxx/	党组成员、副主任		长沙市地方志编纂室	http://szb.changsha.gov.cn/xxgk_49214/xxgkml/zzjg_49252/ldxx/202205/t20220510_10566512.html	2662

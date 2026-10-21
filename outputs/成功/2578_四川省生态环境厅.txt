@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+钟承林		1		四川省		https://sthjt.sc.gov.cn/sthjt/c103883/jszn.shtml	厅长		四川省生态环境厅	https://sthjt.sc.gov.cn/sthjt/c102667/newldxq.shtml	2578
+高洁		2		四川省		https://sthjt.sc.gov.cn/sthjt/c103883/jszn.shtml	副厅长		四川省生态环境厅	https://sthjt.sc.gov.cn/sthjt/c103894/newldxq.shtml	2578
+刘华太		3		四川省		https://sthjt.sc.gov.cn/sthjt/c103883/jszn.shtml	副厅长		四川省生态环境厅	https://sthjt.sc.gov.cn/sthjt/c103913/newldxq.shtml	2578
+陈秋绿		4		四川省		https://sthjt.sc.gov.cn/sthjt/c103883/jszn.shtml	机关党委书记		四川省生态环境厅	https://sthjt.sc.gov.cn/sthjt/c101249/newldxq.shtml	2578
+陈祺		5		四川省		https://sthjt.sc.gov.cn/sthjt/c103883/jszn.shtml	纪检监察组组长		四川省生态环境厅	https://sthjt.sc.gov.cn/sthjt/c251106/ldjj.shtml	2578
+刘政		6		四川省		https://sthjt.sc.gov.cn/sthjt/c103883/jszn.shtml	副厅长		四川省生态环境厅	https://sthjt.sc.gov.cn/sthjt/c260702/newldxq.shtml	2578
+罗秀兵		7		四川省		https://sthjt.sc.gov.cn/sthjt/c103883/jszn.shtml	副厅长		四川省生态环境厅	https://sthjt.sc.gov.cn/sthjt/c1039110/newldxq.shtml	2578
+雷毅		8		四川省		https://sthjt.sc.gov.cn/sthjt/c103883/jszn.shtml	一级巡视员		四川省生态环境厅	https://sthjt.sc.gov.cn/sthjt/c103896/newldxq.shtml	2578
+姚东升		9		四川省		https://sthjt.sc.gov.cn/sthjt/c103883/jszn.shtml	二级巡视员		四川省生态环境厅	https://sthjt.sc.gov.cn/sthjt/c103918/ldjj.shtml	2578
+晋钢		10		四川省		https://sthjt.sc.gov.cn/sthjt/c103883/jszn.shtml	二级巡视员		四川省生态环境厅	https://sthjt.sc.gov.cn/sthjt/c24061201/ldjj.shtml	2578
+于伟安		11		四川省		https://sthjt.sc.gov.cn/sthjt/c103883/jszn.shtml	二级巡视员		四川省生态环境厅	https://sthjt.sc.gov.cn/sthjt/ldywa/ldjj.shtml	2578
+万平		12		四川省		https://sthjt.sc.gov.cn/sthjt/c103883/jszn.shtml	二级巡视员		四川省生态环境厅	https://sthjt.sc.gov.cn/sthjt/ldwp/ldjj.shtml	2578
+陈权		13		四川省		https://sthjt.sc.gov.cn/sthjt/c103883/jszn.shtml	二级巡视员		四川省生态环境厅	https://sthjt.sc.gov.cn/sthjt/cqld/ldjj.shtml	2578
+贾利华		14		四川省		https://sthjt.sc.gov.cn/sthjt/c103883/jszn.shtml	二级巡视员		四川省生态环境厅	https://sthjt.sc.gov.cn/sthjt/c260801/ldjj.shtml	2578

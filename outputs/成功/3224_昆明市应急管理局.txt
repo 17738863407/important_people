@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张才兴		1		云南省	昆明市	https://yjj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	党委书记、局长		昆明市应急管理局	https://yjj.km.gov.cn/c/2026-04-01/4317906.shtml	3224
+刘锐钢		2		云南省	昆明市	https://yjj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	党委委员、副局长		昆明市应急管理局	https://yjj.km.gov.cn/c/2025-02-18/4852889.shtml	3224
+钱树森		3		云南省	昆明市	https://yjj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	副局长		昆明市应急管理局	https://yjj.km.gov.cn/c/2025-02-18/3837224.shtml	3224
+昂浩		4		云南省	昆明市	https://yjj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	党委委员、副局长		昆明市应急管理局	https://yjj.km.gov.cn/c/2025-02-18/3837216.shtml	3224
+李光		5		云南省	昆明市	https://yjj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	党委委员、政治部主任		昆明市应急管理局	https://yjj.km.gov.cn/c/2025-02-18/4002672.shtml	3224
+胡海霞		6		云南省	昆明市	https://yjj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	党委委员、市纪委市监委驻市应急局纪检监察组组长		昆明市应急管理局	https://yjj.km.gov.cn/c/2025-02-18/4852934.shtml	3224
+和莹		7		云南省	昆明市	https://yjj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	党委委员、副局长		昆明市应急管理局	https://yjj.km.gov.cn/c/2025-02-18/4945633.shtml	3224

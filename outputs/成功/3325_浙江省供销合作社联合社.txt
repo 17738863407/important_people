@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈利江		1		浙江省		https://www.zj.gov.cn/dctslm/zjsgxhzslhs/index.html	浙江省供销合作社联合社党委书记、理事会主任		浙江省供销合作社联合社	https://www.zj.gov.cn/art/2022/5/6/art_1229278002_125177.html	3325
+郭峻		2		浙江省		https://www.zj.gov.cn/dctslm/zjsgxhzslhs/index.html	浙江省供销合作社联合社理事会副主任、一级巡视员		浙江省供销合作社联合社	https://www.zj.gov.cn/art/2021/2/4/art_1229278002_93777.html	3325
+张建		3		浙江省		https://www.zj.gov.cn/dctslm/zjsgxhzslhs/index.html	浙江省供销合作社联合社党委委员、理事会副主任、直属机关党委书记、一级巡视员		浙江省供销合作社联合社	https://www.zj.gov.cn/art/2020/9/2/art_1229278002_42299.html	3325
+沈省文		4		浙江省		https://www.zj.gov.cn/dctslm/zjsgxhzslhs/index.html	浙江省供销合作社联合社党委委员、理事会副主任		浙江省供销合作社联合社	https://www.zj.gov.cn/art/2020/9/2/art_1229278002_42297.html	3325
+朱磊		5		浙江省		https://www.zj.gov.cn/dctslm/zjsgxhzslhs/index.html	浙江省供销合作社联合社党委委员、监事会主任、一级巡视员		浙江省供销合作社联合社	https://www.zj.gov.cn/col/col1229278002/art/2026/art_f2e9be32fdcd0c022186c932022b489b.html	3325
+裴文良		6		浙江省		https://www.zj.gov.cn/dctslm/zjsgxhzslhs/index.html	省纪委省监委驻省供销社纪检监察组组长、党委委员		浙江省供销合作社联合社	https://www.zj.gov.cn/col/col1229278002/art/2026/art_cf1e7f9ef3821e14848f3453c15b826f.html	3325
+董益彪		7		浙江省		https://www.zj.gov.cn/dctslm/zjsgxhzslhs/index.html	浙江省供销合作社联合社党委委员、理事会副主任		浙江省供销合作社联合社	https://www.zj.gov.cn/art/2024/3/14/art_1229278002_158035.html	3325
+孙鲁东		8		浙江省		https://www.zj.gov.cn/dctslm/zjsgxhzslhs/index.html	浙江省供销合作社联合社党委委员、人事教育处处长、二级巡视员		浙江省供销合作社联合社	https://www.zj.gov.cn/art/2020/9/2/art_1229278002_42295.html	3325

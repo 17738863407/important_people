@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵宏伟		1		江苏省	徐州市	https://www.cumt.edu.cn/xxgk/xrld.htm	党委书记		中国矿业大学	https://www.cumt.edu.cn/info/1298/70879.htm	3643
+李江涛		2		江苏省	徐州市	https://www.cumt.edu.cn/xxgk/xrld.htm	党委副书记		中国矿业大学	https://www.cumt.edu.cn/info/1299/70841.htm	3643
+田丰		3		江苏省	徐州市	https://www.cumt.edu.cn/xxgk/xrld.htm	党委副书记；纪委书记		中国矿业大学	https://www.cumt.edu.cn/info/1300/70844.htm	3643
+祁慧勇		4		江苏省	徐州市	https://www.cumt.edu.cn/xxgk/xrld.htm	党委副书记		中国矿业大学	https://www.cumt.edu.cn/info/1299/70843.htm	3643
+张吉雄		5		江苏省	徐州市	https://www.cumt.edu.cn/xxgk/xrld.htm	校长、党委副书记		中国矿业大学	https://www.cumt.edu.cn/info/1301/70845.htm	3643
+叶继红		6		江苏省	徐州市	https://www.cumt.edu.cn/xxgk/xrld.htm	副校长		中国矿业大学	https://www.cumt.edu.cn/info/1302/70847.htm	3643
+黄军利		7		江苏省	徐州市	https://www.cumt.edu.cn/xxgk/xrld.htm	副校长		中国矿业大学	https://www.cumt.edu.cn/info/1302/70848.htm	3643
+王忠宾		8		江苏省	徐州市	https://www.cumt.edu.cn/xxgk/xrld.htm	副校长		中国矿业大学	https://www.cumt.edu.cn/info/1302/70849.htm	3643
+秦波涛		9		江苏省	徐州市	https://www.cumt.edu.cn/xxgk/xrld.htm	副校长		中国矿业大学	https://www.cumt.edu.cn/info/1302/70850.htm	3643
+段晨龙		10		江苏省	徐州市	https://www.cumt.edu.cn/xxgk/xrld.htm	副校长		中国矿业大学	https://www.cumt.edu.cn/info/1302/70851.htm	3643

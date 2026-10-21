@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈文胜		1		广西壮族自治区	南宁市	http://ny.nanning.gov.cn/xxgk/jggk/fzrxx/t6224267.html	南宁市农业农村局党组书记、副局长、一级调研员		南宁市农业农村局		2013
+王冬梅		2		广西壮族自治区	南宁市	http://ny.nanning.gov.cn/xxgk/jggk/fzrxx/t6224267.html	南宁市农业农村局局长，九三学社南宁市委员会主任委员		南宁市农业农村局		2013
+潘耿华		3		广西壮族自治区	南宁市	http://ny.nanning.gov.cn/xxgk/jggk/fzrxx/t6224267.html	南宁市农业农村局副局长（正处长级）、党组成员		南宁市农业农村局		2013
+何史年		4		广西壮族自治区	南宁市	http://ny.nanning.gov.cn/xxgk/jggk/fzrxx/t6224267.html	南宁市农业农村局副局长、二级调研员、党组成员		南宁市农业农村局		2013
+欧桂兰		5		广西壮族自治区	南宁市	http://ny.nanning.gov.cn/xxgk/jggk/fzrxx/t6224267.html	南宁市农业农村局总农艺师、二级调研员、党组成员，南宁市科协副主席		南宁市农业农村局		2013
+张超		6		广西壮族自治区	南宁市	http://ny.nanning.gov.cn/xxgk/jggk/fzrxx/t6224267.html	南宁市农业农村局副局长、党组成员，中共南宁市委农村工作领导小组办公室副主任		南宁市农业农村局		2013
+韦振周		7		广西壮族自治区	南宁市	http://ny.nanning.gov.cn/xxgk/jggk/fzrxx/t6224267.html	南宁市农业农村局副局长、党组成员		南宁市农业农村局		2013

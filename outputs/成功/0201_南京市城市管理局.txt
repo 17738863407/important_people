@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+宋建		1		江苏省	南京市	https://cgj.nanjing.gov.cn/njscsglj/?id=xxgk_215	南京市城市管理局党组书记、局长		南京市城市管理局		0201
+任雪梅		2		江苏省	南京市	https://cgj.nanjing.gov.cn/njscsglj/?id=xxgk_215	南京市城市管理局党组成员、市城市管理综合行政执法监督局党委书记		南京市城市管理局		0201
+杨超		3		江苏省	南京市	https://cgj.nanjing.gov.cn/njscsglj/?id=xxgk_215	南京市城市管理局党组成员、副局长		南京市城市管理局		0201
+王竞宇		4		江苏省	南京市	https://cgj.nanjing.gov.cn/njscsglj/?id=xxgk_215	南京市城市管理局党组成员、副局长		南京市城市管理局		0201
+吴刚		5		江苏省	南京市	https://cgj.nanjing.gov.cn/njscsglj/?id=xxgk_215	南京市城市管理局党组成员、市城市管理综合行政执法监督局局长		南京市城市管理局		0201
+靳楠		6		江苏省	南京市	https://cgj.nanjing.gov.cn/njscsglj/?id=xxgk_215	南京市城市管理局二级巡视员		南京市城市管理局		0201
+薛汝军		7		江苏省	南京市	https://cgj.nanjing.gov.cn/njscsglj/?id=xxgk_215	南京市城市管理局一级调研员		南京市城市管理局		0201
+邱强		8		江苏省	南京市	https://cgj.nanjing.gov.cn/njscsglj/?id=xxgk_215	南京市城市管理局一级调研员		南京市城市管理局		0201
+王文华		9		江苏省	南京市	https://cgj.nanjing.gov.cn/njscsglj/?id=xxgk_215	南京市城市管理局一级调研员		南京市城市管理局		0201

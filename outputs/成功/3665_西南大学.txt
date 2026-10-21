@@ -1,0 +1,16 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王进军		1		重庆市		https://www.swu.edu.cn/xxgk/xrld.htm	党委书记；党委常委		西南大学	https://www.swu.edu.cn/info/1337/28538.htm	3665
+辛贤		2		重庆市		https://www.swu.edu.cn/xxgk/xrld.htm	党委副书记；校长；党委常委		西南大学	https://www.swu.edu.cn/info/1337/28543.htm	3665
+黄杰		3		重庆市		https://www.swu.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		西南大学	https://www.swu.edu.cn/info/1337/28540.htm	3665
+嵇绍岭		4		重庆市		https://www.swu.edu.cn/xxgk/xrld.htm	党委副书记；纪委书记；党委常委		西南大学	https://www.swu.edu.cn/info/1337/28541.htm	3665
+武好明		5		重庆市		https://www.swu.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		西南大学	https://www.swu.edu.cn/info/1337/28537.htm	3665
+葛信勇		6		重庆市		https://www.swu.edu.cn/xxgk/xrld.htm	副校长；党委常委		西南大学	https://www.swu.edu.cn/info/1337/28535.htm	3665
+赵玉芳		7		重庆市		https://www.swu.edu.cn/xxgk/xrld.htm	副校长		西南大学	https://www.swu.edu.cn/info/1337/28534.htm	3665
+邹芙都		8		重庆市		https://www.swu.edu.cn/xxgk/xrld.htm	副校长；党委常委		西南大学	https://www.swu.edu.cn/info/1337/28533.htm	3665
+白显良		9		重庆市		https://www.swu.edu.cn/xxgk/xrld.htm	副校长；党委常委		西南大学	https://www.swu.edu.cn/info/1337/28532.htm	3665
+范大明		10		重庆市		https://www.swu.edu.cn/xxgk/xrld.htm	副校长；党委常委		西南大学	https://www.swu.edu.cn/info/1337/28531.htm	3665
+邱江		11		重庆市		https://www.swu.edu.cn/xxgk/xrld.htm	副校长；党委常委		西南大学	https://www.swu.edu.cn/info/1337/28530.htm	3665
+廖晓衡		12		重庆市		https://www.swu.edu.cn/xxgk/xrld.htm	副校长；党委常委		西南大学	https://www.swu.edu.cn/info/1337/28529.htm	3665
+曾庆洪		13		重庆市		https://www.swu.edu.cn/xxgk/xrld.htm	党委常委		西南大学		3665
+孙楚航		14		重庆市		https://www.swu.edu.cn/xxgk/xrld.htm	党委常委		西南大学		3665
+靳拥军		15		重庆市		https://www.swu.edu.cn/xxgk/xrld.htm	校长助理		西南大学		3665

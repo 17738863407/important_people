@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈国煌		1		广东省		https://czt.gd.gov.cn/gkmlpt/content/4/4830/post_4830904.html#3523	广东省财政厅党组书记、厅长		广东省财政厅		0380
+张如旭		2		广东省		https://czt.gd.gov.cn/gkmlpt/content/4/4830/post_4830904.html#3523	广东省财政厅党组成员、省纪委监委驻省财政厅纪检监察组组长		广东省财政厅		0380
+胡建斌		3		广东省		https://czt.gd.gov.cn/gkmlpt/content/4/4830/post_4830904.html#3523	广东省财政厅党组成员、副厅长		广东省财政厅		0380
+曾煜		4		广东省		https://czt.gd.gov.cn/gkmlpt/content/4/4830/post_4830904.html#3523	广东省财政厅党组成员、副厅长		广东省财政厅		0380
+琳琳		5		广东省		https://czt.gd.gov.cn/gkmlpt/content/4/4830/post_4830904.html#3523	广东省财政厅党组成员、副厅长		广东省财政厅		0380
+饶歆俊		6		广东省		https://czt.gd.gov.cn/gkmlpt/content/4/4830/post_4830904.html#3523	广东省注册会计师行业党委专职副书记（副厅级）		广东省财政厅		0380

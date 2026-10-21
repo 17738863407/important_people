@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵一德		1		全国		http://district.ce.cn/zt/rwk/sf/sn/index.shtml	省委书记，省人大常委会主任		陕西省委	http://district.ce.cn/newarea/sddy/202301/17/t20230117_38351507.shtml	0439
+赵刚		2		全国		http://district.ce.cn/zt/rwk/sf/sn/index.shtml	省委副书记、省长		陕西省委	http://district.ce.cn/newarea/sddy/202301/17/t20230117_38351555.shtml	0439
+邢善萍		3		全国		http://district.ce.cn/zt/rwk/sf/sn/index.shtml	省委副书记		陕西省委	http://district.ce.cn/newarea/sddy/202405/28/t20240528_39018765.shtml	0439
+王晓		4		全国		http://district.ce.cn/zt/rwk/sf/sn/index.shtml	省委常委，副省长、省政府党组副书记		陕西省委	http://district.ce.cn/newarea/sddy/202301/17/t20230117_38351555_1.shtml	0439
+王兴宁		5		全国		http://district.ce.cn/zt/rwk/sf/sn/index.shtml	省委常委、省纪委书记，省监委主任		陕西省委	http://district.ce.cn/newarea/sddy/202301/17/t20230117_38351500.shtml	0439
+孙大光		6		全国		http://district.ce.cn/zt/rwk/sf/sn/index.shtml	省委常委、省委宣传部部长		陕西省委	http://district.ce.cn/newarea/sddy/202303/16/t20230316_38446621.shtml	0439
+蒿慧杰		7		全国		http://district.ce.cn/zt/rwk/sf/sn/index.shtml	省委常委、西安市委书记		陕西省委	http://district.ce.cn/newarea/sddy/202601/t20260116_2707497.shtml	0439
+张伟		8		全国		http://district.ce.cn/zt/rwk/sf/sn/index.shtml	省委常委、省委组织部部长		陕西省委	http://district.ce.cn/newarea/sddy/202510/t20251028_2543870.shtml	0439
+唐书海		9		全国		http://district.ce.cn/zt/rwk/sf/sn/index.shtml	省委常委、省军区政治委员		陕西省委	http://district.ce.cn/newarea/sddy/202405/06/t20240506_38992923.shtml	0439
+王海鹏		10		全国		http://district.ce.cn/zt/rwk/sf/sn/index.shtml	省委常委、延安市委书记		陕西省委	http://district.ce.cn/newarea/sddy/202603/t20260317_2833303.shtml	0439
+李钧		11		全国		http://district.ce.cn/zt/rwk/sf/sn/index.shtml	省委常委、省委秘书长		陕西省委	http://district.ce.cn/newarea/sddy/202606/t20260609_3019521.shtml	0439

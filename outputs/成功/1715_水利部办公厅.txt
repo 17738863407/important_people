@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+唐亮		1		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	主任		水利部办公厅		1715
+李训喜		2		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	一级巡视员（正司级）		水利部办公厅		1715
+李晓琳		3		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	一级巡视员		水利部办公厅		1715
+王鑫		4		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副主任		水利部办公厅		1715
+王凯		5		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副主任		水利部办公厅		1715
+刁莉莉		6		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副主任		水利部办公厅		1715

@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+季辉		1		江苏省		https://nynct.jiangsu.gov.cn/col/col89438/index.html	厅长、党组书记，省委农村工作领导小组办公室主任		江苏省农业农村厅	https://nynct.jiangsu.gov.cn/art/2023/10/19/art_89438_23.html	2049
+曹丽虹		2		江苏省		https://nynct.jiangsu.gov.cn/col/col89438/index.html	副厅长		江苏省农业农村厅	https://nynct.jiangsu.gov.cn/art/2023/10/19/art_89438_25.html	2049
+卢刚		3		江苏省		https://nynct.jiangsu.gov.cn/col/col89438/index.html	副厅长、党组成员		江苏省农业农村厅	https://nynct.jiangsu.gov.cn/art/2026/8/3/art_89438_52.html	2049
+陈鹏		4		江苏省		https://nynct.jiangsu.gov.cn/col/col89438/index.html	驻厅纪检监察组组长、党组成员		江苏省农业农村厅	https://nynct.jiangsu.gov.cn/art/2023/10/19/art_89438_27.html	2049
+王玉华		5		江苏省		https://nynct.jiangsu.gov.cn/col/col89438/index.html	副厅长、党组成员		江苏省农业农村厅	https://nynct.jiangsu.gov.cn/art/2023/10/19/art_89438_30.html	2049
+何益军		6		江苏省		https://nynct.jiangsu.gov.cn/col/col89438/index.html	副厅长、党组成员		江苏省农业农村厅	https://nynct.jiangsu.gov.cn/art/2025/4/18/art_89438_50.html	2049
+邹芳刚		7		江苏省		https://nynct.jiangsu.gov.cn/col/col89438/index.html	副厅长、党组成员		江苏省农业农村厅	https://nynct.jiangsu.gov.cn/art/2025/4/18/art_89438_51.html	2049
+朱国兵		8		江苏省		https://nynct.jiangsu.gov.cn/col/col89438/index.html	一级巡视员		江苏省农业农村厅	https://nynct.jiangsu.gov.cn/art/2023/10/19/art_89438_28.html	2049
+朱新华		9		江苏省		https://nynct.jiangsu.gov.cn/col/col89438/index.html	一级巡视员		江苏省农业农村厅	https://nynct.jiangsu.gov.cn/art/2023/10/19/art_89438_24.html	2049
+傅兵		10		江苏省		https://nynct.jiangsu.gov.cn/col/col89438/index.html	二级巡视员		江苏省农业农村厅	https://nynct.jiangsu.gov.cn/art/2024/2/20/art_89438_48.html	2049
+孙卫永		11		江苏省		https://nynct.jiangsu.gov.cn/col/col89438/index.html	党组成员，人事处处长、机关党委副书记		江苏省农业农村厅	https://nynct.jiangsu.gov.cn/art/2026/8/3/art_89438_53.html	2049

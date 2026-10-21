@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵龙		1		全国		http://district.ce.cn/zt/rwk/sf/fj/index.shtml	省委书记、省长		福建省委	http://district.ce.cn/newarea/sddy/202609/t20260923_3232337.shtml	0414
+郭宁宁		2		全国		http://district.ce.cn/zt/rwk/sf/fj/index.shtml	省委副书记、福州市委书记		福建省委	http://district.ce.cn/newarea/sddy/202505/24/t20250524_39364219.shtml	0414
+张彦		3		全国		http://district.ce.cn/zt/rwk/sf/fj/index.shtml	省委常委、宣传部部长		福建省委	http://district.ce.cn/newarea/sddy/202111/20/t20211120_37101266.shtml	0414
+吴偕林		4		全国		http://district.ce.cn/zt/rwk/sf/fj/index.shtml	省委常委、秘书长		福建省委	http://district.ce.cn/newarea/sddy/202112/03/t20211203_37139698.shtml	0414
+石好勇		5		全国		http://district.ce.cn/zt/rwk/sf/fj/index.shtml	省委常委、政法委书记		福建省委	http://district.ce.cn/newarea/sddy/202501/20/t20250120_39272239.shtml	0414
+王永礼		6		全国		http://district.ce.cn/zt/rwk/sf/fj/index.shtml	省委常委，省政府党组副书记、副省长		福建省委	http://district.ce.cn/newarea/sddy/202407/24/t20240724_39080833.shtml	0414
+苗延红		7		全国		http://district.ce.cn/zt/rwk/sf/fj/index.shtml	省委常委		福建省委	http://district.ce.cn/newarea/sddy/202406/28/t20240628_39053385.shtml	0414
+林涛		8		全国		http://district.ce.cn/zt/rwk/sf/fj/index.shtml	省委常委、厦门市委书记		福建省委	http://district.ce.cn/newarea/sddy/202604/t20260403_2880844.shtml	0414
+魏晓奎		9		全国		http://district.ce.cn/zt/rwk/sf/fj/index.shtml	省委常委、省纪委书记，省监委代理主任		福建省委	http://district.ce.cn/newarea/sddy/202607/t20260727_3110459.shtml	0414

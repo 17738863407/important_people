@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙炜		1		安徽省	合肥市	https://www.hfut.edu.cn/xxgk/xrld.htm	党委书记；党委常委		合肥工业大学	https://www.hfut.edu.cn/info/1150/13082.htm	3648
+汪萌		2		安徽省	合肥市	https://www.hfut.edu.cn/xxgk/xrld.htm	校长；党委副书记；党委常委		合肥工业大学	https://www.hfut.edu.cn/info/1154/10846.htm	3648
+施永红		3		安徽省	合肥市	https://www.hfut.edu.cn/xxgk/xrld.htm	党委副书记；纪委书记；党委常委		合肥工业大学	https://www.hfut.edu.cn/info/1151/10651.htm	3648
+严福平		4		安徽省	合肥市	https://www.hfut.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		合肥工业大学	https://www.hfut.edu.cn/info/1151/10652.htm	3648
+胡笑旋		5		安徽省	合肥市	https://www.hfut.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		合肥工业大学	https://www.hfut.edu.cn/info/1151/10653.htm	3648
+丁立健		6		安徽省	合肥市	https://www.hfut.edu.cn/xxgk/xrld.htm	副校长		合肥工业大学	https://www.hfut.edu.cn/info/1155/10665.htm	3648
+康宇		7		安徽省	合肥市	https://www.hfut.edu.cn/xxgk/xrld.htm	副校长；党委常委		合肥工业大学	https://www.hfut.edu.cn/info/1155/10669.htm	3648
+徐宝才		8		安徽省	合肥市	https://www.hfut.edu.cn/xxgk/xrld.htm	副校长；党委常委		合肥工业大学	https://www.hfut.edu.cn/info/1155/11517.htm	3648
+洪日昌		9		安徽省	合肥市	https://www.hfut.edu.cn/xxgk/xrld.htm	副校长；党委常委		合肥工业大学	https://www.hfut.edu.cn/info/1155/11516.htm	3648
+于长伟		10		安徽省	合肥市	https://www.hfut.edu.cn/xxgk/xrld.htm	校长助理		合肥工业大学		3648

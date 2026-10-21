@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐家新		1		吉林省		http://jlfy.e-court.gov.cn/article/index/id/MzBKMTAwMTAwMiACAAA.shtml	吉林省高级人民法院党组书记、院长		吉林省高级人民法院	http://jlfy.e-court.gov.cn/article/detail/2017/01/id/2536064.shtml	4546
+许柏峰		2		吉林省		http://jlfy.e-court.gov.cn/article/index/id/MzBKMTAwMTAwMiACAAA.shtml	吉林省高级人民法院党组副书记、常务副院长		吉林省高级人民法院	http://jlfy.e-court.gov.cn/article/detail/2022/04/id/6661915.shtml	4546
+赵东巍		3		吉林省		http://jlfy.e-court.gov.cn/article/index/id/MzBKMTAwMTAwMiACAAA.shtml	吉林省高级人民法院党组成员、副院长		吉林省高级人民法院	http://jlfy.e-court.gov.cn/article/detail/2015/12/id/1767889.shtml	4546
+周文君		4		吉林省		http://jlfy.e-court.gov.cn/article/index/id/MzBKMTAwMTAwMiACAAA.shtml	吉林省高级人民法院党组成员、副院长		吉林省高级人民法院	http://jlfy.e-court.gov.cn/article/detail/2021/01/id/5738013.shtml	4546
+宫斌		5		吉林省		http://jlfy.e-court.gov.cn/article/index/id/MzBKMTAwMTAwMiACAAA.shtml	吉林省高级人民法院党组成员、副院长		吉林省高级人民法院	http://jlfy.e-court.gov.cn/article/detail/2022/10/id/6946931.shtml	4546
+李永秋		6		吉林省		http://jlfy.e-court.gov.cn/article/index/id/MzBKMTAwMTAwMiACAAA.shtml	吉林省高级人民法院副院长		吉林省高级人民法院	http://jlfy.e-court.gov.cn/article/detail/2023/04/id/7268396.shtml	4546
+吕全		7		吉林省		http://jlfy.e-court.gov.cn/article/index/id/MzBKMTAwMTAwMiACAAA.shtml	吉林省高级人民法院党组成员、政治部主任		吉林省高级人民法院	http://jlfy.e-court.gov.cn/article/detail/2022/01/id/6469073.shtml	4546
+刘立宝		8		吉林省		http://jlfy.e-court.gov.cn/article/index/id/MzBKMTAwMTAwMiACAAA.shtml	吉林省高级人民法院党组成员、省纪委监委驻省法院纪检监察组组长		吉林省高级人民法院	http://jlfy.e-court.gov.cn/article/detail/2025/12/id/9115412.shtml	4546
+任继强		9		吉林省		http://jlfy.e-court.gov.cn/article/index/id/MzBKMTAwMTAwMiACAAA.shtml	吉林省高级人民法院执行局局长		吉林省高级人民法院	http://jlfy.e-court.gov.cn/article/detail/2025/03/id/8728609.shtml	4546
+苏明伟		10		吉林省		http://jlfy.e-court.gov.cn/article/index/id/MzBKMTAwMTAwMiACAAA.shtml	吉林省高级人民法院专职审判委员会委员		吉林省高级人民法院	http://jlfy.e-court.gov.cn/article/detail/2025/03/id/8728623.shtml	4546
+郑万和		11		吉林省		http://jlfy.e-court.gov.cn/article/index/id/MzBKMTAwMTAwMiACAAA.shtml	吉林省高级人民法院专职审判委员会委员		吉林省高级人民法院	http://jlfy.e-court.gov.cn/article/detail/2023/05/id/7285148.shtml	4546
+温淑敏		12		吉林省		http://jlfy.e-court.gov.cn/article/index/id/MzBKMTAwMTAwMiACAAA.shtml	吉林省高级人民法院专职审判委员会委员		吉林省高级人民法院	http://jlfy.e-court.gov.cn/article/detail/2025/03/id/8728461.shtml	4546
+张天骥		13		吉林省		http://jlfy.e-court.gov.cn/article/index/id/MzBKMTAwMTAwMiACAAA.shtml	吉林省法官培训学院院长		吉林省高级人民法院	http://jlfy.e-court.gov.cn/article/detail/2026/07/id/9402396.shtml	4546

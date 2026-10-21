@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈敏尔		1		全国		http://district.ce.cn/zt/rwk/sf/tj/index.shtml	市委书记		天津市委		0442
+张工		2		全国		http://district.ce.cn/zt/rwk/sf/tj/index.shtml	市委副书记、市长		天津市委		0442
+连茂君		3		全国		http://district.ce.cn/zt/rwk/sf/tj/index.shtml	市委常委，滨海新区区委书记		天津市委		0442
+王庭凯		4		全国		http://district.ce.cn/zt/rwk/sf/tj/index.shtml	市委常委、纪委书记，监委主任		天津市委		0442
+王旭		5		全国		http://district.ce.cn/zt/rwk/sf/tj/index.shtml	市委常委、常务副市长		天津市委		0442
+郭永红		6		全国		http://district.ce.cn/zt/rwk/sf/tj/index.shtml	市委常委、组织部部长		天津市委		0442
+沈蕾		7		全国		http://district.ce.cn/zt/rwk/sf/tj/index.shtml	市委常委、宣传部部长		天津市委		0442
+王力军		8		全国		http://district.ce.cn/zt/rwk/sf/tj/index.shtml	市委常委、秘书长		天津市委		0442
+衡晓帆		9		全国		http://district.ce.cn/zt/rwk/sf/tj/index.shtml	市委常委、政法委书记		天津市委		0442
+张玲		10		全国		http://district.ce.cn/zt/rwk/sf/tj/index.shtml	市委常委、统战部部长		天津市委		0442
+谢元		11		全国		http://district.ce.cn/zt/rwk/sf/tj/index.shtml	市委常委、市委教育工委书记		天津市委		0442
+白忠斌		12		全国		http://district.ce.cn/zt/rwk/sf/tj/index.shtml	市委常委，天津警备区司令员		天津市委		0442

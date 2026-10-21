@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘国周		1		广东省		http://gdga.gd.gov.cn/gkmlpt/index#1062	广东省政府副省长、党组成员，省公安厅党委书记、厅长、督察长，省委政法委第一副书记		广东省公安厅	https://gdga.gd.gov.cn/gkmlpt/content/4/4323/post_4323460.html	0676
+郭向阳		2		广东省		http://gdga.gd.gov.cn/gkmlpt/index#1062	广东省公安厅党委副书记、副厅长（分管日常工作、正厅级）		广东省公安厅	https://gdga.gd.gov.cn/gkmlpt/content/4/4955/post_4955859.html	0676
+汤波		3		广东省		http://gdga.gd.gov.cn/gkmlpt/index#1062	广东省公安厅党委委员，厅特勤局党委书记、局长		广东省公安厅	https://gdga.gd.gov.cn/gkmlpt/content/3/3054/post_3054156.html	0676
+邝元章		4		广东省		http://gdga.gd.gov.cn/gkmlpt/index#1062	广东省公安厅党委委员、省纪委监委驻省公安厅纪检监察组组长、一级巡视员、一级高级监察官		广东省公安厅	https://gdga.gd.gov.cn/gkmlpt/content/4/4637/post_4637867.html	0676
+梁瑞国		5		广东省		http://gdga.gd.gov.cn/gkmlpt/index#1062	广东省公安厅党委委员、副厅长		广东省公安厅	https://gdga.gd.gov.cn/gkmlpt/content/4/4001/post_4001198.html	0676
+石磊		6		广东省		http://gdga.gd.gov.cn/gkmlpt/index#1062	广东省公安厅党委委员、副厅长		广东省公安厅	https://gdga.gd.gov.cn/gkmlpt/content/4/4652/post_4652123.html	0676

@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黎家远		1		四川省		http://czt.sc.gov.cn/scczt/c102351/zfxxgk_jgjj.shtml	财政厅党组书记、厅长		四川省财政厅	http://czt.sc.gov.cn/scczt/c102354/2025/5/29/afbcc5475c36420e96142d02a0d9d50c.shtml	0394
+李文双		2		四川省		http://czt.sc.gov.cn/scczt/c102351/zfxxgk_jgjj.shtml	财政厅党组成员、副厅长		四川省财政厅	http://czt.sc.gov.cn/scczt/c102354/2026/6/16/a6d30011435a405fae4163356d3bd2ed.shtml	0394
+帅旭		3		四川省		http://czt.sc.gov.cn/scczt/c102351/zfxxgk_jgjj.shtml	财政厅党组成员、副厅长		四川省财政厅	http://czt.sc.gov.cn/scczt/c102354/2025/9/15/e273a11577ba4db8ab5a251ccb2ee0b3.shtml	0394
+陈诚		4		四川省		http://czt.sc.gov.cn/scczt/c102351/zfxxgk_jgjj.shtml	财政厅党组成员、副厅长，机关党委书记		四川省财政厅	http://czt.sc.gov.cn/scczt/c102354/2026/1/30/8793aa54942946dea461c520c167bf98.shtml	0394
+徐晓驰		5		四川省		http://czt.sc.gov.cn/scczt/c102351/zfxxgk_jgjj.shtml	财政厅党组成员、副厅长		四川省财政厅	http://czt.sc.gov.cn/scczt/c102354/2025/6/6/55330c8dffb441289b171583582cb6a0.shtml	0394
+张从云		6		四川省		http://czt.sc.gov.cn/scczt/c102351/zfxxgk_jgjj.shtml	省纪委监委驻财政厅纪检监察组组长、财政厅党组成员，二级高级监察官		四川省财政厅	http://czt.sc.gov.cn/scczt/c102354/2025/6/16/4e4fb11ed27541e59398435db6cddf4e.shtml	0394
+秦敏		7		四川省		http://czt.sc.gov.cn/scczt/c102351/zfxxgk_jgjj.shtml	财政厅一级巡视员		四川省财政厅	http://czt.sc.gov.cn/scczt/c102354/2025/12/30/a4f470ed9f324773892e969b21e74846.shtml	0394
+关民军		8		四川省		http://czt.sc.gov.cn/scczt/c102351/zfxxgk_jgjj.shtml	财政厅一级巡视员		四川省财政厅	http://czt.sc.gov.cn/scczt/c102354/2026/5/28/bf180a74ccea4f8dbfb2847aa3c794a1.shtml	0394
+刘锁民		9		四川省		http://czt.sc.gov.cn/scczt/c102351/zfxxgk_jgjj.shtml	财政厅二级巡视员		四川省财政厅	http://czt.sc.gov.cn/scczt/c102354/2022/11/14/a144800912ce493c9e715f4cc7077a23.shtml	0394
+张华		10		四川省		http://czt.sc.gov.cn/scczt/c102351/zfxxgk_jgjj.shtml	财政厅二级巡视员		四川省财政厅	http://czt.sc.gov.cn/scczt/c102354/2026/5/28/8d96da3f9ca746c48eb080330b9fafe9.shtml	0394

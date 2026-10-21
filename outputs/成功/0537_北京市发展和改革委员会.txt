@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨秀玲		1		北京市		https://fgw.beijing.gov.cn/fgwzwgk/zqxx/ldjl/	北京市发展和改革委员会党组书记、主任，北京市推进京津冀协同发展领导小组办公室主任		北京市发展和改革委员会		0537
+林剑华		2		北京市		https://fgw.beijing.gov.cn/fgwzwgk/zqxx/ldjl/	北京市发展和改革委员会党组副书记、副主任、机关党委书记		北京市发展和改革委员会		0537
+叶大华		3		北京市		https://fgw.beijing.gov.cn/fgwzwgk/zqxx/ldjl/	北京市国防动员办公室党组书记、主任，北京市人民防空办公室主任，北京市发展和改革委员会党组成员		北京市发展和改革委员会		0537
+马继业		4		北京市		https://fgw.beijing.gov.cn/fgwzwgk/zqxx/ldjl/	北京市投资促进服务中心（北京市外商投资服务中心）党组书记，北京市发展和改革委员会党组成员、副主任		北京市发展和改革委员会		0537
+来现余		5		北京市		https://fgw.beijing.gov.cn/fgwzwgk/zqxx/ldjl/	北京市发展和改革委员会党组成员，北京市推进京津冀协同发展领导小组办公室副主任（正局长级）		北京市发展和改革委员会		0537
+刘培勇		6		北京市		https://fgw.beijing.gov.cn/fgwzwgk/zqxx/ldjl/	北京市发展和改革委员会党组成员、纪检监察组组长、一级巡视员、一级高级监察官		北京市发展和改革委员会		0537
+王其志		7		北京市		https://fgw.beijing.gov.cn/fgwzwgk/zqxx/ldjl/	北京市发展和改革委员会党组成员，北京市粮食和物资储备局党组书记、局长		北京市发展和改革委员会		0537
+李晓涛		8		北京市		https://fgw.beijing.gov.cn/fgwzwgk/zqxx/ldjl/	北京市发展和改革委员会党组成员、副主任		北京市发展和改革委员会		0537
+张鑫		9		北京市		https://fgw.beijing.gov.cn/fgwzwgk/zqxx/ldjl/	北京市发展和改革委员会党组成员、副主任		北京市发展和改革委员会		0537
+周浩		10		北京市		https://fgw.beijing.gov.cn/fgwzwgk/zqxx/ldjl/	北京市发展和改革委员会党组成员，北京市推进京津冀协同发展领导小组办公室副主任（副局长级）		北京市发展和改革委员会		0537
+韩伟		11		北京市		https://fgw.beijing.gov.cn/fgwzwgk/zqxx/ldjl/	北京市发展和改革委员会党组成员、副主任		北京市发展和改革委员会		0537
+赵云龙		12		北京市		https://fgw.beijing.gov.cn/fgwzwgk/zqxx/ldjl/	北京市发展和改革委员会党组成员、副主任		北京市发展和改革委员会		0537

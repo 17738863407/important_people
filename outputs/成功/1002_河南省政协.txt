@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孔昌生		1		全国		https://www.hnzx.gov.cn/zxld/	主席、党组书记		河南省政协	https://www.hnzx.gov.cn/zxld/zxzx/kcs/	1002
+王战营		2		全国		https://www.hnzx.gov.cn/zxld/	副主席		河南省政协	https://www.hnzx.gov.cn/zxld/fzx/wzy/	1002
+谢玉安		3		全国		https://www.hnzx.gov.cn/zxld/	副主席		河南省政协	https://www.hnzx.gov.cn/zxld/fzx/xya/	1002
+霍金花		4		全国		https://www.hnzx.gov.cn/zxld/	副主席		河南省政协	https://www.hnzx.gov.cn/zxld/fzx/hjh/	1002
+张震宇		5		全国		https://www.hnzx.gov.cn/zxld/	副主席		河南省政协	https://www.hnzx.gov.cn/zxld/fzx/zzy/	1002
+朱焕然		6		全国		https://www.hnzx.gov.cn/zxld/	副主席		河南省政协	https://www.hnzx.gov.cn/zxld/fzx/zhr/	1002
+孙运锋		7		全国		https://www.hnzx.gov.cn/zxld/	副主席		河南省政协	https://www.hnzx.gov.cn/zxld/fzx/syf/	1002
+黄红霞		8		全国		https://www.hnzx.gov.cn/zxld/	副主席		河南省政协	https://www.hnzx.gov.cn/zxld/fzx/hhx/	1002
+程志明		9		全国		https://www.hnzx.gov.cn/zxld/	党组成员		河南省政协	https://www.hnzx.gov.cn/zxld/dzcy/czm/	1002
+汪中山		10		全国		https://www.hnzx.gov.cn/zxld/	秘书长		河南省政协	https://www.hnzx.gov.cn/zxld/msz/wzs/	1002

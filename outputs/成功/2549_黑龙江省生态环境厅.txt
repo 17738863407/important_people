@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘伟		1		黑龙江省		http://sthj.hlj.gov.cn/sthj/c111970/public_jgld_new.shtml	党组书记、厅长		黑龙江省生态环境厅		2549
+赵振伟		2		黑龙江省		http://sthj.hlj.gov.cn/sthj/c111970/public_jgld_new.shtml	党组成员、副厅长		黑龙江省生态环境厅		2549
+娄彦江		3		黑龙江省		http://sthj.hlj.gov.cn/sthj/c111970/public_jgld_new.shtml	党组成员、黑龙江省纪委监委驻省生态环境厅纪检监察组组长、二级高级监察官		黑龙江省生态环境厅		2549
+马云		4		黑龙江省		http://sthj.hlj.gov.cn/sthj/c111970/public_jgld_new.shtml	党组成员、副厅长		黑龙江省生态环境厅		2549
+刘士奇		5		黑龙江省		http://sthj.hlj.gov.cn/sthj/c111970/public_jgld_new.shtml	党组成员、副厅长		黑龙江省生态环境厅		2549
+卓建伍		6		黑龙江省		http://sthj.hlj.gov.cn/sthj/c111970/public_jgld_new.shtml	党组成员、副厅长		黑龙江省生态环境厅		2549
+陈威		7		黑龙江省		http://sthj.hlj.gov.cn/sthj/c111970/public_jgld_new.shtml	党组成员、副厅长		黑龙江省生态环境厅		2549
+林奇昌		8		黑龙江省		http://sthj.hlj.gov.cn/sthj/c111970/public_jgld_new.shtml	一级巡视员		黑龙江省生态环境厅		2549
+马健		9		黑龙江省		http://sthj.hlj.gov.cn/sthj/c111970/public_jgld_new.shtml	一级巡视员		黑龙江省生态环境厅		2549

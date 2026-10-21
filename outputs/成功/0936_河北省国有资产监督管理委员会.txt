@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张泽峰		1		河北省		http://hbsa.hebei.gov.cn/xxgk/GKXX?id=1561893	党委书记、主任		河北省国有资产监督管理委员会		0936
+张庆文		2		河北省		http://hbsa.hebei.gov.cn/xxgk/GKXX?id=1561893	党委委员、省纪委监委驻省国资委纪检监察组组长		河北省国有资产监督管理委员会		0936
+杨建文		3		河北省		http://hbsa.hebei.gov.cn/xxgk/GKXX?id=1561893	党委委员、副主任		河北省国有资产监督管理委员会		0936
+王文强		4		河北省		http://hbsa.hebei.gov.cn/xxgk/GKXX?id=1561893	党委委员、副主任		河北省国有资产监督管理委员会		0936
+张承东		5		河北省		http://hbsa.hebei.gov.cn/xxgk/GKXX?id=1561893	党委委员、副主任		河北省国有资产监督管理委员会		0936

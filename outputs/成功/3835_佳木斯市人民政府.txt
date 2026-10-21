@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+袁成宝		1		黑龙江省	佳木斯市	https://www.jms.gov.cn/jms/c100027/zwgk.shtml	市长		佳木斯市人民政府	https://www.jms.gov.cn/jms/c102157/szpd.shtml	3835
+马新辉		2		黑龙江省	佳木斯市	https://www.jms.gov.cn/jms/c100027/zwgk.shtml	副市长		佳木斯市人民政府	https://www.jms.gov.cn/jms/c100054/202507/c04_32882.shtml	3835
+刘海洋		3		黑龙江省	佳木斯市	https://www.jms.gov.cn/jms/c100027/zwgk.shtml	副市长		佳木斯市人民政府	https://www.jms.gov.cn/jms/c100055/202606/c04_304587.shtml	3835
+陈伟宏		4		黑龙江省	佳木斯市	https://www.jms.gov.cn/jms/c100027/zwgk.shtml	副市长		佳木斯市人民政府	https://www.jms.gov.cn/jms/c102138/202606/c04_304591.shtml	3835
+于大志		5		黑龙江省	佳木斯市	https://www.jms.gov.cn/jms/c100027/zwgk.shtml	副市长		佳木斯市人民政府	https://www.jms.gov.cn/jms/c100057/202507/c04_32923.shtml	3835
+周政治		6		黑龙江省	佳木斯市	https://www.jms.gov.cn/jms/c100027/zwgk.shtml	副市长		佳木斯市人民政府	https://www.jms.gov.cn/jms/c100058/202507/c04_32949.shtml	3835
+徐永刚		7		黑龙江省	佳木斯市	https://www.jms.gov.cn/jms/c100027/zwgk.shtml	副市长		佳木斯市人民政府	https://www.jms.gov.cn/jms/c102161/202609/c04_310281.shtml	3835
+吕村笙		8		黑龙江省	佳木斯市	https://www.jms.gov.cn/jms/c100027/zwgk.shtml	秘书长		佳木斯市人民政府	https://www.jms.gov.cn/jms/c100062/202507/c04_34655.shtml	3835

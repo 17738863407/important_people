@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈宏文		1		江西省	南昌市	http://sthjj.nc.gov.cn/ncgbj/ldzcxx/202107/f368a8a410184e19a2e501b489a9aa5e.shtml	党组书记、局长		南昌市生态环境局		2563
+付长庚		2		江西省	南昌市	http://sthjj.nc.gov.cn/ncgbj/ldzcxx/202107/f368a8a410184e19a2e501b489a9aa5e.shtml	党组成员、驻局纪检监察组组长		南昌市生态环境局	https://sthjj.nc.gov.cn/ncgbj/ldzcxx/202509/9e712df2320a42e5a26b9779a82717d4.shtml	2563
+刘忠马		3		江西省	南昌市	http://sthjj.nc.gov.cn/ncgbj/ldzcxx/202107/f368a8a410184e19a2e501b489a9aa5e.shtml			南昌市生态环境局		2563
+刘扬		4		江西省	南昌市	http://sthjj.nc.gov.cn/ncgbj/ldzcxx/202107/f368a8a410184e19a2e501b489a9aa5e.shtml	党组成员、副局长		南昌市生态环境局	https://sthjj.nc.gov.cn/ncgbj/ldzcxx/202107/01e651277af8440ab4664bae16477104.shtml	2563
+吴顺伟		5		江西省	南昌市	http://sthjj.nc.gov.cn/ncgbj/ldzcxx/202107/f368a8a410184e19a2e501b489a9aa5e.shtml	党组成员、副局长		南昌市生态环境局	https://sthjj.nc.gov.cn/ncgbj/ldzcxx/202509/f5be936592f54c1887df5de28b372bce.shtml	2563
+章美良		6		江西省	南昌市	http://sthjj.nc.gov.cn/ncgbj/ldzcxx/202107/f368a8a410184e19a2e501b489a9aa5e.shtml	二级调研员		南昌市生态环境局	https://sthjj.nc.gov.cn/ncgbj/ldzcxx/202107/d09da317c84247c68007dd42fea85f25.shtml	2563
+黄宝强		7		江西省	南昌市	http://sthjj.nc.gov.cn/ncgbj/ldzcxx/202107/f368a8a410184e19a2e501b489a9aa5e.shtml	二级调研员		南昌市生态环境局	https://sthjj.nc.gov.cn/ncgbj/ldzcxx/202107/48f8a6ad814e4802bb52ef38ccee577e.shtml	2563

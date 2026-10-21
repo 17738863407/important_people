@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+亢晟		1		宁夏回族自治区		http://xf.nx.gov.cn/zwgk/zfxxgkml/ldjs/	自治区党委社会工作部副部长，自治区信访局党组书记、局长		宁夏回族自治区信访局		3043
+王海燕		2		宁夏回族自治区		http://xf.nx.gov.cn/zwgk/zfxxgkml/ldjs/	自治区信访局副局长		宁夏回族自治区信访局		3043
+胡冰		3		宁夏回族自治区		http://xf.nx.gov.cn/zwgk/zfxxgkml/ldjs/	自治区信访局党组成员、副局长		宁夏回族自治区信访局		3043
+罗峻岭		4		宁夏回族自治区		http://xf.nx.gov.cn/zwgk/zfxxgkml/ldjs/	自治区信访局党组成员、副局长		宁夏回族自治区信访局		3043
+马卫华		5		宁夏回族自治区		http://xf.nx.gov.cn/zwgk/zfxxgkml/ldjs/	自治区信访局二级巡视员		宁夏回族自治区信访局		3043

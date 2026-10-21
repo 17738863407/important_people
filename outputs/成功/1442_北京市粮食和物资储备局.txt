@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王其志		1		北京市		https://lsj.beijing.gov.cn/zwgk/znjg/ldbz4/	局长		北京市粮食和物资储备局	https://lsj.beijing.gov.cn/zwgk/znjg/ldbz4/202601/t20260121_4453212.html	1442
+张志刚		2		北京市		https://lsj.beijing.gov.cn/zwgk/znjg/ldbz4/	副局长		北京市粮食和物资储备局	https://lsj.beijing.gov.cn/zwgk/znjg/ldbz4/202409/t20240909_3805898.html	1442
+暴瑞冰		3		北京市		https://lsj.beijing.gov.cn/zwgk/znjg/ldbz4/	副局长		北京市粮食和物资储备局	https://lsj.beijing.gov.cn/zwgk/znjg/ldbz4/202409/t20240909_3805872.html	1442
+马宁		4		北京市		https://lsj.beijing.gov.cn/zwgk/znjg/ldbz4/	副局长		北京市粮食和物资储备局	https://lsj.beijing.gov.cn/zwgk/znjg/ldbz4/202607/t20260720_4772070.html	1442

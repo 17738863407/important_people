@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+肖立		1		辽宁省	大连市	https://jh.dl.gov.cn/col/col9043/index.html?vc_xxgkarea=2102000052&number=DL014&jh=263	党组书记、主任		大连市人民政府经济合作交流办公室	https://jh.dl.gov.cn/art/2024/7/3/art_9044_2337229.html	1137
+邹宇平		2		辽宁省	大连市	https://jh.dl.gov.cn/col/col9043/index.html?vc_xxgkarea=2102000052&number=DL014&jh=263	党组成员、副主任		大连市人民政府经济合作交流办公室	https://jh.dl.gov.cn/art/2023/7/5/art_9044_2086623.html	1137
+方林		3		辽宁省	大连市	https://jh.dl.gov.cn/col/col9043/index.html?vc_xxgkarea=2102000052&number=DL014&jh=263	党组成员、副主任		大连市人民政府经济合作交流办公室	https://jh.dl.gov.cn/art/2023/7/5/art_9044_2086622.html	1137

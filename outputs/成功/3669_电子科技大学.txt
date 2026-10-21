@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+曹萍		1		四川省	成都市	https://www.uestc.edu.cn/xxgk/xrld.htm	党委书记；党委常委		电子科技大学		3669
+胡俊		2		四川省	成都市	https://www.uestc.edu.cn/xxgk/xrld.htm	党委副书记；党委常委；校长		电子科技大学		3669
+彭岚		3		四川省	成都市	https://www.uestc.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		电子科技大学		3669
+余先亭		4		四川省	成都市	https://www.uestc.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		电子科技大学		3669
+韩旭东		5		四川省	成都市	https://www.uestc.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		电子科技大学		3669
+李会勇		6		四川省	成都市	https://www.uestc.edu.cn/xxgk/xrld.htm	党委副书记；党委常委；副校长		电子科技大学		3669
+徐红兵		7		四川省	成都市	https://www.uestc.edu.cn/xxgk/xrld.htm	党委常委；副校长		电子科技大学		3669
+孔令讲		8		四川省	成都市	https://www.uestc.edu.cn/xxgk/xrld.htm	党委常委；副校长		电子科技大学		3669
+罗光春		9		四川省	成都市	https://www.uestc.edu.cn/xxgk/xrld.htm	党委常委；副校长		电子科技大学		3669
+程玉华		10		四川省	成都市	https://www.uestc.edu.cn/xxgk/xrld.htm	党委常委；副校长		电子科技大学		3669
+赵志钦		11		四川省	成都市	https://www.uestc.edu.cn/xxgk/xrld.htm	党委常委；副校长		电子科技大学		3669
+张庆琳		12		四川省	成都市	https://www.uestc.edu.cn/xxgk/xrld.htm	党委常委		电子科技大学		3669
+吕红胤		13		四川省	成都市	https://www.uestc.edu.cn/xxgk/xrld.htm	党委常委		电子科技大学		3669

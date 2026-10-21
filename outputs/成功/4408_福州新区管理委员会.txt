@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+兰文		1		福建省	福州市	https://fzxq.fuzhou.gov.cn/xxgk/jgzn/ldzc/lw/	福州市委常委，福州新区党工委分管日常工作的副书记（正厅长级），长乐区委书记		福州新区管理委员会		4408
+胡旭彬		2		福建省	福州市	https://fzxq.fuzhou.gov.cn/xxgk/jgzn/ldzc/lw/	福州市人民政府党组成员，福州新区党工委委员、管委会分管日常工作的副主任（正厅长级），长乐区委副书记、区政府代区长		福州新区管理委员会	https://fzxq.fuzhou.gov.cn/xxgk/jgzn/ldzc/zf/	4408
+陈斌		3		福建省	福州市	https://fzxq.fuzhou.gov.cn/xxgk/jgzn/ldzc/lw/	福州新区党工委委员、管委会副主任		福州新区管理委员会	https://fzxq.fuzhou.gov.cn/xxgk/jgzn/ldzc/cb/	4408
+叶谊		4		福建省	福州市	https://fzxq.fuzhou.gov.cn/xxgk/jgzn/ldzc/lw/	福州新区党工委委员、福州新区纪检监察工作委员会书记		福州新区管理委员会	https://fzxq.fuzhou.gov.cn/xxgk/jgzn/ldzc/yy/	4408
+叶友琛		5		福建省	福州市	https://fzxq.fuzhou.gov.cn/xxgk/jgzn/ldzc/lw/	福州新区党工委委员、管委会副主任，长乐区委副书记、组织部部长，兼区委党校（区行政学校）校长，区直机关党工委书记，区老年大学校长，区总工会主席候选人		福州新区管理委员会	https://fzxq.fuzhou.gov.cn/xxgk/jgzn/ldzc/yyc/	4408
+游昕		6		福建省	福州市	https://fzxq.fuzhou.gov.cn/xxgk/jgzn/ldzc/lw/	福州新区党工委委员、管委会副主任，长乐区委常委，长乐区人民政府党组副书记、副区长		福州新区管理委员会	https://fzxq.fuzhou.gov.cn/xxgk/jgzn/ldzc/yx/	4408
+程小马		7		福建省	福州市	https://fzxq.fuzhou.gov.cn/xxgk/jgzn/ldzc/lw/	福州新区党工委、管委会一级巡视员		福州新区管理委员会	https://fzxq.fuzhou.gov.cn/xxgk/jgzn/ldzc/cxm/	4408

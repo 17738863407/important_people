@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+罗彦林		1		新疆维吾尔自治区		http://wjw.xinjiang.gov.cn/hfpc/ldxx/ldlist.shtml	自治区卫生健康委党组书记、副主任		新疆维吾尔自治区卫生健康委员会	http://wjw.xinjiang.gov.cn/hfpc/ldxx/202604/25888a8965ff4d4885cb5c60b70c09d7.shtml	2908
+冯东		2		新疆维吾尔自治区		http://wjw.xinjiang.gov.cn/hfpc/ldxx/ldlist.shtml	自治区卫生健康委党组副书记、主任		新疆维吾尔自治区卫生健康委员会	http://wjw.xinjiang.gov.cn/hfpc/ldxx/202112/99904b0f5b74494c9d0dac1aa0ba8c79.shtml	2908
+张奇		3		新疆维吾尔自治区		http://wjw.xinjiang.gov.cn/hfpc/ldxx/ldlist.shtml	自治区纪委监委驻自治区卫生健康委纪检监察组组长、一级巡视员、一级高级监察官		新疆维吾尔自治区卫生健康委员会	http://wjw.xinjiang.gov.cn/hfpc/ldxx/202002/25556fa5f8044b66ba701c5b15aba229.shtml	2908
+王爱民		4		新疆维吾尔自治区		http://wjw.xinjiang.gov.cn/hfpc/ldxx/ldlist.shtml	自治区卫生健康委党组成员，自治区保健中心党委书记、主任		新疆维吾尔自治区卫生健康委员会	http://wjw.xinjiang.gov.cn/hfpc/ldxx/202407/62ae497b00f646fea21cd5c60995bc03.shtml	2908
+王昊昀		5		新疆维吾尔自治区		http://wjw.xinjiang.gov.cn/hfpc/ldxx/ldlist.shtml	自治区卫生健康委党组成员、副主任		新疆维吾尔自治区卫生健康委员会	http://wjw.xinjiang.gov.cn/hfpc/ldxx/202505/3309f48c290f4e77b5f873defa99c174.shtml	2908
+刘波		6		新疆维吾尔自治区		http://wjw.xinjiang.gov.cn/hfpc/ldxx/ldlist.shtml	自治区卫生健康委党组成员，自治区中医药管理局党组书记、局长		新疆维吾尔自治区卫生健康委员会	http://wjw.xinjiang.gov.cn/hfpc/ldxx/202405/14ead01f618f491bbef1f5542edb8270.shtml	2908
+骆朝辉		7		新疆维吾尔自治区		http://wjw.xinjiang.gov.cn/hfpc/ldxx/ldlist.shtml	自治区卫生健康委党组成员，自治区人民医院党委书记、副院长		新疆维吾尔自治区卫生健康委员会	http://wjw.xinjiang.gov.cn/hfpc/ldxx/202604/889fb3e39b7e480b9c65ee8dd2a1b094.shtml	2908
+买买提·艾力		8		新疆维吾尔自治区		http://wjw.xinjiang.gov.cn/hfpc/ldxx/ldlist.shtml	自治区卫生健康委党组成员、副主任		新疆维吾尔自治区卫生健康委员会	http://wjw.xinjiang.gov.cn/hfpc/ldxx/202608/8c9b12bcebe94f4c9baa2aab8cd47334.shtml	2908
+袁丽		9		新疆维吾尔自治区		http://wjw.xinjiang.gov.cn/hfpc/ldxx/ldlist.shtml	自治区卫生健康委党组成员，副主任(援疆）		新疆维吾尔自治区卫生健康委员会	http://wjw.xinjiang.gov.cn/hfpc/ldxx/202608/62cdac39f71e482e84da79c37f621c9d.shtml	2908

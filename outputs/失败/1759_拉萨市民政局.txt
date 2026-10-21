@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杜开凡		1		西藏自治区	拉萨市	http://mzj.lasa.gov.cn/lamzj/shuji/ldxx_list.shtml	局党组书记、副局长、一级调研员		拉萨市民政局	http://mzj.lasa.gov.cn/lamzj/shuji/201910/ecbdabf8cc3b4c3bb807de8b52a4b732.shtml	1759
+格桑罗布		2		西藏自治区	拉萨市	http://mzj.lasa.gov.cn/lamzj/shuji/ldxx_list.shtml	拉萨市民政局党组副书记、局长、一级调研员		拉萨市民政局	http://mzj.lasa.gov.cn/lamzj/thsz/202610/5d48f7c6ae7c4a9eb72414254a5ba4a1.shtml	1759
+尹正岷		3		西藏自治区	拉萨市	http://mzj.lasa.gov.cn/lamzj/shuji/ldxx_list.shtml	党组成员、副局长、三级调研员		拉萨市民政局	http://mzj.lasa.gov.cn/lamzj/ehsz/201910/21a51395daf247deb23ea2480a53d3f0.shtml	1759
+琼吉		4		西藏自治区	拉萨市	http://mzj.lasa.gov.cn/lamzj/shuji/ldxx_list.shtml	党组成员、副局长、二级调研员		拉萨市民政局	http://mzj.lasa.gov.cn/lamzj/ehsz/202508/62eeaa962bc04345aad91d3f5b856602.shtml	1759
+高凤妮		5		西藏自治区	拉萨市	http://mzj.lasa.gov.cn/lamzj/shuji/ldxx_list.shtml	党组成员、副局长、三级调研员		拉萨市民政局	http://mzj.lasa.gov.cn/lamzj/ehsz/202508/d31980eeb5f24dc7a8f6af425c5b3259.shtml	1759

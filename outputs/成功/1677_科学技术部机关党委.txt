@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+聂飙		1		全国		https://www.most.gov.cn/zzjg/jgsz/jgdw/	分管日常工作的副书记		科学技术部机关党委		1677
+廖建华		2		全国		https://www.most.gov.cn/zzjg/jgsz/jgdw/	副书记、纪委书记（正局级）		科学技术部机关党委		1677
+王建伦		3		全国		https://www.most.gov.cn/zzjg/jgsz/jgdw/	副书记		科学技术部机关党委		1677

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵志刚		1		广西壮族自治区		http://dsjfzj.gxzf.gov.cn/zfxxgkzl/fdzdgknr_zfxxgkzl/jgfzr/	自治区人民政府副秘书长（兼），自治区数据局党组书记、局长，中国—东盟信息港建设办公室主任（兼），自治区政务服务监督管理办公室主任（兼）		广西壮族自治区数据局	http://dsjfzj.gxzf.gov.cn/zfxxgkzl/fdzdgknr_zfxxgkzl/jgfzr/ldrl/index.shtml	4269
+苏爱民		2		广西壮族自治区		http://dsjfzj.gxzf.gov.cn/zfxxgkzl/fdzdgknr_zfxxgkzl/jgfzr/	自治区数据局党组成员、副局长		广西壮族自治区数据局	http://dsjfzj.gxzf.gov.cn/zfxxgkzl/fdzdgknr_zfxxgkzl/jgfzr/t15694800.shtml	4269
+常亮		3		广西壮族自治区		http://dsjfzj.gxzf.gov.cn/zfxxgkzl/fdzdgknr_zfxxgkzl/jgfzr/	自治区数据局党组成员、副局长		广西壮族自治区数据局	http://dsjfzj.gxzf.gov.cn/zfxxgkzl/fdzdgknr_zfxxgkzl/jgfzr/t18306143.shtml	4269
+黄永刚		4		广西壮族自治区		http://dsjfzj.gxzf.gov.cn/zfxxgkzl/fdzdgknr_zfxxgkzl/jgfzr/	自治区数据局党组成员、副局长		广西壮族自治区数据局	http://dsjfzj.gxzf.gov.cn/zfxxgkzl/fdzdgknr_zfxxgkzl/jgfzr/t19848359.shtml	4269
+龙海泉		5		广西壮族自治区		http://dsjfzj.gxzf.gov.cn/zfxxgkzl/fdzdgknr_zfxxgkzl/jgfzr/	自治区数据局党组成员（挂职）		广西壮族自治区数据局	http://dsjfzj.gxzf.gov.cn/zfxxgkzl/fdzdgknr_zfxxgkzl/jgfzr/t22613416.shtml	4269

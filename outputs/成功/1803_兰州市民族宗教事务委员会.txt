@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马俊源		1		甘肃省	兰州市	http://mzw.lanzhou.gov.cn/col/col16257/index.html	主任		兰州市民族宗教事务委员会	http://mzw.lanzhou.gov.cn/art/2019/12/30/art_16278_839463.html	1803
+陈学贵		2		甘肃省	兰州市	http://mzw.lanzhou.gov.cn/col/col16257/index.html	副主任		兰州市民族宗教事务委员会	http://mzw.lanzhou.gov.cn/art/2024/1/4/art_16280_839462.html	1803
+张小民		3		甘肃省	兰州市	http://mzw.lanzhou.gov.cn/col/col16257/index.html	副主任		兰州市民族宗教事务委员会	http://mzw.lanzhou.gov.cn/art/2024/1/4/art_24967_839461.html	1803

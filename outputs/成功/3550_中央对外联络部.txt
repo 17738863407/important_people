@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘海星		1		全国		https://www.idcpc.org.cn/zlbjj/bld/	部长		中央对外联络部	https://www.idcpc.org.cn/zlbjj/bld/202509/t20250930_167633.html	3550
+孙海燕		2		全国		https://www.idcpc.org.cn/zlbjj/bld/	副部长		中央对外联络部	https://www.idcpc.org.cn/zlbjj/bld/202307/t20230731_161090.html	3550
+陆慷		3		全国		https://www.idcpc.org.cn/zlbjj/bld/	副部长		中央对外联络部	https://www.idcpc.org.cn/zlbjj/bld/202405/t20240520_164069.html	3550
+马辉		4		全国		https://www.idcpc.org.cn/zlbjj/bld/	副部长		中央对外联络部	https://www.idcpc.org.cn/zlbjj/bld/202406/t20240614_164267.html	3550
+金鑫		5		全国		https://www.idcpc.org.cn/zlbjj/bld/	副部长		中央对外联络部	https://www.idcpc.org.cn/zlbjj/bld/202412/t20241231_166314.html	3550

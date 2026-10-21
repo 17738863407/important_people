@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+信春鹰		1		全国		http://www.npc.gov.cn/npc/bmzz2023/xfhflwyh2023/	主任委员		全国人民代表大会宪法和法律委员会		1983
+黄明		2		全国		http://www.npc.gov.cn/npc/bmzz2023/xfhflwyh2023/	副主任委员		全国人民代表大会宪法和法律委员会		1983
+袁曙宏		3		全国		http://www.npc.gov.cn/npc/bmzz2023/xfhflwyh2023/	副主任委员		全国人民代表大会宪法和法律委员会		1983
+沈春耀		4		全国		http://www.npc.gov.cn/npc/bmzz2023/xfhflwyh2023/	副主任委员		全国人民代表大会宪法和法律委员会		1983
+何平		5		全国		http://www.npc.gov.cn/npc/bmzz2023/xfhflwyh2023/	副主任委员		全国人民代表大会宪法和法律委员会		1983
+丛斌		6		全国		http://www.npc.gov.cn/npc/bmzz2023/xfhflwyh2023/	副主任委员		全国人民代表大会宪法和法律委员会		1983
+王洪祥		7		全国		http://www.npc.gov.cn/npc/bmzz2023/xfhflwyh2023/	副主任委员		全国人民代表大会宪法和法律委员会		1983
+骆源		8		全国		http://www.npc.gov.cn/npc/bmzz2023/xfhflwyh2023/	副主任委员		全国人民代表大会宪法和法律委员会		1983
+周光权		9		全国		http://www.npc.gov.cn/npc/bmzz2023/xfhflwyh2023/	副主任委员		全国人民代表大会宪法和法律委员会		1983

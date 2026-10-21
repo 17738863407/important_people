@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+石丽康		1		云南省		https://www.ynswsyjg.cn/about/index.html	2022年12月任云南省文史研究馆党组书记、馆长。		云南省文史研究馆	https://www.ynswsyjg.cn/iframe/b/h/a/content_5.html	3279
+周玲		2		云南省		https://www.ynswsyjg.cn/about/index.html	2018年10月任省文史研究馆副馆长。		云南省文史研究馆	https://www.ynswsyjg.cn/iframe/b/h/a/content_2.html	3279
+易卫东		3		云南省		https://www.ynswsyjg.cn/about/index.html	2016年1月任云南省文史研究馆党组成员、副馆长。		云南省文史研究馆	https://www.ynswsyjg.cn/iframe/b/h/a/content_3.html	3279
+杨世领		4		云南省		https://www.ynswsyjg.cn/about/index.html	2015年5月任云南省文史研究馆党组成员、副馆长。		云南省文史研究馆	https://www.ynswsyjg.cn/iframe/b/h/a/content_4.html	3279

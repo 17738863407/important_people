@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+曲昭伟		1		北京市		https://www.blcu.edu.cn/xxgk/xxld.htm	党委书记		北京语言大学	https://www.blcu.edu.cn/info/4112/36073.htm	3608
+单清欣		2		北京市		https://www.blcu.edu.cn/xxgk/xxld.htm	党委副书记、纪委书记		北京语言大学	https://www.blcu.edu.cn/info/4112/37853.htm	3608
+吕静		3		北京市		https://www.blcu.edu.cn/xxgk/xxld.htm	党委常委		北京语言大学	https://www.blcu.edu.cn/info/4112/37563.htm	3608
+张健		4		北京市		https://www.blcu.edu.cn/xxgk/xxld.htm	党委常委		北京语言大学	https://www.blcu.edu.cn/info/4112/37593.htm	3608
+段鹏		5		北京市		https://www.blcu.edu.cn/xxgk/xxld.htm	党委副书记、校长		北京语言大学	https://www.blcu.edu.cn/info/4122/30073.htm	3608
+黄益方		6		北京市		https://www.blcu.edu.cn/xxgk/xxld.htm	副校长		北京语言大学	https://www.blcu.edu.cn/info/4122/30103.htm	3608
+聂丹		7		北京市		https://www.blcu.edu.cn/xxgk/xxld.htm	副校长		北京语言大学	https://www.blcu.edu.cn/info/4122/30113.htm	3608
+郭鹏		8		北京市		https://www.blcu.edu.cn/xxgk/xxld.htm	校长助理		北京语言大学	https://www.blcu.edu.cn/info/4122/37623.htm	3608
+李志坚		9		北京市		https://www.blcu.edu.cn/xxgk/xxld.htm	校长助理		北京语言大学	https://www.blcu.edu.cn/info/4122/37653.htm	3608

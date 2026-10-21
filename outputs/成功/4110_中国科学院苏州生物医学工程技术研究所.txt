@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴成铁		1		江苏省	苏州市	https://sibet.cas.cn/jggk2020/xrld_169557/	党委书记、所长		中国科学院苏州生物医学工程技术研究所	http://sibet.cas.cn/jggk2020/xrld_169557/202310/t20231013_6902219.html	4110
+周连群		2		江苏省	苏州市	https://sibet.cas.cn/jggk2020/xrld_169557/	副所长		中国科学院苏州生物医学工程技术研究所	http://sibet.cas.cn/jggk2020/xrld_169557/202310/t20231013_6902233.html	4110
+杨西斌		3		江苏省	苏州市	https://sibet.cas.cn/jggk2020/xrld_169557/	副所长		中国科学院苏州生物医学工程技术研究所	https://sibet.cas.cn/jggk2020/xrld_169557/202504/t20250409_7591376.html	4110
+李鹏飞		4		江苏省	苏州市	https://sibet.cas.cn/jggk2020/xrld_169557/	纪委书记		中国科学院苏州生物医学工程技术研究所	https://sibet.cas.cn/jggk2020/xrld_169557/202603/t20260317_8160548.html	4110
+邢文龙		5		江苏省	苏州市	https://sibet.cas.cn/jggk2020/xrld_169557/	副所长		中国科学院苏州生物医学工程技术研究所	https://sibet.cas.cn/jggk2020/xrld_169557/202507/t20250728_7897496.html	4110
+付威威		6		江苏省	苏州市	https://sibet.cas.cn/jggk2020/xrld_169557/	所务委员		中国科学院苏州生物医学工程技术研究所	https://sibet.cas.cn/jggk2020/xrld_169557/202609/t20260903_8278186.html	4110

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王维		1		江苏省	苏州市	https://www.suzhou.gov.cn/szsrmzf/ldxxhbmzyzz/ldxx.shtml	市长		苏州市人民政府	https://www.suzhou.gov.cn/szsrmzf/wwsz/szfleader.shtml	3888
+韩卫		2		江苏省	苏州市	https://www.suzhou.gov.cn/szsrmzf/ldxxhbmzyzz/ldxx.shtml	副市长		苏州市人民政府	https://www.suzhou.gov.cn/szsrmzf/hanwei/szfleader.shtml	3888
+沈志栋		3		江苏省	苏州市	https://www.suzhou.gov.cn/szsrmzf/ldxxhbmzyzz/ldxx.shtml	副市长		苏州市人民政府	https://www.suzhou.gov.cn/szsrmzf/shenzd/szfleader.shtml	3888
+查颖冬		4		江苏省	苏州市	https://www.suzhou.gov.cn/szsrmzf/ldxxhbmzyzz/ldxx.shtml	副市长		苏州市人民政府	https://www.suzhou.gov.cn/szsrmzf/ldfszyd/szfleader.shtml	3888
+周达清		5		江苏省	苏州市	https://www.suzhou.gov.cn/szsrmzf/ldxxhbmzyzz/ldxx.shtml	副市长		苏州市人民政府	https://www.suzhou.gov.cn/szsrmzf/fszzdq/szfleader.shtml	3888
+季晶		6		江苏省	苏州市	https://www.suzhou.gov.cn/szsrmzf/ldxxhbmzyzz/ldxx.shtml	副市长		苏州市人民政府	https://www.suzhou.gov.cn/szsrmzf/ldfszjj/szfleader.shtml	3888
+毛伟		7		江苏省	苏州市	https://www.suzhou.gov.cn/szsrmzf/ldxxhbmzyzz/ldxx.shtml	副市长		苏州市人民政府	https://www.suzhou.gov.cn/szsrmzf/ldfszmw/szfleader.shtml	3888
+单杰		8		江苏省	苏州市	https://www.suzhou.gov.cn/szsrmzf/ldxxhbmzyzz/ldxx.shtml	副市长		苏州市人民政府	https://www.suzhou.gov.cn/szsrmzf/danj/szfleader.shtml	3888

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘大川		1		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/gyxx/gkml/jgxx_532/200903/t20090330_6304563.shtml	党组书记、局长		青岛市工业和信息化局		2133
+楚宪峰		2		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/gyxx/gkml/jgxx_532/200903/t20090330_6304563.shtml	党组成员、副局长		青岛市工业和信息化局		2133
+张金灿		3		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/gyxx/gkml/jgxx_532/200903/t20090330_6304563.shtml	党组成员、副局长		青岛市工业和信息化局		2133
+徐君		4		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/gyxx/gkml/jgxx_532/200903/t20090330_6304563.shtml	党组成员、副局长		青岛市工业和信息化局		2133
+谢龙目		5		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/gyxx/gkml/jgxx_532/200903/t20090330_6304563.shtml	党组成员、副局长		青岛市工业和信息化局		2133
+赵智勇		6		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/gyxx/gkml/jgxx_532/200903/t20090330_6304563.shtml	副局级领导干部		青岛市工业和信息化局		2133
+乔文超		7		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/gyxx/gkml/jgxx_532/200903/t20090330_6304563.shtml	副局长		青岛市工业和信息化局		2133

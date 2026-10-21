@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王树新		1		重庆市		https://www.cqu.edu.cn/xqgk/xrld.htm	党委书记；党委常委		重庆大学	https://www.cqu.edu.cn/info/3021/1941.htm	3664
+邓绍江		2		重庆市		https://www.cqu.edu.cn/xqgk/xrld.htm	党委常务副书记；党委常委		重庆大学	https://www.cqu.edu.cn/info/3031/66521.htm	3664
+陶举虎		3		重庆市		https://www.cqu.edu.cn/xqgk/xrld.htm	党委副书记；纪委书记；国家监委驻重庆大学监察专员；党委常委		重庆大学	https://www.cqu.edu.cn/info/3041/1971.htm	3664
+冯业栋		4		重庆市		https://www.cqu.edu.cn/xqgk/xrld.htm	党委副书记；党委常委		重庆大学	https://www.cqu.edu.cn/info/3051/1991.htm	3664
+刘昌胜		5		重庆市		https://www.cqu.edu.cn/xqgk/xrld.htm	校长；党委副书记；党委常委		重庆大学	https://www.cqu.edu.cn/info/3061/2011.htm	3664
+卢义玉		6		重庆市		https://www.cqu.edu.cn/xqgk/xrld.htm	副校长；党委常委		重庆大学	https://www.cqu.edu.cn/info/3081/2081.htm	3664
+李剑		7		重庆市		https://www.cqu.edu.cn/xqgk/xrld.htm	副校长；党委常委		重庆大学	https://www.cqu.edu.cn/info/3081/2071.htm	3664
+刘贵文		8		重庆市		https://www.cqu.edu.cn/xqgk/xrld.htm	副校长；党委常委		重庆大学	https://www.cqu.edu.cn/info/3081/2061.htm	3664
+杨俊		9		重庆市		https://www.cqu.edu.cn/xqgk/xrld.htm	副校长；党委常委		重庆大学	https://www.cqu.edu.cn/info/3081/2051.htm	3664
+饶劲松		10		重庆市		https://www.cqu.edu.cn/xqgk/xrld.htm	副校长；党委常委		重庆大学	https://www.cqu.edu.cn/info/3081/50361.htm	3664
+李成祥		11		重庆市		https://www.cqu.edu.cn/xqgk/xrld.htm	党委常委		重庆大学		3664
+李英民		12		重庆市		https://www.cqu.edu.cn/xqgk/xrld.htm	校长助理		重庆大学		3664

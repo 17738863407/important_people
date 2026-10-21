@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱建寰		1		湖北省	武汉市	https://rsj.wuhan.gov.cn/zwgk_17/fdzdgknr/ldbz_71151/ldxx_71152/	党组书记、局长		武汉市人力资源和社会保障局	https://rsj.wuhan.gov.cn/zwgk_17/fdzdgknr/ldbz_71151/ldxx_71152/202202/t20220228_1929986.html	2211
+祝民		2		湖北省	武汉市	https://rsj.wuhan.gov.cn/zwgk_17/fdzdgknr/ldbz_71151/ldxx_71152/	党组成员、副局长		武汉市人力资源和社会保障局	https://rsj.wuhan.gov.cn/zwgk_17/fdzdgknr/ldbz_71151/ldxx_71152/202201/t20220106_1890666.html	2211
+周友丰		3		湖北省	武汉市	https://rsj.wuhan.gov.cn/zwgk_17/fdzdgknr/ldbz_71151/ldxx_71152/	党组成员、副局长		武汉市人力资源和社会保障局	https://rsj.wuhan.gov.cn/zwgk_17/fdzdgknr/ldbz_71151/ldxx_71152/202201/t20220106_1890668.html	2211
+吴旭东		4		湖北省	武汉市	https://rsj.wuhan.gov.cn/zwgk_17/fdzdgknr/ldbz_71151/ldxx_71152/	党组成员、副局长		武汉市人力资源和社会保障局	https://rsj.wuhan.gov.cn/zwgk_17/fdzdgknr/ldbz_71151/ldxx_71152/202201/t20220106_1890669.html	2211
+刘阳艳		5		湖北省	武汉市	https://rsj.wuhan.gov.cn/zwgk_17/fdzdgknr/ldbz_71151/ldxx_71152/	党组成员、副局长		武汉市人力资源和社会保障局	https://rsj.wuhan.gov.cn/zwgk_17/fdzdgknr/ldbz_71151/ldxx_71152/202503/t20250304_2543720.html	2211

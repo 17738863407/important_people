@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高文成		1		河北省	石家庄市	https://tyjrswj.sjz.gov.cn/columns/e1408877-a636-487f-9047-d64623ac4e02/index.html	石家庄市退役军人事务局党组书记、局长、一级调研员		石家庄市退役军人事务局	https://tyjrswj.sjz.gov.cn/columns/6a4059fd-8f76-45ad-8873-2964b5a02219/index.html	2818
+王占武		2		河北省	石家庄市	https://tyjrswj.sjz.gov.cn/columns/e1408877-a636-487f-9047-d64623ac4e02/index.html	石家庄市退役军人事务局党组成员、驻局纪检监察组组长、二级调研员		石家庄市退役军人事务局	https://tyjrswj.sjz.gov.cn/columns/1cca8ad5-8705-42fe-82cf-4302ec934028/index.html	2818
+王小平		3		河北省	石家庄市	https://tyjrswj.sjz.gov.cn/columns/e1408877-a636-487f-9047-d64623ac4e02/index.html	石家庄市退役军人事务局党组成员、副局长、三级调研员		石家庄市退役军人事务局	https://tyjrswj.sjz.gov.cn/columns/0ae18c54-365e-4019-bc2e-152f13f339c5/index.html	2818
+李伟		4		河北省	石家庄市	https://tyjrswj.sjz.gov.cn/columns/e1408877-a636-487f-9047-d64623ac4e02/index.html	石家庄市退役军人事务局党组成员、副局长、三级调研员		石家庄市退役军人事务局	https://tyjrswj.sjz.gov.cn/columns/37d1fdbe-4c64-453f-a28b-e73f303e9e5c/index.html	2818
+赵伦		5		河北省	石家庄市	https://tyjrswj.sjz.gov.cn/columns/e1408877-a636-487f-9047-d64623ac4e02/index.html	石家庄市退役军人事务局一级调研员		石家庄市退役军人事务局	https://tyjrswj.sjz.gov.cn/columns/61a561a7-ff8d-4aa0-959f-5d5b473b5ac8/index.html	2818
+金莹		6		河北省	石家庄市	https://tyjrswj.sjz.gov.cn/columns/e1408877-a636-487f-9047-d64623ac4e02/index.html	石家庄市退役军人事务局二级调研员		石家庄市退役军人事务局	https://tyjrswj.sjz.gov.cn/columns/d5a2a8da-9cd6-4f4e-ac5d-ecd733dfd57f/index.html	2818
+张俊刚		7		河北省	石家庄市	https://tyjrswj.sjz.gov.cn/columns/e1408877-a636-487f-9047-d64623ac4e02/index.html	石家庄市退役军人事务局二级调研员		石家庄市退役军人事务局	https://tyjrswj.sjz.gov.cn/columns/2442ab04-f8a4-4a3a-9c2e-4bdd886fe3be/index.html	2818
+李红武		8		河北省	石家庄市	https://tyjrswj.sjz.gov.cn/columns/e1408877-a636-487f-9047-d64623ac4e02/index.html	石家庄市退役军人事务局二级调研员		石家庄市退役军人事务局	https://tyjrswj.sjz.gov.cn/columns/dc6ec7fb-ff12-4e0e-859b-932544a9224f/index.html	2818
+韦瑞岭		9		河北省	石家庄市	https://tyjrswj.sjz.gov.cn/columns/e1408877-a636-487f-9047-d64623ac4e02/index.html	石家庄市退役军人事务局三级调研员		石家庄市退役军人事务局	https://tyjrswj.sjz.gov.cn/columns/5c8d72a3-b4d2-43d3-b390-521d7d6b35f1/index.html	2818

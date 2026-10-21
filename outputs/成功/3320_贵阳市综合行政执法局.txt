@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+宋庆松		1		贵州省	贵阳市	http://zhxzzfj.guiyang.gov.cn/cgj_gov/gov_news/gg1/ld/	贵阳市综合行政执法局（市城市管理局、市园林绿化局）党委书记		贵阳市综合行政执法局	http://zhxzzfj.guiyang.gov.cn/cgj_gov/gov_news/gg1/ld/202503/t20250314_87172718.html	3320
+练余天		2		贵州省	贵阳市	http://zhxzzfj.guiyang.gov.cn/cgj_gov/gov_news/gg1/ld/	贵阳市综合行政执法局（市城市管理局、市园林绿化局）局长		贵阳市综合行政执法局	http://zhxzzfj.guiyang.gov.cn/cgj_gov/gov_news/gg1/ld/202503/t20250314_87172772.html	3320
+龚涛		3		贵州省	贵阳市	http://zhxzzfj.guiyang.gov.cn/cgj_gov/gov_news/gg1/ld/	贵阳市综合行政执法局（市城市管理局、市园林绿化局）党委委员、副局长		贵阳市综合行政执法局	http://zhxzzfj.guiyang.gov.cn/cgj_gov/gov_news/gg1/ld/202503/t20250314_87172782.html	3320
+李修瑶		4		贵州省	贵阳市	http://zhxzzfj.guiyang.gov.cn/cgj_gov/gov_news/gg1/ld/	贵阳市综合行政执法局（市城市管理局、市园林绿化局）党委委员、副局长		贵阳市综合行政执法局	http://zhxzzfj.guiyang.gov.cn/cgj_gov/gov_news/gg1/ld/202503/t20250314_87172798.html	3320
+熊鹰		5		贵州省	贵阳市	http://zhxzzfj.guiyang.gov.cn/cgj_gov/gov_news/gg1/ld/	贵阳市综合行政执法局（市城市管理局、市园林绿化局）党委委员、副局长		贵阳市综合行政执法局	http://zhxzzfj.guiyang.gov.cn/cgj_gov/gov_news/gg1/ld/202503/t20250314_87172954.html	3320
+张献飙		6		贵州省	贵阳市	http://zhxzzfj.guiyang.gov.cn/cgj_gov/gov_news/gg1/ld/	贵阳市综合行政执法局（市城市管理局、市园林绿化局）党委委员、贵阳市综合行政执法支队支队长、三级调研员		贵阳市综合行政执法局	http://zhxzzfj.guiyang.gov.cn/cgj_gov/gov_news/gg1/ld/202603/t20260324_89902773.html	3320
+杨春柱		7		贵州省	贵阳市	http://zhxzzfj.guiyang.gov.cn/cgj_gov/gov_news/gg1/ld/	贵阳市综合行政执法局（市城市管理局、市园林绿化局）一级调研员		贵阳市综合行政执法局	http://zhxzzfj.guiyang.gov.cn/cgj_gov/gov_news/gg1/ld/202503/t20250314_87174630.html	3320

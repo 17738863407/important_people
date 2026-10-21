@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱静蕾		1		上海市		https://tjj.sh.gov.cn/shstjj/index.html?&name=ldcy	党组书记、局长		上海市统计局	https://tjj.sh.gov.cn/ldcy/20211229/0ab6a1288fe94bb38ec8c0152acdd3bc.html	2740
+汤汇浩		2		上海市		https://tjj.sh.gov.cn/shstjj/index.html?&name=ldcy	党组成员、副局长、一级巡视员		上海市统计局	https://tjj.sh.gov.cn/ldcy/20200207/0014-1000267.html	2740
+蔡伟		3		上海市		https://tjj.sh.gov.cn/shstjj/index.html?&name=ldcy	党组成员、副局长		上海市统计局	https://tjj.sh.gov.cn/ldcy/20240924/40ed262835f74bf2b79d2fe0b06403f6.html	2740
+陈永奇		4		上海市		https://tjj.sh.gov.cn/shstjj/index.html?&name=ldcy	党组成员、副局长		上海市统计局	https://tjj.sh.gov.cn/ldcy/20220902/5255120becdc4e00a4501fb02c81f751.html	2740

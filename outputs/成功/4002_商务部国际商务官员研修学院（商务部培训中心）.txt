@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴彬		1		全国		https://www.china-aibo.cn/gywm/xyld.htm	院长、党委书记		商务部国际商务官员研修学院（商务部培训中心）		4002
+陈润云		2		全国		https://www.china-aibo.cn/gywm/xyld.htm	副院长		商务部国际商务官员研修学院（商务部培训中心）		4002
+程虎		3		全国		https://www.china-aibo.cn/gywm/xyld.htm	副院长		商务部国际商务官员研修学院（商务部培训中心）		4002
+刘如涛		4		全国		https://www.china-aibo.cn/gywm/xyld.htm	副院长		商务部国际商务官员研修学院（商务部培训中心）		4002
+郑乐		5		全国		https://www.china-aibo.cn/gywm/xyld.htm	党委副书记、纪委书记		商务部国际商务官员研修学院（商务部培训中心）		4002
+徐凯		6		全国		https://www.china-aibo.cn/gywm/xyld.htm	副院长		商务部国际商务官员研修学院（商务部培训中心）		4002

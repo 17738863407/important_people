@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵长保		1		全国		http://www.rcre.agri.cn/jigou/zxld/	主任、党组副书记		农业农村部农村经济研究中心	http://www.rcre.agri.cn/jigou/zxld/202506/t20250620_8742835.htm	2167
+陈洁		2		全国		http://www.rcre.agri.cn/jigou/zxld/	副主任		农业农村部农村经济研究中心	http://www.rcre.agri.cn/jigou/zxld/201710/t20171024_7589314.htm	2167
+李二超		3		全国		http://www.rcre.agri.cn/jigou/zxld/	副主任、党组成员		农业农村部农村经济研究中心	http://www.rcre.agri.cn/jigou/zxld/202510/t20251011_8775184.htm	2167

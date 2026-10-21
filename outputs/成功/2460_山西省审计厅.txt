@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘文华		1		山西省		http://sjt.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk_22111/	山西省委审计委员会办公室主任、山西省审计厅党组书记		山西省审计厅	http://sjt.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk_22111/ldzc_22113/202104/t20210422_2887496.html	2460
+焦斌龙		2		山西省		http://sjt.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk_22111/	厅长		山西省审计厅	http://sjt.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk_22111/ldzc_22113/202104/t20210429_2887495.html	2460
+孙翔		3		山西省		http://sjt.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk_22111/	厅党组成员、副厅长		山西省审计厅	http://sjt.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk_22111/ldzc_22113/202104/t20210422_2887491.html	2460
+马翠珍		4		山西省		http://sjt.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk_22111/	厅党组成员、副厅长、一级巡视员		山西省审计厅	http://sjt.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk_22111/ldzc_22113/202208/t20220803_6843293.html	2460
+王文仙		5		山西省		http://sjt.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk_22111/	厅党组成员、副厅长		山西省审计厅	http://sjt.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk_22111/ldzc_22113/202208/t20220803_6843298.html	2460
+李毅		6		山西省		http://sjt.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk_22111/	厅党组成员、驻厅纪检监察组组长		山西省审计厅	http://sjt.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk_22111/ldzc_22113/202407/t20240704_9602023.html	2460
+宁红伟		7		山西省		http://sjt.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk_22111/	厅党组成员、副厅长		山西省审计厅	http://sjt.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk_22111/ldzc_22113/202604/t20260403_10092725.html	2460
+李飞		8		山西省		http://sjt.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk_22111/	厅党组成员、总审计师		山西省审计厅	http://sjt.shanxi.gov.cn/zfxxgk/fdzdgknr/jggk_22111/ldzc_22113/202608/t20260818_10201873.html	2460

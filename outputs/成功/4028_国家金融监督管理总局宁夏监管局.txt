@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘煜珅		1		全国		https://www.nfra.gov.cn/branch/ningxia/view/pages/common/ItemList.html?itemId=2181&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=2179&itemUrl=ItemListRightArticle.html	国家金融监督管理总局宁夏监管局党委书记、局长		国家金融监督管理总局宁夏监管局		4028
+刘晓瑜		2		全国		https://www.nfra.gov.cn/branch/ningxia/view/pages/common/ItemList.html?itemId=2181&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=2179&itemUrl=ItemListRightArticle.html	国家金融监督管理总局宁夏监管局党委委员、副局长		国家金融监督管理总局宁夏监管局		4028
+蒋志平		3		全国		https://www.nfra.gov.cn/branch/ningxia/view/pages/common/ItemList.html?itemId=2181&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=2179&itemUrl=ItemListRightArticle.html	国家金融监督管理总局宁夏监管局党委委员、副局长		国家金融监督管理总局宁夏监管局		4028
+董磊		4		全国		https://www.nfra.gov.cn/branch/ningxia/view/pages/common/ItemList.html?itemId=2181&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=2179&itemUrl=ItemListRightArticle.html	国家金融监督管理总局宁夏监管局党委委员、纪委书记、二级巡视员		国家金融监督管理总局宁夏监管局		4028

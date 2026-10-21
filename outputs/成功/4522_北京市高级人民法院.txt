@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+寇昉		1		北京市		https://bjgy.bjcourt.gov.cn/article/index/id/MzAwMjAoNQCRhAEA.shtml	北京市高级人民法院党组书记、院长		北京市高级人民法院	https://bjgy.bjcourt.gov.cn/article/detail/2019/04/id/3810714.shtml	4522
+靳学军		2		北京市		https://bjgy.bjcourt.gov.cn/article/index/id/MzAwMjAoNQCRhAEA.shtml	北京市高级人民法院党组副书记、分管日常工作的副院长（正局长级）		北京市高级人民法院	https://bjgy.bjcourt.gov.cn/article/detail/2021/03/id/5882528.shtml	4522
+孙玲玲		3		北京市		https://bjgy.bjcourt.gov.cn/article/index/id/MzAwMjAoNQCRhAEA.shtml	北京市高级人民法院党组成员、副院长		北京市高级人民法院	https://bjgy.bjcourt.gov.cn/article/detail/2019/09/id/4492930.shtml	4522
+李辰		4		北京市		https://bjgy.bjcourt.gov.cn/article/index/id/MzAwMjAoNQCRhAEA.shtml	北京市高级人民法院党组成员、市纪委市监委驻市高级法院纪检监察组组长		北京市高级人民法院	https://bjgy.bjcourt.gov.cn/article/detail/2019/04/id/3812846.shtml	4522
+刘玉民		5		北京市		https://bjgy.bjcourt.gov.cn/article/index/id/MzAwMjAoNQCRhAEA.shtml	北京市高级人民法院党组成员、副院长		北京市高级人民法院	https://bjgy.bjcourt.gov.cn/article/detail/2026/05/id/9319027.shtml	4522
+刘丽明		6		北京市		https://bjgy.bjcourt.gov.cn/article/index/id/MzAwMjAoNQCRhAEA.shtml	北京市高级人民法院党组成员、政治部主任		北京市高级人民法院	https://bjgy.bjcourt.gov.cn/article/detail/2024/02/id/7800889.shtml	4522
+任雪峰		7		北京市		https://bjgy.bjcourt.gov.cn/article/index/id/MzAwMjAoNQCRhAEA.shtml	北京市高级人民法院副院长		北京市高级人民法院	https://bjgy.bjcourt.gov.cn/article/detail/2023/03/id/7172470.shtml	4522
+单国钧		8		北京市		https://bjgy.bjcourt.gov.cn/article/index/id/MzAwMjAoNQCRhAEA.shtml	北京市高级人民法院审判委员会专职委员		北京市高级人民法院	https://bjgy.bjcourt.gov.cn/article/detail/2025/07/id/8891285.shtml	4522
+张农荣		9		北京市		https://bjgy.bjcourt.gov.cn/article/index/id/MzAwMjAoNQCRhAEA.shtml	北京市高级人民法院审判委员会专职委员		北京市高级人民法院	https://bjgy.bjcourt.gov.cn/article/detail/2025/07/id/8891287.shtml	4522

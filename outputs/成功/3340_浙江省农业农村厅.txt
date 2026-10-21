@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李迎宾		1		浙江省		https://www.zj.gov.cn/dctslm/zjsnynct/index.html	浙江省农业农村厅党组书记、厅长、省委农办主任（兼）、省乡村振兴局局长（兼）		浙江省农业农村厅	https://www.zj.gov.cn/col/col1229269086/art/2025/art_debdc44e70aaeb9067daa5a884f6bdd6.html	3340
+朱建军		2		浙江省		https://www.zj.gov.cn/dctslm/zjsnynct/index.html	浙江省农业农村厅党组副书记、副厅长		浙江省农业农村厅	https://www.zj.gov.cn/col/col1229269086/art/2025/art_e151b1ab5a4c6c55761eeecaf7375e34.html	3340
+徐燕峰		3		浙江省		https://www.zj.gov.cn/dctslm/zjsnynct/index.html	浙江省农业农村厅副厅长、一级巡视员		浙江省农业农村厅	https://www.zj.gov.cn/art/2023/5/22/art_1229269086_143810.html	3340
+杨大海		4		浙江省		https://www.zj.gov.cn/dctslm/zjsnynct/index.html	浙江省农业农村厅党组成员、副厅长		浙江省农业农村厅	https://www.zj.gov.cn/art/2020/6/20/art_1229269086_106602.html	3340
+陈良伟		5		浙江省		https://www.zj.gov.cn/dctslm/zjsnynct/index.html	浙江省农业农村厅党组成员、副厅长		浙江省农业农村厅	https://www.zj.gov.cn/art/2020/6/18/art_1229269086_106601.html	3340
+吕永健		6		浙江省		https://www.zj.gov.cn/dctslm/zjsnynct/index.html	浙江省农业农村厅党组成员、驻厅纪检监察组组长		浙江省农业农村厅	https://www.zj.gov.cn/art/2022/4/1/art_1229269086_123893.html	3340
+吴新民		7		浙江省		https://www.zj.gov.cn/dctslm/zjsnynct/index.html	浙江省农业农村厅党组成员、副厅长		浙江省农业农村厅	https://www.zj.gov.cn/art/2023/5/22/art_1229269086_143809.html	3340
+骆健民		8		浙江省		https://www.zj.gov.cn/dctslm/zjsnynct/index.html	浙江省农业农村厅党组成员，省畜牧农机发展中心党委书记、主任		浙江省农业农村厅	https://www.zj.gov.cn/art/2024/6/4/art_1229269086_161746.html	3340
+应金岳		9		浙江省		https://www.zj.gov.cn/dctslm/zjsnynct/index.html	浙江省农业农村厅党组成员、总农艺师		浙江省农业农村厅	https://www.zj.gov.cn/art/2024/6/4/art_1229269086_161745.html	3340

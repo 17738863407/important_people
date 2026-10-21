@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈海清		1		湖南省	长沙市	http://zfyjs.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组书记、主任		长沙市人民政府研究室	http://zfyjs.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202001/t20200106_5982257.html	3313
+王启贤		2		湖南省	长沙市	http://zfyjs.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组成员、副主任		长沙市人民政府研究室	http://zfyjs.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202309/t20230901_11208769.html	3313
+唐承燕		3		湖南省	长沙市	http://zfyjs.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组成员、副主任		长沙市人民政府研究室	http://zfyjs.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202402/t20240228_11381200.html	3313
+谭红生		4		湖南省	长沙市	http://zfyjs.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组成员、副主任		长沙市人民政府研究室	http://zfyjs.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202509/t20250908_11990169.html	3313

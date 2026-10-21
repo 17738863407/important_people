@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何宁东		1		广西壮族自治区	南宁市	https://sl.nanning.gov.cn/zwgk/fdzdgknr/jj/ldbz/	党组书记、局长		南宁市水利局	https://sl.nanning.gov.cn/zwgk/fdzdgknr/jj/ldbz/t6721472.html	2477
+陈美莲		2		广西壮族自治区	南宁市	https://sl.nanning.gov.cn/zwgk/fdzdgknr/jj/ldbz/	副局长、二级调研员、党组成员		南宁市水利局	https://sl.nanning.gov.cn/zwgk/fdzdgknr/jj/ldbz/t4727843.html	2477
+於永和		3		广西壮族自治区	南宁市	https://sl.nanning.gov.cn/zwgk/fdzdgknr/jj/ldbz/	副局长、三级调研员、党组成员		南宁市水利局	https://sl.nanning.gov.cn/zwgk/fdzdgknr/jj/ldbz/t6316487.html	2477
+冯华东		4		广西壮族自治区	南宁市	https://sl.nanning.gov.cn/zwgk/fdzdgknr/jj/ldbz/	副局长、三级调研员、党组成员		南宁市水利局	https://sl.nanning.gov.cn/zwgk/fdzdgknr/jj/ldbz/t4852599.html	2477
+翟建佳		5		广西壮族自治区	南宁市	https://sl.nanning.gov.cn/zwgk/fdzdgknr/jj/ldbz/	副局长、党组成员		南宁市水利局	https://sl.nanning.gov.cn/zwgk/fdzdgknr/jj/ldbz/t6670221.html	2477
+李清福		6		广西壮族自治区	南宁市	https://sl.nanning.gov.cn/zwgk/fdzdgknr/jj/ldbz/	局二级调研员		南宁市水利局	https://sl.nanning.gov.cn/zwgk/fdzdgknr/jj/ldbz/t4727912.html	2477
+农世林		7		广西壮族自治区	南宁市	https://sl.nanning.gov.cn/zwgk/fdzdgknr/jj/ldbz/	局四级调研员		南宁市水利局	https://sl.nanning.gov.cn/zwgk/fdzdgknr/jj/ldbz/t4727889.html	2477

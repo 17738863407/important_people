@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘建胜		1		新疆维吾尔自治区		http://sft.xinjiang.gov.cn/xjsft/ldjs/201912/9e52b97eb1794ec2ae6ae96b921bfc79.shtml	自治区党委全面依法治疆委员会办公室副主任，自治区司法厅党委书记、副厅长，自治区监狱管理局第一政委		新疆维吾尔自治区司法厅		2340
+乃比江·依不拉伊木		2		新疆维吾尔自治区		http://sft.xinjiang.gov.cn/xjsft/ldjs/201912/9e52b97eb1794ec2ae6ae96b921bfc79.shtml	自治区党委全面依法治疆委员会办公室副主任，自治区司法厅党委副书记、厅长		新疆维吾尔自治区司法厅		2340
+李珂		3		新疆维吾尔自治区		http://sft.xinjiang.gov.cn/xjsft/ldjs/201912/9e52b97eb1794ec2ae6ae96b921bfc79.shtml	兵团司法局党委书记、局长，自治区司法厅党委委员、副厅长（兼）		新疆维吾尔自治区司法厅		2340
+乔向华		4		新疆维吾尔自治区		http://sft.xinjiang.gov.cn/xjsft/ldjs/201912/9e52b97eb1794ec2ae6ae96b921bfc79.shtml	自治区司法厅党委委员，自治区监狱管理局党委书记、局长、一级巡视员		新疆维吾尔自治区司法厅		2340
+秦研科		5		新疆维吾尔自治区		http://sft.xinjiang.gov.cn/xjsft/ldjs/201912/9e52b97eb1794ec2ae6ae96b921bfc79.shtml	自治区司法厅党委委员、副厅长		新疆维吾尔自治区司法厅		2340
+王瑾		6		新疆维吾尔自治区		http://sft.xinjiang.gov.cn/xjsft/ldjs/201912/9e52b97eb1794ec2ae6ae96b921bfc79.shtml	自治区司法厅党委委员、副厅长		新疆维吾尔自治区司法厅		2340
+张玉龙		7		新疆维吾尔自治区		http://sft.xinjiang.gov.cn/xjsft/ldjs/201912/9e52b97eb1794ec2ae6ae96b921bfc79.shtml	自治区司法厅党委委员、政治部主任		新疆维吾尔自治区司法厅		2340
+李肖		8		新疆维吾尔自治区		http://sft.xinjiang.gov.cn/xjsft/ldjs/201912/9e52b97eb1794ec2ae6ae96b921bfc79.shtml	自治区司法厅党委委员、副厅长		新疆维吾尔自治区司法厅		2340

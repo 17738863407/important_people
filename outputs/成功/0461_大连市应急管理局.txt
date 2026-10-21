@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谭军		1		辽宁省	大连市	https://dlyj.dl.gov.cn/col/col9107/index.html?vc_xxgkarea=2102000047&number=DL014&jh=263	市应急局党委书记、局长，市应急管理事务服务中心主任		大连市应急管理局	https://dlyj.dl.gov.cn/art/2025/11/15/art_9108_2086953.html	0461
+李昊		2		辽宁省	大连市	https://dlyj.dl.gov.cn/col/col9107/index.html?vc_xxgkarea=2102000047&number=DL014&jh=263	市应急局党委委员、副局长、二级巡视员		大连市应急管理局	https://dlyj.dl.gov.cn/art/2023/7/6/art_9108_2086952.html	0461
+宋常辉		3		辽宁省	大连市	https://dlyj.dl.gov.cn/col/col9107/index.html?vc_xxgkarea=2102000047&number=DL014&jh=263	市应急局党委委员、副局长		大连市应急管理局	https://dlyj.dl.gov.cn/art/2023/7/6/art_9108_2086951.html	0461
+张晨		4		辽宁省	大连市	https://dlyj.dl.gov.cn/col/col9107/index.html?vc_xxgkarea=2102000047&number=DL014&jh=263	市应急局党委委员、副局长		大连市应急管理局	https://dlyj.dl.gov.cn/art/2023/7/6/art_9108_2086950.html	0461
+高文旭		5		辽宁省	大连市	https://dlyj.dl.gov.cn/col/col9107/index.html?vc_xxgkarea=2102000047&number=DL014&jh=263	市应急局党委委员、副局长		大连市应急管理局	https://dlyj.dl.gov.cn/art/2023/7/6/art_9108_2086949.html	0461

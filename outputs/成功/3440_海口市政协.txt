@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+梁谋		1		海南省	海口市	http://zx.haikou.gov.cn/zhxgk/ldbz/	党组书记、主席		海口市政协	http://zx.haikou.gov.cn/zxgl/202601/t1503249.shtml	3440
+韩斌		2		海南省	海口市	http://zx.haikou.gov.cn/zhxgk/ldbz/	党组成员、副主席		海口市政协	http://zx.haikou.gov.cn/zxgl/202006/t899878.shtml	3440
+陈洪		3		海南省	海口市	http://zx.haikou.gov.cn/zhxgk/ldbz/	党组成员、副主席		海口市政协	http://zx.haikou.gov.cn/zxgl/201902/t899876.shtml	3440
+王民		4		海南省	海口市	http://zx.haikou.gov.cn/zhxgk/ldbz/	党组成员、副主席		海口市政协	http://zx.haikou.gov.cn/zxgl/202601/t1503267.shtml	3440
+林耀平		5		海南省	海口市	http://zx.haikou.gov.cn/zhxgk/ldbz/	党组成员、副主席		海口市政协	http://zx.haikou.gov.cn/zxgl/202202/t899881.shtml	3440
+吉小妹		6		海南省	海口市	http://zx.haikou.gov.cn/zhxgk/ldbz/	党组成员、副主席		海口市政协	http://zx.haikou.gov.cn/zxgl/202202/t899882.shtml	3440
+陈伟		7		海南省	海口市	http://zx.haikou.gov.cn/zhxgk/ldbz/	党组成员、副主席		海口市政协	http://zx.haikou.gov.cn/zxgl/202202/t899883.shtml	3440
+吴优		8		海南省	海口市	http://zx.haikou.gov.cn/zhxgk/ldbz/	党组成员、副主席		海口市政协	http://zx.haikou.gov.cn/zxgl/202202/t899884.shtml	3440
+朱军		9		海南省	海口市	http://zx.haikou.gov.cn/zhxgk/ldbz/	党组成员、副主席		海口市政协	http://zx.haikou.gov.cn/zxgl/202602/t1507115.shtml	3440
+林明		10		海南省	海口市	http://zx.haikou.gov.cn/zhxgk/ldbz/	秘书长		海口市政协	http://zx.haikou.gov.cn/zxgl/202601/t1503283.shtml	3440

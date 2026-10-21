@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王艳		1		全国		https://www.cstec.org.cn/about-us.html?column=1001	主任、党委书记		中国科学技术交流中心	https://www.cstec.org.cn/infoDetail.html?id=96423&column=1035	0348
+赵为		2		全国		https://www.cstec.org.cn/about-us.html?column=1001	三级职员		中国科学技术交流中心	https://www.cstec.org.cn/infoDetail.html?id=96893&column=1128	0348
+赵树璠		3		全国		https://www.cstec.org.cn/about-us.html?column=1001	副主任		中国科学技术交流中心	https://www.cstec.org.cn/infoDetail.html?id=97991&column=1128	0348
+杨雪梅		4		全国		https://www.cstec.org.cn/about-us.html?column=1001	副主任		中国科学技术交流中心	https://www.cstec.org.cn/infoDetail.html?id=97996&column=1128	0348
+赵文		5		全国		https://www.cstec.org.cn/about-us.html?column=1001	党委副书记、纪委书记		中国科学技术交流中心	https://www.cstec.org.cn/infoDetail.html?id=97992&column=1128	0348
+许洪彬		6		全国		https://www.cstec.org.cn/about-us.html?column=1001	副主任		中国科学技术交流中心	https://www.cstec.org.cn/infoDetail.html?id=97994&column=1128	0348

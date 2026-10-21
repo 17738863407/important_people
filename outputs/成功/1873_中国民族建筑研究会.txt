@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李春林		1		全国		https://www.neac.gov.cn/seac/mwjs/mzjs/jgrysz.shtml	会长、法定代表人；国家民委办公厅原主任（已退休）		中国民族建筑研究会		1873
+郝强		2		全国		https://www.neac.gov.cn/seac/mwjs/mzjs/jgrysz.shtml	副会长；大连民大党委常委、总会计师		中国民族建筑研究会		1873
+格日乐图		3		全国		https://www.neac.gov.cn/seac/mwjs/mzjs/jgrysz.shtml	副会长；中央民族大学中国少数民族语言文学学院党委书记		中国民族建筑研究会		1873
+赵兵		4		全国		https://www.neac.gov.cn/seac/mwjs/mzjs/jgrysz.shtml	副会长；西南民大建筑学院党委书记		中国民族建筑研究会		1873
+戴仕炳		5		全国		https://www.neac.gov.cn/seac/mwjs/mzjs/jgrysz.shtml	副会长；同济大学建筑系教授		中国民族建筑研究会		1873
+李永革		6		全国		https://www.neac.gov.cn/seac/mwjs/mzjs/jgrysz.shtml	副会长；故宫博物院古建修缮中心原主任（已退休）		中国民族建筑研究会		1873
+苏欣如		7		全国		https://www.neac.gov.cn/seac/mwjs/mzjs/jgrysz.shtml	副会长；潮州建筑安装总公司中山分公司负责人		中国民族建筑研究会		1873
+叶德才		8		全国		https://www.neac.gov.cn/seac/mwjs/mzjs/jgrysz.shtml	副会长；德才装饰股份有限公司董事长		中国民族建筑研究会		1873
+苏宝安		9		全国		https://www.neac.gov.cn/seac/mwjs/mzjs/jgrysz.shtml	副会长；陕西古建园林建设集团有限公司党委书记、董事长		中国民族建筑研究会		1873
+龚恺		10		全国		https://www.neac.gov.cn/seac/mwjs/mzjs/jgrysz.shtml	副会长；东南大学建筑学院教授		中国民族建筑研究会		1873
+杨东生		11		全国		https://www.neac.gov.cn/seac/mwjs/mzjs/jgrysz.shtml	秘书长；专职		中国民族建筑研究会		1873

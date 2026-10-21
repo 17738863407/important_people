@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李永君		1		内蒙古自治区		https://www.nm.jcy.gov.cn/ygjw/ldjj/	内蒙古自治区人民检察院党组书记、检察长，二级大检察官，自治区党委政法委员会副书记（兼）		内蒙古自治区人民检察院	https://www.nm.jcy.gov.cn/ygjw/ldjj/yld/202011/t20201123_3051057.shtml	4555
+范巧兰		2		内蒙古自治区		https://www.nm.jcy.gov.cn/ygjw/ldjj/	内蒙古自治区人民检察院党组副书记、提名任副检察长（正厅长级）、一级高级检察官		内蒙古自治区人民检察院	https://www.nm.jcy.gov.cn/ygjw/ldjj/yld/202506/t20250604_6983114.shtml	4555
+刘喆		3		内蒙古自治区		https://www.nm.jcy.gov.cn/ygjw/ldjj/	内蒙古自治区人民检察院党组成员、副检察长（挂职）		内蒙古自治区人民检察院	https://www.nm.jcy.gov.cn/ygjw/ldjj/yld/202305/t20230525_4151955.shtml	4555
+李健		4		内蒙古自治区		https://www.nm.jcy.gov.cn/ygjw/ldjj/	内蒙古自治区人民检察院党组成员、副检察长、一级高级检察官、一级巡视员		内蒙古自治区人民检察院	https://www.nm.jcy.gov.cn/ygjw/ldjj/yld/201802/t20180201_2144201.shtml	4555
+孙庆杰		5		内蒙古自治区		https://www.nm.jcy.gov.cn/ygjw/ldjj/	内蒙古自治区人民检察院副检察长、一级高级检察官		内蒙古自治区人民检察院	https://www.nm.jcy.gov.cn/ygjw/ldjj/yld/202301/t20230116_3965644.shtml	4555
+曹子刚		6		内蒙古自治区		https://www.nm.jcy.gov.cn/ygjw/ldjj/	内蒙古自治区人民检察院党组成员、副检察长、二级高级检察官		内蒙古自治区人民检察院	https://www.nm.jcy.gov.cn/ygjw/ldjj/yld/202607/t20260716_7821453.shtml	4555
+杨一平		7		内蒙古自治区		https://www.nm.jcy.gov.cn/ygjw/ldjj/	内蒙古自治区人民检察院党组成员、驻院纪检监察组组长		内蒙古自治区人民检察院	https://www.nm.jcy.gov.cn/ygjw/ldjj/yld/202301/t20230116_3965671.shtml	4555
+崔平		8		内蒙古自治区		https://www.nm.jcy.gov.cn/ygjw/ldjj/	内蒙古自治区人民检察院检察委员会副厅级专职委员、一级高级检察官		内蒙古自治区人民检察院	https://www.nm.jcy.gov.cn/ygjw/ldjj/zzwy/201406/t20140606_1404892.shtml	4555
+郭培英		9		内蒙古自治区		https://www.nm.jcy.gov.cn/ygjw/ldjj/	内蒙古自治区人民检察院检察委员会副厅级专职委员、二级高级检察官		内蒙古自治区人民检察院	https://www.nm.jcy.gov.cn/ygjw/ldjj/zzwy/202206/t20220617_3707406.shtml	4555

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+莫鼎革		1		全国		https://www.cncec.cn/about/leadership	党委书记、董事长		中国化学工程集团有限公司		3533
+邓兆敬		2		全国		https://www.cncec.cn/about/leadership	党委副书记、总经理		中国化学工程集团有限公司		3533
+胡富申		3		全国		https://www.cncec.cn/about/leadership	党委副书记		中国化学工程集团有限公司		3533
+刘东进		4		全国		https://www.cncec.cn/about/leadership	党委常委、总会计师		中国化学工程集团有限公司		3533
+尹伊		5		全国		https://www.cncec.cn/about/leadership	党委常委、纪委书记		中国化学工程集团有限公司		3533
+赵涛		6		全国		https://www.cncec.cn/about/leadership	党委常委、副总经理		中国化学工程集团有限公司		3533
+赵亮		7		全国		https://www.cncec.cn/about/leadership	党委常委、副总经理		中国化学工程集团有限公司		3533
+梁军湘		8		全国		https://www.cncec.cn/about/leadership	党委常委、副总经理		中国化学工程集团有限公司		3533

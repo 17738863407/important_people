@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张学永		1		甘肃省	兰州市	http://lzjgsw.lanzhou.gov.cn/col/col16560/index.html	兰州市机关事务管理局党组书记、局长		兰州市机关事务管理局		1489
+张忠		2		甘肃省	兰州市	http://lzjgsw.lanzhou.gov.cn/col/col16560/index.html	兰州市机关事务管理局党组成员、副局长、三级调研员		兰州市机关事务管理局		1489
+马晓花		3		甘肃省	兰州市	http://lzjgsw.lanzhou.gov.cn/col/col16560/index.html	兰州市机关事务管理局副局长		兰州市机关事务管理局		1489
+韩文钦		4		甘肃省	兰州市	http://lzjgsw.lanzhou.gov.cn/col/col16560/index.html	兰州市机关事务管理局党组成员、副局长、三级调研员		兰州市机关事务管理局		1489
+王婷		5		甘肃省	兰州市	http://lzjgsw.lanzhou.gov.cn/col/col16560/index.html	兰州市机关事务管理局党组成员、副局长		兰州市机关事务管理局		1489

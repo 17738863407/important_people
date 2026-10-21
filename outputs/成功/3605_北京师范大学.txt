@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+程建平		1		北京市		https://www.bnu.edu.cn/xxgk/xrld/index.htm	党委书记；党委常委		北京师范大学	https://www.bnu.edu.cn/xxgk/xrld/dwsjx/127998.htm	3605
+于吉红		2		北京市		https://www.bnu.edu.cn/xxgk/xrld/index.htm	党委副书记；党委常委；校长		北京师范大学	https://www.bnu.edu.cn/xxgk/xrld/dwfsj/128004.htm	3605
+刘辉		3		北京市		https://www.bnu.edu.cn/xxgk/xrld/index.htm	党委副书记；党委常委		北京师范大学	https://www.bnu.edu.cn/xxgk/xrld/dwfsj/ecb65552e1604c88b84d41d853bfa5fc.htm	3605
+韦蔚		4		北京市		https://www.bnu.edu.cn/xxgk/xrld/index.htm	党委副书记；党委常委		北京师范大学	https://www.bnu.edu.cn/xxgk/xrld/dwfsj/128016.htm	3605
+张雁云		5		北京市		https://www.bnu.edu.cn/xxgk/xrld/index.htm	党委副书记；党委常委		北京师范大学	https://www.bnu.edu.cn/xxgk/xrld/dwfsj/2fc05b4d144c431984c8c32588f5c4f1.htm	3605
+王守军		6		北京市		https://www.bnu.edu.cn/xxgk/xrld/index.htm	党委常委；常务副校长		北京师范大学	https://www.bnu.edu.cn/xxgk/xrld/dwcw/128012.htm	3605
+孙红培		7		北京市		https://www.bnu.edu.cn/xxgk/xrld/index.htm	党委常委		北京师范大学	https://www.bnu.edu.cn/xxgk/xrld/dwcw/128003.htm	3605
+康震		8		北京市		https://www.bnu.edu.cn/xxgk/xrld/index.htm	党委常委；副校长		北京师范大学	https://www.bnu.edu.cn/xxgk/xrld/dwcw/128017.htm	3605
+刘长旭		9		北京市		https://www.bnu.edu.cn/xxgk/xrld/index.htm	党委常委；副校长		北京师范大学	https://www.bnu.edu.cn/xxgk/xrld/dwcw/d4ce1527c1404c049e8349776477d4ca.htm	3605
+汪明		10		北京市		https://www.bnu.edu.cn/xxgk/xrld/index.htm	党委常委；副校长		北京师范大学	https://www.bnu.edu.cn/xxgk/xrld/dwcw/f22544024a5b45aabc1263269d794177.htm	3605
+吴玉军		11		北京市		https://www.bnu.edu.cn/xxgk/xrld/index.htm	党委常委		北京师范大学	https://www.bnu.edu.cn/xxgk/xrld/dwcw/241ba8469b6f4f0e8d5a2e9c039157e3.htm	3605
+陈兴		12		北京市		https://www.bnu.edu.cn/xxgk/xrld/index.htm	副校长		北京师范大学	https://www.bnu.edu.cn/xxgk/xrld/fxz/77fbe1579f694e18aeecf52ae94cd85a.htm	3605

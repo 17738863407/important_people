@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵铸		1		辽宁省	大连市	https://new.dlnu.edu.cn/xxgk/xxld.htm	党委书记		大连民族大学		1888
+赵立涛		2		辽宁省	大连市	https://new.dlnu.edu.cn/xxgk/xxld.htm	党委副书记、校长		大连民族大学		1888
+王丽萍		3		辽宁省	大连市	https://new.dlnu.edu.cn/xxgk/xxld.htm	党委常委、副校长		大连民族大学		1888
+张树彪		4		辽宁省	大连市	https://new.dlnu.edu.cn/xxgk/xxld.htm	党委常委、副校长		大连民族大学		1888
+冯林		5		辽宁省	大连市	https://new.dlnu.edu.cn/xxgk/xxld.htm	党委常委、副校长		大连民族大学		1888
+哈正利		6		辽宁省	大连市	https://new.dlnu.edu.cn/xxgk/xxld.htm	党委常委、副校长		大连民族大学		1888
+王慧		7		辽宁省	大连市	https://new.dlnu.edu.cn/xxgk/xxld.htm	党委常委、纪委书记		大连民族大学		1888
+余世等		8		辽宁省	大连市	https://new.dlnu.edu.cn/xxgk/xxld.htm	党委常委、总会计师		大连民族大学		1888

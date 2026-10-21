@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王显东		1		江苏省		https://tj.jiangsu.gov.cn/col/col85347/index.html	省统计局党组书记、局长		江苏省统计局		2708
+周国强		2		江苏省		https://tj.jiangsu.gov.cn/col/col85347/index.html	省统计局副局长、党组成员、一级巡视员		江苏省统计局	https://tj.jiangsu.gov.cn/col/col85349/index.html	2708
+费丽明		3		江苏省		https://tj.jiangsu.gov.cn/col/col85347/index.html	省统计局副局长		江苏省统计局	https://tj.jiangsu.gov.cn/col/col85351/index.html	2708
+刘学军		4		江苏省		https://tj.jiangsu.gov.cn/col/col85347/index.html	省统计局党组成员、省地方统计调查局局长、中共江苏省统计局机关委员会书记		江苏省统计局	https://tj.jiangsu.gov.cn/col/col85348/index.html	2708
+马俊		5		江苏省		https://tj.jiangsu.gov.cn/col/col85347/index.html	省统计局副局长、党组成员		江苏省统计局	https://tj.jiangsu.gov.cn/col/col91244/index.html	2708
+汤莉		6		江苏省		https://tj.jiangsu.gov.cn/col/col85347/index.html	省统计局副局长、党组成员		江苏省统计局	https://tj.jiangsu.gov.cn/col/col93460/index.html	2708
+唐纪		7		江苏省		https://tj.jiangsu.gov.cn/col/col85347/index.html	省统计局二级巡视员		江苏省统计局	https://tj.jiangsu.gov.cn/col/col85355/index.html	2708

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+林武		1		全国		http://www.sdrd.gov.cn/	主任		山东省人民代表大会常务委员会	http://www.sdrd.gov.cn/channels/ch07340/	2290
+徐海荣		2		全国		http://www.sdrd.gov.cn/	副主任		山东省人民代表大会常务委员会	http://www.sdrd.gov.cn/channels/ch07730/	2290
+白玉刚		3		全国		http://www.sdrd.gov.cn/	副主任		山东省人民代表大会常务委员会	http://www.sdrd.gov.cn/channels/ch14443/	2290
+江成		4		全国		http://www.sdrd.gov.cn/	副主任		山东省人民代表大会常务委员会	http://www.sdrd.gov.cn/channels/ch14451/	2290
+王随莲		5		全国		http://www.sdrd.gov.cn/	副主任		山东省人民代表大会常务委员会	http://www.sdrd.gov.cn/channels/ch00127/	2290
+王良		6		全国		http://www.sdrd.gov.cn/	副主任		山东省人民代表大会常务委员会	http://www.sdrd.gov.cn/channels/ch04113/	2290
+赵豪志		7		全国		http://www.sdrd.gov.cn/	副主任		山东省人民代表大会常务委员会	http://www.sdrd.gov.cn/channels/ch07738/	2290
+宋军继		8		全国		http://www.sdrd.gov.cn/	副主任		山东省人民代表大会常务委员会	http://www.sdrd.gov.cn/channels/ch14459/	2290
+张斌		9		全国		http://www.sdrd.gov.cn/	秘书长		山东省人民代表大会常务委员会	http://www.sdrd.gov.cn/channels/ch07364/	2290

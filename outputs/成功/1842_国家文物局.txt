@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+饶权		1		全国		http://www.ncha.gov.cn/col/col1018/index.html	文化和旅游部党组成员、副部长，国家文物局党组书记、局长		国家文物局	http://www.ncha.gov.cn/art/2025/4/27/art_1737_174278.html	1842
+乔云飞		2		全国		http://www.ncha.gov.cn/col/col1018/index.html	国家文物局党组成员、副局长		国家文物局	http://www.ncha.gov.cn/art/2024/10/23/art_1737_191914.html	1842
+孙德立		3		全国		http://www.ncha.gov.cn/col/col1018/index.html	国家文物局党组成员、副局长		国家文物局	http://www.ncha.gov.cn/art/2024/12/18/art_1737_193110.html	1842
+唐炜		4		全国		http://www.ncha.gov.cn/col/col1018/index.html	国家文物局党组成员、副局长		国家文物局	http://www.ncha.gov.cn/art/2025/9/30/art_1737_198887.html	1842
+邓超		5		全国		http://www.ncha.gov.cn/col/col1018/index.html	国家文物局党组成员、副局长		国家文物局	http://www.ncha.gov.cn/art/2026/9/29/art_1737_205036.html	1842

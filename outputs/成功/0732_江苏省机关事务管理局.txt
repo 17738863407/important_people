@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+齐敦品		1		江苏省		https://glj.jiangsu.gov.cn/col/col79268/index.html?eqid=985adfee1360c200000004648bc4e6	省机关事务管理局局长、党组书记		江苏省机关事务管理局	https://glj.jiangsu.gov.cn/col/col89984/index.html	0732
+沈荣林		2		江苏省		https://glj.jiangsu.gov.cn/col/col79268/index.html?eqid=985adfee1360c200000004648bc4e6	省机关事务管理局副局长、党组成员		江苏省机关事务管理局	https://glj.jiangsu.gov.cn/col/col79262/index.html	0732
+周广奎		3		江苏省		https://glj.jiangsu.gov.cn/col/col79268/index.html?eqid=985adfee1360c200000004648bc4e6	省机关事务管理局副局长、党组成员		江苏省机关事务管理局	https://glj.jiangsu.gov.cn/col/col79263/index.html	0732
+刘洪连		4		江苏省		https://glj.jiangsu.gov.cn/col/col79268/index.html?eqid=985adfee1360c200000004648bc4e6	省机关事务管理局副局长、党组成员		江苏省机关事务管理局	https://glj.jiangsu.gov.cn/col/col79264/index.html	0732

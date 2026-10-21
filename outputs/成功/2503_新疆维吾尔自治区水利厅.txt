@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张强		1		新疆维吾尔自治区		https://slt.xinjiang.gov.cn/xjslt/c114465/zfxxgk_zfld.shtml	自治区水利厅党组书记、副厅长		新疆维吾尔自治区水利厅	https://slt.xinjiang.gov.cn/xjslt/c114465/202608/764593eef71742bb897f3754125eb1d8.shtml	2503
+艾斯卡尔·吾休尔		2		新疆维吾尔自治区		https://slt.xinjiang.gov.cn/xjslt/c114465/zfxxgk_zfld.shtml	自治区水利厅党组副书记、厅长		新疆维吾尔自治区水利厅	https://slt.xinjiang.gov.cn/xjslt/c114465/202312/556d4b7e07804c9b80bce93cfbd1a89b.shtml	2503
+孙录勤		3		新疆维吾尔自治区		https://slt.xinjiang.gov.cn/xjslt/c114465/zfxxgk_zfld.shtml	自治区水利厅党组成员、副厅长，兵团水利局党组书记、局长		新疆维吾尔自治区水利厅	https://slt.xinjiang.gov.cn/xjslt/c114465/202608/76a7577bea6a4691bc0b9d71d69a187e.shtml	2503
+魏红		4		新疆维吾尔自治区		https://slt.xinjiang.gov.cn/xjslt/c114465/zfxxgk_zfld.shtml	自治区纪委监委驻自治区水利厅纪检监察组组长、一级巡视员、一级高级监察官，自治区水利厅党组成员		新疆维吾尔自治区水利厅	https://slt.xinjiang.gov.cn/xjslt/c114465/202608/a27578c162d845789ac8d9e67d4185f4.shtml	2503
+焦全喜		5		新疆维吾尔自治区		https://slt.xinjiang.gov.cn/xjslt/c114465/zfxxgk_zfld.shtml	自治区水利厅党组成员、副厅长，兵团水利局党组成员、副局长		新疆维吾尔自治区水利厅	https://slt.xinjiang.gov.cn/xjslt/c114465/202608/4862cdaf54484a978383015861a6952b.shtml	2503
+李江		6		新疆维吾尔自治区		https://slt.xinjiang.gov.cn/xjslt/c114465/zfxxgk_zfld.shtml	自治区水利厅党组成员、副厅长		新疆维吾尔自治区水利厅	https://slt.xinjiang.gov.cn/xjslt/c114465/202508/0174ef11c62a4e3d8df5fd520c8b324f.shtml	2503
+褚明华		7		新疆维吾尔自治区		https://slt.xinjiang.gov.cn/xjslt/c114465/zfxxgk_zfld.shtml	自治区水利厅党组成员、副厅长（援疆）		新疆维吾尔自治区水利厅	https://slt.xinjiang.gov.cn/xjslt/c114465/202608/0e2928339a9c428cadc688ecf0ca370e.shtml	2503
+鲍正风		8		新疆维吾尔自治区		https://slt.xinjiang.gov.cn/xjslt/c114465/zfxxgk_zfld.shtml	自治区水利厅党组成员、副厅长（援疆）		新疆维吾尔自治区水利厅	https://slt.xinjiang.gov.cn/xjslt/c114465/202608/21003cde190846d9b653dd7fe6245bc6.shtml	2503

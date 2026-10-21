@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+姜涛		1		四川省		https://sichuan.chinatax.gov.cn/col/col20405/index.html	国家税务总局四川省税务局党委书记、局长。		国家税务总局四川省税务局		2416
+刘合斌		2		四川省		https://sichuan.chinatax.gov.cn/col/col20405/index.html	国家税务总局四川省税务局党委委员、副局长、一级巡视员。		国家税务总局四川省税务局	https://sichuan.chinatax.gov.cn/col/col20407/index.html	2416
+曾立春		3		四川省		https://sichuan.chinatax.gov.cn/col/col20405/index.html	国家税务总局四川省税务局党委委员、纪检组组长。		国家税务总局四川省税务局	https://sichuan.chinatax.gov.cn/col/col20410/index.html	2416
+罗科		4		四川省		https://sichuan.chinatax.gov.cn/col/col20405/index.html	国家税务总局四川省税务局党委委员、副局长。		国家税务总局四川省税务局	https://sichuan.chinatax.gov.cn/col/col20415/index.html	2416
+张科达		5		四川省		https://sichuan.chinatax.gov.cn/col/col20405/index.html	国家税务总局四川省税务局党委委员，国家税务总局成都市税务局党委书记、局长。		国家税务总局四川省税务局	https://sichuan.chinatax.gov.cn/col/col20418/index.html	2416
+白冰		6		四川省		https://sichuan.chinatax.gov.cn/col/col20405/index.html	国家税务总局四川省税务局党委委员、副局长。		国家税务总局四川省税务局	https://sichuan.chinatax.gov.cn/col/col20411/index.html	2416
+李岚		7		四川省		https://sichuan.chinatax.gov.cn/col/col20405/index.html	国家税务总局四川省税务局党委委员、副局长。		国家税务总局四川省税务局	https://sichuan.chinatax.gov.cn/col/col20412/index.html	2416
+陈锐		8		四川省		https://sichuan.chinatax.gov.cn/col/col20405/index.html	国家税务总局四川省税务局党委委员、总经济师。		国家税务总局四川省税务局	https://sichuan.chinatax.gov.cn/col/col20413/index.html	2416

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐盛敏		1		湖北省	武汉市	https://jxj.wuhan.gov.cn/xxgk_9/fdzdgknr/jxjjs/ldxx/	党组书记、局长		武汉市经济和信息化局	https://jxj.wuhan.gov.cn/xxgk_9/fdzdgknr/jxjjs/ldxx/202606/t20260610_2775866.html	1281
+余靖玲		2		湖北省	武汉市	https://jxj.wuhan.gov.cn/xxgk_9/fdzdgknr/jxjjs/ldxx/	副局长、党组成员		武汉市经济和信息化局	https://jxj.wuhan.gov.cn/xxgk_9/fdzdgknr/jxjjs/ldxx/202311/t20231103_2294480.html	1281
+陈峰		3		湖北省	武汉市	https://jxj.wuhan.gov.cn/xxgk_9/fdzdgknr/jxjjs/ldxx/	派驻纪检监察组组长、党组成员		武汉市经济和信息化局	https://jxj.wuhan.gov.cn/xxgk_9/fdzdgknr/jxjjs/ldxx/202309/t20230905_2258582.html	1281
+明文龙		4		湖北省	武汉市	https://jxj.wuhan.gov.cn/xxgk_9/fdzdgknr/jxjjs/ldxx/	副局长、党组成员		武汉市经济和信息化局	https://jxj.wuhan.gov.cn/xxgk_9/fdzdgknr/jxjjs/ldxx/202001/t20200115_836531.html	1281
+丁兴华		5		湖北省	武汉市	https://jxj.wuhan.gov.cn/xxgk_9/fdzdgknr/jxjjs/ldxx/	副局长、党组成员		武汉市经济和信息化局	https://jxj.wuhan.gov.cn/xxgk_9/fdzdgknr/jxjjs/ldxx/202209/t20220907_2037107.html	1281
+刘杨		6		湖北省	武汉市	https://jxj.wuhan.gov.cn/xxgk_9/fdzdgknr/jxjjs/ldxx/	副局长、党组成员		武汉市经济和信息化局	https://jxj.wuhan.gov.cn/xxgk_9/fdzdgknr/jxjjs/ldxx/202508/t20250829_2640642.html	1281
+冯凯		7		湖北省	武汉市	https://jxj.wuhan.gov.cn/xxgk_9/fdzdgknr/jxjjs/ldxx/	党组成员、市中小企业发展促进中心主任		武汉市经济和信息化局	https://jxj.wuhan.gov.cn/xxgk_9/fdzdgknr/jxjjs/ldxx/202508/t20250829_2640667.html	1281
+张兵心		8		湖北省	武汉市	https://jxj.wuhan.gov.cn/xxgk_9/fdzdgknr/jxjjs/ldxx/	党组成员		武汉市经济和信息化局	https://jxj.wuhan.gov.cn/xxgk_9/fdzdgknr/jxjjs/ldxx/202601/t20260127_2719062.html	1281

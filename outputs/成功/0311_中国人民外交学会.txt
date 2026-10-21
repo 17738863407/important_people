@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴恳		1		全国		https://www.cpifa.org/class/12	外交学会会长		中国人民外交学会		0311
+杨涛		2		全国		https://www.cpifa.org/class/12	外交学会副会长		中国人民外交学会		0311
+邹肖力		3		全国		https://www.cpifa.org/class/12	外交学会副会长		中国人民外交学会		0311
+周平剑		4		全国		https://www.cpifa.org/class/12	外交学会副会长		中国人民外交学会		0311
+耿爽		5		全国		https://www.cpifa.org/class/12	外交学会副会长		中国人民外交学会		0311
+周海泓		6		全国		https://www.cpifa.org/class/12	外交学会机关党委书记		中国人民外交学会		0311

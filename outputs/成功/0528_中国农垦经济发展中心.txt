@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈忠毅		1		全国		http://www.farmchina.org.cn/Category.php?url=VmpRNA5uADVQbQRh	主任		中国农垦经济发展中心		0528
+武新宇		2		全国		http://www.farmchina.org.cn/Category.php?url=VmpRNA5uADVQbQRh	副主任		中国农垦经济发展中心		0528
+黄辉		3		全国		http://www.farmchina.org.cn/Category.php?url=VmpRNA5uADVQbQRh	副主任		中国农垦经济发展中心		0528

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李海		1		北京市		https://www.bfsu.edu.cn/xxgk/xxld.htm	党委书记；党委常委		北京外国语大学	https://www.bfsu.edu.cn/info/1007/23872.htm	3607
+贾文键		2		北京市		https://www.bfsu.edu.cn/xxgk/xxld.htm	党委副书记；党委常委；校长		北京外国语大学	https://www.bfsu.edu.cn/info/1009/1462.htm	3607
+贾德忠		3		北京市		https://www.bfsu.edu.cn/xxgk/xxld.htm	党委副书记；党委常委		北京外国语大学	https://www.bfsu.edu.cn/info/1009/15312.htm	3607
+苏大鹏		4		北京市		https://www.bfsu.edu.cn/xxgk/xxld.htm	党委副书记；党委常委		北京外国语大学	https://www.bfsu.edu.cn/info/1009/1442.htm	3607
+尹兆华		5		北京市		https://www.bfsu.edu.cn/xxgk/xxld.htm	党委副书记；纪委书记；党委常委		北京外国语大学	https://www.bfsu.edu.cn/info/1009/25452.htm	3607
+丁浩		6		北京市		https://www.bfsu.edu.cn/xxgk/xxld.htm	党委常委；副校长		北京外国语大学	https://www.bfsu.edu.cn/info/1012/1472.htm	3607
+赵刚		7		北京市		https://www.bfsu.edu.cn/xxgk/xxld.htm	党委常委；副校长		北京外国语大学	https://www.bfsu.edu.cn/info/1012/1482.htm	3607
+刘欣路		8		北京市		https://www.bfsu.edu.cn/xxgk/xxld.htm	党委常委；副校长		北京外国语大学	https://www.bfsu.edu.cn/info/1012/15332.htm	3607

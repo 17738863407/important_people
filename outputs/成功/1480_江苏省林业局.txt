@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王国臣		1		江苏省		https://lyj.jiangsu.gov.cn/col/col86569/index.html	江苏省林业局党组书记、局长		江苏省林业局	https://lyj.jiangsu.gov.cn/art/2022/8/12/art_86569_1.html	1480
+史新明		2		江苏省		https://lyj.jiangsu.gov.cn/col/col86569/index.html	江苏省林业局党组成员、副局长、机关党委书记		江苏省林业局	https://lyj.jiangsu.gov.cn/art/2022/8/12/art_86569_4.html	1480
+王学东		3		江苏省		https://lyj.jiangsu.gov.cn/col/col86569/index.html	江苏省林业局党组成员、副局长		江苏省林业局	https://lyj.jiangsu.gov.cn/art/2022/8/12/art_86569_5.html	1480

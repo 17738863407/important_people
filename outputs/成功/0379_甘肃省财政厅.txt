@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+牛成喆		1		甘肃省		https://czt.gansu.gov.cn/czt/c107417/xxgk_jggk.shtml	党组书记、厅长		甘肃省财政厅	https://czt.gansu.gov.cn/czt/c107419/202306/169861336.shtml	0379
+魏建宝		2		甘肃省		https://czt.gansu.gov.cn/czt/c107417/xxgk_jggk.shtml	省纪委、省监委派驻省财政厅纪检监察组组长、省财政厅党组成员		甘肃省财政厅	https://czt.gansu.gov.cn/czt/c107419/202605/1913689.shtml	0379
+严和平		3		甘肃省		https://czt.gansu.gov.cn/czt/c107417/xxgk_jggk.shtml	党组成员、副厅长		甘肃省财政厅	https://czt.gansu.gov.cn/czt/c107419/202401/173832716.shtml	0379
+文纲		4		甘肃省		https://czt.gansu.gov.cn/czt/c107417/xxgk_jggk.shtml	党组成员、副厅长		甘肃省财政厅	https://czt.gansu.gov.cn/czt/c107419/202604/174315705.shtml	0379
+陈蓉蓉		5		甘肃省		https://czt.gansu.gov.cn/czt/c107417/xxgk_jggk.shtml	党组成员、副厅长		甘肃省财政厅	https://czt.gansu.gov.cn/czt/c107419/202501/174060362.shtml	0379
+梁琛		6		甘肃省		https://czt.gansu.gov.cn/czt/c107417/xxgk_jggk.shtml	党组成员、副厅长		甘肃省财政厅	https://czt.gansu.gov.cn/czt/c107419/202609/174391811.shtml	0379
+王海明		7		甘肃省		https://czt.gansu.gov.cn/czt/c107417/xxgk_jggk.shtml	一级巡视员		甘肃省财政厅	https://czt.gansu.gov.cn/czt/c107419/202606/174345357.shtml	0379

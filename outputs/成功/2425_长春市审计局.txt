@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李林峰		1		吉林省	长春市	http://sjj.changchun.gov.cn/xxgk/jbxxgk/ldjj/	党组书记		长春市审计局		2425
+孙忠林		2		吉林省	长春市	http://sjj.changchun.gov.cn/xxgk/jbxxgk/ldjj/	局长		长春市审计局		2425
+于明军		3		吉林省	长春市	http://sjj.changchun.gov.cn/xxgk/jbxxgk/ldjj/	党组成员、副局长		长春市审计局		2425
+常志德		4		吉林省	长春市	http://sjj.changchun.gov.cn/xxgk/jbxxgk/ldjj/	党组成员、副局长		长春市审计局		2425
+苏丹		5		吉林省	长春市	http://sjj.changchun.gov.cn/xxgk/jbxxgk/ldjj/	党组成员、总审计师		长春市审计局		2425
+王中		6		吉林省	长春市	http://sjj.changchun.gov.cn/xxgk/jbxxgk/ldjj/	长春市经济责任审计工作联席会议办公室主任		长春市审计局		2425

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈斌		1		浙江省		https://www.zj.gov.cn/dctslm/zjsmzt/index.html	党组书记、厅长		浙江省民政厅	https://www.zj.gov.cn/art/2023/8/11/art_1229277983_126499.html	3337
+方仁表		2		浙江省		https://www.zj.gov.cn/dctslm/zjsmzt/index.html	党组成员、副厅长		浙江省民政厅	https://www.zj.gov.cn/art/2023/8/11/art_1229277983_42368.html	3337
+李洁		3		浙江省		https://www.zj.gov.cn/dctslm/zjsmzt/index.html	党组成员、副厅长		浙江省民政厅	https://www.zj.gov.cn/art/2023/8/11/art_1229277983_42366.html	3337
+项薇		4		浙江省		https://www.zj.gov.cn/dctslm/zjsmzt/index.html	党组成员、副厅长		浙江省民政厅	https://www.zj.gov.cn/art/2023/12/14/art_1229277983_152943.html	3337
+张壮雄		5		浙江省		https://www.zj.gov.cn/dctslm/zjsmzt/index.html	党组成员、副厅长		浙江省民政厅	https://www.zj.gov.cn/art/2025/3/3/art_1229277983_174947.html	3337
+佘新荷		6		浙江省		https://www.zj.gov.cn/dctslm/zjsmzt/index.html	党组成员、副厅长		浙江省民政厅	https://www.zj.gov.cn/art/2023/8/11/art_1229277983_125931.html	3337
+叶乃杰		7		浙江省		https://www.zj.gov.cn/dctslm/zjsmzt/index.html	党组成员、驻厅纪检监察组组长		浙江省民政厅	https://www.zj.gov.cn/art/2023/8/11/art_1229277983_42367.html	3337
+胡玉民		8		浙江省		https://www.zj.gov.cn/dctslm/zjsmzt/index.html	党组成员、副厅长级		浙江省民政厅	https://www.zj.gov.cn/art/2023/12/14/art_1229277983_152948.html	3337
+徐建飞		9		浙江省		https://www.zj.gov.cn/dctslm/zjsmzt/index.html	党组成员、副厅长		浙江省民政厅	https://www.zj.gov.cn/art/2025/3/3/art_1229277983_174951.html	3337

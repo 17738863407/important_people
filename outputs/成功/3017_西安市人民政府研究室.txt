@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+程默		1		陕西省	西安市	https://www.xa.gov.cn/gk/zfjgml/szfbm/szfyjs/ldxx/1.html	市政府研究室党组书记		西安市人民政府研究室	https://www.xa.gov.cn/gk/zfjgml/szfbm/szfyjs/ldxx/2103014161526079489.html	3017
+孔小明		2		陕西省	西安市	https://www.xa.gov.cn/gk/zfjgml/szfbm/szfyjs/ldxx/1.html	西安市人民政府研究室党组成员、副主任		西安市人民政府研究室	https://www.xa.gov.cn/gk/zfjgml/szfbm/szfyjs/ldxx/1853996435036004353.html	3017
+何爽		3		陕西省	西安市	https://www.xa.gov.cn/gk/zfjgml/szfbm/szfyjs/ldxx/1.html	西安市人民政府研究室一级调研员		西安市人民政府研究室	https://www.xa.gov.cn/gk/zfjgml/szfbm/szfyjs/ldxx/5ea25b86fd85080ad16d9e1a.html	3017

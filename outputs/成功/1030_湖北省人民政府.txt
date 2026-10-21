@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李殿勋		1		全国		http://www.hubei.gov.cn/szf/	省长		湖北省人民政府	https://www.hubei.gov.cn/szf/sld/ldx/index.shtml	1030
+陈平		2		全国		http://www.hubei.gov.cn/szf/	副省长		湖北省人民政府	https://www.hubei.gov.cn/szf/sld/sld_cp/index.shtml	1030
+黎东辉		3		全国		http://www.hubei.gov.cn/szf/	副省长		湖北省人民政府	https://www.hubei.gov.cn/szf/sld/ldh/index.shtml	1030
+胡亚波		4		全国		http://www.hubei.gov.cn/szf/	副省长		湖北省人民政府	https://www.hubei.gov.cn/szf/sld/hyb/index.shtml	1030
+王太晖		5		全国		http://www.hubei.gov.cn/szf/	秘书长		湖北省人民政府	https://www.hubei.gov.cn/szf/sld/wth/index.shtml	1030

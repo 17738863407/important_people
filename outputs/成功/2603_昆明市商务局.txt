@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郭怀广		1		云南省	昆明市	https://swj.km.gov.cn/zfxxgk1/fdzdgknr/ldxx/	党组书记、局长 郭怀广		昆明市商务局	https://swj.km.gov.cn/c/2026-07-02/5093877.shtml	2603
+李永林		2		云南省	昆明市	https://swj.km.gov.cn/zfxxgk1/fdzdgknr/ldxx/	局党组成员、副局长 李永林		昆明市商务局	https://swj.km.gov.cn/c/2022-05-31/4394814.shtml	2603
+陈莉		3		云南省	昆明市	https://swj.km.gov.cn/zfxxgk1/fdzdgknr/ldxx/	局党组成员、副局长 机关党委书记 陈莉		昆明市商务局	https://swj.km.gov.cn/c/2022-05-31/4394786.shtml	2603
+董纳珊		4		云南省	昆明市	https://swj.km.gov.cn/zfxxgk1/fdzdgknr/ldxx/	局党组成员、副局长 董纳珊		昆明市商务局	https://swj.km.gov.cn/c/2026-04-30/5078168.shtml	2603

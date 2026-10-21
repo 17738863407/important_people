@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+严琛		1		河南省		https://gxt.henan.gov.cn/xxgk/ldjg/	省工业和信息化厅党组书记、厅长		河南省工业和信息化厅	http://gxt.henan.gov.cn/2018/12-11/1086793.html	0783
+常继红		2		河南省		https://gxt.henan.gov.cn/xxgk/ldjg/	省工业和信息化厅党组成员、副厅长		河南省工业和信息化厅	http://gxt.henan.gov.cn/2019/07-25/1086805.html	0783
+杨新生		3		河南省		https://gxt.henan.gov.cn/xxgk/ldjg/	省工业和信息化厅党组成员、副厅长		河南省工业和信息化厅	http://gxt.henan.gov.cn/2019/07-25/1086800.html	0783
+孙永民		4		河南省		https://gxt.henan.gov.cn/xxgk/ldjg/	省工业和信息化厅党组成员、副厅长		河南省工业和信息化厅	http://gxt.henan.gov.cn/2019/07-25/1086803.html	0783
+鲁浩		5		河南省		https://gxt.henan.gov.cn/xxgk/ldjg/	省工业和信息化厅党组成员、驻厅纪检监察组组长		河南省工业和信息化厅	http://gxt.henan.gov.cn/2025/04-30/3153732.html	0783
+赵宏太		6		河南省		https://gxt.henan.gov.cn/xxgk/ldjg/	省工业和信息化厅总工程师		河南省工业和信息化厅	http://gxt.henan.gov.cn/2022/10-17/2624828.html	0783
+徐玉		7		河南省		https://gxt.henan.gov.cn/xxgk/ldjg/	省工业和信息化厅党组成员、副厅长		河南省工业和信息化厅	http://gxt.henan.gov.cn/2022/10-17/2624825.html	0783

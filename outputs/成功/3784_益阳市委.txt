@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+向世聪		1		湖南省	益阳市	https://www.yiyang.gov.cn/yiyang/2/125/126/129/default.htm	市委书记		益阳市委	https://www.yiyang.gov.cn/yiyang/2/125/126/129/37122/content_1718187.html	3784
+刘勇会		2		湖南省	益阳市	https://www.yiyang.gov.cn/yiyang/2/125/126/129/default.htm	市委副书记、代市长		益阳市委	https://www.yiyang.gov.cn/yiyang/2/125/126/129/37123/content_2167149.html	3784
+彭江龙		3		湖南省	益阳市	https://www.yiyang.gov.cn/yiyang/2/125/126/129/default.htm	市委常委，市纪委书记		益阳市委	https://www.yiyang.gov.cn/yiyang/2/125/126/129/37124/content_2111554.html	3784
+何军田		4		湖南省	益阳市	https://www.yiyang.gov.cn/yiyang/2/125/126/129/default.htm	市委常委、秘书长，市委办主任，市直机关工委书记		益阳市委	https://www.yiyang.gov.cn/yiyang/2/125/126/129/37124/content_1882646.html	3784
+文志军		5		湖南省	益阳市	https://www.yiyang.gov.cn/yiyang/2/125/126/129/default.htm	市委常委、军分区大校司令员		益阳市委	https://www.yiyang.gov.cn/yiyang/2/125/126/129/37124/content_1646272.html	3784
+乐运成		6		湖南省	益阳市	https://www.yiyang.gov.cn/yiyang/2/125/126/129/default.htm	市委常委、宣传部部长		益阳市委	https://www.yiyang.gov.cn/yiyang/2/125/126/129/37124/content_2139763.html	3784
+肖翔		7		湖南省	益阳市	https://www.yiyang.gov.cn/yiyang/2/125/126/129/default.htm	市委常委、常务副市长		益阳市委	https://www.yiyang.gov.cn/yiyang/2/125/126/129/37124/content_2181920.html	3784
+付振南		8		湖南省	益阳市	https://www.yiyang.gov.cn/yiyang/2/125/126/129/default.htm	市委常委、副市长		益阳市委	https://www.yiyang.gov.cn/yiyang/2/125/126/129/37124/content_2181921.html	3784

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邓艳红		1		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	中共常宁市委副书记，常宁市人民政府党组书记、市长		常宁市人民政府	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/szfzfsz/20240830/i3443389.html	4483
+王武军		2		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	中共常宁市委常委，市政府党组副书记、常务副市长		常宁市人民政府	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/szfzfsz/20250210/i3578630.html	4483
+罗鹏		3		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	常宁市人民政府党组成员、政府副市长，市公安局党委书记、局长		常宁市人民政府	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/szfzfsz/20220712/i2751848.html	4483
+曹阳		4		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	常宁市人民政府党组成员、副市长		常宁市人民政府	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/szfzfsz/20230519/i3012271.html	4483
+盘凤成		5		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	常宁市人民政府副市长		常宁市人民政府	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/szfzfsz/20240123/i3244432.html	4483
+吕晓毛		6		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	常宁市人民政府党组成员、副市长		常宁市人民政府	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/szfzfsz/20240408/i3307535.html	4483
+刘湘		7		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	常宁市人民政府党组成员、副市长		常宁市人民政府	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/szfzfsz/20240621/i3396664.html	4483
+江志华		8		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	常宁市人民政府党组成员、副市长（挂职）		常宁市人民政府	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/szfzfsz/20231010/i3130801.html	4483

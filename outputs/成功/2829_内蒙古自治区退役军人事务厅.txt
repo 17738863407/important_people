@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李长江		1		内蒙古自治区		https://tyjrswt.nmg.gov.cn/zzjg/ldjs/	内蒙古自治区退役军人事务厅党组书记、厅长		内蒙古自治区退役军人事务厅	https://tyjrswt.nmg.gov.cn/zzjg/ldjs/202110/t20211009_1900120.html	2829
+邓伟		2		内蒙古自治区		https://tyjrswt.nmg.gov.cn/zzjg/ldjs/	内蒙古自治区退役军人事务厅党组成员、副厅长		内蒙古自治区退役军人事务厅	https://tyjrswt.nmg.gov.cn/zzjg/ldjs/202110/t20211009_1900111.html	2829
+邓凯		3		内蒙古自治区		https://tyjrswt.nmg.gov.cn/zzjg/ldjs/	内蒙古自治区退役军人事务厅党组成员、副厅长		内蒙古自治区退役军人事务厅	https://tyjrswt.nmg.gov.cn/zzjg/ldjs/202301/t20230120_2218521.html	2829
+王渌平		4		内蒙古自治区		https://tyjrswt.nmg.gov.cn/zzjg/ldjs/	内蒙古自治区退役军人事务厅党组成员、副厅长		内蒙古自治区退役军人事务厅	https://tyjrswt.nmg.gov.cn/zzjg/ldjs/202504/t20250411_2701765.html	2829
+张凤喜		5		内蒙古自治区		https://tyjrswt.nmg.gov.cn/zzjg/ldjs/	内蒙古自治区退役军人事务厅一级巡视员		内蒙古自治区退役军人事务厅	https://tyjrswt.nmg.gov.cn/zzjg/ldjs/202110/t20211009_1900116.html	2829
+胡学俭		6		内蒙古自治区		https://tyjrswt.nmg.gov.cn/zzjg/ldjs/	内蒙古自治区退役军人事务厅二级巡视员		内蒙古自治区退役军人事务厅	https://tyjrswt.nmg.gov.cn/zzjg/ldjs/202502/t20250207_2662848.html	2829

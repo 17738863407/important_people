@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+迟耀云		1		上海市		https://www.shjjjc.gov.cn/shsjjjcw/ldjg/content/dafe7576-51ca-4aeb-bd9e-8c4126b827b4.html	中共上海市第十二届纪律检查委员会书记；中共上海市第十二届纪律检查委员会常务委员会委员		上海市纪委监委		4512
+缪京		2		上海市		https://www.shjjjc.gov.cn/shsjjjcw/ldjg/content/dafe7576-51ca-4aeb-bd9e-8c4126b827b4.html	中共上海市第十二届纪律检查委员会副书记；中共上海市第十二届纪律检查委员会常务委员会委员		上海市纪委监委		4512
+孟文海		3		上海市		https://www.shjjjc.gov.cn/shsjjjcw/ldjg/content/dafe7576-51ca-4aeb-bd9e-8c4126b827b4.html	中共上海市第十二届纪律检查委员会副书记；中共上海市第十二届纪律检查委员会常务委员会委员		上海市纪委监委		4512
+戚玉箐		4		上海市		https://www.shjjjc.gov.cn/shsjjjcw/ldjg/content/dafe7576-51ca-4aeb-bd9e-8c4126b827b4.html	中共上海市第十二届纪律检查委员会副书记；中共上海市第十二届纪律检查委员会常务委员会委员		上海市纪委监委		4512
+钱樑		5		上海市		https://www.shjjjc.gov.cn/shsjjjcw/ldjg/content/dafe7576-51ca-4aeb-bd9e-8c4126b827b4.html	中共上海市第十二届纪律检查委员会副书记；中共上海市第十二届纪律检查委员会常务委员会委员		上海市纪委监委		4512
+白锦波		6		上海市		https://www.shjjjc.gov.cn/shsjjjcw/ldjg/content/dafe7576-51ca-4aeb-bd9e-8c4126b827b4.html	中共上海市第十二届纪律检查委员会常务委员会委员		上海市纪委监委		4512
+余海虹		7		上海市		https://www.shjjjc.gov.cn/shsjjjcw/ldjg/content/dafe7576-51ca-4aeb-bd9e-8c4126b827b4.html	中共上海市第十二届纪律检查委员会常务委员会委员		上海市纪委监委		4512
+张玉清		8		上海市		https://www.shjjjc.gov.cn/shsjjjcw/ldjg/content/dafe7576-51ca-4aeb-bd9e-8c4126b827b4.html	中共上海市第十二届纪律检查委员会常务委员会委员		上海市纪委监委		4512
+郑立锋		9		上海市		https://www.shjjjc.gov.cn/shsjjjcw/ldjg/content/dafe7576-51ca-4aeb-bd9e-8c4126b827b4.html	中共上海市第十二届纪律检查委员会常务委员会委员		上海市纪委监委		4512
+戴涛		10		上海市		https://www.shjjjc.gov.cn/shsjjjcw/ldjg/content/dafe7576-51ca-4aeb-bd9e-8c4126b827b4.html	中共上海市第十二届纪律检查委员会常务委员会委员		上海市纪委监委		4512

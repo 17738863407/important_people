@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐斌		1		安徽省	合肥市	https://drc.hefei.gov.cn/public/column/19121?type=4&catId=7036024&action=list&nav=3	主任、党组书记、一级调研员		合肥市发展和改革委员会	https://drc.hefei.gov.cn/public/19121/110720061.html	0478
+刘传宝		2		安徽省	合肥市	https://drc.hefei.gov.cn/public/column/19121?type=4&catId=7036024&action=list&nav=3	派驻纪检监察组组长、党组成员		合肥市发展和改革委员会	https://drc.hefei.gov.cn/public/19121/109969108.html	0478
+王宏耀		3		安徽省	合肥市	https://drc.hefei.gov.cn/public/column/19121?type=4&catId=7036024&action=list&nav=3	副主任、党组成员		合肥市发展和改革委员会	https://drc.hefei.gov.cn/public/19121/111274917.html	0478
+张卫东		4		安徽省	合肥市	https://drc.hefei.gov.cn/public/column/19121?type=4&catId=7036024&action=list&nav=3	总会计师、党组成员		合肥市发展和改革委员会	https://drc.hefei.gov.cn/public/19121/109969038.html	0478
+余兆炳		5		安徽省	合肥市	https://drc.hefei.gov.cn/public/column/19121?type=4&catId=7036024&action=list&nav=3	副主任		合肥市发展和改革委员会	https://drc.hefei.gov.cn/public/19121/111574568.html	0478
+陈翠		6		安徽省	合肥市	https://drc.hefei.gov.cn/public/column/19121?type=4&catId=7036024&action=list&nav=3	副主任、党组成员		合肥市发展和改革委员会	https://drc.hefei.gov.cn/public/19121/111416823.html	0478
+刘言		7		安徽省	合肥市	https://drc.hefei.gov.cn/public/column/19121?type=4&catId=7036024&action=list&nav=3	副主任、党组成员		合肥市发展和改革委员会	https://drc.hefei.gov.cn/public/19121/109969028.html	0478
+汤雪松		8		安徽省	合肥市	https://drc.hefei.gov.cn/public/column/19121?type=4&catId=7036024&action=list&nav=3	二级调研员		合肥市发展和改革委员会	https://drc.hefei.gov.cn/public/19121/109969120.html	0478
+黄俊		9		安徽省	合肥市	https://drc.hefei.gov.cn/public/column/19121?type=4&catId=7036024&action=list&nav=3	三级调研员		合肥市发展和改革委员会	https://drc.hefei.gov.cn/public/19121/109968984.html	0478

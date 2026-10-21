@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+付君		1		吉林省	长春市	https://www.jlu.edu.cn/xxgk/ldjg/ldjgry.htm	党委常委、副校长		吉林大学	https://www.jlu.edu.cn/info/1155/58115.htm	3630
+鲁向锋		2		吉林省	长春市	https://www.jlu.edu.cn/xxgk/ldjg/ldjgry.htm	副校长		吉林大学	https://www.jlu.edu.cn/info/1155/57676.htm	3630
+姚毓春		3		吉林省	长春市	https://www.jlu.edu.cn/xxgk/ldjg/ldjgry.htm	党委副书记、党委组织部部长		吉林大学	https://www.jlu.edu.cn/info/1155/56093.htm	3630
+田辉		4		吉林省	长春市	https://www.jlu.edu.cn/xxgk/ldjg/ldjgry.htm	党委书记		吉林大学	https://www.jlu.edu.cn/info/1155/55302.htm	3630
+丁世海		5		吉林省	长春市	https://www.jlu.edu.cn/xxgk/ldjg/ldjgry.htm	党委副书记		吉林大学	https://www.jlu.edu.cn/info/1155/55099.htm	3630
+于湘晖		6		吉林省	长春市	https://www.jlu.edu.cn/xxgk/ldjg/ldjgry.htm	副校长		吉林大学	https://www.jlu.edu.cn/info/1155/55098.htm	3630
+张然		7		吉林省	长春市	https://www.jlu.edu.cn/xxgk/ldjg/ldjgry.htm	党委常委、副校长		吉林大学	https://www.jlu.edu.cn/info/1155/54667.htm	3630
+胡漫		8		吉林省	长春市	https://www.jlu.edu.cn/xxgk/ldjg/ldjgry.htm	党委副书记、纪委书记，国家监委驻吉林大学监察专员		吉林大学	https://www.jlu.edu.cn/info/1155/54098.htm	3630
+张国兴		9		吉林省	长春市	https://www.jlu.edu.cn/xxgk/ldjg/ldjgry.htm	党委常委、副校长		吉林大学	https://www.jlu.edu.cn/info/1155/52639.htm	3630
+蔡立东		10		吉林省	长春市	https://www.jlu.edu.cn/xxgk/ldjg/ldjgry.htm	党委常委、常务副校长		吉林大学	https://www.jlu.edu.cn/info/1155/46225.htm	3630
+边铁		11		吉林省	长春市	https://www.jlu.edu.cn/xxgk/ldjg/ldjgry.htm	党委常委、副校长		吉林大学	https://www.jlu.edu.cn/info/1155/46224.htm	3630
+张希		12		吉林省	长春市	https://www.jlu.edu.cn/xxgk/ldjg/ldjgry.htm	校长、党委副书记		吉林大学	https://www.jlu.edu.cn/info/1155/44855.htm	3630

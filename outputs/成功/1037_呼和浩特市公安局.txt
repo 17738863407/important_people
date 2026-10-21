@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何青海		1		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sgaj_22406/fdzdgknr/?gk=2&cid=23319#bmjgjjID	党委副书记、常务副局长		呼和浩特市公安局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sgaj_22406/fdzdgknr/jgjj/ldjj/202109/t20210930_1034225.html	1037
+呼其图		2		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sgaj_22406/fdzdgknr/?gk=2&cid=23319#bmjgjjID	党委委员		呼和浩特市公安局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sgaj_22406/fdzdgknr/jgjj/ldjj/202109/t20210930_1034226.html	1037
+王钟琦		3		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sgaj_22406/fdzdgknr/?gk=2&cid=23319#bmjgjjID	党委委员、政治部主任		呼和浩特市公安局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sgaj_22406/fdzdgknr/jgjj/ldjj/202109/t20210930_1034227.html	1037
+李星超		4		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sgaj_22406/fdzdgknr/?gk=2&cid=23319#bmjgjjID	党委委员、驻局纪检监察组组长、		呼和浩特市公安局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sgaj_22406/fdzdgknr/jgjj/ldjj/202109/t20210930_1034228.html	1037
+云翔		5		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sgaj_22406/fdzdgknr/?gk=2&cid=23319#bmjgjjID	党委委员、副局长		呼和浩特市公安局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sgaj_22406/fdzdgknr/jgjj/ldjj/202109/t20210930_1034231.html	1037
+张文铎		6		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sgaj_22406/fdzdgknr/?gk=2&cid=23319#bmjgjjID	党委委员、副局长		呼和浩特市公安局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sgaj_22406/fdzdgknr/jgjj/ldjj/202212/t20221219_1460149.html	1037
+赵新龙		7		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sgaj_22406/fdzdgknr/?gk=2&cid=23319#bmjgjjID	党委委员、副局长		呼和浩特市公安局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sgaj_22406/fdzdgknr/jgjj/ldjj/202502/t20250228_1852388.html	1037
+白瑞立		8		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sgaj_22406/fdzdgknr/?gk=2&cid=23319#bmjgjjID	党委委员、副局长		呼和浩特市公安局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/sgaj_22406/fdzdgknr/jgjj/ldjj/202404/t20240416_1686750.html	1037

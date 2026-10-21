@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王辉		1		海南省	海口市	http://lyj.haikou.gov.cn/hkslyj/ldxxx/xxgk_list_notime.shtml	海口市林业局党组书记、局长		海口市林业局	http://lyj.haikou.gov.cn/hkslyj/ldxxx/202502/3a7e895b5f2a450eae4a41aa5de66bee.shtml	1474
+曾健		2		海南省	海口市	http://lyj.haikou.gov.cn/hkslyj/ldxxx/xxgk_list_notime.shtml	海口市林业局党组成员、副局长		海口市林业局	http://lyj.haikou.gov.cn/hkslyj/ldxxx/202502/22e78eb0fcea4ae5b534dbbccb0f63fe.shtml	1474
+陈奋		3		海南省	海口市	http://lyj.haikou.gov.cn/hkslyj/ldxxx/xxgk_list_notime.shtml	海口市林业局党组成员、副局长		海口市林业局	http://lyj.haikou.gov.cn/hkslyj/ldxxx/202502/1090579ff6234cabbe91a926af0be4f3.shtml	1474
+邱圣锋		4		海南省	海口市	http://lyj.haikou.gov.cn/hkslyj/ldxxx/xxgk_list_notime.shtml	海口市林业局党组成员、副局长		海口市林业局	http://lyj.haikou.gov.cn/hkslyj/ldxxx/202502/3e6c0adf71f445a7a008a685e42977d4.shtml	1474
+郭清岭		5		海南省	海口市	http://lyj.haikou.gov.cn/hkslyj/ldxxx/xxgk_list_notime.shtml	市林业局党组成员、三级调研员		海口市林业局	http://lyj.haikou.gov.cn/hkslyj/ldxxx/202502/239b65375ff644e78107f11e03fd938c.shtml	1474
+郭建		6		海南省	海口市	http://lyj.haikou.gov.cn/hkslyj/ldxxx/xxgk_list_notime.shtml	海口市林业局二级调研员		海口市林业局	http://lyj.haikou.gov.cn/hkslyj/ldxxx/202502/c26cd9909d634e0fb5d89a950ad2a253.shtml	1474
+李章儒		7		海南省	海口市	http://lyj.haikou.gov.cn/hkslyj/ldxxx/xxgk_list_notime.shtml	海口市林业局二级调研员		海口市林业局	http://lyj.haikou.gov.cn/hkslyj/ldxxx/202502/29e51a87cab346c8a45c37d03a92061d.shtml	1474
+张新泰		8		海南省	海口市	http://lyj.haikou.gov.cn/hkslyj/ldxxx/xxgk_list_notime.shtml	海口市林业局三级调研员		海口市林业局	http://lyj.haikou.gov.cn/hkslyj/ldxxx/202502/ca391c853b7f453faaceb169b2603121.shtml	1474
+孔照元		9		海南省	海口市	http://lyj.haikou.gov.cn/hkslyj/ldxxx/xxgk_list_notime.shtml	海口市林业局四级调研员		海口市林业局	http://lyj.haikou.gov.cn/hkslyj/ldxxx/202502/ed08488511144934acbf1984d0849428.shtml	1474

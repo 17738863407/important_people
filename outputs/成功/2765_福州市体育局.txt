@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈诸凯		1		福建省	福州市	http://tyj.fuzhou.gov.cn/zwgk/jgsz/	福州市体育局党组书记、局长，一级调研员		福州市体育局	https://tyj.fuzhou.gov.cn/zwgk/jgsz/ldxx/czk/	2765
+陈义		2		福建省	福州市	http://tyj.fuzhou.gov.cn/zwgk/jgsz/	福州市体育局党组成员、四级调研员		福州市体育局	https://tyj.fuzhou.gov.cn/zwgk/jgsz/ldxx/cy/	2765
+杨建国		3		福建省	福州市	http://tyj.fuzhou.gov.cn/zwgk/jgsz/	福州市体育局党组成员、三级调研员		福州市体育局	https://tyj.fuzhou.gov.cn/zwgk/jgsz/ldxx/yjg/	2765
+范忠华		4		福建省	福州市	http://tyj.fuzhou.gov.cn/zwgk/jgsz/	福州市体育局党组成员、副局长		福州市体育局	https://tyj.fuzhou.gov.cn/zwgk/jgsz/ldxx/fzh/	2765
+魏智兴		5		福建省	福州市	http://tyj.fuzhou.gov.cn/zwgk/jgsz/	福州市体育局党组成员、副局长		福州市体育局	https://tyj.fuzhou.gov.cn/zwgk/jgsz/ldxx/wzx/	2765
+黄毅		6		福建省	福州市	http://tyj.fuzhou.gov.cn/zwgk/jgsz/	福州市体育局二级调研员		福州市体育局	https://tyj.fuzhou.gov.cn/zwgk/jgsz/ldxx/hy/	2765
+郭志农		7		福建省	福州市	http://tyj.fuzhou.gov.cn/zwgk/jgsz/	福州市体育局二级调研员		福州市体育局	https://tyj.fuzhou.gov.cn/zwgk/jgsz/ldxx/gzn/	2765
+彭乐		8		福建省	福州市	http://tyj.fuzhou.gov.cn/zwgk/jgsz/	福州市体育局二级调研员		福州市体育局	https://tyj.fuzhou.gov.cn/zwgk/jgsz/ldxx/pl/	2765

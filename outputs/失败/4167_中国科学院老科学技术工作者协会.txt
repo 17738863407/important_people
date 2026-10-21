@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张志林		1		全国		https://lkx.cas.cn/xhjsdh1/ldjg/	顾问		中国科学院老科学技术工作者协会		4167
+何远光		2		全国		https://lkx.cas.cn/xhjsdh1/ldjg/	顾问		中国科学院老科学技术工作者协会		4167
+孙建国		3		全国		https://lkx.cas.cn/xhjsdh1/ldjg/	顾问		中国科学院老科学技术工作者协会		4167
+马扬		4		全国		https://lkx.cas.cn/xhjsdh1/ldjg/	理事长		中国科学院老科学技术工作者协会		4167
+宋秋生		5		全国		https://lkx.cas.cn/xhjsdh1/ldjg/	副理事长；秘书长		中国科学院老科学技术工作者协会		4167
+曹以玉		6		全国		https://lkx.cas.cn/xhjsdh1/ldjg/	副理事长		中国科学院老科学技术工作者协会		4167
+高随祥		7		全国		https://lkx.cas.cn/xhjsdh1/ldjg/	副理事长		中国科学院老科学技术工作者协会		4167
+魏令波		8		全国		https://lkx.cas.cn/xhjsdh1/ldjg/	副秘书长		中国科学院老科学技术工作者协会		4167

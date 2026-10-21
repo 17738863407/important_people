@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谭爱英		1		广东省	广州市	https://tyj.gz.gov.cn/xxgk/zfxxgkml/zfxxgkml/zzjg/ldfg/content/post_10857312.html	党组书记、局长、一级巡视员		广州市体育局		2771
+林燕芬		2		广东省	广州市	https://tyj.gz.gov.cn/xxgk/zfxxgkml/zfxxgkml/zzjg/ldfg/content/post_10857312.html	党组副书记、副局长、二级巡视员		广州市体育局		2771
+赵灵峰		3		广东省	广州市	https://tyj.gz.gov.cn/xxgk/zfxxgkml/zfxxgkml/zzjg/ldfg/content/post_10857312.html	党组成员、副局长		广州市体育局		2771
+贾俊峰		4		广东省	广州市	https://tyj.gz.gov.cn/xxgk/zfxxgkml/zfxxgkml/zzjg/ldfg/content/post_10857312.html	党组成员、副局长		广州市体育局		2771
+勒广义		5		广东省	广州市	https://tyj.gz.gov.cn/xxgk/zfxxgkml/zfxxgkml/zzjg/ldfg/content/post_10857312.html	二级巡视员		广州市体育局		2771
+王桂峰		6		广东省	广州市	https://tyj.gz.gov.cn/xxgk/zfxxgkml/zfxxgkml/zzjg/ldfg/content/post_10857312.html	市管一级调研员		广州市体育局		2771

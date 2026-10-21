@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+龙卫东		1		海南省		http://hrss.hainan.gov.cn/hrss/jgjs/jgjslist.shtml?ddtab=true	厅党组书记、厅长		海南省人力资源和社会保障厅	http://hrss.hainan.gov.cn/hrss/0103/202204/ed08197ae5d9498d84baf7b6b3aa0c2c.shtml	1012
+陶静		2		海南省		http://hrss.hainan.gov.cn/hrss/jgjs/jgjslist.shtml?ddtab=true	厅党组成员、副厅长		海南省人力资源和社会保障厅	http://hrss.hainan.gov.cn/hrss/0103/202511/9e80be2ffa094894931c0185fb38bd28.shtml	1012
+江南萱		3		海南省		http://hrss.hainan.gov.cn/hrss/jgjs/jgjslist.shtml?ddtab=true	厅党组成员、副厅长		海南省人力资源和社会保障厅	http://hrss.hainan.gov.cn/hrss/0103/202609/8e782c9223144f159efb8ec168360731.shtml	1012
+林鹏		4		海南省		http://hrss.hainan.gov.cn/hrss/jgjs/jgjslist.shtml?ddtab=true	厅党组成员、副厅长		海南省人力资源和社会保障厅	http://hrss.hainan.gov.cn/hrss/0103/201907/d316bc2a5548466088aae095bcb6dc1d.shtml	1012
+朱安领		5		海南省		http://hrss.hainan.gov.cn/hrss/jgjs/jgjslist.shtml?ddtab=true	厅党组成员		海南省人力资源和社会保障厅	http://hrss.hainan.gov.cn/hrss/0103/202604/7a8ae1160337400fbb1921f8d1e314a3.shtml	1012
+林佳		6		海南省		http://hrss.hainan.gov.cn/hrss/jgjs/jgjslist.shtml?ddtab=true	厅党组成员、副厅长		海南省人力资源和社会保障厅	http://hrss.hainan.gov.cn/hrss/0103/202604/8ae0f735abcb42118f61306a24825df9.shtml	1012

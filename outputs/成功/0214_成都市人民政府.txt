@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈书平		1		四川省	成都市	https://www.chengdu.gov.cn/cdsrmzf/c181472/leader_list.shtml	市长		成都市人民政府		0214
+陈麟		2		四川省	成都市	https://www.chengdu.gov.cn/cdsrmzf/c181472/leader_list.shtml	常务副市长		成都市人民政府	https://www.chengdu.gov.cn/cdsrmzf/c182263/leader_list.shtml	0214
+杜海波		3		四川省	成都市	https://www.chengdu.gov.cn/cdsrmzf/c181472/leader_list.shtml	市政府党组成员		成都市人民政府	https://www.chengdu.gov.cn/cdsrmzf/c180645/leader_list.shtml	0214
+赵建		4		四川省	成都市	https://www.chengdu.gov.cn/cdsrmzf/c181472/leader_list.shtml	副市长		成都市人民政府	https://www.chengdu.gov.cn/cdsrmzf/c179133/leader_list.shtml	0214
+王付瑜		5		四川省	成都市	https://www.chengdu.gov.cn/cdsrmzf/c181472/leader_list.shtml	副市长		成都市人民政府	https://www.chengdu.gov.cn/cdsrmzf/c182264/leader_list.shtml	0214
+陈志勇		6		四川省	成都市	https://www.chengdu.gov.cn/cdsrmzf/c181472/leader_list.shtml	副市长		成都市人民政府	https://www.chengdu.gov.cn/cdsrmzf/zfxx/ld_czy.shtml	0214
+胡国民		7		四川省	成都市	https://www.chengdu.gov.cn/cdsrmzf/c181472/leader_list.shtml	副市长		成都市人民政府	https://www.chengdu.gov.cn/cdsrmzf/zfxx/ld_hgm.shtml	0214
+吴皓		8		四川省	成都市	https://www.chengdu.gov.cn/cdsrmzf/c181472/leader_list.shtml	副市长		成都市人民政府	https://www.chengdu.gov.cn/cdsrmzf/zfxx/ld_wh.shtml	0214
+许兴国		9		四川省	成都市	https://www.chengdu.gov.cn/cdsrmzf/c181472/leader_list.shtml	副市长		成都市人民政府	https://www.chengdu.gov.cn/cdsrmzf/c172422/leader_list.shtml	0214
+王锋君		10		四川省	成都市	https://www.chengdu.gov.cn/cdsrmzf/c181472/leader_list.shtml	副市长		成都市人民政府	https://www.chengdu.gov.cn/cdsrmzf/c179130/leader_list.shtml	0214

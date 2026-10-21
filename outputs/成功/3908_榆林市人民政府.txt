@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马月逢		1		陕西省	榆林市	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/	市委副书记、市长		榆林市人民政府	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/szf/sz/myf1/	3908
+王小育		2		陕西省	榆林市	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/	市委常委、常务副市长		榆林市人民政府	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/szf/fsz/wxy/	3908
+杨德邦		3		陕西省	榆林市	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/	市委常委、副市长		榆林市人民政府	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/szf/fsz/ydb/	3908
+田小宁		4		陕西省	榆林市	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/	市委常委、副市长		榆林市人民政府	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/szf/fsz/txn/	3908
+沈效功		5		陕西省	榆林市	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/	副市长		榆林市人民政府	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/szf/fsz/sxg/	3908
+王海刚		6		陕西省	榆林市	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/	副市长		榆林市人民政府	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/szf/fsz/whg/	3908
+张飞		7		陕西省	榆林市	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/	副市长		榆林市人民政府	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/szf/fsz/zf/	3908
+吴新利		8		陕西省	榆林市	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/	副市长		榆林市人民政府	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/szf/fsz/wxl/	3908
+王名喆		9		陕西省	榆林市	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/	副市长		榆林市人民政府	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/szf/fsz/wmz/	3908
+吕瑞卿		10		陕西省	榆林市	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/	市政府秘书长		榆林市人民政府	https://www.yl.gov.cn/zwgk/fdzdgknr/ldzc/szf/msz/lrq/	3908

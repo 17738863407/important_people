@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈健		1		北京市		https://www.bjsupervision.gov.cn/xxgk/ldjg/	中共北京市第十三届纪律检查委员会书记；中共北京市第十三届纪律检查委员会常委；北京市监察委员会主任		北京市纪委监委		4489
+杨玉香		2		北京市		https://www.bjsupervision.gov.cn/xxgk/ldjg/	中共北京市第十三届纪律检查委员会副书记；中共北京市第十三届纪律检查委员会常委；北京市监察委员会副主任		北京市纪委监委		4489
+王向明		3		北京市		https://www.bjsupervision.gov.cn/xxgk/ldjg/	中共北京市第十三届纪律检查委员会副书记；中共北京市第十三届纪律检查委员会常委；北京市监察委员会副主任		北京市纪委监委		4489
+张丽红		4		北京市		https://www.bjsupervision.gov.cn/xxgk/ldjg/	中共北京市第十三届纪律检查委员会副书记；中共北京市第十三届纪律检查委员会常委；北京市监察委员会副主任		北京市纪委监委		4489
+倪紫剑		5		北京市		https://www.bjsupervision.gov.cn/xxgk/ldjg/	中共北京市第十三届纪律检查委员会常委		北京市纪委监委		4489
+李威		6		北京市		https://www.bjsupervision.gov.cn/xxgk/ldjg/	中共北京市第十三届纪律检查委员会常委		北京市纪委监委		4489
+肖飒		7		北京市		https://www.bjsupervision.gov.cn/xxgk/ldjg/	中共北京市第十三届纪律检查委员会常委		北京市纪委监委		4489
+徐航		8		北京市		https://www.bjsupervision.gov.cn/xxgk/ldjg/	中共北京市第十三届纪律检查委员会常委		北京市纪委监委		4489
+王志宇		9		北京市		https://www.bjsupervision.gov.cn/xxgk/ldjg/	中共北京市第十三届纪律检查委员会常委		北京市纪委监委		4489

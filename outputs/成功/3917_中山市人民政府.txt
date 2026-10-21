@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+尹念红		1		广东省	中山市	https://www.zs.gov.cn/zwgk/index.html	市委副书记、市政府市长、党组书记		中山市人民政府	http://www.zs.gov.cn/zwgk/ldzc/szfld/content/post_2536979.html	3917
+叶红光		2		广东省	中山市	https://www.zs.gov.cn/zwgk/index.html	市委常委、市政府副市长、党组副书记		中山市人民政府	http://www.zs.gov.cn/zwgk/ldzc/szfld/content/post_1812314.html	3917
+周作德		3		广东省	中山市	https://www.zs.gov.cn/zwgk/index.html	市政府副市长		中山市人民政府	http://www.zs.gov.cn/zwgk/ldzc/szfld/content/post_2024600.html	3917
+欧阳锦全		4		广东省	中山市	https://www.zs.gov.cn/zwgk/index.html	市政府副市长、党组成员		中山市人民政府	http://www.zs.gov.cn/zwgk/ldzc/szfld/content/post_2059994.html	3917
+陈晖东		5		广东省	中山市	https://www.zs.gov.cn/zwgk/index.html	市政府副市长、党组成员		中山市人民政府	http://www.zs.gov.cn/zwgk/ldzc/szfld/content/post_2450315.html	3917
+陈夏广		6		广东省	中山市	https://www.zs.gov.cn/zwgk/index.html	市政府副市长、党组成员		中山市人民政府	http://www.zs.gov.cn/zwgk/ldzc/szfld/content/post_2584438.html	3917
+王明颖		7		广东省	中山市	https://www.zs.gov.cn/zwgk/index.html	市政府副市长、党组成员（挂职）		中山市人民政府	http://www.zs.gov.cn/zwgk/ldzc/szfld/content/post_2590919.html	3917

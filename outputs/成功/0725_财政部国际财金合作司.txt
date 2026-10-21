@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+鲁劲		1		全国		http://gjs.mof.gov.cn/guanyuwomen/lingdaozhici/	司长		财政部国际财金合作司		0725
+刘伟华		2		全国		http://gjs.mof.gov.cn/guanyuwomen/lingdaozhici/	一级巡视员		财政部国际财金合作司		0725
+姚里程		3		全国		http://gjs.mof.gov.cn/guanyuwomen/lingdaozhici/	世界银行贷款项目评估中心副主任		财政部国际财金合作司		0725

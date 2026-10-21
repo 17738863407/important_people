@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王伟		1		天津市		https://gfdy.tj.gov.cn/zwgk/gkxx/ldxx/	主任、党组书记		天津市国防动员办公室	https://gfdy.tj.gov.cn/zwgk/gkxx/ldxx/tjsrmzfrmfkbgszrdzsj/wqs/202006/t20200619_3932815.html	0704
+赵斌		2		天津市		https://gfdy.tj.gov.cn/zwgk/gkxx/ldxx/	副主任、党组成员		天津市国防动员办公室	https://gfdy.tj.gov.cn/zwgk/gkxx/ldxx/tjsrfbfzrdzcy/zb/202006/t20200619_3932818.html	0704
+李根长		3		天津市		https://gfdy.tj.gov.cn/zwgk/gkxx/ldxx/	副主任、党组成员		天津市国防动员办公室	https://gfdy.tj.gov.cn/zwgk/gkxx/ldxx/tjsrfbfzrdzcy/lgc/202311/t20231127_6465777.html	0704
+李浩申		4		天津市		https://gfdy.tj.gov.cn/zwgk/gkxx/ldxx/	二级巡视员		天津市国防动员办公室	https://gfdy.tj.gov.cn/zwgk/gkxx/ldxx/tjsrfbfxsy/lhs/202006/t20200619_3932823.html	0704

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐光辉		1		江苏省		https://kxjst.jiangsu.gov.cn/col/col82548/index.html	党组书记、厅长		江苏省科学技术厅		1403
+高飞		2		江苏省		https://kxjst.jiangsu.gov.cn/col/col82548/index.html	副厅长、党组成员		江苏省科学技术厅		1403
+倪菡忆		3		江苏省		https://kxjst.jiangsu.gov.cn/col/col82548/index.html	副厅长、党组成员		江苏省科学技术厅		1403
+刘波		4		江苏省		https://kxjst.jiangsu.gov.cn/col/col82548/index.html	副厅长、党组成员		江苏省科学技术厅		1403
+蔡英凤		5		江苏省		https://kxjst.jiangsu.gov.cn/col/col82548/index.html	副厅长、党组成员		江苏省科学技术厅		1403
+周传明		6		江苏省		https://kxjst.jiangsu.gov.cn/col/col82548/index.html	省纪委监委派驻省科技厅纪检监察组组长、省科技厅党组成员		江苏省科学技术厅		1403
+万发苗		7		江苏省		https://kxjst.jiangsu.gov.cn/col/col82548/index.html	二级巡视员		江苏省科学技术厅		1403

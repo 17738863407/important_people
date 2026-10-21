@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蔡全记		1		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/tyj/gkml/jgxx/202201/t20220104_4171853.shtml	党组书记、局长、市体育总会主席		青岛市体育局		2153
+矫曙光		2		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/tyj/gkml/jgxx/202201/t20220104_4171853.shtml	二级巡视员		青岛市体育局		2153
+刘新宏		3		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/tyj/gkml/jgxx/202201/t20220104_4171853.shtml	党组成员、副局长		青岛市体育局		2153
+张馨		4		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/tyj/gkml/jgxx/202201/t20220104_4171853.shtml	党组成员、副局长		青岛市体育局		2153
+罗东		5		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/tyj/gkml/jgxx/202201/t20220104_4171853.shtml	党组成员、副局长		青岛市体育局		2153
+马玉圣		6		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/tyj/gkml/jgxx/202201/t20220104_4171853.shtml	副局级领导干部		青岛市体育局		2153
+张敏		7		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/tyj/gkml/jgxx/202201/t20220104_4171853.shtml	党组成员、市体育事业发展中心（市帆船运动管理中心）主任		青岛市体育局		2153

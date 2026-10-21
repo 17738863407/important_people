@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+左广		1		云南省	保山市	https://www.baoshan.gov.cn/szf.htm	中共保山市委副书记，市人民政府市长、党组书记		保山市人民政府	https://www.baoshan.gov.cn/info/1090/10079884.htm	0108
+张各兴		2		云南省	保山市	https://www.baoshan.gov.cn/szf.htm	中共保山市委常委，保山市人民政府副市长、党组成员（挂职二年）		保山市人民政府	https://www.baoshan.gov.cn/info/1091/9996824.htm	0108
+成德君		3		云南省	保山市	https://www.baoshan.gov.cn/szf.htm	保山市人民政府副市长、党组成员		保山市人民政府	https://www.baoshan.gov.cn/info/1091/9326184.htm	0108
+高康		4		云南省	保山市	https://www.baoshan.gov.cn/szf.htm	保山市人民政府副市长		保山市人民政府	https://www.baoshan.gov.cn/info/1091/9326244.htm	0108
+袁建勋		5		云南省	保山市	https://www.baoshan.gov.cn/szf.htm	保山市人民政府副市长、党组成员，市公安局局长		保山市人民政府	https://www.baoshan.gov.cn/info/1091/10079894.htm	0108
+龚翠莲		6		云南省	保山市	https://www.baoshan.gov.cn/szf.htm	保山市人民政府副市长、党组成员		保山市人民政府	https://www.baoshan.gov.cn/info/1091/10079904.htm	0108
+黄晓东		7		云南省	保山市	https://www.baoshan.gov.cn/szf.htm	保山市人民政府党组成员、市政府办公室党组书记		保山市人民政府	https://www.baoshan.gov.cn/info/1091/10081054.htm	0108

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐建群		1		甘肃省		https://www.gsass.net.cn/ykjj/xrld	党委书记		甘肃省社会科学院	https://www.gsass.net.cn/ykjj/xrld/content_6102	3764
+罗哲		2		甘肃省		https://www.gsass.net.cn/ykjj/xrld	党委副书记、院长		甘肃省社会科学院	https://www.gsass.net.cn/ykjj/xrld/content_6139	3764
+董积生		3		甘肃省		https://www.gsass.net.cn/ykjj/xrld	党委委员；副院长		甘肃省社会科学院	https://www.gsass.net.cn/ykjj/xrld/content_21	3764
+陈永胜		4		甘肃省		https://www.gsass.net.cn/ykjj/xrld	党委委员；副院长		甘肃省社会科学院	https://www.gsass.net.cn/ykjj/xrld/content_4919	3764
+景志锋		5		甘肃省		https://www.gsass.net.cn/ykjj/xrld	党委副书记		甘肃省社会科学院	https://www.gsass.net.cn/ykjj/xrld/content_5500	3764
+陈晓斌		6		甘肃省		https://www.gsass.net.cn/ykjj/xrld	党委委员；纪委书记		甘肃省社会科学院	https://www.gsass.net.cn/ykjj/xrld/content_6320	3764
+侯宗辉		7		甘肃省		https://www.gsass.net.cn/ykjj/xrld	党委委员；副院长		甘肃省社会科学院	https://www.gsass.net.cn/ykjj/xrld/content_8020	3764

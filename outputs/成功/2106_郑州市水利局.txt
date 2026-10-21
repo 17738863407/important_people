@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李雅		1		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=26	党组书记		郑州市水利局	https://public.zhengzhou.gov.cn/D14Y/6964380.jhtml	2106
+梁远森		2		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=26	局长		郑州市水利局	https://public.zhengzhou.gov.cn/D14Y/4351032.jhtml	2106
+周士新		3		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=26	党组成员、一级调研员		郑州市水利局	https://public.zhengzhou.gov.cn/D14Y/4350755.jhtml	2106
+陈刚		4		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=26	党组成员、一级调研员		郑州市水利局	https://public.zhengzhou.gov.cn/D14Y/4350643.jhtml	2106
+吴新勇		5		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=26	党组成员、副局长		郑州市水利局	https://public.zhengzhou.gov.cn/D14Y/10018549.jhtml	2106
+王学军		6		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=26	党组成员、副局长		郑州市水利局	https://public.zhengzhou.gov.cn/D14Y/7571077.jhtml	2106
+张学林		7		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=26	党组成员、二级调研员		郑州市水利局	https://public.zhengzhou.gov.cn/D14Y/8183525.jhtml	2106
+郭伟		8		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=26	党组成员、副局长		郑州市水利局	https://public.zhengzhou.gov.cn/D14Y/9651407.jhtml	2106
+高建领		9		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=26	郑州市纪委监委驻市水利局纪检监察组组长		郑州市水利局	https://public.zhengzhou.gov.cn/D14Y/8183455.jhtml	2106
+刁维杰		10		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=26	副局长		郑州市水利局	https://public.zhengzhou.gov.cn/D14Y/9926143.jhtml	2106
+朱传芳		11		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=26	郑州市应急管理局副局长，郑州市水利局副局长（兼）		郑州市水利局	https://public.zhengzhou.gov.cn/D14Y/10170575.jhtml	2106

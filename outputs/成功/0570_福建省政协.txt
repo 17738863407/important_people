@@ -1,0 +1,108 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+滕佳材		1		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	主席		福建省政协	https://www.fjzx.gov.cn/tjc/index.jhtml	0570
+黄海昆		2		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	副主席		福建省政协	https://www.fjzx.gov.cn/hhkk/index.jhtml	0570
+林文斌		3		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	副主席		福建省政协	https://www.fjzx.gov.cn/lwb123/index.jhtml	0570
+黄文辉		4		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	副主席		福建省政协	https://www.fjzx.gov.cn/hwh/index.jhtml	0570
+王光远		5		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	副主席		福建省政协	https://www.fjzx.gov.cn/wgy/index.jhtml	0570
+阮诗玮		6		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	副主席		福建省政协	https://www.fjzx.gov.cn/rsw/index.jhtml	0570
+刘献祥		7		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	副主席		福建省政协	https://www.fjzx.gov.cn/lxx/index.jhtml	0570
+严可仕		8		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	副主席		福建省政协	https://www.fjzx.gov.cn/yks/index.jhtml	0570
+余军		9		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	副主席		福建省政协		0570
+黄玲		10		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	副主席		福建省政协	https://www.fjzx.gov.cn/hl/index.jhtml	0570
+黄如欣		11		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	副主席		福建省政协	https://www.fjzx.gov.cn/hrx/index.jhtml	0570
+邱天华		12		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	秘书长		福建省政协	https://www.fjzx.gov.cn/qth/index.jhtml	0570
+马建荣		13		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+马祥庆		14		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+王长平		15		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+王亚龙		16		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+王秋梅		17		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+叶玲		18		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+叶飞文		19		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+叶道明		20		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+史建国		21		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+兰万安		22		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+朱向		23		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+任义文		24		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+刘泓		25		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+刘成立		26		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+刘卓群		27		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+许永东		28		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+许勇铁		29		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+许聪海		30		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+苏耿聪		31		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+苏清栋		32		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+杨昇		33		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+杨琳		34		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+杨东平		35		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+肖光彪		36		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+吴志明		37		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+吴丽冰		38		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+吴健明		39		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+吴崇伯		40		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+吴棉国		41		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+邱挺		42		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+宋志刚		43		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+张远		44		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+张源		45		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+张运明		46		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+陈欣		47		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+陈晞		48		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+陈永共		49		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+陈式海		50		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+陈国平		51		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+陈学平		52		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+陈晓东		53		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+陈敬辉		54		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+陈照瑜		55		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+邵明松		56		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+林润		57		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+林锋		58		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+林斌		59		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+林湫		60		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+林澄		61		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+林卫宠		62		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+林文生		63		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+林向凯		64		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+林全金		65		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+林作明		66		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+林治良		67		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+林修凤		68		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+林群慧		69		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+卓晓銮		70		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+罗恩平		71		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+岳清华		72		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+周少雄		73		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+郑玉琳		74		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+胡忠昭		75		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+柳公立		76		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+俞凯		77		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+施人玮		78		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+洪嘉恩		79		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+姚立纲		80		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+姚明耀		81		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+夏先鹏		82		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+顾颀		83		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+倪振年		84		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+郭金发		85		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+陶以平		86		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+黄卫东		87		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+黄世霖		88		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+黄自强		89		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+黄树清		90		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+黄海峡		91		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+曹宛红		92		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+曹建平		93		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+董良瀚		94		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+蒋少云		95		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+景浓		96		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+程明		97		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+释赵雄		98		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+曾能建		99		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+温永		100		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+游宇飞		101		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+蔡劲军		102		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+蔡建四		103		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+滕达		104		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+潘玉腾		105		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+魏克良		106		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570
+魏莉宁		107		全国		https://www.fjzx.gov.cn/zxld/index.jhtml	常务委员		福建省政协		0570

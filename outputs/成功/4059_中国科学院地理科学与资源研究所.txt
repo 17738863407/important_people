@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙福宝		1		全国		https://igsnrr.cas.cn/skjs/xrld/	所长		中国科学院地理科学与资源研究所	https://igsnrr.cas.cn/skjs/xrld/202401/t20240130_6977778.html	4059
+王生林		2		全国		https://igsnrr.cas.cn/skjs/xrld/	党委书记、副所长		中国科学院地理科学与资源研究所	https://igsnrr.cas.cn/skjs/xrld/202103/t20210305_5970501.html	4059
+江东		3		全国		https://igsnrr.cas.cn/skjs/xrld/	副所长		中国科学院地理科学与资源研究所	https://igsnrr.cas.cn/skjs/xrld/202401/t20240130_6977781.html	4059
+廖晓勇		4		全国		https://igsnrr.cas.cn/skjs/xrld/	副所长		中国科学院地理科学与资源研究所	https://igsnrr.cas.cn/skjs/xrld/202401/t20240130_6977782.html	4059
+崔胜先		5		全国		https://igsnrr.cas.cn/skjs/xrld/	纪委书记		中国科学院地理科学与资源研究所	https://igsnrr.cas.cn/skjs/xrld/202401/t20240130_6977784.html	4059

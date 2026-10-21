@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+龚志彬		1		四川省	成都市	https://cdwater.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市水务局党组成员、二级巡视员，成都沱江流域生态保护和发展促进中心主任		成都市水务局	https://cdwater.chengdu.gov.cn/gkml/ldcy/1635109304296022016.shtml	0179
+游永志		2		四川省	成都市	https://cdwater.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市水务局二级巡视员		成都市水务局	https://cdwater.chengdu.gov.cn/gkml/ldcy/1258437424900472832.shtml	0179
+杜胜歌		3		四川省	成都市	https://cdwater.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市水务局党组成员、副局长、机关党委书记		成都市水务局	https://cdwater.chengdu.gov.cn/gkml/ldcy/1463540435526877184.shtml	0179
+王胜		4		四川省	成都市	https://cdwater.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市水务局党组成员、副局长		成都市水务局	https://cdwater.chengdu.gov.cn/gkml/ldcy/1491112926466015232.shtml	0179
+欧芝江		5		四川省	成都市	https://cdwater.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市水务局一级调研员		成都市水务局	https://cdwater.chengdu.gov.cn/gkml/ldcy/1635109304652537856.shtml	0179
+旷良义		6		四川省	成都市	https://cdwater.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市水务局一级调研员，成都沱江流域生态保护和发展促进中心副主任		成都市水务局	https://cdwater.chengdu.gov.cn/gkml/ldcy/1491114669404848128.shtml	0179
+陈文雅		7		四川省	成都市	https://cdwater.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	职成都市水务局一级调研员，成都沱江流域生态保护和发展促进中心副主任		成都市水务局	https://cdwater.chengdu.gov.cn/gkml/ldcy/1542905510930415616.shtml	0179

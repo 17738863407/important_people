@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谢志强		1		黑龙江省	鸡西市	https://www.jixi.gov.cn/jixi/c100010/jgld.shtml	市长		鸡西市人民政府	https://www.jixi.gov.cn/jixi/c100011/202308/c06_144913.shtml	3847
+高运禄		2		黑龙江省	鸡西市	https://www.jixi.gov.cn/jixi/c100010/jgld.shtml	副市长		鸡西市人民政府	https://www.jixi.gov.cn/jixi/c100012/202402/c06_288003.shtml	3847
+于君		3		黑龙江省	鸡西市	https://www.jixi.gov.cn/jixi/c100010/jgld.shtml	副市长		鸡西市人民政府	https://www.jixi.gov.cn/jixi/c100012/202603/c06_359134.shtml	3847
+郭显文		4		黑龙江省	鸡西市	https://www.jixi.gov.cn/jixi/c100010/jgld.shtml	副市长		鸡西市人民政府	https://www.jixi.gov.cn/jixi/c100012/202308/c06_144908.shtml	3847
+徐晓利		5		黑龙江省	鸡西市	https://www.jixi.gov.cn/jixi/c100010/jgld.shtml	副市长		鸡西市人民政府	https://www.jixi.gov.cn/jixi/c100012/202308/c06_144905.shtml	3847
+齐剑萍		6		黑龙江省	鸡西市	https://www.jixi.gov.cn/jixi/c100010/jgld.shtml	副市长		鸡西市人民政府	https://www.jixi.gov.cn/jixi/c100012/202507/c06_337501.shtml	3847
+侯绍波		7		黑龙江省	鸡西市	https://www.jixi.gov.cn/jixi/c100010/jgld.shtml	副市长		鸡西市人民政府	https://www.jixi.gov.cn/jixi/c100012/202608/c06_370561.shtml	3847
+蔡杰		8		黑龙江省	鸡西市	https://www.jixi.gov.cn/jixi/c100010/jgld.shtml	副市长		鸡西市人民政府	https://www.jixi.gov.cn/jixi/c100012/202609/c06_372978.shtml	3847
+唐利军		9		黑龙江省	鸡西市	https://www.jixi.gov.cn/jixi/c100010/jgld.shtml	秘书长		鸡西市人民政府	https://www.jixi.gov.cn/jixi/c100020/202201/c06_15034.shtml	3847

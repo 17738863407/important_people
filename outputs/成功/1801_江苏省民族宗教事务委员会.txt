@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邓飞		1		江苏省		https://mzw.jiangsu.gov.cn/col/col77558/index.html	江苏省委统一战线工作部副部长，省民族宗教事务委员会主任、党组书记		江苏省民族宗教事务委员会	http://mzw.jiangsu.gov.cn/col/col79914/index.html	1801
+陈翔		2		江苏省		https://mzw.jiangsu.gov.cn/col/col77558/index.html	江苏省民族宗教事务委员会副主任、党组成员		江苏省民族宗教事务委员会	http://mzw.jiangsu.gov.cn/col/col92451/index.html	1801
+秦华		3		江苏省		https://mzw.jiangsu.gov.cn/col/col77558/index.html	江苏省民族宗教事务委员会副主任、党组成员		江苏省民族宗教事务委员会	http://mzw.jiangsu.gov.cn/col/col89122/index.html	1801
+梁木		4		江苏省		https://mzw.jiangsu.gov.cn/col/col77558/index.html	江苏省民族宗教事务委员会副主任、党组成员		江苏省民族宗教事务委员会	http://mzw.jiangsu.gov.cn/col/col93614/index.html	1801

@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵毅		1		云南省		https://ynjy.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/ldxx/	云南省司法厅党委委员，省监狱管理局党委书记、局长		云南省监狱管理局		3273
+沈宗良		2		云南省		https://ynjy.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/ldxx/	云南省监狱管理局党委副书记、政委		云南省监狱管理局		3273
+孙跃文		3		云南省		https://ynjy.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/ldxx/	云南省监狱管理局党委委员、副局长（副厅级）兼云南金马集团有限责任公司总经理		云南省监狱管理局		3273
+太斌		4		云南省		https://ynjy.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/ldxx/	云南省监狱管理局党委委员、副局长		云南省监狱管理局		3273
+王政辉		5		云南省		https://ynjy.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/ldxx/	云南省监狱管理局党委委员、政治部主任		云南省监狱管理局		3273
+钱文		6		云南省		https://ynjy.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/ldxx/	云南省监狱管理局党委委员、副局长		云南省监狱管理局		3273
+蒋智勇		7		云南省		https://ynjy.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/ldxx/	云南省监狱管理局党委委员、副局长		云南省监狱管理局		3273
+王永生		8		云南省		https://ynjy.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/ldxx/	云南省监狱管理局党委委员、办公室主任		云南省监狱管理局		3273
+孙军锋		9		云南省		https://ynjy.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/ldxx/	云南省监狱管理局党委委员、副局长		云南省监狱管理局		3273
+张新成		10		云南省		https://ynjy.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/ldxx/	云南省监狱管理局督查专员兼云南金马集团有限责任公司副总经理		云南省监狱管理局		3273
+倪学斌		11		云南省		https://ynjy.yn.gov.cn/zfxxgk/fdzdgknr/zzjg/ldxx/	云南省监狱管理局二级巡视员		云南省监狱管理局		3273

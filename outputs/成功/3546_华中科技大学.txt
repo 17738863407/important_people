@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘波		1		湖北省	武汉市	https://www.hust.edu.cn/xxgk/xrld.htm	党委书记；党委常委		华中科技大学	https://www.hust.edu.cn/info/1005/17070.htm	3546
+尤政		2		湖北省	武汉市	https://www.hust.edu.cn/xxgk/xrld.htm	校长；党委副书记；党委常委		华中科技大学	https://www.hust.edu.cn/info/1005/7507.htm	3546
+刘亚锋		3		湖北省	武汉市	https://www.hust.edu.cn/xxgk/xrld.htm	党委副书记；纪委书记；国家监委派驻监察专员；党委常委		华中科技大学	https://www.hust.edu.cn/info/1005/16560.htm	3546
+张耀		4		湖北省	武汉市	https://www.hust.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		华中科技大学	https://www.hust.edu.cn/info/1005/10764.htm	3546
+张涛		5		湖北省	武汉市	https://www.hust.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		华中科技大学	https://www.hust.edu.cn/info/1005/14645.htm	3546
+于俊清		6		湖北省	武汉市	https://www.hust.edu.cn/xxgk/xrld.htm	副校长；党委常委		华中科技大学		3546
+高亮		7		湖北省	武汉市	https://www.hust.edu.cn/xxgk/xrld.htm	副校长；党委常委		华中科技大学	https://www.hust.edu.cn/info/1005/10766.htm	3546
+冯丹		8		湖北省	武汉市	https://www.hust.edu.cn/xxgk/xrld.htm	副校长		华中科技大学	https://www.hust.edu.cn/info/1005/14643.htm	3546
+张勇慧		9		湖北省	武汉市	https://www.hust.edu.cn/xxgk/xrld.htm	副校长；党委常委		华中科技大学	https://www.hust.edu.cn/info/1005/14644.htm	3546
+文劲宇		10		湖北省	武汉市	https://www.hust.edu.cn/xxgk/xrld.htm	副校长；党委常委		华中科技大学	https://www.hust.edu.cn/info/1005/16561.htm	3546
+尹周平		11		湖北省	武汉市	https://www.hust.edu.cn/xxgk/xrld.htm	副校长；党委常委		华中科技大学	https://www.hust.edu.cn/info/1005/18978.htm	3546
+顾远飞		12		湖北省	武汉市	https://www.hust.edu.cn/xxgk/xrld.htm	党委常委		华中科技大学		3546

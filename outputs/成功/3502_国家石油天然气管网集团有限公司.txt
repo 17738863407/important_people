@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张伟		1		全国		http://www.pipechina.com.cn/leader.html	国家石油天然气管网集团有限公司董事长、党组书记		国家石油天然气管网集团有限公司		3502
+何仲文		2		全国		http://www.pipechina.com.cn/leader.html	国家石油天然气管网集团有限公司董事、总经理、党组副书记		国家石油天然气管网集团有限公司		3502
+叶国华		3		全国		http://www.pipechina.com.cn/leader.html	国家石油天然气管网集团有限公司董事、党组副书记		国家石油天然气管网集团有限公司		3502
+陈萍萍		4		全国		http://www.pipechina.com.cn/leader.html	中央纪委国家监委驻国家石油天然气管网集团有限公司纪检监察组组长、国家管网集团党组成员		国家石油天然气管网集团有限公司		3502
+刘金玉		5		全国		http://www.pipechina.com.cn/leader.html	国家石油天然气管网集团有限公司副总经理、党组成员		国家石油天然气管网集团有限公司		3502
+王晓非		6		全国		http://www.pipechina.com.cn/leader.html	国家石油天然气管网集团有限公司总会计师、党组成员		国家石油天然气管网集团有限公司		3502
+方庆		7		全国		http://www.pipechina.com.cn/leader.html	国家石油天然气管网集团有限公司副总经理、党组成员		国家石油天然气管网集团有限公司		3502
+陈明卓		8		全国		http://www.pipechina.com.cn/leader.html	国家石油天然气管网集团有限公司副总经理、党组成员		国家石油天然气管网集团有限公司		3502
+崔锦红		9		全国		http://www.pipechina.com.cn/leader.html	国家石油天然气管网集团有限公司副总经理、党组成员		国家石油天然气管网集团有限公司		3502

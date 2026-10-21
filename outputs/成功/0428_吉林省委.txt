@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄强		1		全国		http://district.ce.cn/zt/rwk/sf/jl/index.shtml	省委书记、省人大常委会主任		吉林省委	http://district.ce.cn/newarea/sddy/202501/17/t20250117_39270018.shtml	0428
+胡玉亭		2		全国		http://district.ce.cn/zt/rwk/sf/jl/index.shtml	省委副书记、省长		吉林省委	http://district.ce.cn/newarea/sddy/202305/06/t20230506_38534005.shtml	0428
+吴海英		3		全国		http://district.ce.cn/zt/rwk/sf/jl/index.shtml	省委副书记		吉林省委	http://district.ce.cn/newarea/sddy/202310/08/t20231008_38739641.shtml	0428
+胡家福		4		全国		http://district.ce.cn/zt/rwk/sf/jl/index.shtml	省委常委、延边州委书记		吉林省委	http://district.ce.cn/newarea/sddy/202206/25/t20220625_37794283.shtml	0428
+张恩惠		5		全国		http://district.ce.cn/zt/rwk/sf/jl/index.shtml	省委常委，长春市委书记		吉林省委	http://district.ce.cn/newarea/sddy/202305/03/t20230503_38528666.shtml	0428
+邱江		6		全国		http://district.ce.cn/zt/rwk/sf/jl/index.shtml	省委常委、统战部部长		吉林省委	http://district.ce.cn/newarea/sddy/202507/t20250731_2426539.shtml	0428
+史文斌		7		全国		http://district.ce.cn/zt/rwk/sf/jl/index.shtml	省委常委、省纪委书记，省监委主任		吉林省委	http://district.ce.cn/newarea/sddy/202401/28/t20240128_38883644.shtml	0428
+曹路宝		8		全国		http://district.ce.cn/zt/rwk/sf/jl/index.shtml	省委常委、宣传部部长		吉林省委	http://district.ce.cn/newarea/sddy/202310/10/t20231010_38743584.shtml	0428
+李明伟		9		全国		http://district.ce.cn/zt/rwk/sf/jl/index.shtml	省委常委、政法委书记		吉林省委	http://district.ce.cn/newarea/sddy/202206/25/t20220625_37794309.shtml	0428
+李明祥		10		全国		http://district.ce.cn/zt/rwk/sf/jl/index.shtml	省委常委、组织部部长		吉林省委	http://district.ce.cn/newarea/sddy/202602/t20260209_2763030.shtml	0428

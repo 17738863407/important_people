@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王赟		1		全国		http://www.rugbyfootball.org.cn/	主席		中国橄榄球协会		3712
+张朝晖		2		全国		http://www.rugbyfootball.org.cn/	副主席		中国橄榄球协会		3712
+许秋红		3		全国		http://www.rugbyfootball.org.cn/	副主席		中国橄榄球协会		3712
+张亚东		4		全国		http://www.rugbyfootball.org.cn/	副主席		中国橄榄球协会		3712
+许铁军		5		全国		http://www.rugbyfootball.org.cn/	副主席		中国橄榄球协会		3712
+陆川		6		全国		http://www.rugbyfootball.org.cn/	特邀副主席		中国橄榄球协会		3712
+金宏文		7		全国		http://www.rugbyfootball.org.cn/	秘书长		中国橄榄球协会		3712
+刘福恒		8		全国		http://www.rugbyfootball.org.cn/	副秘书长		中国橄榄球协会		3712
+王姝		9		全国		http://www.rugbyfootball.org.cn/	副秘书长		中国橄榄球协会		3712
+于晗		10		全国		http://www.rugbyfootball.org.cn/	副秘书长		中国橄榄球协会		3712

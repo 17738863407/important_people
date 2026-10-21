@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王宁		1		全国		http://district.ce.cn/zt/rwk/sf/yn/index.shtml	省委书记，省人大常委会主任		云南省委	http://district.ce.cn/newarea/sddy/202201/23/t20220123_37280682.shtml	0446
+王予波		2		全国		http://district.ce.cn/zt/rwk/sf/yn/index.shtml	省委副书记、省长		云南省委	http://district.ce.cn/newarea/sddy/202101/29/t20210129_36273095_1.shtml	0446
+刘洪建		3		全国		http://district.ce.cn/zt/rwk/sf/yn/index.shtml	省委副书记、昆明市委书记		云南省委	http://district.ce.cn/newarea/sddy/202511/t20251114_2580503.shtml	0446
+陈春平		4		全国		http://district.ce.cn/zt/rwk/sf/yn/index.shtml	省委常委、常务副省长		云南省委	http://district.ce.cn/newarea/sddy/202609/t20260918_3221889.shtml	0446
+赵月霞		5		全国		http://district.ce.cn/zt/rwk/sf/yn/index.shtml	省委常委、组织部部长		云南省委	http://district.ce.cn/newarea/sddy/202510/t20251016_2520144.shtml	0446
+曾艳		6		全国		http://district.ce.cn/zt/rwk/sf/yn/index.shtml	省委常委、宣传部部长		云南省委	http://district.ce.cn/newarea/sddy/202112/07/t20211207_37149433.shtml	0446
+赵俊民		7		全国		http://district.ce.cn/zt/rwk/sf/yn/index.shtml	省委常委		云南省委	http://district.ce.cn/newarea/sddy/202609/t20260918_3221963.shtml	0446
+郑仲全		8		全国		http://district.ce.cn/zt/rwk/sf/yn/index.shtml	省委常委、省军区政委		云南省委		0446
+杨斌		9		全国		http://district.ce.cn/zt/rwk/sf/yn/index.shtml	省委常委，曲靖市委书记		云南省委	http://district.ce.cn/newarea/sddy/202312/23/t20231223_38840447.shtml	0446
+黄祎		10		全国		http://district.ce.cn/zt/rwk/sf/yn/index.shtml	省委常委、省纪委书记，省监委代理主任		云南省委	http://district.ce.cn/newarea/sddy/202603/t20260327_2861586.shtml	0446
+李保俊		11		全国		http://district.ce.cn/zt/rwk/sf/yn/index.shtml	省委常委、统战部部长		云南省委	http://district.ce.cn/newarea/sddy/202501/23/t20250123_39275862.shtml	0446
+胡大鹏		12		全国		http://district.ce.cn/zt/rwk/sf/yn/index.shtml	省委常委、政法委书记		云南省委	http://district.ce.cn/newarea/sddy/202505/23/t20250523_39364039.shtml	0446
+王正英		13		全国		http://district.ce.cn/zt/rwk/sf/yn/index.shtml	省委常委、省委秘书长		云南省委	http://district.ce.cn/newarea/sddy/202511/t20251108_2566676.shtml	0446

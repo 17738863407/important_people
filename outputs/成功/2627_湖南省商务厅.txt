@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+沈裕谋		1		湖南省		http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/xxgklbs.html	省商务厅党组书记、厅长，中国（湖南）自由贸易试验区工作办公室主任（兼）		湖南省商务厅	http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/202108/t20210811_20307619.html	2627
+石峰岗		2		湖南省		http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/xxgklbs.html	省商务厅党组成员、副厅长		湖南省商务厅	http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/202510/t20251020_33829120.html	2627
+邓卫平		3		湖南省		http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/xxgklbs.html	省商务厅党组成员、副厅长		湖南省商务厅	http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/202206/t20220630_26792114.html	2627
+刘素月		4		湖南省		http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/xxgklbs.html	省商务厅党组成员、副厅长		湖南省商务厅	http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/202406/t20240606_33321516.html	2627
+马文胜		5		湖南省		http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/xxgklbs.html	省商务厅党组成员，省纪委省监委驻省商务厅纪检监察组组长、二级高级监察官		湖南省商务厅	http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/202512/t20251217_33871933.html	2627
+梁志平		6		湖南省		http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/xxgklbs.html	省商务厅党组成员、副厅长		湖南省商务厅	http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/202609/t20260917_34066598.html	2627
+刘德林		7		湖南省		http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/xxgklbs.html	省人民政府口岸办公室主任		湖南省商务厅	http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/202401/t20240126_32635975.html	2627
+谭浩然		8		湖南省		http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/xxgklbs.html	中国（湖南）自由贸易试验区办公室专职副主任		湖南省商务厅	http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/202602/t20260202_33907567.html	2627
+叶劲松		9		湖南省		http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/xxgklbs.html	省商务厅一级巡视员		湖南省商务厅	http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/202503/t20250313_33611217.html	2627
+廖光辉		10		湖南省		http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/xxgklbs.html	省商务厅一级巡视员		湖南省商务厅	http://swt.hunan.gov.cn/swt/hnswt/85753/fdzdgknr/jgjj/jgldg/202105/t20210527_19382331.html	2627

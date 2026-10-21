@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄修柱		1		全国		http://www.chinapesticide.org.cn/zwb/drugTest	所长 党委书记		农业农村部农药检定所		0225
+陶传江		2		全国		http://www.chinapesticide.org.cn/zwb/drugTest	总农艺师		农业农村部农药检定所		0225
+赵可利		3		全国		http://www.chinapesticide.org.cn/zwb/drugTest	党委副书记 纪委书记		农业农村部农药检定所		0225
+宗伏霖		4		全国		http://www.chinapesticide.org.cn/zwb/drugTest	副所长		农业农村部农药检定所		0225
+何斌		5		全国		http://www.chinapesticide.org.cn/zwb/drugTest	副所长		农业农村部农药检定所		0225

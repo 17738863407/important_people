@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王世生		1		海南省	海口市	http://yjglj.haikou.gov.cn/hksyjglj/ldxxx/xxgk_list_notime.shtml	海口市应急管理局党委书记、局长		海口市应急管理局	http://yjglj.haikou.gov.cn/hksyjglj/ldxx/202608/08e18f124662417bb4abdf998a64c569.shtml	3203
+卢定安		2		海南省	海口市	http://yjglj.haikou.gov.cn/hksyjglj/ldxxx/xxgk_list_notime.shtml	海口市应急管理局党委委员、副局长、二级调研员		海口市应急管理局	http://yjglj.haikou.gov.cn/hksyjglj/ldxx/202511/43c1dc7664564f4f9204f148a657a2b3.shtml	3203
+邓海深		3		海南省	海口市	http://yjglj.haikou.gov.cn/hksyjglj/ldxxx/xxgk_list_notime.shtml	海口市应急管理局党委委员、副局长		海口市应急管理局	http://yjglj.haikou.gov.cn/hksyjglj/ldxx/202510/261a229241104f04b9befa733b7d564c.shtml	3203
+乔晋军		4		海南省	海口市	http://yjglj.haikou.gov.cn/hksyjglj/ldxxx/xxgk_list_notime.shtml	海口市应急管理局党委委员、副局长		海口市应急管理局	http://yjglj.haikou.gov.cn/hksyjglj/ldxx/202601/99187adb9f774c5e94e45809a02bdb7c.shtml	3203
+刘文明		5		海南省	海口市	http://yjglj.haikou.gov.cn/hksyjglj/ldxxx/xxgk_list_notime.shtml	海口市应急管理局二级调研员		海口市应急管理局	http://yjglj.haikou.gov.cn/hksyjglj/ldxx/202505/4ab1b24834ea4239a8c83e4fb030636c.shtml	3203
+唐海涛		6		海南省	海口市	http://yjglj.haikou.gov.cn/hksyjglj/ldxxx/xxgk_list_notime.shtml	海口市应急管理局四级调研员		海口市应急管理局	http://yjglj.haikou.gov.cn/hksyjglj/ldxx/202306/09a737c7cf6946eebfa97cbcdffae114.shtml	3203
+刘岳		7		海南省	海口市	http://yjglj.haikou.gov.cn/hksyjglj/ldxxx/xxgk_list_notime.shtml	海口市应急管理局四级调研员		海口市应急管理局	http://yjglj.haikou.gov.cn/hksyjglj/ldxx/202312/5fe720ebd46c40aea881159de3b85d63.shtml	3203

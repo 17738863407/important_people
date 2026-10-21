@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王政		1		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=46	党委书记、主任、一级调研员		郑州市人民政府国有资产监督管理委员会	https://public.zhengzhou.gov.cn/D14Y/9919751.jhtml	2100
+罗廷		2		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=46	党委委员、一级调研员		郑州市人民政府国有资产监督管理委员会	https://public.zhengzhou.gov.cn/D14Y/297391.jhtml	2100
+吴磊		3		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=46	党委委员、一级调研员		郑州市人民政府国有资产监督管理委员会	https://public.zhengzhou.gov.cn/D14Y/297384.jhtml	2100
+廖新新		4		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=46	党委委员、一级调研员		郑州市人民政府国有资产监督管理委员会	https://public.zhengzhou.gov.cn/D14Y/6328626.jhtml	2100
+张晟		5		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=46	党委委员、副主任、三级调研员		郑州市人民政府国有资产监督管理委员会	https://public.zhengzhou.gov.cn/D14Y/297374.jhtml	2100
+苏平		6		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=46	党委委员、副主任、三级调研员		郑州市人民政府国有资产监督管理委员会	https://public.zhengzhou.gov.cn/D14Y/8223659.jhtml	2100
+金涛		7		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=46	党委委员、副主任		郑州市人民政府国有资产监督管理委员会	https://public.zhengzhou.gov.cn/D14Y/8900139.jhtml	2100
+杨慧莹		8		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=46	副主任		郑州市人民政府国有资产监督管理委员会	https://public.zhengzhou.gov.cn/D14Y/9919791.jhtml	2100
+刘学银		9		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=46	一级调研员		郑州市人民政府国有资产监督管理委员会	https://public.zhengzhou.gov.cn/D14Y/146701.jhtml	2100
+岳启明		10		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=46	二级调研员		郑州市人民政府国有资产监督管理委员会	https://public.zhengzhou.gov.cn/D14Y/146681.jhtml	2100

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马国华		1		全国		https://www.neac.gov.cn/seac/mwjs/201805/1009169.shtml	主任		国家民族事务委员会办公厅		1856
+朱彤		2		全国		https://www.neac.gov.cn/seac/mwjs/201805/1009169.shtml	副主任		国家民族事务委员会办公厅		1856
+李青梅·李吉		3		全国		https://www.neac.gov.cn/seac/mwjs/201805/1009169.shtml	副主任		国家民族事务委员会办公厅		1856
+徐富邦		4		全国		https://www.neac.gov.cn/seac/mwjs/201805/1009169.shtml	副主任		国家民族事务委员会办公厅		1856
+谷序祥		5		全国		https://www.neac.gov.cn/seac/mwjs/201805/1009169.shtml	一级巡视员		国家民族事务委员会办公厅		1856
+王建阳		6		全国		https://www.neac.gov.cn/seac/mwjs/201805/1009169.shtml	二级巡视员		国家民族事务委员会办公厅		1856

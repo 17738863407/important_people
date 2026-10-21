@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李芳		1		全国		https://www.cfdi.org.cn/cfdi/index?module=A002&m1=15&m2=1501&nty=STA001&tcode=STA004	中心党委书记、主任		国家药品监督管理局食品药品审核查验中心		0240
+崔浩		2		全国		https://www.cfdi.org.cn/cfdi/index?module=A002&m1=15&m2=1501&nty=STA001&tcode=STA004	中心党委委员、副主任		国家药品监督管理局食品药品审核查验中心		0240
+高天兵		3		全国		https://www.cfdi.org.cn/cfdi/index?module=A002&m1=15&m2=1501&nty=STA001&tcode=STA004	中心副主任		国家药品监督管理局食品药品审核查验中心		0240
+周翔		4		全国		https://www.cfdi.org.cn/cfdi/index?module=A002&m1=15&m2=1501&nty=STA001&tcode=STA004	中心党委副书记、纪委书记		国家药品监督管理局食品药品审核查验中心		0240

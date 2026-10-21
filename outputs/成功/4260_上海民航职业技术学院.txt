@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王立新		1		全国		https://www.shcac.edu.cn/xygk/xyld.htm	学院党委书记、院长		上海民航职业技术学院	https://www.shcac.edu.cn/info/1011/7356.htm	4260
+孙暄		2		全国		https://www.shcac.edu.cn/xygk/xyld.htm	学院党委委员、副院长、工会主席		上海民航职业技术学院	https://www.shcac.edu.cn/info/1011/1002.htm	4260
+倪轶群		3		全国		https://www.shcac.edu.cn/xygk/xyld.htm	学院党委委员、党委副书记		上海民航职业技术学院	https://www.shcac.edu.cn/info/1011/8056.htm	4260
+王继华		4		全国		https://www.shcac.edu.cn/xygk/xyld.htm	学院党委委员、副院长		上海民航职业技术学院	https://www.shcac.edu.cn/info/1011/8057.htm	4260
+罗玉梅		5		全国		https://www.shcac.edu.cn/xygk/xyld.htm	学院党委委员、副院长		上海民航职业技术学院	https://www.shcac.edu.cn/info/1011/8058.htm	4260
+秦刚		6		全国		https://www.shcac.edu.cn/xygk/xyld.htm	学院党委委员、纪委书记		上海民航职业技术学院	https://www.shcac.edu.cn/info/1011/6027.htm	4260

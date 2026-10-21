@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张剑		1		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202109/t20210928_928030.htm	党委书记		中央芭蕾舞团		1543
+朱妍		2		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202109/t20210928_928030.htm	团长		中央芭蕾舞团		1543
+慕宗顺		3		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202109/t20210928_928030.htm	副团长		中央芭蕾舞团		1543

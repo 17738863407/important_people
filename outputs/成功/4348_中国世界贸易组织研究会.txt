@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马建春		1		全国		http://www.cwto.org.cn/article/articlecate?id=22	会长		中国世界贸易组织研究会	http://www.cwto.org.cn/article/articleinfo?id=207	4348
+黄任刚		2		全国		http://www.cwto.org.cn/article/articlecate?id=22	副会长兼秘书长		中国世界贸易组织研究会		4348
+王镇钢		3		全国		http://www.cwto.org.cn/article/articlecate?id=22	副会长		中国世界贸易组织研究会		4348

@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+安实		1		湖南省	长沙市	https://www.csu.edu.cn/zjzn/xxld.htm	党委书记；党委常委		中南大学	https://www.csu.edu.cn/info/1081/10784.htm	3660
+李建成		2		湖南省	长沙市	https://www.csu.edu.cn/zjzn/xxld.htm	党委副书记；党委常委；校长		中南大学	https://www.csu.edu.cn/info/1081/5102.htm	3660
+彭立威		3		湖南省	长沙市	https://www.csu.edu.cn/zjzn/xxld.htm	党委副书记；纪委书记；党委常委		中南大学	https://www.csu.edu.cn/info/1081/4245.htm	3660
+李景升		4		湖南省	长沙市	https://www.csu.edu.cn/zjzn/xxld.htm	党委副书记；党委常委		中南大学	https://www.csu.edu.cn/info/1081/4250.htm	3660
+付刚华		5		湖南省	长沙市	https://www.csu.edu.cn/zjzn/xxld.htm	党委副书记；党委常委		中南大学	https://www.csu.edu.cn/info/1081/4241.htm	3660
+吕奔		6		湖南省	长沙市	https://www.csu.edu.cn/zjzn/xxld.htm	党委常委；副校长		中南大学	https://www.csu.edu.cn/info/1081/10537.htm	3660
+何军		7		湖南省	长沙市	https://www.csu.edu.cn/zjzn/xxld.htm	党委常委；副校长		中南大学	https://www.csu.edu.cn/info/1081/4240.htm	3660
+何旭辉		8		湖南省	长沙市	https://www.csu.edu.cn/zjzn/xxld.htm	党委常委；副校长		中南大学	https://www.csu.edu.cn/info/1081/8236.htm	3660
+陈翔		9		湖南省	长沙市	https://www.csu.edu.cn/zjzn/xxld.htm	党委常委；常务副校长		中南大学	https://www.csu.edu.cn/info/1081/4254.htm	3660
+焦勇		10		湖南省	长沙市	https://www.csu.edu.cn/zjzn/xxld.htm	党委常委；副校长		中南大学	https://www.csu.edu.cn/info/1081/9916.htm	3660
+黎志宏		11		湖南省	长沙市	https://www.csu.edu.cn/zjzn/xxld.htm	党委常委；副校长		中南大学	https://www.csu.edu.cn/info/1081/4243.htm	3660

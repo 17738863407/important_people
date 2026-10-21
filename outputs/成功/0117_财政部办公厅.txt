@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何振国		1		全国		http://bgt.mof.gov.cn/guanyuwomen/lingdaozhici/	主任		财政部办公厅		0117
+湛志伟		2		全国		http://bgt.mof.gov.cn/guanyuwomen/lingdaozhici/	副主任		财政部办公厅		0117
+王宏武		3		全国		http://bgt.mof.gov.cn/guanyuwomen/lingdaozhici/	副主任，财政部保密委员会专职委员		财政部办公厅		0117
+高峰		4		全国		http://bgt.mof.gov.cn/guanyuwomen/lingdaozhici/	副主任		财政部办公厅		0117
+邓刚		5		全国		http://bgt.mof.gov.cn/guanyuwomen/lingdaozhici/	副主任		财政部办公厅		0117

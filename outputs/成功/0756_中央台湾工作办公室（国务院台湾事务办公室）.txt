@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+宋涛		1		全国		https://www.gwytb.gov.cn/jgsz/	主任		中央台湾工作办公室（国务院台湾事务办公室）	http://www.gwytb.gov.cn/jgsz/bld/st/	0756
+潘贤掌		2		全国		https://www.gwytb.gov.cn/jgsz/	副主任		中央台湾工作办公室（国务院台湾事务办公室）	http://www.gwytb.gov.cn/jgsz/bld/bld/	0756
+吴玺		3		全国		https://www.gwytb.gov.cn/jgsz/	副主任		中央台湾工作办公室（国务院台湾事务办公室）	http://www.gwytb.gov.cn/jgsz/bld/wx/	0756
+彭庆恩		4		全国		https://www.gwytb.gov.cn/jgsz/	副主任		中央台湾工作办公室（国务院台湾事务办公室）	https://www.gwytb.gov.cn/jgsz/bld/pqe/	0756

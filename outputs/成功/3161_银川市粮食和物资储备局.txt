@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王继良		1		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycslshwzcbj/xxgkml_35341/gkxx_35342/ldfg_35344/202506/t20250617_4936745.html	党组书记、局长、一级调研员		银川市粮食和物资储备局		3161
+贺满庭		2		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycslshwzcbj/xxgkml_35341/gkxx_35342/ldfg_35344/202506/t20250617_4936745.html	党组成员、副局长		银川市粮食和物资储备局		3161
+居苏		3		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycslshwzcbj/xxgkml_35341/gkxx_35342/ldfg_35344/202506/t20250617_4936745.html	党组成员、副局长、三级调研员		银川市粮食和物资储备局		3161
+李刚		4		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycslshwzcbj/xxgkml_35341/gkxx_35342/ldfg_35344/202506/t20250617_4936745.html	党组成员、副局长		银川市粮食和物资储备局		3161
+李国庭		5		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycslshwzcbj/xxgkml_35341/gkxx_35342/ldfg_35344/202506/t20250617_4936745.html	一级调研员		银川市粮食和物资储备局		3161
+尤峰		6		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycslshwzcbj/xxgkml_35341/gkxx_35342/ldfg_35344/202506/t20250617_4936745.html	三级调研员		银川市粮食和物资储备局		3161
+胡军		7		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycslshwzcbj/xxgkml_35341/gkxx_35342/ldfg_35344/202506/t20250617_4936745.html	四级调研员		银川市粮食和物资储备局		3161

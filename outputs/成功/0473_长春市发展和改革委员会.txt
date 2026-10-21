@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+薛春龙		1		吉林省	长春市	http://drc.changchun.gov.cn/jgsz/jgszldfg/	党组书记、主任		长春市发展和改革委员会		0473
+张琦		2		吉林省	长春市	http://drc.changchun.gov.cn/jgsz/jgszldfg/	党组成员、发改委副主任		长春市发展和改革委员会		0473
+车志昕		3		吉林省	长春市	http://drc.changchun.gov.cn/jgsz/jgszldfg/	党组成员、发改委副主任		长春市发展和改革委员会		0473
+俞学军		4		吉林省	长春市	http://drc.changchun.gov.cn/jgsz/jgszldfg/	一级调研员（副局级）		长春市发展和改革委员会		0473

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱超		1		广西壮族自治区	南宁市	https://jt.nanning.gov.cn/xxgk/ldbz/	南宁市交通运输局党组书记、局长		南宁市交通运输局	https://jt.nanning.gov.cn/xxgk/ldbz/t4932320.html	1225
+黄赞		2		广西壮族自治区	南宁市	https://jt.nanning.gov.cn/xxgk/ldbz/	南宁市交通运输局副局长、二级调研员、党组成员		南宁市交通运输局	https://jt.nanning.gov.cn/xxgk/ldbz/t6257749.html	1225
+李文斌		3		广西壮族自治区	南宁市	https://jt.nanning.gov.cn/xxgk/ldbz/	南宁市交通运输局副局长、三级调研员、党组成员		南宁市交通运输局	https://jt.nanning.gov.cn/xxgk/ldbz/t521178.html	1225
+卢康艳		4		广西壮族自治区	南宁市	https://jt.nanning.gov.cn/xxgk/ldbz/	中共南宁市纪律检查委员会、南宁市监察委员会驻南宁市交通运输局纪检监察组组长、党组成员		南宁市交通运输局	https://jt.nanning.gov.cn/xxgk/ldbz/t5656553.html	1225
+龙军		5		广西壮族自治区	南宁市	https://jt.nanning.gov.cn/xxgk/ldbz/	南宁市交通运输局副局长（兼）、党组成员，市邮政管理局党组书记、局长		南宁市交通运输局	https://jt.nanning.gov.cn/xxgk/ldbz/t6257752.html	1225
+李羽中		6		广西壮族自治区	南宁市	https://jt.nanning.gov.cn/xxgk/ldbz/	南宁市交通运输局副局长、党组成员		南宁市交通运输局	https://jt.nanning.gov.cn/xxgk/ldbz/t4441536.html	1225
+陈姿信		7		广西壮族自治区	南宁市	https://jt.nanning.gov.cn/xxgk/ldbz/	南宁市交通运输局副局长、党组成员		南宁市交通运输局	https://jt.nanning.gov.cn/xxgk/ldbz/t5517584.html	1225
+姚奇峰		8		广西壮族自治区	南宁市	https://jt.nanning.gov.cn/xxgk/ldbz/	南宁市交通运输局副局长、党组成员		南宁市交通运输局	https://jt.nanning.gov.cn/xxgk/ldbz/t6667964.html	1225

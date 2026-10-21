@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+姚文广		1		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	司长		水利部水旱灾害防御司		1730
+王章立		2		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	督察专员（正司级）		水利部水旱灾害防御司		1730
+杨卫忠		3		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	督察专员（正司级）		水利部水旱灾害防御司		1730
+许静		4		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	督察专员（正司级）		水利部水旱灾害防御司		1730
+马建新		5		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	一级巡视员（正司级）		水利部水旱灾害防御司		1730
+闫培华		6		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副司长		水利部水旱灾害防御司		1730
+褚明华		7		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副司长		水利部水旱灾害防御司		1730

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+范付中		1		安徽省		https://gat.ah.gov.cn/xxgk/jgld/index.html	安徽省副省长，省公安厅党委书记、厅长、督察长，省委政法委副书记		安徽省公安厅		0623
+刘立兵		2		安徽省		https://gat.ah.gov.cn/xxgk/jgld/index.html	厅党委副书记、分管日常工作的副厅长（正厅级）、第一副督察长		安徽省公安厅		0623
+郑刚		3		安徽省		https://gat.ah.gov.cn/xxgk/jgld/index.html	厅党委委员、副厅长		安徽省公安厅		0623
+马家利		4		安徽省		https://gat.ah.gov.cn/xxgk/jgld/index.html	厅党委委员、副厅长		安徽省公安厅		0623
+李子杰		5		安徽省		https://gat.ah.gov.cn/xxgk/jgld/index.html	厅党委委员、政治部主任		安徽省公安厅		0623

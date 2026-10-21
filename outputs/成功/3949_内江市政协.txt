@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+康俊		1		四川省	内江市	https://www.njszx.gov.cn/news/show?id=2858	主席		内江市政协		3949
+邓国军		2		四川省	内江市	https://www.njszx.gov.cn/news/show?id=2858	副主席		内江市政协		3949
+徐进才		3		四川省	内江市	https://www.njszx.gov.cn/news/show?id=2858	副主席		内江市政协		3949
+柳慧		4		四川省	内江市	https://www.njszx.gov.cn/news/show?id=2858	副主席		内江市政协		3949
+刘晓宇		5		四川省	内江市	https://www.njszx.gov.cn/news/show?id=2858	副主席		内江市政协		3949
+杨迎春		6		四川省	内江市	https://www.njszx.gov.cn/news/show?id=2858	副主席		内江市政协		3949
+陈学兵		7		四川省	内江市	https://www.njszx.gov.cn/news/show?id=2858	副主席		内江市政协		3949
+林海亮		8		四川省	内江市	https://www.njszx.gov.cn/news/show?id=2858	副主席		内江市政协		3949
+黎兆武		9		四川省	内江市	https://www.njszx.gov.cn/news/show?id=2858	秘书长		内江市政协		3949

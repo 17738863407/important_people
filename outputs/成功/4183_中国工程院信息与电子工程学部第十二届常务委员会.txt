@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吕跃广		1		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	主任		中国工程院信息与电子工程学部第十二届常务委员会		4183
+苏东林		2		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	副主任		中国工程院信息与电子工程学部第十二届常务委员会		4183
+陆军		3		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	副主任		中国工程院信息与电子工程学部第十二届常务委员会		4183
+于海斌		4		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	副主任		中国工程院信息与电子工程学部第十二届常务委员会		4183

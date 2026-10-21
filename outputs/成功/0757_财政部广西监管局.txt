@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐刚		1		广西壮族自治区		http://gx.mof.gov.cn/gywm/zhuanyuangbangaikuang/	党组成员、副局长		财政部广西监管局	http://gx.mof.gov.cn/gywm/zhuanyuangbangaikuang/202509/t20250924_3973054.htm	0757
+梁军		2		广西壮族自治区		http://gx.mof.gov.cn/gywm/zhuanyuangbangaikuang/	党组成员、副局长		财政部广西监管局	http://gx.mof.gov.cn/gywm/zhuanyuangbangaikuang/202501/t20250126_3955122.htm	0757
+张文彪		3		广西壮族自治区		http://gx.mof.gov.cn/gywm/zhuanyuangbangaikuang/	党组成员、纪检组长		财政部广西监管局	http://gx.mof.gov.cn/gywm/zhuanyuangbangaikuang/202508/t20250826_3970794.htm	0757

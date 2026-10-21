@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王明亮		1		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201111/t20111121_830354.htm	司长		文化和旅游部财务司		1500
+魏冀		2		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201111/t20111121_830354.htm	副司长		文化和旅游部财务司		1500
+赵永涛		3		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201111/t20111121_830354.htm	副司长		文化和旅游部财务司		1500

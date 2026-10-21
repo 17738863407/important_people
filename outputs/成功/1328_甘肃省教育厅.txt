@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张国珍		1		甘肃省		https://jyt.gansu.gov.cn/jyt/c107172/ldbz.shtml	省委教育工作领导小组秘书组组长，省委教育工委副书记，省教育厅党组书记、厅长		甘肃省教育厅		1328
+高君智		2		甘肃省		https://jyt.gansu.gov.cn/jyt/c107172/ldbz.shtml	省委教育工委委员，省教育厅党组成员、副厅长（正厅长级）		甘肃省教育厅		1328
+曾华辉		3		甘肃省		https://jyt.gansu.gov.cn/jyt/c107172/ldbz.shtml	省委教育工委委员，省教育厅党组成员、副厅长		甘肃省教育厅		1328
+薛君		4		甘肃省		https://jyt.gansu.gov.cn/jyt/c107172/ldbz.shtml	省委教育工委专职副书记，省教育厅党组成员		甘肃省教育厅		1328
+邓伟		5		甘肃省		https://jyt.gansu.gov.cn/jyt/c107172/ldbz.shtml	省委教育工委委员，省教育厅党组成员、副厅长		甘肃省教育厅		1328
+殷大斌		6		甘肃省		https://jyt.gansu.gov.cn/jyt/c107172/ldbz.shtml	省教育厅党组成员、省纪委监委派驻省教育厅纪检监察组组长、二级高级监察官		甘肃省教育厅		1328
+党勤		7		甘肃省		https://jyt.gansu.gov.cn/jyt/c107172/ldbz.shtml	省委教育工委委员，省教育厅党组成员、副厅长		甘肃省教育厅		1328
+敏维奇		8		甘肃省		https://jyt.gansu.gov.cn/jyt/c107172/ldbz.shtml	省委教育工委委员，省教育厅党组成员、总督学		甘肃省教育厅		1328
+霍书豪		9		甘肃省		https://jyt.gansu.gov.cn/jyt/c107172/ldbz.shtml	省教育厅党组成员（挂职）		甘肃省教育厅		1328
+郑钰		10		甘肃省		https://jyt.gansu.gov.cn/jyt/c107172/ldbz.shtml	省教育厅一级巡视员		甘肃省教育厅		1328
+王守斌		11		甘肃省		https://jyt.gansu.gov.cn/jyt/c107172/ldbz.shtml	省教育厅二级巡视员		甘肃省教育厅		1328
+高彩玲		12		甘肃省		https://jyt.gansu.gov.cn/jyt/c107172/ldbz.shtml	省教育厅二级巡视员		甘肃省教育厅		1328

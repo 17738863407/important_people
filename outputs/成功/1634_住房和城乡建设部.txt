@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+倪虹		1		全国		https://www.mohurd.gov.cn/jigou/index.html	住房和城乡建设部党组书记、部长		住房和城乡建设部	https://www.mohurd.gov.cn/jigou/bld/nh/index.html	1634
+陈绍旺		2		全国		https://www.mohurd.gov.cn/jigou/index.html	住房和城乡建设部党组成员、副部长		住房和城乡建设部	https://www.mohurd.gov.cn/jigou/bld/csw/index.html	1634
+董建国		3		全国		https://www.mohurd.gov.cn/jigou/index.html	住房和城乡建设部党组成员、副部长		住房和城乡建设部	https://www.mohurd.gov.cn/jigou/bld/djg/index.html	1634
+秦海翔		4		全国		https://www.mohurd.gov.cn/jigou/index.html	住房和城乡建设部党组成员、副部长		住房和城乡建设部	https://www.mohurd.gov.cn/jigou/bld/qhx/index.html	1634
+张铁军		5		全国		https://www.mohurd.gov.cn/jigou/index.html	中央纪委国家监委驻住房和城乡建设部纪检监察组组长、部党组成员		住房和城乡建设部	https://www.mohurd.gov.cn/jigou/bld/ztj/index.html	1634
+宋友春		6		全国		https://www.mohurd.gov.cn/jigou/index.html	住房和城乡建设部党组成员、副部长		住房和城乡建设部	https://www.mohurd.gov.cn/jigou/bld/syc/index.html	1634
+李晓龙		7		全国		https://www.mohurd.gov.cn/jigou/index.html	住房和城乡建设部总工程师		住房和城乡建设部	https://www.mohurd.gov.cn/jigou/bld/jxqzg/index.html	1634
+王胜军		8		全国		https://www.mohurd.gov.cn/jigou/index.html	住房和城乡建设部总经济师		住房和城乡建设部	https://www.mohurd.gov.cn/jigou/bld/wsj/index.html	1634

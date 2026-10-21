@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张卫东		1		全国		https://www.moj.gov.cn/jgsz/jgszjgtj/jgtjlsgzj/	局长		司法部律师工作局		1656
+方海洋		2		全国		https://www.moj.gov.cn/jgsz/jgszjgtj/jgtjlsgzj/	一级巡视员		司法部律师工作局		1656
+黄文军		3		全国		https://www.moj.gov.cn/jgsz/jgszjgtj/jgtjlsgzj/	二级巡视员		司法部律师工作局		1656
+申琳		4		全国		https://www.moj.gov.cn/jgsz/jgszjgtj/jgtjlsgzj/	副局长		司法部律师工作局		1656

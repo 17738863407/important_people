@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李乐成		1		全国		http://district.ce.cn/zt/rwk/sf/ah/index.shtml	省委书记		安徽省委	http://district.ce.cn/newarea/sddy/202609/t20260923_3232335.shtml	0413
+王东伟		2		全国		http://district.ce.cn/zt/rwk/sf/ah/index.shtml	省委副书记、代省长		安徽省委	http://district.ce.cn/newarea/sddy/202609/t20260923_3232888.shtml	0413
+单向前		3		全国		http://district.ce.cn/zt/rwk/sf/ah/index.shtml	省委副书记、秘书长		安徽省委	http://district.ce.cn/newarea/sddy/202609/t20260918_3222462.shtml	0413
+刘海泉		4		全国		http://district.ce.cn/zt/rwk/sf/ah/index.shtml	省委常委、纪委书记，监委主任		安徽省委	http://district.ce.cn/newarea/sddy/202301/18/t20230118_38353032.shtml	0413
+孙红梅		5		全国		http://district.ce.cn/zt/rwk/sf/ah/index.shtml	省委常委、组织部部长		安徽省委	http://district.ce.cn/newarea/sddy/202412/24/t20241224_39245147.shtml	0413
+钱三雄		6		全国		http://district.ce.cn/zt/rwk/sf/ah/index.shtml	省委常委、宣传部部长		安徽省委	http://district.ce.cn/newarea/sddy/202405/15/t20240515_39003081.shtml	0413
+蔚盛斌		7		全国		http://district.ce.cn/zt/rwk/sf/ah/index.shtml	省委常委、统战部部长，省政府副省长、党组副书记		安徽省委	http://district.ce.cn/newarea/sddy/202609/t20260924_3233845.shtml	0413
+覃卫国		8		全国		http://district.ce.cn/zt/rwk/sf/ah/index.shtml	省委常委、合肥市委书记		安徽省委	http://district.ce.cn/newarea/sddy/202608/t20260824_3166594.shtml	0413

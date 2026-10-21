@@ -1,0 +1,2 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐挺		1		全国		https://ecro.mee.gov.cn/dwgk/zyld/fzr/	分党组成员、副主任、一级巡视员		生态环境部华东核与辐射安全监督站	https://ecro.mee.gov.cn/dwgk/zyld/fzr/201512/t20151204_318535.html	4352

@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘宴兵		1		重庆市		https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/	市委教育工委书记、市教委主任		重庆市教育委员会	https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/fzrxx/202409/t20240910_13612573.html	1274
+郭建伟		2		重庆市		https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/	市委教育工委专职副书记		重庆市教育委员会	https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/fzrxx/202409/t20240910_13612557.html	1274
+李劲渝		3		重庆市		https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/	市委教育工委委员、市教委副主任		重庆市教育委员会	https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/fzrxx/202409/t20240910_13612553.html	1274
+李剑波		4		重庆市		https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/	市委教育工委委员，市纪委监委驻市教委纪检监察组组长		重庆市教育委员会	https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/fzrxx/202509/t20250930_15056791.html	1274
+蒋云芳		5		重庆市		https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/	市委教育工委委员、市教委副主任		重庆市教育委员会	https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/fzrxx/202409/t20240910_13612541.html	1274
+吴边		6		重庆市		https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/	市委教育工委委员、市教委总督学		重庆市教育委员会	https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/fzrxx/202409/t20240910_13612525.html	1274
+伍平伟		7		重庆市		https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/	市委教育工委委员、市教委副主任		重庆市教育委员会	https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/fzrxx/202607/t20260707_15806143.html	1274
+栗峥		8		重庆市		https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/	市教委副主任		重庆市教育委员会	https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/fzrxx/202511/t20251118_15171681.html	1274
+金玲		9		重庆市		https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/	市教委一级巡视员		重庆市教育委员会	https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/fzrxx/202409/t20240910_13612546.html	1274
+谯建		10		重庆市		https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/	市教委二级巡视员		重庆市教育委员会	https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/fzrxx/202409/t20240910_13612515.html	1274
+卢明伦		11		重庆市		https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/	市教委二级巡视员		重庆市教育委员会	https://jw.cq.gov.cn/zwgk_209/fdzdgknr/jgjj/fzrxx/202412/t20241209_13873496.html	1274

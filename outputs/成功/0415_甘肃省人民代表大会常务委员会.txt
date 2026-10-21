@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+嘉木样·洛桑久美·图丹却吉尼玛		1		全国		http://district.ce.cn/zt/rwk/sf/gs/rd/201303/05/t20130305_770986.shtml	副主任		甘肃省人民代表大会常务委员会	http://district.ce.cn/newarea/sddy/201801/29/t20180129_27955948_1.shtml	0415
+胡焯		2		全国		http://district.ce.cn/zt/rwk/sf/gs/rd/201303/05/t20130305_770986.shtml	副主任		甘肃省人民代表大会常务委员会	http://district.ce.cn/newarea/sddy/202301/20/t20230120_38358463_3.shtml	0415
+李沛兴		3		全国		http://district.ce.cn/zt/rwk/sf/gs/rd/201303/05/t20130305_770986.shtml	副主任		甘肃省人民代表大会常务委员会	http://district.ce.cn/newarea/sddy/202301/20/t20230120_38358463_4.shtml	0415
+戴超		4		全国		http://district.ce.cn/zt/rwk/sf/gs/rd/201303/05/t20130305_770986.shtml	副主任		甘肃省人民代表大会常务委员会	http://district.ce.cn/newarea/sddy/202301/20/t20230120_38358463_6.shtml	0415
+丁巨胜		5		全国		http://district.ce.cn/zt/rwk/sf/gs/rd/201303/05/t20130305_770986.shtml	副主任		甘肃省人民代表大会常务委员会		0415
+刘永杰		6		全国		http://district.ce.cn/zt/rwk/sf/gs/rd/201303/05/t20130305_770986.shtml	秘书长		甘肃省人民代表大会常务委员会		0415

@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王建东		1		陕西省	西安市	https://www.xa.gov.cn/gk/zfjgml/szfbm/szfbgt/ldxx/1.html	市政府党组成员、秘书长，市政府机关党组书记、办公厅主任。		西安市人民政府办公厅		3016
+雷晓坤		2		陕西省	西安市	https://www.xa.gov.cn/gk/zfjgml/szfbm/szfbgt/ldxx/1.html	市政府机关党组成员、市纪委监委派驻市政府办公厅纪检监察组组长。		西安市人民政府办公厅		3016
+张学东		3		陕西省	西安市	https://www.xa.gov.cn/gk/zfjgml/szfbm/szfbgt/ldxx/1.html	市政府副秘书长、机关党组成员。		西安市人民政府办公厅		3016
+杨佐涛		4		陕西省	西安市	https://www.xa.gov.cn/gk/zfjgml/szfbm/szfbgt/ldxx/1.html	市政府副秘书长、机关党组成员。		西安市人民政府办公厅		3016
+刘凯		5		陕西省	西安市	https://www.xa.gov.cn/gk/zfjgml/szfbm/szfbgt/ldxx/1.html	市政府副秘书长、机关党组成员。		西安市人民政府办公厅		3016
+薄盛春		6		陕西省	西安市	https://www.xa.gov.cn/gk/zfjgml/szfbm/szfbgt/ldxx/1.html	市政府副秘书长、机关党组成员。		西安市人民政府办公厅		3016
+张小波		7		陕西省	西安市	https://www.xa.gov.cn/gk/zfjgml/szfbm/szfbgt/ldxx/1.html	市政府副秘书长、机关党组成员。		西安市人民政府办公厅		3016
+王志林		8		陕西省	西安市	https://www.xa.gov.cn/gk/zfjgml/szfbm/szfbgt/ldxx/1.html	市政府副秘书长、机关党组成员。		西安市人民政府办公厅		3016
+田地		9		陕西省	西安市	https://www.xa.gov.cn/gk/zfjgml/szfbm/szfbgt/ldxx/1.html	市政府办公厅副主任。		西安市人民政府办公厅		3016
+郭民		10		陕西省	西安市	https://www.xa.gov.cn/gk/zfjgml/szfbm/szfbgt/ldxx/1.html	市政府办公厅副主任。		西安市人民政府办公厅		3016
+蔡君丽		11		陕西省	西安市	https://www.xa.gov.cn/gk/zfjgml/szfbm/szfbgt/ldxx/1.html	市政府办公厅副主任。		西安市人民政府办公厅		3016

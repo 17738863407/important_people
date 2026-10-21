@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+白忠泉		1		全国		http://www.sinopharm.com/leadership.html	董事长；党委书记		中国医药集团有限公司		3509
+赵炳祥		2		全国		http://www.sinopharm.com/leadership.html	董事；党委副书记；总经理		中国医药集团有限公司		3509
+赵玉坤		3		全国		http://www.sinopharm.com/leadership.html	董事；党委副书记		中国医药集团有限公司		3509
+郑文敏		4		全国		http://www.sinopharm.com/leadership.html	董事		中国医药集团有限公司		3509
+童国华		5		全国		http://www.sinopharm.com/leadership.html	董事		中国医药集团有限公司		3509
+刘国军		6		全国		http://www.sinopharm.com/leadership.html	董事		中国医药集团有限公司		3509
+陆瑛		7		全国		http://www.sinopharm.com/leadership.html	董事		中国医药集团有限公司		3509
+黄莺		8		全国		http://www.sinopharm.com/leadership.html	董事		中国医药集团有限公司		3509
+王豹		9		全国		http://www.sinopharm.com/leadership.html	董事		中国医药集团有限公司		3509
+胡建伟		10		全国		http://www.sinopharm.com/leadership.html	党委常委；副总经理		中国医药集团有限公司		3509
+兰池军		11		全国		http://www.sinopharm.com/leadership.html	党委常委；纪委书记		中国医药集团有限公司		3509
+董增贺		12		全国		http://www.sinopharm.com/leadership.html	党委常委；副总经理		中国医药集团有限公司		3509
+晋斌		13		全国		http://www.sinopharm.com/leadership.html	党委常委；副总经理		中国医药集团有限公司		3509

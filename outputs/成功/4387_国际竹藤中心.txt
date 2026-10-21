@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+覃道春		1		全国		https://www.icbr.ac.cn/zxgk/xrld	国际竹藤中心主任、党委副书记		国际竹藤中心	https://www.icbr.ac.cn/zxgk/xrld/content_15456	4387
+李晓华		2		全国		https://www.icbr.ac.cn/zxgk/xrld	国际竹藤中心副主任、党委委员		国际竹藤中心	https://www.icbr.ac.cn/zxgk/xrld/content_10310	4387
+陈瑞国		3		全国		https://www.icbr.ac.cn/zxgk/xrld	国际竹藤中心副主任、党委委员		国际竹藤中心	https://www.icbr.ac.cn/zxgk/xrld/content_11358	4387
+李平先		4		全国		https://www.icbr.ac.cn/zxgk/xrld	国际竹藤中心党委副书记、纪委书记		国际竹藤中心	https://www.icbr.ac.cn/zxgk/xrld/content_14414	4387

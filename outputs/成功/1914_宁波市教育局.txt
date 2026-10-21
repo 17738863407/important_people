@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李晓东		1		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218799/index.html	市教育局党委书记、市委教育工委副书记		宁波市教育局	https://www.ningbo.gov.cn/col/col1229218799/art/2020/art_1229218799_25878.html	1914
+陈金辉		2		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218799/index.html	市委教育工委专职副书记、市教育局党委副书记		宁波市教育局	https://www.ningbo.gov.cn/art/2024/1/12/art_1229218799_155102.html	1914
+楼勤芳		3		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218799/index.html	市委教育工委委员、市教育局党委委员、驻局纪检监察组组长		宁波市教育局	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218799_25882.html	1914
+王飞		4		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218799/index.html	市委教育工委委员、市教育局副局长、党委委员		宁波市教育局	https://www.ningbo.gov.cn/art/2021/11/19/art_1229218799_115861.html	1914
+胡斌		5		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218799/index.html	市委教育工委委员、市教育局副局长、党委委员		宁波市教育局	https://www.ningbo.gov.cn/art/2021/8/19/art_1229218799_108601.html	1914
+何倩		6		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218799/index.html	市委教育工委委员、市教育局副局长、总督学、党委委员		宁波市教育局	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218799_25886.html	1914
+陈欣		7		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218799/index.html	市委教育工委委员、市教育局副局长、党委委员		宁波市教育局	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218799_25880.html	1914
+胡刚强		8		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218799/index.html	市委教育工委委员、市教育局党委委员、二级巡视员		宁波市教育局	https://www.ningbo.gov.cn/art/2021/1/7/art_1229218799_91844.html	1914
+李丽		9		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218799/index.html	市委教育工委委员、市教育局党委委员		宁波市教育局	https://www.ningbo.gov.cn/art/2024/1/15/art_1229218799_155120.html	1914
+周波		10		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218799/index.html	二级巡视员		宁波市教育局	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218799_25885.html	1914

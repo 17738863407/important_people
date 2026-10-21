@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈雪梅		1		安徽省	合肥市	https://jyj.hefei.gov.cn/public/column/8761?type=4&catId=7036024&action=list&nav=3	党委委员、副局长		合肥市教育局	https://jyj.hefei.gov.cn/public/8761/104406411.html	1309
+张艺国		2		安徽省	合肥市	https://jyj.hefei.gov.cn/public/column/8761?type=4&catId=7036024&action=list&nav=3	党委委员、副局长		合肥市教育局	https://jyj.hefei.gov.cn/public/8761/108214629.html	1309
+慎先德		3		安徽省	合肥市	https://jyj.hefei.gov.cn/public/column/8761?type=4&catId=7036024&action=list&nav=3	党委委员、驻局纪检监察组组长		合肥市教育局	https://jyj.hefei.gov.cn/public/8761/112407458.html	1309
+张红贵		4		安徽省	合肥市	https://jyj.hefei.gov.cn/public/column/8761?type=4&catId=7036024&action=list&nav=3	党委委员、副局长		合肥市教育局	https://jyj.hefei.gov.cn/public/8761/108214651.html	1309

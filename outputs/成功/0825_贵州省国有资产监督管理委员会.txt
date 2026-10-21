@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+熊杉		1		贵州省		http://gzw.guizhou.gov.cn/zwgk/ldzc/wld/	贵州省人民政府国有资产监督管理委员会党委书记、主任		贵州省国有资产监督管理委员会	http://gzw.guizhou.gov.cn/zwgk/ldzc/wld/202607/t20260713_90613089.html	0825
+彭建伟		2		贵州省		http://gzw.guizhou.gov.cn/zwgk/ldzc/wld/	贵州省人民政府国有资产监督管理委员会党委委员、省纪委省监委派驻省国资委纪检监察组组长		贵州省国有资产监督管理委员会	http://gzw.guizhou.gov.cn/zwgk/ldzc/wld/202509/t20250930_88671910.html	0825
+安丰明		3		贵州省		http://gzw.guizhou.gov.cn/zwgk/ldzc/wld/	贵州省人民政府国有资产监督管理委员会党委委员、副主任		贵州省国有资产监督管理委员会	http://gzw.guizhou.gov.cn/zwgk/ldzc/wld/202506/t20250617_88151137.html	0825
+方东		4		贵州省		http://gzw.guizhou.gov.cn/zwgk/ldzc/wld/	贵州省人民政府国有资产监督管理委员会党委委员、副主任		贵州省国有资产监督管理委员会	http://gzw.guizhou.gov.cn/zwgk/ldzc/wld/202506/t20250617_88151151.html	0825
+杜蓓		5		贵州省		http://gzw.guizhou.gov.cn/zwgk/ldzc/wld/	贵州省人民政府国有资产监督管理委员会党委委员、副主任		贵州省国有资产监督管理委员会	http://gzw.guizhou.gov.cn/zwgk/ldzc/wld/202506/t20250617_88150941.html	0825
+刘晓军		6		贵州省		http://gzw.guizhou.gov.cn/zwgk/ldzc/wld/	贵州省人民政府国有资产监督管理委员会党委委员		贵州省国有资产监督管理委员会	http://gzw.guizhou.gov.cn/zwgk/ldzc/wld/202601/t20260128_89347136.html	0825

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+钱桂仑		1		安徽省		https://jyt.ah.gov.cn/wtld/index.html	中共安徽省委教育工委书记、安徽省教育厅厅长		安徽省教育厅	https://jyt.ah.gov.cn/public/7071/39711279.html	1326
+蒋家平		2		安徽省		https://jyt.ah.gov.cn/wtld/index.html	中共安徽省委教育工委副书记（正厅级）		安徽省教育厅	https://jyt.ah.gov.cn/public/7071/40788221.html	1326
+陈军		3		安徽省		https://jyt.ah.gov.cn/wtld/index.html	中共安徽省委教育工委委员、安徽省纪委监委驻省教育厅纪检监察组组长		安徽省教育厅	https://jyt.ah.gov.cn/public/7071/40743377.html	1326
+徐静平		4		安徽省		https://jyt.ah.gov.cn/wtld/index.html	中共安徽省委教育工委委员、安徽省教育厅副厅长		安徽省教育厅	https://jyt.ah.gov.cn/public/7071/39711272.html	1326
+张庚家		5		安徽省		https://jyt.ah.gov.cn/wtld/index.html	中共安徽省委教育工委委员、安徽省教育厅副厅长		安徽省教育厅	https://jyt.ah.gov.cn/public/7071/40425282.html	1326
+刘业勋		6		安徽省		https://jyt.ah.gov.cn/wtld/index.html	中共安徽省委教育工委委员、安徽省教育厅副厅长		安徽省教育厅	https://jyt.ah.gov.cn/public/7071/40738147.html	1326
+邵曙光		7		安徽省		https://jyt.ah.gov.cn/wtld/index.html	中共安徽省委教育工委委员、安徽省教育厅总督学		安徽省教育厅	https://jyt.ah.gov.cn/public/7071/40738148.html	1326
+卢鹏		8		安徽省		https://jyt.ah.gov.cn/wtld/index.html	中共安徽省委教育工委委员、安徽省教育厅副厅长		安徽省教育厅	https://jyt.ah.gov.cn/public/7071/40751617.html	1326

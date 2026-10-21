@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马雷		1		贵州省		https://tyj.guizhou.gov.cn/zwgk/ldzc/	党委书记、局长		贵州省体育局	https://tyj.guizhou.gov.cn/zwgk/ldzc/202401/t20240102_83438721.html	2769
+李芳		2		贵州省		https://tyj.guizhou.gov.cn/zwgk/ldzc/	党委委员、副局长		贵州省体育局	https://tyj.guizhou.gov.cn/zwgk/ldzc/202607/t20260724_90660073.html	2769
+靖琦伟		3		贵州省		https://tyj.guizhou.gov.cn/zwgk/ldzc/	党委委员、副局长		贵州省体育局	https://tyj.guizhou.gov.cn/zwgk/ldzc/202601/t20260122_89324686.html	2769
+王华平		4		贵州省		https://tyj.guizhou.gov.cn/zwgk/ldzc/	一级巡视员		贵州省体育局	https://tyj.guizhou.gov.cn/zwgk/ldzc/202204/t20220407_73262477.html	2769
+沈川		5		贵州省		https://tyj.guizhou.gov.cn/zwgk/ldzc/	二级巡视员（保留副厅长级）		贵州省体育局	https://tyj.guizhou.gov.cn/zwgk/ldzc/202411/t20241120_86110202.html	2769
+朱俊华		6		贵州省		https://tyj.guizhou.gov.cn/zwgk/ldzc/	二级巡视员		贵州省体育局	https://tyj.guizhou.gov.cn/zwgk/ldzc/202411/t20241120_86110804.html	2769

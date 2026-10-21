@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张智刚		1		全国		http://www.sgcc.com.cn/html/sgcc_main/gb/gywm/gsld/index.shtml	董事长、党组书记		国家电网有限公司		3505
+张文峰		2		全国		http://www.sgcc.com.cn/html/sgcc_main/gb/gywm/gsld/index.shtml	董事、总经理、党组副书记		国家电网有限公司		3505
+邵国勇		3		全国		http://www.sgcc.com.cn/html/sgcc_main/gb/gywm/gsld/index.shtml	董事、党组副书记		国家电网有限公司		3505
+陈西		4		全国		http://www.sgcc.com.cn/html/sgcc_main/gb/gywm/gsld/index.shtml	总会计师、党组成员		国家电网有限公司		3505
+潘敬东		5		全国		http://www.sgcc.com.cn/html/sgcc_main/gb/gywm/gsld/index.shtml	副总经理、党组成员		国家电网有限公司		3505
+王志伟		6		全国		http://www.sgcc.com.cn/html/sgcc_main/gb/gywm/gsld/index.shtml	副总经理、党组成员		国家电网有限公司		3505
+李宗礼		7		全国		http://www.sgcc.com.cn/html/sgcc_main/gb/gywm/gsld/index.shtml	中央纪委国家监委 驻公司纪检监察组组长 公司党组成员		国家电网有限公司		3505
+王罡		8		全国		http://www.sgcc.com.cn/html/sgcc_main/gb/gywm/gsld/index.shtml	副总经理、党组成员		国家电网有限公司		3505
+陈盛燃		9		全国		http://www.sgcc.com.cn/html/sgcc_main/gb/gywm/gsld/index.shtml	副总经理、党组成员		国家电网有限公司		3505

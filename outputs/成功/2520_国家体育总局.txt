@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高志丹		1		全国		https://www.sport.gov.cn/n20001099/index.html	局长、党组书记		国家体育总局	https://www.sport.gov.cn/n20001099/n20001302/n20067029/index.html	2520
+习骅		2		全国		https://www.sport.gov.cn/n20001099/index.html	驻体育总局纪检监察组组长、党组成员		国家体育总局	https://www.sport.gov.cn/n20001099/n20001302/n20067508/index.html	2520
+张家胜		3		全国		https://www.sport.gov.cn/n20001099/index.html	副局长、党组成员		国家体育总局	https://www.sport.gov.cn/n20001099/n20001302/n25597730/index.html	2520
+李静		4		全国		https://www.sport.gov.cn/n20001099/index.html	副局长、党组成员		国家体育总局	https://www.sport.gov.cn/n20001099/n20001302/n28205390/index.html	2520
+佟立新		5		全国		https://www.sport.gov.cn/n20001099/index.html	副局长、党组成员		国家体育总局	https://www.sport.gov.cn/n20001099/n20001302/n28751402/index.html	2520
+崔剑		6		全国		https://www.sport.gov.cn/n20001099/index.html	副局长、党组成员		国家体育总局	https://www.sport.gov.cn/n20001099/n20001302/n29444093/index.html	2520

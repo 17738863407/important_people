@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张文广		1		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/201908/t20190807_845588.htm	党委副书记、副社长		中国旅游出版社有限公司		1534
+胥波		2		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/201908/t20190807_845588.htm	党委委员、副社长		中国旅游出版社有限公司		1534
+杨沛武		3		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/201908/t20190807_845588.htm	党委委员、办公室主任		中国旅游出版社有限公司		1534

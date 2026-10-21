@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王之臣		1		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/rdld	市人大常委会党组书记、主任		庆阳市人民代表大会常务委员会	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/rdld/rdcwhzr/content_347856	3793
+张小强		2		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/rdld	市人大常委会党组副书记、副主任		庆阳市人民代表大会常务委员会	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/rdld/rdcwhfzr/content_347857	3793
+连锴		3		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/rdld	市人大常委会副主任		庆阳市人民代表大会常务委员会	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/rdld/rdcwhfzr/content_347859	3793
+陈磊		4		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/rdld	市人大常委会党组成员、副主任		庆阳市人民代表大会常务委员会	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/rdld/rdcwhfzr/content_347858	3793
+邓莉娟		5		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/rdld	市人大常委会党组成员、副主任		庆阳市人民代表大会常务委员会	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/rdld/rdcwhfzr/content_347860	3793
+高世武		6		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/rdld	市人大常委会党组成员、机关党组书记		庆阳市人民代表大会常务委员会	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/rdld/rdcwhmsz/content_347861	3793
+李晓虎		7		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/rdld	市人大常委会秘书长、二级巡视员		庆阳市人民代表大会常务委员会	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/rdld/rdcwhmsz/content_353147	3793

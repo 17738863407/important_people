@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张国华		1		全国		http://www.hebzx.gov.cn/zxld/index.shtml	主席		河北省政协		0953
+冉万祥		2		全国		http://www.hebzx.gov.cn/zxld/index.shtml	副主席		河北省政协		0953
+葛会波		3		全国		http://www.hebzx.gov.cn/zxld/index.shtml	副主席		河北省政协		0953
+张古江		4		全国		http://www.hebzx.gov.cn/zxld/index.shtml	副主席		河北省政协		0953
+时清霜		5		全国		http://www.hebzx.gov.cn/zxld/index.shtml	副主席		河北省政协		0953
+王宝山		6		全国		http://www.hebzx.gov.cn/zxld/index.shtml	副主席		河北省政协		0953
+武卫东		7		全国		http://www.hebzx.gov.cn/zxld/index.shtml	副主席		河北省政协		0953
+康彦民		8		全国		http://www.hebzx.gov.cn/zxld/index.shtml	副主席		河北省政协		0953
+张福成		9		全国		http://www.hebzx.gov.cn/zxld/index.shtml	副主席		河北省政协		0953
+何秉群		10		全国		http://www.hebzx.gov.cn/zxld/index.shtml	副主席		河北省政协		0953
+陈书增		11		全国		http://www.hebzx.gov.cn/zxld/index.shtml	秘书长		河北省政协		0953

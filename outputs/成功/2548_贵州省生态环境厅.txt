@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+许风伦		1		贵州省		https://sthj.guizhou.gov.cn/zwgk/ldzc/	党委书记、厅长		贵州省生态环境厅		2548
+傅涛		2		贵州省		https://sthj.guizhou.gov.cn/zwgk/ldzc/	党委委员、副厅长		贵州省生态环境厅		2548
+罗鸿翔		3		贵州省		https://sthj.guizhou.gov.cn/zwgk/ldzc/	党委委员、副厅长		贵州省生态环境厅		2548
+陈莉		4		贵州省		https://sthj.guizhou.gov.cn/zwgk/ldzc/	党委委员、副厅长		贵州省生态环境厅		2548
+王家齐		5		贵州省		https://sthj.guizhou.gov.cn/zwgk/ldzc/	党委委员、副厅长		贵州省生态环境厅		2548
+杜鹏		6		贵州省		https://sthj.guizhou.gov.cn/zwgk/ldzc/	党委委员、副厅长		贵州省生态环境厅		2548
+王英贤		7		贵州省		https://sthj.guizhou.gov.cn/zwgk/ldzc/	副厅长级生态环境监察专员		贵州省生态环境厅		2548
+吴克		8		贵州省		https://sthj.guizhou.gov.cn/zwgk/ldzc/	副厅长级生态环境监察专员		贵州省生态环境厅		2548
+翁敬		9		贵州省		https://sthj.guizhou.gov.cn/zwgk/ldzc/	省环境监察局局长		贵州省生态环境厅		2548
+涂志江		10		贵州省		https://sthj.guizhou.gov.cn/zwgk/ldzc/	省生态环境监测中心主任		贵州省生态环境厅		2548

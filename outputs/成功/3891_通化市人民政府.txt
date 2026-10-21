@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高山		1		吉林省	通化市	https://www.tonghua.gov.cn/ldzc/	市长		通化市人民政府	https://www.tonghua.gov.cn/ldzc/zfld/sz/	3891
+尚忠诚		2		吉林省	通化市	https://www.tonghua.gov.cn/ldzc/	副市长		通化市人民政府	https://www.tonghua.gov.cn/ldzc/zfld/fsz/szc/	3891
+舒坤良		3		吉林省	通化市	https://www.tonghua.gov.cn/ldzc/	副市长		通化市人民政府	https://www.tonghua.gov.cn/ldzc/zfld/fsz/skl/	3891
+刘伟杰		4		吉林省	通化市	https://www.tonghua.gov.cn/ldzc/	副市长		通化市人民政府	https://www.tonghua.gov.cn/ldzc/zfld/fsz/fsz/	3891
+郑剑英		5		吉林省	通化市	https://www.tonghua.gov.cn/ldzc/	副市长		通化市人民政府	https://www.tonghua.gov.cn/ldzc/zfld/fsz/zjy/	3891
+孙维良		6		吉林省	通化市	https://www.tonghua.gov.cn/ldzc/	副市长		通化市人民政府	https://www.tonghua.gov.cn/ldzc/zfld/fsz/swl/	3891
+陈宇		7		吉林省	通化市	https://www.tonghua.gov.cn/ldzc/	副市长		通化市人民政府	https://www.tonghua.gov.cn/ldzc/zfld/fsz/cy/	3891
+张柏华		8		吉林省	通化市	https://www.tonghua.gov.cn/ldzc/	副市长		通化市人民政府	https://www.tonghua.gov.cn/ldzc/zfld/fsz/fszw/	3891
+于午丁		9		吉林省	通化市	https://www.tonghua.gov.cn/ldzc/	副市长		通化市人民政府	https://www.tonghua.gov.cn/ldzc/zfld/fsz/ywd/	3891
+刘贵波		10		吉林省	通化市	https://www.tonghua.gov.cn/ldzc/	秘书长		通化市人民政府	https://www.tonghua.gov.cn/ldzc/zfld/msz/202601/t20260104_760270.html	3891

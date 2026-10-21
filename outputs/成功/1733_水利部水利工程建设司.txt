@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+尚全民		1		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	司长		水利部水利工程建设司		1733
+赵东晓		2		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副司长（正司级）		水利部水利工程建设司		1733
+刘远新		3		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副司长		水利部水利工程建设司		1733

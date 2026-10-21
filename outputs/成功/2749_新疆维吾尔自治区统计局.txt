@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐建辉		1		新疆维吾尔自治区		http://tjj.xinjiang.gov.cn/tjj/ldjj/list_ld.shtml	党组书记、副局长		新疆维吾尔自治区统计局		2749
+雷海军		2		新疆维吾尔自治区		http://tjj.xinjiang.gov.cn/tjj/ldjj/list_ld.shtml	党组副书记、局长		新疆维吾尔自治区统计局		2749
+韦红		3		新疆维吾尔自治区		http://tjj.xinjiang.gov.cn/tjj/ldjj/list_ld.shtml	党组成员、副局长		新疆维吾尔自治区统计局		2749
+夏青松		4		新疆维吾尔自治区		http://tjj.xinjiang.gov.cn/tjj/ldjj/list_ld.shtml	自治区统计调查监测中心主任		新疆维吾尔自治区统计局		2749
+赵玉西		5		新疆维吾尔自治区		http://tjj.xinjiang.gov.cn/tjj/ldjj/list_ld.shtml	一级巡视员		新疆维吾尔自治区统计局		2749
+汤文		6		新疆维吾尔自治区		http://tjj.xinjiang.gov.cn/tjj/ldjj/list_ld.shtml	二级巡视员		新疆维吾尔自治区统计局		2749
+郭小元		7		新疆维吾尔自治区		http://tjj.xinjiang.gov.cn/tjj/ldjj/list_ld.shtml	二级巡视员		新疆维吾尔自治区统计局		2749
+吴承凯		8		新疆维吾尔自治区		http://tjj.xinjiang.gov.cn/tjj/ldjj/list_ld.shtml	二级巡视员		新疆维吾尔自治区统计局		2749
+宋平		9		新疆维吾尔自治区		http://tjj.xinjiang.gov.cn/tjj/ldjj/list_ld.shtml	总工程师（正处级）、一级调研员		新疆维吾尔自治区统计局		2749
+张双喜		10		新疆维吾尔自治区		http://tjj.xinjiang.gov.cn/tjj/ldjj/list_ld.shtml	总经济师 （国家统计局正处级援疆干部）		新疆维吾尔自治区统计局		2749

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周霁		1		全国		http://www.locpg.gov.cn/zjzlb/zygy.htm	主任		中央人民政府驻香港特别行政区联络办公室	http://www.locpg.hk/20250604/775ee8f0a2d5455badb9bf6aa5271871/c.html	1432
+罗永纲		2		全国		http://www.locpg.gov.cn/zjzlb/zygy.htm	副主任		中央人民政府驻香港特别行政区联络办公室	http://www.locpg.gov.cn/zjzlb/2021-08/31/c_1211352085.htm	1432
+袁古洁		3		全国		http://www.locpg.gov.cn/zjzlb/zygy.htm	副主任		中央人民政府驻香港特别行政区联络办公室	http://www.locpg.gov.cn/20260601/39bf9ae0fddf4ff4a58f2ef55a3fbf70/c.html	1432
+孙尚武		4		全国		http://www.locpg.gov.cn/zjzlb/zygy.htm	副主任		中央人民政府驻香港特别行政区联络办公室	http://www.locpg.gov.cn/20251011/632cb7683ae24e26a2831c427c932a2b/c.html	1432
+张勇		5		全国		http://www.locpg.gov.cn/zjzlb/zygy.htm	副主任		中央人民政府驻香港特别行政区联络办公室	http://www.locpg.gov.cn/20251231/b2512769dc01448289f819cc0ff712bb/c.html	1432
+刘松林		6		全国		http://www.locpg.gov.cn/zjzlb/zygy.htm	秘书长		中央人民政府驻香港特别行政区联络办公室	http://www.locpg.gov.cn/20260601/4de384019819447490ee6fa793fcb5ca/c.html	1432

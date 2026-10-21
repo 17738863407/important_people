@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+扈黎光		1		全国		https://scro.mee.gov.cn/dwgk/zyld/	生态环境部华南核与辐射安全监督站分党组书记、主任		华南核与辐射安全监督站	https://scro.mee.gov.cn/dwgk/zyld/202101/t20210106_816157.html	2278
+张天祝		2		全国		https://scro.mee.gov.cn/dwgk/zyld/	生态环境部华南核与辐射安全监督站分党组成员、副主任		华南核与辐射安全监督站	https://scro.mee.gov.cn/dwgk/zyld/201711/t20171114_426191.html	2278
+任欧		3		全国		https://scro.mee.gov.cn/dwgk/zyld/	生态环境部华南核与辐射安全监督站分党组成员、副主任		华南核与辐射安全监督站	https://scro.mee.gov.cn/dwgk/zyld/202209/t20220905_993153.html	2278
+郑晓敏		4		全国		https://scro.mee.gov.cn/dwgk/zyld/	生态环境部华南核与辐射安全监督站分党组成员、副主任		华南核与辐射安全监督站	https://scro.mee.gov.cn/dwgk/zyld/202412/t20241223_1099119.html	2278
+宁安		5		全国		https://scro.mee.gov.cn/dwgk/zyld/	生态环境部华南核与辐射安全监督站分党组成员、纪检组组长		华南核与辐射安全监督站	https://scro.mee.gov.cn/dwgk/zyld/202501/t20250119_1100911.html	2278

@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张金宁		1		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202506/t20250610_960497.htm	主任		文化和旅游部全国公共文化发展中心		1515
+罗云川		2		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202506/t20250610_960497.htm	副主任		文化和旅游部全国公共文化发展中心		1515
+张呈鸿		3		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202506/t20250610_960497.htm	副主任		文化和旅游部全国公共文化发展中心		1515

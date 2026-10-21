@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+丁向群		1		全国		https://www.nfra.gov.cn/cn/view/pages/jigougaikuang/jigougaikuang.html	国家金融监督管理总局党委书记、局长		国家金融监督管理总局		1896
+蔡东		2		全国		https://www.nfra.gov.cn/cn/view/pages/jigougaikuang/jigougaikuang.html	国家金融监督管理总局党委委员、副局长		国家金融监督管理总局		1896
+肖远企		3		全国		https://www.nfra.gov.cn/cn/view/pages/jigougaikuang/jigougaikuang.html	国家金融监督管理总局党委委员、副局长		国家金融监督管理总局		1896
+丛林		4		全国		https://www.nfra.gov.cn/cn/view/pages/jigougaikuang/jigougaikuang.html	国家金融监督管理总局党委委员、副局长		国家金融监督管理总局		1896
+付万军		5		全国		https://www.nfra.gov.cn/cn/view/pages/jigougaikuang/jigougaikuang.html	国家金融监督管理总局党委委员、副局长		国家金融监督管理总局		1896
+杨国瑞		6		全国		https://www.nfra.gov.cn/cn/view/pages/jigougaikuang/jigougaikuang.html	中央纪委国家监委驻国家金融监督管理总局纪检监察组组长，国家金融监督管理总局党委委员		国家金融监督管理总局		1896

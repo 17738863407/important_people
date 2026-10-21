@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙椿睿		1		广西壮族自治区	南宁市	http://dsjfzj.nanning.gov.cn/jggk/ldfg/	南宁市人民政府副秘书长，南宁市数据局党组书记、局长		南宁市数据局		0486
+唐国玉		2		广西壮族自治区	南宁市	http://dsjfzj.nanning.gov.cn/jggk/ldfg/	市数据局党组成员、副局长		南宁市数据局		0486
+潘佳宾		3		广西壮族自治区	南宁市	http://dsjfzj.nanning.gov.cn/jggk/ldfg/	市数据局副局长		南宁市数据局		0486

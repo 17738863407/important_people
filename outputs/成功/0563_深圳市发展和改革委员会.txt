@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郭子平		1		广东省	深圳市	http://fgw.sz.gov.cn/gkmlpt/index#2641	深圳市发展和改革委员会党组书记、主任，深圳市推进粤港澳大湾区建设领导小组办公室主任		深圳市发展和改革委员会	https://fgw.sz.gov.cn/gkmlpt/content/11/11236/post_11236794.html	0563
+许云飞		2		广东省	深圳市	http://fgw.sz.gov.cn/gkmlpt/index#2641	深圳市发展和改革委员会党组成员、副主任		深圳市发展和改革委员会	https://fgw.sz.gov.cn/gkmlpt/content/11/11354/post_11354750.html	0563
+朱云		3		广东省	深圳市	http://fgw.sz.gov.cn/gkmlpt/index#2641	深圳市发展和改革委员会党组成员、副主任		深圳市发展和改革委员会	https://fgw.sz.gov.cn/gkmlpt/content/11/11236/post_11236793.html	0563
+莫鹏		4		广东省	深圳市	http://fgw.sz.gov.cn/gkmlpt/index#2641	深圳市发展和改革委员会党组成员、副主任		深圳市发展和改革委员会	https://fgw.sz.gov.cn/gkmlpt/content/11/11236/post_11236786.html	0563
+刘楚文		5		广东省	深圳市	http://fgw.sz.gov.cn/gkmlpt/index#2641	深圳市发展和改革委员会党组成员、副主任		深圳市发展和改革委员会	https://fgw.sz.gov.cn/gkmlpt/content/11/11972/post_11972008.html	0563
+秦世杰		6		广东省	深圳市	http://fgw.sz.gov.cn/gkmlpt/index#2641	深圳市发展和改革委员会二级巡视员		深圳市发展和改革委员会	https://fgw.sz.gov.cn/gkmlpt/content/11/11236/post_11236790.html	0563
+郑铁军		7		广东省	深圳市	http://fgw.sz.gov.cn/gkmlpt/index#2641	深圳市发展和改革委员会二级巡视员		深圳市发展和改革委员会	https://fgw.sz.gov.cn/gkmlpt/content/11/11236/post_11236788.html	0563

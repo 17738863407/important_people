@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+常晋宏		1		宁夏回族自治区		https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/tingzhang/	自治区自然资源厅党组书记、厅长，自治区规划管理委员会办公室主任。		宁夏回族自治区自然资源厅	https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/tingzhang/202406/t20240627_4578135.html	3416
+李永春		2		宁夏回族自治区		https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/tingzhang/	自治区自然资源厅党组副书记，自治区林业和草原局党组书记、局长。		宁夏回族自治区自然资源厅	https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/ftingzhang/202406/t20240627_4578142.html	3416
+马远征		3		宁夏回族自治区		https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/tingzhang/	自治区自然资源厅党组成员，自治区地质局党组书记、局长。		宁夏回族自治区自然资源厅	https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/ftingzhang/202502/t20250214_4825731.html	3416
+王海雯		4		宁夏回族自治区		https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/tingzhang/	自治区自然资源厅党组成员、驻厅纪检监察组组长。		宁夏回族自治区自然资源厅	https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/ftingzhang/202406/t20240627_4578141.html	3416
+吕世民		5		宁夏回族自治区		https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/tingzhang/	自治区自然资源厅党组成员、副厅长。		宁夏回族自治区自然资源厅	https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/ftingzhang/202406/t20240627_4578147.html	3416
+张进		6		宁夏回族自治区		https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/tingzhang/	自治区自然资源厅党组成员、副厅长。		宁夏回族自治区自然资源厅	https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/ftingzhang/202406/t20240627_4578146.html	3416
+马海军		7		宁夏回族自治区		https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/tingzhang/	自治区自然资源厅党组成员、副厅长。		宁夏回族自治区自然资源厅	https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/ftingzhang/202406/t20240627_4578140.html	3416
+艾红兵		8		宁夏回族自治区		https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/tingzhang/	自治区自然资源厅党组成员、副厅长。		宁夏回族自治区自然资源厅	https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/ftingzhang/202407/t20240701_4581888.html	3416
+李少军		9		宁夏回族自治区		https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/tingzhang/	自治区自然资源厅二级巡视员。		宁夏回族自治区自然资源厅	https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/xunsy/202406/t20240627_4578144.html	3416
+张建新		10		宁夏回族自治区		https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/tingzhang/	自治区自然资源厅二级巡视员。		宁夏回族自治区自然资源厅	https://zrzyt.nx.gov.cn/jg_261/jgzn/ldjj/xunsy/202406/t20240627_4578156.html	3416

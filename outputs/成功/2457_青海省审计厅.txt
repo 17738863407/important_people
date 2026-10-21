@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈兆超		1		青海省		http://sjt.qinghai.gov.cn/jggk/	青海省审计厅党组书记、厅长		青海省审计厅	http://sjt.qinghai.gov.cn/jggk/ldjj/202203/t20220314_378064.html	2457
+籍吉生		2		青海省		http://sjt.qinghai.gov.cn/jggk/	青海省审计厅党组成员、副厅长		青海省审计厅	http://sjt.qinghai.gov.cn/jggk/ldjj/202512/t20251214_388115.html	2457
+王瑛		3		青海省		http://sjt.qinghai.gov.cn/jggk/	青海省审计厅党组成员、副厅长		青海省审计厅	http://sjt.qinghai.gov.cn/jggk/ldjj/202512/t20251214_388116.html	2457
+王毅梅		4		青海省		http://sjt.qinghai.gov.cn/jggk/	青海省审计厅党组成员、副厅长		青海省审计厅	http://sjt.qinghai.gov.cn/jggk/ldjj/202512/t20251214_388117.html	2457
+金生贵		5		青海省		http://sjt.qinghai.gov.cn/jggk/	青海省审计厅党组成员、省经济责任审计工作厅际联席会议办公室主任		青海省审计厅	http://sjt.qinghai.gov.cn/jggk/ldjj/202512/t20251214_388118.html	2457
+李聪		6		青海省		http://sjt.qinghai.gov.cn/jggk/	青海省审计厅党组成员、副厅长		青海省审计厅	http://sjt.qinghai.gov.cn/jggk/ldjj/202512/t20251214_388119.html	2457
+李忠虎		7		青海省		http://sjt.qinghai.gov.cn/jggk/	青海省审计厅党组成员、总审计师		青海省审计厅	http://sjt.qinghai.gov.cn/jggk/ldjj/202609/t20260914_442344.html	2457

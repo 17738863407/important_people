@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+卢新华		1		广西壮族自治区	桂林市	https://www.guilin.gov.cn/zfxxgk/fdzdgknr/jcxxgk/ldzc/	市长		桂林市人民政府	https://www.guilin.gov.cn/zfxxgk/fdzdgknr/jcxxgk/ldzc/sz2/	3826
+周彦		2		广西壮族自治区	桂林市	https://www.guilin.gov.cn/zfxxgk/fdzdgknr/jcxxgk/ldzc/	副市长		桂林市人民政府	https://www.guilin.gov.cn/zfxxgk/fdzdgknr/jcxxgk/ldzc/t26447431.shtml	3826
+徐干君		3		广西壮族自治区	桂林市	https://www.guilin.gov.cn/zfxxgk/fdzdgknr/jcxxgk/ldzc/	副市长		桂林市人民政府	https://www.guilin.gov.cn/zfxxgk/fdzdgknr/jcxxgk/ldzc/t26345459.shtml	3826
+杨莎莎		4		广西壮族自治区	桂林市	https://www.guilin.gov.cn/zfxxgk/fdzdgknr/jcxxgk/ldzc/	副市长		桂林市人民政府	https://www.guilin.gov.cn/zfxxgk/fdzdgknr/jcxxgk/ldzc/t26461831.shtml	3826
+农健		5		广西壮族自治区	桂林市	https://www.guilin.gov.cn/zfxxgk/fdzdgknr/jcxxgk/ldzc/	副市长		桂林市人民政府	https://www.guilin.gov.cn/zfxxgk/fdzdgknr/jcxxgk/ldzc/t26400502.shtml	3826
+农军		6		广西壮族自治区	桂林市	https://www.guilin.gov.cn/zfxxgk/fdzdgknr/jcxxgk/ldzc/	副市长		桂林市人民政府	https://www.guilin.gov.cn/zfxxgk/fdzdgknr/jcxxgk/ldzc/t28070253.shtml	3826
+王红侠		7		广西壮族自治区	桂林市	https://www.guilin.gov.cn/zfxxgk/fdzdgknr/jcxxgk/ldzc/	副市长		桂林市人民政府	https://www.guilin.gov.cn/zfxxgk/fdzdgknr/jcxxgk/ldzc/t26461833.shtml	3826
+吴晓罡		8		广西壮族自治区	桂林市	https://www.guilin.gov.cn/zfxxgk/fdzdgknr/jcxxgk/ldzc/	市政府秘书长		桂林市人民政府	https://www.guilin.gov.cn/zfxxgk/fdzdgknr/jcxxgk/ldzc/t26461835.shtml	3826

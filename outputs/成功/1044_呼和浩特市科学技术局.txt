@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+汪驰		1		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/skxjsj_22403/fdzdgknr/?gk=2&cid=23142#bmjgjjID	党组书记、局长		呼和浩特市科学技术局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/skxjsj_22403/fdzdgknr/jgjj/ldjj/202509/t20250916_1932233.html	1044
+贾建宇		2		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/skxjsj_22403/fdzdgknr/?gk=2&cid=23142#bmjgjjID	党组成员、副局长		呼和浩特市科学技术局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/skxjsj_22403/fdzdgknr/jgjj/ldjj/202409/t20240924_1779398.html	1044
+王秀云		3		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/skxjsj_22403/fdzdgknr/?gk=2&cid=23142#bmjgjjID	副局长		呼和浩特市科学技术局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/skxjsj_22403/fdzdgknr/jgjj/ldjj/202508/t20250808_1920444.html	1044

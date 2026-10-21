@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吕剑枫		1		广西壮族自治区	玉林市	http://gxylzx.gov.cn/web/ylzx/zxld.ptl?page=1	主席		玉林市政协	http://gxylzx.gov.cn/web/ylzx/leader_detail.ptl?leaderId=403	3958
+何东真		2		广西壮族自治区	玉林市	http://gxylzx.gov.cn/web/ylzx/zxld.ptl?page=1	副主席		玉林市政协	http://gxylzx.gov.cn/web/ylzx/leader_detail.ptl?leaderId=308	3958
+徐建伟		3		广西壮族自治区	玉林市	http://gxylzx.gov.cn/web/ylzx/zxld.ptl?page=1	副主席		玉林市政协	http://gxylzx.gov.cn/web/ylzx/leader_detail.ptl?leaderId=299	3958
+吕燕梅		4		广西壮族自治区	玉林市	http://gxylzx.gov.cn/web/ylzx/zxld.ptl?page=1	副主席		玉林市政协	http://gxylzx.gov.cn/web/ylzx/leader_detail.ptl?leaderId=311	3958
+杨正川		5		广西壮族自治区	玉林市	http://gxylzx.gov.cn/web/ylzx/zxld.ptl?page=1	副主席		玉林市政协	http://gxylzx.gov.cn/web/ylzx/leader_detail.ptl?leaderId=313	3958
+邹志刚		6		广西壮族自治区	玉林市	http://gxylzx.gov.cn/web/ylzx/zxld.ptl?page=1	副主席		玉林市政协	http://gxylzx.gov.cn/web/ylzx/leader_detail.ptl?leaderId=404	3958
+曾锋		7		广西壮族自治区	玉林市	http://gxylzx.gov.cn/web/ylzx/zxld.ptl?page=1	副主席		玉林市政协	http://gxylzx.gov.cn/web/ylzx/leader_detail.ptl?leaderId=314	3958
+莫逊群		8		广西壮族自治区	玉林市	http://gxylzx.gov.cn/web/ylzx/zxld.ptl?page=1	副主席		玉林市政协	http://gxylzx.gov.cn/web/ylzx/leader_detail.ptl?leaderId=70905	3958
+陆金学		9		广西壮族自治区	玉林市	http://gxylzx.gov.cn/web/ylzx/zxld.ptl?page=1	副主席		玉林市政协	http://gxylzx.gov.cn/web/ylzx/leader_detail.ptl?leaderId=70906	3958
+龚郁		10		广西壮族自治区	玉林市	http://gxylzx.gov.cn/web/ylzx/zxld.ptl?page=1	秘书长		玉林市政协	http://gxylzx.gov.cn/web/ylzx/leader_detail.ptl?leaderId=66021	3958

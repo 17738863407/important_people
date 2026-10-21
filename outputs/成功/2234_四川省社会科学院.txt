@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘立云		1		四川省		http://www.sass.cn/html/jgjj.xml	党委书记		四川省社会科学院	http://www.sass.cn/129000001/73470.aspx	2234
+杨颖		2		四川省		http://www.sass.cn/html/jgjj.xml	党委副书记、院长		四川省社会科学院	http://www.sass.cn/129000001/70737.aspx	2234
+冯俊锋		3		四川省		http://www.sass.cn/html/jgjj.xml	党委副书记		四川省社会科学院	http://www.sass.cn/129000001/73471.aspx	2234
+喇明英		4		四川省		http://www.sass.cn/html/jgjj.xml	副院长		四川省社会科学院	http://www.sass.cn/100001000/15924.aspx	2234
+廖祖君		5		四川省		http://www.sass.cn/html/jgjj.xml	党委委员、副院长		四川省社会科学院	http://www.sass.cn/129000001/10190.aspx	2234
+廖冲绪		6		四川省		http://www.sass.cn/html/jgjj.xml	党委委员、副院长		四川省社会科学院	http://www.sass.cn/100001000/10188.aspx	2234

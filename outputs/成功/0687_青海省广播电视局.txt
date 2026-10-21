@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张新文		1		青海省		http://gdj.qinghai.gov.cn/Leadership.html	党组书记、局长		青海省广播电视局	http://gdj.qinghai.gov.cn/Leadership/ZhangXinWen.html	0687
+李军		2		青海省		http://gdj.qinghai.gov.cn/Leadership.html	党组成员、副局长		青海省广播电视局	http://gdj.qinghai.gov.cn/Leadership/LiJun.html	0687
+卓玛才让		3		青海省		http://gdj.qinghai.gov.cn/Leadership.html	党组成员、副局长		青海省广播电视局	http://gdj.qinghai.gov.cn/Leadership/ZhuoMaCaiRang.html	0687
+周明		4		青海省		http://gdj.qinghai.gov.cn/Leadership.html	党组成员、副局长		青海省广播电视局	http://gdj.qinghai.gov.cn/Leadership/ZhouMing.html	0687
+张武祥		5		青海省		http://gdj.qinghai.gov.cn/Leadership.html	党组成员、副局长		青海省广播电视局	http://gdj.qinghai.gov.cn/Leadership/zhangwuxiang.html	0687

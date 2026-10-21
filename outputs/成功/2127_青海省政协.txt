@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+公保扎西		1		全国		https://www.qhszx.gov.cn/zxgk/CPPCC_leaders/	主席		青海省政协		2127
+仁青安杰		2		全国		https://www.qhszx.gov.cn/zxgk/CPPCC_leaders/	副主席		青海省政协		2127
+匡湧		3		全国		https://www.qhszx.gov.cn/zxgk/CPPCC_leaders/	副主席		青海省政协		2127
+王绚		4		全国		https://www.qhszx.gov.cn/zxgk/CPPCC_leaders/	副主席		青海省政协		2127
+王振昌		5		全国		https://www.qhszx.gov.cn/zxgk/CPPCC_leaders/	副主席		青海省政协		2127
+张晓容		6		全国		https://www.qhszx.gov.cn/zxgk/CPPCC_leaders/	副主席		青海省政协		2127
+李晓南		7		全国		https://www.qhszx.gov.cn/zxgk/CPPCC_leaders/	副主席		青海省政协		2127
+田奎		8		全国		https://www.qhszx.gov.cn/zxgk/CPPCC_leaders/	副主席		青海省政协		2127
+刘大业		9		全国		https://www.qhszx.gov.cn/zxgk/CPPCC_leaders/	副主席		青海省政协		2127
+赛赤·确吉洛智嘉措		10		全国		https://www.qhszx.gov.cn/zxgk/CPPCC_leaders/	副主席		青海省政协		2127
+马跃祥		11		全国		https://www.qhszx.gov.cn/zxgk/CPPCC_leaders/	副主席		青海省政协		2127
+靳生寿		12		全国		https://www.qhszx.gov.cn/zxgk/CPPCC_leaders/	副主席		青海省政协		2127
+竺向东		13		全国		https://www.qhszx.gov.cn/zxgk/CPPCC_leaders/	秘书长		青海省政协		2127

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+宋积珍		1		青海省		http://yjt.qinghai.gov.cn/Mobile/jggk.html	党委书记、厅长		青海省应急管理厅	http://yjt.qinghai.gov.cn/Mobile/jggk_ldxx.html?userId=252&orgId=76	3242
+扎西平措		2		青海省		http://yjt.qinghai.gov.cn/Mobile/jggk.html	党委委员、副厅长（兼）；省消防救援总队总队长		青海省应急管理厅	http://yjt.qinghai.gov.cn/Mobile/jggk_ldxx.html?userId=281&orgId=76	3242
+郭勇		3		青海省		http://yjt.qinghai.gov.cn/Mobile/jggk.html	党委委员；副厅长		青海省应急管理厅	http://yjt.qinghai.gov.cn/Mobile/jggk_ldxx.html?userId=88&orgId=76	3242
+李延斌		4		青海省		http://yjt.qinghai.gov.cn/Mobile/jggk.html	党委委员；驻厅纪检监察组组长		青海省应急管理厅	http://yjt.qinghai.gov.cn/Mobile/jggk_ldxx.html?userId=271&orgId=76	3242
+闫达伟		5		青海省		http://yjt.qinghai.gov.cn/Mobile/jggk.html	党委委员；副厅长		青海省应急管理厅	http://yjt.qinghai.gov.cn/Mobile/jggk_ldxx.html?userId=272&orgId=76	3242
+索南多		6		青海省		http://yjt.qinghai.gov.cn/Mobile/jggk.html	党委委员；副厅长		青海省应急管理厅	http://yjt.qinghai.gov.cn/Mobile/jggk_ldxx.html?userId=282&orgId=76	3242
+敏锐		7		青海省		http://yjt.qinghai.gov.cn/Mobile/jggk.html	党委委员；副厅长		青海省应急管理厅	http://yjt.qinghai.gov.cn/Mobile/jggk_ldxx.html?userId=283&orgId=76	3242
+杨一帆		8		青海省		http://yjt.qinghai.gov.cn/Mobile/jggk.html	党委委员；副厅长（援青）		青海省应急管理厅	http://yjt.qinghai.gov.cn/Mobile/jggk_ldxx.html?userId=285&orgId=76	3242
+陆嘉		9		青海省		http://yjt.qinghai.gov.cn/Mobile/jggk.html	党委委员；政治部主任		青海省应急管理厅	http://yjt.qinghai.gov.cn/Mobile/jggk_ldxx.html?userId=291&orgId=76	3242

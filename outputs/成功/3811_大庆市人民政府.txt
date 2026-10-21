@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙恒		1		黑龙江省	大庆市	https://www.daqing.gov.cn/daqing/c100353/ldzc.shtml	市长		大庆市人民政府	https://www.daqing.gov.cn/daqing/c100354/202108/c05_87279.shtml	3811
+韩云		2		黑龙江省	大庆市	https://www.daqing.gov.cn/daqing/c100353/ldzc.shtml	副市长		大庆市人民政府	https://www.daqing.gov.cn/daqing/c100355/202407/c05_345859.shtml	3811
+孙坤		3		黑龙江省	大庆市	https://www.daqing.gov.cn/daqing/c100353/ldzc.shtml	副市长		大庆市人民政府	https://www.daqing.gov.cn/daqing/c100355/202409/c05_353334.shtml	3811
+朱清霞		4		黑龙江省	大庆市	https://www.daqing.gov.cn/daqing/c100353/ldzc.shtml	副市长		大庆市人民政府	https://www.daqing.gov.cn/daqing/c100355/202009/c05_87281.shtml	3811
+杨春发		5		黑龙江省	大庆市	https://www.daqing.gov.cn/daqing/c100353/ldzc.shtml	副市长		大庆市人民政府	https://www.daqing.gov.cn/daqing/c100355/202606/c05_414201.shtml	3811
+张雨		6		黑龙江省	大庆市	https://www.daqing.gov.cn/daqing/c100353/ldzc.shtml	副市长		大庆市人民政府	https://www.daqing.gov.cn/daqing/c100355/202604/c05_408492.shtml	3811
+吕航		7		黑龙江省	大庆市	https://www.daqing.gov.cn/daqing/c100353/ldzc.shtml	副市长		大庆市人民政府	https://www.daqing.gov.cn/daqing/c100355/202411/c05_360444.shtml	3811
+卜启军		8		黑龙江省	大庆市	https://www.daqing.gov.cn/daqing/c100353/ldzc.shtml	副市长		大庆市人民政府	https://www.daqing.gov.cn/daqing/c100355/202607/c05_416358.shtml	3811
+田震		9		黑龙江省	大庆市	https://www.daqing.gov.cn/daqing/c100353/ldzc.shtml	副市长		大庆市人民政府	https://www.daqing.gov.cn/daqing/c100355/202507/c05_383233.shtml	3811

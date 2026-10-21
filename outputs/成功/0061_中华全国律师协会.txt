@@ -1,0 +1,18 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高子程		1		全国		https://www.acla.org.cn/catalog/745efd8ed27a4194b349729444bd0ed6	中华全国律师协会会长		中华全国律师协会		0061
+蒋敏		2		全国		https://www.acla.org.cn/catalog/745efd8ed27a4194b349729444bd0ed6	中华全国律师协会副会长		中华全国律师协会		0061
+薛济民		3		全国		https://www.acla.org.cn/catalog/745efd8ed27a4194b349729444bd0ed6	中华全国律师协会副会长		中华全国律师协会		0061
+肖胜方		4		全国		https://www.acla.org.cn/catalog/745efd8ed27a4194b349729444bd0ed6	中华全国律师协会副会长		中华全国律师协会		0061
+盛雷鸣		5		全国		https://www.acla.org.cn/catalog/745efd8ed27a4194b349729444bd0ed6	中华全国律师协会副会长		中华全国律师协会		0061
+岳琴舫		6		全国		https://www.acla.org.cn/catalog/745efd8ed27a4194b349729444bd0ed6	中华全国律师协会副会长		中华全国律师协会		0061
+郑金都		7		全国		https://www.acla.org.cn/catalog/745efd8ed27a4194b349729444bd0ed6	中华全国律师协会副会长		中华全国律师协会		0061
+万立		8		全国		https://www.acla.org.cn/catalog/745efd8ed27a4194b349729444bd0ed6	中华全国律师协会副会长		中华全国律师协会		0061
+王清友		9		全国		https://www.acla.org.cn/catalog/745efd8ed27a4194b349729444bd0ed6	中华全国律师协会副会长		中华全国律师协会		0061
+才华		10		全国		https://www.acla.org.cn/catalog/745efd8ed27a4194b349729444bd0ed6	中华全国律师协会副会长		中华全国律师协会		0061
+杨建伟		11		全国		https://www.acla.org.cn/catalog/745efd8ed27a4194b349729444bd0ed6	中华全国律师协会副会长		中华全国律师协会		0061
+韩永安		12		全国		https://www.acla.org.cn/catalog/745efd8ed27a4194b349729444bd0ed6	中华全国律师协会副会长		中华全国律师协会		0061
+程守太		13		全国		https://www.acla.org.cn/catalog/745efd8ed27a4194b349729444bd0ed6	中华全国律师协会副会长		中华全国律师协会		0061
+吴姜宏		14		全国		https://www.acla.org.cn/catalog/745efd8ed27a4194b349729444bd0ed6	中华全国律师协会副会长		中华全国律师协会		0061
+刘华春		15		全国		https://www.acla.org.cn/catalog/745efd8ed27a4194b349729444bd0ed6	中华全国律师协会秘书长		中华全国律师协会		0061
+王焱		16		全国		https://www.acla.org.cn/catalog/745efd8ed27a4194b349729444bd0ed6	中华全国律师协会副秘书长		中华全国律师协会		0061
+匡国栋		17		全国		https://www.acla.org.cn/catalog/745efd8ed27a4194b349729444bd0ed6	中华全国律师协会副秘书长		中华全国律师协会		0061

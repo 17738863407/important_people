@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何光彩		1		北京市		https://www.pku.edu.cn/leaders.html	党委书记；党委常委		北京大学	https://www.pku.edu.cn/detail/3232.html	2071
+高松		2		北京市		https://www.pku.edu.cn/leaders.html	党委副书记；校长；党委常委		北京大学	https://www.pku.edu.cn/detail/3412.html	2071
+陈宝剑		3		北京市		https://www.pku.edu.cn/leaders.html	党委常务副书记；党委常委		北京大学	https://www.pku.edu.cn/detail/2703.html	2071
+顾涛		4		北京市		https://www.pku.edu.cn/leaders.html	党委副书记；纪委书记；国家监委驻北京大学监察专员；党委常委		北京大学	https://www.pku.edu.cn/detail/23.html	2071
+宁琦		5		北京市		https://www.pku.edu.cn/leaders.html	党委副书记；副校长；党委常委		北京大学	https://www.pku.edu.cn/detail/2782.html	2071
+姜国华		6		北京市		https://www.pku.edu.cn/leaders.html	党委副书记；党委常委		北京大学	https://www.pku.edu.cn/detail/2930.html	2071
+张锦		7		北京市		https://www.pku.edu.cn/leaders.html	常务副校长；党委常委		北京大学	https://www.pku.edu.cn/detail/3261.html	2071
+董志勇		8		北京市		https://www.pku.edu.cn/leaders.html	副校长；党委常委		北京大学	https://www.pku.edu.cn/detail/2770.html	2071
+方方		9		北京市		https://www.pku.edu.cn/leaders.html	副校长；党委常委		北京大学	https://www.pku.edu.cn/detail/2931.html	2071
+朴世龙		10		北京市		https://www.pku.edu.cn/leaders.html	副校长		北京大学	https://www.pku.edu.cn/detail/2932.html	2071
+段慧玲		11		北京市		https://www.pku.edu.cn/leaders.html	副校长		北京大学	https://www.pku.edu.cn/detail/3395.html	2071
+初晓波		12		北京市		https://www.pku.edu.cn/leaders.html	副校长；党委常委		北京大学	https://www.pku.edu.cn/detail/3396.html	2071

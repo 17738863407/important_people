@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈爱林		1		湖南省	永州市	https://www.yongzhou.gov.cn/mixmedia/leaders/swcw/	市委书记		永州市委		4292
+杨洪峰		2		湖南省	永州市	https://www.yongzhou.gov.cn/mixmedia/leaders/swcw/	市委副书记、代市长		永州市委		4292
+刘厚		3		湖南省	永州市	https://www.yongzhou.gov.cn/mixmedia/leaders/swcw/	市委副书记、政法委书记		永州市委		4292
+胡果雄		4		湖南省	永州市	https://www.yongzhou.gov.cn/mixmedia/leaders/swcw/	市委常委、常务副市长		永州市委		4292
+陈卓懿		5		湖南省	永州市	https://www.yongzhou.gov.cn/mixmedia/leaders/swcw/	市委常委、副市长，永州经开区党工委第一书记		永州市委		4292
+龚颖超		6		湖南省	永州市	https://www.yongzhou.gov.cn/mixmedia/leaders/swcw/	市委常委、组织部部长		永州市委		4292
+陈广琦		7		湖南省	永州市	https://www.yongzhou.gov.cn/mixmedia/leaders/swcw/	市委常委、永州军分区司令员		永州市委		4292
+李钦		8		湖南省	永州市	https://www.yongzhou.gov.cn/mixmedia/leaders/swcw/	市委常委、宣传部部长		永州市委		4292
+龙飞凤		9		湖南省	永州市	https://www.yongzhou.gov.cn/mixmedia/leaders/swcw/	市委常委、统战部部长		永州市委		4292
+尹超		10		湖南省	永州市	https://www.yongzhou.gov.cn/mixmedia/leaders/swcw/	市委常委、市纪委书记		永州市委		4292
+唐超学		11		湖南省	永州市	https://www.yongzhou.gov.cn/mixmedia/leaders/swcw/	市委常委、市委秘书长		永州市委		4292

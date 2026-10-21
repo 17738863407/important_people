@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑海洋		1		河南省		https://hnga.henan.gov.cn/zfxxgk/zfxxgkml/jgld/	河南省人民政府副省长、党组成员，省公安厅厅长、党委书记、督察长，省委政法委副书记		河南省公安厅	http://hnga.henan.gov.cn/2023/01-11/2671180.html	0993
+戚绍斌		2		河南省		https://hnga.henan.gov.cn/zfxxgk/zfxxgkml/jgld/	河南省公安厅党委副书记、分管日常工作的副厅长（正厅级）		河南省公安厅	http://hnga.henan.gov.cn/2021/08-16/2215528.html	0993
+何侃		3		河南省		https://hnga.henan.gov.cn/zfxxgk/zfxxgkml/jgld/	河南省公安厅党委委员，公安厅特勤局党委书记、局长		河南省公安厅	http://hnga.henan.gov.cn/2021/08-16/2215527.html	0993
+郭智深		4		河南省		https://hnga.henan.gov.cn/zfxxgk/zfxxgkml/jgld/	河南省公安厅党委委员、副厅长		河南省公安厅	http://hnga.henan.gov.cn/2021/08-16/2215529.html	0993
+石秀田		5		河南省		https://hnga.henan.gov.cn/zfxxgk/zfxxgkml/jgld/	河南省公安厅党委委员，郑州市人民政府副市长、市公安局党委书记、局长		河南省公安厅	http://hnga.henan.gov.cn/2022/12-26/2662124.html	0993
+张飞		6		河南省		https://hnga.henan.gov.cn/zfxxgk/zfxxgkml/jgld/	河南省公安厅党委委员、政治部主任		河南省公安厅	http://hnga.henan.gov.cn/2023/11-24/2853822.html	0993
+张武清		7		河南省		https://hnga.henan.gov.cn/zfxxgk/zfxxgkml/jgld/	河南省公安厅党委委员、副厅长		河南省公安厅	http://hnga.henan.gov.cn/2023/11-24/2853819.html	0993
+王继勇		8		河南省		https://hnga.henan.gov.cn/zfxxgk/zfxxgkml/jgld/	河南省公安厅党委委员、副厅长		河南省公安厅	http://hnga.henan.gov.cn/2025/03-21/3139696.html	0993
+李明		9		河南省		https://hnga.henan.gov.cn/zfxxgk/zfxxgkml/jgld/	河南省公安厅党委委员、副厅长		河南省公安厅	http://hnga.henan.gov.cn/2022/09-07/2602883.html	0993

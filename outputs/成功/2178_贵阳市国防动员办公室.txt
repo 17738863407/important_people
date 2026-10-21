@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘强		1		贵州省	贵阳市	http://rfb.guiyang.gov.cn/zfxxgk/fdzdgknr/zfxxgkjggk/ldzc/	贵阳市国防动员办公室党组书记，贵阳市国动办（市人民防空办公室）主任，贵阳市发展和改革委员会（市能源局）副主任（副局长）		贵阳市国防动员办公室	http://rfb.guiyang.gov.cn/zfxxgk/fdzdgknr/zfxxgkjggk/ldzc/202109/t20210913_70072649.html	2178
+刘楚霞		2		贵州省	贵阳市	http://rfb.guiyang.gov.cn/zfxxgk/fdzdgknr/zfxxgkjggk/ldzc/	贵阳国防动员办公室党组成员，贵阳市国防动员办公室（市人防办）副主任，三级调研员		贵阳市国防动员办公室	http://rfb.guiyang.gov.cn/zfxxgk/fdzdgknr/zfxxgkjggk/ldzc/202109/t20210913_70072654.html	2178
+陈瀛		3		贵州省	贵阳市	http://rfb.guiyang.gov.cn/zfxxgk/fdzdgknr/zfxxgkjggk/ldzc/	贵阳国防动员办公室党组成员，贵阳市国防动员办公室（市人防办）副主任，三级调研员		贵阳市国防动员办公室	http://rfb.guiyang.gov.cn/zfxxgk/fdzdgknr/zfxxgkjggk/ldzc/202212/t20221226_77724561.html	2178
+杨松		4		贵州省	贵阳市	http://rfb.guiyang.gov.cn/zfxxgk/fdzdgknr/zfxxgkjggk/ldzc/	贵阳市国防动员办公室（市人防办）副主任（试用期一年）		贵阳市国防动员办公室	http://rfb.guiyang.gov.cn/zfxxgk/fdzdgknr/zfxxgkjggk/ldzc/202212/t20221226_77724993.html	2178
+黄学东		5		贵州省	贵阳市	http://rfb.guiyang.gov.cn/zfxxgk/fdzdgknr/zfxxgkjggk/ldzc/	贵阳市国防动员办公室二级调研员		贵阳市国防动员办公室	http://rfb.guiyang.gov.cn/zfxxgk/fdzdgknr/zfxxgkjggk/ldzc/202109/t20210913_70072653.html	2178

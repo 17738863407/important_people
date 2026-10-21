@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吉永锋		1		甘肃省		https://yjj.gansu.gov.cn/yjj/c114304/xxgk_jgjj.shtml	甘肃省市场监督管理局党组成员，甘肃省药品监督管理局党组书记、局长		甘肃省药品监督管理局	https://yjj.gansu.gov.cn/yjj/c114222/202106/1476061.shtml	3217
+杨平荣		2		甘肃省		https://yjj.gansu.gov.cn/yjj/c114304/xxgk_jgjj.shtml	甘肃省药品监督管理局党组成员、副局长		甘肃省药品监督管理局	http://yjj.gansu.gov.cn/yjj/c114222/202106/1478407.shtml	3217
+杨涛		3		甘肃省		https://yjj.gansu.gov.cn/yjj/c114304/xxgk_jgjj.shtml	甘肃省药品监督管理局党组成员、副局长		甘肃省药品监督管理局	https://yjj.gansu.gov.cn/yjj/c114222/202108/1768742.shtml	3217
+王政		4		甘肃省		https://yjj.gansu.gov.cn/yjj/c114304/xxgk_jgjj.shtml	甘肃省药品监督管理局党组成员、副局长		甘肃省药品监督管理局	https://yjj.gansu.gov.cn/yjj/c114222/202106/1478409.shtml	3217

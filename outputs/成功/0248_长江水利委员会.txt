@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王威		1		全国		http://www.cjw.gov.cn/zwzc/zjcjw/	长江委党组成员 副主任		长江水利委员会	http://www.cjw.gov.cn/zwzc/zjcjw/ldxx/ww/index.shtml	0248
+马水山		2		全国		http://www.cjw.gov.cn/zwzc/zjcjw/	长江委党组成员 副主任		长江水利委员会	http://www.cjw.gov.cn/zwzc/zjcjw/ldxx/mss/index.shtml	0248
+许全喜		3		全国		http://www.cjw.gov.cn/zwzc/zjcjw/	长江委党组成员 副主任		长江水利委员会	http://www.cjw.gov.cn/zwzc/zjcjw/ldxx/xuqx/index.shtml	0248
+王乃岳		4		全国		http://www.cjw.gov.cn/zwzc/zjcjw/	长江委党组成员 机关党委副书记 纪委书记		长江水利委员会	http://www.cjw.gov.cn/zwzc/zjcjw/ldxx/wny/index.shtml	0248

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杜颖		1		广西壮族自治区	南宁市	https://gzw.nanning.gov.cn/xxgk/fdzdgknr/ldxx/t5685496.html	党委书记、主任		南宁市人民政府国有资产监督管理委员会		0842
+庞志刚		2		广西壮族自治区	南宁市	https://gzw.nanning.gov.cn/xxgk/fdzdgknr/ldxx/t5685496.html	副主任、党委委员		南宁市人民政府国有资产监督管理委员会		0842
+张乐群		3		广西壮族自治区	南宁市	https://gzw.nanning.gov.cn/xxgk/fdzdgknr/ldxx/t5685496.html	副主任、党委委员		南宁市人民政府国有资产监督管理委员会		0842
+林晓凤		4		广西壮族自治区	南宁市	https://gzw.nanning.gov.cn/xxgk/fdzdgknr/ldxx/t5685496.html	副主任、党委委员		南宁市人民政府国有资产监督管理委员会		0842
+冉应麟		5		广西壮族自治区	南宁市	https://gzw.nanning.gov.cn/xxgk/fdzdgknr/ldxx/t5685496.html	副主任、党委委员		南宁市人民政府国有资产监督管理委员会		0842

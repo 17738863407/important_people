@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于剑		1		全国		https://www.cauc.edu.cn/zhv5/xxgk/xrld.htm	党委书记		中国民航大学		4388
+丁水汀		2		全国		https://www.cauc.edu.cn/zhv5/xxgk/xrld.htm	党委副书记；校长		中国民航大学		4388
+王志强		3		全国		https://www.cauc.edu.cn/zhv5/xxgk/xrld.htm	党委副书记		中国民航大学		4388
+罗黎明		4		全国		https://www.cauc.edu.cn/zhv5/xxgk/xrld.htm	纪委书记；党委常委		中国民航大学		4388
+刘英		5		全国		https://www.cauc.edu.cn/zhv5/xxgk/xrld.htm	工会主席；党委常委		中国民航大学		4388
+王文平		6		全国		https://www.cauc.edu.cn/zhv5/xxgk/xrld.htm	党委常委；副校长		中国民航大学		4388
+杨新湦		7		全国		https://www.cauc.edu.cn/zhv5/xxgk/xrld.htm	党委常委；副校长		中国民航大学		4388
+徐雪峰		8		全国		https://www.cauc.edu.cn/zhv5/xxgk/xrld.htm	党委常委		中国民航大学		4388
+赵嶷飞		9		全国		https://www.cauc.edu.cn/zhv5/xxgk/xrld.htm	党委常委		中国民航大学		4388
+吴仁彪		10		全国		https://www.cauc.edu.cn/zhv5/xxgk/xrld.htm	副校长		中国民航大学		4388
+李大庆		11		全国		https://www.cauc.edu.cn/zhv5/xxgk/xrld.htm	副校长		中国民航大学		4388

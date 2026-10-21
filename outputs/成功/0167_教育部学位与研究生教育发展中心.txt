@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+舒华		1		全国		https://www.cdgdc.edu.cn/zxjs1/ldxx.htm	主任		教育部学位与研究生教育发展中心	https://www.cdgdc.edu.cn/info/1022/2822.htm	0167
+任增林		2		全国		https://www.cdgdc.edu.cn/zxjs1/ldxx.htm	副主任		教育部学位与研究生教育发展中心	https://www.cdgdc.edu.cn/info/1022/2314.htm	0167
+亓彦伟		3		全国		https://www.cdgdc.edu.cn/zxjs1/ldxx.htm	副主任		教育部学位与研究生教育发展中心	https://www.cdgdc.edu.cn/info/1022/2315.htm	0167

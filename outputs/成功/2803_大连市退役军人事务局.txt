@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于芳		1		辽宁省	大连市	https://tyjrj.dl.gov.cn/col/col7809/index.html?vc_xxgkarea=2103000002&number=DL014&jh=263	党组书记、局长		大连市退役军人事务局	https://tyjrj.dl.gov.cn/art/2023/7/6/art_9113_2086967.html	2803
+杨勇		2		辽宁省	大连市	https://tyjrj.dl.gov.cn/col/col7809/index.html?vc_xxgkarea=2103000002&number=DL014&jh=263	党组成员、副局长		大连市退役军人事务局	https://tyjrj.dl.gov.cn/art/2025/2/17/art_9113_2406303.html	2803
+马兵		3		辽宁省	大连市	https://tyjrj.dl.gov.cn/col/col7809/index.html?vc_xxgkarea=2103000002&number=DL014&jh=263	党组成员、副局长		大连市退役军人事务局	https://tyjrj.dl.gov.cn/art/2023/12/19/art_9113_2296915.html	2803
+徐磊		4		辽宁省	大连市	https://tyjrj.dl.gov.cn/col/col7809/index.html?vc_xxgkarea=2103000002&number=DL014&jh=263	党组成员、副局长		大连市退役军人事务局	https://tyjrj.dl.gov.cn/art/2023/11/17/art_9113_2086964.html	2803
+孙福涛		5		辽宁省	大连市	https://tyjrj.dl.gov.cn/col/col7809/index.html?vc_xxgkarea=2103000002&number=DL014&jh=263	大连军分区政治部主任，兼任市退役军人事务局党组成员、副局长		大连市退役军人事务局	https://tyjrj.dl.gov.cn/art/2023/7/6/art_9113_2086963.html	2803
+马明潭		6		辽宁省	大连市	https://tyjrj.dl.gov.cn/col/col7809/index.html?vc_xxgkarea=2103000002&number=DL014&jh=263	党组成员、市军队离休退休干部服务中心主任		大连市退役军人事务局	https://tyjrj.dl.gov.cn/art/2024/2/8/art_9113_2315386.html	2803

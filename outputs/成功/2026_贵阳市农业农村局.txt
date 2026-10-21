@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+岳兵		1		贵州省	贵阳市	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/	党委书记、局长、一级调研员		贵阳市农业农村局	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/202503/t20250317_87186712.html	2026
+谢国波		2		贵州省	贵阳市	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/	党委委员、副局长（保留正县长级）		贵阳市农业农村局	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/202504/t20250410_87499768.html	2026
+敖俊		3		贵州省	贵阳市	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/	党委委员、副局长、三级调研员		贵阳市农业农村局	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/202503/t20250317_87186333.html	2026
+李义		4		贵州省	贵阳市	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/	党委委员、市纪委市监委派驻市农业农村局纪检监察组组长、四级高级监察官、三级调研员		贵阳市农业农村局	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/202503/t20250317_87186264.html	2026
+甘昭辉		5		贵州省	贵阳市	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/	党委委员、副局长		贵阳市农业农村局	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/202503/t20250317_87186220.html	2026
+邵斌		6		贵州省	贵阳市	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/	党委委员、市乡村振兴服务中心主任		贵阳市农业农村局	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/202503/t20250317_87185920.html	2026
+刘丽		7		贵州省	贵阳市	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/	副县级干部		贵阳市农业农村局	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/202503/t20250317_87186131.html	2026
+陈雪		8		贵州省	贵阳市	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/	副县级督查专员		贵阳市农业农村局	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/202503/t20250317_87186087.html	2026
+陈先睦		9		贵州省	贵阳市	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/	二级调研员		贵阳市农业农村局	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/202503/t20250317_87185794.html	2026
+宋伟		10		贵州省	贵阳市	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/	三级调研员		贵阳市农业农村局	http://nync.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld/202503/t20250317_87185733.html	2026

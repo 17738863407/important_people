@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李炳军		1		全国		https://www.guizhou.gov.cn/zwgk/	省委副书记、省长		贵州省人民政府	https://www.guizhou.gov.cn/zwgk/zfld/lbj/	0753
+胡广杰		2		全国		https://www.guizhou.gov.cn/zwgk/	副省长		贵州省人民政府	https://www.guizhou.gov.cn/zwgk/zfld/hgj/	0753
+董家禄		3		全国		https://www.guizhou.gov.cn/zwgk/	副省长		贵州省人民政府	https://www.guizhou.gov.cn/zwgk/zfld/djl/	0753
+蔡朝林		4		全国		https://www.guizhou.gov.cn/zwgk/	副省长		贵州省人民政府	https://www.guizhou.gov.cn/zwgk/zfld/ccl/	0753
+张敬平		5		全国		https://www.guizhou.gov.cn/zwgk/	副省长		贵州省人民政府	https://www.guizhou.gov.cn/zwgk/zfld/zjp/	0753
+罗强		6		全国		https://www.guizhou.gov.cn/zwgk/	副省长		贵州省人民政府	https://www.guizhou.gov.cn/zwgk/zfld/lq/	0753
+杨同光		7		全国		https://www.guizhou.gov.cn/zwgk/	副省长		贵州省人民政府	https://www.guizhou.gov.cn/zwgk/zfld/ytg/	0753
+郭成林		8		全国		https://www.guizhou.gov.cn/zwgk/	副省长		贵州省人民政府	https://www.guizhou.gov.cn/zwgk/zfld/gcl/	0753
+王冬斌		9		全国		https://www.guizhou.gov.cn/zwgk/	副省长		贵州省人民政府	https://www.guizhou.gov.cn/zwgk/zfld/wdb/	0753
+魏树旺		10		全国		https://www.guizhou.gov.cn/zwgk/	秘书长		贵州省人民政府	https://www.guizhou.gov.cn/zwgk/zfld/wsw/	0753

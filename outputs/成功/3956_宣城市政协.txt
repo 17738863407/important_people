@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴爱国		1		安徽省	宣城市	http://www.xcszx.gov.cn/content/channel/624698e12792eeba318f46c3/	市政协主席、党组书记		宣城市政协		3956
+华银峰		2		安徽省	宣城市	http://www.xcszx.gov.cn/content/channel/624698e12792eeba318f46c3/	市委常委、统战部部长，市政协党组副书记		宣城市政协		3956
+黄敏		3		安徽省	宣城市	http://www.xcszx.gov.cn/content/channel/624698e12792eeba318f46c3/	市政协副主席、农工党宣城市委会（筹）主委、一级巡视员		宣城市政协		3956
+程观远		4		安徽省	宣城市	http://www.xcszx.gov.cn/content/channel/624698e12792eeba318f46c3/	市政协副主席、一级巡视员		宣城市政协		3956
+彭禧元		5		安徽省	宣城市	http://www.xcszx.gov.cn/content/channel/624698e12792eeba318f46c3/	市政协副主席、党组成员，市总工会主席		宣城市政协		3956
+陈红英		6		安徽省	宣城市	http://www.xcszx.gov.cn/content/channel/624698e12792eeba318f46c3/	市政协副主席、党组成员		宣城市政协		3956
+赵艳		7		安徽省	宣城市	http://www.xcszx.gov.cn/content/channel/624698e12792eeba318f46c3/	市政协副主席、市工商联主席		宣城市政协		3956
+周小红		8		安徽省	宣城市	http://www.xcszx.gov.cn/content/channel/624698e12792eeba318f46c3/	市政协副主席、市医疗保障局局长、民建宣城市基层委员会主委		宣城市政协		3956
+郑华		9		安徽省	宣城市	http://www.xcszx.gov.cn/content/channel/624698e12792eeba318f46c3/	市政协副主席、党组成员		宣城市政协		3956
+孙广东		10		安徽省	宣城市	http://www.xcszx.gov.cn/content/channel/624698e12792eeba318f46c3/	市政协秘书长、党组成员、机关党组书记、二级巡视员		宣城市政协		3956

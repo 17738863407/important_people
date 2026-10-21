@@ -1,0 +1,22 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周玉国		1		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	副主席		长春市政协		0156
+曲春雨		2		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	秘书长		长春市政协		0156
+丁丽君		3		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	常务委员		长春市政协		0156
+马海		4		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	常务委员		长春市政协		0156
+王喜东		5		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	常务委员		长春市政协		0156
+李非		6		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	常务委员		长春市政协		0156
+杨宝迪		7		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	常务委员		长春市政协		0156
+杨敬东		8		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	常务委员		长春市政协		0156
+吴军		9		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	常务委员		长春市政协		0156
+佟韶光		10		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	常务委员		长春市政协		0156
+张大明		11		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	常务委员		长春市政协		0156
+张万兴		12		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	常务委员		长春市政协		0156
+张红梅		13		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	常务委员		长春市政协		0156
+张显锋		14		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	常务委员		长春市政协		0156
+柳影		15		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	常务委员		长春市政协		0156
+秦春生		16		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	常务委员		长春市政协		0156
+高扬		17		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	常务委员		长春市政协		0156
+葛鹏飞		18		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	常务委员		长春市政协		0156
+韩红		19		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	常务委员		长春市政协		0156
+谢乃和		20		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	常务委员		长春市政协		0156
+蔺红静		21		吉林省	长春市	http://ccszx.changchun.gov.cn/ywbdd/202501/t20250110_70672.html	常务委员		长春市政协		0156

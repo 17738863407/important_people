@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李春奎		1		重庆市		https://nyncw.cq.gov.cn/xxgk_161/zfxxgkzl/fdzdgknr/jgzn/index.html	市委农业农村工委书记 市农业农村委主任 市乡村振兴局局长		重庆市农业农村委员会	https://nyncw.cq.gov.cn/xxgk_161/zfxxgkzl/fdzdgknr/jgzn/fzrxx/202307/t20230727_12189515.html	2057
+韩利剑		2		重庆市		https://nyncw.cq.gov.cn/xxgk_161/zfxxgkzl/fdzdgknr/jgzn/index.html	市政府副秘书长，市委农业农村工委委员、市农业农村委副主任		重庆市农业农村委员会	https://nyncw.cq.gov.cn/xxgk_161/zfxxgkzl/fdzdgknr/jgzn/fzrxx/202307/t20230727_12189519.html	2057
+莫杰		3		重庆市		https://nyncw.cq.gov.cn/xxgk_161/zfxxgkzl/fdzdgknr/jgzn/index.html	市委农业农村工委委员 市农业农村委副主任		重庆市农业农村委员会	https://nyncw.cq.gov.cn/xxgk_161/zfxxgkzl/fdzdgknr/jgzn/fzrxx/202307/t20230727_12189535.html	2057
+周松		4		重庆市		https://nyncw.cq.gov.cn/xxgk_161/zfxxgkzl/fdzdgknr/jgzn/index.html	市委农业农村工委委员 市农业农村委副主任		重庆市农业农村委员会	https://nyncw.cq.gov.cn/xxgk_161/zfxxgkzl/fdzdgknr/jgzn/fzrxx/202402/t20240208_12921165.html	2057
+王仕杰		5		重庆市		https://nyncw.cq.gov.cn/xxgk_161/zfxxgkzl/fdzdgknr/jgzn/index.html	市委农业农村工委委员 市农业农村委副主任 市乡村振兴局副局长		重庆市农业农村委员会	https://nyncw.cq.gov.cn/xxgk_161/zfxxgkzl/fdzdgknr/jgzn/fzrxx/202402/t20240208_12921314.html	2057
+霍卫		6		重庆市		https://nyncw.cq.gov.cn/xxgk_161/zfxxgkzl/fdzdgknr/jgzn/index.html	市委农业农村工委委员 驻市农业农村委纪检监察组组长 二级高级监察官		重庆市农业农村委员会	https://nyncw.cq.gov.cn/xxgk_161/zfxxgkzl/fdzdgknr/jgzn/fzrxx/202501/t20250119_14180113.html	2057
+秦大海		7		重庆市		https://nyncw.cq.gov.cn/xxgk_161/zfxxgkzl/fdzdgknr/jgzn/index.html	市委农业农村工委委员 市农业农村委副主任		重庆市农业农村委员会	https://nyncw.cq.gov.cn/xxgk_161/zfxxgkzl/fdzdgknr/jgzn/fzrxx/202307/t20230727_12189542.html	2057

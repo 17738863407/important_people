@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙震		1		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/csgl/gkml/jgxx/202109/t20210901_6308745.shtml	党组书记、局长		青岛市城市管理局		2130
+马晓晖		2		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/csgl/gkml/jgxx/202109/t20210901_6308745.shtml	党组成员、副局长、二级巡视员		青岛市城市管理局		2130
+王博彤		3		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/csgl/gkml/jgxx/202109/t20210901_6308745.shtml	党组成员、副局长		青岛市城市管理局		2130
+李煜华		4		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/csgl/gkml/jgxx/202109/t20210901_6308745.shtml	党组成员、副局长		青岛市城市管理局		2130
+任树睿		5		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/csgl/gkml/jgxx/202109/t20210901_6308745.shtml	党组成员、市综合行政执法支队党委书记、支队长		青岛市城市管理局		2130
+刘增青		6		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/csgl/gkml/jgxx/202109/t20210901_6308745.shtml	副局级领导干部		青岛市城市管理局		2130
+张利波		7		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/csgl/gkml/jgxx/202109/t20210901_6308745.shtml	副局级领导干部		青岛市城市管理局		2130

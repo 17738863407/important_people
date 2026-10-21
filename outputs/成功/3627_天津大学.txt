@@ -1,0 +1,17 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+梅兵		1		天津市		https://www.tju.edu.cn/tdgk/xrld.htm	党委书记		天津大学	https://www.tju.edu.cn/info/1035/88372.htm	3627
+柴立元		2		天津市		https://www.tju.edu.cn/tdgk/xrld.htm	校长；党委副书记		天津大学	https://www.tju.edu.cn/info/1035/75212.htm	3627
+雷鸣		3		天津市		https://www.tju.edu.cn/tdgk/xrld.htm	党委常务副书记		天津大学	https://www.tju.edu.cn/info/1035/75232.htm	3627
+王天友		4		天津市		https://www.tju.edu.cn/tdgk/xrld.htm	党委常委；常务副校长		天津大学	https://www.tju.edu.cn/info/1035/75252.htm	3627
+李炜		5		天津市		https://www.tju.edu.cn/tdgk/xrld.htm	党委副书记；纪委书记；国家监委驻天津大学监察专员；一级高级监察官		天津大学	https://www.tju.edu.cn/info/1035/75172.htm	3627
+郑刚		6		天津市		https://www.tju.edu.cn/tdgk/xrld.htm	党委常委；副校长		天津大学	https://www.tju.edu.cn/info/1035/75242.htm	3627
+明东		7		天津市		https://www.tju.edu.cn/tdgk/xrld.htm	副校长		天津大学	https://www.tju.edu.cn/info/1035/75262.htm	3627
+韩庆华		8		天津市		https://www.tju.edu.cn/tdgk/xrld.htm	党委副书记		天津大学	https://www.tju.edu.cn/info/1035/75272.htm	3627
+李斌		9		天津市		https://www.tju.edu.cn/tdgk/xrld.htm	党委常委；副校长		天津大学	https://www.tju.edu.cn/info/1035/75282.htm	3627
+张鹏		10		天津市		https://www.tju.edu.cn/tdgk/xrld.htm	党委常委；副校长；总会计师		天津大学	https://www.tju.edu.cn/info/1035/75192.htm	3627
+肖松山		11		天津市		https://www.tju.edu.cn/tdgk/xrld.htm	校长助理		天津大学		3627
+杨欢		12		天津市		https://www.tju.edu.cn/tdgk/xrld.htm	党委常委；宣传部部长		天津大学		3627
+张俊艳		13		天津市		https://www.tju.edu.cn/tdgk/xrld.htm	党委常委；统战部部长		天津大学		3627
+刘秀国		14		天津市		https://www.tju.edu.cn/tdgk/xrld.htm	校长助理		天津大学		3627
+赵金铎		15		天津市		https://www.tju.edu.cn/tdgk/xrld.htm	党委常委；组织部部长		天津大学		3627
+黄辉		16		天津市		https://www.tju.edu.cn/tdgk/xrld.htm	校长助理		天津大学		3627

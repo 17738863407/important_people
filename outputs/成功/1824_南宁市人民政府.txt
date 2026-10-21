@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+钟得志		1		广西壮族自治区	南宁市	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/	代市长		南宁市人民政府	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/zfdzs/	1824
+丁伟		2		广西壮族自治区	南宁市	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/	副市长		南宁市人民政府	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/fsz/t6438471.html	1824
+韦江		3		广西壮族自治区	南宁市	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/	副市长		南宁市人民政府	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/fsz/t674358.html	1824
+李瑜		4		广西壮族自治区	南宁市	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/	副市长		南宁市人民政府	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/fsz/t674360.html	1824
+黄岩		5		广西壮族自治区	南宁市	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/	副市长		南宁市人民政府	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/fsz/t6683098.html	1824
+杨远艳		6		广西壮族自治区	南宁市	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/	副市长		南宁市人民政府	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/fsz/t6718672.html	1824
+潘国雄		7		广西壮族自治区	南宁市	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/	副市长		南宁市人民政府	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/fsz/t674357.html	1824
+穆贤清		8		广西壮族自治区	南宁市	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/	副市长		南宁市人民政府	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/fsz/t674361.html	1824
+侯劲		9		广西壮族自治区	南宁市	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/	副市长		南宁市人民政府	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/fsz/t6643343.html	1824
+李光劭		10		广西壮族自治区	南宁市	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/	市政府党组副书记		南宁市人民政府	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/szzl/t1651831.html	1824
+兰捷		11		广西壮族自治区	南宁市	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/	秘书长		南宁市人民政府	https://www.nanning.gov.cn/zwgk/fdzdgknr/ldzc/msz/t674366.html	1824

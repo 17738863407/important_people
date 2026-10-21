@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈伟民		1		浙江省	杭州市	https://agri.hangzhou.gov.cn/col/col1229299650/index.html	党组书记、局长		杭州市农业农村局	https://agri.hangzhou.gov.cn/art/2021/6/2/art_1229299650_103690.html	0065
+卓齐龙		2		浙江省	杭州市	https://agri.hangzhou.gov.cn/col/col1229299650/index.html	党组成员、二级巡视员		杭州市农业农村局	https://agri.hangzhou.gov.cn/art/2020/10/28/art_1229299650_76709.html	0065
+邵京华		3		浙江省	杭州市	https://agri.hangzhou.gov.cn/col/col1229299650/index.html	党组成员、副局长		杭州市农业农村局	https://agri.hangzhou.gov.cn/art/2020/10/28/art_1229299650_76712.html	0065
+陈晓明		4		浙江省	杭州市	https://agri.hangzhou.gov.cn/col/col1229299650/index.html	党组成员、副局长		杭州市农业农村局	https://agri.hangzhou.gov.cn/art/2020/10/28/art_1229299650_76708.html	0065
+徐文波		5		浙江省	杭州市	https://agri.hangzhou.gov.cn/col/col1229299650/index.html	党组成员、副局长		杭州市农业农村局	https://agri.hangzhou.gov.cn/art/2021/12/22/art_1229299650_118605.html	0065
+姚爱华		6		浙江省	杭州市	https://agri.hangzhou.gov.cn/col/col1229299650/index.html	党组成员、副局长		杭州市农业农村局	https://agri.hangzhou.gov.cn/art/2021/2/5/art_1229299650_93861.html	0065
+廖源		7		浙江省	杭州市	https://agri.hangzhou.gov.cn/col/col1229299650/index.html	党组成员、副局长		杭州市农业农村局	https://agri.hangzhou.gov.cn/art/2021/9/27/art_1229299650_110979.html	0065
+叶安		8		浙江省	杭州市	https://agri.hangzhou.gov.cn/col/col1229299650/index.html	党组成员、总农艺师		杭州市农业农村局	https://agri.hangzhou.gov.cn/art/2023/4/7/art_1229299650_142610.html	0065
+徐刚		9		浙江省	杭州市	https://agri.hangzhou.gov.cn/col/col1229299650/index.html	党组成员、驻局纪检监察组组长		杭州市农业农村局	https://agri.hangzhou.gov.cn/art/2023/8/28/art_1229299650_147396.html	0065
+周雪梅		10		浙江省	杭州市	https://agri.hangzhou.gov.cn/col/col1229299650/index.html	党组成员、市农业执法监督指导中心 （市畜牧农机发展中心、市动物防疫检疫中心）主任		杭州市农业农村局	https://agri.hangzhou.gov.cn/col/col1229299650/art/2026/art_da19044ce5ff4ace9832dd1d083eba0b.html	0065

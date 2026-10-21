@@ -1,0 +1,16 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王宏伟		1		宁夏回族自治区		https://www.nxu.edu.cn/xxgk/xrld.htm	校党委书记		宁夏大学	https://www.nxu.edu.cn/info/1009/34315.htm	4272
+韩惠丽		2		宁夏回族自治区		https://www.nxu.edu.cn/xxgk/xrld.htm	党委副书记		宁夏大学	https://www.nxu.edu.cn/info/1009/31845.htm	4272
+张桓		3		宁夏回族自治区		https://www.nxu.edu.cn/xxgk/xrld.htm	党委副书记		宁夏大学	https://www.nxu.edu.cn/info/1009/32232.htm	4272
+黄河		4		宁夏回族自治区		https://www.nxu.edu.cn/xxgk/xrld.htm	党委常委、副校长		宁夏大学	https://www.nxu.edu.cn/info/1009/29836.htm	4272
+马元		5		宁夏回族自治区		https://www.nxu.edu.cn/xxgk/xrld.htm	党委常委、纪委书记		宁夏大学	https://www.nxu.edu.cn/info/1009/31671.htm	4272
+赵晓佳		6		宁夏回族自治区		https://www.nxu.edu.cn/xxgk/xrld.htm	副校长		宁夏大学	https://www.nxu.edu.cn/info/1009/30417.htm	4272
+冯秀芳		7		宁夏回族自治区		https://www.nxu.edu.cn/xxgk/xrld.htm	党委常委、副校长		宁夏大学	https://www.nxu.edu.cn/info/1009/33003.htm	4272
+杨文法		8		宁夏回族自治区		https://www.nxu.edu.cn/xxgk/xrld.htm	党委常委、副校长		宁夏大学	https://www.nxu.edu.cn/info/1009/33356.htm	4272
+车进		9		宁夏回族自治区		https://www.nxu.edu.cn/xxgk/xrld.htm	党委常委、副校长		宁夏大学	https://www.nxu.edu.cn/info/1009/34883.htm	4272
+夏明许		10		宁夏回族自治区		https://www.nxu.edu.cn/xxgk/xrld.htm	党委常委、副校长		宁夏大学	https://www.nxu.edu.cn/info/1009/35942.htm	4272
+罗正鸿		11		宁夏回族自治区		https://www.nxu.edu.cn/xxgk/xrld.htm	学术副校长		宁夏大学	https://www.nxu.edu.cn/info/1009/26525.htm	4272
+牛新春		12		宁夏回族自治区		https://www.nxu.edu.cn/xxgk/xrld.htm	学术副校长		宁夏大学	https://www.nxu.edu.cn/info/1009/31602.htm	4272
+高永兴		13		宁夏回族自治区		https://www.nxu.edu.cn/xxgk/xrld.htm	党委常委、宣传部部长		宁夏大学	https://www.nxu.edu.cn/info/1009/23385.htm	4272
+张永丽		14		宁夏回族自治区		https://www.nxu.edu.cn/xxgk/xrld.htm	党委常委、组织部部长		宁夏大学	https://www.nxu.edu.cn/info/1009/31857.htm	4272
+朱学军		15		宁夏回族自治区		https://www.nxu.edu.cn/xxgk/xrld.htm	党委常委、统战部部长		宁夏大学	https://www.nxu.edu.cn/info/1009/33357.htm	4272

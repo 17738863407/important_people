@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+武维华		1		全国		https://www.93.gov.cn/bsjs-ldcy/	主席		九三学社	http://www.93.gov.cn:80/bsjs-ldcy-zxfzx-wwhzx/index.html	0053
+邵鸿		2		全国		https://www.93.gov.cn/bsjs-ldcy/	常务副主席		九三学社	http://www.93.gov.cn:80/bsjs-ldcy-zxfzx-shfzx/index.html	0053
+黄润秋		3		全国		https://www.93.gov.cn/bsjs-ldcy/	副主席		九三学社	http://www.93.gov.cn:80/bsjs-ldcy-zxfzx-hrqfzx/index.html	0053
+潘建伟		4		全国		https://www.93.gov.cn/bsjs-ldcy/	副主席		九三学社	http://www.93.gov.cn:80/bsjs-ldcy-zxfzx-pjwfzx/index.html	0053
+刘忠范		5		全国		https://www.93.gov.cn/bsjs-ldcy/	副主席		九三学社	http://www.93.gov.cn:80/bsjs-ldcy-zxfzx-lzffzx/index.html	0053
+刘政奎		6		全国		https://www.93.gov.cn/bsjs-ldcy/	副主席		九三学社	http://www.93.gov.cn:80/bsjs-ldcy-zxfzx-lzkfzx/index.html	0053
+葛均波		7		全国		https://www.93.gov.cn/bsjs-ldcy/	副主席		九三学社	http://www.93.gov.cn:80/bsjs-ldcy-zxfzx-gjbfzx/index.html	0053
+赵静		8		全国		https://www.93.gov.cn/bsjs-ldcy/	副主席		九三学社	http://www.93.gov.cn:80/bsjs-ldcy-zxfzx-zjfzx/index.html	0053
+刘晓梅		9		全国		https://www.93.gov.cn/bsjs-ldcy/	副主席		九三学社	http://www.93.gov.cn:80/bsjs-ldcy-zxfzx-lxmfzx/index.html	0053
+张旭		10		全国		https://www.93.gov.cn/bsjs-ldcy/	副主席		九三学社	http://www.93.gov.cn:80/bsjs-ldcy-zxfzx-zxfzx/index.html	0053

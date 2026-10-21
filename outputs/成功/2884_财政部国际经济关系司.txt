@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+程智军		1		全国		http://wjb.mof.gov.cn/guanyuwomen/lingdaojianjie/	司长		财政部国际经济关系司		2884
+李新海		2		全国		http://wjb.mof.gov.cn/guanyuwomen/lingdaojianjie/	一级巡视员		财政部国际经济关系司		2884
+杨剑敏		3		全国		http://wjb.mof.gov.cn/guanyuwomen/lingdaojianjie/	副 司长		财政部国际经济关系司		2884
+张波		4		全国		http://wjb.mof.gov.cn/guanyuwomen/lingdaojianjie/	副 司长		财政部国际经济关系司		2884
+郭文松		5		全国		http://wjb.mof.gov.cn/guanyuwomen/lingdaojianjie/	副 司长		财政部国际经济关系司		2884

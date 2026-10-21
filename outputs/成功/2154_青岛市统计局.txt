@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+管洪涛		1		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/tjj/gkml/jgxx/202112/t20211201_3897668.shtml	市政府副秘书长，党组副书记、副局长		青岛市统计局		2154
+王薇		2		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/tjj/gkml/jgxx/202112/t20211201_3897668.shtml	局长		青岛市统计局		2154
+王之钰		3		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/tjj/gkml/jgxx/202112/t20211201_3897668.shtml	党组成员、副局长		青岛市统计局		2154
+马奇		4		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/tjj/gkml/jgxx/202112/t20211201_3897668.shtml	党组成员、副局长		青岛市统计局		2154
+逄淑英		5		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/tjj/gkml/jgxx/202112/t20211201_3897668.shtml	党组成员、副局长		青岛市统计局		2154

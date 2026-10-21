@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+董立强		1		河北省	石家庄市	https://yjglj.sjz.gov.cn/columns/32c66e1f-8c29-4286-bf4c-a1c872ad863b/202607/14/eb75ec4f-63c1-4bba-b5e2-1d8a4d40f2ca.html	党委书记、局长		石家庄市应急管理局		3206
+王德环		2		河北省	石家庄市	https://yjglj.sjz.gov.cn/columns/32c66e1f-8c29-4286-bf4c-a1c872ad863b/202607/14/eb75ec4f-63c1-4bba-b5e2-1d8a4d40f2ca.html	党委委员、副局长，三级调研员		石家庄市应急管理局		3206
+刘轶		3		河北省	石家庄市	https://yjglj.sjz.gov.cn/columns/32c66e1f-8c29-4286-bf4c-a1c872ad863b/202607/14/eb75ec4f-63c1-4bba-b5e2-1d8a4d40f2ca.html	党委委员、副局长，三级调研员		石家庄市应急管理局		3206
+尹惠强		4		河北省	石家庄市	https://yjglj.sjz.gov.cn/columns/32c66e1f-8c29-4286-bf4c-a1c872ad863b/202607/14/eb75ec4f-63c1-4bba-b5e2-1d8a4d40f2ca.html	党委委员、副局长		石家庄市应急管理局		3206
+李英良		5		河北省	石家庄市	https://yjglj.sjz.gov.cn/columns/32c66e1f-8c29-4286-bf4c-a1c872ad863b/202607/14/eb75ec4f-63c1-4bba-b5e2-1d8a4d40f2ca.html	党委委员、总工程师		石家庄市应急管理局		3206
+赵玉平		6		河北省	石家庄市	https://yjglj.sjz.gov.cn/columns/32c66e1f-8c29-4286-bf4c-a1c872ad863b/202607/14/eb75ec4f-63c1-4bba-b5e2-1d8a4d40f2ca.html	一级调研员		石家庄市应急管理局		3206
+刘军		7		河北省	石家庄市	https://yjglj.sjz.gov.cn/columns/32c66e1f-8c29-4286-bf4c-a1c872ad863b/202607/14/eb75ec4f-63c1-4bba-b5e2-1d8a4d40f2ca.html	二级调研员		石家庄市应急管理局		3206
+张在东		8		河北省	石家庄市	https://yjglj.sjz.gov.cn/columns/32c66e1f-8c29-4286-bf4c-a1c872ad863b/202607/14/eb75ec4f-63c1-4bba-b5e2-1d8a4d40f2ca.html	二级调研员		石家庄市应急管理局		3206
+梁中强		9		河北省	石家庄市	https://yjglj.sjz.gov.cn/columns/32c66e1f-8c29-4286-bf4c-a1c872ad863b/202607/14/eb75ec4f-63c1-4bba-b5e2-1d8a4d40f2ca.html	二级调研员		石家庄市应急管理局		3206
+陆廷兵		10		河北省	石家庄市	https://yjglj.sjz.gov.cn/columns/32c66e1f-8c29-4286-bf4c-a1c872ad863b/202607/14/eb75ec4f-63c1-4bba-b5e2-1d8a4d40f2ca.html	二级调研员		石家庄市应急管理局		3206
+高洁		11		河北省	石家庄市	https://yjglj.sjz.gov.cn/columns/32c66e1f-8c29-4286-bf4c-a1c872ad863b/202607/14/eb75ec4f-63c1-4bba-b5e2-1d8a4d40f2ca.html	三级调研员		石家庄市应急管理局		3206

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+熊印根		1		江西省	南昌市	http://mzj.nc.gov.cn/ncsmzj/gkldxx/bmxxgk_list.shtml	党组成员、副局长		南昌市民政局	https://mzj.nc.gov.cn/ncsmzj/gkldxx/202007/df0e38cd12c4469aa8f0a0403e42c5b9.shtml	1762
+朱国保		2		江西省	南昌市	http://mzj.nc.gov.cn/ncsmzj/gkldxx/bmxxgk_list.shtml	党组成员、副局长		南昌市民政局	https://mzj.nc.gov.cn/ncsmzj/gkldxx/202308/a466219838b743a9b886c830b8f7066e.shtml	1762
+戴勇		3		江西省	南昌市	http://mzj.nc.gov.cn/ncsmzj/gkldxx/bmxxgk_list.shtml	党组成员、副局长		南昌市民政局	https://mzj.nc.gov.cn/ncsmzj/gkldxx/202410/0bc601ffe2db4627a9023ea40687e48a.shtml	1762
+欧阳儒义		4		江西省	南昌市	http://mzj.nc.gov.cn/ncsmzj/gkldxx/bmxxgk_list.shtml	党组成员、纪检组长		南昌市民政局	https://mzj.nc.gov.cn/ncsmzj/gkldxx/202410/d0b09a2d88d44048b070835314a6a3ce.shtml	1762
+程文剑		5		江西省	南昌市	http://mzj.nc.gov.cn/ncsmzj/gkldxx/bmxxgk_list.shtml	三级调研员		南昌市民政局	https://mzj.nc.gov.cn/ncsmzj/gkldxx/202410/1b80f36149e94cac83f687a9e87aad59.shtml	1762
+邱锐		6		江西省	南昌市	http://mzj.nc.gov.cn/ncsmzj/gkldxx/bmxxgk_list.shtml	二级调研员		南昌市民政局	https://mzj.nc.gov.cn/ncsmzj/gkldxx/202007/ef71cac53e04440fbe462281ba8c1bd8.shtml	1762
+戴闽		7		江西省	南昌市	http://mzj.nc.gov.cn/ncsmzj/gkldxx/bmxxgk_list.shtml	党组书记、局长		南昌市民政局	https://mzj.nc.gov.cn/ncsmzj/gkldxx/202007/de81669fc4de4e2dad57cdca462404cc.shtml	1762

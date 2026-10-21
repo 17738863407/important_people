@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+林立清		1		福建省	福州市	http://zfj.fuzhou.gov.cn/zwgk/jgxx/	党组书记、主任		福州市城市管理委员会	https://zfj.fuzhou.gov.cn/zwgk/jgxx/ldjj/llq/	3306
+王城		2		福建省	福州市	http://zfj.fuzhou.gov.cn/zwgk/jgxx/	党组成员、纪检监察组组长、二级调研员、三级高级监察官		福州市城市管理委员会	https://zfj.fuzhou.gov.cn/zwgk/jgxx/ldjj/wc/	3306
+沈登洲		3		福建省	福州市	http://zfj.fuzhou.gov.cn/zwgk/jgxx/	党组成员、机关党委书记、三级调研员		福州市城市管理委员会	https://zfj.fuzhou.gov.cn/zwgk/jgxx/ldjj/sdz/	3306
+郭绍兴		4		福建省	福州市	http://zfj.fuzhou.gov.cn/zwgk/jgxx/	党组成员、副主任、三级调研员		福州市城市管理委员会	https://zfj.fuzhou.gov.cn/zwgk/jgxx/ldjj/gsx/	3306
+石发聚		5		福建省	福州市	http://zfj.fuzhou.gov.cn/zwgk/jgxx/	党组成员、副主任		福州市城市管理委员会	https://zfj.fuzhou.gov.cn/zwgk/jgxx/ldjj/sfj/	3306
+刘炳辉		6		福建省	福州市	http://zfj.fuzhou.gov.cn/zwgk/jgxx/	党组成员、副主任		福州市城市管理委员会	https://zfj.fuzhou.gov.cn/zwgk/jgxx/ldjj/lbh/	3306
+林长盛		7		福建省	福州市	http://zfj.fuzhou.gov.cn/zwgk/jgxx/	二级调研员		福州市城市管理委员会	https://zfj.fuzhou.gov.cn/zwgk/jgxx/ldjj/lzs/	3306
+孙春影		8		福建省	福州市	http://zfj.fuzhou.gov.cn/zwgk/jgxx/	二级调研员		福州市城市管理委员会	https://zfj.fuzhou.gov.cn/zwgk/jgxx/ldjj/scy/	3306
+胡青明		9		福建省	福州市	http://zfj.fuzhou.gov.cn/zwgk/jgxx/	四级调研员		福州市城市管理委员会	https://zfj.fuzhou.gov.cn/zwgk/jgxx/ldjj/hqm/	3306

@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张俊		1		江西省	吉安市	https://www.jian.gov.cn/news-list-lingdaozhichuang.html	市长		吉安市人民政府	https://www.jian.gov.cn/news-list-zfsz.html	3837
+邵九思		2		江西省	吉安市	https://www.jian.gov.cn/news-list-lingdaozhichuang.html	副市长		吉安市人民政府	https://www.jian.gov.cn/news-list-szfcw.html	3837
+黄智迅		3		江西省	吉安市	https://www.jian.gov.cn/news-list-lingdaozhichuang.html	副市长		吉安市人民政府	https://www.jian.gov.cn/news-list-huangzhixun.html	3837
+周密		4		江西省	吉安市	https://www.jian.gov.cn/news-list-lingdaozhichuang.html	副市长		吉安市人民政府	https://www.jian.gov.cn/news-list-zhouymid.html	3837
+廖东生		5		江西省	吉安市	https://www.jian.gov.cn/news-list-lingdaozhichuang.html	副市长		吉安市人民政府	https://www.jian.gov.cn/news-list-liaodongsheng.html	3837
+曾家新		6		江西省	吉安市	https://www.jian.gov.cn/news-list-lingdaozhichuang.html	副市长		吉安市人民政府	https://www.jian.gov.cn/news-list-cengjiaxin.html	3837
+陈俊		7		江西省	吉安市	https://www.jian.gov.cn/news-list-lingdaozhichuang.html	副市长		吉安市人民政府	https://www.jian.gov.cn/news-list-chenjun.html	3837
+杜军龙		8		江西省	吉安市	https://www.jian.gov.cn/news-list-lingdaozhichuang.html	副市长		吉安市人民政府	https://www.jian.gov.cn/news-list-dujunlong.html	3837
+林皓		9		江西省	吉安市	https://www.jian.gov.cn/news-list-lingdaozhichuang.html	副市长		吉安市人民政府	https://www.jian.gov.cn/news-list-linhao.html	3837
+刘烨球		10		江西省	吉安市	https://www.jian.gov.cn/news-list-lingdaozhichuang.html	秘书长		吉安市人民政府	https://www.jian.gov.cn/news-list-liuiyeuqiuk.html	3837

@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱民		1		上海市		https://web.dhu.edu.cn/xxld/list.htm	党委书记		东华大学	http://web.dhu.edu.cn/2015/0305/c6091a58463/page.htm	3637
+殷耀		2		上海市		https://web.dhu.edu.cn/xxld/list.htm	党委副书记		东华大学	http://web.dhu.edu.cn/2015/0305/c6091a58464/page.htm	3637
+刘淑慧		3		上海市		https://web.dhu.edu.cn/xxld/list.htm	党委副书记		东华大学	http://web.dhu.edu.cn/2015/0305/c6091a58465/page.htm	3637
+罗仪华		4		上海市		https://web.dhu.edu.cn/xxld/list.htm	党委副书记；纪委书记		东华大学	http://web.dhu.edu.cn/2015/0305/c6091a58466/page.htm	3637
+徐明稚		5		上海市		https://web.dhu.edu.cn/xxld/list.htm	校长		东华大学	http://web.dhu.edu.cn/2015/0305/c6091a58467/page.htm	3637
+宋立群		6		上海市		https://web.dhu.edu.cn/xxld/list.htm	副校长		东华大学	http://web.dhu.edu.cn/2015/0305/c6091a58468/page.htm	3637
+俞建勇		7		上海市		https://web.dhu.edu.cn/xxld/list.htm	副校长		东华大学	http://web.dhu.edu.cn/2015/0305/c6091a58469/page.htm	3637
+陈招应		8		上海市		https://web.dhu.edu.cn/xxld/list.htm	副校长		东华大学	http://web.dhu.edu.cn/2015/0305/c6091a58470/page.htm	3637
+刘春红		9		上海市		https://web.dhu.edu.cn/xxld/list.htm	副校长		东华大学	http://web.dhu.edu.cn/2015/0305/c6091a58471/page.htm	3637
+邱高		10		上海市		https://web.dhu.edu.cn/xxld/list.htm	副校长		东华大学	http://web.dhu.edu.cn/2015/0305/c6091a58472/page.htm	3637
+李永智		11		上海市		https://web.dhu.edu.cn/xxld/list.htm	副校长		东华大学	http://web.dhu.edu.cn/2015/0305/c6091a58473/page.htm	3637

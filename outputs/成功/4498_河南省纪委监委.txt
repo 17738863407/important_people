@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+秦国文		1		河南省		https://www.hnsjw.gov.cn/sitesources/hnsjct/page_pc/xxgk/ldjg/articlef08e921c924443ed8da830aaef2eee41.html	中国共产党河南省第十一届纪律检查委员会书记；中国共产党河南省第十一届纪律检查委员会常委；河南省监察委员会主任		河南省纪委监委		4498
+王为民		2		河南省		https://www.hnsjw.gov.cn/sitesources/hnsjct/page_pc/xxgk/ldjg/articlef08e921c924443ed8da830aaef2eee41.html	中国共产党河南省第十一届纪律检查委员会副书记；中国共产党河南省第十一届纪律检查委员会常委；河南省监察委员会副主任		河南省纪委监委		4498
+连红兵		3		河南省		https://www.hnsjw.gov.cn/sitesources/hnsjct/page_pc/xxgk/ldjg/articlef08e921c924443ed8da830aaef2eee41.html	中国共产党河南省第十一届纪律检查委员会副书记；中国共产党河南省第十一届纪律检查委员会常委；河南省监察委员会副主任		河南省纪委监委		4498
+卢捍卫		4		河南省		https://www.hnsjw.gov.cn/sitesources/hnsjct/page_pc/xxgk/ldjg/articlef08e921c924443ed8da830aaef2eee41.html	中国共产党河南省第十一届纪律检查委员会副书记；中国共产党河南省第十一届纪律检查委员会常委；河南省监察委员会副主任		河南省纪委监委		4498
+何伟		5		河南省		https://www.hnsjw.gov.cn/sitesources/hnsjct/page_pc/xxgk/ldjg/articlef08e921c924443ed8da830aaef2eee41.html	中国共产党河南省第十一届纪律检查委员会常委		河南省纪委监委		4498
+李成宽		6		河南省		https://www.hnsjw.gov.cn/sitesources/hnsjct/page_pc/xxgk/ldjg/articlef08e921c924443ed8da830aaef2eee41.html	中国共产党河南省第十一届纪律检查委员会常委		河南省纪委监委		4498
+王峻峰		7		河南省		https://www.hnsjw.gov.cn/sitesources/hnsjct/page_pc/xxgk/ldjg/articlef08e921c924443ed8da830aaef2eee41.html	中国共产党河南省第十一届纪律检查委员会常委		河南省纪委监委		4498
+王明星		8		河南省		https://www.hnsjw.gov.cn/sitesources/hnsjct/page_pc/xxgk/ldjg/articlef08e921c924443ed8da830aaef2eee41.html	中国共产党河南省第十一届纪律检查委员会常委		河南省纪委监委		4498
+宋春波		9		河南省		https://www.hnsjw.gov.cn/sitesources/hnsjct/page_pc/xxgk/ldjg/articlef08e921c924443ed8da830aaef2eee41.html	中国共产党河南省第十一届纪律检查委员会常委		河南省纪委监委		4498
+潘军		10		河南省		https://www.hnsjw.gov.cn/sitesources/hnsjct/page_pc/xxgk/ldjg/articlef08e921c924443ed8da830aaef2eee41.html	中国共产党河南省第十一届纪律检查委员会常委		河南省纪委监委		4498

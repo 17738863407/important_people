@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于庆丰		1		北京市		https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/index.html	党组书记、局长		北京市体育局	https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/543336966/index.html	2760
+周玲		2		北京市		https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/index.html	党组成员、副局长		北京市体育局	https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/743568348/index.html	2760
+辛向阳		3		北京市		https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/index.html	党组成员，驻局纪检监察组组长、二级高级监察官		北京市体育局	https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/744062900/index.html	2760
+娄小晶		4		北京市		https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/index.html	党组成员、副局长		北京市体育局	https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/744013872/index.html	2760
+申鸿翎		5		北京市		https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/index.html	副局长		北京市体育局	https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/743867843/index.html	2760
+石风华		6		北京市		https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/index.html	党组成员		北京市体育局	https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/10930040/index.html	2760
+葛军		7		北京市		https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/index.html	党组成员		北京市体育局	https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/111252429/index.html	2760
+陈杰		8		北京市		https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/index.html	保留正局长级待遇		北京市体育局	https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/612072/index.html	2760
+孟强华		9		北京市		https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/index.html	一级巡视员		北京市体育局	https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/612085/index.html	2760
+张华		10		北京市		https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/index.html	二级巡视员		北京市体育局	https://tyj.beijing.gov.cn/bjsports/jgzz17/ldjj3/11030305/index.html	2760

@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈彦斌		1		全国		http://gjs.cass.cn/bsgk_82722/bsgk_xrld/201604/t20160421_3030247.shtml	中国社会科学院工业经济研究所所长、党委副书记		中国社会科学院工业经济研究所	http://gjs.cass.cn/yjtd/yjtd_xzfc/202506/t20250618_5879903.shtml	4386
+杨海峰		2		全国		http://gjs.cass.cn/bsgk_82722/bsgk_xrld/201604/t20160421_3030247.shtml	中国社会科学院工业经济研究所党委副书记、纪委书记、副所长		中国社会科学院工业经济研究所	http://gjs.cass.cn/yjtd/yjtd_xzfc/202507/t20250723_5890710.shtml	4386
+贺俊		3		全国		http://gjs.cass.cn/bsgk_82722/bsgk_xrld/201604/t20160421_3030247.shtml	中国社会科学院工业经济研究所副所长		中国社会科学院工业经济研究所	http://gjs.cass.cn/yjtd/yjtd_xzfc/202606/t20260629_6056512.shtml	4386
+李鹏飞		4		全国		http://gjs.cass.cn/bsgk_82722/bsgk_xrld/201604/t20160421_3030247.shtml	中国社会科学院工业经济研究所副所长		中国社会科学院工业经济研究所	http://gjs.cass.cn/yjtd/yjtd_xzfc/201706/t20170605_3539774.shtml	4386

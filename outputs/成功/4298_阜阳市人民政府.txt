@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡明文		1		安徽省	阜阳市	https://www.fy.gov.cn/Leader/	市委副书记，市政府市长、党组书记		阜阳市人民政府	https://www.fy.gov.cn/Leader/show/435.html	4298
+杨善竑		2		安徽省	阜阳市	https://www.fy.gov.cn/Leader/	市政府副市长		阜阳市人民政府	https://www.fy.gov.cn/Leader/show/438.html	4298
+张银军		3		安徽省	阜阳市	https://www.fy.gov.cn/Leader/	市政府副市长、党组成员		阜阳市人民政府	https://www.fy.gov.cn/Leader/show/455.html	4298
+王永军		4		安徽省	阜阳市	https://www.fy.gov.cn/Leader/	市政府副市长、党组成员		阜阳市人民政府	https://www.fy.gov.cn/Leader/show/456.html	4298
+李云川		5		安徽省	阜阳市	https://www.fy.gov.cn/Leader/	市政府副市长、党组成员		阜阳市人民政府	https://www.fy.gov.cn/Leader/show/492.html	4298
+黎成		6		安徽省	阜阳市	https://www.fy.gov.cn/Leader/	市政府副市长（挂职）、党组成员		阜阳市人民政府	https://www.fy.gov.cn/Leader/show/451.html	4298
+丁思彬		7		安徽省	阜阳市	https://www.fy.gov.cn/Leader/	市政府秘书长、党组成员，市政府机关党组书记		阜阳市人民政府	https://www.fy.gov.cn/Leader/show/493.html	4298

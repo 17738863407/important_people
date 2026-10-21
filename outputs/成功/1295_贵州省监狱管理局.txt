@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈刚		1		贵州省		https://jyglj.guizhou.gov.cn/zwgk/zdgk/ldjj/	贵州省司法厅党委委员、副厅长，省监狱管理局党委书记、局长，贵州黔新企业集团有限公司董事长（兼）		贵州省监狱管理局	https://jyglj.guizhou.gov.cn/zwgk/zdgk/ldjj/202503/t20250318_87197159.html	1295
+涂晓华		2		贵州省		https://jyglj.guizhou.gov.cn/zwgk/zdgk/ldjj/	贵州省监狱管理局党委副书记、政委		贵州省监狱管理局	https://jyglj.guizhou.gov.cn/zwgk/zdgk/ldjj/202503/t20250318_87197158.html	1295
+晏贵福		3		贵州省		https://jyglj.guizhou.gov.cn/zwgk/zdgk/ldjj/	贵州省监狱管理局党委委员、副局长（保留副厅长级）		贵州省监狱管理局	https://jyglj.guizhou.gov.cn/zwgk/zdgk/ldjj/202606/t20260611_90515273.html	1295
+何坚		4		贵州省		https://jyglj.guizhou.gov.cn/zwgk/zdgk/ldjj/	贵州省监狱管理局党委委员、二级巡视员兼贵州黔新企业集团有限公司总经理		贵州省监狱管理局	https://jyglj.guizhou.gov.cn/zwgk/zdgk/ldjj/202509/t20250912_88610614.html	1295
+吴谦		5		贵州省		https://jyglj.guizhou.gov.cn/zwgk/zdgk/ldjj/	贵州省监狱管理局党委委员、副局长,一级调研员		贵州省监狱管理局	https://jyglj.guizhou.gov.cn/zwgk/zdgk/ldjj/202503/t20250318_87197155.html	1295
+刘学宽		6		贵州省		https://jyglj.guizhou.gov.cn/zwgk/zdgk/ldjj/	贵州省监狱管理局党委委员、副局长，二级巡视员		贵州省监狱管理局	https://jyglj.guizhou.gov.cn/zwgk/zdgk/ldjj/202503/t20250318_87197154.html	1295
+李宗强		7		贵州省		https://jyglj.guizhou.gov.cn/zwgk/zdgk/ldjj/	局党委委员、政治部主任、直属机关党委副书记，一级调研员		贵州省监狱管理局	https://jyglj.guizhou.gov.cn/zwgk/zdgk/ldjj/202503/t20250318_87197153.html	1295

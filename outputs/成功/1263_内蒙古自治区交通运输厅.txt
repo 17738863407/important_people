@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+田雅丽		1		内蒙古自治区		https://jtyst.nmg.gov.cn/zwgk/	党组成员、驻厅纪检监察组组长		内蒙古自治区交通运输厅	https://jtyst.nmg.gov.cn/zwgk/jgzn/ldbz/202109/t20210927_1895215.html	1263
+荣耀		2		内蒙古自治区		https://jtyst.nmg.gov.cn/zwgk/	党组成员、副厅长		内蒙古自治区交通运输厅	https://jtyst.nmg.gov.cn/zwgk/jgzn/ldbz/202402/t20240228_2473917.html	1263
+张志全		3		内蒙古自治区		https://jtyst.nmg.gov.cn/zwgk/	党组成员、副厅长		内蒙古自治区交通运输厅	https://jtyst.nmg.gov.cn/zwgk/jgzn/ldbz/202307/t20230728_2353558.html	1263
+王凡		4		内蒙古自治区		https://jtyst.nmg.gov.cn/zwgk/	厅二级巡视员		内蒙古自治区交通运输厅	https://jtyst.nmg.gov.cn/zwgk/jgzn/ldbz/202510/t20251027_2808795.html	1263

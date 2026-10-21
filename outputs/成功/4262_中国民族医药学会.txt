@@ -1,0 +1,21 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+苏钢强		1		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	会长		中国民族医药学会		4262
+田金洲		2		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	副会长		中国民族医药学会		4262
+尼玛		3		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	副会长		中国民族医药学会		4262
+伊乐泰		4		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	副会长		中国民族医药学会		4262
+刘平		5		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	副会长兼秘书长		中国民族医药学会		4262
+刘毅		6		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	副会长		中国民族医药学会		4262
+李治建		7		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	副会长		中国民族医药学会		4262
+李鲲		8		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	副会长		中国民族医药学会		4262
+肖伟		9		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	副会长		中国民族医药学会		4262
+张超		10		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	副会长		中国民族医药学会		4262
+张辉		11		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	副会长		中国民族医药学会		4262
+庞宇舟		12		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	副会长		中国民族医药学会		4262
+庞宗然		13		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	副会长		中国民族医药学会		4262
+范劲松		14		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	副秘书长		中国民族医药学会		4262
+关树华		15		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	副秘书长		中国民族医药学会		4262
+梁杰		16		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	副秘书长		中国民族医药学会		4262
+刘晓峰		17		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	副秘书长		中国民族医药学会		4262
+孙丽英		18		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	副秘书长		中国民族医药学会		4262
+李恒		19		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	副秘书长		中国民族医药学会		4262
+苏锦英		20		全国		http://www.cmam.org.cn/list-leader.thtml?classId=10985&contentId=8295	副秘书长		中国民族医药学会		4262

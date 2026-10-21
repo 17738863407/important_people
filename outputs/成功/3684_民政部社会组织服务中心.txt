@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郭芳		1		全国		https://www.mca.gov.cn/n158/n161/n303/c14505/content.html	主任		民政部社会组织服务中心		3684
+胡振全		2		全国		https://www.mca.gov.cn/n158/n161/n303/c14505/content.html	副主任；一级巡视员		民政部社会组织服务中心		3684
+姚有林		3		全国		https://www.mca.gov.cn/n158/n161/n303/c14505/content.html	副主任		民政部社会组织服务中心		3684

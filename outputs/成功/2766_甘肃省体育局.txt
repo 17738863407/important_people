@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+董安宁		1		甘肃省		https://tyj.gansu.gov.cn/tyj/c107037/jgsz.shtml	甘肃省体育局党组书记、局长		甘肃省体育局	https://tyj.gansu.gov.cn/tyj/c113623/ldlist.shtml	2766
+路晓峰		2		甘肃省		https://tyj.gansu.gov.cn/tyj/c107037/jgsz.shtml	省纪委监委派驻省体育局纪检监察组组长、局党组成员、二级高级监察官		甘肃省体育局	https://tyj.gansu.gov.cn/tyj/c113723/ldlist.shtml	2766
+李斌		3		甘肃省		https://tyj.gansu.gov.cn/tyj/c107037/jgsz.shtml	甘肃省体育局党组成员、副局长		甘肃省体育局	https://tyj.gansu.gov.cn/tyj/c106822/ldlist.shtml	2766
+张钢		4		甘肃省		https://tyj.gansu.gov.cn/tyj/c107037/jgsz.shtml	甘肃省体育局党组成员、副局长		甘肃省体育局	https://tyj.gansu.gov.cn/tyj/c119403/ldlist.shtml	2766
+王库前		5		甘肃省		https://tyj.gansu.gov.cn/tyj/c107037/jgsz.shtml	甘肃省体育局党组成员、副局长		甘肃省体育局	https://tyj.gansu.gov.cn/tyj/c119893/ldlist.shtml	2766
+靳晓军		6		甘肃省		https://tyj.gansu.gov.cn/tyj/c107037/jgsz.shtml	甘肃省体育局二级巡视员、直属机关工会主席		甘肃省体育局	https://tyj.gansu.gov.cn/tyj/c113644/ldlist.shtml	2766

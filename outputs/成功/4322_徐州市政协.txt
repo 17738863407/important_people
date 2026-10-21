@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+韩冬梅		1		江苏省	徐州市	http://www.xzzx.gov.cn/zxgk/623666934612037.shtml	主席		徐州市政协		4322
+毕于瑞		2		江苏省	徐州市	http://www.xzzx.gov.cn/zxgk/623666934612037.shtml	副主席		徐州市政协		4322
+王海永		3		江苏省	徐州市	http://www.xzzx.gov.cn/zxgk/623666934612037.shtml	副主席		徐州市政协		4322
+张农		4		江苏省	徐州市	http://www.xzzx.gov.cn/zxgk/623666934612037.shtml	副主席		徐州市政协		4322
+邱成		5		江苏省	徐州市	http://www.xzzx.gov.cn/zxgk/623666934612037.shtml	副主席		徐州市政协		4322
+金云女		6		江苏省	徐州市	http://www.xzzx.gov.cn/zxgk/623666934612037.shtml	副主席		徐州市政协		4322
+周天文		7		江苏省	徐州市	http://www.xzzx.gov.cn/zxgk/623666934612037.shtml	副主席		徐州市政协		4322
+王浩		8		江苏省	徐州市	http://www.xzzx.gov.cn/zxgk/623666934612037.shtml	副主席		徐州市政协		4322
+孙光永		9		江苏省	徐州市	http://www.xzzx.gov.cn/zxgk/623666934612037.shtml	党组成员		徐州市政协		4322
+韩可		10		江苏省	徐州市	http://www.xzzx.gov.cn/zxgk/623666934612037.shtml	秘书长		徐州市政协		4322

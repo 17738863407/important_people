@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王驰		1		甘肃省	嘉峪关市	https://www.jyg.gov.cn/ldzc/szfld/index.html	市委副书记、市长		嘉峪关市人民政府	https://www.jyg.gov.cn/ldzc/szfld/wc/index.html	3839
+石峰		2		甘肃省	嘉峪关市	https://www.jyg.gov.cn/ldzc/szfld/index.html	常务副市长		嘉峪关市人民政府	https://www.jyg.gov.cn/ldzc/szfld/sfs/index.html	3839
+徐方明		3		甘肃省	嘉峪关市	https://www.jyg.gov.cn/ldzc/szfld/index.html	副市长		嘉峪关市人民政府	https://www.jyg.gov.cn/ldzc/szfld/fsz/xfm/index.html	3839
+肖进银		4		甘肃省	嘉峪关市	https://www.jyg.gov.cn/ldzc/szfld/index.html	副市长		嘉峪关市人民政府	https://www.jyg.gov.cn/ldzc/szfld/fsz/xjy/index.html	3839
+周俊锋		5		甘肃省	嘉峪关市	https://www.jyg.gov.cn/ldzc/szfld/index.html	副市长		嘉峪关市人民政府	https://www.jyg.gov.cn/ldzc/szfld/zjf/index.html	3839
+赵淑敏		6		甘肃省	嘉峪关市	https://www.jyg.gov.cn/ldzc/szfld/index.html	副市长		嘉峪关市人民政府	https://www.jyg.gov.cn/ldzc/szfld/zsm/index.html	3839
+张升元		7		甘肃省	嘉峪关市	https://www.jyg.gov.cn/ldzc/szfld/index.html	副市长		嘉峪关市人民政府	https://www.jyg.gov.cn/ldzc/szfld/fsz/zsy/index.html	3839
+王晶		8		甘肃省	嘉峪关市	https://www.jyg.gov.cn/ldzc/szfld/index.html	秘书长		嘉峪关市人民政府	https://www.jyg.gov.cn/ldzc/szfld/wj/index.html	3839

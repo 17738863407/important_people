@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+种及灵		1		重庆市		https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/wap.html	重庆市司法局党委书记、局长，市监狱局第一政委（兼），重庆仲裁办主任（兼）		重庆市司法局	https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/fzrxx/202408/t20240820_13527181_wap.html	2302
+李友生		2		重庆市		https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/wap.html	重庆市司法局党委副书记、副局长		重庆市司法局	https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/fzrxx/202408/t20240822_13544031_wap.html	2302
+李德全		3		重庆市		https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/wap.html	重庆市司法局党委委员、市纪委监委派驻市司法局纪检监察组组长、二级高级监察官		重庆市司法局	https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/fzrxx/202408/t20240822_13543783_wap.html	2302
+陈姚		4		重庆市		https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/wap.html	重庆市司法局一级巡视员		重庆市司法局	https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/fzrxx/202408/t20240822_13544223_wap.html	2302
+程效		5		重庆市		https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/wap.html	重庆市司法局党委委员、副局长、一级巡视员		重庆市司法局	https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/fzrxx/202609/t20260902_16019862_wap.html	2302
+古明洪		6		重庆市		https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/wap.html	重庆市司法局党委委员，市监狱局党委书记、局长、一级巡视员		重庆市司法局	https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/fzrxx/202408/t20240822_13544052_wap.html	2302
+李爱民		7		重庆市		https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/wap.html	重庆市司法局党委委员、副局长		重庆市司法局	https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/fzrxx/202512/t20251209_15223216_wap.html	2302
+杨继成		8		重庆市		https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/wap.html	重庆市司法局党委委员、政治部主任		重庆市司法局	https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/fzrxx/202607/t20260721_15835319_wap.html	2302
+殷洁		9		重庆市		https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/wap.html	重庆市司法局党委委员、副局长		重庆市司法局	https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/fzrxx/202408/t20240822_13544019_wap.html	2302
+肖荣宁		10		重庆市		https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/wap.html	重庆市司法局党委委员，市教育矫治局（市戒毒管理局）党委书记、局长		重庆市司法局	https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/fzrxx/202604/t20260430_15648972_wap.html	2302
+张凯		11		重庆市		https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/wap.html	重庆市司法局副局长		重庆市司法局	https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/fzrxx/202411/t20241122_13823722_wap.html	2302
+幸勇		12		重庆市		https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/wap.html	重庆市司法局二级巡视员		重庆市司法局	https://sfj.cq.gov.cn/zwgk_243/zfxxgkml/jgzn_1/fzrxx/202408/t20240822_13543968_wap.html	2302

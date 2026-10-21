@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈明华		1		全国		https://www.mzywfyj.org.cn/p/leader.html	中国民族语文翻译中心(局)党委书记、主任(局长)		中国民族语文翻译中心（局）		1808
+达哇才让		2		全国		https://www.mzywfyj.org.cn/p/leader.html	中国民族语文翻译中心(局)党委副书记、总译审		中国民族语文翻译中心（局）		1808
+包乌尔江		3		全国		https://www.mzywfyj.org.cn/p/leader.html	中国民族语文翻译中心(局)副主任(副局长)		中国民族语文翻译中心（局）		1808
+丁文杰		4		全国		https://www.mzywfyj.org.cn/p/leader.html	中国民族语文翻译中心(局)副主任(副局长)		中国民族语文翻译中心（局）		1808
+李智		5		全国		https://www.mzywfyj.org.cn/p/leader.html	中国民族语文翻译中心(局)副主任(副局长)		中国民族语文翻译中心（局）		1808
+王丹丹		6		全国		https://www.mzywfyj.org.cn/p/leader.html	中国民族语文翻译中心(局)纪委书记		中国民族语文翻译中心（局）		1808
+任涛		7		全国		https://www.mzywfyj.org.cn/p/leader.html	中国民族语文翻译中心(局)总会计师		中国民族语文翻译中心（局）		1808

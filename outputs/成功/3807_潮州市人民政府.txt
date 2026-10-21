@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蔡淡群		1		广东省	潮州市	https://www.chaozhou.gov.cn/zwgk/ldzc/index.html	市长		潮州市人民政府	https://www.chaozhou.gov.cn/zwgk/ldzc/content/post_3976437.html	3807
+刘云梅		2		广东省	潮州市	https://www.chaozhou.gov.cn/zwgk/ldzc/index.html	副市长		潮州市人民政府	https://www.chaozhou.gov.cn/zwgk/ldzc/content/post_3916296.html	3807
+周岳林		3		广东省	潮州市	https://www.chaozhou.gov.cn/zwgk/ldzc/index.html	副市长		潮州市人民政府	https://www.chaozhou.gov.cn/zwgk/ldzc/content/post_3708607.html	3807
+朱丹		4		广东省	潮州市	https://www.chaozhou.gov.cn/zwgk/ldzc/index.html	副市长		潮州市人民政府	https://www.chaozhou.gov.cn/zwgk/ldzc/content/post_3773225.html	3807
+周茹茵		5		广东省	潮州市	https://www.chaozhou.gov.cn/zwgk/ldzc/index.html	副市长		潮州市人民政府	https://www.chaozhou.gov.cn/zwgk/ldzc/content/post_3786390.html	3807
+邱焕华		6		广东省	潮州市	https://www.chaozhou.gov.cn/zwgk/ldzc/index.html	副市长		潮州市人民政府	https://www.chaozhou.gov.cn/zwgk/ldzc/content/post_3786396.html	3807
+陈红政		7		广东省	潮州市	https://www.chaozhou.gov.cn/zwgk/ldzc/index.html	副市长		潮州市人民政府	https://www.chaozhou.gov.cn/zwgk/ldzc/content/post_3921119.html	3807
+邓钢		8		广东省	潮州市	https://www.chaozhou.gov.cn/zwgk/ldzc/index.html	副市长		潮州市人民政府	https://www.chaozhou.gov.cn/zwgk/ldzc/content/post_3960233.html	3807
+雷振宇		9		广东省	潮州市	https://www.chaozhou.gov.cn/zwgk/ldzc/index.html	秘书长		潮州市人民政府	https://www.chaozhou.gov.cn/zwgk/ldzc/content/post_3791340.html	3807

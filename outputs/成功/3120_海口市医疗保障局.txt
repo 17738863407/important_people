@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+富天放		1		海南省	海口市	http://ybj.haikou.gov.cn/hksybj/ldxxx/xxgk_list_notime.shtml	海口市医疗保障局党组书记、局长、一级调研员		海口市医疗保障局	http://ybj.haikou.gov.cn/hksybj/ldxx/202203/2a96d88c75644792bc65f65eda60e9be.shtml	3120
+陈基波		2		海南省	海口市	http://ybj.haikou.gov.cn/hksybj/ldxxx/xxgk_list_notime.shtml	海口市医疗保障局党组成员、副局长、三级调研员		海口市医疗保障局	http://ybj.haikou.gov.cn/hksybj/ldxx/202203/3baceeae5bfe4515903e1fa5b5a30b2d.shtml	3120
+吴坤平		3		海南省	海口市	http://ybj.haikou.gov.cn/hksybj/ldxxx/xxgk_list_notime.shtml	海口市医疗保障局党组成员、副局长		海口市医疗保障局	http://ybj.haikou.gov.cn/hksybj/ldxx/202203/96542f15d8884e3b9931c3bd80a540a6.shtml	3120
+刘娜		4		海南省	海口市	http://ybj.haikou.gov.cn/hksybj/ldxxx/xxgk_list_notime.shtml	海口市医疗保障局党组成员、副局长		海口市医疗保障局	http://ybj.haikou.gov.cn/hksybj/ldxx/202503/6c165f9709ab484684fe2223550424ae.shtml	3120
+兰卫洲		5		海南省	海口市	http://ybj.haikou.gov.cn/hksybj/ldxxx/xxgk_list_notime.shtml	海口市医疗保障局四级调研员		海口市医疗保障局	http://ybj.haikou.gov.cn/hksybj/ldxx/202203/ec3d357bdb72462ba4c6349d7d477710.shtml	3120

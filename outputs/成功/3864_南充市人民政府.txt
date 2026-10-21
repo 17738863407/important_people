@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄志权		1		四川省	南充市	https://www.nanchong.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/	市长		南充市人民政府	https://www.nanchong.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/hzq/	3864
+黄志		2		四川省	南充市	https://www.nanchong.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/	副市长		南充市人民政府	https://www.nanchong.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/hz/	3864
+朱枝勇		3		四川省	南充市	https://www.nanchong.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/	副市长		南充市人民政府	https://www.nanchong.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/zzy/	3864
+欧阳梅		4		四川省	南充市	https://www.nanchong.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/	副市长		南充市人民政府	https://www.nanchong.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/oym/	3864
+岳剑		5		四川省	南充市	https://www.nanchong.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/	副市长		南充市人民政府	https://www.nanchong.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/yj/	3864
+崔竹君		6		四川省	南充市	https://www.nanchong.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/	副市长		南充市人民政府	https://www.nanchong.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/czj/	3864
+李玉甫		7		四川省	南充市	https://www.nanchong.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/	副市长		南充市人民政府	https://www.nanchong.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/lyf/	3864
+张青松		8		四川省	南充市	https://www.nanchong.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/	副市长		南充市人民政府	https://www.nanchong.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/zqs/	3864
+许宁		9		四川省	南充市	https://www.nanchong.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/	秘书长		南充市人民政府	https://www.nanchong.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/xn/	3864

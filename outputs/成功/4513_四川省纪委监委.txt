@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+廖建宇		1		四川省		https://www.scjc.gov.cn/scjc/ldjg/ldjg.shtml	中国共产党四川省第十二届纪律检查委员会书记；中国共产党四川省第十二届纪律检查委员会常务委员会委员；四川省监察委员会主任		四川省纪委监委	https://www.scjc.gov.cn/scjc/ldjg/2022/5/30/a2b0d9bcfe08437f8c0874fa5075b7c0.shtml	4513
+熊焱		2		四川省		https://www.scjc.gov.cn/scjc/ldjg/ldjg.shtml	中国共产党四川省第十二届纪律检查委员会副书记；中国共产党四川省第十二届纪律检查委员会常务委员会委员；四川省监察委员会副主任		四川省纪委监委	https://www.scjc.gov.cn/scjc/ldjg/2022/5/30/7c5051d56a2f4bd189914ff26941220d.shtml	4513
+赵正文		3		四川省		https://www.scjc.gov.cn/scjc/ldjg/ldjg.shtml	中国共产党四川省第十二届纪律检查委员会副书记；中国共产党四川省第十二届纪律检查委员会常务委员会委员；四川省监察委员会副主任		四川省纪委监委	https://www.scjc.gov.cn/scjc/ldjg/2022/5/30/d4e90b077a904e72bd48f617d0504a02.shtml	4513
+凯旋		4		四川省		https://www.scjc.gov.cn/scjc/ldjg/ldjg.shtml	中国共产党四川省第十二届纪律检查委员会副书记；中国共产党四川省第十二届纪律检查委员会常务委员会委员；四川省监察委员会副主任		四川省纪委监委	https://www.scjc.gov.cn/scjc/ldjg/2022/5/30/b60b38193c904b19a787cf87fce1a0d5.shtml	4513
+邓波		5		四川省		https://www.scjc.gov.cn/scjc/ldjg/ldjg.shtml	中国共产党四川省第十二届纪律检查委员会副书记；中国共产党四川省第十二届纪律检查委员会常务委员会委员；四川省监察委员会副主任		四川省纪委监委	https://www.scjc.gov.cn/scjc/ldjg/2022/5/30/b52a724f5b29424ca3461bbdae7e425e.shtml	4513
+贾璋炜		6		四川省		https://www.scjc.gov.cn/scjc/ldjg/ldjg.shtml	中国共产党四川省第十二届纪律检查委员会常务委员会委员		四川省纪委监委	https://www.scjc.gov.cn/scjc/ldjg/2022/7/28/b3b975991e944cd1b31846d0d56eb8de.shtml	4513
+肖克强		7		四川省		https://www.scjc.gov.cn/scjc/ldjg/ldjg.shtml	中国共产党四川省第十二届纪律检查委员会常务委员会委员		四川省纪委监委	https://www.scjc.gov.cn/scjc/ldjg/2022/5/30/c195017c91f24ad2afa75a2d45d60ef0.shtml	4513
+黄春江		8		四川省		https://www.scjc.gov.cn/scjc/ldjg/ldjg.shtml	中国共产党四川省第十二届纪律检查委员会常务委员会委员		四川省纪委监委	https://www.scjc.gov.cn/scjc/ldjg/2022/5/30/24f30fd5158b48a1bc95b7955b5e67ab.shtml	4513
+隆斌		9		四川省		https://www.scjc.gov.cn/scjc/ldjg/ldjg.shtml	中国共产党四川省第十二届纪律检查委员会常务委员会委员		四川省纪委监委	https://www.scjc.gov.cn/scjc/ldjg/2025/4/1/72e556c614ab4081b64372d3e904606a.shtml	4513
+余民		10		四川省		https://www.scjc.gov.cn/scjc/ldjg/ldjg.shtml	中国共产党四川省第十二届纪律检查委员会常务委员会委员		四川省纪委监委	https://www.scjc.gov.cn/scjc/ldjg/2022/5/30/47aa80f75b9d49908a5b58a01ab158fd.shtml	4513
+徐强		11		四川省		https://www.scjc.gov.cn/scjc/ldjg/ldjg.shtml	中国共产党四川省第十二届纪律检查委员会常务委员会委员		四川省纪委监委	https://www.scjc.gov.cn/scjc/ldjg/2022/7/28/01b4886d334f42238b89f54c167c52dd.shtml	4513

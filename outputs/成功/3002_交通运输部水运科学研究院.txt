@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+柳鹏		1		全国		https://www.wti.ac.cn/wti/ldbz/index.jhtml	院长、党委副书记		交通运输部水运科学研究院		3002
+李光辉		2		全国		https://www.wti.ac.cn/wti/ldbz/index.jhtml	党委书记、副院长		交通运输部水运科学研究院		3002
+陈朝		3		全国		https://www.wti.ac.cn/wti/ldbz/index.jhtml	副院长、党委委员		交通运输部水运科学研究院		3002
+朱建华		4		全国		https://www.wti.ac.cn/wti/ldbz/index.jhtml	副院长兼总工程师、 党委委员		交通运输部水运科学研究院		3002
+李应平		5		全国		https://www.wti.ac.cn/wti/ldbz/index.jhtml	纪委书记、党委委员		交通运输部水运科学研究院		3002
+冯玥		6		全国		https://www.wti.ac.cn/wti/ldbz/index.jhtml	副院长、党委委员		交通运输部水运科学研究院		3002
+周亮		7		全国		https://www.wti.ac.cn/wti/ldbz/index.jhtml	副院长、党委委员		交通运输部水运科学研究院		3002

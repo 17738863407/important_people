@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李明蔚		1		四川省	成都市	https://scjg.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	党组书记、局长，成都市知识产权局局长（兼）		成都市市场监督管理局	https://scjg.chengdu.gov.cn/gkml/ldcy/1542552667476197376.shtml	2246
+李广		2		四川省	成都市	https://scjg.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市市场监督管理局党组副书记、副局长（正局级）		成都市市场监督管理局	https://scjg.chengdu.gov.cn/gkml/ldcy/1415010926196686848.shtml	2246
+李可		3		四川省	成都市	https://scjg.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市市场监督管理局党组成员、副局长。		成都市市场监督管理局	https://scjg.chengdu.gov.cn/gkml/ldcy/1625393657794371584.shtml	2246
+易志坚		4		四川省	成都市	https://scjg.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市市场监督管理局党组成员、副局长		成都市市场监督管理局	https://scjg.chengdu.gov.cn/gkml/ldcy/1313158264048844800.shtml	2246
+谢丽萍		5		四川省	成都市	https://scjg.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市市场监督管理局党组成员、副局长		成都市市场监督管理局	https://scjg.chengdu.gov.cn/gkml/ldcy/1625393665633525760.shtml	2246
+杨大海		6		四川省	成都市	https://scjg.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	党组成员、驻局纪检监察组组长		成都市市场监督管理局	https://scjg.chengdu.gov.cn/gkml/ldcy/1313517527166353408.shtml	2246
+黄宇		7		四川省	成都市	https://scjg.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市市场监督管理局副局长		成都市市场监督管理局	https://scjg.chengdu.gov.cn/gkml/ldcy/1369319566697562112.shtml	2246
+蔡凯		8		四川省	成都市	https://scjg.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市市场监督管理局食品安全总监		成都市市场监督管理局	https://scjg.chengdu.gov.cn/gkml/ldcy/1625393660420005888.shtml	2246
+李彬		9		四川省	成都市	https://scjg.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市市场监管综合行政执法总队总队长		成都市市场监督管理局	https://scjg.chengdu.gov.cn/gkml/ldcy/1259809482741907456.shtml	2246
+黄真		10		四川省	成都市	https://scjg.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市市场监督管理局党组成员、药品安全总监、一级调研员		成都市市场监督管理局	https://scjg.chengdu.gov.cn/gkml/ldcy/1253026807741939712.shtml	2246

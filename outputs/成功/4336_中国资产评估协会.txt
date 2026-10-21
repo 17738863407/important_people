@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+余蔚平		1		全国		https://www.cas.org.cn/xhjs/ldcy/index.htm	中国资产评估协会会长		中国资产评估协会		4336
+湛志伟		2		全国		https://www.cas.org.cn/xhjs/ldcy/index.htm	中国资产评估协会常务副会长；中国资产评估协会党委书记、秘书长		中国资产评估协会		4336
+张更华		3		全国		https://www.cas.org.cn/xhjs/ldcy/index.htm	中国资产评估协会副会长		中国资产评估协会		4336
+陆庆平		4		全国		https://www.cas.org.cn/xhjs/ldcy/index.htm	中国资产评估协会副会长、中国资产评估行业妇联主席		中国资产评估协会		4336
+牛洪波		5		全国		https://www.cas.org.cn/xhjs/ldcy/index.htm	中国资产评估协会副会长		中国资产评估协会		4336
+夏文贤		6		全国		https://www.cas.org.cn/xhjs/ldcy/index.htm	中国资产评估协会副会长		中国资产评估协会		4336
+李建平		7		全国		https://www.cas.org.cn/xhjs/ldcy/index.htm	中国资产评估协会副会长		中国资产评估协会		4336
+范树奎		8		全国		https://www.cas.org.cn/xhjs/ldcy/index.htm	中国资产评估协会副会长		中国资产评估协会		4336
+权忠光		9		全国		https://www.cas.org.cn/xhjs/ldcy/index.htm	中国资产评估协会副会长		中国资产评估协会		4336
+黄西勤		10		全国		https://www.cas.org.cn/xhjs/ldcy/index.htm	中国资产评估协会副会长		中国资产评估协会		4336
+庄伟		11		全国		https://www.cas.org.cn/xhjs/ldcy/index.htm	中国资产评估协会党委委员、副秘书长		中国资产评估协会		4336
+周振国		12		全国		https://www.cas.org.cn/xhjs/ldcy/index.htm	中国资产评估协会党委委员、副秘书长		中国资产评估协会		4336
+张建刚		13		全国		https://www.cas.org.cn/xhjs/ldcy/index.htm	中国资产评估协会党委委员、纪委书记		中国资产评估协会		4336

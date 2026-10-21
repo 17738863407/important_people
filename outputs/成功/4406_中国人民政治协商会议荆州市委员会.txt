@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨卫华		1		湖北省	荆州市	http://www.hbjzszx.gov.cn/jigoushezhi/index.shtml	主席		中国人民政治协商会议荆州市委员会	http://www.hbjzszx.gov.cn/jigoushezhi/202602/t20260228_1073513.shtml	4406
+陈斌		2		湖北省	荆州市	http://www.hbjzszx.gov.cn/jigoushezhi/index.shtml	副主席		中国人民政治协商会议荆州市委员会		4406
+许晓宏		3		湖北省	荆州市	http://www.hbjzszx.gov.cn/jigoushezhi/index.shtml	副主席		中国人民政治协商会议荆州市委员会		4406
+黄星		4		湖北省	荆州市	http://www.hbjzszx.gov.cn/jigoushezhi/index.shtml	副主席		中国人民政治协商会议荆州市委员会		4406
+伍昌军		5		湖北省	荆州市	http://www.hbjzszx.gov.cn/jigoushezhi/index.shtml	副主席		中国人民政治协商会议荆州市委员会		4406
+范苇		6		湖北省	荆州市	http://www.hbjzszx.gov.cn/jigoushezhi/index.shtml	副主席		中国人民政治协商会议荆州市委员会		4406
+文玉莲		7		湖北省	荆州市	http://www.hbjzszx.gov.cn/jigoushezhi/index.shtml	副主席		中国人民政治协商会议荆州市委员会		4406
+施金方		8		湖北省	荆州市	http://www.hbjzszx.gov.cn/jigoushezhi/index.shtml	副主席		中国人民政治协商会议荆州市委员会		4406
+姜桂峰		9		湖北省	荆州市	http://www.hbjzszx.gov.cn/jigoushezhi/index.shtml	副主席		中国人民政治协商会议荆州市委员会		4406
+陶润华		10		湖北省	荆州市	http://www.hbjzszx.gov.cn/jigoushezhi/index.shtml	秘书长		中国人民政治协商会议荆州市委员会	http://www.hbjzszx.gov.cn/jigoushezhi/202103/t20210309_581007.shtml	4406
+梁军		11		湖北省	荆州市	http://www.hbjzszx.gov.cn/jigoushezhi/index.shtml	副秘书长		中国人民政治协商会议荆州市委员会		4406
+王飞		12		湖北省	荆州市	http://www.hbjzszx.gov.cn/jigoushezhi/index.shtml	副秘书长		中国人民政治协商会议荆州市委员会		4406
+宋兆菊		13		湖北省	荆州市	http://www.hbjzszx.gov.cn/jigoushezhi/index.shtml	副秘书长		中国人民政治协商会议荆州市委员会		4406
+薛磊		14		湖北省	荆州市	http://www.hbjzszx.gov.cn/jigoushezhi/index.shtml	副秘书长		中国人民政治协商会议荆州市委员会		4406

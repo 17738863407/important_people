@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邓麟宇		1		贵州省		https://wjw.guizhou.gov.cn/zwgk/jcxxgk/ldjj/	委党组书记、主任		贵州省卫生健康委员会	https://wjw.guizhou.gov.cn/zwgk/jcxxgk/ldjj/202402/t20240220_83826135.html	2890
+张巍		2		贵州省		https://wjw.guizhou.gov.cn/zwgk/jcxxgk/ldjj/	省计划生育协会专职副会长（正厅长级），委党组成员、副主任，贵州省卫生健康委员会卫生计生监督局党委书记		贵州省卫生健康委员会	https://wjw.guizhou.gov.cn/zwgk/jcxxgk/ldjj/201912/t20191230_78924965.html	2890
+安仕海		3		贵州省		https://wjw.guizhou.gov.cn/zwgk/jcxxgk/ldjj/	委党组成员、副主任		贵州省卫生健康委员会	https://wjw.guizhou.gov.cn/zwgk/jcxxgk/ldjj/201912/t20191230_78924964.html	2890
+赵成玉		4		贵州省		https://wjw.guizhou.gov.cn/zwgk/jcxxgk/ldjj/	委党组成员、省纪委省监委派驻省卫生健康委纪检监察组组长		贵州省卫生健康委员会	https://wjw.guizhou.gov.cn/zwgk/jcxxgk/ldjj/202506/t20250618_88158006.html	2890
+杨光红		5		贵州省		https://wjw.guizhou.gov.cn/zwgk/jcxxgk/ldjj/	委党组成员、副主任		贵州省卫生健康委员会	https://wjw.guizhou.gov.cn/zwgk/jcxxgk/ldjj/202402/t20240220_83826097.html	2890
+张敬杰		6		贵州省		https://wjw.guizhou.gov.cn/zwgk/jcxxgk/ldjj/	委党组成员，省中医药管理局党组书记、局长		贵州省卫生健康委员会	https://wjw.guizhou.gov.cn/zwgk/jcxxgk/ldjj/202407/t20240719_85136325.html	2890
+汤金美		7		贵州省		https://wjw.guizhou.gov.cn/zwgk/jcxxgk/ldjj/	委副主任		贵州省卫生健康委员会	https://wjw.guizhou.gov.cn/zwgk/jcxxgk/ldjj/202502/t20250222_86936218.html	2890
+肖明龙		8		贵州省		https://wjw.guizhou.gov.cn/zwgk/jcxxgk/ldjj/	委副厅长级干部		贵州省卫生健康委员会	https://wjw.guizhou.gov.cn/zwgk/jcxxgk/ldjj/202010/t20201012_78924966.html	2890

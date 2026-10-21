@@ -1,0 +1,20 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵大程		1		全国		https://www.claf.com.cn/claf/1915/lsh/index.html	理事长		中国法律援助和司法行政英烈关爱救助基金会		4334
+高子程		2		全国		https://www.claf.com.cn/claf/1915/lsh/index.html	副理事长		中国法律援助和司法行政英烈关爱救助基金会		4334
+王丽		3		全国		https://www.claf.com.cn/claf/1915/lsh/index.html	理事		中国法律援助和司法行政英烈关爱救助基金会		4334
+方燕		4		全国		https://www.claf.com.cn/claf/1915/lsh/index.html	理事		中国法律援助和司法行政英烈关爱救助基金会		4334
+田昕		5		全国		https://www.claf.com.cn/claf/1915/lsh/index.html	理事		中国法律援助和司法行政英烈关爱救助基金会		4334
+孙春英		6		全国		https://www.claf.com.cn/claf/1915/lsh/index.html	理事		中国法律援助和司法行政英烈关爱救助基金会		4334
+吕红兵		7		全国		https://www.claf.com.cn/claf/1915/lsh/index.html	理事		中国法律援助和司法行政英烈关爱救助基金会		4334
+刘华春		8		全国		https://www.claf.com.cn/claf/1915/lsh/index.html	理事		中国法律援助和司法行政英烈关爱救助基金会		4334
+刘春瑞		9		全国		https://www.claf.com.cn/claf/1915/lsh/index.html	理事		中国法律援助和司法行政英烈关爱救助基金会		4334
+阮瑜		10		全国		https://www.claf.com.cn/claf/1915/lsh/index.html	理事		中国法律援助和司法行政英烈关爱救助基金会		4334
+杨向斌		11		全国		https://www.claf.com.cn/claf/1915/lsh/index.html	理事		中国法律援助和司法行政英烈关爱救助基金会		4334
+张建华		12		全国		https://www.claf.com.cn/claf/1915/lsh/index.html	理事		中国法律援助和司法行政英烈关爱救助基金会		4334
+张帆		13		全国		https://www.claf.com.cn/claf/1915/lsh/index.html	理事		中国法律援助和司法行政英烈关爱救助基金会		4334
+杜江波		14		全国		https://www.claf.com.cn/claf/1915/lsh/index.html	理事		中国法律援助和司法行政英烈关爱救助基金会		4334
+陈珺		15		全国		https://www.claf.com.cn/claf/1915/lsh/index.html	理事		中国法律援助和司法行政英烈关爱救助基金会		4334
+陈惠		16		全国		https://www.claf.com.cn/claf/1915/lsh/index.html	理事		中国法律援助和司法行政英烈关爱救助基金会		4334
+金勇		17		全国		https://www.claf.com.cn/claf/1915/lsh/index.html	理事		中国法律援助和司法行政英烈关爱救助基金会		4334
+武小楠		18		全国		https://www.claf.com.cn/claf/1915/lsh/index.html	理事		中国法律援助和司法行政英烈关爱救助基金会		4334
+徐炎		19		全国		https://www.claf.com.cn/claf/1915/lsh/index.html	理事		中国法律援助和司法行政英烈关爱救助基金会		4334

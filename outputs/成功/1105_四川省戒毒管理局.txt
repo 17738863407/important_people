@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+潘奇峰		1		四川省		http://jdglj.sc.gov.cn/sjjdj/jgsz/jgzncontent.shtml	四川省司法厅党委委员，省戒毒管理局党委书记、局长		四川省戒毒管理局	http://jdglj.sc.gov.cn/sjjdj/ldxx/2019/12/17/74052f08971840e48805c49bfcf3e189.shtml	1105
+刘一兵		2		四川省		http://jdglj.sc.gov.cn/sjjdj/jgsz/jgzncontent.shtml	四川省戒毒管理局党委副书记、政治委员		四川省戒毒管理局	http://jdglj.sc.gov.cn/sjjdj/ldxx/2022/5/9/5000b4caed164210bd9753f178afb3d9.shtml	1105
+杨梁		3		四川省		http://jdglj.sc.gov.cn/sjjdj/jgsz/jgzncontent.shtml	四川省戒毒管理局党委委员、副局长、直属机关党委书记		四川省戒毒管理局	http://jdglj.sc.gov.cn/sjjdj/ldxx/2022/5/9/befbf8f4a2c8432896e9af163220b8c7.shtml	1105
+丁银兵		4		四川省		http://jdglj.sc.gov.cn/sjjdj/jgsz/jgzncontent.shtml	四川省戒毒管理局党委委员、副局长		四川省戒毒管理局	http://jdglj.sc.gov.cn/sjjdj/ldxx/2022/5/9/4372041265bb4b20a21ebc0bcb20bf18.shtml	1105
+郑芳		5		四川省		http://jdglj.sc.gov.cn/sjjdj/jgsz/jgzncontent.shtml	四川省戒毒管理局党委委员、副局长		四川省戒毒管理局	http://jdglj.sc.gov.cn/sjjdj/ldxx/2022/5/9/6de69991a57947629955e68ec4eb14ea.shtml	1105
+周汀		6		四川省		http://jdglj.sc.gov.cn/sjjdj/jgsz/jgzncontent.shtml	四川省戒毒管理局党委委员、政治部主任		四川省戒毒管理局	http://jdglj.sc.gov.cn/sjjdj/ldxx/2025/7/25/41bfcb2cdec448c0b2ce82bae06e96b0.shtml	1105

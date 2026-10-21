@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+沈大为		1		黑龙江省		http://mzw.hlj.gov.cn/mzw/jgld/jgldnew.shtml	中共黑龙江省委统战部副部长，黑龙江省民族宗教事务委员会主任、党组书记		黑龙江省民族宗教事务委员会	http://mzw.hlj.gov.cn/mzw/jgld/202209/c00_31311387.shtml	1798
+王洋		2		黑龙江省		http://mzw.hlj.gov.cn/mzw/jgld/jgldnew.shtml	黑龙江省民族宗教事务委员会副主任、党组成员		黑龙江省民族宗教事务委员会	http://mzw.hlj.gov.cn/mzw/jgld/202604/c00_31937222.shtml	1798
+刘凯		3		黑龙江省		http://mzw.hlj.gov.cn/mzw/jgld/jgldnew.shtml	黑龙江省民族宗教事务委员会副主任、党组成员		黑龙江省民族宗教事务委员会	http://mzw.hlj.gov.cn/mzw/jgld/202607/c00_31958998.shtml	1798
+从立		4		黑龙江省		http://mzw.hlj.gov.cn/mzw/jgld/jgldnew.shtml	黑龙江省民族宗教事务委员会副主任、党组成员		黑龙江省民族宗教事务委员会	http://mzw.hlj.gov.cn/mzw/jgld/202410/c00_31778155.shtml	1798
+陈青		5		黑龙江省		http://mzw.hlj.gov.cn/mzw/jgld/jgldnew.shtml	黑龙江省民族宗教事务委员会一级巡视员		黑龙江省民族宗教事务委员会	http://mzw.hlj.gov.cn/mzw/jgld/202410/c00_30089071.shtml	1798

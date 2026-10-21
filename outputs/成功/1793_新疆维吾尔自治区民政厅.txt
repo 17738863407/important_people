@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘新利		1		新疆维吾尔自治区		https://mzt.xinjiang.gov.cn/xjmzt/c113026/zfxxgk_ldxx.shtml	新疆维吾尔自治区民政厅党组书记、副厅长		新疆维吾尔自治区民政厅	https://mzt.xinjiang.gov.cn/xjmzt/c113026/202401/e2075c97e90c446184fbfb0ef1fa891c.shtml	1793
+艾山江·艾塔洪		2		新疆维吾尔自治区		https://mzt.xinjiang.gov.cn/xjmzt/c113026/zfxxgk_ldxx.shtml	新疆维吾尔自治区民政厅党组副书记、厅长		新疆维吾尔自治区民政厅	https://mzt.xinjiang.gov.cn/xjmzt/c113026/202608/00218047741d4984a6a41cb9b86d14d7.shtml	1793
+王泓维		3		新疆维吾尔自治区		https://mzt.xinjiang.gov.cn/xjmzt/c113026/zfxxgk_ldxx.shtml	新疆维吾尔自治区民政厅党组成员、副厅长		新疆维吾尔自治区民政厅	https://mzt.xinjiang.gov.cn/xjmzt/c113026/202401/76b7d0a46cd346b7839a913f0fe6e772.shtml	1793
+张伟		4		新疆维吾尔自治区		https://mzt.xinjiang.gov.cn/xjmzt/c113026/zfxxgk_ldxx.shtml	新疆维吾尔自治区民政厅党组成员（援疆）		新疆维吾尔自治区民政厅	https://mzt.xinjiang.gov.cn/xjmzt/c113026/202608/c7511aca2d8d46b999790c9838f4fac1.shtml	1793
+田煜		5		新疆维吾尔自治区		https://mzt.xinjiang.gov.cn/xjmzt/c113026/zfxxgk_ldxx.shtml	新疆维吾尔自治区民政厅党组成员、副厅长		新疆维吾尔自治区民政厅	https://mzt.xinjiang.gov.cn/xjmzt/c113026/202508/55d54e5ceeaf46bca7c22d0890ce56f3.shtml	1793
+李子栋		6		新疆维吾尔自治区		https://mzt.xinjiang.gov.cn/xjmzt/c113026/zfxxgk_ldxx.shtml	新疆维吾尔自治区民政厅党组成员、副厅长		新疆维吾尔自治区民政厅	https://mzt.xinjiang.gov.cn/xjmzt/c113026/202502/d9e464b1aea046d5bfe61b787cad26d8.shtml	1793

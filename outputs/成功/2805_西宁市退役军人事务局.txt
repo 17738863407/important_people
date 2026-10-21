@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+宋仁杰		1		青海省	西宁市	https://tyjrj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	党组书记、局长		西宁市退役军人事务局	https://tyjrj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202012/t20201222_71143.html	2805
+张文		2		青海省	西宁市	https://tyjrj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副局长		西宁市退役军人事务局	https://tyjrj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202104/t20210406_130849.html	2805
+李顺庭		3		青海省	西宁市	https://tyjrj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副局长		西宁市退役军人事务局	https://tyjrj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202012/t20201222_71144.html	2805

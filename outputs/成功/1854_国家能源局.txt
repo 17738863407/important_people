@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王宏志		1		全国		https://www.nea.gov.cn/	国家发展和改革委员会党组成员，国家能源局党组书记、局长		国家能源局	https://www.nea.gov.cn/ldhd/whz/index.htm	1854
+何洋		2		全国		https://www.nea.gov.cn/	国家能源局党组成员、副局长		国家能源局	https://www.nea.gov.cn/ldhd/hy/index.htm	1854
+万劲松		3		全国		https://www.nea.gov.cn/	国家能源局党组成员、副局长		国家能源局	https://www.nea.gov.cn/ldhd/wjs/index.htm	1854
+宋宏坤		4		全国		https://www.nea.gov.cn/	国家能源局党组成员、副局长		国家能源局	https://www.nea.gov.cn/ldhd/shk/index.htm	1854
+汪剑波		5		全国		https://www.nea.gov.cn/	国家能源局党组成员、副局长		国家能源局	https://www.nea.gov.cn/ldhd/wjb/index.htm	1854
+梁昌新		6		全国		https://www.nea.gov.cn/	监管总监		国家能源局		1854
+刘德顺		7		全国		https://www.nea.gov.cn/	总工程师		国家能源局		1854

@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张弛		1		福建省	福州市	http://wlj.fuzhou.gov.cn/zwgk/jgxx/	党组书记、局长，兼福州市广播电视局局长		福州市文化和旅游局	https://wlj.fuzhou.gov.cn/zwgk/jgxx/ldxx/zc/	2914
+张薇		2		福建省	福州市	http://wlj.fuzhou.gov.cn/zwgk/jgxx/	党组成员、副局长、三级调研员		福州市文化和旅游局	https://wlj.fuzhou.gov.cn/zwgk/jgxx/ldxx/zw/	2914
+张良柱		3		福建省	福州市	http://wlj.fuzhou.gov.cn/zwgk/jgxx/	党组成员、四级调研员		福州市文化和旅游局	https://wlj.fuzhou.gov.cn/zwgk/jgxx/ldxx/zlz/	2914
+陈立新		4		福建省	福州市	http://wlj.fuzhou.gov.cn/zwgk/jgxx/	党组成员、副局长、三级调研员		福州市文化和旅游局	https://wlj.fuzhou.gov.cn/zwgk/jgxx/ldxx/clx/	2914
+叶苏		5		福建省	福州市	http://wlj.fuzhou.gov.cn/zwgk/jgxx/	副局长、三级调研员		福州市文化和旅游局	https://wlj.fuzhou.gov.cn/zwgk/jgxx/ldxx/ys/	2914
+郑忠平		6		福建省	福州市	http://wlj.fuzhou.gov.cn/zwgk/jgxx/	党组成员、三级调研员		福州市文化和旅游局	https://wlj.fuzhou.gov.cn/zwgk/jgxx/ldxx/zzp/	2914
+朱寿良		7		福建省	福州市	http://wlj.fuzhou.gov.cn/zwgk/jgxx/	党组成员、副局长、三级调研员		福州市文化和旅游局	https://wlj.fuzhou.gov.cn/zwgk/jgxx/ldxx/zsl/	2914
+杨斌		8		福建省	福州市	http://wlj.fuzhou.gov.cn/zwgk/jgxx/	党组成员、驻局纪检监察组组长		福州市文化和旅游局	https://wlj.fuzhou.gov.cn/zwgk/jgxx/ldxx/yb/	2914
+凌敏		9		福建省	福州市	http://wlj.fuzhou.gov.cn/zwgk/jgxx/	二级调研员		福州市文化和旅游局	https://wlj.fuzhou.gov.cn/zwgk/jgxx/ldxx/lm/	2914
+陈裕雄		10		福建省	福州市	http://wlj.fuzhou.gov.cn/zwgk/jgxx/	三级调研员		福州市文化和旅游局	https://wlj.fuzhou.gov.cn/zwgk/jgxx/ldxx/cyx/	2914
+陈国辉		11		福建省	福州市	http://wlj.fuzhou.gov.cn/zwgk/jgxx/	四级调研员		福州市文化和旅游局	https://wlj.fuzhou.gov.cn/zwgk/jgxx/ldxx/cgh/	2914

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘家义		1		全国		http://www.cppcc.gov.cn/zxww/newcppcc/tawyh/index.shtml	主任		中国人民政治协商会议全国委员会提案委员会		0323
+李世杰		2		全国		http://www.cppcc.gov.cn/zxww/newcppcc/tawyh/index.shtml	副主任		中国人民政治协商会议全国委员会提案委员会		0323
+赵爱明		3		全国		http://www.cppcc.gov.cn/zxww/newcppcc/tawyh/index.shtml	副主任		中国人民政治协商会议全国委员会提案委员会		0323
+高鸿钧		4		全国		http://www.cppcc.gov.cn/zxww/newcppcc/tawyh/index.shtml	副主任		中国人民政治协商会议全国委员会提案委员会		0323
+黄国		5		全国		http://www.cppcc.gov.cn/zxww/newcppcc/tawyh/index.shtml	副主任		中国人民政治协商会议全国委员会提案委员会		0323
+盛茂林		6		全国		http://www.cppcc.gov.cn/zxww/newcppcc/tawyh/index.shtml	副主任		中国人民政治协商会议全国委员会提案委员会		0323
+崔波		7		全国		http://www.cppcc.gov.cn/zxww/newcppcc/tawyh/index.shtml	副主任		中国人民政治协商会议全国委员会提案委员会		0323
+崔少鹏		8		全国		http://www.cppcc.gov.cn/zxww/newcppcc/tawyh/index.shtml	副主任		中国人民政治协商会议全国委员会提案委员会		0323
+苏贵光		9		全国		http://www.cppcc.gov.cn/zxww/newcppcc/tawyh/index.shtml	副主任（驻会）		中国人民政治协商会议全国委员会提案委员会		0323

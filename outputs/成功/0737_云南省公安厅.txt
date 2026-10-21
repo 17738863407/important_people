@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李俊杰		1		云南省		https://gonganting.yn.gov.cn/zwgk/fdzdgkxx/jgsz/ldxx/202511/t20251121_2797870.html	云南省人民政府副省长、党组成员，省公安厅厅长兼督察长、党委书记，省委政法委副书记		云南省公安厅		0737
+张春泽		2		云南省		https://gonganting.yn.gov.cn/zwgk/fdzdgkxx/jgsz/ldxx/202511/t20251121_2797870.html	省公安厅党委副书记、分管日常工作的副厅长（正厅长级）		云南省公安厅		0737
+王志聪		3		云南省		https://gonganting.yn.gov.cn/zwgk/fdzdgkxx/jgsz/ldxx/202511/t20251121_2797870.html	省公安厅党委委员、特勤局局长		云南省公安厅		0737
+代永林		4		云南省		https://gonganting.yn.gov.cn/zwgk/fdzdgkxx/jgsz/ldxx/202511/t20251121_2797870.html	省纪委省监委驻省公安厅纪检监察组组长、二级高级监察官，省公安厅党委委员		云南省公安厅		0737
+肖峰		5		云南省		https://gonganting.yn.gov.cn/zwgk/fdzdgkxx/jgsz/ldxx/202511/t20251121_2797870.html	省公安厅党委委员、副厅长		云南省公安厅		0737
+李力		6		云南省		https://gonganting.yn.gov.cn/zwgk/fdzdgkxx/jgsz/ldxx/202511/t20251121_2797870.html	省公安厅党委委员、副厅长		云南省公安厅		0737
+昝霖		7		云南省		https://gonganting.yn.gov.cn/zwgk/fdzdgkxx/jgsz/ldxx/202511/t20251121_2797870.html	省公安厅党委委员、副厅长		云南省公安厅		0737
+张庆星		8		云南省		https://gonganting.yn.gov.cn/zwgk/fdzdgkxx/jgsz/ldxx/202511/t20251121_2797870.html	省公安厅党委委员、副厅长		云南省公安厅		0737
+罗敬		9		云南省		https://gonganting.yn.gov.cn/zwgk/fdzdgkxx/jgsz/ldxx/202511/t20251121_2797870.html	省公安厅党委委员、政治部主任		云南省公安厅		0737
+赵南方		10		云南省		https://gonganting.yn.gov.cn/zwgk/fdzdgkxx/jgsz/ldxx/202511/t20251121_2797870.html	省公安厅党委委员，昆明市人民政府副市长、市公安局局长、党委书记		云南省公安厅		0737

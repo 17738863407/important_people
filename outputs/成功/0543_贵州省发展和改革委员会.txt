@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邹康		1		贵州省		https://fgw.guizhou.gov.cn/zwgk/ldzc/	贵州省发展和改革委员会党组书记、主任		贵州省发展和改革委员会	https://fgw.guizhou.gov.cn/zwgk/ldzc/202503/t20250318_89399795.html	0543
+金必煌		2		贵州省		https://fgw.guizhou.gov.cn/zwgk/ldzc/	贵州省国防动员办公室党组书记、主任，贵州省人民防空办公室主任，贵州省发展和改革委员会党组成员、副主任		贵州省发展和改革委员会	https://fgw.guizhou.gov.cn/zwgk/ldzc/202503/t20250318_89399789.html	0543
+丁毅		3		贵州省		https://fgw.guizhou.gov.cn/zwgk/ldzc/	贵州省民营经济和区域经济发展中心党组书记、主任，贵州省发展和改革委员会党组成员、副主任		贵州省发展和改革委员会	https://fgw.guizhou.gov.cn/zwgk/ldzc/202609/t20260928_90945843.html	0543
+李自康		4		贵州省		https://fgw.guizhou.gov.cn/zwgk/ldzc/	党组成员		贵州省发展和改革委员会	https://fgw.guizhou.gov.cn/zwgk/ldzc/202609/t20260930_90957988.html	0543
+卓毓淼		5		贵州省		https://fgw.guizhou.gov.cn/zwgk/ldzc/	贵州省发展和改革委员会党组成员、副主任		贵州省发展和改革委员会	https://fgw.guizhou.gov.cn/zwgk/ldzc/202503/t20250318_89399756.html	0543
+黄鹏举		6		贵州省		https://fgw.guizhou.gov.cn/zwgk/ldzc/	贵州省发展和改革委员会党组成员、副主任		贵州省发展和改革委员会	https://fgw.guizhou.gov.cn/zwgk/ldzc/202503/t20250318_89399755.html	0543
+张高军		7		贵州省		https://fgw.guizhou.gov.cn/zwgk/ldzc/	贵州省发展和改革委员会党组成员，贵州省纪委省监委派驻省发展改革委纪检监察组组长、二级高级监察官		贵州省发展和改革委员会	https://fgw.guizhou.gov.cn/zwgk/ldzc/202609/t20260930_90958483.html	0543
+贺聚轮		8		贵州省		https://fgw.guizhou.gov.cn/zwgk/ldzc/	贵州省发展和改革委员会党组成员，贵州省粮食和物资储备局党组书记、局长		贵州省发展和改革委员会	https://fgw.guizhou.gov.cn/zwgk/ldzc/202503/t20250318_89399753.html	0543
+郑海书		9		贵州省		https://fgw.guizhou.gov.cn/zwgk/ldzc/	党组成员、西部开发处处长		贵州省发展和改革委员会	https://fgw.guizhou.gov.cn/zwgk/ldzc/202609/t20260930_90958175.html	0543

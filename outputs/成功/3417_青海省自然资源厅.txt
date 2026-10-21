@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谢宝恩		1		青海省		https://zrzyt.qinghai.gov.cn/gk/fdzdgknr/tld/	党组书记、厅长、省自然资源总督察、省地质矿产勘查开发局党委书记		青海省自然资源厅	https://zrzyt.qinghai.gov.cn/gk/fdzdgknr/tld/content_9875	3417
+张启元		2		青海省		https://zrzyt.qinghai.gov.cn/gk/fdzdgknr/tld/	党组副书记、省地质矿产勘查开发局局长		青海省自然资源厅	https://zrzyt.qinghai.gov.cn/gk/fdzdgknr/tld/content_3	3417
+马瑞		3		青海省		https://zrzyt.qinghai.gov.cn/gk/fdzdgknr/tld/	党组成员、副厅长		青海省自然资源厅	https://zrzyt.qinghai.gov.cn/gk/fdzdgknr/tld/content_9154	3417
+孟广培		4		青海省		https://zrzyt.qinghai.gov.cn/gk/fdzdgknr/tld/	党组成员、副厅长兼省自然资源副总督察		青海省自然资源厅	https://zrzyt.qinghai.gov.cn/gk/fdzdgknr/tld/content_8	3417
+张亮		5		青海省		https://zrzyt.qinghai.gov.cn/gk/fdzdgknr/tld/	党组成员、副厅长 （援青）		青海省自然资源厅	https://zrzyt.qinghai.gov.cn/gk/fdzdgknr/tld/content_9348	3417
+马有俊		6		青海省		https://zrzyt.qinghai.gov.cn/gk/fdzdgknr/tld/	党组成员、副厅长		青海省自然资源厅	https://zrzyt.qinghai.gov.cn/gk/fdzdgknr/tld/content_9	3417
+王凤林		7		青海省		https://zrzyt.qinghai.gov.cn/gk/fdzdgknr/tld/	党组成员、副厅长兼省自然资源副总督察		青海省自然资源厅	https://zrzyt.qinghai.gov.cn/gk/fdzdgknr/tld/content_7831	3417

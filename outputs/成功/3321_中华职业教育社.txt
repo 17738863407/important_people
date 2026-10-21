@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郝明金		1		全国		https://www.zhzjs.org/#/allComponent?lightIndex=1&plateId=1063762834513100800	理事长		中华职业教育社		3321
+秦博勇		2		全国		https://www.zhzjs.org/#/allComponent?lightIndex=1&plateId=1063762834513100800	副理事长		中华职业教育社		3321
+吴岩		3		全国		https://www.zhzjs.org/#/allComponent?lightIndex=1&plateId=1063762834513100800	副理事长		中华职业教育社		3321
+俞家栋		4		全国		https://www.zhzjs.org/#/allComponent?lightIndex=1&plateId=1063762834513100800	副理事长		中华职业教育社		3321
+谢经荣		5		全国		https://www.zhzjs.org/#/allComponent?lightIndex=1&plateId=1063762834513100800	副理事长		中华职业教育社		3321
+王刚		6		全国		https://www.zhzjs.org/#/allComponent?lightIndex=1&plateId=1063762834513100800	副理事长		中华职业教育社		3321
+汪鸿雁		7		全国		https://www.zhzjs.org/#/allComponent?lightIndex=1&plateId=1063762834513100800	副理事长		中华职业教育社		3321
+王惠贞		8		全国		https://www.zhzjs.org/#/allComponent?lightIndex=1&plateId=1063762834513100800	副理事长		中华职业教育社		3321
+苏华		9		全国		https://www.zhzjs.org/#/allComponent?lightIndex=1&plateId=1063762834513100800	副理事长		中华职业教育社		3321
+郑清春		10		全国		https://www.zhzjs.org/#/allComponent?lightIndex=1&plateId=1063762834513100800	副理事长		中华职业教育社		3321
+王晓光		11		全国		https://www.zhzjs.org/#/allComponent?lightIndex=1&plateId=1063762834513100800	党组书记；总干事		中华职业教育社		3321
+彭岭果		12		全国		https://www.zhzjs.org/#/allComponent?lightIndex=1&plateId=1063762834513100800	党组成员；副总干事		中华职业教育社		3321
+王松涛		13		全国		https://www.zhzjs.org/#/allComponent?lightIndex=1&plateId=1063762834513100800	党组成员；副总干事		中华职业教育社		3321
+冯大军		14		全国		https://www.zhzjs.org/#/allComponent?lightIndex=1&plateId=1063762834513100800	党组成员；副总干事		中华职业教育社		3321

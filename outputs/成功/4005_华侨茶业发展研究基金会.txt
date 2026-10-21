@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邵曙光		1		全国		https://www.chinateafund.cn/aboutus.asp?id=4	理事长		华侨茶业发展研究基金会		4005
+王贵卿		2		全国		https://www.chinateafund.cn/aboutus.asp?id=4	副理事长		华侨茶业发展研究基金会		4005
+吕辛		3		全国		https://www.chinateafund.cn/aboutus.asp?id=4	副理事长		华侨茶业发展研究基金会		4005
+林锥		4		全国		https://www.chinateafund.cn/aboutus.asp?id=4	副理事长		华侨茶业发展研究基金会		4005
+周重旺		5		全国		https://www.chinateafund.cn/aboutus.asp?id=4	副理事长		华侨茶业发展研究基金会		4005
+郑德成		6		全国		https://www.chinateafund.cn/aboutus.asp?id=4	副理事长		华侨茶业发展研究基金会		4005
+邵曙光		7		全国		https://www.chinateafund.cn/aboutus.asp?id=4	秘书长		华侨茶业发展研究基金会		4005

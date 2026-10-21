@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邱现东		1		全国		http://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/index.html	董事长、党委书记		中国第一汽车集团有限公司	https://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/377977/index.html	3496
+刘亦功		2		全国		http://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/index.html	董事、总经理、党委副书记		中国第一汽车集团有限公司	https://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/5300564/index.html	3496
+梁贵友		3		全国		http://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/index.html	董事、党委副书记、工会主席		中国第一汽车集团有限公司	https://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/5587942/index.html	3496
+孙继光		4		全国		http://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/index.html	党委常委、中央纪委国家监委驻中国一汽纪检监察组组长		中国第一汽车集团有限公司	https://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/377886/index.html	3496
+方世力		5		全国		http://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/index.html	党委常委、总会计师		中国第一汽车集团有限公司	https://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/5719614/index.html	3496
+吴碧磊		6		全国		http://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/index.html	党委常委、副总经理		中国第一汽车集团有限公司	https://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/5763559/index.html	3496
+陈彬		7		全国		http://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/index.html	党委常委、副总经理		中国第一汽车集团有限公司	https://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/5771581/index.html	3496
+高璞		8		全国		http://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/index.html	党委常委、副总经理		中国第一汽车集团有限公司	https://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/377891/index.html	3496
+张小帆		9		全国		http://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/index.html	党委常委、副总经理		中国第一汽车集团有限公司	https://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/5917815/index.html	3496

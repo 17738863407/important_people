@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+薛江		1		新疆维吾尔自治区		https://sjt.xinjiang.gov.cn/xjsjt/c114646/common_list.shtml	自治区审计厅党组书记、副厅长		新疆维吾尔自治区审计厅	https://sjt.xinjiang.gov.cn/xjsjt/c114646/201507/23b38f8f7c4d47499f92b180cc3d2c5b.shtml	2461
+雷健		2		新疆维吾尔自治区		https://sjt.xinjiang.gov.cn/xjsjt/c114646/common_list.shtml	自治区审计厅党组副书记、厅长		新疆维吾尔自治区审计厅	https://sjt.xinjiang.gov.cn/xjsjt/c114646/202504/2dabcdc51fb94d41add7f04b5127ea82.shtml	2461
+李建全		3		新疆维吾尔自治区		https://sjt.xinjiang.gov.cn/xjsjt/c114646/common_list.shtml	自治区审计厅党组成员、副厅长		新疆维吾尔自治区审计厅	https://sjt.xinjiang.gov.cn/xjsjt/c114646/202011/031dbda165ff48a485696f65a427e8c4.shtml	2461
+马列		4		新疆维吾尔自治区		https://sjt.xinjiang.gov.cn/xjsjt/c114646/common_list.shtml	自治区审计厅党组成员、副厅长		新疆维吾尔自治区审计厅	https://sjt.xinjiang.gov.cn/xjsjt/c114646/202306/c7ebd42077434e63a6ac2ee417659ed2.shtml	2461
+刘山		5		新疆维吾尔自治区		https://sjt.xinjiang.gov.cn/xjsjt/c114646/common_list.shtml	自治区审计厅党组成员、副厅长		新疆维吾尔自治区审计厅	https://sjt.xinjiang.gov.cn/xjsjt/c114646/202502/b8bb747e8e9d48939475dbdd662346b5.shtml	2461
+万峰		6		新疆维吾尔自治区		https://sjt.xinjiang.gov.cn/xjsjt/c114646/common_list.shtml	自治区审计厅党组成员、副厅长		新疆维吾尔自治区审计厅	https://sjt.xinjiang.gov.cn/xjsjt/c114646/202502/c3721bd7c7da45028945fd08143455e8.shtml	2461

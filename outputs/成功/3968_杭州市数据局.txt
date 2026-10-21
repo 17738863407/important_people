@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐青山		1		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836938/index.html	市政府副秘书长，党组书记、局长		杭州市数据局		3968
+伍洲		2		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836938/index.html	党组成员、副局长		杭州市数据局		3968
+齐同军		3		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836938/index.html	党组成员、副局长		杭州市数据局		3968
+傅卫权		4		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836938/index.html	党组成员、副局长		杭州市数据局		3968
+单涛		5		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836938/index.html	党组成员、二级巡视员		杭州市数据局		3968

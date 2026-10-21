@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+裴莹蕾		1		贵州省	贵阳市	http://kjj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978136/	党组书记、局长		贵阳市科学技术局	http://kjj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978136/202503/t20250317_87186562.html	1357
+罗尧重		2		贵州省	贵阳市	http://kjj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978136/	党组成员、副局长		贵阳市科学技术局	http://kjj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978136/202503/t20250317_87186559.html	1357
+卓荦		3		贵州省	贵阳市	http://kjj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978136/	党组成员、副局长		贵阳市科学技术局	http://kjj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978136/202503/t20250320_87217597.html	1357
+邹华军		4		贵州省	贵阳市	http://kjj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978136/	党组成员、副局长		贵阳市科学技术局	http://kjj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978136/202503/t20250317_87186560.html	1357
+王一		5		贵州省	贵阳市	http://kjj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978136/	党组成员、副局长（挂职）		贵阳市科学技术局	http://kjj.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978136/202503/t20250317_87186561.html	1357

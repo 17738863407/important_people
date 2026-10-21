@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈昱		1		福建省	福州市	http://jyj.fuzhou.gov.cn/zwgk/jgxx/	福州市委教育工委书记，市教育局党组书记、局长，一级调研员		福州市教育局	https://jyj.fuzhou.gov.cn/zwgk/jgxx/ldjj/cy_1/	1304
+念琪		2		福建省	福州市	http://jyj.fuzhou.gov.cn/zwgk/jgxx/	福州市委教育工委、市教育局二级调研员		福州市教育局	https://jyj.fuzhou.gov.cn/zwgk/jgxx/ldjj/nq/	1304
+陈颖		3		福建省	福州市	http://jyj.fuzhou.gov.cn/zwgk/jgxx/	福州市委教育工委副书记，市教育局党组成员、副局长，三级调研员		福州市教育局	https://jyj.fuzhou.gov.cn/zwgk/jgxx/ldjj/cy/	1304
+邵东生		4		福建省	福州市	http://jyj.fuzhou.gov.cn/zwgk/jgxx/	福州市委教育工委副书记，市教育局党组成员、副局长，三级调研员		福州市教育局	https://jyj.fuzhou.gov.cn/zwgk/jgxx/ldjj/sds/	1304
+林忠强		5		福建省	福州市	http://jyj.fuzhou.gov.cn/zwgk/jgxx/	福州市委教育工委委员、市教育纪检监察工委书记，市教育局党组成员、驻市教育局纪检监察组组长		福州市教育局	https://jyj.fuzhou.gov.cn/zwgk/jgxx/ldjj/lzq/	1304
+徐章海		6		福建省	福州市	http://jyj.fuzhou.gov.cn/zwgk/jgxx/	福州市委教育工委委员，市教育局党组成员、专职副总督学		福州市教育局	https://jyj.fuzhou.gov.cn/zwgk/jgxx/ldjj/xzh/	1304
+林楠		7		福建省	福州市	http://jyj.fuzhou.gov.cn/zwgk/jgxx/	福州市委教育工委委员，市教育局党组成员、副局长		福州市教育局	https://jyj.fuzhou.gov.cn/zwgk/jgxx/ldjj/ln/	1304
+苏夏铃		8		福建省	福州市	http://jyj.fuzhou.gov.cn/zwgk/jgxx/	福州市教育局副总督学		福州市教育局	https://jyj.fuzhou.gov.cn/zwgk/jgxx/ldjj/sxl/	1304
+钟玲敏		9		福建省	福州市	http://jyj.fuzhou.gov.cn/zwgk/jgxx/	福州市教育考试发展中心主任		福州市教育局	https://jyj.fuzhou.gov.cn/zwgk/jgxx/ldjj/zlm/	1304

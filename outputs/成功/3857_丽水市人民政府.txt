@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱林森		1		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229265169/index.html	市长		丽水市人民政府	https://www.lishui.gov.cn/art/2024/2/8/art_1229782202_156162.html	3857
+于会游		2		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229265169/index.html	副市长		丽水市人民政府	https://www.lishui.gov.cn/szfld/fsz/art/2026/art_f42964273ed344668b272df1694fdb86.html	3857
+毛建国		3		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229265169/index.html	副市长		丽水市人民政府	https://www.lishui.gov.cn/xxlm/xzwgkldxx/fsz/art/2020/art_a483906de48c5627a02102181143e1f6.html	3857
+卢彩柳		4		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229265169/index.html	副市长		丽水市人民政府	https://www.lishui.gov.cn/xxlm/xzwgkldxx/fsz/art/2020/art_88e7907ff66b3468c950649ee42cbf6a.html	3857
+董智武		5		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229265169/index.html	副市长		丽水市人民政府	https://www.lishui.gov.cn/xxlm/xzwgkldxx/fsz/art/2023/art_63dafd27a517fb228dd06f1ac12690fb.html	3857
+蓝伶俐		6		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229265169/index.html	副市长		丽水市人民政府	https://www.lishui.gov.cn/xxlm/xzwgkldxx/fsz/art/2023/art_996a8a4bb4ba54b60c500b298408a7e9.html	3857
+李汉勤		7		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229265169/index.html	副市长		丽水市人民政府	https://www.lishui.gov.cn/xxlm/xzwgkldxx/fsz/art/2020/art_132c72a3e992c5f059d70fe01a1a96c9.html	3857
+周和平		8		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229265169/index.html	副市长		丽水市人民政府	https://www.lishui.gov.cn/xxlm/xzwgkldxx/fsz/art/2024/art_5333858bafb94227e4a31474bea8560f.html	3857
+黄伟君		9		浙江省	丽水市	https://www.lishui.gov.cn/col/col1229265169/index.html	秘书长		丽水市人民政府	https://www.lishui.gov.cn/szfld/msz/art/2026/art_8d68dbc9b47f96ae549f4e7ad4833c3c.html	3857

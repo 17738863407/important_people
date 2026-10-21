@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄思光		1		陕西省	咸阳市	https://www.nwsuaf.edu.cn/xxgk/xrld/index.htm	党委书记；党委常委		西北农林科技大学	https://www.nwsuaf.edu.cn/xxgk/xrld/dwsj/38f579f28da3493c8b3517ab8bb62680.htm	3671
+吴普特		2		陕西省	咸阳市	https://www.nwsuaf.edu.cn/xxgk/xrld/index.htm	校长；党委副书记；党委常委		西北农林科技大学	https://www.nwsuaf.edu.cn/xxgk/xrld/xc/e92ab41abf8344148a875fcc3b90f861.htm	3671
+韦革宏		3		陕西省	咸阳市	https://www.nwsuaf.edu.cn/xxgk/xrld/index.htm	常务副校长；党委常委		西北农林科技大学	https://www.nwsuaf.edu.cn/xxgk/xrld/cwfxc/c228a8d563324798929814f5a936fe52.htm	3671
+陈红		4		陕西省	咸阳市	https://www.nwsuaf.edu.cn/xxgk/xrld/index.htm	党委副书记；纪委书记；党委常委		西北农林科技大学	https://www.nwsuaf.edu.cn/xxgk/xrld/dwfsj2/f9cefdcc98054019b5afd7a16dc8cbe8.htm	3671
+闫祖书		5		陕西省	咸阳市	https://www.nwsuaf.edu.cn/xxgk/xrld/index.htm	党委副书记；党委常委		西北农林科技大学	https://www.nwsuaf.edu.cn/xxgk/xrld/dwfsj2/3510d21d95554060b6b047fa80c389ea.htm	3671
+庄世宏		6		陕西省	咸阳市	https://www.nwsuaf.edu.cn/xxgk/xrld/index.htm	党委副书记；党委常委		西北农林科技大学	https://www.nwsuaf.edu.cn/xxgk/xrld/dwfsj2/d67038abf3d74ed58d0ad8c2ba93bb7d.htm	3671
+房玉林		7		陕西省	咸阳市	https://www.nwsuaf.edu.cn/xxgk/xrld/index.htm	副校长；党委常委		西北农林科技大学	https://www.nwsuaf.edu.cn/xxgk/xrld/fxc/7e8256f2825c464f9da55df7473870ec.htm	3671
+刘天军		8		陕西省	咸阳市	https://www.nwsuaf.edu.cn/xxgk/xrld/index.htm	副校长；党委常委		西北农林科技大学	https://www.nwsuaf.edu.cn/xxgk/xrld/fxc/6ebbe70818724b07b07e1a481c3dc82e.htm	3671
+孙马		9		陕西省	咸阳市	https://www.nwsuaf.edu.cn/xxgk/xrld/index.htm	副校长；党委常委		西北农林科技大学	https://www.nwsuaf.edu.cn/xxgk/xrld/fxc/25279e41db0a46ea961961a795a297c3.htm	3671
+马闯		10		陕西省	咸阳市	https://www.nwsuaf.edu.cn/xxgk/xrld/index.htm	副校长；党委常委		西北农林科技大学	https://www.nwsuaf.edu.cn/xxgk/xrld/fxc/9e328ce9a4b249368f12f402a5539bac.htm	3671
+张宏鸣		11		陕西省	咸阳市	https://www.nwsuaf.edu.cn/xxgk/xrld/index.htm	副校长；党委常委		西北农林科技大学	https://www.nwsuaf.edu.cn/xxgk/xrld/fxc/83b319e58dfe4feaaed582cf8ad9942e.htm	3671
+张海成		12		陕西省	咸阳市	https://www.nwsuaf.edu.cn/xxgk/xrld/index.htm	副校长		西北农林科技大学	https://www.nwsuaf.edu.cn/xxgk/xrld/fxc/6c1edc0fb57b4177a2a7a9d4e1d14922.htm	3671
+李筱英		13		陕西省	咸阳市	https://www.nwsuaf.edu.cn/xxgk/xrld/index.htm	党委常委		西北农林科技大学		3671

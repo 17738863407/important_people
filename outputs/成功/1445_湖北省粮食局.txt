@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+易俊东		1		湖北省		http://lsj.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	省发展和改革委员会党组成员，省粮食局党组书记、局长		湖北省粮食局	http://lsj.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/202411/t20241120_5420061.shtml	1445
+李硕		2		湖北省		http://lsj.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	党组成员、副局长		湖北省粮食局	http://lsj.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/202101/t20210112_3218790.shtml	1445
+夏昌银		3		湖北省		http://lsj.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	党组成员、副局长		湖北省粮食局	http://lsj.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/202406/t20240614_5237974.shtml	1445
+刘建胜		4		湖北省		http://lsj.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	党组成员、副局长		湖北省粮食局	http://lsj.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/202508/t20250815_5747476.shtml	1445
+刘海涛		5		湖北省		http://lsj.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	一级巡视员		湖北省粮食局	http://lsj.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/201910/t20191026_245102.shtml	1445

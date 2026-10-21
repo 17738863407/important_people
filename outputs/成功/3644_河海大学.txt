@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨桂山		1		江苏省	南京市	https://www.hhu.edu.cn/xrld_23325/list.htm	党委书记		河海大学	https://www.hhu.edu.cn/2024/1031/c23326a304364/page.htm	3644
+郑金海		2		江苏省	南京市	https://www.hhu.edu.cn/xrld_23325/list.htm	校长、党委副书记		河海大学	https://www.hhu.edu.cn/2021/0915/c23327a304365/page.htm	3644
+孟新		3		江苏省	南京市	https://www.hhu.edu.cn/xrld_23325/list.htm	党委副书记、纪委书记		河海大学	https://www.hhu.edu.cn/2021/0915/c23328a304366/page.htm	3644
+陆国宾		4		江苏省	南京市	https://www.hhu.edu.cn/xrld_23325/list.htm	党委副书记、副校长		河海大学	https://www.hhu.edu.cn/2021/0915/c23329a304367/page.htm	3644
+陈达		5		江苏省	南京市	https://www.hhu.edu.cn/xrld_23325/list.htm	副校长		河海大学	https://www.hhu.edu.cn/2024/0411/c23330a304368/page.htm	3644
+沈扬		6		江苏省	南京市	https://www.hhu.edu.cn/xrld_23325/list.htm	副校长		河海大学	https://www.hhu.edu.cn/2024/0411/c23451a304369/page.htm	3644
+邓成		7		江苏省	南京市	https://www.hhu.edu.cn/xrld_23325/list.htm	副校长		河海大学	https://www.hhu.edu.cn/2025/0827/c23622a306486/page.htm	3644
+吴峰		8		江苏省	南京市	https://www.hhu.edu.cn/xrld_23325/list.htm	副校长		河海大学	https://www.hhu.edu.cn/2025/0827/c23623a306488/page.htm	3644
+宋翔洲		9		江苏省	南京市	https://www.hhu.edu.cn/xrld_23325/list.htm	副校长		河海大学	https://www.hhu.edu.cn/2025/0827/c23624a306490/page.htm	3644

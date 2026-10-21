@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+冯皓		1		云南省	昭通市	https://www.zt.gov.cn/lanmu/ldzc/ldzc.html	市委副书记、市长		昭通市人民政府	https://www.zt.gov.cn/lanmu/ldzc/contents/5059/209265.html	4310
+梁凌云		2		云南省	昭通市	https://www.zt.gov.cn/lanmu/ldzc/ldzc.html	副市长		昭通市人民政府	https://www.zt.gov.cn/lanmu/ldzc/contents/5060/209274.html	4310
+葛钧		3		云南省	昭通市	https://www.zt.gov.cn/lanmu/ldzc/ldzc.html	副市长		昭通市人民政府	https://www.zt.gov.cn/lanmu/ldzc/contents/5060/232903.html	4310
+易征		4		云南省	昭通市	https://www.zt.gov.cn/lanmu/ldzc/ldzc.html	副市长		昭通市人民政府	https://www.zt.gov.cn/lanmu/ldzc/contents/5060/209272.html	4310
+夏维勇		5		云南省	昭通市	https://www.zt.gov.cn/lanmu/ldzc/ldzc.html	副市长		昭通市人民政府	https://www.zt.gov.cn/lanmu/ldzc/contents/5060/209269.html	4310
+娄东		6		云南省	昭通市	https://www.zt.gov.cn/lanmu/ldzc/ldzc.html	副市长		昭通市人民政府	https://www.zt.gov.cn/lanmu/ldzc/contents/5060/209270.html	4310
+刘和开		7		云南省	昭通市	https://www.zt.gov.cn/lanmu/ldzc/ldzc.html	副市长		昭通市人民政府	https://www.zt.gov.cn/lanmu/ldzc/contents/5060/209268.html	4310
+孔令影		8		云南省	昭通市	https://www.zt.gov.cn/lanmu/ldzc/ldzc.html	副市长		昭通市人民政府	https://www.zt.gov.cn/lanmu/ldzc/contents/5060/209266.html	4310
+肖顺兴		9		云南省	昭通市	https://www.zt.gov.cn/lanmu/ldzc/ldzc.html	副市长		昭通市人民政府	https://www.zt.gov.cn/lanmu/ldzc/contents/5060/209267.html	4310
+杨升金		10		云南省	昭通市	https://www.zt.gov.cn/lanmu/ldzc/ldzc.html	副市长		昭通市人民政府	https://www.zt.gov.cn/lanmu/ldzc/contents/5060/253916.html	4310
+施华松		11		云南省	昭通市	https://www.zt.gov.cn/lanmu/ldzc/ldzc.html	秘书长		昭通市人民政府	https://www.zt.gov.cn/lanmu/ldzc/contents/5062/209276.html	4310

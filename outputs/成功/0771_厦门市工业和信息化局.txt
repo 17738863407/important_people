@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+翁晓岚		1		福建省	厦门市	http://gxj.xm.gov.cn/jgsz/ldfg/	厦门市工业和信息化局党组书记、局长		厦门市工业和信息化局	http://gxj.xm.gov.cn/jgsz/ldfg/202004/t20200415_2439520.htm	0771
+上官峰		2		福建省	厦门市	http://gxj.xm.gov.cn/jgsz/ldfg/	厦门市工业和信息化局党组副书记、副局长		厦门市工业和信息化局	http://gxj.xm.gov.cn/jgsz/ldfg/202108/t20210823_2576258.htm	0771
+邓建华		3		福建省	厦门市	http://gxj.xm.gov.cn/jgsz/ldfg/	厦门市工业和信息化局党组成员、副局长		厦门市工业和信息化局	http://gxj.xm.gov.cn/jgsz/ldfg/201207/t20120709_1076549.htm	0771
+熊余清		4		福建省	厦门市	http://gxj.xm.gov.cn/jgsz/ldfg/	厦门市工业和信息化局党组成员、厦门市纪委监委驻市工信局纪检监察组组长		厦门市工业和信息化局	http://gxj.xm.gov.cn/jgsz/ldfg/201811/t20181108_2162260.htm	0771
+王忠和		5		福建省	厦门市	http://gxj.xm.gov.cn/jgsz/ldfg/	厦门市工业和信息化局党组成员、副局长		厦门市工业和信息化局	http://gxj.xm.gov.cn/jgsz/ldfg/201505/t20150525_1119497.htm	0771
+彭军锋		6		福建省	厦门市	http://gxj.xm.gov.cn/jgsz/ldfg/	厦门市工业和信息化局党组成员、总工程师		厦门市工业和信息化局	http://gxj.xm.gov.cn/jgsz/ldfg/201505/t20150525_1119496.htm	0771
+赵石磊		7		福建省	厦门市	http://gxj.xm.gov.cn/jgsz/ldfg/	厦门市工业和信息化局党组成员、副局长		厦门市工业和信息化局	http://gxj.xm.gov.cn/jgsz/ldfg/201602/t20160214_1265884.htm	0771

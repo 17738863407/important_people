@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+叶仁雄		1		湖南省		http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/index.html	党组书记、厅长，省国防科技工业局局长（兼）		湖南省工业和信息化厅	http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/202603/t20260320_33938805.html	0785
+刘卫东		2		湖南省		http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/index.html	党组成员、一级巡视员		湖南省工业和信息化厅	http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/202403/t20240321_33259023.html	0785
+侯文		3		湖南省		http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/index.html	党组成员、副厅长		湖南省工业和信息化厅	http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/202607/t20260703_34019691.html	0785
+陈晖		4		湖南省		http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/index.html	党组成员、副厅长		湖南省工业和信息化厅	http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/202412/t20241231_33551371.html	0785
+欧阳晓风		5		湖南省		http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/index.html	党组成员、副厅长		湖南省工业和信息化厅	http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/202402/t20240222_32894196.html	0785
+马毅		6		湖南省		http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/index.html	党组成员、省纪委监委驻厅纪检监察组组长		湖南省工业和信息化厅	http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/202510/t20251030_33836660.html	0785
+唐勇		7		湖南省		http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/index.html	党组成员、副厅长		湖南省工业和信息化厅	http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/202602/t20260206_33912293.html	0785
+钟年节		8		湖南省		http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/index.html	党组成员、副厅长		湖南省工业和信息化厅	http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/202606/t20260612_34000171.html	0785
+张雪		9		湖南省		http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/index.html	一级巡视员		湖南省工业和信息化厅	http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/202512/t20251212_33869599.html	0785
+李小平		10		湖南省		http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/index.html	二级巡视员		湖南省工业和信息化厅	http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/202507/t20250725_33750004.html	0785
+颜琰		11		湖南省		http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/index.html	二级巡视员		湖南省工业和信息化厅	http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/202502/t20250210_33584258.html	0785
+夏俊辉		12		湖南省		http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/index.html	二级巡视员		湖南省工业和信息化厅	http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/202510/t20251010_33822165.html	0785
+蒋宁飞		13		湖南省		http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/index.html	二级巡视员		湖南省工业和信息化厅	http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/202602/t20260212_33915915.html	0785
+肖银锋		14		湖南省		http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/index.html	二级巡视员		湖南省工业和信息化厅	http://gxt.hunan.gov.cn/gxt/xxgk_71033/jgzn/jgld/202602/t20260212_33915922.html	0785

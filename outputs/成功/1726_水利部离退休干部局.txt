@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+秦海鹏		1		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	局长、党委书记		水利部离退休干部局		1726
+赵龙华		2		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副局长		水利部离退休干部局		1726
+王娟		3		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副局长		水利部离退休干部局		1726
+许慧民		4		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副局长		水利部离退休干部局		1726
+宋飞越		5		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	二级巡视员（副司级）		水利部离退休干部局		1726

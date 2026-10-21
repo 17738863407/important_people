@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张海平		1		山东省	济南市	https://jngzw.jinan.gov.cn/col/col48037/art/2026/art_5fd3e54895ae49b4afe8af65e1299b06.html	济南市人民政府国有资产监督管理委员会党委书记、主任		济南市人民政府国有资产监督管理委员会		1171
+沈文涛		2		山东省	济南市	https://jngzw.jinan.gov.cn/col/col48037/art/2026/art_5fd3e54895ae49b4afe8af65e1299b06.html	济南市人民政府国有资产监督管理委员会党委委员、副主任		济南市人民政府国有资产监督管理委员会		1171
+路林海		3		山东省	济南市	https://jngzw.jinan.gov.cn/col/col48037/art/2026/art_5fd3e54895ae49b4afe8af65e1299b06.html	济南市人民政府国有资产监督管理委员会党委委员、副主任		济南市人民政府国有资产监督管理委员会		1171
+杨秀华		4		山东省	济南市	https://jngzw.jinan.gov.cn/col/col48037/art/2026/art_5fd3e54895ae49b4afe8af65e1299b06.html	济南市人民政府国有资产监督管理委员会党委委员、副主任		济南市人民政府国有资产监督管理委员会		1171
+程远		5		山东省	济南市	https://jngzw.jinan.gov.cn/col/col48037/art/2026/art_5fd3e54895ae49b4afe8af65e1299b06.html	济南市人民政府国有资产监督管理委员会党委委员、市纪委监委驻市国资委纪检监察组组长、三级高级监察官		济南市人民政府国有资产监督管理委员会		1171
+谢红兵		6		山东省	济南市	https://jngzw.jinan.gov.cn/col/col48037/art/2026/art_5fd3e54895ae49b4afe8af65e1299b06.html	济南市人民政府国有资产监督管理委员会二级巡视员		济南市人民政府国有资产监督管理委员会		1171
+纪军		7		山东省	济南市	https://jngzw.jinan.gov.cn/col/col48037/art/2026/art_5fd3e54895ae49b4afe8af65e1299b06.html	济南市人民政府国有资产监督管理委员会二级巡视员		济南市人民政府国有资产监督管理委员会		1171

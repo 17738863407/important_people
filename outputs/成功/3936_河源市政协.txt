@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+余其豹		1		广东省	河源市	http://www.gdhyzx.gov.cn/hyzx/zxld/	主席		河源市政协	http://www.gdhyzx.gov.cn/hyzx/yuqipao/	3936
+谢新添		2		广东省	河源市	http://www.gdhyzx.gov.cn/hyzx/zxld/	副主席		河源市政协	http://www.gdhyzx.gov.cn/hyzx/xiexintian/	3936
+唐汉芳		3		广东省	河源市	http://www.gdhyzx.gov.cn/hyzx/zxld/	副主席		河源市政协	http://www.gdhyzx.gov.cn/hyzx/tanghangfang/	3936
+张小可		4		广东省	河源市	http://www.gdhyzx.gov.cn/hyzx/zxld/	副主席		河源市政协	http://www.gdhyzx.gov.cn/hyzx/zhangxiaoke/	3936
+谢红英		5		广东省	河源市	http://www.gdhyzx.gov.cn/hyzx/zxld/	副主席		河源市政协	http://www.gdhyzx.gov.cn/hyzx/xiehongying/	3936
+孙宇红		6		广东省	河源市	http://www.gdhyzx.gov.cn/hyzx/zxld/	副主席		河源市政协	http://www.gdhyzx.gov.cn/hyzx/sunyuhong/	3936
+韦锐辉		7		广东省	河源市	http://www.gdhyzx.gov.cn/hyzx/zxld/	副主席		河源市政协	http://www.gdhyzx.gov.cn/hyzx/weiruihui/	3936
+余笑梅		8		广东省	河源市	http://www.gdhyzx.gov.cn/hyzx/zxld/	副主席		河源市政协	http://www.gdhyzx.gov.cn/hyzx/yuxiaomei/	3936
+温兴华		9		广东省	河源市	http://www.gdhyzx.gov.cn/hyzx/zxld/	秘书长		河源市政协	http://www.gdhyzx.gov.cn/hyzx/wenxinghua/	3936

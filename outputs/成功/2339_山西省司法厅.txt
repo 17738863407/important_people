@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王锁成		1		山西省		http://sft.shanxi.gov.cn/zwgk/fdzdgknr/zzjg/ldxx/	山西省司法厅党委书记、厅长,省委全面依法治省委员会办公室副主任,省委政法委员会委员,省监狱管理局第一政委		山西省司法厅	http://sft.shanxi.gov.cn/zwgk/fdzdgknr/zzjg/ldxx/201911/t20191125_171946.html	2339
+马慧健		2		山西省		http://sft.shanxi.gov.cn/zwgk/fdzdgknr/zzjg/ldxx/	山西省司法厅党委委员、副厅长,山西省监狱管理局党委书记、局长		山西省司法厅	http://sft.shanxi.gov.cn/zwgk/fdzdgknr/zzjg/ldxx/201911/t20191125_171944.html	2339
+王震南		3		山西省		http://sft.shanxi.gov.cn/zwgk/fdzdgknr/zzjg/ldxx/	山西省纪委监委驻省司法厅纪检监察组组长、厅党委委员		山西省司法厅	http://sft.shanxi.gov.cn/zwgk/fdzdgknr/zzjg/ldxx/201911/t20191125_171947.html	2339
+路标		4		山西省		http://sft.shanxi.gov.cn/zwgk/fdzdgknr/zzjg/ldxx/	山西省司法厅党委委员、政治部主任		山西省司法厅	http://sft.shanxi.gov.cn/zwgk/fdzdgknr/zzjg/ldxx/201911/t20191125_171940.html	2339
+王素梅		5		山西省		http://sft.shanxi.gov.cn/zwgk/fdzdgknr/zzjg/ldxx/	山西省司法厅党委委员、副厅长		山西省司法厅	http://sft.shanxi.gov.cn/zwgk/fdzdgknr/zzjg/ldxx/201911/t20191125_171945.html	2339
+白杰飞		6		山西省		http://sft.shanxi.gov.cn/zwgk/fdzdgknr/zzjg/ldxx/	山西省司法厅党委委员、副厅长		山西省司法厅	http://sft.shanxi.gov.cn/zwgk/fdzdgknr/zzjg/ldxx/201911/t20191125_171941.html	2339

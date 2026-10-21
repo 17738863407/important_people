@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李佳		1		全国		https://simm.cas.cn/web/jggk/xrld/	所长		中国科学院上海药物研究所	http://simm.cas.cn/sourcedb/zw/gb2020/xrld/202401/t20240131_6980942.html	4098
+赵健		2		全国		https://simm.cas.cn/web/jggk/xrld/	党委书记 副所长		中国科学院上海药物研究所		4098
+江陆斌		3		全国		https://simm.cas.cn/web/jggk/xrld/	副所长（正局级）		中国科学院上海药物研究所	https://simm.cas.cn/sourcedb/zw/gb2020/xrld/202507/t20250714_7887049.html	4098
+赵强		4		全国		https://simm.cas.cn/web/jggk/xrld/	副所长		中国科学院上海药物研究所	https://simm.cas.cn/sourcedb/zw/gb2020/xrld/202401/t20240131_6980963.html	4098
+黄智静		5		全国		https://simm.cas.cn/web/jggk/xrld/	纪委书记		中国科学院上海药物研究所		4098
+周兵		6		全国		https://simm.cas.cn/web/jggk/xrld/	副所长		中国科学院上海药物研究所	https://simm.cas.cn/sourcedb/zw/gb2020/xrld/202401/t20240131_6981020.html	4098
+张晓明		7		全国		https://simm.cas.cn/web/jggk/xrld/	副所长		中国科学院上海药物研究所	https://simm.cas.cn/sourcedb/zw/gb2020/xrld/202507/t20250714_7887040.html	4098

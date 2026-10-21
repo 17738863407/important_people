@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马丽		1		辽宁省		https://sjt.ln.gov.cn/sjt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组书记、厅长		辽宁省审计厅	https://sjt.ln.gov.cn/sjt/zfxxgk/fdzdgknr/jgjj/bmld/ml/index.shtml	2455
+弥跃旭		2		辽宁省		https://sjt.ln.gov.cn/sjt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省审计厅	https://sjt.ln.gov.cn/sjt/zfxxgk/fdzdgknr/jgjj/bmld/myx/index.shtml	2455
+许东辉		3		辽宁省		https://sjt.ln.gov.cn/sjt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省审计厅	https://sjt.ln.gov.cn/sjt/zfxxgk/fdzdgknr/jgjj/bmld/xdh/index.shtml	2455
+张文杰		4		辽宁省		https://sjt.ln.gov.cn/sjt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、总审计师		辽宁省审计厅	https://sjt.ln.gov.cn/sjt/zfxxgk/fdzdgknr/jgjj/bmld/lgh/index.shtml	2455
+姜松龄		5		辽宁省		https://sjt.ln.gov.cn/sjt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省审计厅	https://sjt.ln.gov.cn/sjt/zfxxgk/fdzdgknr/jgjj/bmld/jsl/index.shtml	2455
+苏欣		6		辽宁省		https://sjt.ln.gov.cn/sjt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省审计厅	https://sjt.ln.gov.cn/sjt/zfxxgk/fdzdgknr/jgjj/bmld/sx/index.shtml	2455
+张武军		7		辽宁省		https://sjt.ln.gov.cn/sjt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员		辽宁省审计厅	https://sjt.ln.gov.cn/sjt/zfxxgk/fdzdgknr/jgjj/bmld/zwj/index.shtml	2455

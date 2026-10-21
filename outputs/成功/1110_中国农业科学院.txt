@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄三文		1		全国		https://www.caas.cn/	农业农村部党组成员 中国农业科学院院长、党组副书记		中国农业科学院	https://www.caas.cn/zzjg/yld/yc/ef30d909599d46f2949232c3929e29d4.htm	1110
+杨振海		2		全国		https://www.caas.cn/	中国农业科学院 党组书记		中国农业科学院	https://www.caas.cn/zzjg/yld/dzsj/94a0c5ace27a415a956c9b92ec7a0032.htm	1110
+周若辉		3		全国		https://www.caas.cn/	中国农业科学院 纪检组组长、党组成员		中国农业科学院	https://www.caas.cn/zzjg/yld/fyc/c09d1f7243ec44bfb8d3a51ee6b6a879.htm	1110
+叶玉江		4		全国		https://www.caas.cn/	中国农业科学院 副院长、党组成员		中国农业科学院	https://www.caas.cn/zzjg/yld/fyc/06a192c3a2f84257a5738301c4e88f24.htm	1110
+孙坦		5		全国		https://www.caas.cn/	中国农业科学院 副院长、党组成员		中国农业科学院	https://www.caas.cn/zzjg/yld/fyc/09a3be52374741288f49cbbed85f5c2f.htm	1110
+刘现武		6		全国		https://www.caas.cn/	中国农业科学院 副院长、党组成员		中国农业科学院	https://www.caas.cn/zzjg/yld/fyc/8bf65c5ff3b441ef906191f563022c8c.htm	1110
+曹永生		7		全国		https://www.caas.cn/	中国农业科学院 副院长、党组成员		中国农业科学院	https://www.caas.cn/zzjg/yld/fyc/39e0c3861a1f4f97baf6a4bfc9de93d3.htm	1110
+陈华宁		8		全国		https://www.caas.cn/	中国农业科学院 党组成员		中国农业科学院	https://www.caas.cn/zzjg/yld/fyc/b88d57e661494b579d94d93e7b4fed66.htm	1110

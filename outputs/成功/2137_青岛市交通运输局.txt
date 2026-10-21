@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+路玉军		1		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/jtys/gkml/jgxx/202311/t20231117_7664966.shtml	市交通运输局党组书记、局长		青岛市交通运输局		2137
+袁海波		2		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/jtys/gkml/jgxx/202311/t20231117_7664966.shtml	市交通运输局党组成员、副局长		青岛市交通运输局		2137
+戚永战		3		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/jtys/gkml/jgxx/202311/t20231117_7664966.shtml	市交通运输局党组成员、副局长		青岛市交通运输局		2137
+乔文锋		4		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/jtys/gkml/jgxx/202311/t20231117_7664966.shtml	市交通运输局党组成员、副局长		青岛市交通运输局		2137
+初立平		5		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/jtys/gkml/jgxx/202311/t20231117_7664966.shtml	市交通运输局党组成员、副局长		青岛市交通运输局		2137
+司家来		6		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/jtys/gkml/jgxx/202311/t20231117_7664966.shtml	市交通运输局副局级领导干部		青岛市交通运输局		2137
+徐光辉		7		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/jtys/gkml/jgxx/202311/t20231117_7664966.shtml	市邮政管理局党组书记、局长，市交通运输局副局长		青岛市交通运输局		2137

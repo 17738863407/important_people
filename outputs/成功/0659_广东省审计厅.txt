@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吕成蹊		1		广东省		http://gdaudit.gd.gov.cn/ldcy/index.html	十四届全国人大代表，十三届省委委员，省审计厅党组书记、厅长		广东省审计厅	http://gdaudit.gd.gov.cn/ldcy/content/post_4885803.html	0659
+刘柱棠		2		广东省		http://gdaudit.gd.gov.cn/ldcy/index.html	省审计厅党组成员、副厅长		广东省审计厅	http://gdaudit.gd.gov.cn/ldcy/content/post_4237826.html	0659
+曾宏武		3		广东省		http://gdaudit.gd.gov.cn/ldcy/index.html	省审计厅党组成员、副厅长		广东省审计厅	http://gdaudit.gd.gov.cn/ldcy/content/post_4737643.html	0659
+侯志勇		4		广东省		http://gdaudit.gd.gov.cn/ldcy/index.html	省审计厅党组成员、省经济责任审计联席会议办公室主任（副厅级）		广东省审计厅	http://gdaudit.gd.gov.cn/ldcy/content/post_4237831.html	0659
+毛俊伟		5		广东省		http://gdaudit.gd.gov.cn/ldcy/index.html	省审计厅党组成员、副厅长		广东省审计厅	http://gdaudit.gd.gov.cn/ldcy/content/post_4832141.html	0659

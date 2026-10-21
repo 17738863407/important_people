@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨光华		1		湖南省	长沙市	http://szj.changsha.gov.cn/xxgk/fdzdgk/jgjs/ldxx_1671/	党组书记、局长		长沙市民族宗教事务局	http://szj.changsha.gov.cn/xxgk/fdzdgk/jgjs/ldxx_1671/202503/t20250318_11782461.html	2667
+刘立新		2		湖南省	长沙市	http://szj.changsha.gov.cn/xxgk/fdzdgk/jgjs/ldxx_1671/	党组成员、副局长		长沙市民族宗教事务局	http://szj.changsha.gov.cn/xxgk/fdzdgk/jgjs/ldxx_1671/201505/t20150514_2133343.html	2667
+张晓鸣		3		湖南省	长沙市	http://szj.changsha.gov.cn/xxgk/fdzdgk/jgjs/ldxx_1671/	党组成员、副局长		长沙市民族宗教事务局	http://szj.changsha.gov.cn/xxgk/fdzdgk/jgjs/ldxx_1671/201702/t20170222_2133341.html	2667
+吴丹		4		湖南省	长沙市	http://szj.changsha.gov.cn/xxgk/fdzdgk/jgjs/ldxx_1671/	党组成员、副局长		长沙市民族宗教事务局	http://szj.changsha.gov.cn/xxgk/fdzdgk/jgjs/ldxx_1671/202409/t20240925_11604558.html	2667

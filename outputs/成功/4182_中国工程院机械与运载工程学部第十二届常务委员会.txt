@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙聪		1		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	主任		中国工程院机械与运载工程学部第十二届常务委员会		4182
+邓宗全		2		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	副主任：邓宗全、杨德森、周志成		中国工程院机械与运载工程学部第十二届常务委员会		4182
+杨德森		3		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	副主任：邓宗全、杨德森、周志成		中国工程院机械与运载工程学部第十二届常务委员会		4182
+周志成		4		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	副主任：邓宗全、杨德森、周志成		中国工程院机械与运载工程学部第十二届常务委员会		4182

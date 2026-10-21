@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈晓		1		云南省	昆明市	https://wb.km.gov.cn/zfxxgkml/fdzdgknr/ldxx/	党组书记、主任		昆明市人民政府外事办公室	https://wb.km.gov.cn/c/2025-06-23/5041996.shtml	2855
+何珺		2		云南省	昆明市	https://wb.km.gov.cn/zfxxgkml/fdzdgknr/ldxx/	党组成员、副主任		昆明市人民政府外事办公室	https://wb.km.gov.cn/c/2026-09-15/5112332.shtml	2855
+应雯		3		云南省	昆明市	https://wb.km.gov.cn/zfxxgkml/fdzdgknr/ldxx/	党组成员、副主任		昆明市人民政府外事办公室	https://wb.km.gov.cn/c/2026-09-15/5112313.shtml	2855
+刘智兴		4		云南省	昆明市	https://wb.km.gov.cn/zfxxgkml/fdzdgknr/ldxx/	党组成员、市友协专职副会长		昆明市人民政府外事办公室	https://wb.km.gov.cn/c/2025-06-23/5042001.shtml	2855

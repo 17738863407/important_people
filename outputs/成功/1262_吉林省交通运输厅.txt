@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+季景伟		1		吉林省		https://jtyst.jl.gov.cn/jg_133173/ldjs/	厅党组书记、厅长		吉林省交通运输厅	https://jtyst.jl.gov.cn/jg_133173/ldjs/jjw/	1262
+孟昕		2		吉林省		https://jtyst.jl.gov.cn/jg_133173/ldjs/	一级巡视员		吉林省交通运输厅	https://jtyst.jl.gov.cn/jg_133173/ldjs/mx/	1262
+王利民		3		吉林省		https://jtyst.jl.gov.cn/jg_133173/ldjs/	厅党组成员、驻厅纪检监察组组长		吉林省交通运输厅	https://jtyst.jl.gov.cn/jg_133173/ldjs/wlm/	1262
+张鹏军		4		吉林省		https://jtyst.jl.gov.cn/jg_133173/ldjs/	厅党组成员、副厅长		吉林省交通运输厅	https://jtyst.jl.gov.cn/jg_133173/ldjs/zpj/	1262
+赵福臣		5		吉林省		https://jtyst.jl.gov.cn/jg_133173/ldjs/	厅党组成员、副厅长		吉林省交通运输厅	https://jtyst.jl.gov.cn/jg_133173/ldjs/zfc/	1262
+贾宁		6		吉林省		https://jtyst.jl.gov.cn/jg_133173/ldjs/	厅党组成员、副厅长		吉林省交通运输厅	https://jtyst.jl.gov.cn/jg_133173/ldjs/jn/	1262
+张明杰		7		吉林省		https://jtyst.jl.gov.cn/jg_133173/ldjs/	厅党组成员、副厅长		吉林省交通运输厅	https://jtyst.jl.gov.cn/jg_133173/ldjs/zmj/	1262
+黄俊生		8		吉林省		https://jtyst.jl.gov.cn/jg_133173/ldjs/	厅党组成员、副厅长		吉林省交通运输厅	https://jtyst.jl.gov.cn/jg_133173/ldjs/hjs/	1262
+李欣		9		吉林省		https://jtyst.jl.gov.cn/jg_133173/ldjs/	厅党组成员、省高等级公路建设局局长		吉林省交通运输厅	https://jtyst.jl.gov.cn/jg_133173/ldjs/lx/	1262
+史昌盛		10		吉林省		https://jtyst.jl.gov.cn/jg_133173/ldjs/	厅党组成员、总工程师		吉林省交通运输厅	https://jtyst.jl.gov.cn/jg_133173/ldjs/scs/	1262
+侯延波		11		吉林省		https://jtyst.jl.gov.cn/jg_133173/ldjs/	副厅长、省邮政管理局党组书记、局长		吉林省交通运输厅	https://jtyst.jl.gov.cn/jg_133173/ldjs/hyb/	1262

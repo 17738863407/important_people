@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李莉		1		全国		https://www.most.gov.cn/zzjg/jgsz/rss/	司长		科学技术部人事司		1682
+肖立春		2		全国		https://www.most.gov.cn/zzjg/jgsz/rss/	副司长		科学技术部人事司		1682
+王晓		3		全国		https://www.most.gov.cn/zzjg/jgsz/rss/	副司长		科学技术部人事司		1682

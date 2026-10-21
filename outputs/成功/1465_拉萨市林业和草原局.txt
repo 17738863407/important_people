@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+尹培凤		1		西藏自治区	拉萨市	http://lycyj.lasa.gov.cn/lycy/shuji/ldxx_list.shtml	党组书记、副局长		拉萨市林业和草原局	http://lycyj.lasa.gov.cn/lycy/shuji/202408/c1f7256161124905a4fe6099d880edb8.shtml	1465
+卢立芳		2		西藏自治区	拉萨市	http://lycyj.lasa.gov.cn/lycy/shuji/ldxx_list.shtml	党组成员、副局长		拉萨市林业和草原局	http://lycyj.lasa.gov.cn/lycy/ehsz/202410/c4671163a9794080b95b00ba242d527e.shtml	1465
+巴桑次仁		3		西藏自治区	拉萨市	http://lycyj.lasa.gov.cn/lycy/shuji/ldxx_list.shtml	党组成员、副局长		拉萨市林业和草原局	http://lycyj.lasa.gov.cn/lycy/ehsz/202408/4e211e33c68e454e9319beb739ee0975.shtml	1465
+蒋万杰		4		西藏自治区	拉萨市	http://lycyj.lasa.gov.cn/lycy/shuji/ldxx_list.shtml	党组成员、副局长		拉萨市林业和草原局	http://lycyj.lasa.gov.cn/lycy/ehsz/202603/0057f6afa0424544abfbe3b43f6351f8.shtml	1465
+祁焕朝		5		西藏自治区	拉萨市	http://lycyj.lasa.gov.cn/lycy/shuji/ldxx_list.shtml	党组成员、副局长		拉萨市林业和草原局	http://lycyj.lasa.gov.cn/lycy/ehsz/202603/9dad782a6531410883e6dd2f8155aa0f.shtml	1465
+赵光超		6		西藏自治区	拉萨市	http://lycyj.lasa.gov.cn/lycy/shuji/ldxx_list.shtml	党组成员、三级调研员		拉萨市林业和草原局	http://lycyj.lasa.gov.cn/lycy/fdyy/202606/ee9542ecdf6545988a38fac140c78609.shtml	1465
+李宝平		7		西藏自治区	拉萨市	http://lycyj.lasa.gov.cn/lycy/shuji/ldxx_list.shtml	拉萨市林业和草原局二级调研员		拉萨市林业和草原局	http://lycyj.lasa.gov.cn/lycy/fdyy/202408/2b7c7c7ee7c1480abdceffe47af872f5.shtml	1465
+何昆峰		8		西藏自治区	拉萨市	http://lycyj.lasa.gov.cn/lycy/shuji/ldxx_list.shtml	拉萨市林业和草原局三级调研员		拉萨市林业和草原局	http://lycyj.lasa.gov.cn/lycy/fdyy/202308/761d6fe9ce1742c9900efbd46324c2c8.shtml	1465

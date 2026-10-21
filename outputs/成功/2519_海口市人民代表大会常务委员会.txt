@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蔡琼雅		1		海南省	海口市	http://spcsc.haikou.gov.cn/zrzc/	2026.02-- 海口市人大常委会党组书记、主任		海口市人民代表大会常务委员会	http://spcsc.haikou.gov.cn/zrzc/202602/t1507165.shtml	2519
+蔡君		2		海南省	海口市	http://spcsc.haikou.gov.cn/zrzc/	海口市人大常委会党组成员、副主任		海口市人民代表大会常务委员会	http://spcsc.haikou.gov.cn/zrzc/202202/t499306.shtml	2519
+刘华		3		海南省	海口市	http://spcsc.haikou.gov.cn/zrzc/	海口市人大常委会副主任，民建海口市委会主委，海口市社会主义学院院长		海口市人民代表大会常务委员会	http://spcsc.haikou.gov.cn/zrzc/202202/t499304.shtml	2519
+黄娟		4		海南省	海口市	http://spcsc.haikou.gov.cn/zrzc/	海口市人大常委会党组成员、副主任		海口市人民代表大会常务委员会	http://spcsc.haikou.gov.cn/zrzc/202602/t1507166.shtml	2519
+刘建		5		海南省	海口市	http://spcsc.haikou.gov.cn/zrzc/	海口市人大常委会秘书长、党组成员，市人大常委会机关党组书记		海口市人民代表大会常务委员会	http://spcsc.haikou.gov.cn/zrzc/202402/t1341479.shtml	2519

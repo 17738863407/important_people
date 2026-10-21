@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+丘毅		1		福建省		http://yjt.fujian.gov.cn/zwgk/jggk/ldzc/yjglt/qy/	厅党委书记、厅长		福建省应急管理厅		3238
+戴文鹏		2		福建省		http://yjt.fujian.gov.cn/zwgk/jggk/ldzc/yjglt/qy/	厅党委委员、国家矿山安全监察局福建局局长		福建省应急管理厅	http://yjt.fujian.gov.cn/zwgk/jggk/ldzc/yjglt/dwp/	3238
+关中安		3		福建省		http://yjt.fujian.gov.cn/zwgk/jggk/ldzc/yjglt/qy/	厅党委委员、省消防救援总队总队长		福建省应急管理厅	http://yjt.fujian.gov.cn/zwgk/jggk/ldzc/yjglt/gza/	3238
+王永军		4		福建省		http://yjt.fujian.gov.cn/zwgk/jggk/ldzc/yjglt/qy/	厅党委委员、福建消防救援机动总队总队长		福建省应急管理厅	http://yjt.fujian.gov.cn/zwgk/jggk/ldzc/yjglt/wyj/	3238
+康文杰		5		福建省		http://yjt.fujian.gov.cn/zwgk/jggk/ldzc/yjglt/qy/	厅党委委员、驻厅纪检监察组组长、一级巡视员		福建省应急管理厅	http://yjt.fujian.gov.cn/zwgk/jggk/ldzc/yjglt/kwj/	3238
+姚朝钟		6		福建省		http://yjt.fujian.gov.cn/zwgk/jggk/ldzc/yjglt/qy/	厅党委委员、副厅长		福建省应急管理厅	http://yjt.fujian.gov.cn/zwgk/jggk/ldzc/yjglt/ycz/	3238
+黄德学		7		福建省		http://yjt.fujian.gov.cn/zwgk/jggk/ldzc/yjglt/qy/	厅党委委员、副厅长		福建省应急管理厅	http://yjt.fujian.gov.cn/zwgk/jggk/ldzc/yjglt/hdx/	3238
+梁立峰		8		福建省		http://yjt.fujian.gov.cn/zwgk/jggk/ldzc/yjglt/qy/	厅党委委员、副厅长		福建省应急管理厅	http://yjt.fujian.gov.cn/zwgk/jggk/ldzc/yjglt/llf/	3238
+李杰		9		福建省		http://yjt.fujian.gov.cn/zwgk/jggk/ldzc/yjglt/qy/	厅党委委员、副厅长		福建省应急管理厅	http://yjt.fujian.gov.cn/zwgk/jggk/ldzc/yjglt/lj/	3238

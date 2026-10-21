@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蔡俏		1		海南省	海口市	http://tyjr.haikou.gov.cn/xxgk/fdzdgknr/	海口市退役军人事务局党组书记、局长		海口市退役军人事务局	http://tyjr.haikou.gov.cn/xxgk/ldxx/202204/t791119.shtml	2797
+张帅		2		海南省	海口市	http://tyjr.haikou.gov.cn/xxgk/fdzdgknr/	海口市退役军人事务局党组成员、副局长		海口市退役军人事务局	http://tyjr.haikou.gov.cn/xxgk/ldxx/202204/t791103.shtml	2797
+陈锋		3		海南省	海口市	http://tyjr.haikou.gov.cn/xxgk/fdzdgknr/	党组成员、副局长		海口市退役军人事务局	http://tyjr.haikou.gov.cn/xxgk/ldxx/202604/t1517760.shtml	2797
+黄爱光		4		海南省	海口市	http://tyjr.haikou.gov.cn/xxgk/fdzdgknr/	海口市退役军人事务局党组成员、副局长		海口市退役军人事务局	http://tyjr.haikou.gov.cn/xxgk/ldxx/202408/t1373183.shtml	2797
+刘洪泉		5		海南省	海口市	http://tyjr.haikou.gov.cn/xxgk/fdzdgknr/	海口市退役军人事务局党组成员，市退役军人服务中心主任(副处级)		海口市退役军人事务局	http://tyjr.haikou.gov.cn/xxgk/ldxx/202204/t790982.shtml	2797
+黄洪林		6		海南省	海口市	http://tyjr.haikou.gov.cn/xxgk/fdzdgknr/	二级调研员		海口市退役军人事务局	http://tyjr.haikou.gov.cn/xxgk/ldxx/202604/t1517761.shtml	2797

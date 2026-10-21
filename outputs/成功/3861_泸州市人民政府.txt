@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张伟		1		四川省	泸州市	https://www.luzhou.gov.cn/ld	市长		泸州市人民政府	https://www.luzhou.gov.cn/ld/sz/content_1067838	3861
+刘峰		2		四川省	泸州市	https://www.luzhou.gov.cn/ld	副市长		泸州市人民政府	https://www.luzhou.gov.cn/ld/fsz/content_1054002	3861
+靳地胜		3		四川省	泸州市	https://www.luzhou.gov.cn/ld	副市长		泸州市人民政府	https://www.luzhou.gov.cn/ld/fsz/content_848748	3861
+李凯		4		四川省	泸州市	https://www.luzhou.gov.cn/ld	副市长		泸州市人民政府	https://www.luzhou.gov.cn/ld/fsz/content_1149785	3861
+罗素平		5		四川省	泸州市	https://www.luzhou.gov.cn/ld	副市长		泸州市人民政府	https://www.luzhou.gov.cn/ld/fsz/content_848746	3861
+任晓波		6		四川省	泸州市	https://www.luzhou.gov.cn/ld	副市长		泸州市人民政府	https://www.luzhou.gov.cn/ld/fsz/content_1021740	3861
+朱江		7		四川省	泸州市	https://www.luzhou.gov.cn/ld	副市长		泸州市人民政府	https://www.luzhou.gov.cn/ld/fsz/content_1068510	3861
+郭真明		8		四川省	泸州市	https://www.luzhou.gov.cn/ld	副市长		泸州市人民政府	https://www.luzhou.gov.cn/ld/fsz/content_1069754	3861
+刘中贵		9		四川省	泸州市	https://www.luzhou.gov.cn/ld	秘书长		泸州市人民政府	https://www.luzhou.gov.cn/ld/msz/content_1149314	3861

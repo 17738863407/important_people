@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑进达		1		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218903/index.html	宁波市医疗保障局局长、党组书记、一级巡视员		宁波市医疗保障局	https://www.ningbo.gov.cn/art/2020/7/28/art_1229218903_26178.html	1941
+林君伦		2		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218903/index.html	宁波市医疗保障局副局长、党组副书记		宁波市医疗保障局	https://www.ningbo.gov.cn/art/2022/9/19/art_1229218903_133804.html	1941
+陈亚南		3		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218903/index.html	宁波市医疗保障局副局长、党组成员		宁波市医疗保障局	https://www.ningbo.gov.cn/art/2022/1/19/art_1229218903_120916.html	1941
+陈勃		4		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218903/index.html	宁波市医疗保障局副局长、党组成员		宁波市医疗保障局	https://www.ningbo.gov.cn/art/2022/1/19/art_1229218903_120919.html	1941
+江宏伟		5		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218903/index.html	宁波市医疗保障局党组成员、二级巡视员		宁波市医疗保障局	https://www.ningbo.gov.cn/art/2020/7/28/art_1229218903_26175.html	1941
+吕剑		6		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218903/index.html	宁波市医疗保障局党组成员、办公室主任		宁波市医疗保障局	https://www.ningbo.gov.cn/art/2025/10/31/art_1229218903_182215.html	1941

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡学春		1		天津市		https://csgl.tj.gov.cn/zwgk_57/ldxx/202403/t20240330_6586634.html	天津市城市管理委员会党组书记、主任		天津市城市管理委员会		0339
+刘启阁		2		天津市		https://csgl.tj.gov.cn/zwgk_57/ldxx/202403/t20240330_6586634.html	天津市城市管理委员会党组成员、一级巡视员		天津市城市管理委员会	https://csgl.tj.gov.cn/zwgk_57/ldxx/202011/t20201112_4067787.html	0339
+王艳玲		3		天津市		https://csgl.tj.gov.cn/zwgk_57/ldxx/202403/t20240330_6586634.html	天津市城市管理委员会党组成员、副主任		天津市城市管理委员会	https://csgl.tj.gov.cn/zwgk_57/ldxx/202011/t20201112_4067780.html	0339
+焦勇		4		天津市		https://csgl.tj.gov.cn/zwgk_57/ldxx/202403/t20240330_6586634.html	天津市城市管理委员会党组成员、副主任、一级巡视员		天津市城市管理委员会	https://csgl.tj.gov.cn/zwgk_57/ldxx/202306/t20230616_6277725.html	0339
+张捷		5		天津市		https://csgl.tj.gov.cn/zwgk_57/ldxx/202403/t20240330_6586634.html	天津市城市管理委员会党组成员、副主任		天津市城市管理委员会	https://csgl.tj.gov.cn/zwgk_57/ldxx/202011/t20201112_4067784.html	0339
+宋国斌		6		天津市		https://csgl.tj.gov.cn/zwgk_57/ldxx/202403/t20240330_6586634.html	天津市城市管理委员会党组成员、驻委纪检监察组组长		天津市城市管理委员会	https://csgl.tj.gov.cn/zwgk_57/ldxx/202409/t20240929_6742610.html	0339
+蔺金太		7		天津市		https://csgl.tj.gov.cn/zwgk_57/ldxx/202403/t20240330_6586634.html	天津市城市管理委员会党组成员、副主任		天津市城市管理委员会	https://csgl.tj.gov.cn/zwgk_57/ldxx/202411/t20241121_6785545.html	0339
+赵勇		8		天津市		https://csgl.tj.gov.cn/zwgk_57/ldxx/202403/t20240330_6586634.html	天津市城市管理委员会党组成员、副主任		天津市城市管理委员会	https://csgl.tj.gov.cn/zwgk_57/ldxx/202603/t20260331_7272932.html	0339

@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+童刚		1		宁夏回族自治区	固原市	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/swld/202105/t20210524_2853391.html	市长		固原市人民政府	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/zfld/202203/t20220321_3387244.html	4395
+宗立冬		2		宁夏回族自治区	固原市	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/swld/202105/t20210524_2853391.html	副市长		固原市人民政府	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/zfld/202607/t20260706_5282375.html	4395
+顾永清		3		宁夏回族自治区	固原市	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/swld/202105/t20210524_2853391.html	副市长		固原市人民政府	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/zfld/202609/t20260910_5341812.html	4395
+张鸿		4		宁夏回族自治区	固原市	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/swld/202105/t20210524_2853391.html	副市长		固原市人民政府	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/zfld/202509/t20250904_5010412.html	4395
+孙伟		5		宁夏回族自治区	固原市	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/swld/202105/t20210524_2853391.html	副市长		固原市人民政府	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/zfld/202406/t20240619_4569039.html	4395
+杨生俊		6		宁夏回族自治区	固原市	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/swld/202105/t20210524_2853391.html	副市长		固原市人民政府	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/zfld/202201/t20220105_3273857.html	4395
+何德昕		7		宁夏回族自治区	固原市	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/swld/202105/t20210524_2853391.html	副市长		固原市人民政府	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/zfld/202504/t20250410_4877753.html	4395
+高军		8		宁夏回族自治区	固原市	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/swld/202105/t20210524_2853391.html	副市长		固原市人民政府	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/zfld/201812/t20181211_1205136.html	4395
+李国才		9		宁夏回族自治区	固原市	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/swld/202105/t20210524_2853391.html	市政府党组成员		固原市人民政府	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/zfld/202212/t20221219_3892593.html	4395
+杨军		10		宁夏回族自治区	固原市	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/swld/202105/t20210524_2853391.html	秘书长		固原市人民政府	https://www.nxgy.gov.cn/zwgk/zfxxgkml/ldzc_1/zfld/202201/t20220106_3274794.html	4395

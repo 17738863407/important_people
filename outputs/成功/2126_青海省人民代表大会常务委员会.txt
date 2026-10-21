@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴晓军		1		全国		https://www.qhrd.gov.cn/zrzc/	主任		青海省人民代表大会常务委员会	https://www.qhrd.gov.cn/zrzc/zr_192/wxj/	2126
+杨逢春		2		全国		https://www.qhrd.gov.cn/zrzc/	副主任		青海省人民代表大会常务委员会	https://www.qhrd.gov.cn/zrzc/fzr_193/yfc/	2126
+刘同德		3		全国		https://www.qhrd.gov.cn/zrzc/	副主任		青海省人民代表大会常务委员会	https://www.qhrd.gov.cn/zrzc/fzr_193/ltd/	2126
+张黄元		4		全国		https://www.qhrd.gov.cn/zrzc/	副主任		青海省人民代表大会常务委员会	https://www.qhrd.gov.cn/zrzc/fzr_193/zhy/	2126
+吕刚		5		全国		https://www.qhrd.gov.cn/zrzc/	副主任		青海省人民代表大会常务委员会	https://www.qhrd.gov.cn/zrzc/fzr_193/lg/	2126
+王敬斋		6		全国		https://www.qhrd.gov.cn/zrzc/	副主任		青海省人民代表大会常务委员会	https://www.qhrd.gov.cn/zrzc/fzr_193/wjz/	2126
+蔡成勇		7		全国		https://www.qhrd.gov.cn/zrzc/	副主任		青海省人民代表大会常务委员会	https://www.qhrd.gov.cn/zrzc/fzr_193/ccy/	2126
+陈东昌		8		全国		https://www.qhrd.gov.cn/zrzc/	秘书长		青海省人民代表大会常务委员会	https://www.qhrd.gov.cn/zrzc/msz_194/cdcmsz/	2126

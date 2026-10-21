@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡炜		1		全国		https://www.csc.edu.cn/about/xianrenlingdao	国家留学基金管理委员会党委书记、秘书长		国家留学基金管理委员会	https://www.csc.edu.cn/about/xianrenlingdao/4221	0332
+李青		2		全国		https://www.csc.edu.cn/about/xianrenlingdao	国家留学基金管理委员会副秘书长		国家留学基金管理委员会	https://www.csc.edu.cn/about/xianrenlingdao/1040	0332
+张俊		3		全国		https://www.csc.edu.cn/about/xianrenlingdao	国家留学基金管理委员会党委副书记、纪委书记		国家留学基金管理委员会	https://www.csc.edu.cn/about/xianrenlingdao/2667	0332

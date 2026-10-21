@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+强娟		1		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycsyhyshjcjj/fdzdgknr_73720/gkxx_73721/ldxx_73723/202608/t20260803_5305057.html	银川市营商环境促进局党组书记、局长		银川市营商环境促进局		3186
+陈彦萍		2		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycsyhyshjcjj/fdzdgknr_73720/gkxx_73721/ldxx_73723/202608/t20260803_5305057.html	银川市营商环境促进局党组成员、副局长、三级调研员		银川市营商环境促进局		3186
+黄海泉		3		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/ycsyhyshjcjj/fdzdgknr_73720/gkxx_73721/ldxx_73723/202608/t20260803_5305057.html	银川市营商环境促进局党组成员、副局长、三级调研员		银川市营商环境促进局		3186

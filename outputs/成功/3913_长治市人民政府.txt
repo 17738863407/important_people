@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+龚孟建		1		山西省	长治市	https://www.changzhi.gov.cn/xxgkml/zfxxgkml/czsrmzf/zzjg_3373/ldxx_3374/	市长		长治市人民政府	https://www.changzhi.gov.cn/xwzx/szsjzj/szlm/cxy/	3913
+耿鹏鹏		2		山西省	长治市	https://www.changzhi.gov.cn/xxgkml/zfxxgkml/czsrmzf/zzjg_3373/ldxx_3374/	副市长		长治市人民政府	https://www.changzhi.gov.cn/xwzx/szsjzj/cwfsz/gpp/	3913
+庞明明		3		山西省	长治市	https://www.changzhi.gov.cn/xxgkml/zfxxgkml/czsrmzf/zzjg_3373/ldxx_3374/	副市长		长治市人民政府	https://www.changzhi.gov.cn/xwzx/szsjzj/fsz/pmm/	3913
+张萌萌		4		山西省	长治市	https://www.changzhi.gov.cn/xxgkml/zfxxgkml/czsrmzf/zzjg_3373/ldxx_3374/	副市长		长治市人民政府	https://www.changzhi.gov.cn/xwzx/szsjzj/fsz/zmm/	3913
+朱静		5		山西省	长治市	https://www.changzhi.gov.cn/xxgkml/zfxxgkml/czsrmzf/zzjg_3373/ldxx_3374/	副市长		长治市人民政府	https://www.changzhi.gov.cn/xwzx/szsjzj/fsz/zj/	3913
+秦苏良		6		山西省	长治市	https://www.changzhi.gov.cn/xxgkml/zfxxgkml/czsrmzf/zzjg_3373/ldxx_3374/	副市长		长治市人民政府	https://www.changzhi.gov.cn/xwzx/szsjzj/fsz/qsl/	3913
+邢张朋		7		山西省	长治市	https://www.changzhi.gov.cn/xxgkml/zfxxgkml/czsrmzf/zzjg_3373/ldxx_3374/	副市长		长治市人民政府	https://www.changzhi.gov.cn/xwzx/szsjzj/fsz/xzm/	3913
+白文军		8		山西省	长治市	https://www.changzhi.gov.cn/xxgkml/zfxxgkml/czsrmzf/zzjg_3373/ldxx_3374/	副市长		长治市人民政府	https://www.changzhi.gov.cn/xwzx/szsjzj/fsz/bwj/	3913
+慕颖		9		山西省	长治市	https://www.changzhi.gov.cn/xxgkml/zfxxgkml/czsrmzf/zzjg_3373/ldxx_3374/	副市长		长治市人民政府	https://www.changzhi.gov.cn/xwzx/szsjzj/fsz/my/	3913
+桑利刚		10		山西省	长治市	https://www.changzhi.gov.cn/xxgkml/zfxxgkml/czsrmzf/zzjg_3373/ldxx_3374/	秘书长		长治市人民政府	https://www.changzhi.gov.cn/xwzx/szsjzj/msz/slg/	3913

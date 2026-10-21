@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱守科		1		西藏自治区		http://gat.xizang.gov.cn/zwgk_3249/jggk_221/ldjj/	西藏自治区人民政府副主席，自治区党委政法委副书记，自治区公安厅党委书记、厅长、督察长		西藏自治区公安厅		0641
+普卫东		2		西藏自治区		http://gat.xizang.gov.cn/zwgk_3249/jggk_221/ldjj/	自治区公安厅党委副书记、分管日常工作的副厅长（正厅级）		西藏自治区公安厅		0641
+幸世军		3		西藏自治区		http://gat.xizang.gov.cn/zwgk_3249/jggk_221/ldjj/	自治区公安厅党委副书记、副厅长		西藏自治区公安厅		0641
+黄东升		4		西藏自治区		http://gat.xizang.gov.cn/zwgk_3249/jggk_221/ldjj/	自治区公安厅党委委员、政治部主任		西藏自治区公安厅		0641
+赵尔才		5		西藏自治区		http://gat.xizang.gov.cn/zwgk_3249/jggk_221/ldjj/	自治区公安厅党委委员、副厅长		西藏自治区公安厅		0641
+张宏发		6		西藏自治区		http://gat.xizang.gov.cn/zwgk_3249/jggk_221/ldjj/	自治区公安厅党委委员、自治区纪委监委驻自治区公安厅纪检监察组组长		西藏自治区公安厅		0641
+房军		7		西藏自治区		http://gat.xizang.gov.cn/zwgk_3249/jggk_221/ldjj/	自治区公安厅党委委员，西藏警官高等专科学校党委书记、副校长		西藏自治区公安厅		0641
+索朗扎巴		8		西藏自治区		http://gat.xizang.gov.cn/zwgk_3249/jggk_221/ldjj/	自治区公安厅党委委员、副厅长		西藏自治区公安厅		0641
+谢祥萍		9		西藏自治区		http://gat.xizang.gov.cn/zwgk_3249/jggk_221/ldjj/	自治区公安厅党委委员、副厅长		西藏自治区公安厅		0641
+刘宁宁		10		西藏自治区		http://gat.xizang.gov.cn/zwgk_3249/jggk_221/ldjj/	自治区公安厅党委委员、副厅长		西藏自治区公安厅		0641

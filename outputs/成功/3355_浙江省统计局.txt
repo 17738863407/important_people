@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴胜丰		1		浙江省		https://www.zj.gov.cn/dctslm/zjstjj/index.html	浙江省统计局党组书记、局长		浙江省统计局	https://www.zj.gov.cn/art/2021/8/20/art_1229144544_108662.html	3355
+吴家曦		2		浙江省		https://www.zj.gov.cn/dctslm/zjstjj/index.html	浙江省统计局党组副书记、副局长、一级巡视员		浙江省统计局	https://www.zj.gov.cn/art/2022/10/17/art_1229144544_134794.html	3355
+郭慧敏		3		浙江省		https://www.zj.gov.cn/dctslm/zjstjj/index.html	浙江省统计局党组成员、副局长		浙江省统计局	https://www.zj.gov.cn/art/2019/12/5/art_1229144544_93869.html	3355
+刘迎春		4		浙江省		https://www.zj.gov.cn/dctslm/zjstjj/index.html	浙江省统计局党组成员、浙江省地方统计调查队队长		浙江省统计局	https://www.zj.gov.cn/art/2023/7/20/art_1229144544_145876.html	3355
+褚英国		5		浙江省		https://www.zj.gov.cn/dctslm/zjstjj/index.html	浙江省统计局党组成员、副局长		浙江省统计局	https://www.zj.gov.cn/art/2024/9/6/art_1229144544_166216.html	3355
+蔡特		6		浙江省		https://www.zj.gov.cn/dctslm/zjstjj/index.html	浙江省统计局党组成员、 统计执法监督局局长		浙江省统计局	https://www.zj.gov.cn/art/2023/4/10/art_1229144544_142648.html	3355
+徐璐		7		浙江省		https://www.zj.gov.cn/dctslm/zjstjj/index.html	浙江省统计局党组成员、总统计师		浙江省统计局	https://www.zj.gov.cn/col/col1229144544/art/2026/art_26d5df3916466e829a5ca04cc3485c1e.html	3355

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐志军		1		全国		https://www.iziran.net/column-parent-detail.html?id=558070	党委书记、副社长		中国自然资源报社		1102
+王永梅		2		全国		https://www.iziran.net/column-parent-detail.html?id=558070	社长、党委副书记		中国自然资源报社		1102
+刘新春		3		全国		https://www.iziran.net/column-parent-detail.html?id=558070	纪委书记		中国自然资源报社		1102
+周怀龙		4		全国		https://www.iziran.net/column-parent-detail.html?id=558070	副社长		中国自然资源报社		1102
+许勤宇		5		全国		https://www.iziran.net/column-parent-detail.html?id=558070	党委专职副书记		中国自然资源报社		1102
+汤小俊		6		全国		https://www.iziran.net/column-parent-detail.html?id=558070	总编辑		中国自然资源报社		1102
+伊日和		7		全国		https://www.iziran.net/column-parent-detail.html?id=558070	副社长		中国自然资源报社		1102
+车娜		8		全国		https://www.iziran.net/column-parent-detail.html?id=558070	副社长		中国自然资源报社		1102

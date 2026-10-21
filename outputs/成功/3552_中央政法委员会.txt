@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈文清		1		全国		http://www.chinapeace.gov.cn/chinapeace/c100009/ldbd.shtml	书记		中央政法委员会	http://www.chinapeace.gov.cn/chinapeace/c100517/2022-10/25/content_12681777.shtml	3552
+王小洪		2		全国		http://www.chinapeace.gov.cn/chinapeace/c100009/ldbd.shtml	副书记		中央政法委员会	https://www.mps.gov.cn/n2254314/n2254315/n2254317/n4894885/index.html	3552
+张军		3		全国		http://www.chinapeace.gov.cn/chinapeace/c100009/ldbd.shtml	委员		中央政法委员会	http://www.news.cn/politics/2023lh/2023-03/12/c_1129427338.htm	3552
+应勇		4		全国		http://www.chinapeace.gov.cn/chinapeace/c100009/ldbd.shtml	委员		中央政法委员会	http://www.xinhuanet.com/photo/2023-03/12/c_1129427337.htm	3552
+訚柏		5		全国		http://www.chinapeace.gov.cn/chinapeace/c100009/ldbd.shtml	委员；秘书长		中央政法委员会	http://www.chinapeace.gov.cn/chinapeace/c100292/2023-03/21/content_12642211.shtml	3552
+陈一新		6		全国		http://www.chinapeace.gov.cn/chinapeace/c100009/ldbd.shtml	委员		中央政法委员会	http://www.chinapeace.gov.cn/chinapeace/c100293/2023-03/21/content_12642265.shtml	3552
+贺荣		7		全国		http://www.chinapeace.gov.cn/chinapeace/c100009/ldbd.shtml	委员		中央政法委员会	http://www.moj.gov.cn/pub/sfbgw/jgsz/jgszbldjs/bldhr/index.html	3552
+蔡朝晖		8		全国		http://www.chinapeace.gov.cn/chinapeace/c100009/ldbd.shtml	专职主任(副部长级)		中央政法委员会		3552
+王贻星		9		全国		http://www.chinapeace.gov.cn/chinapeace/c100009/ldbd.shtml	副秘书长		中央政法委员会		3552
+孙晓芳		10		全国		http://www.chinapeace.gov.cn/chinapeace/c100009/ldbd.shtml	副秘书长		中央政法委员会		3552
+胡卫列		11		全国		http://www.chinapeace.gov.cn/chinapeace/c100009/ldbd.shtml	副秘书长		中央政法委员会		3552
+滕继国		12		全国		http://www.chinapeace.gov.cn/chinapeace/c100009/ldbd.shtml	副秘书长		中央政法委员会		3552

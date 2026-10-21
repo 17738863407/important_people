@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+闫萍		1		安徽省	合肥市	https://zfbzfcglj.hefei.gov.cn/public/column/17501?type=4&catId=7036024&action=list&nav=3	局长、党组书记		合肥市住房保障和房产管理局	https://zfbzfcglj.hefei.gov.cn/public/17501/106897691.html	3293
+吴东华		2		安徽省	合肥市	https://zfbzfcglj.hefei.gov.cn/public/column/17501?type=4&catId=7036024&action=list&nav=3	副局长、党组成员		合肥市住房保障和房产管理局	https://zfbzfcglj.hefei.gov.cn/public/17501/104467145.html	3293
+彭纯杰		3		安徽省	合肥市	https://zfbzfcglj.hefei.gov.cn/public/column/17501?type=4&catId=7036024&action=list&nav=3	副局长、党组成员		合肥市住房保障和房产管理局	https://zfbzfcglj.hefei.gov.cn/public/17501/108758882.html	3293
+周明龙		4		安徽省	合肥市	https://zfbzfcglj.hefei.gov.cn/public/column/17501?type=4&catId=7036024&action=list&nav=3	总工程师		合肥市住房保障和房产管理局	https://zfbzfcglj.hefei.gov.cn/public/17501/109063574.html	3293
+刘家兴		5		安徽省	合肥市	https://zfbzfcglj.hefei.gov.cn/public/column/17501?type=4&catId=7036024&action=list&nav=3	总工程师		合肥市住房保障和房产管理局	https://zfbzfcglj.hefei.gov.cn/public/17501/112719623.html	3293

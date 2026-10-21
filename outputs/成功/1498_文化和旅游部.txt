@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙业礼		1		全国		https://www.mct.gov.cn/gywhb/bld/	党组书记、部长		文化和旅游部	https://www.mct.gov.cn/gywhb/bld/202311/t20231113_949677.htm	1498
+王旭东		2		全国		https://www.mct.gov.cn/gywhb/bld/	党组成员、故宫博物院院长（副部长级）		文化和旅游部	https://www.mct.gov.cn/gywhb/bld/202110/t20211011_928259.htm	1498
+腊翊凡		3		全国		https://www.mct.gov.cn/gywhb/bld/	中央纪委国家监委驻文化和旅游部纪检监察组组长，...		文化和旅游部	https://www.mct.gov.cn/gywhb/bld/202110/t20211011_928258.htm	1498
+卢映川		4		全国		https://www.mct.gov.cn/gywhb/bld/	党组成员、副部长		文化和旅游部	https://www.mct.gov.cn/gywhb/bld/202110/t20211011_928257.htm	1498
+刘苏社		5		全国		https://www.mct.gov.cn/gywhb/bld/	党组成员、副部长		文化和旅游部	https://www.mct.gov.cn/gywhb/bld/202606/t20260605_966154.htm	1498
+饶权		6		全国		https://www.mct.gov.cn/gywhb/bld/	党组成员、副部长，国家文物局党组书记、局长		文化和旅游部	https://www.mct.gov.cn/gywhb/bld/202110/t20211011_928255.htm	1498
+高政		7		全国		https://www.mct.gov.cn/gywhb/bld/	党组成员、副部长		文化和旅游部	https://www.mct.gov.cn/gywhb/bld/202501/t20250122_958045.htm	1498
+王建华		8		全国		https://www.mct.gov.cn/gywhb/bld/	党组成员、副部长		文化和旅游部	https://www.mct.gov.cn/gywhb/bld/202506/t20250616_960595.htm	1498

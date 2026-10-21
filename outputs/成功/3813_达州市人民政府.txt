@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+梁磊		1		四川省	达州市	https://www.dazhou.gov.cn/news-list-shizhengfu.html	市长		达州市人民政府	http://www.dazhou.gov.cn/news-list-liangleidz.html	3813
+孙骏		2		四川省	达州市	https://www.dazhou.gov.cn/news-list-shizhengfu.html	副市长		达州市人民政府	http://www.dazhou.gov.cn/news-list-sunjundz.html	3813
+王立坤		3		四川省	达州市	https://www.dazhou.gov.cn/news-list-shizhengfu.html	副市长		达州市人民政府	http://www.dazhou.gov.cn/news-list-wanglikun.html	3813
+吴勇		4		四川省	达州市	https://www.dazhou.gov.cn/news-list-shizhengfu.html	副市长		达州市人民政府	http://www.dazhou.gov.cn/news-list-wy.html	3813
+唐志坤		5		四川省	达州市	https://www.dazhou.gov.cn/news-list-shizhengfu.html	副市长		达州市人民政府	http://www.dazhou.gov.cn/news-list-tangzhikun.html	3813
+李敏		6		四川省	达州市	https://www.dazhou.gov.cn/news-list-shizhengfu.html	副市长		达州市人民政府	http://www.dazhou.gov.cn/news-list-limin.html	3813
+易成波		7		四川省	达州市	https://www.dazhou.gov.cn/news-list-shizhengfu.html	副市长		达州市人民政府	http://www.dazhou.gov.cn/news-list-yichengbo.html	3813
+杨勇		8		四川省	达州市	https://www.dazhou.gov.cn/news-list-shizhengfu.html	副市长		达州市人民政府	http://www.dazhou.gov.cn/news-list-yangyong.html	3813
+唐荣		9		四川省	达州市	https://www.dazhou.gov.cn/news-list-shizhengfu.html	副市长		达州市人民政府	http://www.dazhou.gov.cn/news-list-tangrong.html	3813
+张玉帆		10		四川省	达州市	https://www.dazhou.gov.cn/news-list-shizhengfu.html	副市长		达州市人民政府	http://www.dazhou.gov.cn/news-list-zhangyufan.html	3813
+张乐		11		四川省	达州市	https://www.dazhou.gov.cn/news-list-shizhengfu.html	秘书长		达州市人民政府	http://www.dazhou.gov.cn/news-list-lizhurong.html	3813

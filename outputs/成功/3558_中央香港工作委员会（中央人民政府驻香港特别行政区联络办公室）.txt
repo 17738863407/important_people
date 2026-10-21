@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周霁		1		全国		https://www.locpg.gov.cn/zjzlb/index.htm	主任		中央香港工作委员会（中央人民政府驻香港特别行政区联络办公室）	https://www.locpg.gov.cn/zjzlb/zlbld/zj/index.htm	3558
+罗永纲		2		全国		https://www.locpg.gov.cn/zjzlb/index.htm	副主任		中央香港工作委员会（中央人民政府驻香港特别行政区联络办公室）	https://www.locpg.gov.cn/zjzlb/zlbld/lyg/index.htm	3558
+袁古洁		3		全国		https://www.locpg.gov.cn/zjzlb/index.htm	副主任		中央香港工作委员会（中央人民政府驻香港特别行政区联络办公室）	https://www.locpg.gov.cn/zjzlb/zlbld/ygj/index.htm	3558
+孙尚武		4		全国		https://www.locpg.gov.cn/zjzlb/index.htm	副主任		中央香港工作委员会（中央人民政府驻香港特别行政区联络办公室）	https://www.locpg.gov.cn/zjzlb/zlbld/ssw/index.htm	3558
+张勇		5		全国		https://www.locpg.gov.cn/zjzlb/index.htm	副主任		中央香港工作委员会（中央人民政府驻香港特别行政区联络办公室）	https://www.locpg.gov.cn/zjzlb/zlbld/zy/index.htm	3558
+刘松林		6		全国		https://www.locpg.gov.cn/zjzlb/index.htm	秘书长		中央香港工作委员会（中央人民政府驻香港特别行政区联络办公室）	https://www.locpg.gov.cn/zjzlb/zlbld/lsl/index.htm	3558

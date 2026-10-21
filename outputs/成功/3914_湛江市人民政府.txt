@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李勇毅		1		广东省	湛江市	https://www.zhanjiang.gov.cn/ldzc/index.html	市长		湛江市人民政府	https://www.zhanjiang.gov.cn/ldzc/content/post_2025396.html	3914
+张仁建		2		广东省	湛江市	https://www.zhanjiang.gov.cn/ldzc/index.html	副市长		湛江市人民政府	https://www.zhanjiang.gov.cn/ldzc/content/post_1684799.html	3914
+刘增文		3		广东省	湛江市	https://www.zhanjiang.gov.cn/ldzc/index.html	副市长		湛江市人民政府	https://www.zhanjiang.gov.cn/ldzc/content/post_2212486.html	3914
+何嘉旻		4		广东省	湛江市	https://www.zhanjiang.gov.cn/ldzc/index.html	副市长		湛江市人民政府	https://www.zhanjiang.gov.cn/ldzc/content/post_1537599.html	3914
+吴国雄		5		广东省	湛江市	https://www.zhanjiang.gov.cn/ldzc/index.html	副市长		湛江市人民政府	https://www.zhanjiang.gov.cn/ldzc/content/post_1561187.html	3914
+孔海文		6		广东省	湛江市	https://www.zhanjiang.gov.cn/ldzc/index.html	副市长		湛江市人民政府	https://www.zhanjiang.gov.cn/ldzc/content/post_1855470.html	3914
+林伟强		7		广东省	湛江市	https://www.zhanjiang.gov.cn/ldzc/index.html	副市长		湛江市人民政府	https://www.zhanjiang.gov.cn/ldzc/content/post_2151172.html	3914
+郭雄		8		广东省	湛江市	https://www.zhanjiang.gov.cn/ldzc/index.html	秘书长		湛江市人民政府	https://www.zhanjiang.gov.cn/ldzc/content/post_2033568.html	3914

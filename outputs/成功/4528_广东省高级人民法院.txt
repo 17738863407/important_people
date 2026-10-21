@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张海波		1		广东省		https://www.gdcourts.gov.cn/fygk/jgsz/gdgyld/index.html	广东省高级人民法院党组书记、院长、审判委员会委员		广东省高级人民法院		4528
+万国营		2		广东省		https://www.gdcourts.gov.cn/fygk/jgsz/gdgyld/index.html	广东省高级人民法院党组副书记、副院长、审判委员会委员		广东省高级人民法院		4528
+王海清		3		广东省		https://www.gdcourts.gov.cn/fygk/jgsz/gdgyld/index.html	广东省高级人民法院党组成员、副院长、审判委员会委员		广东省高级人民法院		4528
+张春和		4		广东省		https://www.gdcourts.gov.cn/fygk/jgsz/gdgyld/index.html	广东省高级人民法院党组成员、副院长、审判委员会委员		广东省高级人民法院		4528
+张和林		5		广东省		https://www.gdcourts.gov.cn/fygk/jgsz/gdgyld/index.html	广东省高级人民法院党组成员、副院长、审判委员会委员		广东省高级人民法院		4528
+李克俭		6		广东省		https://www.gdcourts.gov.cn/fygk/jgsz/gdgyld/index.html	广东省高级人民法院党组成员、副院长、审判委员会委员		广东省高级人民法院		4528
+陈小飞		7		广东省		https://www.gdcourts.gov.cn/fygk/jgsz/gdgyld/index.html	广东省高级人民法院党组成员、副院长、审判委员会委员、执行局局长		广东省高级人民法院		4528
+施适		8		广东省		https://www.gdcourts.gov.cn/fygk/jgsz/gdgyld/index.html	广东省高级人民法院审判委员会专职委员（副厅级）		广东省高级人民法院		4528

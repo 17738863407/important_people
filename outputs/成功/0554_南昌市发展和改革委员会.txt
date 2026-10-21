@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+雷桥亮		1		江西省	南昌市	https://fgw.nc.gov.cn/ncfzggw/gkldxx/201811/f85362d1f6094c10a410eedc2003f98f.shtml	党组书记、主任		南昌市发展和改革委员会		0554
+何彦军		2		江西省	南昌市	https://fgw.nc.gov.cn/ncfzggw/gkldxx/201811/f85362d1f6094c10a410eedc2003f98f.shtml	党组成员、市城发院党组书记、院长		南昌市发展和改革委员会		0554
+张建平		3		江西省	南昌市	https://fgw.nc.gov.cn/ncfzggw/gkldxx/201811/f85362d1f6094c10a410eedc2003f98f.shtml	党组成员、副主任		南昌市发展和改革委员会		0554
+何华辉		4		江西省	南昌市	https://fgw.nc.gov.cn/ncfzggw/gkldxx/201811/f85362d1f6094c10a410eedc2003f98f.shtml	市纪委监委驻委纪检组三级调研员		南昌市发展和改革委员会		0554
+钟雷英		5		江西省	南昌市	https://fgw.nc.gov.cn/ncfzggw/gkldxx/201811/f85362d1f6094c10a410eedc2003f98f.shtml	副主任		南昌市发展和改革委员会		0554
+龙群		6		江西省	南昌市	https://fgw.nc.gov.cn/ncfzggw/gkldxx/201811/f85362d1f6094c10a410eedc2003f98f.shtml	党组成员、副主任		南昌市发展和改革委员会		0554
+陈洁		7		江西省	南昌市	https://fgw.nc.gov.cn/ncfzggw/gkldxx/201811/f85362d1f6094c10a410eedc2003f98f.shtml	党组成员、副主任		南昌市发展和改革委员会		0554
+索志鹏		8		江西省	南昌市	https://fgw.nc.gov.cn/ncfzggw/gkldxx/201811/f85362d1f6094c10a410eedc2003f98f.shtml	党组成员、副主任		南昌市发展和改革委员会		0554
+赖育雷		9		江西省	南昌市	https://fgw.nc.gov.cn/ncfzggw/gkldxx/201811/f85362d1f6094c10a410eedc2003f98f.shtml	二级调研员		南昌市发展和改革委员会		0554
+李少卿		10		江西省	南昌市	https://fgw.nc.gov.cn/ncfzggw/gkldxx/201811/f85362d1f6094c10a410eedc2003f98f.shtml	三级调研员		南昌市发展和改革委员会		0554
+陈京广		11		江西省	南昌市	https://fgw.nc.gov.cn/ncfzggw/gkldxx/201811/f85362d1f6094c10a410eedc2003f98f.shtml	市城市发展研究院党组成员、副院长		南昌市发展和改革委员会		0554
+王文昌		12		江西省	南昌市	https://fgw.nc.gov.cn/ncfzggw/gkldxx/201811/f85362d1f6094c10a410eedc2003f98f.shtml	市城市发展研究院党组成员、副院长		南昌市发展和改革委员会		0554
+李毅		13		江西省	南昌市	https://fgw.nc.gov.cn/ncfzggw/gkldxx/201811/f85362d1f6094c10a410eedc2003f98f.shtml	总经济师		南昌市发展和改革委员会		0554

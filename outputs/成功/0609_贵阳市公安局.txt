@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谢军		1		贵州省	贵阳市	https://gaj.guiyang.gov.cn/zfxxgk/fdzdgklm/jgld01/	市公安局党委副书记、常务副局长、机关党委书记		贵阳市公安局	https://gaj.guiyang.gov.cn/zfxxgk/fdzdgklm/jgld01/202311/t20231114_83079487.html	0609
+朱晓军		2		贵州省	贵阳市	https://gaj.guiyang.gov.cn/zfxxgk/fdzdgklm/jgld01/	市公安局党委委员、特勤局局长		贵阳市公安局	https://gaj.guiyang.gov.cn/zfxxgk/fdzdgklm/jgld01/202411/t20241101_86010439.html	0609
+黄卫		3		贵州省	贵阳市	https://gaj.guiyang.gov.cn/zfxxgk/fdzdgklm/jgld01/	市公安局党委委员、贵安新区公安局党委书记、局长		贵阳市公安局	https://gaj.guiyang.gov.cn/zfxxgk/fdzdgklm/jgld01/202311/t20231114_83079481.html	0609
+占卒		4		贵州省	贵阳市	https://gaj.guiyang.gov.cn/zfxxgk/fdzdgklm/jgld01/	市公安局党委委员、派驻市公安局纪检监察组组长		贵阳市公安局	https://gaj.guiyang.gov.cn/zfxxgk/fdzdgklm/jgld01/202311/t20231114_83079483.html	0609
+吴小强		5		贵州省	贵阳市	https://gaj.guiyang.gov.cn/zfxxgk/fdzdgklm/jgld01/	市公安局党委委员、政治部主任		贵阳市公安局	https://gaj.guiyang.gov.cn/zfxxgk/fdzdgklm/jgld01/202311/t20231114_83079488.html	0609
+熊灿勋		6		贵州省	贵阳市	https://gaj.guiyang.gov.cn/zfxxgk/fdzdgklm/jgld01/	市公安局党委委员、副局长		贵阳市公安局	https://gaj.guiyang.gov.cn/zfxxgk/fdzdgklm/jgld01/202408/t20240806_85326880.html	0609
+周健		7		贵州省	贵阳市	https://gaj.guiyang.gov.cn/zfxxgk/fdzdgklm/jgld01/	市公安局党委委员、情报指挥中心主任		贵阳市公安局	https://gaj.guiyang.gov.cn/zfxxgk/fdzdgklm/jgld01/202410/t20241017_85949464.html	0609
+朱俊		8		贵州省	贵阳市	https://gaj.guiyang.gov.cn/zfxxgk/fdzdgklm/jgld01/	市公安局党委委员、副局长		贵阳市公安局	https://gaj.guiyang.gov.cn/zfxxgk/fdzdgklm/jgld01/202606/t20260616_90527810.html	0609
+舒毅		9		贵州省	贵阳市	https://gaj.guiyang.gov.cn/zfxxgk/fdzdgklm/jgld01/	贵阳市公安局党委委员、副局长		贵阳市公安局	https://gaj.guiyang.gov.cn/zfxxgk/fdzdgklm/jgld01/202311/t20231114_83079485.html	0609

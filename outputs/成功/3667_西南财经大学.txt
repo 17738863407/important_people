@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵建军		1		四川省	成都市	https://www.swufe.edu.cn/xxgk/xrld.htm	党委书记；党委常委		西南财经大学	https://www.swufe.edu.cn/info/1121/1149.htm	3667
+李永强		2		四川省	成都市	https://www.swufe.edu.cn/xxgk/xrld.htm	党委副书记；校长；党委常委		西南财经大学	https://www.swufe.edu.cn/info/1122/1148.htm	3667
+孙殿明		3		四川省	成都市	https://www.swufe.edu.cn/xxgk/xrld.htm	党委副书记；纪委书记；党委常委		西南财经大学	https://www.swufe.edu.cn/info/1123/1147.htm	3667
+谢红		4		四川省	成都市	https://www.swufe.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		西南财经大学	https://www.swufe.edu.cn/info/1124/1146.htm	3667
+明海峰		5		四川省	成都市	https://www.swufe.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		西南财经大学	https://www.swufe.edu.cn/info/1124/1145.htm	3667
+桂富强		6		四川省	成都市	https://www.swufe.edu.cn/xxgk/xrld.htm	党委常委；副校长		西南财经大学	https://www.swufe.edu.cn/info/1125/1143.htm	3667
+周铭山		7		四川省	成都市	https://www.swufe.edu.cn/xxgk/xrld.htm	党委常委；副校长		西南财经大学	https://www.swufe.edu.cn/info/1125/1142.htm	3667
+马永强		8		四川省	成都市	https://www.swufe.edu.cn/xxgk/xrld.htm	党委常委；副校长		西南财经大学	https://www.swufe.edu.cn/info/1125/1141.htm	3667
+王擎		9		四川省	成都市	https://www.swufe.edu.cn/xxgk/xrld.htm	党委常委；副校长		西南财经大学	https://www.swufe.edu.cn/info/1125/1140.htm	3667
+盖凯程		10		四川省	成都市	https://www.swufe.edu.cn/xxgk/xrld.htm	党委常委；副校长		西南财经大学	https://www.swufe.edu.cn/info/1125/42572.htm	3667
+梁婷		11		四川省	成都市	https://www.swufe.edu.cn/xxgk/xrld.htm	党委常委		西南财经大学	https://www.swufe.edu.cn/info/1126/1129.htm	3667
+陈宗权		12		四川省	成都市	https://www.swufe.edu.cn/xxgk/xrld.htm	党委常委		西南财经大学	https://www.swufe.edu.cn/info/1126/1128.htm	3667
+郭寿良		13		四川省	成都市	https://www.swufe.edu.cn/xxgk/xrld.htm	党委常委		西南财经大学	https://www.swufe.edu.cn/info/1126/1127.htm	3667
+李雪		14		四川省	成都市	https://www.swufe.edu.cn/xxgk/xrld.htm	校长助理		西南财经大学	https://www.swufe.edu.cn/info/1127/1125.htm	3667

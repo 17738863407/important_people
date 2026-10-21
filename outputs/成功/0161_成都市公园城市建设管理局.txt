@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘嘉聪		1		四川省	成都市	https://cdbpw.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市公园城市建设管理局党组书记、局长，市规划和自然资源局党组副书记(兼)、副局长（兼），龙泉山城市森林公园党工委书记(兼)，大熊猫国家公园成都管理分局党组书记(兼)、局长（兼）		成都市公园城市建设管理局	https://cdbpw.chengdu.gov.cn/gkml/ldcy/1648603577154805760.shtml	0161
+陈志		2		四川省	成都市	https://cdbpw.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市公园城市建设管理局党组副书记、副局长（兼）		成都市公园城市建设管理局	https://cdbpw.chengdu.gov.cn/gkml/ldcy/1457397956708663296.shtml	0161
+周俊		3		四川省	成都市	https://cdbpw.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市公园城市建设管理局副局长		成都市公园城市建设管理局	https://cdbpw.chengdu.gov.cn/gkml/ldcy/1339200948471332864.shtml	0161
+周灵		4		四川省	成都市	https://cdbpw.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市公园城市建设管理局党组成员、副局长		成都市公园城市建设管理局	https://cdbpw.chengdu.gov.cn/gkml/ldcy/1648603577330966528.shtml	0161
+王永林		5		四川省	成都市	https://cdbpw.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市公园城市建设管理局党组成员、副局长		成都市公园城市建设管理局	https://cdbpw.chengdu.gov.cn/gkml/ldcy/1339237147609137152.shtml	0161
+潘杰		6		四川省	成都市	https://cdbpw.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市纪委监委驻市公园城市局纪检监察组组长		成都市公园城市建设管理局	https://cdbpw.chengdu.gov.cn/gkml/ldcy/1339238597332566016.shtml	0161
+郑熹		7		四川省	成都市	https://cdbpw.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市公园城市建设管理局党组成员、副局长、机关党委书记		成都市公园城市建设管理局	https://cdbpw.chengdu.gov.cn/gkml/ldcy/1457401902592425984.shtml	0161
+古利军		8		四川省	成都市	https://cdbpw.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市公园城市建设管理局一级调研员		成都市公园城市建设管理局	https://cdbpw.chengdu.gov.cn/gkml/ldcy/1648603577981083648.shtml	0161

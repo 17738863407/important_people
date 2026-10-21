@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郭少新		1		宁夏回族自治区		http://www.nxgs.edu.cn/xxgk/xrld.htm	党委书记		宁夏工商职业技术大学	http://www.nxgs.edu.cn/info/1164/15275.htm	4277
+陈伏豪		2		宁夏回族自治区		http://www.nxgs.edu.cn/xxgk/xrld.htm	党委副书记、校长		宁夏工商职业技术大学	http://www.nxgs.edu.cn/info/1164/15276.htm	4277
+孙冬梅		3		宁夏回族自治区		http://www.nxgs.edu.cn/xxgk/xrld.htm	党委副书记		宁夏工商职业技术大学	http://www.nxgs.edu.cn/info/1164/15277.htm	4277
+周桂宁		4		宁夏回族自治区		http://www.nxgs.edu.cn/xxgk/xrld.htm	党委委员、副校长		宁夏工商职业技术大学	http://www.nxgs.edu.cn/info/1164/15278.htm	4277
+张安军		5		宁夏回族自治区		http://www.nxgs.edu.cn/xxgk/xrld.htm	党委委员、副校长		宁夏工商职业技术大学	http://www.nxgs.edu.cn/info/1164/15279.htm	4277
+薛新巧		6		宁夏回族自治区		http://www.nxgs.edu.cn/xxgk/xrld.htm	党委委员、副校长		宁夏工商职业技术大学	http://www.nxgs.edu.cn/info/1164/15280.htm	4277
+韩波		7		宁夏回族自治区		http://www.nxgs.edu.cn/xxgk/xrld.htm	党委委员、纪委书记		宁夏工商职业技术大学	http://www.nxgs.edu.cn/info/1164/15281.htm	4277
+宋伶英		8		宁夏回族自治区		http://www.nxgs.edu.cn/xxgk/xrld.htm	党委委员、副校长		宁夏工商职业技术大学	http://www.nxgs.edu.cn/info/1164/15282.htm	4277

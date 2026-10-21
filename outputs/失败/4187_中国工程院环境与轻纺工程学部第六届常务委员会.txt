@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈坚		1		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	主任		中国工程院环境与轻纺工程学部第六届常务委员会		4187
+杨志峰		2		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	副主任		中国工程院环境与轻纺工程学部第六届常务委员会		4187
+张小曳		3		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	副主任		中国工程院环境与轻纺工程学部第六届常务委员会		4187
+高翔		4		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	副主任		中国工程院环境与轻纺工程学部第六届常务委员会		4187

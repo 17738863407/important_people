@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑红		1		全国		http://www.cietc.org.cn/View/about.aspx?type=2	工业和信息化部国际经济技术合作中心主任		工业和信息化部国际经济技术合作中心		0243
+陈彪		2		全国		http://www.cietc.org.cn/View/about.aspx?type=2	工业和信息化部国际经济技术合作中心副主任（正局级）		工业和信息化部国际经济技术合作中心		0243
+朱刚		3		全国		http://www.cietc.org.cn/View/about.aspx?type=2	工业和信息化部国际经济技术合作中心副主任		工业和信息化部国际经济技术合作中心		0243
+张强		4		全国		http://www.cietc.org.cn/View/about.aspx?type=2	工业和信息化部国际经济技术合作中心副主任		工业和信息化部国际经济技术合作中心		0243
+孙华庆		5		全国		http://www.cietc.org.cn/View/about.aspx?type=2	工业和信息化部国际经济技术合作中心副主任		工业和信息化部国际经济技术合作中心		0243

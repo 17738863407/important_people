@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+方银霞		1		全国		http://www.sio.org.cn/xrld.html	所长、党委副书记		自然资源部第二海洋研究所		2418
+国建业		2		全国		http://www.sio.org.cn/xrld.html	党委书记、副所长		自然资源部第二海洋研究所		2418
+陈力		3		全国		http://www.sio.org.cn/xrld.html	纪委书记		自然资源部第二海洋研究所		2418
+傅斌		4		全国		http://www.sio.org.cn/xrld.html	副所长		自然资源部第二海洋研究所		2418
+周锋		5		全国		http://www.sio.org.cn/xrld.html	副所长		自然资源部第二海洋研究所		2418

@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄建军		1		宁夏回族自治区		https://nxyjglt.nx.gov.cn/xxgk/fdzdgknr/ldjj/	宁夏回族自治区应急管理厅党委书记、厅长，宁夏回族自治区消防救援总队第一政治委员		宁夏回族自治区应急管理厅		0107
+吴施彬		2		宁夏回族自治区		https://nxyjglt.nx.gov.cn/xxgk/fdzdgknr/ldjj/	宁夏回族自治区应急管理厅党委委员、宁夏回族自治区消防救援总队总队长		宁夏回族自治区应急管理厅		0107
+杨明礼		3		宁夏回族自治区		https://nxyjglt.nx.gov.cn/xxgk/fdzdgknr/ldjj/	宁夏回族自治区应急管理厅党委委员、副厅长		宁夏回族自治区应急管理厅		0107
+马占荣		4		宁夏回族自治区		https://nxyjglt.nx.gov.cn/xxgk/fdzdgknr/ldjj/	宁夏回族自治区应急管理厅党委委员、副厅长		宁夏回族自治区应急管理厅		0107
+王岚海		5		宁夏回族自治区		https://nxyjglt.nx.gov.cn/xxgk/fdzdgknr/ldjj/	宁夏回族自治区应急管理厅党委委员、副厅长		宁夏回族自治区应急管理厅		0107
+李翔		6		宁夏回族自治区		https://nxyjglt.nx.gov.cn/xxgk/fdzdgknr/ldjj/	宁夏回族自治区应急管理厅党委委员、副厅长、政治部主任		宁夏回族自治区应急管理厅		0107
+严鹏		7		宁夏回族自治区		https://nxyjglt.nx.gov.cn/xxgk/fdzdgknr/ldjj/	宁夏回族自治区应急管理厅党委委员、自治区纪委监委驻自治区应急管理厅纪检监察组组长、二级高级监察官		宁夏回族自治区应急管理厅		0107
+刘占良		8		宁夏回族自治区		https://nxyjglt.nx.gov.cn/xxgk/fdzdgknr/ldjj/	宁夏回族自治区应急管理厅二级巡视员		宁夏回族自治区应急管理厅		0107
+周耀兵		9		宁夏回族自治区		https://nxyjglt.nx.gov.cn/xxgk/fdzdgknr/ldjj/	宁夏回族自治区应急管理厅二级巡视员		宁夏回族自治区应急管理厅		0107
+奚武军		10		宁夏回族自治区		https://nxyjglt.nx.gov.cn/xxgk/fdzdgknr/ldjj/	宁夏回族自治区应急管理厅二级巡视员		宁夏回族自治区应急管理厅		0107
+何承彬		11		宁夏回族自治区		https://nxyjglt.nx.gov.cn/xxgk/fdzdgknr/ldjj/	宁夏回族自治区应急管理厅二级巡视员		宁夏回族自治区应急管理厅		0107
+高丽		12		宁夏回族自治区		https://nxyjglt.nx.gov.cn/xxgk/fdzdgknr/ldjj/	宁夏回族自治区应急管理厅总工程师		宁夏回族自治区应急管理厅		0107

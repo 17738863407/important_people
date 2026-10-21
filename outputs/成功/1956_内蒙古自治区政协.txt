@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张延昆		1		全国		https://www.nmgzx.gov.cn/webpage/cppccLeader/index.html	主席		内蒙古自治区政协	https://www.nmgzx.gov.cn/webpage/cppccLeader/publicPage.html?title=主席&name=张延昆&id=77160206-6a02-4af2-a223-a9972fd95eef	1956
+罗志虎		2		全国		https://www.nmgzx.gov.cn/webpage/cppccLeader/index.html	副主席		内蒙古自治区政协	https://www.nmgzx.gov.cn/webpage/cppccLeader/publicPage.html?title=副主席&name=罗志虎&id=b8069aa9-f076-45bc-8d5b-41dcbd7a04f3	1956
+其其格		3		全国		https://www.nmgzx.gov.cn/webpage/cppccLeader/index.html	副主席		内蒙古自治区政协	https://www.nmgzx.gov.cn/webpage/cppccLeader/publicPage.html?title=副主席&name=其其格&id=1132f5bf-2149-4a7b-a4bf-8d04d2b93213	1956
+魏国楠		4		全国		https://www.nmgzx.gov.cn/webpage/cppccLeader/index.html	副主席		内蒙古自治区政协	https://www.nmgzx.gov.cn/webpage/cppccLeader/publicPage.html?title=副主席&name=魏国楠&id=bd23265f-7f65-4943-8ca8-1cba6ddf0821	1956
+安润生		5		全国		https://www.nmgzx.gov.cn/webpage/cppccLeader/index.html	副主席		内蒙古自治区政协	https://www.nmgzx.gov.cn/webpage/cppccLeader/publicPage.html?title=副主席&name=安润生&id=4881fdc8-0baa-484a-92fb-e207d013c424	1956
+么永波		6		全国		https://www.nmgzx.gov.cn/webpage/cppccLeader/index.html	副主席		内蒙古自治区政协	https://www.nmgzx.gov.cn/webpage/cppccLeader/publicPage.html?title=副主席&name=么永波&id=6f4c0528-fa3a-46a3-b138-2cc56c7b336e	1956
+张磊		7		全国		https://www.nmgzx.gov.cn/webpage/cppccLeader/index.html	副主席		内蒙古自治区政协	https://www.nmgzx.gov.cn/webpage/cppccLeader/publicPage.html?title=副主席&name=张磊&id=4b594ef4-2020-444a-8be3-59c213bf9e00	1956
+张佰成		8		全国		https://www.nmgzx.gov.cn/webpage/cppccLeader/index.html	副主席		内蒙古自治区政协	https://www.nmgzx.gov.cn/webpage/cppccLeader/publicPage.html?title=副主席&name=张佰成&id=7408759c-af76-41a3-89ee-c049384c511f	1956
+杨劼		9		全国		https://www.nmgzx.gov.cn/webpage/cppccLeader/index.html	副主席		内蒙古自治区政协	https://www.nmgzx.gov.cn/webpage/cppccLeader/publicPage.html?title=副主席&name=杨劼&id=62b3c1ec-2b1f-497b-a2f9-ad5b8a37763a	1956
+金桩		10		全国		https://www.nmgzx.gov.cn/webpage/cppccLeader/index.html	副主席		内蒙古自治区政协	https://www.nmgzx.gov.cn/webpage/cppccLeader/publicPage.html?title=副主席&name=金桩&id=13F5FD61-9DA6-50A2-B274-F561C06ED253	1956
+于仁杰		11		全国		https://www.nmgzx.gov.cn/webpage/cppccLeader/index.html	副主席		内蒙古自治区政协	https://www.nmgzx.gov.cn/webpage/cppccLeader/publicPage.html?title=副主席&name=于仁杰&id=4A35FD7B-C770-59AD-8DC5-D98A966ED573	1956

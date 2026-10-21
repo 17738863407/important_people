@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+崔振平		1		天津市		https://kxjs.tj.gov.cn/ZWGK4143/JGXX_20201216/LDXX_20201216/czp/	天津市科学技术局党委书记、局长		天津市科学技术局		1402
+梅志红		2		天津市		https://kxjs.tj.gov.cn/ZWGK4143/JGXX_20201216/LDXX_20201216/czp/	天津市科学技术局副局长，天津市天开高教科创园管理委员会副主任		天津市科学技术局	https://kxjs.tj.gov.cn/ZWGK4143/JGXX_20201216/LDXX_20201216/mzh/	1402
+方伟		3		天津市		https://kxjs.tj.gov.cn/ZWGK4143/JGXX_20201216/LDXX_20201216/czp/	天津市科学技术局党委委员、副局长，一级巡视员，天津市天开高教科创园管理委员会副主任		天津市科学技术局	https://kxjs.tj.gov.cn/ZWGK4143/JGXX_20201216/LDXX_20201216/fw/	1402
+邹炜		4		天津市		https://kxjs.tj.gov.cn/ZWGK4143/JGXX_20201216/LDXX_20201216/czp/	天津市科学技术局党委委员、驻局纪检监察组组长		天津市科学技术局	https://kxjs.tj.gov.cn/ZWGK4143/JGXX_20201216/LDXX_20201216/zw/	1402
+谭振东		5		天津市		https://kxjs.tj.gov.cn/ZWGK4143/JGXX_20201216/LDXX_20201216/czp/	天津市科学技术局党委委员、副局长，天津市天开高教科创园管理委员会副主任，天津市外国专家局局长		天津市科学技术局	https://kxjs.tj.gov.cn/ZWGK4143/JGXX_20201216/LDXX_20201216/tzd/	1402
+赵莉晓		6		天津市		https://kxjs.tj.gov.cn/ZWGK4143/JGXX_20201216/LDXX_20201216/czp/	天津市科学技术局党委委员、副局长，天津市天开高教科创园管理委员会副主任		天津市科学技术局	https://kxjs.tj.gov.cn/ZWGK4143/JGXX_20201216/LDXX_20201216/zlx/	1402
+邵凡		7		天津市		https://kxjs.tj.gov.cn/ZWGK4143/JGXX_20201216/LDXX_20201216/czp/	天津市科学技术局党委委员、副局长，天津市天开高教科创园管理委员会副主任(试用期一年)		天津市科学技术局	https://kxjs.tj.gov.cn/ZWGK4143/JGXX_20201216/LDXX_20201216/sf/	1402
+薛景山		8		天津市		https://kxjs.tj.gov.cn/ZWGK4143/JGXX_20201216/LDXX_20201216/czp/	天津市科学技术局二级巡视员		天津市科学技术局	https://kxjs.tj.gov.cn/ZWGK4143/JGXX_20201216/LDXX_20201216/xqj/	1402

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马成芳		1		青海省		https://mzw.qinghai.gov.cn/ldzj/577.html	主任、党组书记		青海省民族宗教事务委员会		1805
+哈斯巴图		2		青海省		https://mzw.qinghai.gov.cn/ldzj/577.html	副主任		青海省民族宗教事务委员会		1805
+包永贵		3		青海省		https://mzw.qinghai.gov.cn/ldzj/577.html	副主任		青海省民族宗教事务委员会		1805
+德措		4		青海省		https://mzw.qinghai.gov.cn/ldzj/577.html	副主任		青海省民族宗教事务委员会		1805
+马福仓		5		青海省		https://mzw.qinghai.gov.cn/ldzj/577.html	副主任		青海省民族宗教事务委员会		1805
+汪永春		6		青海省		https://mzw.qinghai.gov.cn/ldzj/577.html	专职委员		青海省民族宗教事务委员会		1805

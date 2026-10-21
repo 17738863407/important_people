@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张越红		1		辽宁省		https://tyj.ln.gov.cn/tyj/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省体育局党组成员、副局长。		辽宁省体育局	https://tyj.ln.gov.cn/tyj/zfxxgk/fdzdgknr/jgjj/bmld/2022053013465261288/index.shtml	2781
+王冬		2		辽宁省		https://tyj.ln.gov.cn/tyj/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省体育局党组成员、副局长。		辽宁省体育局	https://tyj.ln.gov.cn/tyj/zfxxgk/fdzdgknr/jgjj/bmld/2023070717110036797/index.shtml	2781
+李成梁		3		辽宁省		https://tyj.ln.gov.cn/tyj/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省体育局党组成员、副局长。		辽宁省体育局	https://tyj.ln.gov.cn/tyj/zfxxgk/fdzdgknr/jgjj/bmld/2025071116430491410/index.shtml	2781

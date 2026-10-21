@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+石泽毅		1		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202608/t20260814_966865.htm	局长		文化和旅游部国际交流与合作局		1505
+许蓉		2		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202608/t20260814_966865.htm	党委书记、一级巡视员		文化和旅游部国际交流与合作局		1505
+刘全		3		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202608/t20260814_966865.htm	副局长		文化和旅游部国际交流与合作局		1505
+孔伦		4		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202608/t20260814_966865.htm	副局长		文化和旅游部国际交流与合作局		1505
+张建平		5		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202608/t20260814_966865.htm	副局长		文化和旅游部国际交流与合作局		1505
+杨博		6		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202608/t20260814_966865.htm	副局长		文化和旅游部国际交流与合作局		1505
+马晓琛		7		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202608/t20260814_966865.htm	党委副书记、纪委书记、二级巡视员		文化和旅游部国际交流与合作局		1505
+朱宏斌		8		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/202608/t20260814_966865.htm	副局长		文化和旅游部国际交流与合作局		1505

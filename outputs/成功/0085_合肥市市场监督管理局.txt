@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘鹏		1		安徽省	合肥市	https://amr.hefei.gov.cn/public/column/18421?type=4&catId=7036024&action=list&nav=3	党组书记		合肥市市场监督管理局	https://amr.hefei.gov.cn/public/18421/110717977.html	0085
+项红星		2		安徽省	合肥市	https://amr.hefei.gov.cn/public/column/18421?type=4&catId=7036024&action=list&nav=3	局长		合肥市市场监督管理局	https://amr.hefei.gov.cn/public/18421/108344738.html	0085
+许景高		3		安徽省	合肥市	https://amr.hefei.gov.cn/public/column/18421?type=4&catId=7036024&action=list&nav=3	党组成员、副局长、二级调研员		合肥市市场监督管理局	https://amr.hefei.gov.cn/public/18421/104716003.html	0085
+姜鸿杰		4		安徽省	合肥市	https://amr.hefei.gov.cn/public/column/18421?type=4&catId=7036024&action=list&nav=3	党组成员、副局长、三级调研员		合肥市市场监督管理局	https://amr.hefei.gov.cn/public/18421/104716005.html	0085
+谢忠月		5		安徽省	合肥市	https://amr.hefei.gov.cn/public/column/18421?type=4&catId=7036024&action=list&nav=3	党组成员、副局长、三级调研员		合肥市市场监督管理局	https://amr.hefei.gov.cn/public/18421/112617476.html	0085
+周力群		6		安徽省	合肥市	https://amr.hefei.gov.cn/public/column/18421?type=4&catId=7036024&action=list&nav=3	党组成员、驻局纪检监察组组长		合肥市市场监督管理局	https://amr.hefei.gov.cn/public/18421/110790623.html	0085
+彭鹏		7		安徽省	合肥市	https://amr.hefei.gov.cn/public/column/18421?type=4&catId=7036024&action=list&nav=3	党组成员、副局长		合肥市市场监督管理局	https://amr.hefei.gov.cn/public/18421/111618340.html	0085
+陈曦		8		安徽省	合肥市	https://amr.hefei.gov.cn/public/column/18421?type=4&catId=7036024&action=list&nav=3	党组成员、总工程师		合肥市市场监督管理局	https://amr.hefei.gov.cn/public/18421/111618342.html	0085

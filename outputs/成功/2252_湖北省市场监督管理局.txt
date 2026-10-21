@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王世荣		1		湖北省		http://scjg.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组书记、局长		湖北省市场监督管理局	https://scjg.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/wsr/	2252
+程建宏		2		湖北省		http://scjg.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组成员、副局长		湖北省市场监督管理局	https://scjg.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/cjh/	2252
+邓仲林		3		湖北省		http://scjg.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组成员、副局长，一级巡视员		湖北省市场监督管理局	https://scjg.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/dzl/	2252
+潘年松		4		湖北省		http://scjg.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组成员，省药品监督管理局党组书记、局长		湖北省市场监督管理局	https://scjg.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/pns/	2252
+王勤		5		湖北省		http://scjg.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组成员、副局长		湖北省市场监督管理局	https://scjg.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/wq/	2252
+徐小勇		6		湖北省		http://scjg.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组成员、副局长		湖北省市场监督管理局	https://scjg.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/xxy/	2252
+阮琼		7		湖北省		http://scjg.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组成员、副局长		湖北省市场监督管理局	https://scjg.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/rq/	2252

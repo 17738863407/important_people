@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘友宾		1		全国		https://www.cfej.net/bwzl/jxdt/202412/t20241204_1098044.shtml	主席		中国环境新闻工作者协会		4343
+刘毅		2		全国		https://www.cfej.net/bwzl/jxdt/202412/t20241204_1098044.shtml	副主席		中国环境新闻工作者协会		4343
+李志晖		3		全国		https://www.cfej.net/bwzl/jxdt/202412/t20241204_1098044.shtml	副主席		中国环境新闻工作者协会		4343
+骆红秉		4		全国		https://www.cfej.net/bwzl/jxdt/202412/t20241204_1098044.shtml	副主席		中国环境新闻工作者协会		4343
+姜范		5		全国		https://www.cfej.net/bwzl/jxdt/202412/t20241204_1098044.shtml	副主席		中国环境新闻工作者协会		4343
+白志军		6		全国		https://www.cfej.net/bwzl/jxdt/202412/t20241204_1098044.shtml	副主席		中国环境新闻工作者协会		4343
+陈谦		7		全国		https://www.cfej.net/bwzl/jxdt/202412/t20241204_1098044.shtml	副主席		中国环境新闻工作者协会		4343

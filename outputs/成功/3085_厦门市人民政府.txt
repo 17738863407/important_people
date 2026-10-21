@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+闫剑波		1		福建省	厦门市	https://www.xm.gov.cn/szf/	代市长		厦门市人民政府	https://www.xm.gov.cn/szf/szfbzcy/yjb/	3085
+黄燕添		2		福建省	厦门市	https://www.xm.gov.cn/szf/	副市长		厦门市人民政府	https://www.xm.gov.cn/szf/szfbzcy/hyt/	3085
+庄荣良		3		福建省	厦门市	https://www.xm.gov.cn/szf/	副市长		厦门市人民政府	https://www.xm.gov.cn/szf/szfbzcy/zrl/	3085
+张志红		4		福建省	厦门市	https://www.xm.gov.cn/szf/	副市长		厦门市人民政府	https://www.xm.gov.cn/szf/szfbzcy/zzh/	3085
+廖华生		5		福建省	厦门市	https://www.xm.gov.cn/szf/	副市长		厦门市人民政府	https://www.xm.gov.cn/szf/szfbzcy/lhs/	3085
+季翔峰		6		福建省	厦门市	https://www.xm.gov.cn/szf/	副市长		厦门市人民政府	https://www.xm.gov.cn/szf/szfbzcy/jxf/	3085
+林志成		7		福建省	厦门市	https://www.xm.gov.cn/szf/	副市长		厦门市人民政府	https://www.xm.gov.cn/szf/szfbzcy/lzc/	3085
+林晓东		8		福建省	厦门市	https://www.xm.gov.cn/szf/	副市长		厦门市人民政府	https://www.xm.gov.cn/szf/szfbzcy/lxd/	3085
+夏长文		9		福建省	厦门市	https://www.xm.gov.cn/szf/	秘书长		厦门市人民政府	https://www.xm.gov.cn/szf/szfbzcy/xcw/	3085

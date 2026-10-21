@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘凤春		1		吉林省	白山市	http://www.bsszx.gov.cn/zxgk/ldzc/	主席		白山市政协	http://www.bsszx.gov.cn/zxgk/ldzc/zx/202101/t20210115_657629.html	3926
+许继清		2		吉林省	白山市	http://www.bsszx.gov.cn/zxgk/ldzc/	副主席		白山市政协	http://www.bsszx.gov.cn/zxgk/ldzc/fzx/201707/t20170705_201203.html	3926
+郭健刚		3		吉林省	白山市	http://www.bsszx.gov.cn/zxgk/ldzc/	副主席		白山市政协	http://www.bsszx.gov.cn/zxgk/ldzc/fzx/201707/t20170705_201202.html	3926
+黄春海		4		吉林省	白山市	http://www.bsszx.gov.cn/zxgk/ldzc/	副主席		白山市政协	http://www.bsszx.gov.cn/zxgk/ldzc/fzx/201707/t20170705_201199.html	3926
+李圣范		5		吉林省	白山市	http://www.bsszx.gov.cn/zxgk/ldzc/	副主席		白山市政协	http://www.bsszx.gov.cn/zxgk/ldzc/fzx/201707/t20170705_201198.html	3926
+赵玉兰		6		吉林省	白山市	http://www.bsszx.gov.cn/zxgk/ldzc/	副主席		白山市政协	http://www.bsszx.gov.cn/zxgk/ldzc/fzx/201901/t20190122_390803.html	3926
+尹相美		7		吉林省	白山市	http://www.bsszx.gov.cn/zxgk/ldzc/	副主席		白山市政协	http://www.bsszx.gov.cn/zxgk/ldzc/fzx/202003/t20200305_590584.html	3926
+张建波		8		吉林省	白山市	http://www.bsszx.gov.cn/zxgk/ldzc/	秘书长		白山市政协	http://www.bsszx.gov.cn/zxgk/ldzc/msz/202201/t20220113_708196.html	3926

@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙猛		1		黑龙江省	哈尔滨市	https://www.nefu.edu.cn/xxgk/xrld.htm	党委书记；党委常委		东北林业大学	https://www.nefu.edu.cn/info/1526/19484.htm	3632
+宋文龙		2		黑龙江省	哈尔滨市	https://www.nefu.edu.cn/xxgk/xrld.htm	党委副书记；党委常委；校长		东北林业大学	https://www.nefu.edu.cn/info/1527/18680.htm	3632
+翟雪峰		3		黑龙江省	哈尔滨市	https://www.nefu.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		东北林业大学	https://www.nefu.edu.cn/info/1527/20108.htm	3632
+宋吉红		4		黑龙江省	哈尔滨市	https://www.nefu.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		东北林业大学	https://www.nefu.edu.cn/info/1527/18682.htm	3632
+李桂宾		5		黑龙江省	哈尔滨市	https://www.nefu.edu.cn/xxgk/xrld.htm	党委副书记；纪委书记；党委常委		东北林业大学	https://www.nefu.edu.cn/info/1527/207700.htm	3632
+于海鹏		6		黑龙江省	哈尔滨市	https://www.nefu.edu.cn/xxgk/xrld.htm	党委常委；副校长		东北林业大学	https://www.nefu.edu.cn/info/1529/18691.htm	3632
+李明泽		7		黑龙江省	哈尔滨市	https://www.nefu.edu.cn/xxgk/xrld.htm	党委常委；副校长		东北林业大学	https://www.nefu.edu.cn/info/1529/18692.htm	3632
+张春雷		8		黑龙江省	哈尔滨市	https://www.nefu.edu.cn/xxgk/xrld.htm	党委常委；副校长		东北林业大学	https://www.nefu.edu.cn/info/1529/18693.htm	3632
+孙龙		9		黑龙江省	哈尔滨市	https://www.nefu.edu.cn/xxgk/xrld.htm	党委常委；副校长		东北林业大学	https://www.nefu.edu.cn/info/1529/212620.htm	3632
+李春英		10		黑龙江省	哈尔滨市	https://www.nefu.edu.cn/xxgk/xrld.htm	党委常委		东北林业大学	https://www.nefu.edu.cn/info/1529/18705.htm	3632
+高玉娟		11		黑龙江省	哈尔滨市	https://www.nefu.edu.cn/xxgk/xrld.htm	党委常委		东北林业大学	https://www.nefu.edu.cn/info/1529/18706.htm	3632

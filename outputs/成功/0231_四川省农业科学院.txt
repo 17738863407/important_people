@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张雄		1		四川省		http://www.chinawestagr.com/zwgk/list_ld.asp?lmmcid=360&zlmid=679&id=33292	党委副书记		四川省农业科学院	http://www.chinawestagr.com/zwgk/list_ld.asp?lmmcid=360&zlmid=679&id=28734	0231
+丁明忠		2		四川省		http://www.chinawestagr.com/zwgk/list_ld.asp?lmmcid=360&zlmid=679&id=33292	党委委员、副院长		四川省农业科学院	http://www.chinawestagr.com/zwgk/list_ld.asp?lmmcid=360&zlmid=679&id=54700	0231
+刘永红		3		四川省		http://www.chinawestagr.com/zwgk/list_ld.asp?lmmcid=360&zlmid=679&id=33292	党委书记、院长 四川省农业农村厅 党组副书记(兼)		四川省农业科学院	http://www.chinawestagr.com/zwgk/list_ld.asp?lmmcid=360&zlmid=679&id=46436	0231
+蒲宗君		4		四川省		http://www.chinawestagr.com/zwgk/list_ld.asp?lmmcid=360&zlmid=679&id=33292	党委委员、副院长		四川省农业科学院	http://www.chinawestagr.com/zwgk/list_ld.asp?lmmcid=360&zlmid=679&id=52508	0231

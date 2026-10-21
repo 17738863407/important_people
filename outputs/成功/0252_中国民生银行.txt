@@ -1,0 +1,23 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高迎欣		1		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	党委书记、董事长		中国民生银行		0252
+刘永好		2		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	副董事长		中国民生银行		0252
+王晓永		3		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	党委副书记、副董事长、行长		中国民生银行		0252
+史玉柱		4		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	董事		中国民生银行		0252
+宋春风		5		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	董事		中国民生银行		0252
+梁鑫杰		6		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	董事		中国民生银行		0252
+林立		7		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	董事		中国民生银行		0252
+郑海阳		8		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	董事		中国民生银行		0252
+曲新久		9		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	董事		中国民生银行		0252
+温秋菊		10		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	董事		中国民生银行		0252
+宋焕政		11		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	董事		中国民生银行		0252
+杨志威		12		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	董事		中国民生银行		0252
+程凤朝		13		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	董事		中国民生银行		0252
+刘寒星		14		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	董事		中国民生银行		0252
+张俊潼		15		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	董事；党委副书记、执行董事、副行长		中国民生银行		0252
+李彬		16		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	党委委员、副行长、董事会秘书		中国民生银行		0252
+邵亚平		17		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	党委委员、纪委书记		中国民生银行		0252
+林云山		18		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	党委委员、副行长		中国民生银行		0252
+黄红日		19		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	党委委员、副行长、首席合规官		中国民生银行		0252
+李稳狮		20		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	党委委员、副行长		中国民生银行		0252
+张斌		21		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	首席信息官		中国民生银行		0252
+龚志坚		22		全国		http://www.cmbc.com.cn/cmbc_new/jrms/gyms/dshjs/index.html	业务总监、工会主席		中国民生银行		0252

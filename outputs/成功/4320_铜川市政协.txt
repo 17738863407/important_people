@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘西林		1		陕西省	铜川市	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/	主席		铜川市政协	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/zhuxi/12292.html	4320
+邱仕伟		2		陕西省	铜川市	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/	副主席		铜川市政协	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/fuzhuxi/12303.html	4320
+赵文山		3		陕西省	铜川市	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/	副主席		铜川市政协	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/fuzhuxi/12302.html	4320
+杨宏伟		4		陕西省	铜川市	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/	副主席		铜川市政协	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/fuzhuxi/12301.html	4320
+王晓刚		5		陕西省	铜川市	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/	副主席		铜川市政协	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/fuzhuxi/12300.html	4320
+姜文宏		6		陕西省	铜川市	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/	副主席		铜川市政协	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/fuzhuxi/12299.html	4320
+王红侠		7		陕西省	铜川市	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/	副主席		铜川市政协	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/fuzhuxi/12298.html	4320
+左车宁		8		陕西省	铜川市	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/	副主席		铜川市政协	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/fuzhuxi/12297.html	4320
+冯艳莉		9		陕西省	铜川市	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/	副主席		铜川市政协	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/fuzhuxi/12296.html	4320
+侯小洲		10		陕西省	铜川市	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/	副主席		铜川市政协	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/fuzhuxi/12294.html	4320
+宋敬		11		陕西省	铜川市	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/	秘书长		铜川市政协	http://www.sxtczx.gov.cn/zhengwugongkai/zhengxielingdao/mishuchang/12293.html	4320

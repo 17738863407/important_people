@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于想才		1		甘肃省	兰州市	http://swj.lanzhou.gov.cn/col/col4373/index.html	党组成员、副局长		兰州市商务局	http://swj.lanzhou.gov.cn/art/2026/8/7/art_4373_1725720.html	2604
+陈海力		2		甘肃省	兰州市	http://swj.lanzhou.gov.cn/col/col4373/index.html	党组成员、副局长、二级调研员		兰州市商务局	http://swj.lanzhou.gov.cn/art/2024/7/31/art_4373_276382.html	2604
+杨军		3		甘肃省	兰州市	http://swj.lanzhou.gov.cn/col/col4373/index.html	党组成员、市贸促会会长		兰州市商务局	http://swj.lanzhou.gov.cn/art/2024/7/31/art_4373_411087.html	2604
+丁建强		4		甘肃省	兰州市	http://swj.lanzhou.gov.cn/col/col4373/index.html	党组成员、副局长、三级调研员		兰州市商务局	http://swj.lanzhou.gov.cn/art/2024/7/31/art_4373_1316319.html	2604
+左娅宁		5		甘肃省	兰州市	http://swj.lanzhou.gov.cn/col/col4373/index.html	党组成员、副局长		兰州市商务局	http://swj.lanzhou.gov.cn/art/2024/9/20/art_4373_1391679.html	2604

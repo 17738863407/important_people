@@ -1,0 +1,20 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张宏森		1		全国		https://www.chinawriter.com.cn/403936/419343/index.html	中国作家协会第十届全国委员会主席；中国作家协会第十届全国委员会书记处书记		中国作家协会		0232
+王安忆		2		全国		https://www.chinawriter.com.cn/403936/419343/index.html	中国作家协会第十届全国委员会副主席		中国作家协会		0232
+白庚胜		3		全国		https://www.chinawriter.com.cn/403936/419343/index.html	中国作家协会第十届全国委员会副主席		中国作家协会		0232
+毕飞宇		4		全国		https://www.chinawriter.com.cn/403936/419343/index.html	中国作家协会第十届全国委员会副主席		中国作家协会		0232
+麦家		5		全国		https://www.chinawriter.com.cn/403936/419343/index.html	中国作家协会第十届全国委员会副主席		中国作家协会		0232
+李敬泽		6		全国		https://www.chinawriter.com.cn/403936/419343/index.html	中国作家协会第十届全国委员会副主席		中国作家协会		0232
+吴义勤		7		全国		https://www.chinawriter.com.cn/403936/419343/index.html	中国作家协会第十届全国委员会副主席；中国作家协会第十届全国委员会书记处书记		中国作家协会		0232
+邱华栋		8		全国		https://www.chinawriter.com.cn/403936/419343/index.html	中国作家协会第十届全国委员会副主席；中国作家协会第十届全国委员会书记处书记		中国作家协会		0232
+何向阳		9		全国		https://www.chinawriter.com.cn/403936/419343/index.html	中国作家协会第十届全国委员会副主席；中国作家协会第十届全国委员会书记处书记		中国作家协会		0232
+迟子建		10		全国		https://www.chinawriter.com.cn/403936/419343/index.html	中国作家协会第十届全国委员会副主席		中国作家协会		0232
+张炜		11		全国		https://www.chinawriter.com.cn/403936/419343/index.html	中国作家协会第十届全国委员会副主席		中国作家协会		0232
+阿来		12		全国		https://www.chinawriter.com.cn/403936/419343/index.html	中国作家协会第十届全国委员会副主席		中国作家协会		0232
+陈彦		13		全国		https://www.chinawriter.com.cn/403936/419343/index.html	中国作家协会第十届全国委员会副主席		中国作家协会		0232
+莫言		14		全国		https://www.chinawriter.com.cn/403936/419343/index.html	中国作家协会第十届全国委员会副主席		中国作家协会		0232
+格非		15		全国		https://www.chinawriter.com.cn/403936/419343/index.html	中国作家协会第十届全国委员会副主席		中国作家协会		0232
+徐贵祥		16		全国		https://www.chinawriter.com.cn/403936/419343/index.html	中国作家协会第十届全国委员会副主席		中国作家协会		0232
+阎晶明		17		全国		https://www.chinawriter.com.cn/403936/419343/index.html	中国作家协会第十届全国委员会副主席		中国作家协会		0232
+毛广程		18		全国		https://www.chinawriter.com.cn/403936/419343/index.html	中国作家协会第十届全国委员会书记处书记		中国作家协会		0232
+陈二厚		19		全国		https://www.chinawriter.com.cn/403936/419343/index.html	中国作家协会第十届全国委员会书记处书记		中国作家协会		0232

@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙镇平		1		全国		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/311.html	书记		最高人民法院机关党委		0288
+连丹波		2		全国		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/311.html	分管日常工作的副书记		最高人民法院机关党委		0288
+陈日涛		3		全国		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/311.html	副书记		最高人民法院机关党委		0288
+宁杰		4		全国		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/311.html	副书记、机关纪委书记		最高人民法院机关党委		0288

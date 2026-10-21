@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孟华强		1		辽宁省	锦州市	http://www.jz.gov.cn/zwgk/zfld.htm	市长		锦州市人民政府	http://www.jz.gov.cn/zwgk/zfld/mhq.htm	3845
+王利民		2		辽宁省	锦州市	http://www.jz.gov.cn/zwgk/zfld.htm	副市长		锦州市人民政府	http://www.jz.gov.cn/zwgk/zfld/wlm.htm	3845
+徐继华		3		辽宁省	锦州市	http://www.jz.gov.cn/zwgk/zfld.htm	副市长		锦州市人民政府	http://www.jz.gov.cn/zwgk/zfld/xjh.htm	3845
+缪徵阁		4		辽宁省	锦州市	http://www.jz.gov.cn/zwgk/zfld.htm	副市长		锦州市人民政府	http://www.jz.gov.cn/zwgk/zfld/mzg.htm	3845
+蒋立新		5		辽宁省	锦州市	http://www.jz.gov.cn/zwgk/zfld.htm	副市长		锦州市人民政府	http://www.jz.gov.cn/zwgk/zfld/jlx.htm	3845
+孙得胜		6		辽宁省	锦州市	http://www.jz.gov.cn/zwgk/zfld.htm	副市长		锦州市人民政府	http://www.jz.gov.cn/zwgk/zfld/sds.htm	3845
+焦健		7		辽宁省	锦州市	http://www.jz.gov.cn/zwgk/zfld.htm	副市长		锦州市人民政府	http://www.jz.gov.cn/zwgk/zfld/j_j.htm	3845
+屈晓明		8		辽宁省	锦州市	http://www.jz.gov.cn/zwgk/zfld.htm	副市长		锦州市人民政府	http://www.jz.gov.cn/zwgk/zfld/qxm.htm	3845

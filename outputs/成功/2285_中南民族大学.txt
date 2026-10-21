@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐业勤		1		湖北省	武汉市	https://www.scuec.edu.cn/xxkg/xrld.htm	党委书记；党委常委		中南民族大学	https://www.scuec.edu.cn/info/1006/3018.htm	2285
+刘义		2		湖北省	武汉市	https://www.scuec.edu.cn/xxkg/xrld.htm	党委副书记；党委常委；校长		中南民族大学	https://www.scuec.edu.cn/info/1006/3024.htm	2285
+李俊杰		3		湖北省	武汉市	https://www.scuec.edu.cn/xxkg/xrld.htm	党委副书记；纪委书记；党委常委		中南民族大学	https://www.scuec.edu.cn/info/1006/4726.htm	2285
+三朗扎西		4		湖北省	武汉市	https://www.scuec.edu.cn/xxkg/xrld.htm	党委副书记；党委常委；副校长		中南民族大学	https://www.scuec.edu.cn/info/1006/3032.htm	2285
+李红燕		5		湖北省	武汉市	https://www.scuec.edu.cn/xxkg/xrld.htm	党委常委；副校长		中南民族大学	https://www.scuec.edu.cn/info/1006/3030.htm	2285
+宋发军		6		湖北省	武汉市	https://www.scuec.edu.cn/xxkg/xrld.htm	党委常委；副校长		中南民族大学	https://www.scuec.edu.cn/info/1006/3031.htm	2285
+覃瑞		7		湖北省	武汉市	https://www.scuec.edu.cn/xxkg/xrld.htm	党委常委；副校长		中南民族大学	https://www.scuec.edu.cn/info/1006/3033.htm	2285
+方德斌		8		湖北省	武汉市	https://www.scuec.edu.cn/xxkg/xrld.htm	党委常委；副校长		中南民族大学	https://www.scuec.edu.cn/info/1006/3034.htm	2285
+马玉堂		9		湖北省	武汉市	https://www.scuec.edu.cn/xxkg/xrld.htm	党委常委；副校长		中南民族大学	https://www.scuec.edu.cn/info/1006/3035.htm	2285
+包莉娜		10		湖北省	武汉市	https://www.scuec.edu.cn/xxkg/xrld.htm	党委常委；总会计师		中南民族大学	https://www.scuec.edu.cn/info/1006/3036.htm	2285
+周刚		11		湖北省	武汉市	https://www.scuec.edu.cn/xxkg/xrld.htm	党委常委		中南民族大学	https://www.scuec.edu.cn/info/1006/5338.htm	2285

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谷剑锋		1		安徽省		https://czt.ah.gov.cn/public/column/7041?type=4&action=list&nav=3&sub=&catId=6715261	安徽省财政厅党组书记、厅长		安徽省财政厅	http://czt.ah.gov.cn/content/column/51520541?liId=461	0377
+张丰		2		安徽省		https://czt.ah.gov.cn/public/column/7041?type=4&action=list&nav=3&sub=&catId=6715261	安徽省财政厅党组成员、副厅长		安徽省财政厅	https://czt.ah.gov.cn/content/column/51520541?liId=1271	0377
+左自智		3		安徽省		https://czt.ah.gov.cn/public/column/7041?type=4&action=list&nav=3&sub=&catId=6715261	安徽省财政厅党组成员、副厅长		安徽省财政厅	https://czt.ah.gov.cn/content/column/51520541?liId=1281	0377
+张行宇		4		安徽省		https://czt.ah.gov.cn/public/column/7041?type=4&action=list&nav=3&sub=&catId=6715261	安徽省财政厅党组成员、副厅长		安徽省财政厅	https://czt.ah.gov.cn/content/column/51520541?liId=1441	0377
+胡宛平		5		安徽省		https://czt.ah.gov.cn/public/column/7041?type=4&action=list&nav=3&sub=&catId=6715261	安徽省纪委监委驻省财政厅纪检监察组组长、省财政厅党组成员		安徽省财政厅	https://czt.ah.gov.cn/content/column/51520541?liId=1461	0377
+方山恩		6		安徽省		https://czt.ah.gov.cn/public/column/7041?type=4&action=list&nav=3&sub=&catId=6715261	安徽省财政厅二级巡视员、预算处处长		安徽省财政厅	https://czt.ah.gov.cn/content/column/51520541?liId=1391	0377
+王旭		7		安徽省		https://czt.ah.gov.cn/public/column/7041?type=4&action=list&nav=3&sub=&catId=6715261	安徽省财政厅二级巡视员、预算绩效管理处处长		安徽省财政厅	https://czt.ah.gov.cn/content/column/51520541?liId=1531	0377
+李德军		8		安徽省		https://czt.ah.gov.cn/public/column/7041?type=4&action=list&nav=3&sub=&catId=6715261	安徽省财政厅二级巡视员		安徽省财政厅	https://czt.ah.gov.cn/content/column/51520541?liId=1551	0377

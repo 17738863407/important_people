@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李修武		1		西藏自治区	拉萨市	https://www.lasa.gov.cn/lsszfxxgk/jgjj/zfxxgk_jgjj.shtml	代理市长		拉萨市人民政府	https://www.lasa.gov.cn/lasa/shiz/202609/e4aed481cf3643e3a04e8f8433fa760a.shtml	1409
+张明智		2		西藏自治区	拉萨市	https://www.lasa.gov.cn/lsszfxxgk/jgjj/zfxxgk_jgjj.shtml	市委副书记、常务副市长（援藏）		拉萨市人民政府	https://www.lasa.gov.cn/lasa/fsz/202508/b8dc4bafe28843a1b656fe05181525fd.shtml	1409
+李江新		3		西藏自治区	拉萨市	https://www.lasa.gov.cn/lsszfxxgk/jgjj/zfxxgk_jgjj.shtml	市委副书记、常务副市长（援藏）		拉萨市人民政府	https://www.lasa.gov.cn/lasa/fsz/202402/c81eeacb470c4845b32c0ea14f8473c7.shtml	1409
+洛色		4		西藏自治区	拉萨市	https://www.lasa.gov.cn/lsszfxxgk/jgjj/zfxxgk_jgjj.shtml	副市长		拉萨市人民政府	https://www.lasa.gov.cn/lasa/fsz/202111/78f7e25083a14caeb990f206174f712a.shtml	1409
+赵世东		5		西藏自治区	拉萨市	https://www.lasa.gov.cn/lsszfxxgk/jgjj/zfxxgk_jgjj.shtml	副市长		拉萨市人民政府	https://www.lasa.gov.cn/lasa/fsz/202111/61907adc72974507bdf759f272bfd161.shtml	1409
+巴桑多吉		6		西藏自治区	拉萨市	https://www.lasa.gov.cn/lsszfxxgk/jgjj/zfxxgk_jgjj.shtml	副市长、市公安局局长		拉萨市人民政府	https://www.lasa.gov.cn/lasa/fsz/202304/814fd8b880b44cd0bde5016f6c9ea120.shtml	1409
+罗丹		7		西藏自治区	拉萨市	https://www.lasa.gov.cn/lsszfxxgk/jgjj/zfxxgk_jgjj.shtml	副市长		拉萨市人民政府	https://www.lasa.gov.cn/lasa/fsz/202402/915b793eb0e24aa9b9e30f8954f6bb22.shtml	1409
+高军		8		西藏自治区	拉萨市	https://www.lasa.gov.cn/lsszfxxgk/jgjj/zfxxgk_jgjj.shtml	副市长		拉萨市人民政府	https://www.lasa.gov.cn/lasa/fsz/202405/f4c09f7eda7d4ec58bd07f6b1c2ac5e8.shtml	1409
+白玛玉珍		9		西藏自治区	拉萨市	https://www.lasa.gov.cn/lsszfxxgk/jgjj/zfxxgk_jgjj.shtml	副市长		拉萨市人民政府	https://www.lasa.gov.cn/lasa/fsz/202405/cb97f80273074373b14346947729873c.shtml	1409
+陆文忠		10		西藏自治区	拉萨市	https://www.lasa.gov.cn/lsszfxxgk/jgjj/zfxxgk_jgjj.shtml	党组成员（援藏）		拉萨市人民政府	https://www.lasa.gov.cn/lasa/fsz/202411/a89c080813224e1b9e0223e1b3d76fcb.shtml	1409
+史文颖		11		西藏自治区	拉萨市	https://www.lasa.gov.cn/lsszfxxgk/jgjj/zfxxgk_jgjj.shtml	拉萨市政府党组成员、秘书长、机关党组书记		拉萨市人民政府	https://www.lasa.gov.cn/lasa/msz/202506/3a86d3bee204423485f59661cc57a803.shtml	1409

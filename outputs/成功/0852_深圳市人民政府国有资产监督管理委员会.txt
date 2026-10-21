@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨军		1		广东省	深圳市	http://gzw.sz.gov.cn/gkmlpt/index#1887	市国资委党委书记、主任		深圳市人民政府国有资产监督管理委员会	https://gzw.sz.gov.cn/gkmlpt/content/12/12619/post_12619840.html	0852
+徐国东		2		广东省	深圳市	http://gzw.sz.gov.cn/gkmlpt/index#1887	市国资委党委副书记、副主任		深圳市人民政府国有资产监督管理委员会	https://gzw.sz.gov.cn/gkmlpt/content/12/12619/post_12619839.html	0852
+吴战华		3		广东省	深圳市	http://gzw.sz.gov.cn/gkmlpt/index#1887	市国资委党委副书记、纪委书记		深圳市人民政府国有资产监督管理委员会	https://gzw.sz.gov.cn/gkmlpt/content/12/12619/post_12619838.html	0852
+张锋		4		广东省	深圳市	http://gzw.sz.gov.cn/gkmlpt/index#1887	市国资委党委委员、副主任		深圳市人民政府国有资产监督管理委员会	https://gzw.sz.gov.cn/gkmlpt/content/12/12619/post_12619835.html	0852
+迟泓琰		5		广东省	深圳市	http://gzw.sz.gov.cn/gkmlpt/index#1887	市国资委党委委员、副主任		深圳市人民政府国有资产监督管理委员会	https://gzw.sz.gov.cn/gkmlpt/content/12/12619/post_12619834.html	0852
+娄和儒		6		广东省	深圳市	http://gzw.sz.gov.cn/gkmlpt/index#1887	市国资委二级巡视员		深圳市人民政府国有资产监督管理委员会	https://gzw.sz.gov.cn/gkmlpt/content/12/12619/post_12619837.html	0852

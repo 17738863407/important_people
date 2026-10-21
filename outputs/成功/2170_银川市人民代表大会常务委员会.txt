@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱利军		1		宁夏回族自治区	银川市	http://rd.yinchuan.gov.cn/zrzc/zlj/	银川市人大常委会党组副书记、主任		银川市人民代表大会常务委员会		2170
+李全才		2		宁夏回族自治区	银川市	http://rd.yinchuan.gov.cn/zrzc/zlj/	银川市人大常委会党组成员、副主任		银川市人民代表大会常务委员会	https://rd.yinchuan.gov.cn/zrzc/lqc/	2170
+张凌峰		3		宁夏回族自治区	银川市	http://rd.yinchuan.gov.cn/zrzc/zlj/	银川市人大常委会党组成员、副主任		银川市人民代表大会常务委员会	https://rd.yinchuan.gov.cn/zrzc/myy/	2170
+冯伟斌		4		宁夏回族自治区	银川市	http://rd.yinchuan.gov.cn/zrzc/zlj/	银川市人大常委会党组成员、副主任		银川市人民代表大会常务委员会	https://rd.yinchuan.gov.cn/zrzc/cj/	2170
+马晓兰		5		宁夏回族自治区	银川市	http://rd.yinchuan.gov.cn/zrzc/zlj/	副主任		银川市人民代表大会常务委员会	https://rd.yinchuan.gov.cn/zrzc/zsf/	2170
+常洪斌		6		宁夏回族自治区	银川市	http://rd.yinchuan.gov.cn/zrzc/zlj/	银川市人大常委会副主任		银川市人民代表大会常务委员会	https://rd.yinchuan.gov.cn/zrzc/chb/	2170
+郝春明		7		宁夏回族自治区	银川市	http://rd.yinchuan.gov.cn/zrzc/zlj/	银川市人大常委会党组成员、副主任		银川市人民代表大会常务委员会	https://rd.yinchuan.gov.cn/zrzc/hcm/	2170
+孙瀚		8		宁夏回族自治区	银川市	http://rd.yinchuan.gov.cn/zrzc/zlj/	银川市人大常委会党组成员、秘书长		银川市人民代表大会常务委员会	https://rd.yinchuan.gov.cn/zrzc/sh/	2170

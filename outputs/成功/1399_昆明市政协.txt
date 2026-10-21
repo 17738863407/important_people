@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李康平		1		云南省	昆明市	http://www.kmszx.gov.cn/zxgk/zxld/	主席		昆明市政协	http://www.kmszx.gov.cn/c/2025-10-14/5026049.shtml	1399
+杨蔚玲		2		云南省	昆明市	http://www.kmszx.gov.cn/zxgk/zxld/	副主席		昆明市政协	http://www.kmszx.gov.cn/c/2025-04-18/4969573.shtml	1399
+徐毅清		3		云南省	昆明市	http://www.kmszx.gov.cn/zxgk/zxld/	副主席		昆明市政协	http://www.kmszx.gov.cn/c/2026-04-22/4269905.shtml	1399
+王键		4		云南省	昆明市	http://www.kmszx.gov.cn/zxgk/zxld/	副主席		昆明市政协	http://www.kmszx.gov.cn/c/2022-02-09/4269895.shtml	1399
+戴彬		5		云南省	昆明市	http://www.kmszx.gov.cn/zxgk/zxld/	副主席		昆明市政协	http://www.kmszx.gov.cn/c/2022-02-09/4269890.shtml	1399
+吴波		6		云南省	昆明市	http://www.kmszx.gov.cn/zxgk/zxld/	副主席		昆明市政协	http://www.kmszx.gov.cn/c/2022-02-09/4269888.shtml	1399
+许绍忠		7		云南省	昆明市	http://www.kmszx.gov.cn/zxgk/zxld/	秘书长		昆明市政协	http://www.kmszx.gov.cn/c/2022-02-09/4269886.shtml	1399

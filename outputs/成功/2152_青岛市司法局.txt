@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邓焕礼		1		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/sfj/gkml/jgxx/200902/t20090204_7743098.shtml	市委全面依法治市委员会办公室副主任，市司法局党委书记、局长，市强制隔离戒毒所第一政委		青岛市司法局		2152
+刘文建		2		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/sfj/gkml/jgxx/200902/t20090204_7743098.shtml	市司法局党委副书记、副局长		青岛市司法局		2152
+傅强		3		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/sfj/gkml/jgxx/200902/t20090204_7743098.shtml	市司法局党委委员、副局长		青岛市司法局		2152
+辛琦		4		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/sfj/gkml/jgxx/200902/t20090204_7743098.shtml	市司法局党委委员、副局长		青岛市司法局		2152
+洪迪		5		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/sfj/gkml/jgxx/200902/t20090204_7743098.shtml	市司法局党委委员、政治部（警务部）主任		青岛市司法局		2152
+姜鹏辉		6		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/sfj/gkml/jgxx/200902/t20090204_7743098.shtml	市司法局党委委员、副局长，办公室（应急指挥中心）主任		青岛市司法局		2152
+丁兆伦		7		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/sfj/gkml/jgxx/200902/t20090204_7743098.shtml	市司法局副局级领导干部		青岛市司法局		2152
+潘伟华		8		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/sfj/gkml/jgxx/200902/t20090204_7743098.shtml	市司法局副巡视员		青岛市司法局		2152

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+曹忠平		1		湖南省		https://mzt.hunan.gov.cn/mzt/xxgk/jgzn/jgld/index.html	党组书记、厅长，省委非公有制经济组织和社会组织工委副书记		湖南省民政厅	https://mzt.hunan.gov.cn/mzt/xxgk/jgzn/jgld/202010/t20201022_13890061.html	1783
+蒋建华		2		湖南省		https://mzt.hunan.gov.cn/mzt/xxgk/jgzn/jgld/index.html	党组成员、副厅长		湖南省民政厅	https://mzt.hunan.gov.cn/mzt/xxgk/jgzn/jgld/201911/t20191127_10780506.html	1783
+廖国核		3		湖南省		https://mzt.hunan.gov.cn/mzt/xxgk/jgzn/jgld/index.html	党组成员、副厅长，省委离退休干部工作委员会副书记		湖南省民政厅	https://mzt.hunan.gov.cn/mzt/xxgk/jgzn/jgld/202404/t20240416_33278422.html	1783
+欧阳标		4		湖南省		https://mzt.hunan.gov.cn/mzt/xxgk/jgzn/jgld/index.html	党组成员、副厅长		湖南省民政厅	https://mzt.hunan.gov.cn/mzt/xxgk/jgzn/jgld/202510/t20251031_33839046.html	1783
+黎瑞		5		湖南省		https://mzt.hunan.gov.cn/mzt/xxgk/jgzn/jgld/index.html	厅党组成员，省纪委省监委驻省民政厅纪检监察组组长、二级高级监察官		湖南省民政厅	https://mzt.hunan.gov.cn/mzt/xxgk/jgzn/jgld/202312/t20231204_32455956.html	1783
+曹政军		6		湖南省		https://mzt.hunan.gov.cn/mzt/xxgk/jgzn/jgld/index.html	党组成员、副厅长		湖南省民政厅	https://mzt.hunan.gov.cn/mzt/xxgk/jgzn/jgld/202603/t20260313_33933571.html	1783

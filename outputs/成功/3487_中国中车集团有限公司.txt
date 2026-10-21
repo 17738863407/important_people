@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙永才		1		全国		http://www.crrcgc.cc/crrcgc/71_4829/71_7024/index.html	集团公司党委书记、董事长		中国中车集团有限公司		3487
+王锋		2		全国		http://www.crrcgc.cc/crrcgc/71_4829/71_7024/index.html	集团公司党委副书记、董事、总经理		中国中车集团有限公司		3487
+王铵		3		全国		http://www.crrcgc.cc/crrcgc/71_4829/71_7024/index.html	集团公司党委副书记、职工董事		中国中车集团有限公司		3487
+曲孝利		4		全国		http://www.crrcgc.cc/crrcgc/71_4829/71_7024/index.html	集团公司党委常委		中国中车集团有限公司		3487
+冯建中		5		全国		http://www.crrcgc.cc/crrcgc/71_4829/71_7024/index.html	集团公司党委常委、纪委书记		中国中车集团有限公司		3487
+刘可安		6		全国		http://www.crrcgc.cc/crrcgc/71_4829/71_7024/index.html	集团公司党委常委		中国中车集团有限公司		3487
+宁文泽		7		全国		http://www.crrcgc.cc/crrcgc/71_4829/71_7024/index.html	集团公司党委常委		中国中车集团有限公司		3487
+谭沐		8		全国		http://www.crrcgc.cc/crrcgc/71_4829/71_7024/index.html	集团公司党委常委		中国中车集团有限公司		3487

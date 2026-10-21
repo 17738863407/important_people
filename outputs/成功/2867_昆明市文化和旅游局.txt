@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马谦		1		云南省	昆明市	https://whhlyj.km.gov.cn/zfxxgk/fdzdgknr/zfld/	党组书记、局长		昆明市文化和旅游局	https://whhlyj.km.gov.cn/c/2026-03-16/4395251.shtml	2867
+李燕		2		云南省	昆明市	https://whhlyj.km.gov.cn/zfxxgk/fdzdgknr/zfld/	党组成员、副局长		昆明市文化和旅游局	https://whhlyj.km.gov.cn/c/2026-03-16/4396351.shtml	2867
+王明瑶		3		云南省	昆明市	https://whhlyj.km.gov.cn/zfxxgk/fdzdgknr/zfld/	党组成员、副局长		昆明市文化和旅游局	https://whhlyj.km.gov.cn/c/2026-03-16/4396338.shtml	2867
+普春明		4		云南省	昆明市	https://whhlyj.km.gov.cn/zfxxgk/fdzdgknr/zfld/	党组成员、副局长		昆明市文化和旅游局	https://whhlyj.km.gov.cn/c/2026-03-16/4396334.shtml	2867
+唐婧		5		云南省	昆明市	https://whhlyj.km.gov.cn/zfxxgk/fdzdgknr/zfld/	党组成员、副局长		昆明市文化和旅游局	https://whhlyj.km.gov.cn/c/2026-03-16/4724997.shtml	2867
+钱进		6		云南省	昆明市	https://whhlyj.km.gov.cn/zfxxgk/fdzdgknr/zfld/	副局长		昆明市文化和旅游局	https://whhlyj.km.gov.cn/c/2026-03-16/4396332.shtml	2867
+张舒		7		云南省	昆明市	https://whhlyj.km.gov.cn/zfxxgk/fdzdgknr/zfld/	党组成员、市纪委市监委驻市文化和旅游局纪检监察组组长		昆明市文化和旅游局	https://whhlyj.km.gov.cn/c/2026-03-16/5063787.shtml	2867

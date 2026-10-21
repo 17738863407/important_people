@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵海英		1		吉林省	长春市	http://ccfao.changchun.gov.cn/zwgk/jgzn/ldbz/	主任		长春市人民政府外事办公室	http://ccfao.changchun.gov.cn/zwgk/jgzn/ldbz/202504/t20250427_3396046.html	0145
+欧硕		2		吉林省	长春市	http://ccfao.changchun.gov.cn/zwgk/jgzn/ldbz/	副主任		长春市人民政府外事办公室	http://ccfao.changchun.gov.cn/zwgk/jgzn/ldbz/202504/t20250427_3396045.html	0145
+杨小萍		3		吉林省	长春市	http://ccfao.changchun.gov.cn/zwgk/jgzn/ldbz/	副主任		长春市人民政府外事办公室	http://ccfao.changchun.gov.cn/zwgk/jgzn/ldbz/202504/t20250427_3396042.html	0145
+薛春志		4		吉林省	长春市	http://ccfao.changchun.gov.cn/zwgk/jgzn/ldbz/	一级巡视员		长春市人民政府外事办公室	http://ccfao.changchun.gov.cn/zwgk/jgzn/ldbz/202504/t20250427_3396041.html	0145

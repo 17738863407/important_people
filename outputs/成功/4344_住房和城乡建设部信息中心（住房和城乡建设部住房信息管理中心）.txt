@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王旭东		1		全国		https://www.mohurdic.org.cn/jg/zxld/index.html	党委书记		住房和城乡建设部信息中心（住房和城乡建设部住房信息管理中心）		4344
+陈伟		2		全国		https://www.mohurdic.org.cn/jg/zxld/index.html	副书记、主任		住房和城乡建设部信息中心（住房和城乡建设部住房信息管理中心）		4344
+吴旭彦		3		全国		https://www.mohurdic.org.cn/jg/zxld/index.html	副主任		住房和城乡建设部信息中心（住房和城乡建设部住房信息管理中心）		4344
+吴文君		4		全国		https://www.mohurdic.org.cn/jg/zxld/index.html	纪委书记		住房和城乡建设部信息中心（住房和城乡建设部住房信息管理中心）		4344
+王柏峰		5		全国		https://www.mohurdic.org.cn/jg/zxld/index.html	副主任		住房和城乡建设部信息中心（住房和城乡建设部住房信息管理中心）		4344

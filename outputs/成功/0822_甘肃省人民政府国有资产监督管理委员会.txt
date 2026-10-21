@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴万华		1		甘肃省		https://gzw.gansu.gov.cn/gzw/c108987/xxgk_list2.shtml	省政府国资委主任、党委书记		甘肃省人民政府国有资产监督管理委员会	https://gzw.gansu.gov.cn/gzw/c108987/202405/173916369.shtml	0822
+李勇		2		甘肃省		https://gzw.gansu.gov.cn/gzw/c108987/xxgk_list2.shtml	省政府国资委党委副书记		甘肃省人民政府国有资产监督管理委员会	https://gzw.gansu.gov.cn/gzw/c108987/202405/173916388.shtml	0822
+陈发述		3		甘肃省		https://gzw.gansu.gov.cn/gzw/c108987/xxgk_list2.shtml	省纪委监委派驻省政府国资委纪检监察组组长、省政府国资委党委委员		甘肃省人民政府国有资产监督管理委员会	https://gzw.gansu.gov.cn/gzw/c108987/202405/173916390.shtml	0822
+陆世杰		4		甘肃省		https://gzw.gansu.gov.cn/gzw/c108987/xxgk_list2.shtml	省政府国资委党委委员、副主任		甘肃省人民政府国有资产监督管理委员会	https://gzw.gansu.gov.cn/gzw/c108987/202405/173916392.shtml	0822
+闫志恒		5		甘肃省		https://gzw.gansu.gov.cn/gzw/c108987/xxgk_list2.shtml	省政府国资委党委委员、副主任		甘肃省人民政府国有资产监督管理委员会	https://gzw.gansu.gov.cn/gzw/c108987/202405/173916395.shtml	0822
+郭克斌		6		甘肃省		https://gzw.gansu.gov.cn/gzw/c108987/xxgk_list2.shtml	省政府国资委党委委员、副主任		甘肃省人民政府国有资产监督管理委员会	https://gzw.gansu.gov.cn/gzw/c108987/202410/174002932.shtml	0822
+张晓煜		7		甘肃省		https://gzw.gansu.gov.cn/gzw/c108987/xxgk_list2.shtml	省政府国资委一级巡视员		甘肃省人民政府国有资产监督管理委员会	https://gzw.gansu.gov.cn/gzw/c108987/202604/174323448.shtml	0822

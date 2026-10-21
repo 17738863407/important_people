@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+田旭		1		青海省	西宁市	https://www.xining.gov.cn/zwgk/fdzdgknr/jgjj/jgzn_43/202012/t20201207_143045.html	西宁市政府副市长、党组成员、市委政法委副书记、市公安局党委书记、局长、督察长		西宁市公安局		3072
+赵小克		2		青海省	西宁市	https://www.xining.gov.cn/zwgk/fdzdgknr/jgjj/jgzn_43/202012/t20201207_143045.html	西宁市公安局党委副书记、副局长		西宁市公安局		3072
+马旦正		3		青海省	西宁市	https://www.xining.gov.cn/zwgk/fdzdgknr/jgjj/jgzn_43/202012/t20201207_143045.html	西宁市公安局党委委员、副局长		西宁市公安局		3072
+薛江峰		4		青海省	西宁市	https://www.xining.gov.cn/zwgk/fdzdgknr/jgjj/jgzn_43/202012/t20201207_143045.html	西宁市公安局党委委员、政治部主任		西宁市公安局		3072
+赵强		5		青海省	西宁市	https://www.xining.gov.cn/zwgk/fdzdgknr/jgjj/jgzn_43/202012/t20201207_143045.html	西宁市公安局党委委员、副局长		西宁市公安局		3072
+黄才界		6		青海省	西宁市	https://www.xining.gov.cn/zwgk/fdzdgknr/jgjj/jgzn_43/202012/t20201207_143045.html	西宁市公安局党委委员、市公安交通管理局局长		西宁市公安局		3072

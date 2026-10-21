@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈久旺		1		内蒙古自治区		https://gdb.nmg.gov.cn/zfxxgk/?gk=3	副主任		内蒙古自治区国防动员办公室	https://gdb.nmg.gov.cn/zfxxgk/fdzdgknr/jgjj/ldjj/202110/t20211013_1902198.html	0670
+胡少伟		2		内蒙古自治区		https://gdb.nmg.gov.cn/zfxxgk/?gk=3	副主任		内蒙古自治区国防动员办公室	https://gdb.nmg.gov.cn/zfxxgk/fdzdgknr/jgjj/ldjj/202309/t20230908_2375986.html	0670
+王志勇		3		内蒙古自治区		https://gdb.nmg.gov.cn/zfxxgk/?gk=3	二级巡视员		内蒙古自治区国防动员办公室	https://gdb.nmg.gov.cn/zfxxgk/fdzdgknr/jgjj/ldjj/202512/t20251229_2842390.html	0670

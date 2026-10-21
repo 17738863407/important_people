@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+袁光灿		1		重庆市		http://tyj.cq.gov.cn/zwgk_253/fdzdgknr/jgzn/wap.html	市体育局党组书记、局长		重庆市体育局	http://tyj.cq.gov.cn/zwgk_253/fdzdgknr/jgzn/fzrxx/202409/t20240910_13612590.html	2762
+石强桢		2		重庆市		http://tyj.cq.gov.cn/zwgk_253/fdzdgknr/jgzn/wap.html	市体育局党组成员、副局长		重庆市体育局	http://tyj.cq.gov.cn/zwgk_253/fdzdgknr/jgzn/fzrxx/202409/t20240910_13612568.html	2762
+杜学勇		3		重庆市		http://tyj.cq.gov.cn/zwgk_253/fdzdgknr/jgzn/wap.html	市体育局副局长		重庆市体育局	http://tyj.cq.gov.cn/zwgk_253/fdzdgknr/jgzn/fzrxx/202409/t20240910_13612723.html	2762
+张周勇		4		重庆市		http://tyj.cq.gov.cn/zwgk_253/fdzdgknr/jgzn/wap.html	市体育局党组成员、副局长		重庆市体育局	http://tyj.cq.gov.cn/zwgk_253/fdzdgknr/jgzn/fzrxx/202504/t20250415_14523590.html	2762
+何晓波		5		重庆市		http://tyj.cq.gov.cn/zwgk_253/fdzdgknr/jgzn/wap.html	市体育局二级巡视员		重庆市体育局	http://tyj.cq.gov.cn/zwgk_253/fdzdgknr/jgzn/fzrxx/202409/t20240910_13612584.html	2762
+张小军		6		重庆市		http://tyj.cq.gov.cn/zwgk_253/fdzdgknr/jgzn/wap.html	市体育局二级巡视员		重庆市体育局	http://tyj.cq.gov.cn/zwgk_253/fdzdgknr/jgzn/fzrxx/202409/t20240910_13612561.html	2762

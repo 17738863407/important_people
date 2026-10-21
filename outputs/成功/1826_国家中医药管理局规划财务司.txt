@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘群峰		1		全国		http://www.natcm.gov.cn/guicaisi/guanyuwomen/2020-05-22/15268.html	规划财务司司长		国家中医药管理局规划财务司		1826
+李强		2		全国		http://www.natcm.gov.cn/guicaisi/guanyuwomen/2020-05-22/15268.html	规划财务司副司长		国家中医药管理局规划财务司		1826
+陈丽娜		3		全国		http://www.natcm.gov.cn/guicaisi/guanyuwomen/2020-05-22/15268.html	规划财务司副司长		国家中医药管理局规划财务司		1826
+王岩		4		全国		http://www.natcm.gov.cn/guicaisi/guanyuwomen/2020-05-22/15268.html	规划财务司二级巡视员		国家中医药管理局规划财务司		1826

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+韩龙		1		辽宁省	沈阳市	https://www.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmzn/202111/t20211102_621181.html	市政府机关党组成员、市政府办公厅副主任		沈阳市人民政府办公厅	http://www.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/202111/t20211102_634370.html	2405
+齐凯		2		辽宁省	沈阳市	https://www.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmzn/202111/t20211102_621181.html	市政府机关党组成员、市政府办公厅副主任		沈阳市人民政府办公厅	https://www.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/202409/t20240909_4729557.html	2405
+徐杰		3		辽宁省	沈阳市	https://www.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmzn/202111/t20211102_621181.html	市政府机关党组成员、市纪委监委驻市政府办公厅纪检监察组组长、三级高级监察官		沈阳市人民政府办公厅	https://www.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/202508/t20250806_4887008.html	2405
+冯东旭		4		辽宁省	沈阳市	https://www.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmzn/202111/t20211102_621181.html	市政府机关党组成员、市政府办公厅副主任		沈阳市人民政府办公厅	https://www.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/202508/t20250806_4887006.html	2405
+王广泽		5		辽宁省	沈阳市	https://www.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmzn/202111/t20211102_621181.html	市政府机关党组成员、市政府办公厅副主任		沈阳市人民政府办公厅	https://www.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/202604/t20260430_5022207.html	2405

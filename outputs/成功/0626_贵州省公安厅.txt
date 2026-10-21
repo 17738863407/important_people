@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王冬斌		1		贵州省		https://gat.guizhou.gov.cn/zwgk/jcxxgk/jgzz/ldjj/	贵州省副省长、省政府党组成员，省公安厅厅长、党委书记、督察长，省委政法委员会委员		贵州省公安厅	http://gat.guizhou.gov.cn/zwgk/jcxxgk/jgzz/ldjj/202308/t20230816_81813175.html	0626
+白宇君		2		贵州省		https://gat.guizhou.gov.cn/zwgk/jcxxgk/jgzz/ldjj/	贵州省公安厅党委委员，特勤局局长		贵州省公安厅	http://gat.guizhou.gov.cn/zwgk/jcxxgk/jgzz/ldjj/202603/t20260319_89890121.html	0626
+吴智贤		3		贵州省		https://gat.guizhou.gov.cn/zwgk/jcxxgk/jgzz/ldjj/	省公安厅党委委员、副厅长		贵州省公安厅	http://gat.guizhou.gov.cn/zwgk/jcxxgk/jgzz/ldjj/202009/t20200910_76606922.html	0626
+王章权		4		贵州省		https://gat.guizhou.gov.cn/zwgk/jcxxgk/jgzz/ldjj/	省公安厅党委委员、贵州省纪委省监委派驻省公安厅纪检监察组组长		贵州省公安厅	http://gat.guizhou.gov.cn/zwgk/jcxxgk/jgzz/ldjj/202311/t20231102_82914305.html	0626
+杨茁		5		贵州省		https://gat.guizhou.gov.cn/zwgk/jcxxgk/jgzz/ldjj/	省公安厅党委委员、副厅长		贵州省公安厅	http://gat.guizhou.gov.cn/zwgk/jcxxgk/jgzz/ldjj/202403/t20240312_83914137.html	0626
+严俊		6		贵州省		https://gat.guizhou.gov.cn/zwgk/jcxxgk/jgzz/ldjj/	省公安厅党委委员、政治部主任		贵州省公安厅	http://gat.guizhou.gov.cn/zwgk/jcxxgk/jgzz/ldjj/202510/t20251020_88711691.html	0626
+贺承军		7		贵州省		https://gat.guizhou.gov.cn/zwgk/jcxxgk/jgzz/ldjj/	省公安厅党委委员、副厅长		贵州省公安厅	http://gat.guizhou.gov.cn/zwgk/jcxxgk/jgzz/ldjj/202604/t20260424_90043324.html	0626
+官照		8		贵州省		https://gat.guizhou.gov.cn/zwgk/jcxxgk/jgzz/ldjj/	贵州省公安厅党委委员、副厅长		贵州省公安厅	http://gat.guizhou.gov.cn/zwgk/jcxxgk/jgzz/ldjj/202609/t20260918_90897178.html	0626

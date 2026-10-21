@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+申兆军		1		全国		http://www.chinasalt.com.cn/gyzy/gltd/	董事长；党委书记		中国盐业集团有限公司		3477
+李建忠		2		全国		http://www.chinasalt.com.cn/gyzy/gltd/	董事；党委副书记；总经理		中国盐业集团有限公司		3477
+张雯		3		全国		http://www.chinasalt.com.cn/gyzy/gltd/	董事		中国盐业集团有限公司		3477
+武广齐		4		全国		http://www.chinasalt.com.cn/gyzy/gltd/	董事		中国盐业集团有限公司		3477
+赵寿森		5		全国		http://www.chinasalt.com.cn/gyzy/gltd/	董事		中国盐业集团有限公司		3477
+高建设		6		全国		http://www.chinasalt.com.cn/gyzy/gltd/	董事		中国盐业集团有限公司		3477
+黄伟		7		全国		http://www.chinasalt.com.cn/gyzy/gltd/	党委委员；副总经理		中国盐业集团有限公司		3477
+王云		8		全国		http://www.chinasalt.com.cn/gyzy/gltd/	党委委员；副总经理		中国盐业集团有限公司		3477
+汤念楚		9		全国		http://www.chinasalt.com.cn/gyzy/gltd/	党委委员；纪委书记		中国盐业集团有限公司		3477
+黄芳胜		10		全国		http://www.chinasalt.com.cn/gyzy/gltd/	党委委员		中国盐业集团有限公司		3477
+王晓雯		11		全国		http://www.chinasalt.com.cn/gyzy/gltd/	总会计师		中国盐业集团有限公司		3477
+巩峰		12		全国		http://www.chinasalt.com.cn/gyzy/gltd/	副总经理		中国盐业集团有限公司		3477

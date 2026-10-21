@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+董旭斌		1		浙江省		https://www.zj.gov.cn/dctslm/zjsrmzfgyzcjdglwyh/index.html	党委书记、主任		浙江省人民政府国有资产监督管理委员会	https://www.zj.gov.cn/col/col1229278492/art/2026/art_e9203faf25f90ccd0bfaf1564337fd36.html	3344
+蒲晓斌		2		浙江省		https://www.zj.gov.cn/dctslm/zjsrmzfgyzcjdglwyh/index.html	党委副书记（专职）		浙江省人民政府国有资产监督管理委员会	https://www.zj.gov.cn/art/2023/6/13/art_1229278492_133637.html	3344
+顾涛		3		浙江省		https://www.zj.gov.cn/dctslm/zjsrmzfgyzcjdglwyh/index.html	党委委员、副主任		浙江省人民政府国有资产监督管理委员会	https://www.zj.gov.cn/art/2023/6/13/art_1229278492_104892.html	3344
+苏益松		4		浙江省		https://www.zj.gov.cn/dctslm/zjsrmzfgyzcjdglwyh/index.html	党委委员、纪检监察组组长		浙江省人民政府国有资产监督管理委员会	https://www.zj.gov.cn/art/2023/6/13/art_1229278492_144481.html	3344
+童海桑		5		浙江省		https://www.zj.gov.cn/dctslm/zjsrmzfgyzcjdglwyh/index.html	党委委员、副主任、总会计师		浙江省人民政府国有资产监督管理委员会	https://www.zj.gov.cn/art/2023/6/13/art_1229278492_144499.html	3344
+黄波		6		浙江省		https://www.zj.gov.cn/dctslm/zjsrmzfgyzcjdglwyh/index.html	党委委员、企业领导人员管理处（董事会工作处）处长		浙江省人民政府国有资产监督管理委员会	https://www.zj.gov.cn/art/2023/6/13/art_1229278492_86111.html	3344

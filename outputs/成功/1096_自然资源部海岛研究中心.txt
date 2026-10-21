@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+冯磊		1		全国		https://www.ircmnr.com/html/web/product/xianrenlingdao/index.html	主任、党委书记		自然资源部海岛研究中心	https://www.ircmnr.com/html/web/product/xianrenlingdao/1993969640824602626.html	1096
+洪再展		2		全国		https://www.ircmnr.com/html/web/product/xianrenlingdao/index.html	党委副书记兼纪委书记		自然资源部海岛研究中心	https://www.ircmnr.com/html/web/product/xianrenlingdao/1569.html	1096
+林河山		3		全国		https://www.ircmnr.com/html/web/product/xianrenlingdao/index.html	党委委员、副主任		自然资源部海岛研究中心	https://www.ircmnr.com/html/web/product/xianrenlingdao/1599.html	1096
+谭骏		4		全国		https://www.ircmnr.com/html/web/product/xianrenlingdao/index.html	党委委员、副主任		自然资源部海岛研究中心	https://www.ircmnr.com/html/web/product/xianrenlingdao/1933079137120124929.html	1096

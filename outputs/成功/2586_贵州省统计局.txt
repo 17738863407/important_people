@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王朝晖		1		贵州省		https://stjj.guizhou.gov.cn/zwgk/ldzc/	贵州省统计局党组书记、局长		贵州省统计局	http://stjj.guizhou.gov.cn/zwgk/ldzc/202008/t20200804_86392757.html	2586
+吴定伟		2		贵州省		https://stjj.guizhou.gov.cn/zwgk/ldzc/	贵州省统计局党组成员、副局长		贵州省统计局	http://stjj.guizhou.gov.cn/zwgk/ldzc/202006/t20200604_86392750.html	2586
+邓曼		3		贵州省		https://stjj.guizhou.gov.cn/zwgk/ldzc/	贵州省统计局党组成员、副局长		贵州省统计局	http://stjj.guizhou.gov.cn/zwgk/ldzc/202210/t20221031_86392761.html	2586
+刘晴		4		贵州省		https://stjj.guizhou.gov.cn/zwgk/ldzc/	贵州省统计局二级巡视员,第五届贵州省统计学会会长		贵州省统计局	http://stjj.guizhou.gov.cn/zwgk/ldzc/202309/t20230913_86392762.html	2586
+谭春明		5		贵州省		https://stjj.guizhou.gov.cn/zwgk/ldzc/	贵州省统计局二级巡视员		贵州省统计局	http://stjj.guizhou.gov.cn/zwgk/ldzc/202401/t20240103_86392763.html	2586
+吴江		6		贵州省		https://stjj.guizhou.gov.cn/zwgk/ldzc/	贵州省统计局二级巡视员、新经济统计处处长		贵州省统计局	http://stjj.guizhou.gov.cn/zwgk/ldzc/202609/t20260923_90932865.html	2586
+刘旭		7		贵州省		https://stjj.guizhou.gov.cn/zwgk/ldzc/	贵州省统计局二级巡视员、统计设计管理处处长		贵州省统计局	http://stjj.guizhou.gov.cn/zwgk/ldzc/202609/t20260923_90932879.html	2586

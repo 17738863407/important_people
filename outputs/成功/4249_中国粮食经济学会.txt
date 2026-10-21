@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+韩卫江		1		全国		https://www.chinagrain.org.cn/xuehuijianjie/fuzerenmingdan/ff80808190b3ff250190ee40ec310841.html	会长；国家粮食和物资储备局原党组成员、副局长		中国粮食经济学会		4249
+肖春阳		2		全国		https://www.chinagrain.org.cn/xuehuijianjie/fuzerenmingdan/ff80808190b3ff250190ee40ec310841.html	副会长；原国家粮食和物资储备局宣传教育中心中国粮食经济学会党支部书记,国家粮食和物资储备局宣传教育中心原副主任		中国粮食经济学会		4249
+熊本国		3		全国		https://www.chinagrain.org.cn/xuehuijianjie/fuzerenmingdan/ff80808190b3ff250190ee40ec310841.html	副会长；中国储备粮管理集团有限公司党组成员、副总经理		中国粮食经济学会		4249
+程国强		4		全国		https://www.chinagrain.org.cn/xuehuijianjie/fuzerenmingdan/ff80808190b3ff250190ee40ec310841.html	副会长；中国人民大学吴玉章讲席教授		中国粮食经济学会		4249
+杜志雄		5		全国		https://www.chinagrain.org.cn/xuehuijianjie/fuzerenmingdan/ff80808190b3ff250190ee40ec310841.html	副会长；第十四届全国政协委员，中国社会科学院农村发展研究所党委书记、副所长		中国粮食经济学会		4249
+程永波		6		全国		https://www.chinagrain.org.cn/xuehuijianjie/fuzerenmingdan/ff80808190b3ff250190ee40ec310841.html	副会长；第十四届全国政协常委，南京财经大学校长		中国粮食经济学会		4249
+李成伟		7		全国		https://www.chinagrain.org.cn/xuehuijianjie/fuzerenmingdan/ff80808190b3ff250190ee40ec310841.html	副会长；第十四届全国人大代表，郑州大学党委书记		中国粮食经济学会		4249
+吴智深		8		全国		https://www.chinagrain.org.cn/xuehuijianjie/fuzerenmingdan/ff80808190b3ff250190ee40ec310841.html	副会长；河南工业大学校长		中国粮食经济学会		4249
+王立兵		9		全国		https://www.chinagrain.org.cn/xuehuijianjie/fuzerenmingdan/ff80808190b3ff250190ee40ec310841.html	副会长；武汉轻工大学原党委书记		中国粮食经济学会		4249
+程郁		10		全国		https://www.chinagrain.org.cn/xuehuijianjie/fuzerenmingdan/ff80808190b3ff250190ee40ec310841.html	副会长；国务院发展研究中心农村经济研究部副部长		中国粮食经济学会		4249
+毛世平		11		全国		https://www.chinagrain.org.cn/xuehuijianjie/fuzerenmingdan/ff80808190b3ff250190ee40ec310841.html	副会长；中国农业科学院农业经济与发展研究所党委书记、副所长		中国粮食经济学会		4249
+司伟		12		全国		https://www.chinagrain.org.cn/xuehuijianjie/fuzerenmingdan/ff80808190b3ff250190ee40ec310841.html	副会长；中国农业大学经济管理学院院长		中国粮食经济学会		4249
+刘鸿君		13		全国		https://www.chinagrain.org.cn/xuehuijianjie/fuzerenmingdan/ff80808190b3ff250190ee40ec310841.html	副会长；郑州商品交易所商品二部党支部书记、总监		中国粮食经济学会		4249
+于衍霞		14		全国		https://www.chinagrain.org.cn/xuehuijianjie/fuzerenmingdan/ff80808190b3ff250190ee40ec310841.html	秘书长		中国粮食经济学会		4249

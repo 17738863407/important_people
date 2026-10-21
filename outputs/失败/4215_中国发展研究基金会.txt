@@ -1,0 +1,23 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王微		1		全国		https://www.cdrf.org.cn/zzjg1.htm	理事		中国发展研究基金会		4215
+叶兴庆		2		全国		https://www.cdrf.org.cn/zzjg1.htm	理事		中国发展研究基金会		4215
+吕薇		3		全国		https://www.cdrf.org.cn/zzjg1.htm	理事		中国发展研究基金会		4215
+朱云来		4		全国		https://www.cdrf.org.cn/zzjg1.htm	理事		中国发展研究基金会		4215
+任兴洲		5		全国		https://www.cdrf.org.cn/zzjg1.htm	理事		中国发展研究基金会		4215
+孙祁祥		6		全国		https://www.cdrf.org.cn/zzjg1.htm	理事		中国发展研究基金会		4215
+李兰		7		全国		https://www.cdrf.org.cn/zzjg1.htm	理事		中国发展研究基金会		4215
+沈南鹏		8		全国		https://www.cdrf.org.cn/zzjg1.htm	理事		中国发展研究基金会		4215
+张亮		9		全国		https://www.cdrf.org.cn/zzjg1.htm	中国发展研究基金会副理事长兼秘书长		中国发展研究基金会		4215
+张文中		10		全国		https://www.cdrf.org.cn/zzjg1.htm	理事		中国发展研究基金会		4215
+张军扩		11		全国		https://www.cdrf.org.cn/zzjg1.htm	中国发展研究基金会理事长		中国发展研究基金会		4215
+张志洲		12		全国		https://www.cdrf.org.cn/zzjg1.htm	理事		中国发展研究基金会		4215
+林家彬		13		全国		https://www.cdrf.org.cn/zzjg1.htm	理事		中国发展研究基金会		4215
+赵晋平		14		全国		https://www.cdrf.org.cn/zzjg1.htm	理事		中国发展研究基金会		4215
+侯永志		15		全国		https://www.cdrf.org.cn/zzjg1.htm	理事		中国发展研究基金会		4215
+曹永刚		16		全国		https://www.cdrf.org.cn/zzjg1.htm	理事		中国发展研究基金会		4215
+薛澜		17		全国		https://www.cdrf.org.cn/zzjg1.htm	理事		中国发展研究基金会		4215
+马骏		18		全国		https://www.cdrf.org.cn/zzjg1.htm	监事		中国发展研究基金会		4215
+邓志高		19		全国		https://www.cdrf.org.cn/zzjg1.htm	监事		中国发展研究基金会		4215
+张辉		20		全国		https://www.cdrf.org.cn/zzjg1.htm	监事		中国发展研究基金会		4215
+黄锦辉		21		全国		https://www.cdrf.org.cn/zzjg1.htm	监事		中国发展研究基金会		4215
+葛延风		22		全国		https://www.cdrf.org.cn/zzjg1.htm	监事		中国发展研究基金会		4215

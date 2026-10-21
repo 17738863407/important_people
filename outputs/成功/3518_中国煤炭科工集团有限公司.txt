@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡善亭		1		全国		https://www.ccteg.cn/zh/article/content/28	董事长；党委书记、董事长		中国煤炭科工集团有限公司		3518
+范韶刚		2		全国		https://www.ccteg.cn/zh/article/content/28	董事；党委副书记、董事、总经理		中国煤炭科工集团有限公司		3518
+孙智勇		3		全国		https://www.ccteg.cn/zh/article/content/28	董事		中国煤炭科工集团有限公司		3518
+章克勤		4		全国		https://www.ccteg.cn/zh/article/content/28	董事		中国煤炭科工集团有限公司		3518
+黄松涛		5		全国		https://www.ccteg.cn/zh/article/content/28	董事		中国煤炭科工集团有限公司		3518
+雷典武		6		全国		https://www.ccteg.cn/zh/article/content/28	董事		中国煤炭科工集团有限公司		3518
+陈良季		7		全国		https://www.ccteg.cn/zh/article/content/28	党委常委、纪委书记		中国煤炭科工集团有限公司		3518
+刘见中		8		全国		https://www.ccteg.cn/zh/article/content/28	党委常委、副总经理		中国煤炭科工集团有限公司		3518
+雷煌		9		全国		https://www.ccteg.cn/zh/article/content/28	党委常委、副总经理		中国煤炭科工集团有限公司		3518
+周俊		10		全国		https://www.ccteg.cn/zh/article/content/28	党委常委、副总经理		中国煤炭科工集团有限公司		3518
+郑伟立		11		全国		https://www.ccteg.cn/zh/article/content/28	党委常委、总会计师		中国煤炭科工集团有限公司		3518
+付天光		12		全国		https://www.ccteg.cn/zh/article/content/28	党委常委、副总经理		中国煤炭科工集团有限公司		3518
+白原平		13		全国		https://www.ccteg.cn/zh/article/content/28	总法律顾问、首席合规官		中国煤炭科工集团有限公司		3518
+张建军		14		全国		https://www.ccteg.cn/zh/article/content/28	董事会秘书		中国煤炭科工集团有限公司		3518

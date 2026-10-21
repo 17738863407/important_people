@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于海田		1		山东省	济南市	https://www.jinan.gov.cn/col/col24/index.html	市长		济南市人民政府	https://www.jinan.gov.cn/col/col79529/index.html	1142
+吕涛		2		山东省	济南市	https://www.jinan.gov.cn/col/col24/index.html	副市长		济南市人民政府	https://www.jinan.gov.cn/col/col159/lt/index.html	1142
+任庆虎		3		山东省	济南市	https://www.jinan.gov.cn/col/col24/index.html	副市长		济南市人民政府	https://www.jinan.gov.cn/col/col96446/index.html	1142
+王茂祯		4		山东省	济南市	https://www.jinan.gov.cn/col/col24/index.html	副市长		济南市人民政府	https://www.jinan.gov.cn/col/col96445/index.html	1142
+杨丽		5		山东省	济南市	https://www.jinan.gov.cn/col/col24/index.html	副市长		济南市人民政府	https://www.jinan.gov.cn/col/col114738/index.html	1142
+任广锋		6		山东省	济南市	https://www.jinan.gov.cn/col/col24/index.html	副市长		济南市人民政府	https://www.jinan.gov.cn/col/col121164/index.html	1142
+马志勇		7		山东省	济南市	https://www.jinan.gov.cn/col/col24/index.html	副市长		济南市人民政府	https://www.jinan.gov.cn/col/col159/mzy/index.html	1142
+续明		8		山东省	济南市	https://www.jinan.gov.cn/col/col24/index.html	秘书长		济南市人民政府	https://www.jinan.gov.cn/col/col23078/xm/index.html	1142

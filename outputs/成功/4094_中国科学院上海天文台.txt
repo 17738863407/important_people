@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孔大力		1		全国		https://shao.cas.cn/2020Ver/gkjj/xrld/	台长		中国科学院上海天文台	https://shao.cas.cn/sourcedb/zw/zjrck/201803/t20180305_4969814.html	4094
+陶隽		2		全国		https://shao.cas.cn/2020Ver/gkjj/xrld/	党委书记、副台长		中国科学院上海天文台	https://shao.cas.cn/sourcedb/zw/zjrck/202401/t20240123_6968626.html	4094
+张帆		3		全国		https://shao.cas.cn/2020Ver/gkjj/xrld/	纪委书记		中国科学院上海天文台	https://shao.cas.cn/sourcedb/zw/zjrck/202606/t20260603_8213092.html	4094
+齐朝祥		4		全国		https://shao.cas.cn/2020Ver/gkjj/xrld/	副台长		中国科学院上海天文台	https://shao.cas.cn/sourcedb/zw/zjrck/201412/t20141227_4282642.html	4094
+郑振亚		5		全国		https://shao.cas.cn/2020Ver/gkjj/xrld/	副台长		中国科学院上海天文台	https://shao.cas.cn/sourcedb/zw/zjrck/201804/t20180403_4991274.html	4094

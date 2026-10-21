@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+汪小全		1		全国		https://ib.cas.cn/2019gb/skjs/xrld/	所长		中国科学院植物研究所	https://ib.cas.cn/sourcedb/cn/current_leaders/202603/t20260330_8178837.html	4064
+杨永峰		2		全国		https://ib.cas.cn/2019gb/skjs/xrld/	党委书记、副所长		中国科学院植物研究所	https://ib.cas.cn/sourcedb/cn/incumbent_leaders/202603/t20260330_8178838.html	4064
+冯晓娟		3		全国		https://ib.cas.cn/2019gb/skjs/xrld/	副所长		中国科学院植物研究所	https://ib.cas.cn/sourcedb/cn/current_leaders/202603/t20260330_8178840.html	4064
+梁振昌		4		全国		https://ib.cas.cn/2019gb/skjs/xrld/	副所长		中国科学院植物研究所	https://ib.cas.cn/sourcedb/cn/current_leaders/202603/t20260330_8178836.html	4064
+杨文强		5		全国		https://ib.cas.cn/2019gb/skjs/xrld/	副所长		中国科学院植物研究所	https://ib.cas.cn/sourcedb/cn/current_leaders/202603/t20260330_8178841.html	4064
+李明		6		全国		https://ib.cas.cn/2019gb/skjs/xrld/	纪委书记		中国科学院植物研究所	https://ib.cas.cn/sourcedb/cn/incumbent_leaders/202603/t20260330_8178839.html	4064

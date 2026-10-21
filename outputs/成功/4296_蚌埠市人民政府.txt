@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+韦秀芳		1		安徽省	蚌埠市	https://www.bengbu.gov.cn/ldzc/index.html	市 长		蚌埠市人民政府	https://www.bengbu.gov.cn/content/column/6796741?liId=661	4296
+张云		2		安徽省	蚌埠市	https://www.bengbu.gov.cn/ldzc/index.html	副市长		蚌埠市人民政府	https://www.bengbu.gov.cn/content/column/6796741?liId=666	4296
+张铭		3		安徽省	蚌埠市	https://www.bengbu.gov.cn/ldzc/index.html	副市长		蚌埠市人民政府	https://www.bengbu.gov.cn/content/column/6796741?liId=633	4296
+乌兰其其格		4		安徽省	蚌埠市	https://www.bengbu.gov.cn/ldzc/index.html	副市长		蚌埠市人民政府	https://www.bengbu.gov.cn/content/column/6796741?liId=644	4296
+陈龙胜		5		安徽省	蚌埠市	https://www.bengbu.gov.cn/ldzc/index.html	副市长		蚌埠市人民政府	https://www.bengbu.gov.cn/content/column/6796741?liId=672	4296
+史法勇		6		安徽省	蚌埠市	https://www.bengbu.gov.cn/ldzc/index.html	副市长		蚌埠市人民政府	https://www.bengbu.gov.cn/content/column/6796741?liId=675	4296
+刘宗文		7		安徽省	蚌埠市	https://www.bengbu.gov.cn/ldzc/index.html	秘书长		蚌埠市人民政府	https://www.bengbu.gov.cn/content/column/6796741?liId=636	4296

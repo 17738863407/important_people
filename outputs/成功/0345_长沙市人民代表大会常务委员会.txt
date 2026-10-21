@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+罗缵吉		1		湖南省	长沙市	https://www.csrd.gov.cn/web/head/zrld	主任		长沙市人民代表大会常务委员会	https://www.csrd.gov.cn/web/headdetail/zrld/393?t=%e4%b8%bb%e4%bb%bb	0345
+李伟群		2		湖南省	长沙市	https://www.csrd.gov.cn/web/head/zrld	副主任		长沙市人民代表大会常务委员会	https://www.csrd.gov.cn/web/headdetail/zrld/355?t=%e5%89%af%e4%b8%bb%e4%bb%bb	0345
+李平		3		湖南省	长沙市	https://www.csrd.gov.cn/web/head/zrld	副主任		长沙市人民代表大会常务委员会	https://www.csrd.gov.cn/web/headdetail/zrld/354?t=%e5%89%af%e4%b8%bb%e4%bb%bb	0345
+张能峰		4		湖南省	长沙市	https://www.csrd.gov.cn/web/head/zrld	副主任		长沙市人民代表大会常务委员会	https://www.csrd.gov.cn/web/headdetail/zrld/356?t=%e5%89%af%e4%b8%bb%e4%bb%bb	0345
+王瑜珲		5		湖南省	长沙市	https://www.csrd.gov.cn/web/head/zrld	副主任		长沙市人民代表大会常务委员会	https://www.csrd.gov.cn/web/headdetail/zrld/358?t=%e5%89%af%e4%b8%bb%e4%bb%bb	0345
+张白云		6		湖南省	长沙市	https://www.csrd.gov.cn/web/head/zrld	副主任		长沙市人民代表大会常务委员会	https://www.csrd.gov.cn/web/headdetail/zrld/359?t=%e5%89%af%e4%b8%bb%e4%bb%bb	0345
+杨长江		7		湖南省	长沙市	https://www.csrd.gov.cn/web/head/zrld	副主任		长沙市人民代表大会常务委员会	https://www.csrd.gov.cn/web/headdetail/zrld/375?t=%e5%89%af%e4%b8%bb%e4%bb%bb	0345
+吴德峰		8		湖南省	长沙市	https://www.csrd.gov.cn/web/head/zrld	副主任		长沙市人民代表大会常务委员会	https://www.csrd.gov.cn/web/headdetail/zrld/357?t=%e5%89%af%e4%b8%bb%e4%bb%bb	0345
+缪晨光		9		湖南省	长沙市	https://www.csrd.gov.cn/web/head/zrld	秘书长		长沙市人民代表大会常务委员会	https://www.csrd.gov.cn/web/headdetail/zrld/360?t=%e7%a7%98%e4%b9%a6%e9%95%bf	0345

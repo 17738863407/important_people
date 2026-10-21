@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+常宏		1		甘肃省		https://www.gsagr.cn/gyby/xrld.htm	党委副书记、院长		甘肃省农业科学院	https://www.gsagr.cn/info/1054/1330.htm	3766
+王琦		2		甘肃省		https://www.gsagr.cn/gyby/xrld.htm	党委委员、纪委书记		甘肃省农业科学院	https://www.gsagr.cn/info/1054/1329.htm	3766
+田青		3		甘肃省		https://www.gsagr.cn/gyby/xrld.htm	党委委员、副院长		甘肃省农业科学院	https://www.gsagr.cn/info/1054/1328.htm	3766
+李允		4		甘肃省		https://www.gsagr.cn/gyby/xrld.htm	党委委员、副院长		甘肃省农业科学院	https://www.gsagr.cn/info/1054/1327.htm	3766
+杨天育		5		甘肃省		https://www.gsagr.cn/gyby/xrld.htm	党委委员、副院长		甘肃省农业科学院	https://www.gsagr.cn/info/1054/1326.htm	3766
+胡新元		6		甘肃省		https://www.gsagr.cn/gyby/xrld.htm	党委委员、副院长		甘肃省农业科学院	https://www.gsagr.cn/info/1054/8305.htm	3766

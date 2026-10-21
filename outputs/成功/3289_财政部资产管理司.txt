@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+单仁慧		1		全国		http://zcgls.mof.gov.cn/guanyuwomen/lingdaozici/	司长		财政部资产管理司		3289
+徐淑		2		全国		http://zcgls.mof.gov.cn/guanyuwomen/lingdaozici/	副司长		财政部资产管理司		3289
+高大平		3		全国		http://zcgls.mof.gov.cn/guanyuwomen/lingdaozici/	副司长		财政部资产管理司		3289
+项贤春		4		全国		http://zcgls.mof.gov.cn/guanyuwomen/lingdaozici/	二级巡视员		财政部资产管理司		3289

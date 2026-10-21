@@ -1,0 +1,24 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑栅洁		1		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	理事长		习近平经济思想研究中心理事会		3597
+相里斌		2		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副理事长		习近平经济思想研究中心理事会		3597
+孙怀新		3		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副理事长		习近平经济思想研究中心理事会		3597
+刘苏社		4		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副理事长		习近平经济思想研究中心理事会		3597
+李春临		5		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副理事长		习近平经济思想研究中心理事会		3597
+郑备		6		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副理事长		习近平经济思想研究中心理事会		3597
+周海兵		7		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副理事长		习近平经济思想研究中心理事会		3597
+黄如		8		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副理事长		习近平经济思想研究中心理事会		3597
+王昌林		9		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副理事长		习近平经济思想研究中心理事会		3597
+沈竹林		10		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副理事长		习近平经济思想研究中心理事会		3597
+刘焕鑫		11		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副理事长		习近平经济思想研究中心理事会		3597
+刘烈宏		12		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副理事长		习近平经济思想研究中心理事会		3597
+王宏志		13		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副理事长		习近平经济思想研究中心理事会		3597
+宁吉喆		14		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副理事长		习近平经济思想研究中心理事会		3597
+胡祖才		15		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副理事长		习近平经济思想研究中心理事会		3597
+郭兰峰		16		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副理事长		习近平经济思想研究中心理事会		3597
+袁达		17		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	秘书长		习近平经济思想研究中心理事会		3597
+蒋毅		18		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副秘书长		习近平经济思想研究中心理事会		3597
+周陈		19		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副秘书长		习近平经济思想研究中心理事会		3597
+张东升		20		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副秘书长		习近平经济思想研究中心理事会		3597
+孟玮		21		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副秘书长		习近平经济思想研究中心理事会		3597
+黄汉权		22		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副秘书长		习近平经济思想研究中心理事会		3597
+史育龙		23		全国		https://www.ndrc.gov.cn/xwdt/ztzl/NEW_srxxgcjjpjjsx/lsh/	副秘书长		习近平经济思想研究中心理事会		3597

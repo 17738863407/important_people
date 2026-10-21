@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陶少华		1		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/	市长		银川市人民政府	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/sz_68774/202304/t20230410_4025892.html	3167
+党成		2		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/	副市长		银川市人民政府	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/fsz_68775/202411/t20241112_4725351.html	3167
+靳玉晨		3		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/	副市长		银川市人民政府	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/fsz_68775/202607/t20260703_5280997.html	3167
+姜珉翰		4		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/	副市长		银川市人民政府	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/fsz_68775/202404/t20240420_4517331.html	3167
+杨玉龙		5		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/	副市长		银川市人民政府	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/fsz_68775/202411/t20241112_4725352.html	3167
+张天喜		6		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/	副市长		银川市人民政府	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/fsz_68775/202601/t20260106_5127446.html	3167
+吴静		7		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/	副市长		银川市人民政府	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/fsz_68775/202405/t20240516_4540852.html	3167
+杨燕萍		8		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/	副市长		银川市人民政府	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/fsz_68775/202510/t20251023_5061391.html	3167
+李昂		9		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/	副市长		银川市人民政府	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/fsz_68775/202607/t20260703_5280996.html	3167
+侯文莅		10		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/	秘书长		银川市人民政府	https://www.yinchuan.gov.cn/xxgk/szf/szfld_68773/msz_68776/202404/t20240420_4517328.html	3167

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李成玉		1		北京市		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/391.html	党委书记、院长		国家法官学院		0269
+陈春梅		2		北京市		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/391.html	党委委员、副院长		国家法官学院		0269
+胡田野		3		北京市		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/391.html	党委委员、副院长		国家法官学院		0269
+徐光明		4		北京市		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/391.html	党委委员、副院长		国家法官学院		0269
+郑汝军		5		北京市		https://www.court.gov.cn/jigou/fayuanjigou/zhineng/391.html	党委委员、纪委书记		国家法官学院		0269

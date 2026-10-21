@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王延增		1		河北省		http://sft.hebei.gov.cn/zzjg/tld/index.shtml	省司法厅党委书记、厅长，省监狱管理局第一政委、党委第一书记		河北省司法厅	http://sft.hebei.gov.cn/system/2026/03/27/030379205.shtml	2327
+李洪钊		2		河北省		http://sft.hebei.gov.cn/zzjg/tld/index.shtml	省纪委监委驻省司法厅纪检监察组组长、二级高级监察官，省司法厅党委委员		河北省司法厅	http://sft.hebei.gov.cn/system/2017/09/02/011662096.shtml	2327
+彭敬捷		3		河北省		http://sft.hebei.gov.cn/zzjg/tld/index.shtml	省司法厅党委委员、副厅长		河北省司法厅	http://sft.hebei.gov.cn/system/2021/06/22/030099704.shtml	2327
+来广普		4		河北省		http://sft.hebei.gov.cn/zzjg/tld/index.shtml	省司法厅党委委员、副厅长		河北省司法厅	http://sft.hebei.gov.cn/system/2026/07/22/030390279.shtml	2327
+万树军		5		河北省		http://sft.hebei.gov.cn/zzjg/tld/index.shtml	省司法厅党委委员、副厅长，省监狱管理局党委书记、局长		河北省司法厅	http://sft.hebei.gov.cn/system/2026/07/22/030390280.shtml	2327
+耿云飞		6		河北省		http://sft.hebei.gov.cn/zzjg/tld/index.shtml	省司法厅党委委员、副厅长		河北省司法厅	http://sft.hebei.gov.cn/system/2026/07/22/030390281.shtml	2327
+刘永习		7		河北省		http://sft.hebei.gov.cn/zzjg/tld/index.shtml	省司法厅党委委员、政治部主任		河北省司法厅	http://sft.hebei.gov.cn/system/2026/07/22/030390282.shtml	2327
+乔新月		8		河北省		http://sft.hebei.gov.cn/zzjg/tld/index.shtml	省司法厅一级巡视员		河北省司法厅	http://sft.hebei.gov.cn/system/2017/09/02/011662094.shtml	2327
+梁洪杰		9		河北省		http://sft.hebei.gov.cn/zzjg/tld/index.shtml	省司法厅一级巡视员		河北省司法厅	http://sft.hebei.gov.cn/system/2017/09/02/011662095.shtml	2327
+吴向东		10		河北省		http://sft.hebei.gov.cn/zzjg/tld/index.shtml	省司法厅一级巡视员		河北省司法厅	http://sft.hebei.gov.cn/system/2026/07/22/030390283.shtml	2327

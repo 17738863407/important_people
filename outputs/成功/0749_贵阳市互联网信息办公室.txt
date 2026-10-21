@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘莉		1		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/shlwxxbgs/	贵阳市互联网信息办公室主任		贵阳市互联网信息办公室	https://www.guiyang.gov.cn/zwgk/shlwxxbgs/zwzxjgld/202503/t20250312_87152428.html	0749
+樊兵		2		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/shlwxxbgs/	贵阳市互联网信息办公室副主任		贵阳市互联网信息办公室	https://www.guiyang.gov.cn/zwgk/shlwxxbgs/zwzxjgld/202503/t20250312_87152421.html	0749
+郭英剑		3		贵州省	贵阳市	https://www.guiyang.gov.cn/zwgk/shlwxxbgs/	贵阳市互联网信息办公室副主任		贵阳市互联网信息办公室	https://www.guiyang.gov.cn/zwgk/shlwxxbgs/zwzxjgld/202507/t20250730_88356310.html	0749

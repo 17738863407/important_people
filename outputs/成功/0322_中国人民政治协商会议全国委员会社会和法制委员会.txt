@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐令义		1		全国		http://www.cppcc.gov.cn/zxww/newcppcc/shhfzwyh/index.shtml	主任		中国人民政治协商会议全国委员会社会和法制委员会		0322
+王少峰		2		全国		http://www.cppcc.gov.cn/zxww/newcppcc/shhfzwyh/index.shtml	副主任		中国人民政治协商会议全国委员会社会和法制委员会		0322
+王尔乘		3		全国		http://www.cppcc.gov.cn/zxww/newcppcc/shhfzwyh/index.shtml	副主任		中国人民政治协商会议全国委员会社会和法制委员会		0322
+刘晓梅		4		全国		http://www.cppcc.gov.cn/zxww/newcppcc/shhfzwyh/index.shtml	副主任		中国人民政治协商会议全国委员会社会和法制委员会		0322
+江广平		5		全国		http://www.cppcc.gov.cn/zxww/newcppcc/shhfzwyh/index.shtml	副主任		中国人民政治协商会议全国委员会社会和法制委员会		0322
+阮成发		6		全国		http://www.cppcc.gov.cn/zxww/newcppcc/shhfzwyh/index.shtml	副主任		中国人民政治协商会议全国委员会社会和法制委员会		0322
+李民斌		7		全国		http://www.cppcc.gov.cn/zxww/newcppcc/shhfzwyh/index.shtml	副主任		中国人民政治协商会议全国委员会社会和法制委员会		0322
+杨万明		8		全国		http://www.cppcc.gov.cn/zxww/newcppcc/shhfzwyh/index.shtml	副主任		中国人民政治协商会议全国委员会社会和法制委员会		0322
+吴社洲		9		全国		http://www.cppcc.gov.cn/zxww/newcppcc/shhfzwyh/index.shtml	副主任		中国人民政治协商会议全国委员会社会和法制委员会		0322
+姚增科		10		全国		http://www.cppcc.gov.cn/zxww/newcppcc/shhfzwyh/index.shtml	副主任		中国人民政治协商会议全国委员会社会和法制委员会		0322
+钱锋		11		全国		http://www.cppcc.gov.cn/zxww/newcppcc/shhfzwyh/index.shtml	副主任		中国人民政治协商会议全国委员会社会和法制委员会		0322
+徐立全		12		全国		http://www.cppcc.gov.cn/zxww/newcppcc/shhfzwyh/index.shtml	副主任		中国人民政治协商会议全国委员会社会和法制委员会		0322
+肖培		13		全国		http://www.cppcc.gov.cn/zxww/newcppcc/shhfzwyh/index.shtml	副主任		中国人民政治协商会议全国委员会社会和法制委员会		0322

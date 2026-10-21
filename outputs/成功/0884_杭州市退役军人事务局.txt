@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑洪彪		1		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836157/index.html	书记、局长		杭州市退役军人事务局		0884
+王江		2		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836157/index.html	党组成员、副局长		杭州市退役军人事务局		0884
+费林建		3		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836157/index.html	党组成员、副局长		杭州市退役军人事务局		0884
+冯建伟		4		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836157/index.html	党组成员、副局长		杭州市退役军人事务局		0884
+刘愚		5		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836157/index.html	党组成员、二级巡视员		杭州市退役军人事务局		0884

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡矞		1		江西省	南昌市	http://tyjrswj.nc.gov.cn/tyjrswj/gkbmjs/202101/856bb81d5043467e94d8fbe333f5c169.shtml	南昌市退役军人事务局党组书记、局长		南昌市退役军人事务局		2816
+杜辉根		2		江西省	南昌市	http://tyjrswj.nc.gov.cn/tyjrswj/gkbmjs/202101/856bb81d5043467e94d8fbe333f5c169.shtml	南昌市退役军人事务局党组成员、副局长		南昌市退役军人事务局		2816
+李伟		3		江西省	南昌市	http://tyjrswj.nc.gov.cn/tyjrswj/gkbmjs/202101/856bb81d5043467e94d8fbe333f5c169.shtml	南昌市退役军人事务局党组成员、副局长		南昌市退役军人事务局		2816
+刘祈虎		4		江西省	南昌市	http://tyjrswj.nc.gov.cn/tyjrswj/gkbmjs/202101/856bb81d5043467e94d8fbe333f5c169.shtml	南昌市退役军人事务局一级调研员		南昌市退役军人事务局		2816
+张周平		5		江西省	南昌市	http://tyjrswj.nc.gov.cn/tyjrswj/gkbmjs/202101/856bb81d5043467e94d8fbe333f5c169.shtml	南昌市退役军人事务局二级调研员		南昌市退役军人事务局		2816

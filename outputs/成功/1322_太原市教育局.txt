@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李颖		1		山西省	太原市	https://jyj.taiyuan.gov.cn/dwgk/20251202/678686.html	市委教育工委书记、局长		太原市教育局		1322
+李永强		2		山西省	太原市	https://jyj.taiyuan.gov.cn/dwgk/20251202/678686.html	市委教育工委专职副书记		太原市教育局		1322
+苏建伟		3		山西省	太原市	https://jyj.taiyuan.gov.cn/dwgk/20251202/678686.html	市委教育工委委员、副局长		太原市教育局		1322
+尹骏		4		山西省	太原市	https://jyj.taiyuan.gov.cn/dwgk/20251202/678686.html	市委教育工委委员、副局长		太原市教育局		1322
+王军丽		5		山西省	太原市	https://jyj.taiyuan.gov.cn/dwgk/20251202/678686.html	市委教育工委委员、市招考中心主任		太原市教育局		1322
+黄飞		6		山西省	太原市	https://jyj.taiyuan.gov.cn/dwgk/20251202/678686.html	市委教育工委委员、副局长		太原市教育局		1322
+李文忠		7		山西省	太原市	https://jyj.taiyuan.gov.cn/dwgk/20251202/678686.html	市委教育工委委员、督学		太原市教育局		1322
+成彦龙		8		山西省	太原市	https://jyj.taiyuan.gov.cn/dwgk/20251202/678686.html	市教育局四级调研员		太原市教育局		1322

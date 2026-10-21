@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙佳永		1		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sjtj/xxgkml_2231/gkxx_2232/ldfg_2234/202511/t20251113_5083147.html	党组（党工委）书记、局长		银川市交通运输局		3159
+张静		2		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sjtj/xxgkml_2231/gkxx_2232/ldfg_2234/202511/t20251113_5083147.html	党组成员、党工委委员、副局长		银川市交通运输局		3159
+朱文河		3		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sjtj/xxgkml_2231/gkxx_2232/ldfg_2234/202511/t20251113_5083147.html	党组成员、党工委委员、副局长		银川市交通运输局		3159
+吴伟民		4		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sjtj/xxgkml_2231/gkxx_2232/ldfg_2234/202511/t20251113_5083147.html	党组成员、党工委委员、副局长，市邮政管理局党总支书记、局长		银川市交通运输局		3159
+周树宏		5		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sjtj/xxgkml_2231/gkxx_2232/ldfg_2234/202511/t20251113_5083147.html	党组成员、党工委委员、副局长		银川市交通运输局		3159
+文风		6		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sjtj/xxgkml_2231/gkxx_2232/ldfg_2234/202511/t20251113_5083147.html	副局长		银川市交通运输局		3159

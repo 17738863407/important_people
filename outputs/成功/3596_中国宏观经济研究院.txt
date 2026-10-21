@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄汉权		1		全国		https://www.amr.org.cn/ghgk/yld/	院长		中国宏观经济研究院	https://www.amr.org.cn/ghgk/yld/xryz/202411/t20241104_1394246.html	3596
+徐强		2		全国		https://www.amr.org.cn/ghgk/yld/	副院长		中国宏观经济研究院	https://www.amr.org.cn/ghgk/yld/xrfyz/202607/t20260723_1406659.html	3596
+宋葛龙		3		全国		https://www.amr.org.cn/ghgk/yld/	副院长		中国宏观经济研究院	https://www.amr.org.cn/ghgk/yld/xrfyz/202411/t20241104_1394248.html	3596
+郭春丽		4		全国		https://www.amr.org.cn/ghgk/yld/	副院长		中国宏观经济研究院	https://www.amr.org.cn/ghgk/yld/xrfyz/202411/t20241104_1394249.html	3596
+周康青		5		全国		https://www.amr.org.cn/ghgk/yld/	党委专职副书记、纪委书记		中国宏观经济研究院	https://www.amr.org.cn/ghgk/yld/sj/202411/t20241104_1394251.html	3596

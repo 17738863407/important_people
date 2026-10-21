@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+石峰		1		陕西省	西安市	https://www.chd.edu.cn/xxgk/xrld.htm	党委书记；党委常委		长安大学	https://www.chd.edu.cn/info/1058/573851.htm	3674
+李树涛		2		陕西省	西安市	https://www.chd.edu.cn/xxgk/xrld.htm	党委副书记；校长；党委常委		长安大学	https://www.chd.edu.cn/info/1059/1048.htm	3674
+李文雄		3		陕西省	西安市	https://www.chd.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		长安大学	https://www.chd.edu.cn/info/1059/550161.htm	3674
+范文		4		陕西省	西安市	https://www.chd.edu.cn/xxgk/xrld.htm	副校长；党委常委		长安大学	https://www.chd.edu.cn/info/1062/1057.htm	3674
+黎开谊		5		陕西省	西安市	https://www.chd.edu.cn/xxgk/xrld.htm	副校长；党委常委		长安大学	https://www.chd.edu.cn/info/1062/550191.htm	3674
+裴建中		6		陕西省	西安市	https://www.chd.edu.cn/xxgk/xrld.htm	副校长；党委常委		长安大学	https://www.chd.edu.cn/info/1062/1058.htm	3674
+陈建勋		7		陕西省	西安市	https://www.chd.edu.cn/xxgk/xrld.htm	副校长；党委常委		长安大学	https://www.chd.edu.cn/info/1062/1054.htm	3674
+杜强		8		陕西省	西安市	https://www.chd.edu.cn/xxgk/xrld.htm	副校长；党委常委		长安大学	https://www.chd.edu.cn/info/1062/550181.htm	3674
+李振洪		9		陕西省	西安市	https://www.chd.edu.cn/xxgk/xrld.htm	副校长		长安大学	https://www.chd.edu.cn/info/1062/550201.htm	3674
+石松		10		陕西省	西安市	https://www.chd.edu.cn/xxgk/xrld.htm	党委常委		长安大学	https://www.chd.edu.cn/info/1063/558561.htm	3674
+郗波		11		陕西省	西安市	https://www.chd.edu.cn/xxgk/xrld.htm	党委常委		长安大学	https://www.chd.edu.cn/info/1063/558551.htm	3674
+李国光		12		陕西省	西安市	https://www.chd.edu.cn/xxgk/xrld.htm	党委常委		长安大学	https://www.chd.edu.cn/info/1063/558541.htm	3674

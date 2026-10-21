@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李全庆		1		四川省		https://dva.sc.gov.cn/tyjrswt/dwgk/dwgk.shtml	四川省退役军人事务厅党组成员、副厅长		四川省退役军人事务厅		0494
+旺娜		2		四川省		https://dva.sc.gov.cn/tyjrswt/dwgk/dwgk.shtml	四川省纪委监委驻退役军人事务厅纪检监察组组长、厅党组成员		四川省退役军人事务厅		0494
+吴敏		3		四川省		https://dva.sc.gov.cn/tyjrswt/dwgk/dwgk.shtml	四川省退役军人事务厅党组成员、副厅长		四川省退役军人事务厅		0494
+马江		4		四川省		https://dva.sc.gov.cn/tyjrswt/dwgk/dwgk.shtml	四川省退役军人事务厅党组成员、副厅长、机关党委书记		四川省退役军人事务厅		0494

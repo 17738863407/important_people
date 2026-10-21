@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡国民		1		四川省	成都市	https://cdgaj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	四川省公安厅党委委员，成都市政府党组成员、副市长，市公安局党委书记、局长、督察长，一级警监警衔		成都市公安局	https://cdgaj.chengdu.gov.cn/gkml/ldcy/1641608709077467136.shtml	0166
+周刚		2		四川省	成都市	https://cdgaj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	市公安局党委副书记、常务副局长、一级警务专员，二级警监警衔		成都市公安局	https://cdgaj.chengdu.gov.cn/gkml/ldcy/1641608707953393664.shtml	0166
+毛流敏		3		四川省	成都市	https://cdgaj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	市公安局党委委员、特勤局党委书记、局长，三级警监警衔		成都市公安局	https://cdgaj.chengdu.gov.cn/gkml/ldcy/1319736142802714624.shtml	0166
+杨晶		4		四川省	成都市	https://cdgaj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	市公安局党委委员、副局长、警务技术二级总监，二级警监警衔		成都市公安局	https://cdgaj.chengdu.gov.cn/gkml/ldcy/1641608707835953152.shtml	0166
+金琪		5		四川省	成都市	https://cdgaj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	市公安局党委委员、副局长、警务技术二级总监，二级警监警衔		成都市公安局	https://cdgaj.chengdu.gov.cn/gkml/ldcy/1641608707722706944.shtml	0166
+刘杨		6		四川省	成都市	https://cdgaj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	市公安局党委委员、副局长、二级警务专员，二级警监警衔		成都市公安局	https://cdgaj.chengdu.gov.cn/gkml/ldcy/1641608707584294912.shtml	0166
+徐晖		7		四川省	成都市	https://cdgaj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	市公安局党委委员、副局长、二级警务专员，二级警监警衔		成都市公安局	https://cdgaj.chengdu.gov.cn/gkml/ldcy/1641608709316542464.shtml	0166
+赵维刚		8		四川省	成都市	https://cdgaj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	市公安局党委委员、政治部主任、二级警务专员，二级警监警衔		成都市公安局	https://cdgaj.chengdu.gov.cn/gkml/ldcy/1641608709429788672.shtml	0166
+余纯江		9		四川省	成都市	https://cdgaj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	市公安局党委委员，市纪委监委驻市公安局纪检监察组组长		成都市公安局	https://cdgaj.chengdu.gov.cn/gkml/ldcy/1242162633159737344.shtml	0166
+刘代军		10		四川省	成都市	https://cdgaj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	市公安局总工程师、警务技术二级总监，二级警监警衔		成都市公安局	https://cdgaj.chengdu.gov.cn/gkml/ldcy/1641608708079222784.shtml	0166

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张文贤		1		福建省		http://gzw.fujian.gov.cn/gzgk/wld/zwx/	党委书记、主任		福建省人民政府国有资产监督管理委员会		0820
+龚志阳		2		福建省		http://gzw.fujian.gov.cn/gzgk/wld/zwx/	党委委员、副主任		福建省人民政府国有资产监督管理委员会	http://gzw.fujian.gov.cn/gzgk/wld/gzy/	0820
+孙志敏		3		福建省		http://gzw.fujian.gov.cn/gzgk/wld/zwx/	党委委员、省纪委监委驻省国资委纪检监察组组长、二级高级监察官		福建省人民政府国有资产监督管理委员会	http://gzw.fujian.gov.cn/gzgk/wld/cbs/	0820
+罗奋		4		福建省		http://gzw.fujian.gov.cn/gzgk/wld/zwx/	党委委员、副主任		福建省人民政府国有资产监督管理委员会	http://gzw.fujian.gov.cn/gzgk/wld/lf/	0820
+周金昭		5		福建省		http://gzw.fujian.gov.cn/gzgk/wld/zwx/	一级巡视员		福建省人民政府国有资产监督管理委员会	http://gzw.fujian.gov.cn/gzgk/wld/zjs/	0820

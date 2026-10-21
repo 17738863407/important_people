@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴苏海		1		内蒙古自治区		https://zsj.nmg.gov.cn/zwgk/zfxxgk/fdzdgknr/jgjj/zfldjj/	内蒙古自治区政务服务与数据管理局党组书记、局长		内蒙古自治区政务服务与数据管理局	https://zsj.nmg.gov.cn/zwgk/szf/szfld/sz/qdlt/	3429
+高静		2		内蒙古自治区		https://zsj.nmg.gov.cn/zwgk/zfxxgk/fdzdgknr/jgjj/zfldjj/	内蒙古自治区政务服务与数据管理局党组成员、副局长		内蒙古自治区政务服务与数据管理局	https://zsj.nmg.gov.cn/zwgk/szf/szfld/fsz/kyq/	3429
+张树礼		3		内蒙古自治区		https://zsj.nmg.gov.cn/zwgk/zfxxgk/fdzdgknr/jgjj/zfldjj/	内蒙古自治区政务服务与数据管理局党组成员、大数据中心主任		内蒙古自治区政务服务与数据管理局	https://zsj.nmg.gov.cn/zwgk/szf/szfld/fsz/wht/	3429
+刘钧毅		4		内蒙古自治区		https://zsj.nmg.gov.cn/zwgk/zfxxgk/fdzdgknr/jgjj/zfldjj/	内蒙古自治区政务服务与数据管理局党组成员、副局长		内蒙古自治区政务服务与数据管理局	https://zsj.nmg.gov.cn/zwgk/szf/szfld/fsz/ljy/	3429
+张文辉		5		内蒙古自治区		https://zsj.nmg.gov.cn/zwgk/zfxxgk/fdzdgknr/jgjj/zfldjj/	内蒙古自治区政务服务与数据管理局党组成员、副局长		内蒙古自治区政务服务与数据管理局	https://zsj.nmg.gov.cn/zwgk/szf/szfld/fsz/mzh/	3429
+徐东莱		6		内蒙古自治区		https://zsj.nmg.gov.cn/zwgk/zfxxgk/fdzdgknr/jgjj/zfldjj/	内蒙古自治区政务服务与数据管理局党组成员、副局长		内蒙古自治区政务服务与数据管理局	https://zsj.nmg.gov.cn/zwgk/szf/szfld/fsz/mzh_35371/	3429

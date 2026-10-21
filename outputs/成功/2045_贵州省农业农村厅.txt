@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张集智		1		贵州省		http://nynct.guizhou.gov.cn/zwgk/ldzc_5977822/	贵州省农业农村厅党组书记、贵州省农业农村厅（省乡村振兴局）厅长（局长）		贵州省农业农村厅	https://nynct.guizhou.gov.cn/zwgk/ldzc_5977822/202503/t20250320_87211424.html	2045
+傅强		2		贵州省		http://nynct.guizhou.gov.cn/zwgk/ldzc_5977822/	贵州省农业农村厅党组成员、贵州省农业科学院党委书记		贵州省农业农村厅	https://nynct.guizhou.gov.cn/zwgk/ldzc_5977822/202508/t20250819_88489077.html	2045
+缪杰		3		贵州省		http://nynct.guizhou.gov.cn/zwgk/ldzc_5977822/	贵州省农业农村厅党组成员、贵州省农业农村厅（省乡村振兴局）副厅长（副局长）		贵州省农业农村厅	https://nynct.guizhou.gov.cn/zwgk/ldzc_5977822/202503/t20250320_87211423.html	2045
+陈伟		4		贵州省		http://nynct.guizhou.gov.cn/zwgk/ldzc_5977822/	贵州省农业农村厅党组成员，贵州省纪委省监委派驻省农业农村厅纪检监察组组长、二级高级监察官		贵州省农业农村厅	https://nynct.guizhou.gov.cn/zwgk/ldzc_5977822/202606/t20260601_90231991.html	2045
+唐隆强		5		贵州省		http://nynct.guizhou.gov.cn/zwgk/ldzc_5977822/	贵州省农业农村厅党组成员、贵州省农业农村厅（省乡村振兴局）副厅长（副局长）		贵州省农业农村厅	https://nynct.guizhou.gov.cn/zwgk/ldzc_5977822/202505/t20250519_87891094.html	2045
+刘正跃		6		贵州省		http://nynct.guizhou.gov.cn/zwgk/ldzc_5977822/	贵州省农业农村厅党组成员、广东省粤黔协作工作队临时党委副书记、副领队		贵州省农业农村厅	https://nynct.guizhou.gov.cn/zwgk/ldzc_5977822/202503/t20250320_87211413.html	2045

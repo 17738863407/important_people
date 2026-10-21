@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李晟春		1		广东省	深圳市	https://szjj.sz.gov.cn/ZWGK/JGZN/JGLD/	党委书记、支队长（局长）		深圳市公安局交通管理局		2669
+叶筱一		2		广东省	深圳市	https://szjj.sz.gov.cn/ZWGK/JGZN/JGLD/	党委副书记、政委		深圳市公安局交通管理局		2669
+蔡承荣		3		广东省	深圳市	https://szjj.sz.gov.cn/ZWGK/JGZN/JGLD/	党委委员、副支队长（副局长）		深圳市公安局交通管理局		2669
+王亚飞		4		广东省	深圳市	https://szjj.sz.gov.cn/ZWGK/JGZN/JGLD/	党委委员、副支队长（副局长）		深圳市公安局交通管理局		2669
+曾小明		5		广东省	深圳市	https://szjj.sz.gov.cn/ZWGK/JGZN/JGLD/	党委委员、副支队长（副局长）		深圳市公安局交通管理局		2669
+吴加华		6		广东省	深圳市	https://szjj.sz.gov.cn/ZWGK/JGZN/JGLD/	党委委员、副支队长（副局长）		深圳市公安局交通管理局		2669
+刘凌云		7		广东省	深圳市	https://szjj.sz.gov.cn/ZWGK/JGZN/JGLD/	党委委员、副支队长（副局长）		深圳市公安局交通管理局		2669
+易飞		8		广东省	深圳市	https://szjj.sz.gov.cn/ZWGK/JGZN/JGLD/	党委委员、情报指挥大队大队长		深圳市公安局交通管理局		2669
+檀杰长		9		广东省	深圳市	https://szjj.sz.gov.cn/ZWGK/JGZN/JGLD/	党委委员、综合管理大队大队长		深圳市公安局交通管理局		2669

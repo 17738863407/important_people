@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐斌		1		海南省		https://tyt.hainan.gov.cn/twjr/0103/leadlist.shtml?ddtab=true	党组书记、厅长		海南省退役军人事务厅	https://tyt.hainan.gov.cn/twjr/0103/202303/77d71f24b7bc4a96867ab8a40e3d8f90.shtml?ddtab=true	2834
+卢义		2		海南省		https://tyt.hainan.gov.cn/twjr/0103/leadlist.shtml?ddtab=true	党组成员、副厅长		海南省退役军人事务厅	https://tyt.hainan.gov.cn/twjr/0103/202307/dc1ae37de5b3465f97609dcf87587f5d.shtml?ddtab=true	2834
+王平		3		海南省		https://tyt.hainan.gov.cn/twjr/0103/leadlist.shtml?ddtab=true	党组成员、副厅长		海南省退役军人事务厅	https://tyt.hainan.gov.cn/twjr/0103/202506/3b36273ebdec45a39cf472e65a6c3eba.shtml?ddtab=true	2834

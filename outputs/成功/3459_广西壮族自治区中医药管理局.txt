@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黎甲文		1		广西壮族自治区		http://zyyj.gxzf.gov.cn/jgxx/ldxx/	局长		广西壮族自治区中医药管理局	http://zyyj.gxzf.gov.cn/jgxx/ldxx/jz/ljw/	3459
+潘霜		2		广西壮族自治区		http://zyyj.gxzf.gov.cn/jgxx/ldxx/	副局长		广西壮族自治区中医药管理局	http://zyyj.gxzf.gov.cn/jgxx/ldxx/fjz/ps/	3459
+庞清		3		广西壮族自治区		http://zyyj.gxzf.gov.cn/jgxx/ldxx/	副局长		广西壮族自治区中医药管理局	http://zyyj.gxzf.gov.cn/jgxx/ldxx/fjz/pq/	3459

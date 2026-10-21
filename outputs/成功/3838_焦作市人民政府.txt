@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+薛崇林		1		河南省	焦作市	https://www.jiaozuo.gov.cn/zwgk/szfxxgk/zfld/xcl/	市长		焦作市人民政府		3838
+王朝杰		2		河南省	焦作市	https://www.jiaozuo.gov.cn/zwgk/szfxxgk/zfld/xcl/	副市长		焦作市人民政府	https://www.jiaozuo.gov.cn/zwgk/szfxxgk/zfld/wcj/	3838
+赵海燕		3		河南省	焦作市	https://www.jiaozuo.gov.cn/zwgk/szfxxgk/zfld/xcl/	副市长		焦作市人民政府	https://www.jiaozuo.gov.cn/zwgk/szfxxgk/zfld/zhy/	3838
+薛志杰		4		河南省	焦作市	https://www.jiaozuo.gov.cn/zwgk/szfxxgk/zfld/xcl/	副市长		焦作市人民政府	https://www.jiaozuo.gov.cn/zwgk/szfxxgk/zfld/xzj/	3838
+李晓明		5		河南省	焦作市	https://www.jiaozuo.gov.cn/zwgk/szfxxgk/zfld/xcl/	副市长		焦作市人民政府	https://www.jiaozuo.gov.cn/zwgk/szfxxgk/zfld/lxmt/	3838
+宗家桢		6		河南省	焦作市	https://www.jiaozuo.gov.cn/zwgk/szfxxgk/zfld/xcl/	副市长		焦作市人民政府	https://www.jiaozuo.gov.cn/zwgk/szfxxgk/zfld/zjz/	3838
+王小鹏		7		河南省	焦作市	https://www.jiaozuo.gov.cn/zwgk/szfxxgk/zfld/xcl/	副市长		焦作市人民政府	https://www.jiaozuo.gov.cn/zwgk/szfxxgk/zfld/wxp/	3838
+许斌		8		河南省	焦作市	https://www.jiaozuo.gov.cn/zwgk/szfxxgk/zfld/xcl/	副市长、秘书长		焦作市人民政府	https://www.jiaozuo.gov.cn/zwgk/szfxxgk/zfld/xb/	3838

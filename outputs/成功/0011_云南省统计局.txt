@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+段登位		1		云南省		https://stats.yn.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldxx/202510/t20251027_3052614.html	党组书记、局长		云南省统计局		0011
+胡明武		2		云南省		https://stats.yn.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldxx/202510/t20251027_3052614.html	党组成员、副局长		云南省统计局		0011
+魏树平		3		云南省		https://stats.yn.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldxx/202510/t20251027_3052614.html	党组成员、副局长		云南省统计局		0011
+殷国俊		4		云南省		https://stats.yn.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldxx/202510/t20251027_3052614.html	副局长		云南省统计局		0011
+王舸		5		云南省		https://stats.yn.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldxx/202510/t20251027_3052614.html	保留副厅长级待遇干部		云南省统计局		0011
+刘永禄		6		云南省		https://stats.yn.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldxx/202510/t20251027_3052614.html	一级巡视员		云南省统计局		0011

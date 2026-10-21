@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+曲江峰		1		新疆维吾尔自治区		https://sgj.xinjiang.gov.cn/sgj/ldbz/zfxxgk_xxgkzd.shtml	局党组书记、局长		新疆维吾尔自治区机关事务管理局	https://sgj.xinjiang.gov.cn/sgj/ldbz/202410/4c87b1f056b4487a83ae6112af0e46d7.shtml	2350
+赵永乖		2		新疆维吾尔自治区		https://sgj.xinjiang.gov.cn/sgj/ldbz/zfxxgk_xxgkzd.shtml	自治区机关事务管理局党组成员、副局长		新疆维吾尔自治区机关事务管理局	https://sgj.xinjiang.gov.cn/sgj/ldbz/202009/2d26f7cc74d94568863feaae6e21a8bf.shtml	2350
+赵文明		3		新疆维吾尔自治区		https://sgj.xinjiang.gov.cn/sgj/ldbz/zfxxgk_xxgkzd.shtml	自治区机关事务管理局党组成员、副局长		新疆维吾尔自治区机关事务管理局	https://sgj.xinjiang.gov.cn/sgj/ldbz/202112/3d836fa7d7e34e0497641794706fa488.shtml	2350
+容军		4		新疆维吾尔自治区		https://sgj.xinjiang.gov.cn/sgj/ldbz/zfxxgk_xxgkzd.shtml	局党组成员、副局长（援疆）		新疆维吾尔自治区机关事务管理局	https://sgj.xinjiang.gov.cn/sgj/ldbz/202202/7997b63d638347df9c580ad6b3ad1f04.shtml	2350

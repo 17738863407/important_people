@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+伍红梅		1		全国		https://gss.mof.gov.cn/guanyuwomen/lingdaozhici/	关税司司长		财政部关税司（关税政策研究中心）		0747
+王洪林		2		全国		https://gss.mof.gov.cn/guanyuwomen/lingdaozhici/	关税政策研究中心主任		财政部关税司（关税政策研究中心）		0747
+徐珑		3		全国		https://gss.mof.gov.cn/guanyuwomen/lingdaozhici/	关税司一级巡视员		财政部关税司（关税政策研究中心）		0747
+吴京芳		4		全国		https://gss.mof.gov.cn/guanyuwomen/lingdaozhici/	关税司副司长		财政部关税司（关税政策研究中心）		0747
+庞博		5		全国		https://gss.mof.gov.cn/guanyuwomen/lingdaozhici/	关税政策研究中心副主任		财政部关税司（关税政策研究中心）		0747

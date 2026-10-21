@@ -1,0 +1,12 @@
+﻿姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+罗卫华		1		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	中共常宁市委书记		常宁市委	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	4481
+邓艳红		2		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	中共常宁市委副书记，常宁市人民政府党组书记、市长		常宁市委	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20240708/i3409133.html	4481
+周俊		3		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	中共常宁市委常委，市委副书记		常宁市委	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20250210/i3578642.html	4481
+王武军		4		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	中共常宁市委常委，市政府党组副书记、常务副市长		常宁市委	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20250210/i3578319.html	4481
+何晓钦		5		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	中共常宁市委常委、宣传部部长		常宁市委	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20231030/i3150764.html	4481
+王超		6		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	中共常宁市委常委、市人武部政委		常宁市委	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20250210/i3578626.html	4481
+刘新华		7		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	中共常宁市委常委、市委办主任		常宁市委	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20250210/i3578639.html	4481
+彭建军		8		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	中共常宁市委常委、政法委书记		常宁市委	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20250210/i3578635.html	4481
+曾德伟		9		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	中共常宁市委常委、市纪委书记、四级高级监察官		常宁市委	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20260731/i3939289.html	4481
+彭金海		10		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	中共常宁市委常委、组织部部长、统战部部长、市政协党组副书记		常宁市委	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20260731/i3939286.html	4481
+唐辉		11		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20210630/i2419006.html	中共常宁市委常委、水口山经开区党工委书记		常宁市委	https://www.hnchangning.gov.cn/zwgk/szfxxgkml/ldzc/swcw/20250210/i3578620.html	4481

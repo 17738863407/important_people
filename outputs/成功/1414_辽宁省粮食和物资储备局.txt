@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何志勇		1		辽宁省		https://lcj.ln.gov.cn/lswzcb/zfxxgk/fdzdgknr/jgjj/index.shtml	党组书记 局长		辽宁省粮食和物资储备局	https://lcj.ln.gov.cn/lswzcb/zfxxgk/fdzdgknr/jgjj/bmld/2025120109455282032/index.shtml	1414
+肖玉强		2		辽宁省		https://lcj.ln.gov.cn/lswzcb/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员 副局长		辽宁省粮食和物资储备局	https://lcj.ln.gov.cn/lswzcb/zfxxgk/fdzdgknr/jgjj/bmld/2021101514012149013/index.shtml	1414
+杜柏林		3		辽宁省		https://lcj.ln.gov.cn/lswzcb/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员 副局长		辽宁省粮食和物资储备局	https://lcj.ln.gov.cn/lswzcb/zfxxgk/fdzdgknr/jgjj/bmld/2022110113472289265/index.shtml	1414
+王博		4		辽宁省		https://lcj.ln.gov.cn/lswzcb/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员 副局长		辽宁省粮食和物资储备局	https://lcj.ln.gov.cn/lswzcb/zfxxgk/fdzdgknr/jgjj/bmld/2025040211163850594/index.shtml	1414
+李杰夫		5		辽宁省		https://lcj.ln.gov.cn/lswzcb/zfxxgk/fdzdgknr/jgjj/index.shtml	总工程师		辽宁省粮食和物资储备局	https://lcj.ln.gov.cn/lswzcb/zfxxgk/fdzdgknr/jgjj/bmld/2023072410241928265/index.shtml	1414

@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+姚志伟		1		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=1704	党组书记、局长		郑州市市场监督管理局	https://public.zhengzhou.gov.cn/D14Y/6798235.jhtml	2105
+王鹏程		2		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=1704	党组成员、一级高级主办		郑州市市场监督管理局	https://public.zhengzhou.gov.cn/D14Y/325549.jhtml	2105
+朱忠锋		3		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=1704	党组成员、一级高级主办		郑州市市场监督管理局	https://public.zhengzhou.gov.cn/D14Y/325545.jhtml	2105
+张铁男		4		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=1704	党组成员、一级高级主办		郑州市市场监督管理局	https://public.zhengzhou.gov.cn/D14Y/325538.jhtml	2105
+李光荣		5		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=1704	党组成员、一级高级主办		郑州市市场监督管理局	https://public.zhengzhou.gov.cn/D14Y/325537.jhtml	2105
+李军安		6		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=1704	党组成员、一级高级主办		郑州市市场监督管理局	https://public.zhengzhou.gov.cn/D14Y/325531.jhtml	2105
+王金辉		7		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=1704	党组成员、一级高级主办		郑州市市场监督管理局	https://public.zhengzhou.gov.cn/D14Y/325521.jhtml	2105
+岳振凯		8		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=1704	副局长		郑州市市场监督管理局	https://public.zhengzhou.gov.cn/D14Y/7058732.jhtml	2105
+钮平道		9		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=1704	派驻纪检组组长		郑州市市场监督管理局	https://public.zhengzhou.gov.cn/D14Y/7069855.jhtml	2105
+李延涛		10		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=1704	郑州市市场监督管理局副局长		郑州市市场监督管理局	https://public.zhengzhou.gov.cn/D14Y/10136574.jhtml	2105

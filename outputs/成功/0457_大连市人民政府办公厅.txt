@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+汤易		1		辽宁省	大连市	https://www.dl.gov.cn/col/col9118/index.html?vc_xxgkarea=2102000003&number=DL014&jh=263	市政府机关党组书记，市政府办公厅主任		大连市人民政府办公厅	https://www.dl.gov.cn/art/2025/8/20/art_9119_2457763.html	0457
+程安生		2		辽宁省	大连市	https://www.dl.gov.cn/col/col9118/index.html?vc_xxgkarea=2102000003&number=DL014&jh=263	市政府机关党组成员		大连市人民政府办公厅	https://www.dl.gov.cn/art/2025/8/20/art_9119_2457762.html	0457
+侯春艳		3		辽宁省	大连市	https://www.dl.gov.cn/col/col9118/index.html?vc_xxgkarea=2102000003&number=DL014&jh=263	市政府机关党组成员，市纪委监委驻市政府办公厅纪检监察组组长		大连市人民政府办公厅	https://www.dl.gov.cn/art/2025/8/20/art_9119_2457759.html	0457
+李汉波		4		辽宁省	大连市	https://www.dl.gov.cn/col/col9118/index.html?vc_xxgkarea=2102000003&number=DL014&jh=263	市政府机关党组成员，市政府办公厅副主任		大连市人民政府办公厅	https://www.dl.gov.cn/art/2025/8/20/art_9119_2457758.html	0457
+张克慧		5		辽宁省	大连市	https://www.dl.gov.cn/col/col9118/index.html?vc_xxgkarea=2102000003&number=DL014&jh=263	市政府机关党组成员，市政府办公厅副主任兼市政府督查绩效考核办公室主任		大连市人民政府办公厅	https://www.dl.gov.cn/art/2025/8/20/art_9119_2457757.html	0457
+梁德力		6		辽宁省	大连市	https://www.dl.gov.cn/col/col9118/index.html?vc_xxgkarea=2102000003&number=DL014&jh=263	市政府机关党组成员，市政府办公厅副主任		大连市人民政府办公厅	https://www.dl.gov.cn/art/2025/8/20/art_9119_2457754.html	0457
+王辉		7		辽宁省	大连市	https://www.dl.gov.cn/col/col9118/index.html?vc_xxgkarea=2102000003&number=DL014&jh=263	市政府机关党组成员，市政府办公厅副主任		大连市人民政府办公厅	https://www.dl.gov.cn/art/2025/8/20/art_9119_2457752.html	0457

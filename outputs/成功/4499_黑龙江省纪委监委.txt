@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨成军		1		黑龙江省		https://www.hljjjjc.gov.cn/Hljjjjc/html/ldjg.html?first_classify_sign=xxgk&second_classify_sign=ldbz	中共黑龙江省第十三届纪律检查委员会副书记；黑龙江省监察委员会副主任		黑龙江省纪委监委		4499
+陈光辉		2		黑龙江省		https://www.hljjjjc.gov.cn/Hljjjjc/html/ldjg.html?first_classify_sign=xxgk&second_classify_sign=ldbz	中共黑龙江省第十三届纪律检查委员会副书记；黑龙江省监察委员会副主任		黑龙江省纪委监委		4499
+罗礼平		3		黑龙江省		https://www.hljjjjc.gov.cn/Hljjjjc/html/ldjg.html?first_classify_sign=xxgk&second_classify_sign=ldbz	中共黑龙江省第十三届纪律检查委员会副书记；黑龙江省监察委员会副主任		黑龙江省纪委监委		4499
+杨守德		4		黑龙江省		https://www.hljjjjc.gov.cn/Hljjjjc/html/ldjg.html?first_classify_sign=xxgk&second_classify_sign=ldbz	中共黑龙江省第十三届纪律检查委员会常委		黑龙江省纪委监委		4499
+刘敏		5		黑龙江省		https://www.hljjjjc.gov.cn/Hljjjjc/html/ldjg.html?first_classify_sign=xxgk&second_classify_sign=ldbz	中共黑龙江省第十三届纪律检查委员会常委		黑龙江省纪委监委		4499
+周伟		6		黑龙江省		https://www.hljjjjc.gov.cn/Hljjjjc/html/ldjg.html?first_classify_sign=xxgk&second_classify_sign=ldbz	中共黑龙江省第十三届纪律检查委员会常委		黑龙江省纪委监委		4499
+陈晓勇		7		黑龙江省		https://www.hljjjjc.gov.cn/Hljjjjc/html/ldjg.html?first_classify_sign=xxgk&second_classify_sign=ldbz	中共黑龙江省第十三届纪律检查委员会常委		黑龙江省纪委监委		4499
+董炜		8		黑龙江省		https://www.hljjjjc.gov.cn/Hljjjjc/html/ldjg.html?first_classify_sign=xxgk&second_classify_sign=ldbz	中共黑龙江省第十三届纪律检查委员会常委		黑龙江省纪委监委		4499
+边学文		9		黑龙江省		https://www.hljjjjc.gov.cn/Hljjjjc/html/ldjg.html?first_classify_sign=xxgk&second_classify_sign=ldbz	黑龙江省监察委员会主任		黑龙江省纪委监委		4499

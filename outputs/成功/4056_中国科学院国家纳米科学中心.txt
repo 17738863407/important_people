@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+唐智勇		1		全国		https://nanoctr.cas.cn/dwgk2017/xrld_133377/	主任		中国科学院国家纳米科学中心	https://nanoctr.cas.cn/dwgk2017/xrld_133377/202311/t20231101_6912763.html	4056
+欧龙新		2		全国		https://nanoctr.cas.cn/dwgk2017/xrld_133377/	党委书记、副主任		中国科学院国家纳米科学中心	https://nanoctr.cas.cn/dwgk2017/xrld_133377/201810/t20181025_5149979.html	4056
+熊国祥		3		全国		https://nanoctr.cas.cn/dwgk2017/xrld_133377/	党委副书记、纪委书记		中国科学院国家纳米科学中心	https://nanoctr.cas.cn/dwgk2017/xrld_133377/201705/t20170509_4785406.html	4056
+施兴华		4		全国		https://nanoctr.cas.cn/dwgk2017/xrld_133377/	副主任		中国科学院国家纳米科学中心	https://nanoctr.cas.cn/dwgk2017/xrld_133377/202311/t20231107_6912771.html	4056
+彭海琳		5		全国		https://nanoctr.cas.cn/dwgk2017/xrld_133377/	副主任（兼）		中国科学院国家纳米科学中心	https://nanoctr.cas.cn/dwgk2017/xrld_133377/202311/t20231107_6912770.html	4056
+李水清		6		全国		https://nanoctr.cas.cn/dwgk2017/xrld_133377/	副主任（兼）		中国科学院国家纳米科学中心	https://nanoctr.cas.cn/dwgk2017/xrld_133377/202311/t20231107_6912768.html	4056

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郭跃华		1		黑龙江省		https://gxt.hlj.gov.cn/gxt/c106989/jgldnew.shtml	副厅长、党组副书记		黑龙江省工业和信息化厅		0784
+王学峰		2		黑龙江省		https://gxt.hlj.gov.cn/gxt/c106989/jgldnew.shtml	副厅长、党组成员		黑龙江省工业和信息化厅		0784
+王毅		3		黑龙江省		https://gxt.hlj.gov.cn/gxt/c106989/jgldnew.shtml	副厅长、党组成员		黑龙江省工业和信息化厅		0784
+李春宇		4		黑龙江省		https://gxt.hlj.gov.cn/gxt/c106989/jgldnew.shtml	副厅长、党组成员		黑龙江省工业和信息化厅		0784
+羿宗胤		5		黑龙江省		https://gxt.hlj.gov.cn/gxt/c106989/jgldnew.shtml	副厅长、党组成员		黑龙江省工业和信息化厅		0784
+王千里		6		黑龙江省		https://gxt.hlj.gov.cn/gxt/c106989/jgldnew.shtml	副厅长、党组成员		黑龙江省工业和信息化厅		0784
+李梅		7		黑龙江省		https://gxt.hlj.gov.cn/gxt/c106989/jgldnew.shtml	驻厅纪检监察组组长、党组成员		黑龙江省工业和信息化厅		0784
+李江		8		黑龙江省		https://gxt.hlj.gov.cn/gxt/c106989/jgldnew.shtml	副厅长、党组成员		黑龙江省工业和信息化厅		0784

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+石秀田		1		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=10	河南省公安厅党委委员，郑州市人民政府副市长、党组成员，郑州市公安局党委书记、局长、督察长，中共郑州市委政法委员会副书记		郑州市公安局	https://public.zhengzhou.gov.cn/D14Y/284081.jhtml	2087
+南毅强		2		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=10	郑州市公安局党委副书记、常务副局长		郑州市公安局	https://public.zhengzhou.gov.cn/D14Y/5964912.jhtml	2087
+蔡东赞		3		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=10	郑州市公安局党委委员、副局长		郑州市公安局	https://public.zhengzhou.gov.cn/D14Y/284041.jhtml	2087
+罗谷仁		4		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=10	郑州市纪委监委驻市公安局纪检监察组组长、市公安局党委委员		郑州市公安局	https://public.zhengzhou.gov.cn/D14Y/6757284.jhtml	2087
+许景超		5		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=10	郑州市公安局党委委员、副局长		郑州市公安局	https://public.zhengzhou.gov.cn/D14Y/7821746.jhtml	2087
+孔安		6		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=10	郑州市公安局党委委员、副局长		郑州市公安局	https://public.zhengzhou.gov.cn/D14Y/9969291.jhtml	2087
+冯红军		7		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=10	郑州市公安局党委委员、政治部主任		郑州市公安局	https://public.zhengzhou.gov.cn/D14Y/9969305.jhtml	2087
+王永新		8		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=10	郑州市公安局党委委员、副局长		郑州市公安局	https://public.zhengzhou.gov.cn/D14Y/9969319.jhtml	2087

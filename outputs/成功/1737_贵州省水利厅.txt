@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+易耘		1		贵州省		https://mwr.guizhou.gov.cn/zwgk/ldzc/	厅党组书记、厅长		贵州省水利厅		1737
+杨怡		2		贵州省		https://mwr.guizhou.gov.cn/zwgk/ldzc/	厅党组成员、省水文水资源局党委书记		贵州省水利厅		1737
+杨勇		3		贵州省		https://mwr.guizhou.gov.cn/zwgk/ldzc/	厅党组成员、副厅长		贵州省水利厅		1737
+张渊		4		贵州省		https://mwr.guizhou.gov.cn/zwgk/ldzc/	厅党组成员、副厅长		贵州省水利厅		1737
+熊发荣		5		贵州省		https://mwr.guizhou.gov.cn/zwgk/ldzc/	厅党组成员、副厅长		贵州省水利厅		1737
+杨琼		6		贵州省		https://mwr.guizhou.gov.cn/zwgk/ldzc/	厅党组成员、副厅长		贵州省水利厅		1737
+李新杰		7		贵州省		https://mwr.guizhou.gov.cn/zwgk/ldzc/	厅党组成员		贵州省水利厅		1737
+杨春友		8		贵州省		https://mwr.guizhou.gov.cn/zwgk/ldzc/	二级巡视员		贵州省水利厅		1737

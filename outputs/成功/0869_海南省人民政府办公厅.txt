@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蔡强		1		海南省		https://www.hainan.gov.cn/szfbgt/	海南省人民政府党组成员、秘书长，机关党组书记、办公厅主任		海南省人民政府办公厅	https://www.hainan.gov.cn/szfbgt/ldxx1/202512/9350e93fe5c94490b8e8525abaa38dfb.shtml	0869
+陈万馨		2		海南省		https://www.hainan.gov.cn/szfbgt/	海南省人民政府副秘书长、机关党组成员、一级巡视员		海南省人民政府办公厅	https://www.hainan.gov.cn/szfbgt/ldxx1/202204/76f05c32d7744da581c85ecb0b39355c.shtml	0869
+王鹏		3		海南省		https://www.hainan.gov.cn/szfbgt/	海南省人民政府副秘书长、机关党组成员		海南省人民政府办公厅	https://www.hainan.gov.cn/szfbgt/ldxx1/202508/24ac4bc3542d4e6fa4392e363a5f60dc.shtml	0869
+郑勇		4		海南省		https://www.hainan.gov.cn/szfbgt/	八届海南省纪委委员，海南省人民政府副秘书长、机关党组成员		海南省人民政府办公厅	https://www.hainan.gov.cn/szfbgt/ldxx1/202404/7dbed98f93dd422ba512532267243a89.shtml	0869
+王和娇		5		海南省		https://www.hainan.gov.cn/szfbgt/	海南省人民政府副秘书长、机关党组成员		海南省人民政府办公厅	https://www.hainan.gov.cn/szfbgt/ldxx1/202510/2eea9bc24cd2417486f1a1a99b9684b2.shtml	0869
+曹冰		6		海南省		https://www.hainan.gov.cn/szfbgt/	海南省人民政府副秘书长、机关党组成员		海南省人民政府办公厅	https://www.hainan.gov.cn/szfbgt/ldxx1/202411/0d3f4b754b5747579702d418e4eff486.shtml	0869
+陈永红		7		海南省		https://www.hainan.gov.cn/szfbgt/	海南省人民政府副秘书长、机关党组成员		海南省人民政府办公厅	https://www.hainan.gov.cn/szfbgt/ldxx1/202510/6a706c76bf9f497087793e3a83502087.shtml	0869
+林峰		8		海南省		https://www.hainan.gov.cn/szfbgt/	海南省人民政府副秘书长、机关党组成员		海南省人民政府办公厅	https://www.hainan.gov.cn/szfbgt/ldxx1/202302/789cefce9c294719a0bcbd8adb19858a.shtml	0869

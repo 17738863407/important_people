@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张锦平		1		新疆维吾尔自治区		http://gzw.xinjiang.gov.cn/gzw/ldxx/list_jg.shtml	国资委党委书记、副主任		新疆维吾尔自治区人民政府国有资产监督管理委员会	http://gzw.xinjiang.gov.cn/gzw/ldxx/202002/db010b09a4dd4f9a9eb58eec69fe4d2a.shtml	0855
+邹义伟		2		新疆维吾尔自治区		http://gzw.xinjiang.gov.cn/gzw/ldxx/list_jg.shtml	国资委党委副书记、主任		新疆维吾尔自治区人民政府国有资产监督管理委员会	http://gzw.xinjiang.gov.cn/gzw/ldxx/202002/9b665706a0674b49846bbecf62ed960a.shtml	0855
+唐路		3		新疆维吾尔自治区		http://gzw.xinjiang.gov.cn/gzw/ldxx/list_jg.shtml	国资委党委委员、副主任		新疆维吾尔自治区人民政府国有资产监督管理委员会	http://gzw.xinjiang.gov.cn/gzw/ldxx/202609/57f25bc0b36c40fa93a24efaa0dbe614.shtml	0855
+李晨阳		4		新疆维吾尔自治区		http://gzw.xinjiang.gov.cn/gzw/ldxx/list_jg.shtml	国资委党委委员、副主任		新疆维吾尔自治区人民政府国有资产监督管理委员会	http://gzw.xinjiang.gov.cn/gzw/ldxx/202609/cece685e22d74819b625ea217f547778.shtml	0855
+段卫华		5		新疆维吾尔自治区		http://gzw.xinjiang.gov.cn/gzw/ldxx/list_jg.shtml	国资委党委委员、副主任		新疆维吾尔自治区人民政府国有资产监督管理委员会	http://gzw.xinjiang.gov.cn/gzw/ldxx/202401/839ddac7afd84f599472d19139acbf0b.shtml	0855
+杨坤		6		新疆维吾尔自治区		http://gzw.xinjiang.gov.cn/gzw/ldxx/list_jg.shtml	国资委党委委员、副主任		新疆维吾尔自治区人民政府国有资产监督管理委员会	http://gzw.xinjiang.gov.cn/gzw/ldxx/202505/e0bfd71e79864dca966fab2f801ab760.shtml	0855
+方竹		7		新疆维吾尔自治区		http://gzw.xinjiang.gov.cn/gzw/ldxx/list_jg.shtml	国资委党委委员、副主任		新疆维吾尔自治区人民政府国有资产监督管理委员会	http://gzw.xinjiang.gov.cn/gzw/ldxx/202609/0e4d251f5f2b421f9886e5700865aebf.shtml	0855

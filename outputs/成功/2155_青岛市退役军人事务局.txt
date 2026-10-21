@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高波		1		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/tyjr/gkml/jgxx/202306/t20230607_7218158.shtml	青岛市退役军人事务局党组书记、局长		青岛市退役军人事务局		2155
+张笑		2		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/tyjr/gkml/jgxx/202306/t20230607_7218158.shtml	青岛市退役军人事务局党组成员、副局长		青岛市退役军人事务局		2155
+周遵贤		3		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/tyjr/gkml/jgxx/202306/t20230607_7218158.shtml	青岛市退役军人事务局党组成员、副局长		青岛市退役军人事务局		2155
+程海林		4		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/tyjr/gkml/jgxx/202306/t20230607_7218158.shtml	青岛市退役军人事务局党组成员、副局长		青岛市退役军人事务局		2155
+王明生		5		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/tyjr/gkml/jgxx/202306/t20230607_7218158.shtml	青岛市退役军人事务局副局级领导干部		青岛市退役军人事务局		2155

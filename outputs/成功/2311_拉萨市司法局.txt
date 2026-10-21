@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邱秀兰		1		西藏自治区	拉萨市	http://sfj.lasa.gov.cn/sfj/ldsj/ldxx_list.shtml	局党组书记、副局长		拉萨市司法局	http://sfj.lasa.gov.cn/sfj/ldsj/201910/ef020a9c4eaf45dca5e0e57799ba3e2b.shtml	2311
+齐斌		2		西藏自治区	拉萨市	http://sfj.lasa.gov.cn/sfj/ldsj/ldxx_list.shtml	党组副书记、局长		拉萨市司法局	http://sfj.lasa.gov.cn/sfj/thsz/202312/18b975b8f301445197a0ac667954dcc2.shtml	2311
+阿旺拉姆		3		西藏自治区	拉萨市	http://sfj.lasa.gov.cn/sfj/ldsj/ldxx_list.shtml	党组成员、市阳光公证处主任		拉萨市司法局	http://sfj.lasa.gov.cn/sfj/ehsz/202401/1f52706e922b4d4ea14e50006b750121.shtml	2311
+曾梁		4		西藏自治区	拉萨市	http://sfj.lasa.gov.cn/sfj/ldsj/ldxx_list.shtml	党组成员、副局长		拉萨市司法局	http://sfj.lasa.gov.cn/sfj/ehsz/202512/42a468df2d7e4cf8a82c1e174d149d35.shtml	2311
+周杰		5		西藏自治区	拉萨市	http://sfj.lasa.gov.cn/sfj/ldsj/ldxx_list.shtml	党组成员、副局长		拉萨市司法局	http://sfj.lasa.gov.cn/sfj/ehsz/202502/68de1415f56e4ef8aa4e6c960c9a8812.shtml	2311
+索朗加措		6		西藏自治区	拉萨市	http://sfj.lasa.gov.cn/sfj/ldsj/ldxx_list.shtml	党组成员、副局长		拉萨市司法局	http://sfj.lasa.gov.cn/sfj/ehsz/202311/692f09fb6f3b4e7b8b80ef0ed7f3308a.shtml	2311
+高雅		7		西藏自治区	拉萨市	http://sfj.lasa.gov.cn/sfj/ldsj/ldxx_list.shtml	党组成员、副局长		拉萨市司法局	http://sfj.lasa.gov.cn/sfj/ehsz/202607/31af9e10de67464daf25000e05defb8b.shtml	2311

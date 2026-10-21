@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘忠诚		1		湖北省	黄冈市	https://www.hg.gov.cn/content/column/6799765?liId=754&leaderTypeId=409	副市长、代理市长		黄冈市人民政府		4300
+潘国林		2		湖北省	黄冈市	https://www.hg.gov.cn/content/column/6799765?liId=754&leaderTypeId=409	副市长		黄冈市人民政府	https://www.hg.gov.cn/content/column/6799765?liId=757&leaderTypeId=409	4300
+胡昊		3		湖北省	黄冈市	https://www.hg.gov.cn/content/column/6799765?liId=754&leaderTypeId=409	副市长		黄冈市人民政府	https://www.hg.gov.cn/content/column/6799765?liId=795&leaderTypeId=409	4300
+牟波		4		湖北省	黄冈市	https://www.hg.gov.cn/content/column/6799765?liId=754&leaderTypeId=409	副市长		黄冈市人民政府	https://www.hg.gov.cn/content/column/6799765?liId=796&leaderTypeId=409	4300
+杨金叶		5		湖北省	黄冈市	https://www.hg.gov.cn/content/column/6799765?liId=754&leaderTypeId=409	副市长		黄冈市人民政府	https://www.hg.gov.cn/content/column/6799765?liId=798&leaderTypeId=409	4300
+陈威		6		湖北省	黄冈市	https://www.hg.gov.cn/content/column/6799765?liId=754&leaderTypeId=409	副市长		黄冈市人民政府	https://www.hg.gov.cn/content/column/6799765?liId=801&leaderTypeId=409	4300
+胡安元		7		湖北省	黄冈市	https://www.hg.gov.cn/content/column/6799765?liId=754&leaderTypeId=409	副市长		黄冈市人民政府	https://www.hg.gov.cn/content/column/6799765?liId=804&leaderTypeId=409	4300
+王中华		8		湖北省	黄冈市	https://www.hg.gov.cn/content/column/6799765?liId=754&leaderTypeId=409	副市长		黄冈市人民政府	https://www.hg.gov.cn/content/column/6799765?liId=807&leaderTypeId=409	4300
+胡凯		9		湖北省	黄冈市	https://www.hg.gov.cn/content/column/6799765?liId=754&leaderTypeId=409	秘书长		黄冈市人民政府	https://www.hg.gov.cn/content/column/6799765?liId=778&leaderTypeId=409	4300

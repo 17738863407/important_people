@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谢德强		1		江西省		http://jt.jiangxi.gov.cn/jxsjtyst/jgld/index.html	党组书记、厅长		江西省交通运输厅	http://jt.jiangxi.gov.cn/jxsjtyst/jgld/content/content_1876920998420512768.html	1224
+王昭春		2		江西省		http://jt.jiangxi.gov.cn/jxsjtyst/jgld/index.html	党组成员、副厅长		江西省交通运输厅	http://jt.jiangxi.gov.cn/jxsjtyst/jgld/content/content_1876923576378163200.html	1224
+周慧锋		3		江西省		http://jt.jiangxi.gov.cn/jxsjtyst/jgld/index.html	党组成员、副厅长，兼任江西省邮政管理局党组书记、局长		江西省交通运输厅	http://jt.jiangxi.gov.cn/jxsjtyst/jgld/content/content_1876924169368862720.html	1224
+朱晗		4		江西省		http://jt.jiangxi.gov.cn/jxsjtyst/jgld/index.html	党组成员、副厅长		江西省交通运输厅	http://jt.jiangxi.gov.cn/jxsjtyst/jgld/content/content_1876924432146202624.html	1224
+毛茂		5		江西省		http://jt.jiangxi.gov.cn/jxsjtyst/jgld/index.html	党组成员、副厅长		江西省交通运输厅	http://jt.jiangxi.gov.cn/jxsjtyst/jgld/content/content_1876924663302684672.html	1224

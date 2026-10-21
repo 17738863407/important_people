@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+索申敬		1		广西壮族自治区	玉林市	http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/ldjj_30135/	市长		玉林市人民政府	http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/ldjj_30135/sz/	4309
+韦庆强		2		广西壮族自治区	玉林市	http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/ldjj_30135/	副市长		玉林市人民政府	http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/ldjj_30135/fsz/t18911807.shtml	4309
+冯克森		3		广西壮族自治区	玉林市	http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/ldjj_30135/	副市长		玉林市人民政府	http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/ldjj_30135/fsz/t22623933.shtml	4309
+蔡跃洲		4		广西壮族自治区	玉林市	http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/ldjj_30135/	副市长		玉林市人民政府	http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/ldjj_30135/fsz/t28056324.shtml	4309
+党万坚		5		广西壮族自治区	玉林市	http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/ldjj_30135/	副市长		玉林市人民政府	http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/ldjj_30135/fsz/t7685843.shtml	4309
+马少华		6		广西壮族自治区	玉林市	http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/ldjj_30135/	副市长		玉林市人民政府	http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/ldjj_30135/fsz/t10285915.shtml	4309
+仵建民		7		广西壮族自治区	玉林市	http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/ldjj_30135/	副市长		玉林市人民政府	http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/ldjj_30135/fsz/t27260247.shtml	4309
+乔鹏		8		广西壮族自治区	玉林市	http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/ldjj_30135/	秘书长		玉林市人民政府	http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/ldjj_30135/msz/t28076365.shtml	4309

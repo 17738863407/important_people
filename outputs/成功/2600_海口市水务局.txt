@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+钱军		1		海南省	海口市	https://swj.haikou.gov.cn/hksswj/jgjs/jgjs.shtml	党组书记、局长		海口市水务局	https://swj.haikou.gov.cn/hksswj/ldxx/202603/108e54909c1e49489283d95e0e2284cd.shtml	2600
+曾卫华		2		海南省	海口市	https://swj.haikou.gov.cn/hksswj/jgjs/jgjs.shtml	党组成员、副局长		海口市水务局	https://swj.haikou.gov.cn/hksswj/ldxx/202603/c3e3b2b8b8f04573a0707abcedcd7e8a.shtml	2600
+谭小茹		3		海南省	海口市	https://swj.haikou.gov.cn/hksswj/jgjs/jgjs.shtml	党组成员、副局长		海口市水务局	https://swj.haikou.gov.cn/hksswj/ldxx/202603/9d412a222c3b492ea3175533814a32c8.shtml	2600
+汪志奇		4		海南省	海口市	https://swj.haikou.gov.cn/hksswj/jgjs/jgjs.shtml	党组成员、副局长		海口市水务局	https://swj.haikou.gov.cn/hksswj/ldxx/202401/6dad3de62fb64945bd098ccce85d9055.shtml	2600
+刘保		5		海南省	海口市	https://swj.haikou.gov.cn/hksswj/jgjs/jgjs.shtml	党组成员、三级调研员		海口市水务局	https://swj.haikou.gov.cn/hksswj/ldxx/202603/4020d96a8a2e455c8da5b443b5da37df.shtml	2600
+祁建华		6		海南省	海口市	https://swj.haikou.gov.cn/hksswj/jgjs/jgjs.shtml	党组成员、市供水污水技术中心主任		海口市水务局	https://swj.haikou.gov.cn/hksswj/ldxx/202510/8a93510a3f944928a206a8bc2fb9bcad.shtml	2600

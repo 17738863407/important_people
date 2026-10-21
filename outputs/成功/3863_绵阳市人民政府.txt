@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+江彬		1		四川省	绵阳市	https://www.my.gov.cn/mysrmzf/c100121/zfld.shtml	市委副书记，市政府市长、党组书记，绵阳科技城党工委书记		绵阳市人民政府	https://www.my.gov.cn/mysrmzf/c102229/202603/4156498058554247a5f21f755c33f779.shtml	3863
+邓辉		2		四川省	绵阳市	https://www.my.gov.cn/mysrmzf/c100121/zfld.shtml	市委常委，市政府常务副市长、党组副书记		绵阳市人民政府	https://www.my.gov.cn/mysrmzf/c102230/202312/7b70ffbab93e4ee898be45f1f35c9485.shtml	3863
+鞠雷		3		四川省	绵阳市	https://www.my.gov.cn/mysrmzf/c100121/zfld.shtml	市委常委，市政府副市长（挂职）、党组成员		绵阳市人民政府	https://www.my.gov.cn/mysrmzf/c102230/202606/c41eda39e05141d28c9c64616823b06a.shtml	3863
+梁小辉		4		四川省	绵阳市	https://www.my.gov.cn/mysrmzf/c100121/zfld.shtml	市政府副市长、党组成员		绵阳市人民政府	https://www.my.gov.cn/mysrmzf/c102230/202501/5968ec7433cc46758fa38757dce2bd53.shtml	3863
+李东武		5		四川省	绵阳市	https://www.my.gov.cn/mysrmzf/c100121/zfld.shtml	市政府副市长、党组成员，市公安局党委书记、局长、督察长，市委政法委副书记（兼任）		绵阳市人民政府	https://www.my.gov.cn/mysrmzf/c102230/202608/02951c61aeee463bbd7ad54ec4dcd57f.shtml	3863
+胡进耀		6		四川省	绵阳市	https://www.my.gov.cn/mysrmzf/c100121/zfld.shtml	市政府副市长，民盟绵阳市委主委		绵阳市人民政府	https://www.my.gov.cn/mysrmzf/c102230/202311/f99a92f3ab7b49d1a4b17d9359f454e5.shtml	3863
+黄波		7		四川省	绵阳市	https://www.my.gov.cn/mysrmzf/c100121/zfld.shtml	市政府副市长、党组成员		绵阳市人民政府	https://www.my.gov.cn/mysrmzf/c102230/202401/43f88a438bf24df59057e5d5eb86c6c9.shtml	3863
+张洋		8		四川省	绵阳市	https://www.my.gov.cn/mysrmzf/c100121/zfld.shtml	市政府副市长、党组成员，绵阳科技城党工委副书记		绵阳市人民政府	https://www.my.gov.cn/mysrmzf/c102230/202608/5b231a6ecf1b43bd9f4b3cb5604b03b1.shtml	3863
+刘强		9		四川省	绵阳市	https://www.my.gov.cn/mysrmzf/c100121/zfld.shtml	市政府副市长、党组成员		绵阳市人民政府	https://www.my.gov.cn/mysrmzf/c102230/202507/9dcdd5a5750e40c6b62c50fc18a5a2d5.shtml	3863
+曾建军		10		四川省	绵阳市	https://www.my.gov.cn/mysrmzf/c100121/zfld.shtml	市政府副市长、党组成员		绵阳市人民政府	https://www.my.gov.cn/mysrmzf/c102230/202606/aa219141962b4f728446eca178187afe.shtml	3863
+吕勇		11		四川省	绵阳市	https://www.my.gov.cn/mysrmzf/c100121/zfld.shtml	市政府秘书长、党组成员		绵阳市人民政府	https://www.my.gov.cn/mysrmzf/c102231/202603/e3ae0500f28e40d5bceacaba029d6568.shtml	3863

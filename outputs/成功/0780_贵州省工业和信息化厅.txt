@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+敖鸿		1		贵州省		https://gxt.guizhou.gov.cn/zwgk/xxgkml/ldzc_5978026/	党组书记、厅长		贵州省工业和信息化厅	https://gxt.guizhou.gov.cn/zwgk/xxgkml/ldzc_5978026/202503/t20250317_87187824.html	0780
+郭丹		2		贵州省		https://gxt.guizhou.gov.cn/zwgk/xxgkml/ldzc_5978026/	党组成员、副厅长		贵州省工业和信息化厅	https://gxt.guizhou.gov.cn/zwgk/xxgkml/ldzc_5978026/202503/t20250317_87187974.html	0780
+秦扬远		3		贵州省		https://gxt.guizhou.gov.cn/zwgk/xxgkml/ldzc_5978026/	党组成员、副厅长		贵州省工业和信息化厅	https://gxt.guizhou.gov.cn/zwgk/xxgkml/ldzc_5978026/202509/t20250928_88658034.html	0780
+付应刚		4		贵州省		https://gxt.guizhou.gov.cn/zwgk/xxgkml/ldzc_5978026/	党组成员、副厅长		贵州省工业和信息化厅	https://gxt.guizhou.gov.cn/zwgk/xxgkml/ldzc_5978026/202505/t20250520_87899732.html	0780
+韩江		5		贵州省		https://gxt.guizhou.gov.cn/zwgk/xxgkml/ldzc_5978026/	党组成员、派驻省工业和信息化厅纪检监察组组长		贵州省工业和信息化厅	https://gxt.guizhou.gov.cn/zwgk/xxgkml/ldzc_5978026/202507/t20250711_88272386.html	0780
+牛伟		6		贵州省		https://gxt.guizhou.gov.cn/zwgk/xxgkml/ldzc_5978026/	党组成员、副厅长		贵州省工业和信息化厅	https://gxt.guizhou.gov.cn/zwgk/xxgkml/ldzc_5978026/202604/t20260429_90057798.html	0780
+彭太		7		贵州省		https://gxt.guizhou.gov.cn/zwgk/xxgkml/ldzc_5978026/	副厅长		贵州省工业和信息化厅	https://gxt.guizhou.gov.cn/zwgk/xxgkml/ldzc_5978026/202503/t20250317_87187965.html	0780

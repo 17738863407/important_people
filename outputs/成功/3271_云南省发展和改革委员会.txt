@@ -1,0 +1,24 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈明		1		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	委党组书记、主任		云南省发展和改革委员会		3271
+李灿和		2		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	委党组成员，省数据局党组书记、局长（正厅长级）		云南省发展和改革委员会		3271
+段登位		3		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	委党组成员，省统计局党组书记、局长		云南省发展和改革委员会		3271
+张向明		4		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	委党组成员、副主任，省国动办党组书记、主任		云南省发展和改革委员会		3271
+高明顺		5		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	委党组成员，省搬迁安置办公室党组书记、主任，一级巡视员		云南省发展和改革委员会		3271
+梁旭东		6		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	委党组成员、副主任、一级巡视员		云南省发展和改革委员会		3271
+徐鹏声		7		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	委党组成员，省粮食和储备局党组书记、局长		云南省发展和改革委员会		3271
+周民欣		8		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	委党组成员、副主任		云南省发展和改革委员会		3271
+郭金华		9		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	委党组成员、副主任		云南省发展和改革委员会		3271
+冀铮		10		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	委党组成员、副主任（挂职）		云南省发展和改革委员会		3271
+王波		11		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	委党组成员、副主任		云南省发展和改革委员会		3271
+连利军		12		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	委党组成员、副主任		云南省发展和改革委员会		3271
+王洪雷		13		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	委党组成员（挂职）		云南省发展和改革委员会		3271
+刘颖		14		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	保留副厅级待遇		云南省发展和改革委员会		3271
+孙富文		15		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	省政府投资项目评审中心（省工程咨询中心）主任		云南省发展和改革委员会		3271
+洪云波		16		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	省宏观经济研究院（省产业研究院）院长（副厅长级）		云南省发展和改革委员会		3271
+徐东		17		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	一级巡视员		云南省发展和改革委员会		3271
+宋予		18		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	二级巡视员		云南省发展和改革委员会		3271
+王宏林		19		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	二级巡视员		云南省发展和改革委员会		3271
+罗海		20		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	二级巡视员		云南省发展和改革委员会		3271
+王为明		21		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	二级巡视员		云南省发展和改革委员会		3271
+吕庭华		22		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	二级巡视员		云南省发展和改革委员会		3271
+陆春涛		23		云南省		http://yndrc.yn.gov.cn/html/zhengwugongkai/fadingzhudonggongkaineirong/jigouzhize/lingdaochengyuan/	二级巡视员		云南省发展和改革委员会		3271

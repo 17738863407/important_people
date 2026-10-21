@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘晓华		1		海南省	海口市	http://drc.haikou.gov.cn/xxxgk/fdzdgknr/jgjs_7789/ldxx/202205/t1114475.shtml	党组书记、主任、海口市人民政府国防动员办公室主任		海口市发展和改革委员会		0477
+王明夫		2		海南省	海口市	http://drc.haikou.gov.cn/xxxgk/fdzdgknr/jgjs_7789/ldxx/202205/t1114475.shtml	党组成员、一级调研员		海口市发展和改革委员会		0477
+蒋磊		3		海南省	海口市	http://drc.haikou.gov.cn/xxxgk/fdzdgknr/jgjs_7789/ldxx/202205/t1114475.shtml	党组成员、副主任		海口市发展和改革委员会		0477
+游业伟		4		海南省	海口市	http://drc.haikou.gov.cn/xxxgk/fdzdgknr/jgjs_7789/ldxx/202205/t1114475.shtml	党组成员、副主任、市数据局局长、三级调研员		海口市发展和改革委员会		0477
+沈漫		5		海南省	海口市	http://drc.haikou.gov.cn/xxxgk/fdzdgknr/jgjs_7789/ldxx/202205/t1114475.shtml	党组成员、副主任		海口市发展和改革委员会		0477
+陈尧		6		海南省	海口市	http://drc.haikou.gov.cn/xxxgk/fdzdgknr/jgjs_7789/ldxx/202205/t1114475.shtml	党组成员、副主任、市粮食和物资储备局局长		海口市发展和改革委员会		0477
+刘耿		7		海南省	海口市	http://drc.haikou.gov.cn/xxxgk/fdzdgknr/jgjs_7789/ldxx/202205/t1114475.shtml	党组成员、副主任		海口市发展和改革委员会		0477
+吴思		8		海南省	海口市	http://drc.haikou.gov.cn/xxxgk/fdzdgknr/jgjs_7789/ldxx/202205/t1114475.shtml	党组成员、副主任		海口市发展和改革委员会		0477
+温李卿		9		海南省	海口市	http://drc.haikou.gov.cn/xxxgk/fdzdgknr/jgjs_7789/ldxx/202205/t1114475.shtml	二级调研员		海口市发展和改革委员会		0477
+张孝高		10		海南省	海口市	http://drc.haikou.gov.cn/xxxgk/fdzdgknr/jgjs_7789/ldxx/202205/t1114475.shtml	三级调研员		海口市发展和改革委员会		0477
+易琦		11		海南省	海口市	http://drc.haikou.gov.cn/xxxgk/fdzdgknr/jgjs_7789/ldxx/202205/t1114475.shtml	三级调研员		海口市发展和改革委员会		0477
+李海兵		12		海南省	海口市	http://drc.haikou.gov.cn/xxxgk/fdzdgknr/jgjs_7789/ldxx/202205/t1114475.shtml	三级调研员		海口市发展和改革委员会		0477
+罗薇薇		13		海南省	海口市	http://drc.haikou.gov.cn/xxxgk/fdzdgknr/jgjs_7789/ldxx/202205/t1114475.shtml	四级调研员		海口市发展和改革委员会		0477
+麦苗青		14		海南省	海口市	http://drc.haikou.gov.cn/xxxgk/fdzdgknr/jgjs_7789/ldxx/202205/t1114475.shtml	四级调研员		海口市发展和改革委员会		0477

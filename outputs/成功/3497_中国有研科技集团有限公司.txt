@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵晓晨		1		全国		http://www.grinm.com/yyjt/gyyy/gltd/A007002003Gone1.html	董事会：董事长；集团领导：党委书记		中国有研科技集团有限公司		3497
+艾磊		2		全国		http://www.grinm.com/yyjt/gyyy/gltd/A007002003Gone1.html	董事会：董事；集团领导：总经理、党委副书记		中国有研科技集团有限公司		3497
+李友生		3		全国		http://www.grinm.com/yyjt/gyyy/gltd/A007002003Gone1.html	董事会：外部董事		中国有研科技集团有限公司		3497
+陈曙光		4		全国		http://www.grinm.com/yyjt/gyyy/gltd/A007002003Gone1.html	董事会：外部董事		中国有研科技集团有限公司		3497
+田志凌		5		全国		http://www.grinm.com/yyjt/gyyy/gltd/A007002003Gone1.html	董事会：外部董事		中国有研科技集团有限公司		3497
+徐宏志		6		全国		http://www.grinm.com/yyjt/gyyy/gltd/A007002003Gone1.html	董事会：外部董事		中国有研科技集团有限公司		3497
+黄倬		7		全国		http://www.grinm.com/yyjt/gyyy/gltd/A007002003Gone1.html	集团领导：党委副书记		中国有研科技集团有限公司		3497
+唐学智		8		全国		http://www.grinm.com/yyjt/gyyy/gltd/A007002003Gone1.html	集团领导：党委委员、纪委书记		中国有研科技集团有限公司		3497
+毛昌辉		9		全国		http://www.grinm.com/yyjt/gyyy/gltd/A007002003Gone1.html	集团领导：党委委员、副总经理		中国有研科技集团有限公司		3497
+齐书勇		10		全国		http://www.grinm.com/yyjt/gyyy/gltd/A007002003Gone1.html	集团领导：党委委员、总会计师		中国有研科技集团有限公司		3497

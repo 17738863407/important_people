@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+韩龙		1		河北省		https://lswz.hebei.gov.cn/jlzw/jgzn/ldbz/	省发展改革委党组成员，省粮食和物资储备局党组书记、局长		河北省粮食和物资储备局		1450
+范建平		2		河北省		https://lswz.hebei.gov.cn/jlzw/jgzn/ldbz/	省粮食和物资储备局党组成员、副局长		河北省粮食和物资储备局		1450
+胡军		3		河北省		https://lswz.hebei.gov.cn/jlzw/jgzn/ldbz/	省粮食和物资储备局党组成员、副局长		河北省粮食和物资储备局		1450
+许兵		4		河北省		https://lswz.hebei.gov.cn/jlzw/jgzn/ldbz/	省粮食和物资储备局党组成员、副局长		河北省粮食和物资储备局		1450

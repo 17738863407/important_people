@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴国生		1		北京市		https://www.cufe.edu.cn/xxgk/xrld.htm	党委书记；党委常委		中央财经大学	https://www.cufe.edu.cn/info/1016/21868.htm	3618
+马海涛		2		北京市		https://www.cufe.edu.cn/xxgk/xrld.htm	校长；党委副书记；党委常委		中央财经大学	https://www.cufe.edu.cn/info/1017/16405.htm	3618
+张庆东		3		北京市		https://www.cufe.edu.cn/xxgk/xrld.htm	党委副书记；纪委书记；党委常委		中央财经大学	https://www.cufe.edu.cn/info/1018/17060.htm	3618
+杨莹		4		北京市		https://www.cufe.edu.cn/xxgk/xrld.htm	党委副书记；党委常委		中央财经大学	https://www.cufe.edu.cn/info/1018/22594.htm	3618
+蔡艳艳		5		北京市		https://www.cufe.edu.cn/xxgk/xrld.htm	副校长；党委常委		中央财经大学	https://www.cufe.edu.cn/info/1019/10559.htm	3618
+李涛		6		北京市		https://www.cufe.edu.cn/xxgk/xrld.htm	副校长；党委常委		中央财经大学	https://www.cufe.edu.cn/info/1019/15188.htm	3618
+李建军		7		北京市		https://www.cufe.edu.cn/xxgk/xrld.htm	副校长；党委常委		中央财经大学	https://www.cufe.edu.cn/info/1019/15189.htm	3618
+栗峥		8		北京市		https://www.cufe.edu.cn/xxgk/xrld.htm	副校长		中央财经大学	https://www.cufe.edu.cn/info/1019/20344.htm	3618
+陈斌开		9		北京市		https://www.cufe.edu.cn/xxgk/xrld.htm	副校长；党委常委		中央财经大学	https://www.cufe.edu.cn/info/1019/22592.htm	3618
+雷洪峰		10		北京市		https://www.cufe.edu.cn/xxgk/xrld.htm	党委常委		中央财经大学	https://www.cufe.edu.cn/info/1022/23804.htm	3618
+于晓明		11		北京市		https://www.cufe.edu.cn/xxgk/xrld.htm	党委常委		中央财经大学	https://www.cufe.edu.cn/info/1022/26478.htm	3618
+王红梅		12		北京市		https://www.cufe.edu.cn/xxgk/xrld.htm	校长助理		中央财经大学	https://www.cufe.edu.cn/info/1023/23788.htm	3618
+张学勇		13		北京市		https://www.cufe.edu.cn/xxgk/xrld.htm	校长助理		中央财经大学	https://www.cufe.edu.cn/info/1023/23789.htm	3618

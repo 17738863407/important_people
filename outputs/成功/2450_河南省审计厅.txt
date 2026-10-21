@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵喜林		1		河南省		https://sjt.henan.gov.cn/dwgk/	厅党组书记、厅长		河南省审计厅	http://sjt.henan.gov.cn/2021/08-05/2196243.html	2450
+周凯		2		河南省		https://sjt.henan.gov.cn/dwgk/	厅党组成员、副厅长、一级巡视员		河南省审计厅	http://sjt.henan.gov.cn/2020/03-30/1344109.html	2450
+张建军		3		河南省		https://sjt.henan.gov.cn/dwgk/	厅党组成员、副厅长		河南省审计厅	http://sjt.henan.gov.cn/2024/05-15/2991377.html	2450
+张少民		4		河南省		https://sjt.henan.gov.cn/dwgk/	厅党组成员、副厅长		河南省审计厅	http://sjt.henan.gov.cn/2020/10-14/1821658.html	2450
+田雪梅		5		河南省		https://sjt.henan.gov.cn/dwgk/	驻厅纪检监察组组长、厅党组成员		河南省审计厅	http://sjt.henan.gov.cn/2022/06-29/2477636.html	2450
+冯亚辉		6		河南省		https://sjt.henan.gov.cn/dwgk/	厅党组成员、副厅长		河南省审计厅	http://sjt.henan.gov.cn/2022/12-27/2662588.html	2450
+梁夏		7		河南省		https://sjt.henan.gov.cn/dwgk/	厅党组成员、副厅长		河南省审计厅	http://sjt.henan.gov.cn/2022/12-27/2662594.html	2450
+黄河		8		河南省		https://sjt.henan.gov.cn/dwgk/	厅党组成员、省经济责任审计工作联席会议办公室主任		河南省审计厅	http://sjt.henan.gov.cn/2026/06-30/3370428.html	2450
+王菡		9		河南省		https://sjt.henan.gov.cn/dwgk/	厅党组成员、总审计师		河南省审计厅	http://sjt.henan.gov.cn/2024/05-15/2991378.html	2450

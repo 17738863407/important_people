@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+洪嵘		1		全国		https://www.cfcra.org.cn/page53	会长		中国食文化研究会		4007
+叶建平		2		全国		https://www.cfcra.org.cn/page53	副会长		中国食文化研究会		4007
+王隽时		3		全国		https://www.cfcra.org.cn/page53	副会长		中国食文化研究会		4007
+王洪彬		4		全国		https://www.cfcra.org.cn/page53	副会长		中国食文化研究会		4007
+贾云峰		5		全国		https://www.cfcra.org.cn/page53	副会长		中国食文化研究会		4007
+梁连起		6		全国		https://www.cfcra.org.cn/page53	副会长		中国食文化研究会		4007
+朱永松		7		全国		https://www.cfcra.org.cn/page53	副会长		中国食文化研究会		4007
+韩永胜		8		全国		https://www.cfcra.org.cn/page53	副会长		中国食文化研究会		4007
+李明		9		全国		https://www.cfcra.org.cn/page53	副会长		中国食文化研究会		4007
+李广胜		10		全国		https://www.cfcra.org.cn/page53	秘书长		中国食文化研究会		4007
+钟声		11		全国		https://www.cfcra.org.cn/page53	监事		中国食文化研究会		4007
+于永顺		12		全国		https://www.cfcra.org.cn/page53	监事		中国食文化研究会		4007
+张立方		13		全国		https://www.cfcra.org.cn/page53	监事		中国食文化研究会		4007

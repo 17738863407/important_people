@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘超		1		全国		http://www.cetv.cn/channels/ldjs.html	党委书记、台长		中国教育电视台		0193
+周飞		2		全国		http://www.cetv.cn/channels/ldjs.html	副台长		中国教育电视台		0193
+潘逴		3		全国		http://www.cetv.cn/channels/ldjs.html	党委副书记、纪委书记		中国教育电视台		0193
+林成涛		4		全国		http://www.cetv.cn/channels/ldjs.html	党委副书记		中国教育电视台		0193

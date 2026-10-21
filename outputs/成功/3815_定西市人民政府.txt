@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李生潜		1		甘肃省	定西市	https://www.dingxi.gov.cn/col/col15871/index.html	代理市长		定西市人民政府	https://www.dingxi.gov.cn/art/2026/8/12/art_16547_1907179.html	3815
+何英禅		2		甘肃省	定西市	https://www.dingxi.gov.cn/col/col15871/index.html	副市长		定西市人民政府	https://www.dingxi.gov.cn/art/2026/7/6/art_16548_1528028.html	3815
+王社宁		3		甘肃省	定西市	https://www.dingxi.gov.cn/col/col15871/index.html	副市长		定西市人民政府	https://www.dingxi.gov.cn/art/2025/5/9/art_16548_1528026.html	3815
+张岸林		4		甘肃省	定西市	https://www.dingxi.gov.cn/col/col15871/index.html	副市长		定西市人民政府	https://www.dingxi.gov.cn/art/2026/1/4/art_16548_1872335.html	3815
+贾文举		5		甘肃省	定西市	https://www.dingxi.gov.cn/col/col15871/index.html	副市长		定西市人民政府	https://www.dingxi.gov.cn/art/2026/2/5/art_16548_1878318.html	3815
+汤晓春		6		甘肃省	定西市	https://www.dingxi.gov.cn/col/col15871/index.html	副市长		定西市人民政府	https://www.dingxi.gov.cn/art/2026/5/22/art_16548_1895769.html	3815
+王建平		7		甘肃省	定西市	https://www.dingxi.gov.cn/col/col15871/index.html	副市长		定西市人民政府	https://www.dingxi.gov.cn/art/2026/7/6/art_16548_1904078.html	3815
+王克勤		8		甘肃省	定西市	https://www.dingxi.gov.cn/col/col15871/index.html	副市长		定西市人民政府	https://www.dingxi.gov.cn/art/2026/6/30/art_16548_1906724.html	3815
+宋军兵		9		甘肃省	定西市	https://www.dingxi.gov.cn/col/col15871/index.html	政府秘书长		定西市人民政府	https://www.dingxi.gov.cn/art/2025/5/9/art_16549_1719957.html	3815

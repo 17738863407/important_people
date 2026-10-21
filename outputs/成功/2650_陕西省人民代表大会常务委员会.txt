@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵一德		1		全国		https://www.sxrd.gov.cn/#/index	主任		陕西省人民代表大会常务委员会	https://www.sxrd.gov.cn/#/details?unid=0ef41b069b6d4f318e11f015538b0986&columnname=%E5%B8%B8%E5%A7%94%E4%BC%9A%E7%BB%84%E6%88%90%E4%BA%BA%E5%91%98	2650
+庄长兴		2		全国		https://www.sxrd.gov.cn/#/index	副主任		陕西省人民代表大会常务委员会	https://www.sxrd.gov.cn/#/details?unid=ec855dba82f14575a75d8bf5a0281d97&columnname=%E5%B8%B8%E5%A7%94%E4%BC%9A%E7%BB%84%E6%88%90%E4%BA%BA%E5%91%98	2650
+刘强		3		全国		https://www.sxrd.gov.cn/#/index	副主任		陕西省人民代表大会常务委员会	https://www.sxrd.gov.cn/#/details?unid=Jcdbe62ee46240af872559438f1b0679&columnname=%E5%B8%B8%E5%A7%94%E4%BC%9A%E7%BB%84%E6%88%90%E4%BA%BA%E5%91%98	2650
+郭青		4		全国		https://www.sxrd.gov.cn/#/index	副主任		陕西省人民代表大会常务委员会	https://www.sxrd.gov.cn/#/details?unid=b9b5b63b5d2f44748e3a86d75e3a1eee&columnname=%E5%B8%B8%E5%A7%94%E4%BC%9A%E7%BB%84%E6%88%90%E4%BA%BA%E5%91%98	2650
+李晓英		5		全国		https://www.sxrd.gov.cn/#/index	副主任		陕西省人民代表大会常务委员会	https://www.sxrd.gov.cn/#/details?unid=Jabe84f485474c00ba371bd0b47f940d&columnname=%E5%B8%B8%E5%A7%94%E4%BC%9A%E7%BB%84%E6%88%90%E4%BA%BA%E5%91%98	2650
+樊维斌		6		全国		https://www.sxrd.gov.cn/#/index	副主任		陕西省人民代表大会常务委员会	https://www.sxrd.gov.cn/#/details?unid=J5ba22b7acc14067a38328f432e77114&columnname=%E5%B8%B8%E5%A7%94%E4%BC%9A%E7%BB%84%E6%88%90%E4%BA%BA%E5%91%98	2650
+杨广亭		7		全国		https://www.sxrd.gov.cn/#/index	副主任		陕西省人民代表大会常务委员会	https://www.sxrd.gov.cn/#/details?unid=Ja2cbb3640ed49e5923059530c18a5cc&columnname=%E5%B8%B8%E5%A7%94%E4%BC%9A%E7%BB%84%E6%88%90%E4%BA%BA%E5%91%98	2650
+韩一兵		8		全国		https://www.sxrd.gov.cn/#/index	秘书长		陕西省人民代表大会常务委员会	https://www.sxrd.gov.cn/#/details?unid=Jcc577025e7a4c90a8da4c94d83ce452&columnname=%E5%B8%B8%E5%A7%94%E4%BC%9A%E7%BB%84%E6%88%90%E4%BA%BA%E5%91%98	2650

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨明		1		吉林省	白城市	http://www.jlbc.gov.cn/zfjg_3101/szfld/	副市长		白城市人民政府	http://www.jlbc.gov.cn/zfjg_3101/szfld/fsz/lhf_23349/	3799
+李子罡		2		吉林省	白城市	http://www.jlbc.gov.cn/zfjg_3101/szfld/	副市长		白城市人民政府	http://www.jlbc.gov.cn/zfjg_3101/szfld/fsz/lhf_23355/	3799
+陈晓东		3		吉林省	白城市	http://www.jlbc.gov.cn/zfjg_3101/szfld/	副市长		白城市人民政府	http://www.jlbc.gov.cn/zfjg_3101/szfld/fsz/lhf_23352/	3799
+丁琳		4		吉林省	白城市	http://www.jlbc.gov.cn/zfjg_3101/szfld/	副市长		白城市人民政府	http://www.jlbc.gov.cn/zfjg_3101/szfld/fsz/lhf_23126/	3799
+任聪		5		吉林省	白城市	http://www.jlbc.gov.cn/zfjg_3101/szfld/	副市长		白城市人民政府	http://www.jlbc.gov.cn/zfjg_3101/szfld/fsz/lhf/	3799
+杨孔青		6		吉林省	白城市	http://www.jlbc.gov.cn/zfjg_3101/szfld/	副市长		白城市人民政府	http://www.jlbc.gov.cn/zfjg_3101/szfld/fsz/lhf_31908/	3799
+孙英宇		7		吉林省	白城市	http://www.jlbc.gov.cn/zfjg_3101/szfld/	副市长		白城市人民政府	http://www.jlbc.gov.cn/zfjg_3101/szfld/fsz/lhf_31919/	3799
+孟凡平		8		吉林省	白城市	http://www.jlbc.gov.cn/zfjg_3101/szfld/	秘书长		白城市人民政府	http://www.jlbc.gov.cn/zfjg_3101/szfld/msz/lhf_30745/	3799

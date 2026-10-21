@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+夏宝龙		1		全国		https://www.hmo.gov.cn/gab/	主任		中央港澳工作办公室（国务院港澳事务办公室）	https://www.hmo.gov.cn/jgsz/bld/xbl/	0985
+徐启方		2		全国		https://www.hmo.gov.cn/gab/	分管日常工作的副主任 （正部长级）		中央港澳工作办公室（国务院港澳事务办公室）	https://www.hmo.gov.cn/jgsz/bld/xqf/	0985
+周霁		3		全国		https://www.hmo.gov.cn/gab/	副主任		中央港澳工作办公室（国务院港澳事务办公室）	https://www.hmo.gov.cn/jgsz/bld/zj/	0985
+郑新聪		4		全国		https://www.hmo.gov.cn/gab/	副主任		中央港澳工作办公室（国务院港澳事务办公室）	https://www.hmo.gov.cn/jgsz/bld/zxc/	0985
+章冬梅		5		全国		https://www.hmo.gov.cn/gab/	副主任		中央港澳工作办公室（国务院港澳事务办公室）	https://www.hmo.gov.cn/jgsz/bld/zdm/	0985
+农融		6		全国		https://www.hmo.gov.cn/gab/	副主任		中央港澳工作办公室（国务院港澳事务办公室）	https://www.hmo.gov.cn/jgsz/bld/nr/	0985
+华列兵		7		全国		https://www.hmo.gov.cn/gab/	中央纪委国家监委驻 中央港澳工作办公室 纪检监察组组长		中央港澳工作办公室（国务院港澳事务办公室）	https://www.hmo.gov.cn/jgsz/bld/hlb/index.shtml	0985

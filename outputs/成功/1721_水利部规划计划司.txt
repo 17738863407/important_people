@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李明		1		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	司长		水利部规划计划司		1721
+谢义彬		2		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	一级巡视员		水利部规划计划司		1721
+张世伟		3		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副司长、一级巡视员		水利部规划计划司		1721
+杨威		4		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副司长		水利部规划计划司		1721
+周智伟		5		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副司长		水利部规划计划司		1721

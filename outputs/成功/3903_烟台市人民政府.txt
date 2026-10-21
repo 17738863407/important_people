@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张明康		1		山东省	烟台市	https://www.yantai.gov.cn/col/col11810/index.html	市长		烟台市人民政府	https://www.yantai.gov.cn/col/col48053/index.html	3903
+沈健		2		山东省	烟台市	https://www.yantai.gov.cn/col/col11810/index.html	副市长		烟台市人民政府	https://www.yantai.gov.cn/col/col59902/index.html	3903
+隋子林		3		山东省	烟台市	https://www.yantai.gov.cn/col/col11810/index.html	副市长		烟台市人民政府	https://www.yantai.gov.cn/col/col47577/index.html	3903
+张涛		4		山东省	烟台市	https://www.yantai.gov.cn/col/col11810/index.html	副市长		烟台市人民政府	https://www.yantai.gov.cn/col/col108140/index.html	3903
+谢鹏飞		5		山东省	烟台市	https://www.yantai.gov.cn/col/col11810/index.html	副市长		烟台市人民政府	https://www.yantai.gov.cn/col/col120119/index.html	3903
+林钰涛		6		山东省	烟台市	https://www.yantai.gov.cn/col/col11810/index.html	副市长		烟台市人民政府	https://www.yantai.gov.cn/col/col118940/index.html	3903
+刘海彬		7		山东省	烟台市	https://www.yantai.gov.cn/col/col11810/index.html	副市长		烟台市人民政府	https://www.yantai.gov.cn/col/col120503/index.html	3903
+赵晓峰		8		山东省	烟台市	https://www.yantai.gov.cn/col/col11810/index.html	秘书长		烟台市人民政府	https://www.yantai.gov.cn/col/col59708/index.html	3903

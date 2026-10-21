@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王浩		1		全国		http://district.ce.cn/zt/rwk/sf/zj/index.shtml	省委书记、省人大常委会主任		浙江省委		0448
+刘捷		2		全国		http://district.ce.cn/zt/rwk/sf/zj/index.shtml	省委副书记、省长		浙江省委		0448
+王成		3		全国		http://district.ce.cn/zt/rwk/sf/zj/index.shtml	省委副书记、宁波市委书记		浙江省委	http://district.ce.cn/newarea/sddy/202511/t20251120_2592202.shtml	0448
+傅明先		4		全国		http://district.ce.cn/zt/rwk/sf/zj/index.shtml	省委常委、省纪委书记，省监委主任		浙江省委	http://district.ce.cn/newarea/sddy/202301/15/t20230115_38348143.shtml	0448
+徐文光		5		全国		http://district.ce.cn/zt/rwk/sf/zj/index.shtml	省委常委、常务副省长		浙江省委	http://district.ce.cn/newarea/sddy/202206/23/t20220623_37787047.shtml	0448
+邱启文		6		全国		http://district.ce.cn/zt/rwk/sf/zj/index.shtml	省委常委、秘书长		浙江省委	http://district.ce.cn/newarea/sddy/202311/13/t20231113_38789770.shtml	0448
+刘非		7		全国		http://district.ce.cn/zt/rwk/sf/zj/index.shtml	省委常委、杭州市委书记		浙江省委	http://district.ce.cn/newarea/sddy/202504/25/t20250425_39350292.shtml	0448
+杨荫凯		8		全国		http://district.ce.cn/zt/rwk/sf/zj/index.shtml	省委常委、组织部部长		浙江省委	http://district.ce.cn/newarea/sddy/202504/25/t20250425_39350313.shtml	0448
+冯怡		9		全国		http://district.ce.cn/zt/rwk/sf/zj/index.shtml	省委常委、统战部部长		浙江省委	http://district.ce.cn/newarea/sddy/202603/t20260325_2855442.shtml	0448
+张振丰		10		全国		http://district.ce.cn/zt/rwk/sf/zj/index.shtml	省委常委、温州市委书记		浙江省委	http://district.ce.cn/newarea/sddy/202512/t20251231_2676818.shtml	0448
+李岩益		11		全国		http://district.ce.cn/zt/rwk/sf/zj/index.shtml	省委常委、宣传部部长		浙江省委	http://district.ce.cn/newarea/sddy/202602/t20260227_2792382.shtml	0448

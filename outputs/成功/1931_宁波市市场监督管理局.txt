@@ -1,0 +1,17 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈坚军		1		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218887/index.html	宁波市市场监督管理局局长、党委书记		宁波市市场监督管理局	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218887_26150.html	1931
+胡晓峰		2		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218887/index.html	宁波市市场监督管理局副局长、党委副书记		宁波市市场监督管理局	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218887_26142.html	1931
+魏百军		3		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218887/index.html	宁波市市场监督管理局党委委员、宁波市纪委市监委驻市市场监管局纪检监察组组长		宁波市市场监督管理局	https://www.ningbo.gov.cn/art/2021/8/4/art_1229218887_107522.html	1931
+徐新桥		4		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218887/index.html	宁波市市场监督管理局副局长、党委委员		宁波市市场监督管理局	https://www.ningbo.gov.cn/art/2024/10/17/art_1229218887_167610.html	1931
+俞欢欢		5		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218887/index.html	宁波市市场监督管理局副局长、党委委员		宁波市市场监督管理局	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218887_26141.html	1931
+任翃娉		6		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218887/index.html	宁波市市场监督管理局副局长		宁波市市场监督管理局	https://www.ningbo.gov.cn/art/2023/10/12/art_1229218887_148902.html	1931
+毛高蔚		7		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218887/index.html	宁波市市场监督管理局副局长、党委委员、宁波知识产权保护中心主任		宁波市市场监督管理局	https://www.ningbo.gov.cn/art/2021/8/4/art_1229218887_107523.html	1931
+徐有铭		8		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218887/index.html	宁波市市场监督管理局党委委员、二级巡视员		宁波市市场监督管理局	https://www.ningbo.gov.cn/art/2022/1/28/art_1229218887_121435.html	1931
+励惠红		9		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218887/index.html	宁波市市场监督管理局党委委员、机关党委专职副书记、一级调研员		宁波市市场监督管理局	https://www.ningbo.gov.cn/art/2022/10/28/art_1229218887_135121.html	1931
+宋玉池		10		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218887/index.html	宁波市市场监督管理局党委委员、总工程师、办公室主任		宁波市市场监督管理局	https://www.ningbo.gov.cn/art/2022/10/28/art_1229218887_135120.html	1931
+陆剑波		11		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218887/index.html	宁波市市场监管行政执法队队长		宁波市市场监督管理局	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218887_26147.html	1931
+励宝国		12		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218887/index.html	宁波市市场监督管理局二级巡视员、行政执法队副队长		宁波市市场监督管理局	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218887_26138.html	1931
+陈元刚		13		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218887/index.html	宁波市市场监督管理局二级巡视员		宁波市市场监督管理局	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218887_26144.html	1931
+车宏斌		14		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218887/index.html	宁波市市场监督管理局二级巡视员		宁波市市场监督管理局	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218887_26145.html	1931
+余春萍		15		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218887/index.html	宁波市市场监督管理局一级调研员		宁波市市场监督管理局	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218887_26133.html	1931
+石云星		16		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218887/index.html	宁波市市场监督管理局一级调研员		宁波市市场监督管理局	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218887_26139.html	1931

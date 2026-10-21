@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+冯磊		1		全国		https://www.dr-ipmc.org.cn/home/index/leader/cid/52.html	中心党委书记、主任		国家发展和改革委员会基建物业管理中心		3598
+张棉旺		2		全国		https://www.dr-ipmc.org.cn/home/index/leader/cid/52.html	中心副主任		国家发展和改革委员会基建物业管理中心		3598
+刘瑶		3		全国		https://www.dr-ipmc.org.cn/home/index/leader/cid/52.html	中心副主任		国家发展和改革委员会基建物业管理中心		3598
+朱旭		4		全国		https://www.dr-ipmc.org.cn/home/index/leader/cid/52.html	中心党委专职副书记、纪委书记		国家发展和改革委员会基建物业管理中心		3598

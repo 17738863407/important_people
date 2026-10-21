@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蒿慧杰		1		陕西省	西安市	http://www.xasw.gov.cn/zzjg1/swcw.htm	书记		西安市委		3035
+叶牛平		2		陕西省	西安市	http://www.xasw.gov.cn/zzjg1/swcw.htm	副书记		西安市委		3035
+李婧		3		陕西省	西安市	http://www.xasw.gov.cn/zzjg1/swcw.htm	副书记		西安市委		3035
+马鲜萍		4		陕西省	西安市	http://www.xasw.gov.cn/zzjg1/swcw.htm	常委		西安市委		3035
+和文全		5		陕西省	西安市	http://www.xasw.gov.cn/zzjg1/swcw.htm	常委		西安市委		3035
+王晓江		6		陕西省	西安市	http://www.xasw.gov.cn/zzjg1/swcw.htm	常委		西安市委		3035
+杨建强		7		陕西省	西安市	http://www.xasw.gov.cn/zzjg1/swcw.htm	常委		西安市委		3035
+孟浩		8		陕西省	西安市	http://www.xasw.gov.cn/zzjg1/swcw.htm	常委		西安市委		3035
+张涌		9		陕西省	西安市	http://www.xasw.gov.cn/zzjg1/swcw.htm	常委		西安市委		3035
+张军林		10		陕西省	西安市	http://www.xasw.gov.cn/zzjg1/swcw.htm	常委		西安市委		3035
+徐云伟		11		陕西省	西安市	http://www.xasw.gov.cn/zzjg1/swcw.htm	常委		西安市委		3035
+王泽明		12		陕西省	西安市	http://www.xasw.gov.cn/zzjg1/swcw.htm	常委		西安市委		3035
+王宏兵		13		陕西省	西安市	http://www.xasw.gov.cn/zzjg1/swcw.htm	常委		西安市委		3035
+丁胜仁		14		陕西省	西安市	http://www.xasw.gov.cn/zzjg1/swcw.htm	常委		西安市委		3035

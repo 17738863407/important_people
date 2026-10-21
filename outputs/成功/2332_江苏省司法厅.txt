@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张晓伟		1		江苏省		https://sft.jiangsu.gov.cn/col/col48540/index.html	省司法厅党委书记、厅长兼省监狱管理局第一政委		江苏省司法厅	https://sft.jiangsu.gov.cn/col/col84046/index.html	2332
+万建平		2		江苏省		https://sft.jiangsu.gov.cn/col/col48540/index.html	省司法厅党委委员、省纪委监委驻厅纪检监察组组长		江苏省司法厅	https://sft.jiangsu.gov.cn/col/col87023/index.html	2332
+顾爱平		3		江苏省		https://sft.jiangsu.gov.cn/col/col48540/index.html	省司法厅党委委员、副厅长、一级巡视员		江苏省司法厅	https://sft.jiangsu.gov.cn/col/col84062/index.html	2332
+张明强		4		江苏省		https://sft.jiangsu.gov.cn/col/col48540/index.html	省司法厅党委委员、副厅长，省监狱管理局党委书记、局长、一级巡视员		江苏省司法厅	https://sft.jiangsu.gov.cn/col/col87024/index.html	2332
+赵立宏		5		江苏省		https://sft.jiangsu.gov.cn/col/col48540/index.html	省司法厅党委委员、副厅长		江苏省司法厅	https://sft.jiangsu.gov.cn/col/col91757/index.html	2332
+嘉秀娟		6		江苏省		https://sft.jiangsu.gov.cn/col/col48540/index.html	省司法厅党委委员、政治部主任、机关党委书记		江苏省司法厅	https://sft.jiangsu.gov.cn/col/col87025/index.html	2332
+范沁芳		7		江苏省		https://sft.jiangsu.gov.cn/col/col48540/index.html	省司法厅党委委员、副厅长		江苏省司法厅	https://sft.jiangsu.gov.cn/col/col87026/index.html	2332
+汪立生		8		江苏省		https://sft.jiangsu.gov.cn/col/col48540/index.html	省司法厅党委委员、副厅长		江苏省司法厅	https://sft.jiangsu.gov.cn/col/col92226/index.html	2332
+颜丙中		9		江苏省		https://sft.jiangsu.gov.cn/col/col48540/index.html	省司法厅党委委员，省戒毒管理局党委书记、局长		江苏省司法厅	https://sft.jiangsu.gov.cn/col/col88995/index.html	2332

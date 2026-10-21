@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郝涛		1		西藏自治区		https://yjt.xizang.gov.cn/zwgk	党委书记、副厅长		西藏自治区应急管理厅	https://yjt.xizang.gov.cn/zwgkjgldht	3246
+洪力		2		西藏自治区		https://yjt.xizang.gov.cn/zwgk	党委副书记、厅长		西藏自治区应急管理厅	https://yjt.xizang.gov.cn/zwgkjgldhl	3246
+汪海涛		3		西藏自治区		https://yjt.xizang.gov.cn/zwgk	党委委员、副厅长，西藏消防救援总队（消防救援局）总队长（局长）		西藏自治区应急管理厅	https://yjt.xizang.gov.cn/zwgkjgldwht	3246
+陈齐华		4		西藏自治区		https://yjt.xizang.gov.cn/zwgk	党委委员、政治部主任，机关党委书记		西藏自治区应急管理厅	https://yjt.xizang.gov.cn/zwgkjgldcqh	3246
+旦巴加措		5		西藏自治区		https://yjt.xizang.gov.cn/zwgk	党委委员、副厅长、一级巡视员		西藏自治区应急管理厅	https://yjt.xizang.gov.cn/zwgkjglddbjc	3246
+张志如		6		西藏自治区		https://yjt.xizang.gov.cn/zwgk	党委委员、副厅长，援藏干部		西藏自治区应急管理厅	https://yjt.xizang.gov.cn/zwgkjgldzzr	3246
+卫军		7		西藏自治区		https://yjt.xizang.gov.cn/zwgk	党委委员、副厅长		西藏自治区应急管理厅	https://yjt.xizang.gov.cn/zwgkjgldwj	3246
+赵志军		8		西藏自治区		https://yjt.xizang.gov.cn/zwgk	党委委员、副厅长		西藏自治区应急管理厅	https://yjt.xizang.gov.cn/zwgkjgldpcz	3246

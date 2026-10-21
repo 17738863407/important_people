@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+冯伟		1		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/swj/gkml/jgxx/202111/t20211129_3880239.shtml	青岛市商务局党组书记、局长		青岛市商务局		2147
+于浩		2		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/swj/gkml/jgxx/202111/t20211129_3880239.shtml	党组成员、副局长		青岛市商务局		2147
+曲艳阳		3		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/swj/gkml/jgxx/202111/t20211129_3880239.shtml	党组成员、副局长		青岛市商务局		2147
+高燕		4		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/swj/gkml/jgxx/202111/t20211129_3880239.shtml	副局长		青岛市商务局		2147
+邵京伟		5		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/swj/gkml/jgxx/202111/t20211129_3880239.shtml	党组成员、副局长		青岛市商务局		2147
+王志刚		6		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/swj/gkml/jgxx/202111/t20211129_3880239.shtml	二级巡视员		青岛市商务局		2147
+谢浩生		7		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/swj/gkml/jgxx/202111/t20211129_3880239.shtml	副局级领导干部		青岛市商务局		2147
+吕光辉		8		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/swj/gkml/jgxx/202111/t20211129_3880239.shtml	青岛市招商促进中心主任		青岛市商务局		2147
+刘婷		9		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/swj/gkml/jgxx/202111/t20211129_3880239.shtml	青岛市贸易发展服务中心主任		青岛市商务局		2147

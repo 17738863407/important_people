@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙春兰		1		全国		https://www.ica.org.cn/about.html	会长		国际儒学联合会		4350
+福田康夫		2		全国		https://www.ica.org.cn/about.html	理事长		国际儒学联合会		4350
+郝平		3		全国		https://www.ica.org.cn/about.html	常务副会长		国际儒学联合会		4350

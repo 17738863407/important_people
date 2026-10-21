@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+聂爱国		1		安徽省		https://jtt.ah.gov.cn/public/column/21701?type=4&catId=28008581&action=list&nav=3	安徽省交通运输厅党组书记、厅长		安徽省交通运输厅	https://jtt.ah.gov.cn/public/21701/121510751.html	1240
+伍洲文		2		安徽省		https://jtt.ah.gov.cn/public/column/21701?type=4&catId=28008581&action=list&nav=3	安徽省交通运输厅党组成员、副厅长		安徽省交通运输厅	https://jtt.ah.gov.cn/public/21701/114480071.html	1240
+孙东根		3		安徽省		https://jtt.ah.gov.cn/public/column/21701?type=4&catId=28008581&action=list&nav=3	安徽省交通运输厅党组成员、副厅长		安徽省交通运输厅	https://jtt.ah.gov.cn/public/21701/122112531.html	1240
+蒋周平		4		安徽省		https://jtt.ah.gov.cn/public/column/21701?type=4&catId=28008581&action=list&nav=3	安徽省交通运输厅党组成员、副厅长		安徽省交通运输厅	https://jtt.ah.gov.cn/public/21701/122569871.html	1240
+杨红雷		5		安徽省		https://jtt.ah.gov.cn/public/column/21701?type=4&catId=28008581&action=list&nav=3	安徽省交通运输厅党组成员、副厅长		安徽省交通运输厅	https://jtt.ah.gov.cn/public/21701/123013801.html	1240
+张亚平		6		安徽省		https://jtt.ah.gov.cn/public/column/21701?type=4&catId=28008581&action=list&nav=3	安徽省交通运输厅党组成员、驻厅纪检监察组组长		安徽省交通运输厅	https://jtt.ah.gov.cn/public/21701/123502801.html	1240

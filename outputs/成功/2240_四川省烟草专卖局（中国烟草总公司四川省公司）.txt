@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张亚宾		1		四川省		http://sc.tobacco.gov.cn/cygk	党组书记、局长、总经理		四川省烟草专卖局（中国烟草总公司四川省公司）	http://sc.tobacco.gov.cn/cygk/leaderinfo/6fd040f55c83aaea589d78e1bbfade11	2240
+张斌		2		四川省		http://sc.tobacco.gov.cn/cygk	党组成员、副总经理		四川省烟草专卖局（中国烟草总公司四川省公司）	http://sc.tobacco.gov.cn/cygk/leaderinfo/328ab845964b23f66fa430eff1d328c7	2240
+谭新生		3		四川省		http://sc.tobacco.gov.cn/cygk	党组成员、副局长		四川省烟草专卖局（中国烟草总公司四川省公司）	http://sc.tobacco.gov.cn/cygk/leaderinfo/51885d767e8d21469dab38f4d56bac45	2240
+罗旭		4		四川省		http://sc.tobacco.gov.cn/cygk	党组成员、副总经理		四川省烟草专卖局（中国烟草总公司四川省公司）	http://sc.tobacco.gov.cn/cygk/leaderinfo/06e81b14a2c8b1fdded5fee8faa0c99d	2240
+郭明全		5		四川省		http://sc.tobacco.gov.cn/cygk	二级巡视员		四川省烟草专卖局（中国烟草总公司四川省公司）	http://sc.tobacco.gov.cn/cygk/leaderinfo/cb779743d51cd583f8cfa35074d3ac0a	2240
+王斌		6		四川省		http://sc.tobacco.gov.cn/cygk	二级巡视员		四川省烟草专卖局（中国烟草总公司四川省公司）	http://sc.tobacco.gov.cn/cygk/leaderinfo/14e6165b47aca5caafc76fa77e623646	2240

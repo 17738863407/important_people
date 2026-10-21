@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+曾卿		1		四川省	成都市	https://www.cdcppcc.gov.cn/list-1046-1.html	主席		成都市政协	https://www.cdcppcc.gov.cn/html/zhengxielingdaozhengxiegaikuang/2025/04/01/110080762.html	0162
+左正		2		四川省	成都市	https://www.cdcppcc.gov.cn/list-1046-1.html	副主席		成都市政协	https://www.cdcppcc.gov.cn/html/zhengxielingdaozhengxiegaikuang/2025/05/20/110066706.html	0162
+杨建德		3		四川省	成都市	https://www.cdcppcc.gov.cn/list-1046-1.html	副主席		成都市政协	https://www.cdcppcc.gov.cn/html/zhengxielingdaozhengxiegaikuang/2023/02/23/110066707.html	0162
+徐玖平		4		四川省	成都市	https://www.cdcppcc.gov.cn/list-1046-1.html	副主席		成都市政协	https://www.cdcppcc.gov.cn/html/zhengxielingdaozhengxiegaikuang/2023/02/23/110066708.html	0162
+里赞		5		四川省	成都市	https://www.cdcppcc.gov.cn/list-1046-1.html	副主席		成都市政协	https://www.cdcppcc.gov.cn/html/zhengxielingdaozhengxiegaikuang/2023/02/23/110066709.html	0162
+甘华田		6		四川省	成都市	https://www.cdcppcc.gov.cn/list-1046-1.html	副主席		成都市政协	https://www.cdcppcc.gov.cn/html/zhengxielingdaozhengxiegaikuang/2023/02/23/110066710.html	0162
+梁伟		7		四川省	成都市	https://www.cdcppcc.gov.cn/list-1046-1.html	副主席		成都市政协	https://www.cdcppcc.gov.cn/html/zhengxielingdaozhengxiegaikuang/2023/02/23/110066711.html	0162
+詹庆		8		四川省	成都市	https://www.cdcppcc.gov.cn/list-1046-1.html	副主席		成都市政协	https://www.cdcppcc.gov.cn/html/zhengxielingdaozhengxiegaikuang/2025/02/28/110080763.html	0162
+何勋		9		四川省	成都市	https://www.cdcppcc.gov.cn/list-1046-1.html	副主席		成都市政协	https://www.cdcppcc.gov.cn/html/zhengxielingdaozhengxiegaikuang/2026/05/12/110085067.html	0162
+刘强		10		四川省	成都市	https://www.cdcppcc.gov.cn/list-1046-1.html	党组成员		成都市政协	https://www.cdcppcc.gov.cn/html/zhengxielingdaozhengxiegaikuang/2026/07/15/110086691.html	0162
+杨东升		11		四川省	成都市	https://www.cdcppcc.gov.cn/list-1046-1.html	秘书长		成都市政协	https://www.cdcppcc.gov.cn/html/zhengxielingdaozhengxiegaikuang/2023/02/23/110052877.html	0162

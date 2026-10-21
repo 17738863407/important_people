@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李刚		1		广西壮族自治区	北海市	http://www.beihai.gov.cn/zfxxgk/fdzdgknr/zfld/	市长		北海市人民政府	http://www.beihai.gov.cn/zfxxgk/fdzdgknr/zfld/sz/index.shtml	3803
+龙起云		2		广西壮族自治区	北海市	http://www.beihai.gov.cn/zfxxgk/fdzdgknr/zfld/	副市长		北海市人民政府	http://www.beihai.gov.cn/zfxxgk/fdzdgknr/zfld/fsz/t18378557.shtml	3803
+孙光明		3		广西壮族自治区	北海市	http://www.beihai.gov.cn/zfxxgk/fdzdgknr/zfld/	副市长		北海市人民政府	http://www.beihai.gov.cn/zfxxgk/fdzdgknr/zfld/fsz/t27867228.shtml	3803
+潘娟		4		广西壮族自治区	北海市	http://www.beihai.gov.cn/zfxxgk/fdzdgknr/zfld/	副市长		北海市人民政府	http://www.beihai.gov.cn/zfxxgk/fdzdgknr/zfld/fsz/t28156708.shtml	3803
+张建华		5		广西壮族自治区	北海市	http://www.beihai.gov.cn/zfxxgk/fdzdgknr/zfld/	副市长		北海市人民政府	http://www.beihai.gov.cn/zfxxgk/fdzdgknr/zfld/fsz/t28156737.shtml	3803
+韦安宁		6		广西壮族自治区	北海市	http://www.beihai.gov.cn/zfxxgk/fdzdgknr/zfld/	副市长		北海市人民政府	http://www.beihai.gov.cn/zfxxgk/fdzdgknr/zfld/fsz/t28156763.shtml	3803
+朱学军		7		广西壮族自治区	北海市	http://www.beihai.gov.cn/zfxxgk/fdzdgknr/zfld/	副市长		北海市人民政府	http://www.beihai.gov.cn/zfxxgk/fdzdgknr/zfld/fsz/t28156779.shtml	3803
+刘军		8		广西壮族自治区	北海市	http://www.beihai.gov.cn/zfxxgk/fdzdgknr/zfld/	副市长		北海市人民政府	http://www.beihai.gov.cn/zfxxgk/fdzdgknr/zfld/fsz/t28156795.shtml	3803
+白银冰		9		广西壮族自治区	北海市	http://www.beihai.gov.cn/zfxxgk/fdzdgknr/zfld/	秘书长		北海市人民政府	http://www.beihai.gov.cn/zfxxgk/fdzdgknr/zfld/msz/t28135940.shtml	3803

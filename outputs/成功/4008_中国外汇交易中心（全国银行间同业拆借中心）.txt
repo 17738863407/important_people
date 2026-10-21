@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高飞		1		全国		https://www.chinamoney.com.cn/chinese/acfact/	党委书记		中国外汇交易中心（全国银行间同业拆借中心）		4008
+张漪		2		全国		https://www.chinamoney.com.cn/chinese/acfact/	总裁		中国外汇交易中心（全国银行间同业拆借中心）		4008
+任坚纲		3		全国		https://www.chinamoney.com.cn/chinese/acfact/	纪委书记		中国外汇交易中心（全国银行间同业拆借中心）		4008
+李瑞勇		4		全国		https://www.chinamoney.com.cn/chinese/acfact/	副总裁		中国外汇交易中心（全国银行间同业拆借中心）		4008
+胡剑		5		全国		https://www.chinamoney.com.cn/chinese/acfact/	副总裁		中国外汇交易中心（全国银行间同业拆借中心）		4008
+董忆伟		6		全国		https://www.chinamoney.com.cn/chinese/acfact/	副总裁		中国外汇交易中心（全国银行间同业拆借中心）		4008
+李梅静		7		全国		https://www.chinamoney.com.cn/chinese/acfact/	副总裁		中国外汇交易中心（全国银行间同业拆借中心）		4008

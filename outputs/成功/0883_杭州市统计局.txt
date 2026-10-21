@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐国伟		1		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836592/index.html	党组书记、局长、队长		杭州市统计局		0883
+吴槐庆		2		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836592/index.html	一级巡视员		杭州市统计局		0883
+陈旭阳		3		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836592/index.html	党组成员、副队长		杭州市统计局		0883
+何雪明		4		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836592/index.html	党组成员、二级巡视员		杭州市统计局		0883
+王建军		5		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836592/index.html	党组成员、副局长		杭州市统计局		0883
+吕林青		6		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836592/index.html	党组成员、副局长		杭州市统计局		0883
+卢学法		7		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836592/index.html	党组成员、副队长、局新闻发言人		杭州市统计局		0883
+周展		8		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836592/index.html	党组成员、副队长		杭州市统计局		0883
+程美华		9		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836592/index.html	党组成员、副局长		杭州市统计局		0883
+叶向阳		10		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836592/index.html	二级巡视员		杭州市统计局		0883
+何玮		11		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836592/index.html	副局长级干部（援川干部）		杭州市统计局		0883

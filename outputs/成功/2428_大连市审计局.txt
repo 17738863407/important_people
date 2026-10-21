@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+丁大勇		1		辽宁省	大连市	https://sjj.dl.gov.cn/col/col9027/index.html?vc_xxgkarea=2102000058&number=DL014&jh=263	党组书记、局长		大连市审计局	https://sjj.dl.gov.cn/art/2025/10/13/art_9028_2466912.html	2428
+谭军		2		辽宁省	大连市	https://sjj.dl.gov.cn/col/col9027/index.html?vc_xxgkarea=2102000058&number=DL014&jh=263	党组成员、副局长、二级巡视员		大连市审计局	https://sjj.dl.gov.cn/art/2025/10/13/art_9028_2466915.html	2428
+范静		3		辽宁省	大连市	https://sjj.dl.gov.cn/col/col9027/index.html?vc_xxgkarea=2102000058&number=DL014&jh=263	党组成员、副局长		大连市审计局	https://sjj.dl.gov.cn/art/2025/10/13/art_9028_2466916.html	2428
+王运海		4		辽宁省	大连市	https://sjj.dl.gov.cn/col/col9027/index.html?vc_xxgkarea=2102000058&number=DL014&jh=263	党组成员、副局长		大连市审计局	https://sjj.dl.gov.cn/art/2026/6/24/art_9028_2520168.html	2428
+张鸣		5		辽宁省	大连市	https://sjj.dl.gov.cn/col/col9027/index.html?vc_xxgkarea=2102000058&number=DL014&jh=263	党组成员、副局长		大连市审计局	https://sjj.dl.gov.cn/art/2026/3/19/art_9028_2504048.html	2428
+李冬		6		辽宁省	大连市	https://sjj.dl.gov.cn/col/col9027/index.html?vc_xxgkarea=2102000058&number=DL014&jh=263	党组成员、副局长		大连市审计局	https://sjj.dl.gov.cn/art/2025/10/13/art_9028_2466917.html	2428

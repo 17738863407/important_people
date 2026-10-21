@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑健		1		全国		https://www.most.gov.cn/zzjg/jgsz/dept6/	司长		科学技术部六司		1680
+薛强		2		全国		https://www.most.gov.cn/zzjg/jgsz/dept6/	副司长		科学技术部六司		1680
+王嵩		3		全国		https://www.most.gov.cn/zzjg/jgsz/dept6/	副司长		科学技术部六司		1680
+赵理		4		全国		https://www.most.gov.cn/zzjg/jgsz/dept6/	副司长		科学技术部六司		1680
+盛黎明		5		全国		https://www.most.gov.cn/zzjg/jgsz/dept6/	副司长		科学技术部六司		1680

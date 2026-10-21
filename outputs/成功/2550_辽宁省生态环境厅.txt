@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙鹏轩		1		辽宁省		https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省生态环境厅 党组书记、厅长		辽宁省生态环境厅	https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/bmld/spx/index.shtml	2550
+陶宝库		2		辽宁省		https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省生态环境厅党组成员、副厅长		辽宁省生态环境厅	https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/bmld/tbk/index.shtml	2550
+米金套		3		辽宁省		https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省生态环境厅党组成员、副厅长		辽宁省生态环境厅	https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/bmld/mjt/index.shtml	2550
+张丽华		4		辽宁省		https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省生态环境厅党组成员、副厅长		辽宁省生态环境厅	https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/bmld/zlh/index.shtml	2550
+尹亮		5		辽宁省		https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省纪委监委驻省生态环境厅纪检监察组组长、省生态环境厅党组成员、二级高级监察官		辽宁省生态环境厅	https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/bmld/yl/index.shtml	2550
+徐光		6		辽宁省		https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长兼省河长制办公室副主任		辽宁省生态环境厅	https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/bmld/xg/index.shtml	2550
+陈达		7		辽宁省		https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省生态环境厅党组成员、副厅长（挂职，时间2年）		辽宁省生态环境厅	https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/bmld/cd/2026072710400083322/index.shtml	2550
+王晓臣		8		辽宁省		https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省生态环境厅生态环境保护监察专员		辽宁省生态环境厅	https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/bmld/wxc/index.shtml	2550
+张宝生		9		辽宁省		https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省生态环境厅生态环境保护监察专员		辽宁省生态环境厅	https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/bmld/zbs/index.shtml	2550
+丁志博		10		辽宁省		https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省生态环境厅生态环境保护监察专员		辽宁省生态环境厅	https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/bmld/dzb/2024012510484777047/index.shtml	2550
+刘峰		11		辽宁省		https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省生态环境厅生态环境保护监察专员（试用期一年）		辽宁省生态环境厅	https://sthj.ln.gov.cn/sthj/zfxxgk/fdzdgknr/jgjj/bmld/lf/index.shtml	2550

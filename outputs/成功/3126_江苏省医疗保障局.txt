@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈红红		1		江苏省		https://ybj.jiangsu.gov.cn/col/col71689/index.html	江苏省医疗保障局党组书记、局长。		江苏省医疗保障局	https://ybj.jiangsu.gov.cn/art/2023/5/12/art_71689_8293880.html	3126
+吴军民		2		江苏省		https://ybj.jiangsu.gov.cn/col/col71689/index.html	江苏省医疗保障局党组成员、副局长。		江苏省医疗保障局	https://ybj.jiangsu.gov.cn/art/2021/5/6/art_71689_9777985.html	3126
+朱丽菁		3		江苏省		https://ybj.jiangsu.gov.cn/col/col71689/index.html	江苏省医疗保障局党组成员、副局长。		江苏省医疗保障局	https://ybj.jiangsu.gov.cn/art/2022/4/27/art_71689_10429536.html	3126
+陈亮		4		江苏省		https://ybj.jiangsu.gov.cn/col/col71689/index.html	江苏省医疗保障局党组成员、副局长。		江苏省医疗保障局	https://ybj.jiangsu.gov.cn/art/2024/2/21/art_71689_11154901.html	3126

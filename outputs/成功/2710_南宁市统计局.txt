@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蒋宾		1		广西壮族自治区	南宁市	http://tj.nanning.gov.cn/zwgk/fdzdgk/dwjj/ldfg/t4774443.html	党组书记、局长		南宁市统计局		2710
+梁纬		2		广西壮族自治区	南宁市	http://tj.nanning.gov.cn/zwgk/fdzdgk/dwjj/ldfg/t4774443.html	党组成员、副局长		南宁市统计局		2710
+李朝晖		3		广西壮族自治区	南宁市	http://tj.nanning.gov.cn/zwgk/fdzdgk/dwjj/ldfg/t4774443.html	党组成员、副局长		南宁市统计局		2710
+李长才		4		广西壮族自治区	南宁市	http://tj.nanning.gov.cn/zwgk/fdzdgk/dwjj/ldfg/t4774443.html	党组成员、副局长		南宁市统计局		2710
+刘宗根		5		广西壮族自治区	南宁市	http://tj.nanning.gov.cn/zwgk/fdzdgk/dwjj/ldfg/t4774443.html	二级调研员		南宁市统计局		2710
+杨连业		6		广西壮族自治区	南宁市	http://tj.nanning.gov.cn/zwgk/fdzdgk/dwjj/ldfg/t4774443.html	二级调研员		南宁市统计局		2710
+罗英环		7		广西壮族自治区	南宁市	http://tj.nanning.gov.cn/zwgk/fdzdgk/dwjj/ldfg/t4774443.html	四级调研员		南宁市统计局		2710

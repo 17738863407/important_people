@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王伟中		1		全国		http://district.ce.cn/zt/rwk/sf/nm/index.shtml	党委书记、人大常委会主任		内蒙古自治区党委	http://district.ce.cn/newarea/sddy/202509/t20250930_2499472.shtml	0434
+包钢		2		全国		http://district.ce.cn/zt/rwk/sf/nm/index.shtml	党委副书记、政府主席		内蒙古自治区党委	http://district.ce.cn/newarea/sddy/202510/t20251018_2525248.shtml	0434
+时光辉		3		全国		http://district.ce.cn/zt/rwk/sf/nm/index.shtml	党委副书记、政法委书记		内蒙古自治区党委	http://district.ce.cn/newarea/sddy/202410/29/t20241029_39184526.shtml	0434
+杨小康		4		全国		http://district.ce.cn/zt/rwk/sf/nm/index.shtml	党委常委，内蒙古军区少将政治委员		内蒙古自治区党委	http://district.ce.cn/newarea/sddy/202112/01/t20211201_37131095_9.shtml	0434
+胡达古拉		5		全国		http://district.ce.cn/zt/rwk/sf/nm/index.shtml	党委常委		内蒙古自治区党委	http://district.ce.cn/newarea/sddy/202112/02/t20211202_37134744.shtml	0434
+包献华		6		全国		http://district.ce.cn/zt/rwk/sf/nm/index.shtml	党委常委、宣传部部长		内蒙古自治区党委	http://district.ce.cn/newarea/sddy/202502/22/t20250222_39299619.shtml	0434
+于会文		7		全国		http://district.ce.cn/zt/rwk/sf/nm/index.shtml	党委常委、呼和浩特市委书记		内蒙古自治区党委	http://district.ce.cn/newarea/sddy/202512/t20251221_2656384.shtml	0434
+陈之常		8		全国		http://district.ce.cn/zt/rwk/sf/nm/index.shtml	党委常委、包头市委书记		内蒙古自治区党委	http://district.ce.cn/newarea/sddy/202507/t20250701_2346702.shtml	0434
+李东旭		9		全国		http://district.ce.cn/zt/rwk/sf/nm/index.shtml	党委常委、组织部部长		内蒙古自治区党委	http://district.ce.cn/newarea/sddy/202601/t20260113_2698255.shtml	0434

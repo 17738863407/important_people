@@ -1,0 +1,3 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘军		1		陕西省	西安市	http://www.xablsw.cn/xxgk/zzjg/ldjsjfg/1.html	党组书记、常务副主任		西安市博览事务中心		3018
+朱彤		2		陕西省	西安市	http://www.xablsw.cn/xxgk/zzjg/ldjsjfg/1.html	党组成员、副主任		西安市博览事务中心		3018

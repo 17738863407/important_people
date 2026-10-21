@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李文章		1		全国		https://www.gjxfj.gov.cn/gjxfj/zfxxgk/zfxxgkzn/ldjs.htm	局长		国家信访局	https://www.gjxfj.gov.cn/gjxfj/zfxxgk/zfxxgkzn/lwz.htm	0727
+李自军		2		全国		https://www.gjxfj.gov.cn/gjxfj/zfxxgk/zfxxgkzn/ldjs.htm	副局长		国家信访局	https://www.gjxfj.gov.cn/gjxfj/zfxxgk/zfxxgkzn/lzj.htm	0727
+金艳丽		3		全国		https://www.gjxfj.gov.cn/gjxfj/zfxxgk/zfxxgkzn/ldjs.htm	副局长		国家信访局	https://www.gjxfj.gov.cn/gjxfj/zfxxgk/zfxxgkzn/jyl.htm	0727
+谢清华		4		全国		https://www.gjxfj.gov.cn/gjxfj/zfxxgk/zfxxgkzn/ldjs.htm	副局长		国家信访局	https://www.gjxfj.gov.cn/gjxfj/zfxxgk/zfxxgkzn/xqh.htm	0727

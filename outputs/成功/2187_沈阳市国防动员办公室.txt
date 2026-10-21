@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐宁		1		辽宁省	沈阳市	https://rfb.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202411/t20241129_4767517.html	党组书记、主任人选		沈阳市国防动员办公室		2187
+高雁翔		2		辽宁省	沈阳市	https://rfb.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202411/t20241129_4767517.html	党组成员、副主任		沈阳市国防动员办公室		2187
+段佩伸		3		辽宁省	沈阳市	https://rfb.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202411/t20241129_4767517.html	市人防事务服务中心主任		沈阳市国防动员办公室		2187

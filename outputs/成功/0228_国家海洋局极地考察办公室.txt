@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵培剑		1		全国		https://chinare.mnr.gov.cn/channels/7.html	国家海洋局极地考察办公室主任、党委书记		国家海洋局极地考察办公室	https://chinare.mnr.gov.cn/contents/7/2.html	0228
+龙威		2		全国		https://chinare.mnr.gov.cn/channels/7.html	国家海洋局极地考察办公室副主任 、总工程师		国家海洋局极地考察办公室	https://chinare.mnr.gov.cn/contents/7/1.html	0228
+刘召伟		3		全国		https://chinare.mnr.gov.cn/channels/7.html	国家海洋局极地考察办公室党委副书记兼纪委书记		国家海洋局极地考察办公室	https://chinare.mnr.gov.cn/contents/7/1256.html	0228

@@ -1,0 +1,7 @@
+﻿姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+韩金峰		1		山东省	济南市	http://www.jnrd.gov.cn/standingCommitteeWorker/standingCommitteeWorker.html	主任		济南市人民代表大会常务委员会		1181
+巩宪群		2		山东省	济南市	http://www.jnrd.gov.cn/standingCommitteeWorker/standingCommitteeWorker.html	副主任		济南市人民代表大会常务委员会		1181
+黄贵利		3		山东省	济南市	http://www.jnrd.gov.cn/standingCommitteeWorker/standingCommitteeWorker.html	副主任		济南市人民代表大会常务委员会		1181
+孙常建		4		山东省	济南市	http://www.jnrd.gov.cn/standingCommitteeWorker/standingCommitteeWorker.html	副主任		济南市人民代表大会常务委员会		1181
+袁长奎		5		山东省	济南市	http://www.jnrd.gov.cn/standingCommitteeWorker/standingCommitteeWorker.html	副主任		济南市人民代表大会常务委员会		1181
+朱玉明		6		山东省	济南市	http://www.jnrd.gov.cn/standingCommitteeWorker/standingCommitteeWorker.html	副主任		济南市人民代表大会常务委员会		1181

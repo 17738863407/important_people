@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+罗振华		1		四川省		http://nynct.sc.gov.cn/nynct/c102512/jgzn.shtml	省委农办主任，厅党组书记、厅长，省乡村振兴局局长		四川省农业农村厅	http://nynct.sc.gov.cn/nynct/c112791/leader.shtml	2052
+刘永红		2		四川省		http://nynct.sc.gov.cn/nynct/c102512/jgzn.shtml	农业农村厅党组副书记，省农业科学院党委书记		四川省农业农村厅	http://nynct.sc.gov.cn/nynct/ldlyh/leader.shtml	2052
+孙剑		3		四川省		http://nynct.sc.gov.cn/nynct/c102512/jgzn.shtml	厅党组副书记、副厅长		四川省农业农村厅	http://nynct.sc.gov.cn/nynct/c112594/leader.shtml	2052
+钟志荣		4		四川省		http://nynct.sc.gov.cn/nynct/c102512/jgzn.shtml	省委农办专职副主任，厅党组成员、副厅长、一级巡视员		四川省农业农村厅	http://nynct.sc.gov.cn/nynct/c111944/leader.shtml	2052
+向贵瑜		5		四川省		http://nynct.sc.gov.cn/nynct/c102512/jgzn.shtml	厅党组成员、副厅长		四川省农业农村厅	http://nynct.sc.gov.cn/nynct/c111933/leader.shtml	2052
+伍修强		6		四川省		http://nynct.sc.gov.cn/nynct/c102512/jgzn.shtml	厅党组成员、副厅长		四川省农业农村厅	http://nynct.sc.gov.cn/nynct/c101230/leader.shtml	2052
+王晓勇		7		四川省		http://nynct.sc.gov.cn/nynct/c102512/jgzn.shtml	厅党组成员、副厅长，机关党委书记		四川省农业农村厅	http://nynct.sc.gov.cn/nynct/c112524/leader.shtml	2052
+石成银		8		四川省		http://nynct.sc.gov.cn/nynct/c102512/jgzn.shtml	厅党组成员、省纪委监委驻农业农村厅纪检监察组组长，二级高级监察官		四川省农业农村厅	http://nynct.sc.gov.cn/nynct/c112556/leader.shtml	2052
+李春华		9		四川省		http://nynct.sc.gov.cn/nynct/c102512/jgzn.shtml	总畜牧师		四川省农业农村厅	http://nynct.sc.gov.cn/nynct/c103007/leader.shtml	2052
+李宇飞		10		四川省		http://nynct.sc.gov.cn/nynct/c102512/jgzn.shtml	总经济师		四川省农业农村厅	http://nynct.sc.gov.cn/nynct/c111628/leader.shtml	2052
+薛兵		11		四川省		http://nynct.sc.gov.cn/nynct/c102512/jgzn.shtml	总农艺师		四川省农业农村厅	http://nynct.sc.gov.cn/nynct/c112596/leader.shtml	2052

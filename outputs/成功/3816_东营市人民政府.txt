@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+滕双兴		1		山东省	东营市	http://www.dongying.gov.cn/col/col38804/index.html	市长		东营市人民政府	http://www.dongying.gov.cn/art/2026/8/14/art_373435_521.html	3816
+杨同贤		2		山东省	东营市	http://www.dongying.gov.cn/col/col38804/index.html	副市长		东营市人民政府	http://www.dongying.gov.cn/col/col253814/index.html	3816
+梁润生		3		山东省	东营市	http://www.dongying.gov.cn/col/col38804/index.html	副市长		东营市人民政府	http://www.dongying.gov.cn/col/col253815/index.html	3816
+杨勇		4		山东省	东营市	http://www.dongying.gov.cn/col/col38804/index.html	副市长		东营市人民政府	http://www.dongying.gov.cn/col/col347446/index.html	3816
+王秀凤		5		山东省	东营市	http://www.dongying.gov.cn/col/col38804/index.html	副市长		东营市人民政府	http://www.dongying.gov.cn/col/col188158/index.html	3816
+边志伟		6		山东省	东营市	http://www.dongying.gov.cn/col/col38804/index.html	副市长		东营市人民政府	http://www.dongying.gov.cn/col/col311073/index.html	3816
+赵海		7		山东省	东营市	http://www.dongying.gov.cn/col/col38804/index.html	副市长		东营市人民政府	http://www.dongying.gov.cn/col/col323833/index.html	3816
+师辉		8		山东省	东营市	http://www.dongying.gov.cn/col/col38804/index.html	副市长		东营市人民政府	http://www.dongying.gov.cn/col/col333075/index.html	3816
+张莉		9		山东省	东营市	http://www.dongying.gov.cn/col/col38804/index.html	副市长		东营市人民政府	http://www.dongying.gov.cn/col/col364842/index.html	3816
+王学春		10		山东省	东营市	http://www.dongying.gov.cn/col/col38804/index.html	秘书长		东营市人民政府	http://www.dongying.gov.cn/col/col71756/index.html	3816

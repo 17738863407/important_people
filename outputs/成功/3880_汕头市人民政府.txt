@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈涛		1		广东省	汕头市	https://www.shantou.gov.cn/cnst/zwgk/jcxxgk/leader/index.html	市长		汕头市人民政府	https://www.shantou.gov.cn/cnst/zwgk/jcxxgk/leader/content/post_2382672.html	3880
+许宏华		2		广东省	汕头市	https://www.shantou.gov.cn/cnst/zwgk/jcxxgk/leader/index.html	副市长		汕头市人民政府	https://www.shantou.gov.cn/cnst/zwgk/jcxxgk/leader/content/post_1878395.html	3880
+李飞		3		广东省	汕头市	https://www.shantou.gov.cn/cnst/zwgk/jcxxgk/leader/index.html	副市长		汕头市人民政府	https://www.shantou.gov.cn/cnst/zwgk/jcxxgk/leader/content/post_2508115.html	3880
+彭聪恩		4		广东省	汕头市	https://www.shantou.gov.cn/cnst/zwgk/jcxxgk/leader/index.html	副市长		汕头市人民政府	https://www.shantou.gov.cn/cnst/zwgk/jcxxgk/leader/content/post_2014934.html	3880
+朱朝荣		5		广东省	汕头市	https://www.shantou.gov.cn/cnst/zwgk/jcxxgk/leader/index.html	副市长		汕头市人民政府	https://www.shantou.gov.cn/cnst/zwgk/jcxxgk/leader/content/post_2508116.html	3880

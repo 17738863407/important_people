@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蔡卫旗		1		西藏自治区	拉萨市	http://yjglj.lasa.gov.cn/yjglj/shuji/ldxx_list.shtml	党委书记、副局长		拉萨市应急管理局	http://yjglj.lasa.gov.cn/yjglj/shuji/201909/a5052cf8a3434ecfbe552aec237b0396.shtml	3204
+张家松		2		西藏自治区	拉萨市	http://yjglj.lasa.gov.cn/yjglj/shuji/ldxx_list.shtml	党委副书记、局长		拉萨市应急管理局	http://yjglj.lasa.gov.cn/yjglj/thsz/201909/0d8559f6ab5f438a818586932f423a1a.shtml	3204
+巴桑		3		西藏自治区	拉萨市	http://yjglj.lasa.gov.cn/yjglj/shuji/ldxx_list.shtml	党委委员、副局长		拉萨市应急管理局	http://yjglj.lasa.gov.cn/yjglj/ehsz/202105/3bd387d8e3d34b388f665e520c63dd41.shtml	3204
+尼玛次仁		4		西藏自治区	拉萨市	http://yjglj.lasa.gov.cn/yjglj/shuji/ldxx_list.shtml	党委委员、副局长		拉萨市应急管理局	http://yjglj.lasa.gov.cn/yjglj/ehsz/202607/17ec0924db9441d6a48097341f74373b.shtml	3204
+李中福		5		西藏自治区	拉萨市	http://yjglj.lasa.gov.cn/yjglj/shuji/ldxx_list.shtml	党委委员、副局长		拉萨市应急管理局	http://yjglj.lasa.gov.cn/yjglj/ehsz/202605/c16cd4e217624df68e52760c06d20f68.shtml	3204

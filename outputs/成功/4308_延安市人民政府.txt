@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郭柱国		1		陕西省	延安市	https://www.yanan.gov.cn/ld/sc/1.html	市长		延安市人民政府	https://www.yanan.gov.cn/ld/sc/gzg/1.html	4308
+高建华		2		陕西省	延安市	https://www.yanan.gov.cn/ld/sc/1.html	常务副市长		延安市人民政府	https://www.yanan.gov.cn/ld/cwfsc/gjh/1.html	4308
+杨宏兰		3		陕西省	延安市	https://www.yanan.gov.cn/ld/sc/1.html	党组成员		延安市人民政府	https://www.yanan.gov.cn/ld/dzcy/yhl/1.html	4308
+祁锁锋		4		陕西省	延安市	https://www.yanan.gov.cn/ld/sc/1.html	副市长		延安市人民政府	https://www.yanan.gov.cn/ld/fsc/qsf/1.html	4308
+韩宇		5		陕西省	延安市	https://www.yanan.gov.cn/ld/sc/1.html	副市长		延安市人民政府	https://www.yanan.gov.cn/ld/fsc/hy/1.html	4308
+严晓慧		6		陕西省	延安市	https://www.yanan.gov.cn/ld/sc/1.html	副市长		延安市人民政府	https://www.yanan.gov.cn/ld/fsc/yxh/1.html	4308
+王云祥		7		陕西省	延安市	https://www.yanan.gov.cn/ld/sc/1.html	副市长		延安市人民政府	https://www.yanan.gov.cn/ld/fsc/wyx/1.html	4308
+刘涛		8		陕西省	延安市	https://www.yanan.gov.cn/ld/sc/1.html	副市长		延安市人民政府	https://www.yanan.gov.cn/ld/fsc/lt/1.html	4308
+耿军强		9		陕西省	延安市	https://www.yanan.gov.cn/ld/sc/1.html	副市长		延安市人民政府	https://www.yanan.gov.cn/ld/fsc/gjq/1.html	4308
+李富荣		10		陕西省	延安市	https://www.yanan.gov.cn/ld/sc/1.html	秘书长		延安市人民政府	https://www.yanan.gov.cn/ld/msz/lfr/1.html	4308

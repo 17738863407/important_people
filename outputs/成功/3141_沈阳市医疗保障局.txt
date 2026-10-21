@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+战云鹏		1		辽宁省	沈阳市	https://ybj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202507/t20250710_4875516.html	党组书记、局长		沈阳市医疗保障局		3141
+崔俊		2		辽宁省	沈阳市	https://ybj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202507/t20250710_4875516.html	党组成员、副局长		沈阳市医疗保障局		3141
+张威		3		辽宁省	沈阳市	https://ybj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202507/t20250710_4875516.html	党组成员、副局长		沈阳市医疗保障局		3141
+宋军		4		辽宁省	沈阳市	https://ybj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202507/t20250710_4875516.html	党组成员、副局长		沈阳市医疗保障局		3141

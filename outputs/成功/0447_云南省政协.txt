@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘晓凯		1		全国		http://district.ce.cn/zt/rwk/sf/yn/zx/201302/26/t20130226_771038.shtml	主席		云南省政协	http://district.ce.cn/newarea/sddy/202301/14/t20230114_38347245.shtml	0447
+石玉钢		2		全国		http://district.ce.cn/zt/rwk/sf/yn/zx/201302/26/t20130226_771038.shtml	党组副书记、副主席		云南省政协	http://district.ce.cn/newarea/sddy/202510/t20251016_2520340.shtml	0447
+高峰		3		全国		http://district.ce.cn/zt/rwk/sf/yn/zx/201302/26/t20130226_771038.shtml	副主席		云南省政协	http://district.ce.cn/newarea/sddy/201801/29/t20180129_27948444_3.shtml	0447
+杨宁		4		全国		http://district.ce.cn/zt/rwk/sf/yn/zx/201302/26/t20130226_771038.shtml	副主席		云南省政协	http://district.ce.cn/newarea/sddy/202401/27/t20240127_38883378.shtml	0447
+陈玉侯		5		全国		http://district.ce.cn/zt/rwk/sf/yn/zx/201302/26/t20130226_771038.shtml	副主席		云南省政协	http://district.ce.cn/newarea/sddy/202101/04/t20210104_36185387_1.shtml	0447
+李玛琳		6		全国		http://district.ce.cn/zt/rwk/sf/yn/zx/201302/26/t20130226_771038.shtml	副主席		云南省政协		0447
+何波		7		全国		http://district.ce.cn/zt/rwk/sf/yn/zx/201302/26/t20130226_771038.shtml	副主席		云南省政协	http://district.ce.cn/newarea/sddy/201801/29/t20180129_27948444_8.shtml	0447
+童志云		8		全国		http://district.ce.cn/zt/rwk/sf/yn/zx/201302/26/t20130226_771038.shtml	副主席		云南省政协	http://district.ce.cn/newarea/sddy/202102/10/t20210210_36309736_1.shtml	0447
+李学林		9		全国		http://district.ce.cn/zt/rwk/sf/yn/zx/201302/26/t20130226_771038.shtml	副主席		云南省政协	http://district.ce.cn/newarea/sddy/202201/23/t20220123_37280435_2.shtml	0447
+王以志		10		全国		http://district.ce.cn/zt/rwk/sf/yn/zx/201302/26/t20130226_771038.shtml	副主席		云南省政协		0447
+张宽寿		11		全国		http://district.ce.cn/zt/rwk/sf/yn/zx/201302/26/t20130226_771038.shtml	副主席		云南省政协		0447
+张荣明		12		全国		http://district.ce.cn/zt/rwk/sf/yn/zx/201302/26/t20130226_771038.shtml	秘书长		云南省政协	http://district.ce.cn/newarea/sddy/202005/11/t20200511_34881141.shtml	0447

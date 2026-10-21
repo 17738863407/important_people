@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘明胜		1		全国		http://www.spic.com.cn/2021/gywm/jtld/	董事长党组书记		国家电力投资集团有限公司		3510
+闫国春		2		全国		http://www.spic.com.cn/2021/gywm/jtld/	董事总经理党组副书记		国家电力投资集团有限公司		3510
+田永忠		3		全国		http://www.spic.com.cn/2021/gywm/jtld/	董事党组副书记		国家电力投资集团有限公司		3510
+卢洪早		4		全国		http://www.spic.com.cn/2021/gywm/jtld/	副总经理党组成员		国家电力投资集团有限公司		3510
+陈海斌		5		全国		http://www.spic.com.cn/2021/gywm/jtld/	副总经理党组成员		国家电力投资集团有限公司		3510
+刘丰		6		全国		http://www.spic.com.cn/2021/gywm/jtld/	副总经理党组成员		国家电力投资集团有限公司		3510
+高伯余		7		全国		http://www.spic.com.cn/2021/gywm/jtld/	中央纪委国家监委驻集团公司纪检监察组组长党组成员		国家电力投资集团有限公司		3510
+严航		8		全国		http://www.spic.com.cn/2021/gywm/jtld/	总会计师党组成员		国家电力投资集团有限公司		3510
+王绍民		9		全国		http://www.spic.com.cn/2021/gywm/jtld/	副总经理党组成员		国家电力投资集团有限公司		3510

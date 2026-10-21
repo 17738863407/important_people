@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+任栋		1		江苏省		https://yjglt.jiangsu.gov.cn/col/col89646/index.html	江苏省应急管理厅党委书记、厅长		江苏省应急管理厅		3211
+邓立刚		2		江苏省		https://yjglt.jiangsu.gov.cn/col/col89646/index.html	省消防救援总队总队长兼省应急管理厅党委委员		江苏省应急管理厅	https://yjglt.jiangsu.gov.cn/col/col89647/index.html	3211
+陈静		3		江苏省		https://yjglt.jiangsu.gov.cn/col/col89646/index.html	江苏省应急管理厅党委委员、副厅长、机关党委书记、一级巡视员		江苏省应急管理厅	https://yjglt.jiangsu.gov.cn/col/col89650/index.html	3211
+陈德荣		4		江苏省		https://yjglt.jiangsu.gov.cn/col/col89646/index.html	江苏省应急管理厅党委委员、省纪委监委派驻省应急管理厅纪检监察组组长、二级高级监察官，兼国家矿山安全监察局江苏局党组成员、纪检组组长		江苏省应急管理厅	https://yjglt.jiangsu.gov.cn/col/col89651/index.html	3211
+王春江		5		江苏省		https://yjglt.jiangsu.gov.cn/col/col89646/index.html	江苏省应急管理厅党委委员、副厅长		江苏省应急管理厅	https://yjglt.jiangsu.gov.cn/col/col89653/index.html	3211
+王晓峰		6		江苏省		https://yjglt.jiangsu.gov.cn/col/col89646/index.html	国家矿山安全监察局江苏局党组成员、副局长		江苏省应急管理厅	https://yjglt.jiangsu.gov.cn/col/col89656/index.html	3211
+盛方龙		7		江苏省		https://yjglt.jiangsu.gov.cn/col/col89646/index.html	江苏省应急管理厅党委委员、副厅长		江苏省应急管理厅	https://yjglt.jiangsu.gov.cn/col/col89654/index.html	3211
+汪波		8		江苏省		https://yjglt.jiangsu.gov.cn/col/col89646/index.html	国家矿山安全监察局江苏局党组成员、副局长		江苏省应急管理厅	https://yjglt.jiangsu.gov.cn/col/col89657/index.html	3211
+喻君杰		9		江苏省		https://yjglt.jiangsu.gov.cn/col/col89646/index.html	省水利厅党组成员、副厅长兼省应急管理厅副厅长		江苏省应急管理厅	https://yjglt.jiangsu.gov.cn/col/col89652/index.html	3211
+华钢		10		江苏省		https://yjglt.jiangsu.gov.cn/col/col89646/index.html	江苏省应急管理厅党委委员、副厅长		江苏省应急管理厅	https://yjglt.jiangsu.gov.cn/col/col89658/index.html	3211
+童培新		11		江苏省		https://yjglt.jiangsu.gov.cn/col/col89646/index.html	江苏省应急管理厅党委委员、副厅长		江苏省应急管理厅	https://yjglt.jiangsu.gov.cn/col/col90555/index.html	3211

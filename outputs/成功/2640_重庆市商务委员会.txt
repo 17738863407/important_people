@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+章勇武		1		重庆市		http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/	市商务委党组书记、主任、中新示范项目管理局局长（兼）、中国（重庆）自由贸易试验区工作办公室主任（兼）		重庆市商务委员会	http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/fzrxx/zyw/202110/t20211009_9786662.html	2640
+叶力娜		2		重庆市		http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/	市商务委党组成员、副主任		重庆市商务委员会	http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/fzrxx/yln/202305/t20230523_11988578.html	2640
+孙熙勇		3		重庆市		http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/	市商务委党组成员、副主任、重庆市中新示范项目管理局副局长(兼)		重庆市商务委员会	http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/fzrxx/sxy/202402/t20240219_12932231.html	2640
+李巡府		4		重庆市		http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/	市商务委党组成员、副主任		重庆市商务委员会	http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/fzrxx/lxf/202005/t20200526_7481737.html	2640
+郭军		5		重庆市		http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/	市商务委员会党组成员、市纪委监委驻市商务委员会纪检监察组组长，二级高级监察官		重庆市商务委员会	http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/fzrxx/gj/202411/t20241106_13776705.html	2640
+左洋		6		重庆市		http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/	市商务委党组成员、副主任、中国（重庆）自由贸易试验区工作办公室副主任（兼）（试用期1年）		重庆市商务委员会	http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/fzrxx/zy/202603/t20260319_15549895.html	2640
+许瑶		7		重庆市		http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/	市商务委党组成员、副主任（试用期1年）		重庆市商务委员会	http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/fzrxx/xy/202605/t20260507_15657328.html	2640
+彭和良		8		重庆市		http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/	市商务委一级巡视员		重庆市商务委员会	http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/fzrxx/phl/202003/t20200327_6293126.html	2640
+唐卫东		9		重庆市		http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/	市商务委一级巡视员		重庆市商务委员会	http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/fzrxx/twd/202402/t20240219_12932255.html	2640
+王强		10		重庆市		http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/	市商务委二级巡视员		重庆市商务委员会	http://sww.cq.gov.cn/zwgk_247/zfxxgkml/jgzn/fzrxx/wq/202402/t20240219_12932298.html	2640

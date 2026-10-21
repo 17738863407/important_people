@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张立		1		全国		https://www.ccidgroup.com/gk/yld.htm	中国电子信息产业发展研究院 院长、党委副书记		中国电子信息产业发展研究院		0147
+刘文强		2		全国		https://www.ccidgroup.com/gk/yld.htm	中国电子信息产业发展研究院 党委书记、副院长		中国电子信息产业发展研究院		0147
+许百涛		3		全国		https://www.ccidgroup.com/gk/yld.htm	中国电子信息产业发展研究院 纪委书记		中国电子信息产业发展研究院		0147
+胡国栋		4		全国		https://www.ccidgroup.com/gk/yld.htm	中国电子信息产业发展研究院 党委副书记		中国电子信息产业发展研究院		0147
+张小燕		5		全国		https://www.ccidgroup.com/gk/yld.htm	中国电子信息产业发展研究院副院长		中国电子信息产业发展研究院		0147
+秦海林		6		全国		https://www.ccidgroup.com/gk/yld.htm	中国电子信息产业发展研究院总工程师		中国电子信息产业发展研究院		0147
+李宏伟		7		全国		https://www.ccidgroup.com/gk/yld.htm	中国电子信息产业发展研究院总工程师		中国电子信息产业发展研究院		0147
+朱敏		8		全国		https://www.ccidgroup.com/gk/yld.htm	中国电子信息产业发展研究院副院长		中国电子信息产业发展研究院		0147
+刘明达		9		全国		https://www.ccidgroup.com/gk/yld.htm	中国电子信息产业发展研究院副院长		中国电子信息产业发展研究院		0147

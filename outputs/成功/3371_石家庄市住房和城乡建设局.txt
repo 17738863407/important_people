@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+底光辉		1		河北省	石家庄市	https://zjj.sjz.gov.cn/columns/52c6774f-73f8-4b6e-81d1-0edb42d67b8b/index.html	党组书记、局长		石家庄市住房和城乡建设局		3371
+程军宏		2		河北省	石家庄市	https://zjj.sjz.gov.cn/columns/52c6774f-73f8-4b6e-81d1-0edb42d67b8b/index.html	党组成员、驻局纪检监察组长		石家庄市住房和城乡建设局		3371
+苏西彦		3		河北省	石家庄市	https://zjj.sjz.gov.cn/columns/52c6774f-73f8-4b6e-81d1-0edb42d67b8b/index.html	党组成员、副局长，三级调研员		石家庄市住房和城乡建设局		3371
+齐向前		4		河北省	石家庄市	https://zjj.sjz.gov.cn/columns/52c6774f-73f8-4b6e-81d1-0edb42d67b8b/index.html	党组成员、副局长		石家庄市住房和城乡建设局		3371
+聂文广		5		河北省	石家庄市	https://zjj.sjz.gov.cn/columns/52c6774f-73f8-4b6e-81d1-0edb42d67b8b/index.html	党组成员、副局长		石家庄市住房和城乡建设局		3371
+傅永红		6		河北省	石家庄市	https://zjj.sjz.gov.cn/columns/52c6774f-73f8-4b6e-81d1-0edb42d67b8b/index.html	二级调研员		石家庄市住房和城乡建设局		3371
+李智强		7		河北省	石家庄市	https://zjj.sjz.gov.cn/columns/52c6774f-73f8-4b6e-81d1-0edb42d67b8b/index.html	二级调研员		石家庄市住房和城乡建设局		3371
+唐燕		8		河北省	石家庄市	https://zjj.sjz.gov.cn/columns/52c6774f-73f8-4b6e-81d1-0edb42d67b8b/index.html	二级调研员		石家庄市住房和城乡建设局		3371
+杜华伟		9		河北省	石家庄市	https://zjj.sjz.gov.cn/columns/52c6774f-73f8-4b6e-81d1-0edb42d67b8b/index.html	三级调研员		石家庄市住房和城乡建设局		3371

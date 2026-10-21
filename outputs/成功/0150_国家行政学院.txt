@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蔡奇		1		全国		https://www.ccps.gov.cn/xrld/	校长（院长）		国家行政学院	https://www.ccps.gov.cn/xrld/caiqi/grjj/	0150
+谢春涛		2		全国		https://www.ccps.gov.cn/xrld/	分管日常工作的副校长（副院长）		国家行政学院	https://www.ccps.gov.cn/xrld/xwwyxct/xctjj/	0150
+李毅		3		全国		https://www.ccps.gov.cn/xrld/	副校长（副院长）		国家行政学院	https://www.ccps.gov.cn/xrld/ly/ljjj/	0150
+龚维斌		4		全国		https://www.ccps.gov.cn/xrld/	副校长（副院长）		国家行政学院	https://www.ccps.gov.cn/xrld/gwb/grjj/	0150
+李文堂		5		全国		https://www.ccps.gov.cn/xrld/	副校长（副院长）		国家行政学院	https://www.ccps.gov.cn/xrld/lwt/lwtjj/	0150
+张忠军		6		全国		https://www.ccps.gov.cn/xrld/	副校长（副院长）		国家行政学院	https://www.ccps.gov.cn/xrld/zzj2/lwtjj/	0150
+冯鹏志		7		全国		https://www.ccps.gov.cn/xrld/	校（院）务委员会委员		国家行政学院	https://www.ccps.gov.cn/xrld/fpz/cljj/	0150
+王洋		8		全国		https://www.ccps.gov.cn/xrld/	校（院）务委员会委员		国家行政学院	https://www.ccps.gov.cn/xrld/wy/cljj/	0150

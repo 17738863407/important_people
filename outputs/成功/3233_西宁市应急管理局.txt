@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡生玉		1		青海省	西宁市	https://yjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	党委书记		西宁市应急管理局	https://yjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202409/t20240918_207898.html	3233
+王铁栓		2		青海省	西宁市	https://yjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	党委委员、副局长		西宁市应急管理局	https://yjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202112/t20211223_162715.html	3233
+杜震		3		青海省	西宁市	https://yjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	党委委员、副局长		西宁市应急管理局	https://yjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202112/t20211223_162717.html	3233
+梁涛		4		青海省	西宁市	https://yjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	党委委员、副局长		西宁市应急管理局	https://yjj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202409/t20240918_207896.html	3233

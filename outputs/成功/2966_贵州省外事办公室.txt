@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谢湘		1		贵州省		https://wsb.guizhou.gov.cn/zwgk_0/zfxxgk_5866107/fdzdgknr_5866110/jgjj_5866111/ldjl2/	贵州省外事办公室党组书记、主任，省政府港澳事务办公室主任		贵州省外事办公室	https://wsb.guizhou.gov.cn/zwgk_0/zfxxgk_5866107/fdzdgknr_5866110/jgjj_5866111/ldjl2/202512/t20251203_89012442.html	2966
+刘宝昌		2		贵州省		https://wsb.guizhou.gov.cn/zwgk_0/zfxxgk_5866107/fdzdgknr_5866110/jgjj_5866111/ldjl2/	贵州省外事办公室党组成员、副主任、贵州省政府港澳事务办公室副主任		贵州省外事办公室	https://wsb.guizhou.gov.cn/zwgk_0/zfxxgk_5866107/fdzdgknr_5866110/jgjj_5866111/ldjl2/202503/t20250328_87292379.html	2966
+蒋红		3		贵州省		https://wsb.guizhou.gov.cn/zwgk_0/zfxxgk_5866107/fdzdgknr_5866110/jgjj_5866111/ldjl2/	贵州省外事办公室党组成员、省人民对外友好协会专职副会长		贵州省外事办公室	https://wsb.guizhou.gov.cn/zwgk_0/zfxxgk_5866107/fdzdgknr_5866110/jgjj_5866111/ldjl2/202503/t20250328_87292378.html	2966
+罗煜		4		贵州省		https://wsb.guizhou.gov.cn/zwgk_0/zfxxgk_5866107/fdzdgknr_5866110/jgjj_5866111/ldjl2/	贵州省外事办公室党组成员、副主任、贵州省政府港澳事务办公室副主任		贵州省外事办公室	https://wsb.guizhou.gov.cn/zwgk_0/zfxxgk_5866107/fdzdgknr_5866110/jgjj_5866111/ldjl2/202503/t20250328_87292377.html	2966

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张波		1		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=8	党组书记、局长		郑州市工业和信息化局	https://public.zhengzhou.gov.cn/D14Y/290181.jhtml	2086
+谷振风		2		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=8	党组成员、副局长		郑州市工业和信息化局	https://public.zhengzhou.gov.cn/D14Y/290139.jhtml	2086
+郜东辉		3		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=8	党组成员、副局长		郑州市工业和信息化局	https://public.zhengzhou.gov.cn/D14Y/290132.jhtml	2086
+代向阳		4		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=8	党组成员		郑州市工业和信息化局	https://public.zhengzhou.gov.cn/D14Y/290125.jhtml	2086
+刘学江		5		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=8	党组成员		郑州市工业和信息化局	https://public.zhengzhou.gov.cn/D14Y/290104.jhtml	2086
+吴忠阳		6		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=8	党组成员		郑州市工业和信息化局	https://public.zhengzhou.gov.cn/D14Y/290083.jhtml	2086
+曹永涛		7		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=8	党组成员、副局长		郑州市工业和信息化局	https://public.zhengzhou.gov.cn/D14Y/290013.jhtml	2086
+王松晨		8		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=8	党组成员、市纪委监委驻市工信局纪检监察组组长		郑州市工业和信息化局	https://public.zhengzhou.gov.cn/D14Y/8691200.jhtml	2086
+丁华领		9		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=8	副局长		郑州市工业和信息化局	https://public.zhengzhou.gov.cn/D14Y/8635056.jhtml	2086

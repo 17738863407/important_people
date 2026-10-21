@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王智桢		1		福建省		https://lyj.fj.gov.cn/gkxx/	福建省林业局党组书记、局长		福建省林业局	http://lyj.fujian.gov.cn/gkxx/ldzc/wzz/jl_wzz/202110/t20211027_5750351.htm	1469
+林旭东		2		福建省		https://lyj.fj.gov.cn/gkxx/	局党组成员、副局长		福建省林业局	https://lyj.fj.gov.cn/gkxx/ldzc/lxd/	1469
+郑健		3		福建省		https://lyj.fj.gov.cn/gkxx/	局党组成员、副局长		福建省林业局	https://lyj.fj.gov.cn/gkxx/ldzc/zj/	1469
+陈金忠		4		福建省		https://lyj.fj.gov.cn/gkxx/	省纪委监委驻省林业局纪检监察组组长、局党组成员、二级高级监察官		福建省林业局	https://lyj.fj.gov.cn/gkxx/ldzc/cjz/	1469
+方燕鸿		5		福建省		https://lyj.fj.gov.cn/gkxx/	武夷山国家公园福建管理局党组书记、局长，兼任福建省林业局党组成员、副局长		福建省林业局	https://lyj.fj.gov.cn/gkxx/ldzc/fyh/	1469
+石家泉		6		福建省		https://lyj.fj.gov.cn/gkxx/	局党组成员、副局长		福建省林业局	https://lyj.fj.gov.cn/gkxx/ldzc/sjq/	1469
+张志才		7		福建省		https://lyj.fj.gov.cn/gkxx/	总工程师		福建省林业局	https://lyj.fj.gov.cn/gkxx/ldzc/zzc/	1469

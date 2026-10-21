@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李军会		1		北京市		https://jtw.beijing.gov.cn/xxgk/jgzn/ldjs/	党组书记、主任		北京市交通委员会		1249
+赵子龙		2		北京市		https://jtw.beijing.gov.cn/xxgk/jgzn/ldjs/	党组成员、副主任		北京市交通委员会		1249
+刘敬		3		北京市		https://jtw.beijing.gov.cn/xxgk/jgzn/ldjs/	党组成员、驻委纪检监察组组长		北京市交通委员会		1249
+王宁		4		北京市		https://jtw.beijing.gov.cn/xxgk/jgzn/ldjs/	党组成员、副主任		北京市交通委员会		1249
+李泽钧		5		北京市		https://jtw.beijing.gov.cn/xxgk/jgzn/ldjs/	党组成员、副主任		北京市交通委员会		1249
+冯杰		6		北京市		https://jtw.beijing.gov.cn/xxgk/jgzn/ldjs/	党组成员、副主任		北京市交通委员会		1249
+邴起宏		7		北京市		https://jtw.beijing.gov.cn/xxgk/jgzn/ldjs/	党组成员，市交通运输执法总队党委书记、总队长		北京市交通委员会		1249
+杨宇梁		8		北京市		https://jtw.beijing.gov.cn/xxgk/jgzn/ldjs/	副局长级		北京市交通委员会		1249
+商万友		9		北京市		https://jtw.beijing.gov.cn/xxgk/jgzn/ldjs/	二级巡视员		北京市交通委员会		1249

@@ -1,0 +1,24 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+宫福清		1		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	市政协党组书记、主席		大连市政协		0462
+徐广湘		2		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	市政协党组副书记		大连市政协		0462
+周勤		3		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	市委常委、统战部部长 市政协党组副书记		大连市政协		0462
+郝明		4		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	市政协党组副书记、副主席		大连市政协		0462
+岳君年		5		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	市政协副主席		大连市政协		0462
+陈国贵		6		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	市政协副主席		大连市政协		0462
+孟长功		7		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	市政协副主席		大连市政协		0462
+李延锋		8		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	市政协副主席		大连市政协		0462
+李先锋		9		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	市政协副主席		大连市政协		0462
+汤易		10		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	市政协党组成员、副主席		大连市政协		0462
+江滨		11		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	市政协党组成员、副主席		大连市政协		0462
+于国喜		12		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	党组成员、秘书长		大连市政协		0462
+刘爱民		13		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	副秘书长		大连市政协		0462
+戴紫童		14		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	副秘书长		大连市政协		0462
+金烨		15		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	副秘书长		大连市政协		0462
+李军星		16		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	副秘书长		大连市政协		0462
+鲁岩		17		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	副秘书长		大连市政协		0462
+郑旭		18		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	副秘书长		大连市政协		0462
+王丽慧		19		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	副秘书长		大连市政协		0462
+王尔诚		20		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	副秘书长		大连市政协		0462
+王青鑫		21		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	副秘书长		大连市政协		0462
+戴蓉		22		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	副秘书长		大连市政协		0462
+李翔		23		辽宁省	大连市	http://www.dlzx.gov.cn/intro/director/content.html	副秘书长		大连市政协		0462

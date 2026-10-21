@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于永生		1		山东省		http://www.shandong.gov.cn/col/col314066/index.html	党组书记、厅长		山东省交通运输厅		2368
+高洪岩		2		山东省		http://www.shandong.gov.cn/col/col314066/index.html	党组成员、副厅长、一级巡视员		山东省交通运输厅		2368
+李春雷		3		山东省		http://www.shandong.gov.cn/col/col314066/index.html	党组成员、驻厅纪检监察组组长		山东省交通运输厅		2368
+张玉宏		4		山东省		http://www.shandong.gov.cn/col/col314066/index.html	党组成员、副厅长		山东省交通运输厅		2368
+廉波		5		山东省		http://www.shandong.gov.cn/col/col314066/index.html	党组成员、副厅长		山东省交通运输厅		2368
+尹茂林		6		山东省		http://www.shandong.gov.cn/col/col314066/index.html	党组成员、副厅长		山东省交通运输厅		2368
+王德奔		7		山东省		http://www.shandong.gov.cn/col/col314066/index.html	山东省邮政管理局党组书记、局长，兼任山东省交通运输厅副厅长。		山东省交通运输厅		2368

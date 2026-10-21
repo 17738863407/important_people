@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨继承		1		山西省	太原市	http://www.tyzx.gov.cn/	党组书记 主席		太原市政协	http://www.tyzx.gov.cn/information.html?aa=cc4e6129-5d85-4cc9-b304-43d63b172946	2836
+李永强		2		山西省	太原市	http://www.tyzx.gov.cn/	党组副书记(兼)		太原市政协	http://www.tyzx.gov.cn/information.html?aa=6602273d-64ac-405d-adc7-6dbdf1b52ab5	2836
+薛维柱		3		山西省	太原市	http://www.tyzx.gov.cn/	党组副书记 副主席		太原市政协	http://www.tyzx.gov.cn/information.html?aa=69ce6f5f-45de-4d7d-8735-5a2ebf72b96f	2836
+胡建林		4		山西省	太原市	http://www.tyzx.gov.cn/	党组成员 副主席		太原市政协	http://www.tyzx.gov.cn/information.html?aa=efbe2d9a-bb5d-493f-a4df-7ce34815c70f	2836
+李颖		5		山西省	太原市	http://www.tyzx.gov.cn/	党组成员 副主席		太原市政协	http://www.tyzx.gov.cn/information.html?aa=61d6b8c7-357d-4f92-b643-d5a8cc7b3d00	2836
+李卫平		6		山西省	太原市	http://www.tyzx.gov.cn/	党组成员 副主席		太原市政协	http://www.tyzx.gov.cn/information.html?aa=aa19d957-e195-4c52-8f57-d83a2f2e3bed	2836
+张守耀		7		山西省	太原市	http://www.tyzx.gov.cn/	副主席		太原市政协	http://www.tyzx.gov.cn/information.html?aa=f578160e-2d69-4aee-8f5a-b3cf5bbb9d37	2836
+郜宏漪		8		山西省	太原市	http://www.tyzx.gov.cn/	副主席		太原市政协	http://www.tyzx.gov.cn/information.html?aa=bafe1f60-6542-4e86-b5cb-7a7ae66ef7bd	2836
+宋毅方		9		山西省	太原市	http://www.tyzx.gov.cn/	副主席		太原市政协	http://www.tyzx.gov.cn/information.html?aa=acaa35e2-b3d1-4f24-af3d-fde7e51e9830	2836
+薛建明		10		山西省	太原市	http://www.tyzx.gov.cn/	党组成员 秘书长		太原市政协	http://www.tyzx.gov.cn/information.html?aa=deb272ce-30dd-4e21-b0ca-3d56357692cd	2836

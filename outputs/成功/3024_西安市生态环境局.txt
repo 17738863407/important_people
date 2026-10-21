@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+沈炳岗		1		陕西省	西安市	http://xaepb.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	党委书记、局长		西安市生态环境局		3024
+郜义		2		陕西省	西安市	http://xaepb.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	党委专职副书记		西安市生态环境局		3024
+赵学功		3		陕西省	西安市	http://xaepb.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	党委委员、副局长		西安市生态环境局		3024
+顾金龙		4		陕西省	西安市	http://xaepb.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	党委委员、副局长		西安市生态环境局		3024
+赵广		5		陕西省	西安市	http://xaepb.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	党委委员、副局长		西安市生态环境局		3024
+邢小红		6		陕西省	西安市	http://xaepb.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	党委委员、市纪委监委派驻纪检监察组组长		西安市生态环境局		3024
+陈坚		7		陕西省	西安市	http://xaepb.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	党委委员、副局长		西安市生态环境局		3024
+刘长宏		8		陕西省	西安市	http://xaepb.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	督察专员		西安市生态环境局		3024

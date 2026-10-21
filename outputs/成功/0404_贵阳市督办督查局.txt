@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+罗瑞		1		贵州省	贵阳市	http://dbdc.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978856/	党组书记、局长		贵阳市督办督查局	http://dbdc.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978856/202503/t20250320_87212504.html	0404
+许康		2		贵州省	贵阳市	http://dbdc.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978856/	党组成员、副局长		贵阳市督办督查局	http://dbdc.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978856/202508/t20250827_88526146.html	0404
+刘成		3		贵州省	贵阳市	http://dbdc.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978856/	党组成员、副局长		贵阳市督办督查局	http://dbdc.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978856/202503/t20250320_87213631.html	0404
+刘光阳		4		贵州省	贵阳市	http://dbdc.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978856/	党组成员、副局长		贵阳市督办督查局	http://dbdc.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978856/202503/t20250320_87213716.html	0404
+王芹		5		贵州省	贵阳市	http://dbdc.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978856/	二级调研员		贵阳市督办督查局	http://dbdc.guiyang.gov.cn/zfxxgk/fdzdgknr/jggk/jgld_5978856/202503/t20250320_87212708.html	0404

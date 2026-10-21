@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨勇		1		黑龙江省	牡丹江市	https://www.mdj.gov.cn/mdjsrmzf/c100002/ldzc.shtml	市委副书记，市政府市长、市政府党组书记		牡丹江市人民政府	https://www.mdj.gov.cn/mdjsrmzf/c1006951/202409/c03_972680.shtml	4302
+李玉俊		2		黑龙江省	牡丹江市	https://www.mdj.gov.cn/mdjsrmzf/c100002/ldzc.shtml	市委常委，市政府副市长、党组副书记，中国（黑龙江）自由贸易试验区绥芬河片区党工委书记、管委会主任		牡丹江市人民政府	https://www.mdj.gov.cn/mdjsrmzf/c100750/202311/c03_253690.shtml	4302
+李松		3		黑龙江省	牡丹江市	https://www.mdj.gov.cn/mdjsrmzf/c100002/ldzc.shtml	牡丹江市委常委，市政府副市长、党组成员（挂职）		牡丹江市人民政府	https://www.mdj.gov.cn/mdjsrmzf/c1007501/202606/c03_1049589.shtml	4302
+刘宏斌		4		黑龙江省	牡丹江市	https://www.mdj.gov.cn/mdjsrmzf/c100002/ldzc.shtml	市政府副市长、党组成员		牡丹江市人民政府	https://www.mdj.gov.cn/mdjsrmzf/c100701/202311/c03_171831.shtml	4302
+李传柱		5		黑龙江省	牡丹江市	https://www.mdj.gov.cn/mdjsrmzf/c100002/ldzc.shtml	市政府副市长、党组成员		牡丹江市人民政府	https://www.mdj.gov.cn/mdjsrmzf/c105314/202402/c03_841381.shtml	4302
+贾惠媛		6		黑龙江省	牡丹江市	https://www.mdj.gov.cn/mdjsrmzf/c100002/ldzc.shtml	市政府副市长、党组成员		牡丹江市人民政府	https://www.mdj.gov.cn/mdjsrmzf/c105316/202412/c03_984845.shtml	4302
+李伦		7		黑龙江省	牡丹江市	https://www.mdj.gov.cn/mdjsrmzf/c100002/ldzc.shtml	市政府副市长、党组成员，市委政法委副书记，市公安局党委书记、局长、督察长		牡丹江市人民政府	https://www.mdj.gov.cn/mdjsrmzf/c105317/202505/c03_1006215.shtml	4302
+周振海		8		黑龙江省	牡丹江市	https://www.mdj.gov.cn/mdjsrmzf/c100002/ldzc.shtml	市政府党组成员、秘书长，市直机关工委副书记，市政府办公室一级调研员		牡丹江市人民政府	https://www.mdj.gov.cn/mdjsrmzf/lgw/202501/c03_992669.shtml	4302

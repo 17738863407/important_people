@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+韩亨林		1		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwzgjygzxh/	会长		中国监狱工作协会		1669
+张金桑		2		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwzgjygzxh/	副会长		中国监狱工作协会		1669
+李豫黔		3		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwzgjygzxh/	副会长		中国监狱工作协会		1669
+何平		4		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwzgjygzxh/	副会长(兼秘书长)		中国监狱工作协会		1669
+王平		5		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwzgjygzxh/	副会长		中国监狱工作协会		1669
+时延安		6		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwzgjygzxh/	副会长		中国监狱工作协会		1669
+史殿国		7		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwzgjygzxh/	副会长		中国监狱工作协会		1669

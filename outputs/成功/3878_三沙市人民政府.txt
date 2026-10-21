@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈儒茂		1		海南省	三沙市	https://www.sansha.gov.cn/sansha/sssrmldjs/lingdao.shtml?ddtab=true	市长		三沙市人民政府	https://www.sansha.gov.cn/sansha/sssrmldjs/202312/d6b3e6f4de034b2f8574517d324ac504.shtml	3878
+林道杰		2		海南省	三沙市	https://www.sansha.gov.cn/sansha/sssrmldjs/lingdao.shtml?ddtab=true	副市长		三沙市人民政府	https://www.sansha.gov.cn/sansha/sssrmldjs/202112/016caa07733f4da9b91b35012b37b354.shtml	3878
+李华		3		海南省	三沙市	https://www.sansha.gov.cn/sansha/sssrmldjs/lingdao.shtml?ddtab=true	副市长		三沙市人民政府	https://www.sansha.gov.cn/sansha/sssrmldjs/202304/2664c92a24f5421aa90db3e42a8bc6c6.shtml	3878
+刘云球		4		海南省	三沙市	https://www.sansha.gov.cn/sansha/sssrmldjs/lingdao.shtml?ddtab=true	副市长		三沙市人民政府	https://www.sansha.gov.cn/sansha/sssrmldjs/202605/5eeed55d33984c5496c3b78696377c06.shtml	3878
+张此明		5		海南省	三沙市	https://www.sansha.gov.cn/sansha/sssrmldjs/lingdao.shtml?ddtab=true	副市长		三沙市人民政府	https://www.sansha.gov.cn/sansha/sssrmldjs/202201/d63403141ed34d80a5747e485003a63e.shtml	3878
+王式政		6		海南省	三沙市	https://www.sansha.gov.cn/sansha/sssrmldjs/lingdao.shtml?ddtab=true	秘书长		三沙市人民政府	https://www.sansha.gov.cn/sansha/sssrmldjs/201810/11946b16f45449f4a8d4574691dee08a.shtml	3878

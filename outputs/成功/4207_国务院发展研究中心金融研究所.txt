@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张丽平		1		全国		https://www.drc.gov.cn/yjlyyyjbm/index.aspx?departmentid=17	所长、党支部书记、研究员		国务院发展研究中心金融研究所		4207
+刘涛		2		全国		https://www.drc.gov.cn/yjlyyyjbm/index.aspx?departmentid=17	副所长、党支部副书记、三级研究员(专业技术岗位三级)、研究员		国务院发展研究中心金融研究所		4207
+田辉		3		全国		https://www.drc.gov.cn/yjlyyyjbm/index.aspx?departmentid=17	副所长、三级研究员(专业技术岗位三级)、研究员		国务院发展研究中心金融研究所		4207
+孙飞		4		全国		https://www.drc.gov.cn/yjlyyyjbm/index.aspx?departmentid=17	副所长、研究员		国务院发展研究中心金融研究所		4207

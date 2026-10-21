@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张利锋		1		山西省	阳泉市	https://xxgk.yq.gov.cn/yqsrmzf1/fdzdgknr_45346/jgjj/	市长		阳泉市人民政府	http://www.yq.gov.cn/zwgk/zfld/chenkai/202609/t20260909_2236941.shtml	3902
+李哲		2		山西省	阳泉市	https://xxgk.yq.gov.cn/yqsrmzf1/fdzdgknr_45346/jgjj/	副市长		阳泉市人民政府	http://www.yq.gov.cn/zwgk/zfld/fszhym/202609/t20260902_2234566.shtml	3902
+石峥		3		山西省	阳泉市	https://xxgk.yq.gov.cn/yqsrmzf1/fdzdgknr_45346/jgjj/	副市长		阳泉市人民政府	http://www.yq.gov.cn/zwgk/zfld/fszsz/202204/t20220406_1322410.shtml	3902
+李君		4		山西省	阳泉市	https://xxgk.yq.gov.cn/yqsrmzf1/fdzdgknr_45346/jgjj/	副市长		阳泉市人民政府	http://www.yq.gov.cn/zwgk/zfld/fszlj/201801/t20180105_597508.shtml	3902
+句爱云		5		山西省	阳泉市	https://xxgk.yq.gov.cn/yqsrmzf1/fdzdgknr_45346/jgjj/	副市长		阳泉市人民政府		3902
+李燕斌		6		山西省	阳泉市	https://xxgk.yq.gov.cn/yqsrmzf1/fdzdgknr_45346/jgjj/	副市长		阳泉市人民政府	http://www.yq.gov.cn/zwgk/zfld/fszlyb/202507/t20250718_2088636.shtml	3902
+段慧刚		7		山西省	阳泉市	https://xxgk.yq.gov.cn/yqsrmzf1/fdzdgknr_45346/jgjj/	副市长		阳泉市人民政府		3902
+梁海昌		8		山西省	阳泉市	https://xxgk.yq.gov.cn/yqsrmzf1/fdzdgknr_45346/jgjj/	副市长		阳泉市人民政府	http://www.yq.gov.cn/zwgk/zfld/fszlhc/202509/t20250910_2111500.shtml	3902
+刘志军		9		山西省	阳泉市	https://xxgk.yq.gov.cn/yqsrmzf1/fdzdgknr_45346/jgjj/	秘书长		阳泉市人民政府	http://www.yq.gov.cn/zwgk/zfld/msz/202504/t20250425_2054980.shtml	3902

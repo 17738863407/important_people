@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴季友		1		全国		http://www.secmep.cn/zxjj/ldjs/	党委书记、主任		生态环境部卫星环境应用中心	http://www.secmep.cn/zxjj/ldjs/202209/t20220905_993155.shtml	2292
+周海丽		2		全国		http://www.secmep.cn/zxjj/ldjs/	副主任		生态环境部卫星环境应用中心	http://www.secmep.cn/zxjj/ldjs/202311/t20231109_1055621.shtml	2292
+李华友		3		全国		http://www.secmep.cn/zxjj/ldjs/	纪委书记		生态环境部卫星环境应用中心	http://www.secmep.cn/zxjj/ldjs/202311/t20231109_1055622.shtml	2292
+杨一鹏		4		全国		http://www.secmep.cn/zxjj/ldjs/	副主任		生态环境部卫星环境应用中心	http://www.secmep.cn/zxjj/ldjs/202501/t20250110_1100362.shtml	2292
+翟轶军		5		全国		http://www.secmep.cn/zxjj/ldjs/	副主任		生态环境部卫星环境应用中心	http://www.secmep.cn/zxjj/ldjs/202509/t20250928_1128483.shtml	2292

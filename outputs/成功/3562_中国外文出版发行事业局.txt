@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+常勃		1		全国		http://www.cicg.org.cn/node_1006428.htm	局长		中国外文出版发行事业局		3562
+于涛		2		全国		http://www.cicg.org.cn/node_1006428.htm	副局长，机关党委书记		中国外文出版发行事业局		3562
+于运全		3		全国		http://www.cicg.org.cn/node_1006428.htm	副局长		中国外文出版发行事业局		3562
+余应福		4		全国		http://www.cicg.org.cn/node_1006428.htm	副局长		中国外文出版发行事业局		3562
+谢刚		5		全国		http://www.cicg.org.cn/node_1006428.htm	副局长		中国外文出版发行事业局		3562
+高岸明		6		全国		http://www.cicg.org.cn/node_1006428.htm	总编辑		中国外文出版发行事业局		3562
+李雅芳		7		全国		http://www.cicg.org.cn/node_1006428.htm	副总编辑		中国外文出版发行事业局		3562

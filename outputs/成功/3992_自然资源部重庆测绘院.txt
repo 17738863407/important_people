@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘文生		1		全国		https://www.cqism.cn/_unit/leader/	党委书记、院长		自然资源部重庆测绘院		3992
+何忠焕		2		全国		https://www.cqism.cn/_unit/leader/	党委委员、副院长兼总工程师		自然资源部重庆测绘院		3992
+周国华		3		全国		https://www.cqism.cn/_unit/leader/	党委委员、副院长		自然资源部重庆测绘院		3992
+蔡辉		4		全国		https://www.cqism.cn/_unit/leader/	党委委员、副院长		自然资源部重庆测绘院		3992
+杨永红		5		全国		https://www.cqism.cn/_unit/leader/	党委委员、党委专职副书记		自然资源部重庆测绘院		3992
+李国鹏		6		全国		https://www.cqism.cn/_unit/leader/	党委委员、纪委书记		自然资源部重庆测绘院		3992

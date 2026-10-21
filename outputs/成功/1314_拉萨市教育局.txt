@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+樊锋旭		1		西藏自治区	拉萨市	http://jyj.lasa.gov.cn/jiaoyuju/shuji/ldxx_list.shtml	西藏自治区拉萨市教育局党组书记、副局长、一级调研员		拉萨市教育局	http://jyj.lasa.gov.cn/jiaoyuju/shuji/202006/a8c56125f6554875ad7283e5f292fbbd.shtml	1314
+向宗		2		西藏自治区	拉萨市	http://jyj.lasa.gov.cn/jiaoyuju/shuji/ldxx_list.shtml	拉萨市教育局党组副书记、局长		拉萨市教育局	http://jyj.lasa.gov.cn/jiaoyuju/thsz/202411/870ac4b70e0549f69a814a946d50d21e.shtml	1314
+杜鹏		3		西藏自治区	拉萨市	http://jyj.lasa.gov.cn/jiaoyuju/shuji/ldxx_list.shtml	市教育局党组副书记、副局长		拉萨市教育局	http://jyj.lasa.gov.cn/jiaoyuju/ehsz/201909/c4cd7bcfdf7b46278988fe8d2f530df0.shtml	1314
+许震宇		4		西藏自治区	拉萨市	http://jyj.lasa.gov.cn/jiaoyuju/shuji/ldxx_list.shtml	市教育局党组成员、副局长		拉萨市教育局	http://jyj.lasa.gov.cn/jiaoyuju/ehsz/202606/accec084e9524e2cb0af564a964566fe.shtml	1314
+巴珠		5		西藏自治区	拉萨市	http://jyj.lasa.gov.cn/jiaoyuju/shuji/ldxx_list.shtml	市教育局党组成员、三级调研员		拉萨市教育局	http://jyj.lasa.gov.cn/jiaoyuju/ehsz/202606/34e73c0cef7b431fa9a86e8c42d4ef67.shtml	1314
+宋伟		6		西藏自治区	拉萨市	http://jyj.lasa.gov.cn/jiaoyuju/shuji/ldxx_list.shtml	市教育局党组成员、副局长(援藏）		拉萨市教育局	http://jyj.lasa.gov.cn/jiaoyuju/ehsz/201909/d55ae79465684d27bd269a231a9e9637.shtml	1314
+张延书		7		西藏自治区	拉萨市	http://jyj.lasa.gov.cn/jiaoyuju/shuji/ldxx_list.shtml	拉萨市教育局党组成员、副局长（援藏）		拉萨市教育局	http://jyj.lasa.gov.cn/jiaoyuju/ehsz/201909/006bcdd4712a4a8d9bd57adc59e393de.shtml	1314
+尼玛措		8		西藏自治区	拉萨市	http://jyj.lasa.gov.cn/jiaoyuju/shuji/ldxx_list.shtml	拉萨市教育局党组成员、副局长		拉萨市教育局	http://jyj.lasa.gov.cn/jiaoyuju/ehsz/202508/88e56428881c4cfe90942eca82ea93be.shtml	1314

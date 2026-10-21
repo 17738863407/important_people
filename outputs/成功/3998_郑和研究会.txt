@@ -1,0 +1,21 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱碧新		1		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	会长		郑和研究会	https://www.wti.ac.cn/wti/hz/7344.jhtml	3998
+刘书斌		2		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	常务副会长		郑和研究会	https://www.wti.ac.cn/wti/cwfhz/7345.jhtml	3998
+朱勇进		3		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	副会长		郑和研究会	https://www.wti.ac.cn/wti/fhz/7346.jhtml	3998
+孙治国		4		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	副会长		郑和研究会	https://www.wti.ac.cn/wti/fhz/7358.jhtml	3998
+陆伟		5		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	副会长		郑和研究会	https://www.wti.ac.cn/wti/fhz/7359.jhtml	3998
+郑少南		6		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	副会长		郑和研究会	https://www.wti.ac.cn/wti/fhz/7360.jhtml	3998
+曹荣瑞		7		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	副会长		郑和研究会	https://www.wti.ac.cn/wti/fhz/7361.jhtml	3998
+韩恩泽		8		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	副会长		郑和研究会	https://www.wti.ac.cn/wti/fhz/7362.jhtml	3998
+宁涛		9		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	秘书长		郑和研究会	https://www.wti.ac.cn/wti/msz/7347.jhtml	3998
+马国栋		10		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	常务理事		郑和研究会	https://www.wti.ac.cn/wti/cwls/7348.jhtml	3998
+王勇		11		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	常务理事		郑和研究会	https://www.wti.ac.cn/wti/cwls/7363.jhtml	3998
+冯毅		12		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	常务理事		郑和研究会	https://www.wti.ac.cn/wti/cwls/7364.jhtml	3998
+李天胜		13		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	常务理事		郑和研究会	https://www.wti.ac.cn/wti/cwls/7365.jhtml	3998
+李立谦		14		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	常务理事		郑和研究会	https://www.wti.ac.cn/wti/cwls/7366.jhtml	3998
+陈玫		15		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	常务理事		郑和研究会	https://www.wti.ac.cn/wti/cwls/7367.jhtml	3998
+俞万能		16		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	常务理事		郑和研究会	https://www.wti.ac.cn/wti/cwls/7368.jhtml	3998
+曹军骥		17		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	常务理事		郑和研究会	https://www.wti.ac.cn/wti/cwls/7369.jhtml	3998
+盛进路		18		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	常务理事		郑和研究会	https://www.wti.ac.cn/wti/cwls/7370.jhtml	3998
+董时红		19		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	常务理事		郑和研究会	https://www.wti.ac.cn/wti/cwls/7371.jhtml	3998
+鲍旭		20		全国		https://www.wti.ac.cn/wti/yjhld/index.jhtml	常务理事		郑和研究会	https://www.wti.ac.cn/wti/cwls/7372.jhtml	3998

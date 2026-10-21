@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周昱		1		福建省	厦门市	https://hrss.xm.gov.cn/xxgk/jgsz/ldjj/202112/t20211214_2608463.htm	厦门市人力资源和社会保障局党组书记、局长，市委组织部部务会成员		厦门市人力资源和社会保障局		1022
+彭新良		2		福建省	厦门市	https://hrss.xm.gov.cn/xxgk/jgsz/ldjj/202112/t20211214_2608463.htm	厦门市人力资源和社会保障局党组成员、副局长		厦门市人力资源和社会保障局	https://hrss.xm.gov.cn/xxgk/jgsz/ldjj/202112/t20211214_2608481.htm	1022
+吴志生		3		福建省	厦门市	https://hrss.xm.gov.cn/xxgk/jgsz/ldjj/202112/t20211214_2608463.htm	厦门市人力资源和社会保障局党组成员、厦门市纪委监委驻市人力资源和社会保障局纪检监察组组长		厦门市人力资源和社会保障局	https://hrss.xm.gov.cn/xxgk/jgsz/ldjj/202112/t20211214_2608482.htm	1022
+谢舒展		4		福建省	厦门市	https://hrss.xm.gov.cn/xxgk/jgsz/ldjj/202112/t20211214_2608463.htm	厦门市人力资源和社会保障局党组成员、副局长		厦门市人力资源和社会保障局	https://hrss.xm.gov.cn/xxgk/jgsz/ldjj/202112/t20211214_2608478.htm	1022
+吴目国		5		福建省	厦门市	https://hrss.xm.gov.cn/xxgk/jgsz/ldjj/202112/t20211214_2608463.htm	厦门市人力资源和社会保障局党组成员、总会计师		厦门市人力资源和社会保障局	https://hrss.xm.gov.cn/xxgk/jgsz/ldjj/202112/t20211214_2608486.htm	1022
+姜保收		6		福建省	厦门市	https://hrss.xm.gov.cn/xxgk/jgsz/ldjj/202112/t20211214_2608463.htm	厦门市人力资源和社会保障局党组成员、副局长		厦门市人力资源和社会保障局	https://hrss.xm.gov.cn/xxgk/jgsz/ldjj/202302/t20230223_2721141.htm	1022
+徐翔		7		福建省	厦门市	https://hrss.xm.gov.cn/xxgk/jgsz/ldjj/202112/t20211214_2608463.htm	厦门市人力资源和社会保障局党组成员，办公室主任		厦门市人力资源和社会保障局	https://hrss.xm.gov.cn/xxgk/jgsz/ldjj/202511/t20251125_2968651.htm	1022

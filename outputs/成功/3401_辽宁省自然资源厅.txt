@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+段继阳		1		辽宁省		https://zrzy.ln.gov.cn/zrzy/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省自然资源厅党组书记、厅长。		辽宁省自然资源厅	https://zrzy.ln.gov.cn/zrzy/zfxxgk/fdzdgknr/jgjj/bmld/2025121511264195884/index.shtml	3401
+华天舒		2		辽宁省		https://zrzy.ln.gov.cn/zrzy/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省自然资源厅党组成员、副厅长。		辽宁省自然资源厅	https://zrzy.ln.gov.cn/zrzy/zfxxgk/fdzdgknr/jgjj/bmld/2023080715304560666/index.shtml	3401
+王文国		3		辽宁省		https://zrzy.ln.gov.cn/zrzy/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省自然资源厅党组成员、副厅长兼省海洋局局长。		辽宁省自然资源厅	https://zrzy.ln.gov.cn/zrzy/zfxxgk/fdzdgknr/jgjj/bmld/2023020308594454381/index.shtml	3401
+沈越		4		辽宁省		https://zrzy.ln.gov.cn/zrzy/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省自然资源厅党组成员、副厅长。		辽宁省自然资源厅	https://zrzy.ln.gov.cn/zrzy/zfxxgk/fdzdgknr/jgjj/bmld/2023052614511370475/index.shtml	3401
+张晓伟		5		辽宁省		https://zrzy.ln.gov.cn/zrzy/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省自然资源厅党组成员、省林业和草原局党组书记、局长。		辽宁省自然资源厅	https://zrzy.ln.gov.cn/zrzy/zfxxgk/fdzdgknr/jgjj/bmld/2023020309372868492/index.shtml	3401
+孙鹏		6		辽宁省		https://zrzy.ln.gov.cn/zrzy/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省自然资源厅副厅长。		辽宁省自然资源厅	https://zrzy.ln.gov.cn/zrzy/zfxxgk/fdzdgknr/jgjj/bmld/2024090516294566427/index.shtml	3401
+郑磊		7		辽宁省		https://zrzy.ln.gov.cn/zrzy/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省自然资源厅党组成员、副厅长（挂职）。		辽宁省自然资源厅	https://zrzy.ln.gov.cn/zrzy/zfxxgk/fdzdgknr/jgjj/bmld/2026062210122782109/index.shtml	3401
+高文艺		8		辽宁省		https://zrzy.ln.gov.cn/zrzy/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省自然资源厅党组成员（挂职）。		辽宁省自然资源厅	https://zrzy.ln.gov.cn/zrzy/zfxxgk/fdzdgknr/jgjj/bmld/2025030714015314467/index.shtml	3401

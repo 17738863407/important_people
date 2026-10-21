@@ -1,0 +1,2 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+		1		全国		https://www.chinanecc.cn/website/introduction.jsp	抽取失败：raw_http 失败：raw_http 第 1 次失败[http_404]：404 Client Error: Not Found for url: https://www.chinanecc.cn/website/introduction.jsp；requests 失败：requests 第 1 次失败[http_404]：404 Client Error: Not Found for url: https://www.chinanecc.cn/website/introduction.jsp；playwright 失败：Playwright 直接抓取失败：Playwright 渲染结果疑似无效：HTML 长度过短：592；chrome_cdp 失败：Chrome CDP 预热后渲染结果仍无效：HTML 长度过短：592		国家节能降碳中心		3602

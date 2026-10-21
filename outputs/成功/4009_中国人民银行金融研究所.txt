@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+丁志杰		1		全国		https://pbocri.org.cn/xrld.html	所长		中国人民银行金融研究所		4009
+陈浩		2		全国		https://pbocri.org.cn/xrld.html	副所长		中国人民银行金融研究所		4009
+张怀清		3		全国		https://pbocri.org.cn/xrld.html	副所长		中国人民银行金融研究所		4009
+王鹏		4		全国		https://pbocri.org.cn/xrld.html	副所长		中国人民银行金融研究所		4009
+王沛英		5		全国		https://pbocri.org.cn/xrld.html	中国金融学会常务副秘书长		中国人民银行金融研究所		4009

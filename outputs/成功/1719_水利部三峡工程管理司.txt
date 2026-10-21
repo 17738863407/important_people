@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张清勇		1		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	司长		水利部三峡工程管理司		1719
+张云昌		2		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	一级巡视员（正司级）		水利部三峡工程管理司		1719
+任骁军		3		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副司长、一级巡视员		水利部三峡工程管理司		1719
+周秋君		4		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	一级巡视员		水利部三峡工程管理司		1719
+王治华		5		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副司长		水利部三峡工程管理司		1719
+赖红兵		6		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	二级巡视员（副司级）		水利部三峡工程管理司		1719

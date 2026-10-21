@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邹辉东		1		全国		https://www.zrzyst.cn/ldxx/index.jhtml	自然资源部地图技术审查中心主任		自然资源部地图技术审查中心		3410
+王伟		2		全国		https://www.zrzyst.cn/ldxx/index.jhtml	自然资源部地图技术审查中心副主任		自然资源部地图技术审查中心		3410
+季绍鹏		3		全国		https://www.zrzyst.cn/ldxx/index.jhtml	自然资源部地图技术审查中心副主任		自然资源部地图技术审查中心		3410

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于鹏洲		1		天津市		https://whly.tj.gov.cn/ZWGKYXXGK1640/LDXX2118/202312/t20231229_6494732.html	天津市文化和旅游局局长、党组书记，市广播电视局局长（兼）		天津市文化和旅游局		2875
+徐恒秋		2		天津市		https://whly.tj.gov.cn/ZWGKYXXGK1640/LDXX2118/202312/t20231229_6494732.html	天津市文化和旅游局党组副书记、副局长、市文物局局长（兼）、一级巡视员		天津市文化和旅游局	https://whly.tj.gov.cn/ZWGKYXXGK1640/LDXX2118/202008/t20200814_4937653.html	2875
+陈冰		3		天津市		https://whly.tj.gov.cn/ZWGKYXXGK1640/LDXX2118/202312/t20231229_6494732.html	天津市文化和旅游局党组成员、副局长		天津市文化和旅游局	https://whly.tj.gov.cn/ZWGKYXXGK1640/LDXX2118/202009/t20200929_4937657.html	2875
+李茁		4		天津市		https://whly.tj.gov.cn/ZWGKYXXGK1640/LDXX2118/202312/t20231229_6494732.html	天津市文化和旅游局党组成员、副局长		天津市文化和旅游局	https://whly.tj.gov.cn/ZWGKYXXGK1640/LDXX2118/202101/t20210106_5286316.html	2875
+于健		5		天津市		https://whly.tj.gov.cn/ZWGKYXXGK1640/LDXX2118/202312/t20231229_6494732.html	天津市文化和旅游局党组成员、副局长		天津市文化和旅游局	https://whly.tj.gov.cn/ZWGKYXXGK1640/LDXX2118/202406/t20240605_6642373.html	2875
+李学久		6		天津市		https://whly.tj.gov.cn/ZWGKYXXGK1640/LDXX2118/202312/t20231229_6494732.html	天津市文化和旅游局党组成员、市纪委监委驻市文化和旅游局纪检监察组组长		天津市文化和旅游局	https://whly.tj.gov.cn/ZWGKYXXGK1640/LDXX2118/202307/t20230714_6353708.html	2875
+刘桂明		7		天津市		https://whly.tj.gov.cn/ZWGKYXXGK1640/LDXX2118/202312/t20231229_6494732.html	天津市文化和旅游局二级巡视员		天津市文化和旅游局	https://whly.tj.gov.cn/ZWGKYXXGK1640/LDXX2118/202008/t20200814_4937660.html	2875
+周建军		8		天津市		https://whly.tj.gov.cn/ZWGKYXXGK1640/LDXX2118/202312/t20231229_6494732.html	天津市文化和旅游局二级巡视员		天津市文化和旅游局	https://whly.tj.gov.cn/ZWGKYXXGK1640/LDXX2118/202009/t20200929_4937661.html	2875

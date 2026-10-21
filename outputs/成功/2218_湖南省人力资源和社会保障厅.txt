@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李永军		1		湖南省		https://rst.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省人力资源社会保障厅党组书记、厅长		湖南省人力资源和社会保障厅	https://rst.hunan.gov.cn/rst/xxgk/jgzn/jgld/202212/t20221213_29159870.html	2218
+周光明		2		湖南省		https://rst.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省人力资源社会保障厅党组副书记、副厅长		湖南省人力资源和社会保障厅	https://rst.hunan.gov.cn/rst/xxgk/jgzn/jgld/201708/t20170808_4332692.html	2218
+吴开明		3		湖南省		https://rst.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省人力资源社会保障厅党组成员、副厅长		湖南省人力资源和社会保障厅	https://rst.hunan.gov.cn/rst/xxgk/jgzn/jgld/202205/t20220507_24466648.html	2218
+焦华芳		4		湖南省		https://rst.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省人力资源社会保障厅党组成员、副厅长		湖南省人力资源和社会保障厅	https://rst.hunan.gov.cn/rst/xxgk/jgzn/jgld/201911/t20191114_10519434.html	2218
+李日新		5		湖南省		https://rst.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省人力资源社会保障厅党组成员、副厅长		湖南省人力资源和社会保障厅	https://rst.hunan.gov.cn/rst/xxgk/jgzn/jgld/202203/t20220331_22727050.html	2218
+丁兴发		6		湖南省		https://rst.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省人力资源社会保障厅一级巡视员		湖南省人力资源和社会保障厅	https://rst.hunan.gov.cn/rst/xxgk/jgzn/jgld/201905/t20190523_5341011.html	2218
+陈荣鑫		7		湖南省		https://rst.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省就业服务中心党委书记、主任		湖南省人力资源和社会保障厅	https://rst.hunan.gov.cn/rst/xxgk/jgzn/jgld/202405/t20240515_33303251.html	2218
+吴欣		8		湖南省		https://rst.hunan.gov.cn/xxgk/jgzn/jgld/index.html	省社会保险服务中心党委书记、主任		湖南省人力资源和社会保障厅	https://rst.hunan.gov.cn/rst/xxgk/jgzn/jgld/202606/t20260611_33999280.html	2218

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘超		1		青海省		http://gzw.qinghai.gov.cn/cate/lingdao.htm	青海省副省长，省政府党组成员，省国资委党委书记		青海省国有资产监督管理委员会	http://gzw.qinghai.gov.cn/cont/2024/06/06/202406060000005.htm	0846
+肖飞虎		2		青海省		http://gzw.qinghai.gov.cn/cate/lingdao.htm	省国资委党委副书记、主任		青海省国有资产监督管理委员会	http://gzw.qinghai.gov.cn/cont/2024/06/06/202406060000007.htm	0846
+张海满		3		青海省		http://gzw.qinghai.gov.cn/cate/lingdao.htm	省国资委党委委员、副主任		青海省国有资产监督管理委员会	http://gzw.qinghai.gov.cn/cont/2024/06/06/202406060000009.htm	0846
+段革胜		4		青海省		http://gzw.qinghai.gov.cn/cate/lingdao.htm	省国资委党委委员、省纪委监委驻省国资委纪检监察组组长		青海省国有资产监督管理委员会	http://gzw.qinghai.gov.cn/cont/2024/06/06/202406060000010.htm	0846
+田勇		5		青海省		http://gzw.qinghai.gov.cn/cate/lingdao.htm	省国资委党委委员、副主任		青海省国有资产监督管理委员会	http://gzw.qinghai.gov.cn/cont/2024/06/06/202406060000011.htm	0846
+王军		6		青海省		http://gzw.qinghai.gov.cn/cate/lingdao.htm	省国资委党委委员、副主任（援青）		青海省国有资产监督管理委员会	http://gzw.qinghai.gov.cn/cont/2025/08/14/202508140001797.htm	0846
+钟永生		7		青海省		http://gzw.qinghai.gov.cn/cate/lingdao.htm	省国资委党委委员、副主任		青海省国有资产监督管理委员会	http://gzw.qinghai.gov.cn/cont/2025/12/03/202512030002095.htm	0846
+李顺福		8		青海省		http://gzw.qinghai.gov.cn/cate/lingdao.htm	省国资委一级巡视员		青海省国有资产监督管理委员会	http://gzw.qinghai.gov.cn/cont/2024/06/06/202406060000012.htm	0846
+孙守立		9		青海省		http://gzw.qinghai.gov.cn/cate/lingdao.htm	省国资委二级巡视员		青海省国有资产监督管理委员会	http://gzw.qinghai.gov.cn/cont/2024/06/06/202406060000013.htm	0846

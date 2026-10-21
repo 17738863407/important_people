@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+韩龙		1		全国		http://www.bgrimm.com/gywm/jtld/index.htm	党委书记		矿冶科技集团有限公司	https://www.bgrimm.com/gywm/jtld/78b5570a1da1413185a05d2735b34102.htm	3463
+王晓亮		2		全国		http://www.bgrimm.com/gywm/jtld/index.htm	党委副书记、总经理		矿冶科技集团有限公司	https://www.bgrimm.com/gywm/jtld/fce383ef9eed478890d4da79422639ea.htm	3463
+王卫东		3		全国		http://www.bgrimm.com/gywm/jtld/index.htm	党委副书记		矿冶科技集团有限公司	https://www.bgrimm.com/gywm/jtld/6b674e8718ad4ad99b4257e642b1dc84.htm	3463
+邵飞		4		全国		http://www.bgrimm.com/gywm/jtld/index.htm	副总经理		矿冶科技集团有限公司	https://www.bgrimm.com/gywm/jtld/8ab553f7449740e78e58c12b62d22cee.htm	3463
+马彦卿		5		全国		http://www.bgrimm.com/gywm/jtld/index.htm	党委委员、副总经理		矿冶科技集团有限公司	https://www.bgrimm.com/gywm/jtld/46fda69694684960a8357e2b6573769d.htm	3463
+王海北		6		全国		http://www.bgrimm.com/gywm/jtld/index.htm	副总经理		矿冶科技集团有限公司	https://www.bgrimm.com/gywm/jtld/6f5e42a61f594f00bcbcb72e49e61a11.htm	3463
+倪坚		7		全国		http://www.bgrimm.com/gywm/jtld/index.htm	纪委书记		矿冶科技集团有限公司	https://www.bgrimm.com/gywm/jtld/931eedcfb144435294abbf1f6734648e.htm	3463
+尚衍波		8		全国		http://www.bgrimm.com/gywm/jtld/index.htm	副总经理		矿冶科技集团有限公司	https://www.bgrimm.com/gywm/jtld/67559205bc9c43559450d056fcf09e58.htm	3463

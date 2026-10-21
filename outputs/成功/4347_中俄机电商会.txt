@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+石永红		1		全国		https://zhongejd.feishu.cn/wiki/KzMOwTYeXi3zxskamR1cysc0nQg?_refluxos=a10	会长		中俄机电商会		4347
+盛国飞		2		全国		https://zhongejd.feishu.cn/wiki/KzMOwTYeXi3zxskamR1cysc0nQg?_refluxos=a10	副会长；法人代表		中俄机电商会		4347
+赛彤		3		全国		https://zhongejd.feishu.cn/wiki/KzMOwTYeXi3zxskamR1cysc0nQg?_refluxos=a10	秘书长		中俄机电商会		4347

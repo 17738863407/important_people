@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王雪臣		1		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4591291.html	党委书记；主任（社长）		中国气象局气象宣传与科普中心（中国气象报社）		3739
+侯彦斌		2		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4591291.html	副主任（副社长）		中国气象局气象宣传与科普中心（中国气象报社）		3739
+冉瑞奎		3		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4591291.html	副主任（副社长）；总编辑		中国气象局气象宣传与科普中心（中国气象报社）		3739
+李蕊		4		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4591291.html	纪委书记		中国气象局气象宣传与科普中心（中国气象报社）		3739
+张永		5		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4591291.html	副主任（副社长）		中国气象局气象宣传与科普中心（中国气象报社）		3739
+李丹		6		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200801_4591291.html	副总编辑		中国气象局气象宣传与科普中心（中国气象报社）		3739

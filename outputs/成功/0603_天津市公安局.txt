@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王瑛玮		1		天津市		https://ga.tj.gov.cn/xxfb/ldxx/	天津市副市长、市政府党组成员，市委政法委副书记，市公安局党委书记、局长、督察长		天津市公安局	https://ga.tj.gov.cn/xxfb/ldxx/wyw/202407/t20240724_6683362.html	0603
+陈玉东		2		天津市		https://ga.tj.gov.cn/xxfb/ldxx/	天津市公安局党委副书记（正局级）、副局长		天津市公安局	https://ga.tj.gov.cn/xxfb/ldxx/cyd/202206/t20220610_5902406.html	0603
+田寿涛		3		天津市		https://ga.tj.gov.cn/xxfb/ldxx/	天津市公安局党委副书记、副局长、一级警务专员		天津市公安局	https://ga.tj.gov.cn/xxfb/ldxx/tst/202206/t20220610_5902387.html	0603
+周立雄		4		天津市		https://ga.tj.gov.cn/xxfb/ldxx/	天津市公安局党委委员，市公安局特勤局党委书记、局长		天津市公安局	https://ga.tj.gov.cn/xxfb/ldxx/zlx/202311/t20231127_6466714.html	0603
+郑新		5		天津市		https://ga.tj.gov.cn/xxfb/ldxx/	天津市公安局党委委员、市纪委监委驻市公安局纪检监察组组长、二级高级监察官		天津市公安局	https://ga.tj.gov.cn/xxfb/ldxx/zx/202301/t20230105_6069542.html	0603
+魏力		6		天津市		https://ga.tj.gov.cn/xxfb/ldxx/	天津市公安局党委委员、副局长、一级警务专员		天津市公安局	https://ga.tj.gov.cn/xxfb/ldxx/wl/202309/t20230919_6410238.html	0603
+赵刚		7		天津市		https://ga.tj.gov.cn/xxfb/ldxx/	天津市公安局党委委员、副局长、一级警务专员		天津市公安局	https://ga.tj.gov.cn/xxfb/ldxx/zg/202306/t20230602_6265560.html	0603
+于建政		8		天津市		https://ga.tj.gov.cn/xxfb/ldxx/	天津市公安局党委委员、副局长、一级警务专员		天津市公安局	https://ga.tj.gov.cn/xxfb/ldxx/yjz/202309/t20230919_6410243.html	0603
+魏志强		9		天津市		https://ga.tj.gov.cn/xxfb/ldxx/	天津市公安局副局长，滨海新区政府党组成员、副区长，滨海分局党委书记、局长、督察长，滨海新区区委政法委副书记、二级警务专员		天津市公安局	https://ga.tj.gov.cn/xxfb/ldxx/wzq/202309/t20230919_6410247.html	0603
+郝弗非		10		天津市		https://ga.tj.gov.cn/xxfb/ldxx/	天津市公安局副局长、二级警务专员		天津市公安局	https://ga.tj.gov.cn/xxfb/ldxx/hff/202504/t20250416_6908597.html	0603

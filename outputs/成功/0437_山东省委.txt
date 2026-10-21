@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+林武		1		全国		http://district.ce.cn/zt/rwk/sf/sd/index.shtml	省委书记、省人大常委会主任		山东省委	http://district.ce.cn/newarea/sddy/202301/19/t20230119_38355263.shtml	0437
+周乃翔		2		全国		http://district.ce.cn/zt/rwk/sf/sd/index.shtml	省委副书记、省长		山东省委	http://district.ce.cn/newarea/sddy/202110/27/t20211027_37033180.shtml	0437
+刘强		3		全国		http://district.ce.cn/zt/rwk/sf/sd/index.shtml	省委副书记，济南市委书记		山东省委	http://district.ce.cn/newarea/sddy/202607/t20260714_3085958.shtml	0437
+曾赞荣		4		全国		http://district.ce.cn/zt/rwk/sf/sd/index.shtml	省委常委，青岛市委书记		山东省委	http://district.ce.cn/newarea/sddy/202401/20/t20240120_38874238.shtml	0437
+张海波		5		全国		http://district.ce.cn/zt/rwk/sf/sd/index.shtml	省委常委、省政府党组副书记、副省长		山东省委	http://district.ce.cn/newarea/sddy/202403/27/t20240327_38950206.shtml	0437
+邓云锋		6		全国		http://district.ce.cn/zt/rwk/sf/sd/index.shtml	省委常委、统战部部长兼省政协党组副书记		山东省委	http://district.ce.cn/newarea/sddy/202501/18/t20250118_39270568.shtml	0437
+李伟		7		全国		http://district.ce.cn/zt/rwk/sf/sd/index.shtml	省委常委、省纪委书记，省监委主任		山东省委	http://district.ce.cn/newarea/sddy/202602/t20260201_2743428.shtml	0437
+单义		8		全国		http://district.ce.cn/zt/rwk/sf/sd/index.shtml	省委常委、省委秘书长		山东省委	http://district.ce.cn/newarea/sddy/202603/t20260327_2861111.shtml	0437

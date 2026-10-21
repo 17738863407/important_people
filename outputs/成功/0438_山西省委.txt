@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+唐登杰		1		全国		http://district.ce.cn/zt/rwk/sf/sx/index.shtml	省委书记、省人大常委会主任		山西省委	http://district.ce.cn/newarea/sddy/202401/27/t20240127_38883299.shtml	0438
+卢东亮		2		全国		http://district.ce.cn/zt/rwk/sf/sx/index.shtml	省委副书记、省长		山西省委	http://district.ce.cn/newarea/sddy/202506/t20250616_2328686.shtml	0438
+李金科		3		全国		http://district.ce.cn/zt/rwk/sf/sx/index.shtml	省委副书记		山西省委	http://district.ce.cn/newarea/sddy/202609/t20260914_3212802.shtml	0438
+董晓宇		4		全国		http://district.ce.cn/zt/rwk/sf/sx/index.shtml	省委常委、副省长，省政府党组副书记		山西省委	http://district.ce.cn/newarea/sddy/202509/t20250924_2487315.shtml	0438
+汪海洲		5		全国		http://district.ce.cn/zt/rwk/sf/sx/index.shtml	省委常委、副省长		山西省委	http://district.ce.cn/newarea/sddy/202511/t20251127_2605528.shtml	0438
+张碧涌		6		全国		http://district.ce.cn/zt/rwk/sf/sx/index.shtml	省委常委、宣传部部长		山西省委	http://district.ce.cn/newarea/sddy/202501/02/t20250102_39254628.shtml	0438
+赵红严		7		全国		http://district.ce.cn/zt/rwk/sf/sx/index.shtml	省委常委、组织部部长、统战部部长		山西省委	http://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260914_3212846.shtml	0438
+林红玉		8		全国		http://district.ce.cn/zt/rwk/sf/sx/index.shtml	省委常委、太原市委书记		山西省委	http://district.ce.cn/newarea/sddy/202510/t20251017_2523681.shtml	0438
+张韶华		9		全国		http://district.ce.cn/zt/rwk/sf/sx/index.shtml	省委常委、政法委书记		山西省委	http://district.ce.cn/newarea/sddy/202604/t20260414_2903571_3.shtml	0438

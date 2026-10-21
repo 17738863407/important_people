@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄勇		1		广东省		https://dva.gd.gov.cn/gkmlpt/index#2452	广东省退役军人事务厅二级巡视员		广东省退役军人事务厅	https://dva.gd.gov.cn/gkmlpt/content/4/4937/post_4937882.html	0492
+曹华		2		广东省		https://dva.gd.gov.cn/gkmlpt/index#2452	广东省退役军人事务厅二级巡视员		广东省退役军人事务厅	https://dva.gd.gov.cn/gkmlpt/content/4/4937/post_4937881.html	0492
+李鹿伟		3		广东省		https://dva.gd.gov.cn/gkmlpt/index#2452	广东省退役军人事务厅二级巡视员		广东省退役军人事务厅	https://dva.gd.gov.cn/gkmlpt/content/4/4877/post_4877164.html	0492
+王创		4		广东省		https://dva.gd.gov.cn/gkmlpt/index#2452	省退役军人事务厅党组书记、厅长		广东省退役军人事务厅	https://dva.gd.gov.cn/gkmlpt/content/3/3918/post_3918949.html	0492
+李克强		5		广东省		https://dva.gd.gov.cn/gkmlpt/index#2452	广东省退役军人事务厅党组成员、副厅长		广东省退役军人事务厅	https://dva.gd.gov.cn/gkmlpt/content/0/161/post_161051.html	0492
+周紫霄		6		广东省		https://dva.gd.gov.cn/gkmlpt/index#2452	广东省退役军人事务厅党组成员、副厅长		广东省退役军人事务厅	https://dva.gd.gov.cn/gkmlpt/content/4/4746/post_4746549.html	0492
+董仲琪		7		广东省		https://dva.gd.gov.cn/gkmlpt/index#2452	省退役军人事务厅党组成员、副厅长		广东省退役军人事务厅	https://dva.gd.gov.cn/gkmlpt/content/3/3079/post_3079166.html	0492
+张学君		8		广东省		https://dva.gd.gov.cn/gkmlpt/index#2452	省退役军人事务厅党组成员、副厅长		广东省退役军人事务厅	https://dva.gd.gov.cn/gkmlpt/content/4/4257/post_4257892.html	0492

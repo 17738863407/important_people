@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨礼胜		1		全国		https://www.nybkjfzzx.cn/Zxjj.aspx	农业农村部科技发展中心主任、党委副书记		农业农村部科技发展中心		2014
+李岩		2		全国		https://www.nybkjfzzx.cn/Zxjj.aspx	农业农村部科技发展中心党委书记、副主任		农业农村部科技发展中心		2014
+徐利群		3		全国		https://www.nybkjfzzx.cn/Zxjj.aspx	农业农村部科技发展中心副主任		农业农村部科技发展中心		2014
+郑戈		4		全国		https://www.nybkjfzzx.cn/Zxjj.aspx	农业农村部科技发展中心总农艺师		农业农村部科技发展中心		2014
+孙俊立		5		全国		https://www.nybkjfzzx.cn/Zxjj.aspx	农业农村部科技发展中心纪委书记		农业农村部科技发展中心		2014

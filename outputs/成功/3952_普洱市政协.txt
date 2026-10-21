@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张光彦		1		云南省	普洱市	http://pezx.gov.cn/leader/page/zxld.html	政协主席		普洱市政协	http://pezx.gov.cn/leader/page/zxld.html?id=94	3952
+刀锋		2		云南省	普洱市	http://pezx.gov.cn/leader/page/zxld.html	政协副主席		普洱市政协	http://pezx.gov.cn/leader/page/zxld.html?id=11	3952
+何卫		3		云南省	普洱市	http://pezx.gov.cn/leader/page/zxld.html	政协副主席		普洱市政协	http://pezx.gov.cn/leader/page/zxld.html?id=13	3952
+黄鹤		4		云南省	普洱市	http://pezx.gov.cn/leader/page/zxld.html	政协副主席		普洱市政协	http://pezx.gov.cn/leader/page/zxld.html?id=14	3952
+白海思		5		云南省	普洱市	http://pezx.gov.cn/leader/page/zxld.html	政协副主席		普洱市政协	http://pezx.gov.cn/leader/page/zxld.html?id=15	3952
+左应华		6		云南省	普洱市	http://pezx.gov.cn/leader/page/zxld.html	政协副主席		普洱市政协	http://pezx.gov.cn/leader/page/zxld.html?id=19	3952
+陈奇		7		云南省	普洱市	http://pezx.gov.cn/leader/page/zxld.html	政协副主席		普洱市政协	http://pezx.gov.cn/leader/page/zxld.html?id=95	3952
+王国斌		8		云南省	普洱市	http://pezx.gov.cn/leader/page/zxld.html	秘书长		普洱市政协	http://pezx.gov.cn/leader/page/zxld.html?id=16	3952

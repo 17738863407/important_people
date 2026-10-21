@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李平安		1		广西壮族自治区	南宁市	http://wjw.nanning.gov.cn/jgzn/ldjj/	中共南宁市纪律检查委员会、南宁市监察委员会驻南宁市卫生健康委员会纪检监察组组长，南宁市卫生健康委员会党组成员，中共南宁市纪律检查委员会、南宁市监察委员会三级调研员，四级高级监察官		南宁市卫生健康委员会	http://wjw.nanning.gov.cn/jgzn/ldjj/t5993892.html	2900
+李勤		2		广西壮族自治区	南宁市	http://wjw.nanning.gov.cn/jgzn/ldjj/	南宁市卫生健康委员会副主任、二级调研员、党组成员		南宁市卫生健康委员会	http://wjw.nanning.gov.cn/jgzn/ldjj/t1647382.html	2900
+凌宇		3		广西壮族自治区	南宁市	http://wjw.nanning.gov.cn/jgzn/ldjj/	南宁市卫生健康委员会副主任、党组成员		南宁市卫生健康委员会	http://wjw.nanning.gov.cn/jgzn/ldjj/t6441087.html	2900
+陈世海		4		广西壮族自治区	南宁市	http://wjw.nanning.gov.cn/jgzn/ldjj/	南宁市疾病预防控制局专职局长（副处长级），南宁市卫生健康委员会副主任（兼）、三级调研员、党组成员		南宁市卫生健康委员会	http://wjw.nanning.gov.cn/jgzn/ldjj/t5306228.html	2900
+曾嫄艺		5		广西壮族自治区	南宁市	http://wjw.nanning.gov.cn/jgzn/ldjj/	南宁市卫生健康委员会副主任、党组成员		南宁市卫生健康委员会	http://wjw.nanning.gov.cn/jgzn/ldjj/t6176122.html	2900

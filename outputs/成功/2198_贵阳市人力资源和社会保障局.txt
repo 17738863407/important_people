@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邓辉		1		贵州省	贵阳市	https://rsj.guiyang.gov.cn/zfxxgk/fdzdgklm/zfxxgkjggk/ldzc/	中共贵阳市委组织部副部长(兼)，贵阳市人力资源和社会保障局党委书记、局长，一级调研员		贵阳市人力资源和社会保障局	https://rsj.guiyang.gov.cn/zfxxgk/fdzdgklm/zfxxgkjggk/ldzc/202204/t20220401_73215190.html	2198
+唐明鸿		2		贵州省	贵阳市	https://rsj.guiyang.gov.cn/zfxxgk/fdzdgklm/zfxxgkjggk/ldzc/	贵阳市人力资源和社会保障局党委委员、副局长，三级调研员		贵阳市人力资源和社会保障局	https://rsj.guiyang.gov.cn/zfxxgk/fdzdgklm/zfxxgkjggk/ldzc/202608/t20260821_90763222.html	2198
+刘华林		3		贵州省	贵阳市	https://rsj.guiyang.gov.cn/zfxxgk/fdzdgklm/zfxxgkjggk/ldzc/	贵阳市人力资源和社会保障局党委委员、副局长，三级调研员		贵阳市人力资源和社会保障局	https://rsj.guiyang.gov.cn/zfxxgk/fdzdgklm/zfxxgkjggk/ldzc/202204/t20220401_73215064.html	2198
+熊斌		4		贵州省	贵阳市	https://rsj.guiyang.gov.cn/zfxxgk/fdzdgklm/zfxxgkjggk/ldzc/	贵阳市人力资源和社会保障局党委委员、副局长，三级调研员		贵阳市人力资源和社会保障局	https://rsj.guiyang.gov.cn/zfxxgk/fdzdgklm/zfxxgkjggk/ldzc/202204/t20220401_73215026.html	2198
+邱琳		5		贵州省	贵阳市	https://rsj.guiyang.gov.cn/zfxxgk/fdzdgklm/zfxxgkjggk/ldzc/	贵阳市人力资源和社会保障局党委委员、贵阳市社会保险收付管理中心主任，三级调研员		贵阳市人力资源和社会保障局	https://rsj.guiyang.gov.cn/zfxxgk/fdzdgklm/zfxxgkjggk/ldzc/202311/t20231128_83153179.html	2198
+龙宪洪		6		贵州省	贵阳市	https://rsj.guiyang.gov.cn/zfxxgk/fdzdgklm/zfxxgkjggk/ldzc/	贵阳市人力资源和社会保障局党委委员，三级调研员		贵阳市人力资源和社会保障局	https://rsj.guiyang.gov.cn/zfxxgk/fdzdgklm/zfxxgkjggk/ldzc/202311/t20231128_83153168.html	2198

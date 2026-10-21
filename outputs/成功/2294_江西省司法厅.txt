@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+龚惠民		1		江西省		http://sf.jiangxi.gov.cn/jxssft/col/col5077/content/content_1863607026837585920.html	省司法厅党组书记、厅长，省监狱管理局第一政委		江西省司法厅		2294
+周靖		2		江西省		http://sf.jiangxi.gov.cn/jxssft/col/col5077/content/content_1863607026837585920.html	省司法厅党组成员、副厅长		江西省司法厅		2294
+刘蕴怡		3		江西省		http://sf.jiangxi.gov.cn/jxssft/col/col5077/content/content_1863607026837585920.html	省司法厅党组成员、副厅长		江西省司法厅		2294
+邱荣飞		4		江西省		http://sf.jiangxi.gov.cn/jxssft/col/col5077/content/content_1863607026837585920.html	省司法厅一级巡视员		江西省司法厅		2294
+吴鹏		5		江西省		http://sf.jiangxi.gov.cn/jxssft/col/col5077/content/content_1863607026837585920.html	省司法厅二级巡视员		江西省司法厅		2294

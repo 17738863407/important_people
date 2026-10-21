@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+程伟		1		重庆市		https://mzzjw.cq.gov.cn/zwgk_188/zfxxgkml/jgzn_1/wap.html	市委统战部副部长，市民族宗教委党组书记		重庆市民族宗教事务委员会	https://mzzjw.cq.gov.cn/zwgk_188/zfxxgkml/jgzn_1/fzrxx/202409/t20240911_13616076.html	1819
+刘良翠		2		重庆市		https://mzzjw.cq.gov.cn/zwgk_188/zfxxgkml/jgzn_1/wap.html	市民族宗教委主任		重庆市民族宗教事务委员会	https://mzzjw.cq.gov.cn/zwgk_188/zfxxgkml/jgzn_1/fzrxx/202609/t20260930_16170395.html	1819
+廖春红		3		重庆市		https://mzzjw.cq.gov.cn/zwgk_188/zfxxgkml/jgzn_1/wap.html	市民族宗教委党组成员、副主任		重庆市民族宗教事务委员会	https://mzzjw.cq.gov.cn/zwgk_188/zfxxgkml/jgzn_1/fzrxx/202409/t20240911_13616119.html	1819
+周先常		4		重庆市		https://mzzjw.cq.gov.cn/zwgk_188/zfxxgkml/jgzn_1/wap.html	市民族宗教委党组成员、副主任		重庆市民族宗教事务委员会	https://mzzjw.cq.gov.cn/zwgk_188/zfxxgkml/jgzn_1/fzrxx/202409/t20240911_13616121.html	1819
+石泽林		5		重庆市		https://mzzjw.cq.gov.cn/zwgk_188/zfxxgkml/jgzn_1/wap.html	市民族宗教委党组成员、副主任		重庆市民族宗教事务委员会	https://mzzjw.cq.gov.cn/zwgk_188/zfxxgkml/jgzn_1/fzrxx/202607/t20260720_15833058.html	1819
+雷文睿		6		重庆市		https://mzzjw.cq.gov.cn/zwgk_188/zfxxgkml/jgzn_1/wap.html	市民族宗教委一级巡视员		重庆市民族宗教事务委员会	https://mzzjw.cq.gov.cn/zwgk_188/zfxxgkml/jgzn_1/fzrxx/202504/t20250414_14518100.html	1819

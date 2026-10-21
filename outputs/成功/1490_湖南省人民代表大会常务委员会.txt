@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+沈晓明		1		全国		https://m.hnrd.gov.cn/channel/16106.html	省委书记、省人大常委会主任		湖南省人民代表大会常务委员会	https://m.hnrd.gov.cn/leader-new/hnrd_leader_new.html?leaderId=31115	1490
+吴桂英		2		全国		https://m.hnrd.gov.cn/channel/16106.html	省人大常委会党组书记、副主任		湖南省人民代表大会常务委员会	https://m.hnrd.gov.cn/leader-new/hnrd_leader_new.html?leaderId=34010	1490
+杨浩东		3		全国		https://m.hnrd.gov.cn/channel/16106.html	省人大常委会党组副书记、副主任，省总工会主席		湖南省人民代表大会常务委员会	https://m.hnrd.gov.cn/leader-new/hnrd_leader_new.html?leaderId=32628	1490
+陈飞		4		全国		https://m.hnrd.gov.cn/channel/16106.html	省人大常委会党组成员、副主任		湖南省人民代表大会常务委员会	https://m.hnrd.gov.cn/leader-new/hnrd_leader_new.html?leaderId=29390	1490
+胡旭晟		5		全国		https://m.hnrd.gov.cn/channel/16106.html	省人大常委会副主任		湖南省人民代表大会常务委员会	https://m.hnrd.gov.cn/leader-new/hnrd_leader_new.html?leaderId=29393	1490
+王晓科		6		全国		https://m.hnrd.gov.cn/channel/16106.html	省人大常委会党组成员、秘书长		湖南省人民代表大会常务委员会	https://m.hnrd.gov.cn/leader-new/hnrd_leader_new.html?leaderId=29127	1490

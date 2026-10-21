@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡海鹰		1		全国		http://microsate.cas.cn/jggk/xrld/	院长/ 主任		中国科学院微小卫星创新研究院		4100
+舒嵘		2		全国		http://microsate.cas.cn/jggk/xrld/	党委书记、副院长		中国科学院微小卫星创新研究院		4100
+尹增山		3		全国		http://microsate.cas.cn/jggk/xrld/	副院长		中国科学院微小卫星创新研究院		4100
+张永合		4		全国		http://microsate.cas.cn/jggk/xrld/	副院长		中国科学院微小卫星创新研究院		4100
+罗琦		5		全国		http://microsate.cas.cn/jggk/xrld/	纪委书记		中国科学院微小卫星创新研究院		4100

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李勇刚		1		全国		https://www.moj.gov.cn/jgsz/jgszjgtj/jgtjzzb/	副主任兼人事警务局局长		司法部政治部		1666
+何永诚		2		全国		https://www.moj.gov.cn/jgsz/jgszjgtj/jgtjzzb/	副主任		司法部政治部		1666
+凌瑾		3		全国		https://www.moj.gov.cn/jgsz/jgszjgtj/jgtjzzb/	副主任		司法部政治部		1666
+张磊		4		全国		https://www.moj.gov.cn/jgsz/jgszjgtj/jgtjzzb/	副主任		司法部政治部		1666
+沈全生		5		全国		https://www.moj.gov.cn/jgsz/jgszjgtj/jgtjzzb/	党组巡视工作领导小组办公室副主任		司法部政治部		1666

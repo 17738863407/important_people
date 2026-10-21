@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孟和		1		内蒙古自治区		https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/	厅党委书记、厅长，内蒙古消防救援总队第一政委		内蒙古自治区应急管理厅	https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/202607/t20260727_2933296.html	3213
+张维权		2		内蒙古自治区		https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/	厅党委委员、副厅长，内蒙古消防救援机动总队总队长		内蒙古自治区应急管理厅	https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/202607/t20260727_2933295.html	3213
+张生华		3		内蒙古自治区		https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/	厅党委委员、副厅长，内蒙古消防救援总队总队长		内蒙古自治区应急管理厅	https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/202607/t20260727_2933294.html	3213
+田一军		4		内蒙古自治区		https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/	厅党委委员、副厅长，内蒙古自治区矿山安全监管局局长		内蒙古自治区应急管理厅	https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/202607/t20260727_2933293.html	3213
+梁天元		5		内蒙古自治区		https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/	厅党委委员、驻厅纪检监察组组长		内蒙古自治区应急管理厅	https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/202607/t20260727_2933292.html	3213
+邢国显		6		内蒙古自治区		https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/	厅党委委员、副厅长		内蒙古自治区应急管理厅	https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/202607/t20260727_2933291.html	3213
+冀文明		7		内蒙古自治区		https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/	厅党委委员、副厅长		内蒙古自治区应急管理厅	https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/202607/t20260727_2933290.html	3213
+李树森		8		内蒙古自治区		https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/	厅党委委员、副厅长		内蒙古自治区应急管理厅	https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/202607/t20260727_2933289.html	3213
+肖丹		9		内蒙古自治区		https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/	厅党委委员、副厅长		内蒙古自治区应急管理厅	https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/202607/t20260727_2933288.html	3213
+杨存贵		10		内蒙古自治区		https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/	厅党委委员、政治部主任		内蒙古自治区应急管理厅	https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/202607/t20260727_2933287.html	3213
+姜德明		11		内蒙古自治区		https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/	厅一级巡视员		内蒙古自治区应急管理厅	https://yjglt.nmg.gov.cn/zwgk/202zzjg/ldjj2021/202607/t20260727_2933286.html	3213

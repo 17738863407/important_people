@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+任献光		1		全国		https://www.neac.gov.cn/seac/mwjs/201805/1009179.shtml	司长		国家民族事务委员会共同发展司		1857
+舒扬文		2		全国		https://www.neac.gov.cn/seac/mwjs/201805/1009179.shtml	副司长		国家民族事务委员会共同发展司		1857
+孙同宇		3		全国		https://www.neac.gov.cn/seac/mwjs/201805/1009179.shtml	副司长		国家民族事务委员会共同发展司		1857
+朱卫东		4		全国		https://www.neac.gov.cn/seac/mwjs/201805/1009179.shtml	一级巡视员		国家民族事务委员会共同发展司		1857

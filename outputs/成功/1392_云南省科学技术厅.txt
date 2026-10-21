@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高俊		1		云南省		https://kjt.yn.gov.cn/zfxxgkpt/fdzdgknr/jgzn/	党组书记、厅长		云南省科学技术厅	https://kjt.yn.gov.cn/zfxxgkpt/fdzdgknr/ldcy/202501/t20250122_3200291.html	1392
+何革伟		2		云南省		https://kjt.yn.gov.cn/zfxxgkpt/fdzdgknr/jgzn/	党组成员、副厅长		云南省科学技术厅	https://kjt.yn.gov.cn/zfxxgkpt/fdzdgknr/ldcy/202501/t20250122_3200290.html	1392
+尚朝秋		3		云南省		https://kjt.yn.gov.cn/zfxxgkpt/fdzdgknr/jgzn/	党组成员、副厅长		云南省科学技术厅	https://kjt.yn.gov.cn/zfxxgkpt/fdzdgknr/ldcy/202412/t20241225_3200289.html	1392
+侯玉萍		4		云南省		https://kjt.yn.gov.cn/zfxxgkpt/fdzdgknr/jgzn/	党组成员、驻厅纪检监察组组长		云南省科学技术厅	https://kjt.yn.gov.cn/zfxxgkpt/fdzdgknr/ldcy/202407/t20240702_3200288.html	1392
+胡启相		5		云南省		https://kjt.yn.gov.cn/zfxxgkpt/fdzdgknr/jgzn/	党组成员、云南省科学技术院院长		云南省科学技术厅	https://kjt.yn.gov.cn/zfxxgkpt/fdzdgknr/ldcy/202407/t20240702_3200287.html	1392
+宋光兴		6		云南省		https://kjt.yn.gov.cn/zfxxgkpt/fdzdgknr/jgzn/	一级巡视员		云南省科学技术厅	https://kjt.yn.gov.cn/zfxxgkpt/fdzdgknr/ldcy/202510/t20251015_3200286.html	1392

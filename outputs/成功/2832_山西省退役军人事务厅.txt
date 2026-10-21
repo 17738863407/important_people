@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周方志		1		山西省		http://tyjrt.shanxi.gov.cn/jg_1164/ldzc_1173/	党组书记、厅长		山西省退役军人事务厅		2832
+范裕民		2		山西省		http://tyjrt.shanxi.gov.cn/jg_1164/ldzc_1173/	党组成员、副厅长、一级巡视员		山西省退役军人事务厅		2832
+梁铁政		3		山西省		http://tyjrt.shanxi.gov.cn/jg_1164/ldzc_1173/	党组成员、副厅长		山西省退役军人事务厅		2832
+李耿为		4		山西省		http://tyjrt.shanxi.gov.cn/jg_1164/ldzc_1173/	驻厅纪检监察组组长、党组成员		山西省退役军人事务厅		2832
+胡兴才		5		山西省		http://tyjrt.shanxi.gov.cn/jg_1164/ldzc_1173/	党组成员、副厅长		山西省退役军人事务厅		2832
+吴国华		6		山西省		http://tyjrt.shanxi.gov.cn/jg_1164/ldzc_1173/	二级巡视员		山西省退役军人事务厅		2832
+蔚利洲		7		山西省		http://tyjrt.shanxi.gov.cn/jg_1164/ldzc_1173/	二级巡视员		山西省退役军人事务厅		2832
+赵士学		8		山西省		http://tyjrt.shanxi.gov.cn/jg_1164/ldzc_1173/	二级巡视员		山西省退役军人事务厅		2832
+袁红		9		山西省		http://tyjrt.shanxi.gov.cn/jg_1164/ldzc_1173/	二级巡视员		山西省退役军人事务厅		2832

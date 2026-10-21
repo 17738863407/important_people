@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+金汇江		1		天津市		https://nync.tj.gov.cn/ZWGK0/ZFXXGK152022/FDZDGKNR152041/LDXX152042/	市委委员、市委农办主任、党委书记、主任（局长）		天津市农业农村委员会	https://nync.tj.gov.cn/ZWGK0/LDXX152022/202207/t20220727_5943573.html	2031
+陈汝军		2		天津市		https://nync.tj.gov.cn/ZWGK0/ZFXXGK152022/FDZDGKNR152041/LDXX152042/	党委委员、副主任（副局长）、一级巡视员，市政协农业农村委副主任		天津市农业农村委员会	https://nync.tj.gov.cn/ZWGK0/LDXX152022/202012/t20201204_5645018.html	2031
+王桂山		3		天津市		https://nync.tj.gov.cn/ZWGK0/ZFXXGK152022/FDZDGKNR152041/LDXX152042/	党委委员，副主任（副局长）、一级巡视员		天津市农业农村委员会	https://nync.tj.gov.cn/ZWGK0/LDXX152022/202607/t20260708_7332265.html	2031
+王志林		4		天津市		https://nync.tj.gov.cn/ZWGK0/ZFXXGK152022/FDZDGKNR152041/LDXX152042/	党委委员、副主任（副局长）		天津市农业农村委员会	https://nync.tj.gov.cn/ZWGK0/LDXX152022/202012/t20201204_5645020.html	2031
+王学忠		5		天津市		https://nync.tj.gov.cn/ZWGK0/ZFXXGK152022/FDZDGKNR152041/LDXX152042/	党委委员、副主任（副局长）		天津市农业农村委员会	https://nync.tj.gov.cn/ZWGK0/LDXX152022/202601/t20260106_7215485.html	2031
+杜士良		6		天津市		https://nync.tj.gov.cn/ZWGK0/ZFXXGK152022/FDZDGKNR152041/LDXX152042/	党委委员、市纪委监委驻市农业农村委员会纪检监察组组长、二级高级监察官		天津市农业农村委员会	https://nync.tj.gov.cn/ZWGK0/LDXX152022/202409/t20240912_6725864.html	2031

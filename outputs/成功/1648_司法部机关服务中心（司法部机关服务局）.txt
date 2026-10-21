@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘建东		1		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwjgfwqzx/	副主任（副局长）		司法部机关服务中心（司法部机关服务局）		1648
+蔡建华		2		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwjgfwqzx/	副主任（副局长）		司法部机关服务中心（司法部机关服务局）		1648
+韩天生		3		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwjgfwqzx/	副主任（副局长）		司法部机关服务中心（司法部机关服务局）		1648
+包永平		4		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwjgfwqzx/	副主任（副局长）		司法部机关服务中心（司法部机关服务局）		1648

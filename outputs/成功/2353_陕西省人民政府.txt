@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵刚		1		全国		https://www.shaanxi.gov.cn/zfxxgk/fdzdgknr/szfld/	省委副书记、省长		陕西省人民政府	https://www.shaanxi.gov.cn/szf/szfld/zg/	2353
+王晓		2		全国		https://www.shaanxi.gov.cn/zfxxgk/fdzdgknr/szfld/	省委常委、常务...		陕西省人民政府	https://www.shaanxi.gov.cn/szf/szfld/wx/	2353
+戴彬彬		3		全国		https://www.shaanxi.gov.cn/zfxxgk/fdzdgknr/szfld/	副省长		陕西省人民政府	https://www.shaanxi.gov.cn/szf/szfld/dss/	2353
+徐明非		4		全国		https://www.shaanxi.gov.cn/zfxxgk/fdzdgknr/szfld/	副省长		陕西省人民政府	https://www.shaanxi.gov.cn/szf/szfld/xmf/	2353
+武文罡		5		全国		https://www.shaanxi.gov.cn/zfxxgk/fdzdgknr/szfld/	副省长		陕西省人民政府	https://www.shaanxi.gov.cn/szf/szfld/wwg/	2353
+于平		6		全国		https://www.shaanxi.gov.cn/zfxxgk/fdzdgknr/szfld/	副省长		陕西省人民政府	https://www.shaanxi.gov.cn/szf/szfld/yp/	2353
+吕来升		7		全国		https://www.shaanxi.gov.cn/zfxxgk/fdzdgknr/szfld/	省政府秘书长		陕西省人民政府	https://www.shaanxi.gov.cn/szf/szfld/lls/	2353

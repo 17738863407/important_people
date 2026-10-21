@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王新伟		1		全国		https://www.ln.gov.cn/web/zwgkx/zfld/index.shtml	省长		辽宁省人民政府	https://www.ln.gov.cn/web/zwgkx/zfld/wxw/index.shtml	1425
+张立林		2		全国		https://www.ln.gov.cn/web/zwgkx/zfld/index.shtml	副省长		辽宁省人民政府	https://www.ln.gov.cn/web/zwgkx/zfld/zzx_139125/index.shtml	1425
+王利波		3		全国		https://www.ln.gov.cn/web/zwgkx/zfld/index.shtml	副省长		辽宁省人民政府	https://www.ln.gov.cn/web/zwgkx/zfld/gcy_fsz/index.shtml	1425
+楚天运		4		全国		https://www.ln.gov.cn/web/zwgkx/zfld/index.shtml	副省长		辽宁省人民政府	https://www.ln.gov.cn/web/zwgkx/zfld/cty_fsz/index.shtml	1425
+吴春耕		5		全国		https://www.ln.gov.cn/web/zwgkx/zfld/index.shtml	副省长		辽宁省人民政府	https://www.ln.gov.cn/web/zwgkx/zfld/wcg_fsz/index.shtml	1425
+顾军		6		全国		https://www.ln.gov.cn/web/zwgkx/zfld/index.shtml	副省长		辽宁省人民政府	https://www.ln.gov.cn/web/zwgkx/zfld/gj_fsz/index.shtml	1425
+白英		7		全国		https://www.ln.gov.cn/web/zwgkx/zfld/index.shtml	副省长		辽宁省人民政府	https://www.ln.gov.cn/web/zwgkx/zfld/by/index.shtml	1425
+任开斌		8		全国		https://www.ln.gov.cn/web/zwgkx/zfld/index.shtml	副省长		辽宁省人民政府	https://www.ln.gov.cn/web/zwgkx/zfld/rkb_dzcy/index.shtml	1425
+赵颖		9		全国		https://www.ln.gov.cn/web/zwgkx/zfld/index.shtml	秘书长		辽宁省人民政府	https://www.ln.gov.cn/web/zwgkx/zfld/fsq_msz/index.shtml	1425

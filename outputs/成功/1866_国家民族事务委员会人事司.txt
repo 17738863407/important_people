@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郭建民		1		全国		https://www.neac.gov.cn/seac/mwjs/201805/1009186.shtml	司长		国家民族事务委员会人事司		1866
+边旭东		2		全国		https://www.neac.gov.cn/seac/mwjs/201805/1009186.shtml	副司长		国家民族事务委员会人事司		1866
+董晓鹏		3		全国		https://www.neac.gov.cn/seac/mwjs/201805/1009186.shtml	副司长		国家民族事务委员会人事司		1866

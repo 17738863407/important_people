@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李福荣		1		全国		https://www.nmpaic.org.cn/yjgywm/yjldxx/	中心党委书记、副主任		国家药品监督管理局信息中心（中国食品药品监管数据中心）		1959
+陈锋		2		全国		https://www.nmpaic.org.cn/yjgywm/yjldxx/	中心主任、党委副书记		国家药品监督管理局信息中心（中国食品药品监管数据中心）		1959
+曹晨光		3		全国		https://www.nmpaic.org.cn/yjgywm/yjldxx/	中心党委副书记、副主任		国家药品监督管理局信息中心（中国食品药品监管数据中心）		1959
+张艳琴		4		全国		https://www.nmpaic.org.cn/yjgywm/yjldxx/	中心党委委员、纪委书记		国家药品监督管理局信息中心（中国食品药品监管数据中心）		1959
+李南		5		全国		https://www.nmpaic.org.cn/yjgywm/yjldxx/	中心党委委员、副主任		国家药品监督管理局信息中心（中国食品药品监管数据中心）		1959
+戚柳彬		6		全国		https://www.nmpaic.org.cn/yjgywm/yjldxx/	中心党委委员、副主任		国家药品监督管理局信息中心（中国食品药品监管数据中心）		1959

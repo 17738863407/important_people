@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈刚		1		全国		http://district.ce.cn/zt/rwk/sf/gx/index.shtml	党委书记、区人大常委会主任		广西壮族自治区党委	http://district.ce.cn/newarea/sddy/202501/17/t20250117_39269549.shtml	0419
+韦韬		2		全国		http://district.ce.cn/zt/rwk/sf/gx/index.shtml	党委副书记、主席		广西壮族自治区党委	http://district.ce.cn/newarea/sddy/202507/t20250718_2412384.shtml	0419
+王心富		3		全国		http://district.ce.cn/zt/rwk/sf/gx/index.shtml	党委副书记		广西壮族自治区党委	http://district.ce.cn/newarea/sddy/202609/t20260921_3227917.shtml	0419
+陈奕君		4		全国		http://district.ce.cn/zt/rwk/sf/gx/index.shtml	党委常委、宣传部部长		广西壮族自治区党委	http://district.ce.cn/newarea/sddy/202305/24/t20230524_38560138.shtml	0419
+蔡允革		5		全国		http://district.ce.cn/zt/rwk/sf/gx/index.shtml	党委常委、常务副主席		广西壮族自治区党委	http://district.ce.cn/newarea/sddy/202602/t20260201_2743346.shtml	0419
+卢新宁		6		全国		http://district.ce.cn/zt/rwk/sf/gx/index.shtml	党委常委、副主席		广西壮族自治区党委	http://district.ce.cn/newarea/sddy/202408/31/t20240831_39123817.shtml	0419
+苗庆旺		7		全国		http://district.ce.cn/zt/rwk/sf/gx/index.shtml	党委常委、政法委书记		广西壮族自治区党委	http://district.ce.cn/newarea/sddy/202407/15/t20240715_39070500.shtml	0419
+谭丕创		8		全国		http://district.ce.cn/zt/rwk/sf/gx/index.shtml	党委常委、统战部部长，南宁市委书记		广西壮族自治区党委	http://district.ce.cn/newarea/sddy/202610/t20261010_3253445.shtml	0419
+廖志伟		9		全国		http://district.ce.cn/zt/rwk/sf/gx/index.shtml	党委常委、秘书长		广西壮族自治区党委	http://district.ce.cn/newarea/sddy/202609/t20260924_3234992.shtml	0419
+张冬云		10		全国		http://district.ce.cn/zt/rwk/sf/gx/index.shtml	党委常委、纪委书记，省监委代主任		广西壮族自治区党委	http://district.ce.cn/newarea/sddy/202609/t20260924_3234273.shtml	0419
+刘艳红		11		全国		http://district.ce.cn/zt/rwk/sf/gx/index.shtml	党委常委、组织部部长		广西壮族自治区党委	http://district.ce.cn/newarea/sddy/202610/t20261012_3254420.shtml	0419

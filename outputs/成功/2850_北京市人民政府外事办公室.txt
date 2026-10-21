@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄依华		1		北京市		https://wb.beijing.gov.cn/home/zwxx/jgzn/wbld/201912/t20191218_1257217.html	市委外办、市政府外办（市政府港澳办）主任		北京市人民政府外事办公室		2850
+李辉		2		北京市		https://wb.beijing.gov.cn/home/zwxx/jgzn/wbld/201912/t20191218_1257217.html	市委外办、市政府外办（市政府港澳办）副主任、一级巡视员		北京市人民政府外事办公室	https://wb.beijing.gov.cn/home/zwxx/jgzn/wbld/201912/t20191218_1257261.html	2850
+于海永		3		北京市		https://wb.beijing.gov.cn/home/zwxx/jgzn/wbld/201912/t20191218_1257217.html	市委外办、市政府外办（市政府港澳办）副主任		北京市人民政府外事办公室	https://wb.beijing.gov.cn/home/zwxx/jgzn/wbld/202004/t20200413_1802980.html	2850
+申玉彪		4		北京市		https://wb.beijing.gov.cn/home/zwxx/jgzn/wbld/201912/t20191218_1257217.html	市委外办、市政府外办（市政府港澳办）副主任（试用期一年）		北京市人民政府外事办公室	https://wb.beijing.gov.cn/home/zwxx/jgzn/wbld/202506/t20250610_4110496.html	2850

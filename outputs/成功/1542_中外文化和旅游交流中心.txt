@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张维国		1		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202607/t20260714_966522.htm	主任		中外文化和旅游交流中心		1542
+宋伟		2		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202607/t20260714_966522.htm	副主任		中外文化和旅游交流中心		1542
+孟宪璋		3		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202607/t20260714_966522.htm	副主任		中外文化和旅游交流中心		1542

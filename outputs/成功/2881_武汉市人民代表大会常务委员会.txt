@@ -1,0 +1,8 @@
+﻿姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡立山		1		湖北省	武汉市	http://www.whrd.gov.cn/html/rdgl/srdcwh/cwhld/index.html	党组书记、主任		武汉市人民代表大会常务委员会		2881
+彭胜坤		2		湖北省	武汉市	http://www.whrd.gov.cn/html/rdgl/srdcwh/cwhld/index.html	党组副书记		武汉市人民代表大会常务委员会		2881
+杨相卫		3		湖北省	武汉市	http://www.whrd.gov.cn/html/rdgl/srdcwh/cwhld/index.html	党组成员、副主任		武汉市人民代表大会常务委员会		2881
+徐丽		4		湖北省	武汉市	http://www.whrd.gov.cn/html/rdgl/srdcwh/cwhld/index.html	党组成员、副主任		武汉市人民代表大会常务委员会		2881
+余从斌		5		湖北省	武汉市	http://www.whrd.gov.cn/html/rdgl/srdcwh/cwhld/index.html	党组成员、副主任		武汉市人民代表大会常务委员会		2881
+穆书芹		6		湖北省	武汉市	http://www.whrd.gov.cn/html/rdgl/srdcwh/cwhld/index.html	副主任		武汉市人民代表大会常务委员会		2881
+张海涛		7		湖北省	武汉市	http://www.whrd.gov.cn/html/rdgl/srdcwh/cwhld/index.html	党组成员、秘书长		武汉市人民代表大会常务委员会		2881

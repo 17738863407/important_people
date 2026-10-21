@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张炳智		1		全国		https://www.clspi.org.cn/html/1307/	规划院党委书记、院长		中国国土勘测规划院		0250
+宋海荣		2		全国		https://www.clspi.org.cn/html/1307/	规划院党委委员、副院长		中国国土勘测规划院		0250
+郭旭东		3		全国		https://www.clspi.org.cn/html/1307/	规划院党委委员、副院长兼总工程师		中国国土勘测规划院		0250
+康君录		4		全国		https://www.clspi.org.cn/html/1307/	规划院党委委员、纪委书记		中国国土勘测规划院		0250
+杨红		5		全国		https://www.clspi.org.cn/html/1307/	规划院副院长		中国国土勘测规划院		0250
+刘海丽		6		全国		https://www.clspi.org.cn/html/1307/	规划院副院长		中国国土勘测规划院		0250
+刘松影		7		全国		https://www.clspi.org.cn/html/1307/	规划院党委委员、专职副书记		中国国土勘测规划院		0250

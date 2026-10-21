@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李井山		1		辽宁省	大连市	https://kjj.dl.gov.cn/col/col9095/index.html?vc_xxgkarea=2102000018&number=DL014&jh=263	党组成员、副局长（副厅级）		大连市科学技术局	https://kjj.dl.gov.cn/art/2026/9/8/art_9096_2534544.html	1356
+原驰		2		辽宁省	大连市	https://kjj.dl.gov.cn/col/col9095/index.html?vc_xxgkarea=2102000018&number=DL014&jh=263	一级巡视员		大连市科学技术局	https://kjj.dl.gov.cn/art/2026/9/8/art_9096_2086921.html	1356
+蒋行海		3		辽宁省	大连市	https://kjj.dl.gov.cn/col/col9095/index.html?vc_xxgkarea=2102000018&number=DL014&jh=263	党组成员、副局长		大连市科学技术局	https://kjj.dl.gov.cn/art/2026/9/8/art_9096_2086920.html	1356
+赵宏志		4		辽宁省	大连市	https://kjj.dl.gov.cn/col/col9095/index.html?vc_xxgkarea=2102000018&number=DL014&jh=263	党组成员、副局长		大连市科学技术局	https://kjj.dl.gov.cn/art/2026/9/8/art_9096_2086918.html	1356
+王雁盛		5		辽宁省	大连市	https://kjj.dl.gov.cn/col/col9095/index.html?vc_xxgkarea=2102000018&number=DL014&jh=263	党组成员、副局长		大连市科学技术局	https://kjj.dl.gov.cn/art/2026/9/8/art_9096_2323370.html	1356
+张力夫		6		辽宁省	大连市	https://kjj.dl.gov.cn/col/col9095/index.html?vc_xxgkarea=2102000018&number=DL014&jh=263	党组成员、市创新创业创投服务中心主任		大连市科学技术局	https://kjj.dl.gov.cn/art/2026/9/8/art_9096_2091182.html	1356

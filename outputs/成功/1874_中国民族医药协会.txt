@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李文亮		1		全国		https://www.neac.gov.cn/seac/mwjs/mzyy/jgrysz.shtml	会长、法定代表人；国家民委原专职委员		中国民族医药协会		1874
+田联刚		2		全国		https://www.neac.gov.cn/seac/mwjs/mzyy/jgrysz.shtml	副会长；国家民委原教育科技司司长，已退休（兼秘书长）		中国民族医药协会		1874
+王许飞		3		全国		https://www.neac.gov.cn/seac/mwjs/mzyy/jgrysz.shtml	副会长；桂林三金药业股份有限公司总裁		中国民族医药协会		1874
+仲格嘉		4		全国		https://www.neac.gov.cn/seac/mwjs/mzyy/jgrysz.shtml	副会长；中国臧学研究中心北京藏医院院长		中国民族医药协会		1874
+刘吉开		5		全国		https://www.neac.gov.cn/seac/mwjs/mzyy/jgrysz.shtml	副会长；中南民大药学院院长		中国民族医药协会		1874
+张金东		6		全国		https://www.neac.gov.cn/seac/mwjs/mzyy/jgrysz.shtml	副会长；宁夏张氏正骨医院院长		中国民族医药协会		1874
+阿南达		7		全国		https://www.neac.gov.cn/seac/mwjs/mzyy/jgrysz.shtml	副会长；北京阿南达蒙医医院院长		中国民族医药协会		1874
+陈彬		8		全国		https://www.neac.gov.cn/seac/mwjs/mzyy/jgrysz.shtml	副会长；云南省食品药品监督检验研究院原党委书记（已退休）		中国民族医药协会		1874
+姜伟		9		全国		https://www.neac.gov.cn/seac/mwjs/mzyy/jgrysz.shtml	副会长；贵州百灵集团董事长		中国民族医药协会		1874
+秦玉东		10		全国		https://www.neac.gov.cn/seac/mwjs/mzyy/jgrysz.shtml	副会长；北京蒙一堂院长		中国民族医药协会		1874
+奥乌力吉		11		全国		https://www.neac.gov.cn/seac/mwjs/mzyy/jgrysz.shtml	副会长；内蒙古蒙医药工程技术研究院院长		中国民族医药协会		1874

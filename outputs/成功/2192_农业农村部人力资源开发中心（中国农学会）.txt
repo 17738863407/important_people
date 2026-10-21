@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘瑞明		1		全国		https://www.rlzy.moahr.cn/zzjg/zyld/index.htm	党委书记、副主任、副秘书长		农业农村部人力资源开发中心（中国农学会）	https://www.rlzy.moahr.cn/zzjg/zyld/4cff9ddda030449b9f7bd49f59cba3d8.htm	2192
+杨国兴		2		全国		https://www.rlzy.moahr.cn/zzjg/zyld/index.htm	党委副书记、副秘书长		农业农村部人力资源开发中心（中国农学会）	https://www.rlzy.moahr.cn/zzjg/zyld/5946a8e7abca4cb0a9a636e795cd42a7.htm	2192
+牛敏杰		3		全国		https://www.rlzy.moahr.cn/zzjg/zyld/index.htm	纪委书记、副秘书长		农业农村部人力资源开发中心（中国农学会）	https://www.rlzy.moahr.cn/zzjg/zyld/f5c4b3b11c1744e28e58c26d51fa9779.htm	2192

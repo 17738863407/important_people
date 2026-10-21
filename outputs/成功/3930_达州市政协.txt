@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡杰		1		四川省	达州市	http://www.dzzx.gov.cn/show_news.php?ID=4	主席		达州市政协		3930
+蒲春天		2		四川省	达州市	http://www.dzzx.gov.cn/show_news.php?ID=4	副主席		达州市政协		3930
+张永霞		3		四川省	达州市	http://www.dzzx.gov.cn/show_news.php?ID=4	副主席		达州市政协		3930
+廖清江		4		四川省	达州市	http://www.dzzx.gov.cn/show_news.php?ID=4	副主席		达州市政协		3930
+戴婕		5		四川省	达州市	http://www.dzzx.gov.cn/show_news.php?ID=4	副主席		达州市政协		3930
+汪涛		6		四川省	达州市	http://www.dzzx.gov.cn/show_news.php?ID=4	副主席		达州市政协		3930
+翟朝晖		7		四川省	达州市	http://www.dzzx.gov.cn/show_news.php?ID=4	副主席		达州市政协		3930
+王跃		8		四川省	达州市	http://www.dzzx.gov.cn/show_news.php?ID=4	副主席		达州市政协		3930
+靳能泉		9		四川省	达州市	http://www.dzzx.gov.cn/show_news.php?ID=4	副主席		达州市政协		3930
+张旭		10		四川省	达州市	http://www.dzzx.gov.cn/show_news.php?ID=4	秘书长		达州市政协		3930

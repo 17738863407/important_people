@@ -1,0 +1,2 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄海龙		1		广西壮族自治区		https://gxfy.gxcourt.gov.cn/article/index/id/M0g3NTAwMTAwNCACAAA.shtml	院长		广西壮族自治区高级人民法院	https://gxfy.gxcourt.gov.cn/article/detail/2018/02/id/3196918.shtml	4530

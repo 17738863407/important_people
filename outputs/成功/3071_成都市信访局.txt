@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+肖华		1		四川省	成都市	https://xinfang.chengdu.gov.cn/xinfang/c142230/xfsxgk.shtml	成都市人民政府副秘书长，市信访局党组书记、局长，市委社会工作部副部长（兼）		成都市信访局	https://xinfang.chengdu.gov.cn/xinfang/c142230/2025-01/07/content_3764d0aea5c043779a3c41d6e71ac9ec.shtml	3071
+焦锋		2		四川省	成都市	https://xinfang.chengdu.gov.cn/xinfang/c142230/xfsxgk.shtml	市信访局党组成员、副局长		成都市信访局	https://xinfang.chengdu.gov.cn/xinfang/c142230/2022-12/10/content_b6b54f68468e415782c8634142ad496b.shtml	3071
+刘江		3		四川省	成都市	https://xinfang.chengdu.gov.cn/xinfang/c142230/xfsxgk.shtml	市信访局党组成员、副局长		成都市信访局	https://xinfang.chengdu.gov.cn/xinfang/c142230/2024-08/29/content_f7784cdbd12b412595ada18b9dfb1d55.shtml	3071
+曹雪峰		4		四川省	成都市	https://xinfang.chengdu.gov.cn/xinfang/c142230/xfsxgk.shtml	市信访局党组成员、副局长		成都市信访局	https://xinfang.chengdu.gov.cn/xinfang/c142230/2025-07/10/content_272c8ab50e52464bac6428000356a986.shtml	3071

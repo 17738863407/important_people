@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄碧珊		1		福建省	厦门市	http://wlj.xm.gov.cn/zfxxgk/fdzdgknr/jgzn/ldjs/	党组书记、局长		厦门市文化和旅游局	http://wlj.xm.gov.cn/zfxxgk/fdzdgknr/jgzn/ldjs/202007/t20200731_2466991.htm	2922
+陈章志		2		福建省	厦门市	http://wlj.xm.gov.cn/zfxxgk/fdzdgknr/jgzn/ldjs/	党组成员、二级巡视员		厦门市文化和旅游局	http://wlj.xm.gov.cn/zfxxgk/fdzdgknr/jgzn/ldjs/202007/t20200731_2466988.htm	2922
+钟海林		3		福建省	厦门市	http://wlj.xm.gov.cn/zfxxgk/fdzdgknr/jgzn/ldjs/	党组成员、副局长		厦门市文化和旅游局	http://wlj.xm.gov.cn/zfxxgk/fdzdgknr/jgzn/ldjs/202007/t20200731_2466984.htm	2922
+王国娣		4		福建省	厦门市	http://wlj.xm.gov.cn/zfxxgk/fdzdgknr/jgzn/ldjs/	党组成员、副局长		厦门市文化和旅游局	http://wlj.xm.gov.cn/zfxxgk/fdzdgknr/jgzn/ldjs/202007/t20200731_2466983.htm	2922
+苏克		5		福建省	厦门市	http://wlj.xm.gov.cn/zfxxgk/fdzdgknr/jgzn/ldjs/	党组成员、副局长		厦门市文化和旅游局	http://wlj.xm.gov.cn/zfxxgk/fdzdgknr/jgzn/ldjs/202007/t20200731_2466980.htm	2922
+张康雪		6		福建省	厦门市	http://wlj.xm.gov.cn/zfxxgk/fdzdgknr/jgzn/ldjs/	党组成员、驻局纪检组组长		厦门市文化和旅游局	http://wlj.xm.gov.cn/zfxxgk/fdzdgknr/jgzn/ldjs/202103/t20210323_2526427.htm	2922

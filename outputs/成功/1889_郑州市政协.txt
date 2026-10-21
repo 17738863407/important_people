@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杜新军		1		河南省	郑州市	https://new.zzzxy.gov.cn/html/zxld.html	主席、党组书记		郑州市政协		1889
+翟政		2		河南省	郑州市	https://new.zzzxy.gov.cn/html/zxld.html	副主席		郑州市政协		1889
+赵学庆		3		河南省	郑州市	https://new.zzzxy.gov.cn/html/zxld.html	副主席		郑州市政协		1889
+李秋红		4		河南省	郑州市	https://new.zzzxy.gov.cn/html/zxld.html	副主席		郑州市政协		1889
+魏宁娣		5		河南省	郑州市	https://new.zzzxy.gov.cn/html/zxld.html	副主席		郑州市政协		1889
+宋建国		6		河南省	郑州市	https://new.zzzxy.gov.cn/html/zxld.html	副主席		郑州市政协		1889
+夏扬		7		河南省	郑州市	https://new.zzzxy.gov.cn/html/zxld.html	副主席		郑州市政协		1889
+楚惠东		8		河南省	郑州市	https://new.zzzxy.gov.cn/html/zxld.html	副主席		郑州市政协		1889
+袁聚平		9		河南省	郑州市	https://new.zzzxy.gov.cn/html/zxld.html	秘书长		郑州市政协		1889

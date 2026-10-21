@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+韦鸿飞		1		广西壮族自治区	南宁市	https://kjj.nanning.gov.cn/zwgk/jggk/t1434536.html	韦鸿飞局党组成员、副局长、三级调研员		南宁市科学技术局		1364
+陈朝晖		2		广西壮族自治区	南宁市	https://kjj.nanning.gov.cn/zwgk/jggk/t1434536.html	陈朝晖副局长、二级调研员		南宁市科学技术局		1364
+邓壮丽		3		广西壮族自治区	南宁市	https://kjj.nanning.gov.cn/zwgk/jggk/t1434536.html	邓壮丽局党组成员、副局长、三级调研员		南宁市科学技术局		1364
+陈秀清		4		广西壮族自治区	南宁市	https://kjj.nanning.gov.cn/zwgk/jggk/t1434536.html	陈秀清局四级调研员		南宁市科学技术局		1364

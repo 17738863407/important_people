@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴祖明		1		河南省		https://gzw.henan.gov.cn/hngz/wld/	河南省人民政府国有资产监督管理委员会党委副书记、主任		河南省人民政府国有资产监督管理委员会	http://gzw.henan.gov.cn/2025/04-23/3150756.html	0832
+刘孟连		2		河南省		https://gzw.henan.gov.cn/hngz/wld/	河南省人民政府国有资产监督管理委员会党委委员、副主任		河南省人民政府国有资产监督管理委员会	http://gzw.henan.gov.cn/2019/05-14/1497569.html	0832
+李海峰		3		河南省		https://gzw.henan.gov.cn/hngz/wld/	河南省人民政府国有资产监督管理委员会党委委员、副主任		河南省人民政府国有资产监督管理委员会	http://gzw.henan.gov.cn/2025/04-23/3150765.html	0832
+李照松		4		河南省		https://gzw.henan.gov.cn/hngz/wld/	河南省人民政府国有资产监督管理委员会党委委员、副主任		河南省人民政府国有资产监督管理委员会	http://gzw.henan.gov.cn/2024/07-01/3015495.html	0832
+严俊杰		5		河南省		https://gzw.henan.gov.cn/hngz/wld/	河南省人民政府国有资产监督管理委员会党委委员、副主任		河南省人民政府国有资产监督管理委员会	http://gzw.henan.gov.cn/2024/07-01/3015496.html	0832
+别新华		6		河南省		https://gzw.henan.gov.cn/hngz/wld/	河南省人民政府国有资产监督管理委员会党委委员、副主任		河南省人民政府国有资产监督管理委员会	http://gzw.henan.gov.cn/2026/01-07/3303111.html	0832
+王东阳		7		河南省		https://gzw.henan.gov.cn/hngz/wld/	省纪委监委驻河南省人民政府国有资产监督管理委员会纪检监察组组长、河南省人民政府国有资产监督管理委员会党委委员		河南省人民政府国有资产监督管理委员会	http://gzw.henan.gov.cn/2026/08-03/3381569.html	0832
+谢建三		8		河南省		https://gzw.henan.gov.cn/hngz/wld/	河南省人民政府国有资产监督管理委员会二级巡视员		河南省人民政府国有资产监督管理委员会	http://gzw.henan.gov.cn/2019/06-28/1497561.html	0832

@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张惠		1		河北省	石家庄市	https://wglj.sjz.gov.cn/columns/0894e17f-6c9d-4e37-b08e-627a01cdbf85/index.html	党组书记、市二级巡视员，市委宣传部副部长（兼）		石家庄市文化广电和旅游局		2864
+刘庆卫		2		河北省	石家庄市	https://wglj.sjz.gov.cn/columns/0894e17f-6c9d-4e37-b08e-627a01cdbf85/index.html	党组副书记、副局长，二级调研员		石家庄市文化广电和旅游局		2864
+孙瑞峰		3		河北省	石家庄市	https://wglj.sjz.gov.cn/columns/0894e17f-6c9d-4e37-b08e-627a01cdbf85/index.html	党组成员、副局长，二级调研员		石家庄市文化广电和旅游局		2864
+张蕾		4		河北省	石家庄市	https://wglj.sjz.gov.cn/columns/0894e17f-6c9d-4e37-b08e-627a01cdbf85/index.html	党组成员、副局长，二级调研员		石家庄市文化广电和旅游局		2864
+雷爱锁		5		河北省	石家庄市	https://wglj.sjz.gov.cn/columns/0894e17f-6c9d-4e37-b08e-627a01cdbf85/index.html	党组成员、驻局纪检监察组组长		石家庄市文化广电和旅游局		2864
+韩振民		6		河北省	石家庄市	https://wglj.sjz.gov.cn/columns/0894e17f-6c9d-4e37-b08e-627a01cdbf85/index.html	党组成员、副局长，三级调研员		石家庄市文化广电和旅游局		2864
+吴合利		7		河北省	石家庄市	https://wglj.sjz.gov.cn/columns/0894e17f-6c9d-4e37-b08e-627a01cdbf85/index.html	党组成员、市艺术学校（市艺术研究院）党委书记		石家庄市文化广电和旅游局		2864
+刘洁		8		河北省	石家庄市	https://wglj.sjz.gov.cn/columns/0894e17f-6c9d-4e37-b08e-627a01cdbf85/index.html	三级调研员		石家庄市文化广电和旅游局		2864
+翟相伟		9		河北省	石家庄市	https://wglj.sjz.gov.cn/columns/0894e17f-6c9d-4e37-b08e-627a01cdbf85/index.html	三级调研员		石家庄市文化广电和旅游局		2864
+赵彤		10		河北省	石家庄市	https://wglj.sjz.gov.cn/columns/0894e17f-6c9d-4e37-b08e-627a01cdbf85/index.html	三级调研员		石家庄市文化广电和旅游局		2864
+杨海生		11		河北省	石家庄市	https://wglj.sjz.gov.cn/columns/0894e17f-6c9d-4e37-b08e-627a01cdbf85/index.html	三级调研员		石家庄市文化广电和旅游局		2864

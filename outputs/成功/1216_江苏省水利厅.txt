@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王冬生		1		江苏省		https://jswater.jiangsu.gov.cn/col/col84422/index.html	党组书记		江苏省水利厅	http://jswater.jiangsu.gov.cn/col/col82282/index.html	1216
+方桂林		2		江苏省		https://jswater.jiangsu.gov.cn/col/col84422/index.html	副厅长、党组成员		江苏省水利厅	http://jswater.jiangsu.gov.cn/col/col82281/index.html	1216
+韩全林		3		江苏省		https://jswater.jiangsu.gov.cn/col/col84422/index.html	副厅长、党组成员		江苏省水利厅	http://jswater.jiangsu.gov.cn/col/col42149/index.html	1216
+浦礼俊		4		江苏省		https://jswater.jiangsu.gov.cn/col/col84422/index.html	省纪委监委派驻省水利厅纪检监察组组长、党组成员、二级高级监察官		江苏省水利厅	http://jswater.jiangsu.gov.cn/col/col91739/index.html	1216
+喻君杰		5		江苏省		https://jswater.jiangsu.gov.cn/col/col84422/index.html	副厅长、党组成员兼省应急管理厅副厅长		江苏省水利厅	http://jswater.jiangsu.gov.cn/col/col88194/index.html	1216

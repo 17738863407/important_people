@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+查文彪		1		安徽省		https://dohurd.ah.gov.cn/public/column/6991?type=4&catId=6715221&action=list&nav=3	安徽省住房和城乡建设厅党组书记、厅长		安徽省住房和城乡建设厅	https://dohurd.ah.gov.cn/public/6991/57178841.html	0470
+刘孝华		2		安徽省		https://dohurd.ah.gov.cn/public/column/6991?type=4&catId=6715221&action=list&nav=3	安徽省住房和城乡建设厅党组成员、副厅长		安徽省住房和城乡建设厅	https://dohurd.ah.gov.cn/public/6991/56116351.html	0470
+黄新美		3		安徽省		https://dohurd.ah.gov.cn/public/column/6991?type=4&catId=6715221&action=list&nav=3	安徽省住房和城乡建设厅党组成员、驻厅纪检监察组组长		安徽省住房和城乡建设厅	https://dohurd.ah.gov.cn/public/6991/57754731.html	0470
+何以文		4		安徽省		https://dohurd.ah.gov.cn/public/column/6991?type=4&catId=6715221&action=list&nav=3	安徽省住房和城乡建设厅党组成员、副厅长		安徽省住房和城乡建设厅	https://dohurd.ah.gov.cn/public/6991/56816091.html	0470
+赵新泽		5		安徽省		https://dohurd.ah.gov.cn/public/column/6991?type=4&catId=6715221&action=list&nav=3	安徽省住房和城乡建设厅党组成员、副厅长		安徽省住房和城乡建设厅	https://dohurd.ah.gov.cn/public/6991/57058231.html	0470
+尹宗军		6		安徽省		https://dohurd.ah.gov.cn/public/column/6991?type=4&catId=6715221&action=list&nav=3	安徽省住房和城乡建设厅党组成员、副厅长		安徽省住房和城乡建设厅	https://dohurd.ah.gov.cn/public/6991/57128421.html	0470
+刘超		7		安徽省		https://dohurd.ah.gov.cn/public/column/6991?type=4&catId=6715221&action=list&nav=3	安徽省住房和城乡建设厅二级巡视员		安徽省住房和城乡建设厅	https://dohurd.ah.gov.cn/public/6991/58145361.html	0470
+余成海		8		安徽省		https://dohurd.ah.gov.cn/public/column/6991?type=4&catId=6715221&action=list&nav=3	安徽省住房和城乡建设厅二级巡视员		安徽省住房和城乡建设厅	https://dohurd.ah.gov.cn/public/6991/58252081.html	0470

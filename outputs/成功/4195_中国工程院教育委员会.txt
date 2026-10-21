@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李仲平		1		全国		https://www.cae.cn/cae/html/main/col79/column_79_1.html	主任		中国工程院教育委员会		4195
+王辰		2		全国		https://www.cae.cn/cae/html/main/col79/column_79_1.html	副主任		中国工程院教育委员会		4195
+陈建峰		3		全国		https://www.cae.cn/cae/html/main/col79/column_79_1.html	副主任		中国工程院教育委员会		4195
+钟登华		4		全国		https://www.cae.cn/cae/html/main/col79/column_79_1.html	副主任		中国工程院教育委员会		4195
+汤涛		5		全国		https://www.cae.cn/cae/html/main/col79/column_79_1.html	副主任		中国工程院教育委员会		4195

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+姚逊		1		山西省	运城市	http://www.yuncheng.gov.cn/zwgk_1/xxgkml/ldxx/ldzc/yx/	运城市委副书记，市政府党组书记、市长		运城市人民政府	http://www.yuncheng.gov.cn/zwgk_1/xxgkml/ldxx/ldzc/yx/index.shtml	3909
+孟维君		2		山西省	运城市	http://www.yuncheng.gov.cn/zwgk_1/xxgkml/ldxx/ldzc/yx/	运城市委常委，市政府党组副书记、常务副市长		运城市人民政府	http://www.yuncheng.gov.cn/zwgk_1/xxgkml/ldxx/ldzc/mwj/index.shtml	3909
+薛永琦		3		山西省	运城市	http://www.yuncheng.gov.cn/zwgk_1/xxgkml/ldxx/ldzc/yx/	运城市委常委，市政府党组成员、副市长		运城市人民政府	http://www.yuncheng.gov.cn/zwgk_1/xxgkml/ldxx/ldzc/xyq/index.shtml	3909
+尚玉良		4		山西省	运城市	http://www.yuncheng.gov.cn/zwgk_1/xxgkml/ldxx/ldzc/yx/	运城市委常委，市政府党组成员、副市长，河津市委书记		运城市人民政府	http://www.yuncheng.gov.cn/zwgk_1/xxgkml/ldxx/ldzc/syl/index.shtml	3909
+张锐		5		山西省	运城市	http://www.yuncheng.gov.cn/zwgk_1/xxgkml/ldxx/ldzc/yx/	运城市政府副市长，民建运城市委主委		运城市人民政府	http://www.yuncheng.gov.cn/zwgk_1/xxgkml/ldxx/ldzc/zr/index.shtml	3909
+宋胜澜		6		山西省	运城市	http://www.yuncheng.gov.cn/zwgk_1/xxgkml/ldxx/ldzc/yx/	运城市政府党组成员、副市长，市公安局党委书记、局长		运城市人民政府	http://www.yuncheng.gov.cn/zwgk_1/xxgkml/ldxx/ldzc/ssl/index.shtml	3909
+王红波		7		山西省	运城市	http://www.yuncheng.gov.cn/zwgk_1/xxgkml/ldxx/ldzc/yx/	运城市政府党组成员、秘书长，市政府办公室党组书记、主任		运城市人民政府	http://www.yuncheng.gov.cn/zwgk_1/xxgkml/ldxx/ldzc/whb/index.shtml	3909

@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+任少波		1		浙江省	杭州市	https://www.zju.edu.cn/xrld/list.htm	党委书记；党委常委		浙江大学		3649
+马琰铭		2		浙江省	杭州市	https://www.zju.edu.cn/xrld/list.htm	校长；党委副书记；党委常委		浙江大学		3649
+王立忠		3		浙江省	杭州市	https://www.zju.edu.cn/xrld/list.htm	常务副校长；党委常委		浙江大学		3649
+傅强		4		浙江省	杭州市	https://www.zju.edu.cn/xrld/list.htm	党委副书记；党委常委		浙江大学		3649
+朱慧		5		浙江省	杭州市	https://www.zju.edu.cn/xrld/list.htm	党委副书记；党委常委		浙江大学		3649
+李晓明		6		浙江省	杭州市	https://www.zju.edu.cn/xrld/list.htm	副校长；党委常委		浙江大学		3649
+陈刚		7		浙江省	杭州市	https://www.zju.edu.cn/xrld/list.htm	副校长；党委常委		浙江大学		3649
+王靖岱		8		浙江省	杭州市	https://www.zju.edu.cn/xrld/list.htm	副校长；党委常委		浙江大学		3649
+周江洪		9		浙江省	杭州市	https://www.zju.edu.cn/xrld/list.htm	副校长；党委常委		浙江大学		3649
+夏群科		10		浙江省	杭州市	https://www.zju.edu.cn/xrld/list.htm	副校长		浙江大学		3649
+刘鹰		11		浙江省	杭州市	https://www.zju.edu.cn/xrld/list.htm	党委常委		浙江大学		3649
+顾臻		12		浙江省	杭州市	https://www.zju.edu.cn/xrld/list.htm	校长助理		浙江大学		3649

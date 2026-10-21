@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄衍全		1		广西壮族自治区	南宁市	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/	南宁市生态环境局党组书记、局长、二级巡视员		南宁市生态环境局	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/t4950549.html	2562
+侯水升		2		广西壮族自治区	南宁市	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/	南宁市生态环境局党组副书记、副局长、二级调研员		南宁市生态环境局	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/t6303522.html	2562
+李深		3		广西壮族自治区	南宁市	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/	南宁市生态环境局党组成员、副局长、三级调研员		南宁市生态环境局	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/t4647242.html	2562
+唐立松		4		广西壮族自治区	南宁市	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/	南宁市生态环境局党组成员、副局长		南宁市生态环境局	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/t5344227.html	2562
+陈洋		5		广西壮族自治区	南宁市	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/	南宁市生态环境局党组成员、副局长		南宁市生态环境局	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/t6366866.html	2562
+李锋		6		广西壮族自治区	南宁市	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/	南宁市生态环境局党组成员、南宁市生态环境保护综合行政执法支队支队长、二级调研员		南宁市生态环境局	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/t6709809.html	2562
+黄勇		7		广西壮族自治区	南宁市	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/	南宁市生态环境局一级调研员		南宁市生态环境局	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/t6367314.html	2562
+覃卫文		8		广西壮族自治区	南宁市	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/	南宁市生态环境局二级调研员		南宁市生态环境局	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/t2126787.html	2562
+何军士		9		广西壮族自治区	南宁市	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/	南宁市生态环境局三级调研员		南宁市生态环境局	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/t2126784.html	2562
+傅俊		10		广西壮族自治区	南宁市	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/	南宁市生态环境局三级调研员		南宁市生态环境局	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/t2126783.html	2562
+谢健		11		广西壮族自治区	南宁市	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/	南宁市生态环境局三级调研员		南宁市生态环境局	https://sthjj.nanning.gov.cn/xxgk/zfxxgkml/jgzn/ldjs/t2126786.html	2562

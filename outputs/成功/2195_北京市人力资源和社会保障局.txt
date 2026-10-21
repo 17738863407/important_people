@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王清旺		1		北京市		https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/	党组书记、局长		北京市人力资源和社会保障局	https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/201912/t20191205_868934.html	2195
+武玉华		2		北京市		https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/	党组成员、驻局纪检监察组组长、二级高级监察官		北京市人力资源和社会保障局	https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/202101/t20210129_2245300.html	2195
+薄澜		3		北京市		https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/	党组成员、副局长		北京市人力资源和社会保障局	https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/201912/t20191205_868843.html	2195
+朱凯		4		北京市		https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/	党组成员、副局长		北京市人力资源和社会保障局	https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/202607/t20260722_4778885.html	2195
+李李		5		北京市		https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/	党组成员、副局长		北京市人力资源和社会保障局	https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/202505/t20250512_4087100.html	2195
+陆晓播		6		北京市		https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/	党组成员、二级巡视员		北京市人力资源和社会保障局	https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/201912/t20191205_867048.html	2195
+张冉		7		北京市		https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/	副局长		北京市人力资源和社会保障局	https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/202601/t20260120_4449649.html	2195
+荀连忠		8		北京市		https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/	保留副局长级待遇		北京市人力资源和社会保障局	https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/201912/t20191205_868771.html	2195
+戚书平		9		北京市		https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/	一级巡视员		北京市人力资源和社会保障局	https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/202204/t20220424_2688641.html	2195
+马兆军		10		北京市		https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/	一级巡视员		北京市人力资源和社会保障局	https://rsj.beijing.gov.cn/xxgk/zfxxgk/ldjs/202004/t20200409_1798408.html	2195

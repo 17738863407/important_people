@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴清		1		全国		https://www.csrc.gov.cn/csrc/c106421/ldjj.shtml	主席		中国证券监督管理委员会		0344
+李超		2		全国		https://www.csrc.gov.cn/csrc/c106421/ldjj.shtml	副主席		中国证券监督管理委员会	https://www.csrc.gov.cn/csrc/c100010/ldjj.shtml	0344
+樊大志		3		全国		https://www.csrc.gov.cn/csrc/c106421/ldjj.shtml	纪检监察组组长		中国证券监督管理委员会	https://www.csrc.gov.cn/csrc/c100019/ldjj.shtml	0344
+陈华平		4		全国		https://www.csrc.gov.cn/csrc/c106421/ldjj.shtml	副主席		中国证券监督管理委员会	https://www.csrc.gov.cn/csrc/c106404/ldjj.shtml	0344
+刘浩凌		5		全国		https://www.csrc.gov.cn/csrc/c106421/ldjj.shtml	副主席		中国证券监督管理委员会	https://www.csrc.gov.cn/csrc/c106441/ldjj.shtml	0344
+李明		6		全国		https://www.csrc.gov.cn/csrc/c106421/ldjj.shtml	副主席		中国证券监督管理委员会	https://www.csrc.gov.cn/csrc/c106426/ldjj.shtml	0344

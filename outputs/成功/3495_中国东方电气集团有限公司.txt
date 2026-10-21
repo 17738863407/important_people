@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+罗乾宜		1		全国		https://www.dongfang.com/gyjt/gltd1/ldtd.htm	董事长 党组书记		中国东方电气集团有限公司		3495
+张彦军		2		全国		https://www.dongfang.com/gyjt/gltd1/ldtd.htm	董事 总经理 党组副书记		中国东方电气集团有限公司		3495
+张少峰		3		全国		https://www.dongfang.com/gyjt/gltd1/ldtd.htm	董事 党组副书记		中国东方电气集团有限公司		3495
+孙国君		4		全国		https://www.dongfang.com/gyjt/gltd1/ldtd.htm	副总经理 党组成员		中国东方电气集团有限公司		3495
+袁明刚		5		全国		https://www.dongfang.com/gyjt/gltd1/ldtd.htm	中央纪委国家监委驻公司纪检监察组组长 党组成员		中国东方电气集团有限公司		3495
+王军		6		全国		https://www.dongfang.com/gyjt/gltd1/ldtd.htm	副总经理 党组成员		中国东方电气集团有限公司		3495
+李建华		7		全国		https://www.dongfang.com/gyjt/gltd1/ldtd.htm	副总经理 党组成员		中国东方电气集团有限公司		3495
+吕双		8		全国		https://www.dongfang.com/gyjt/gltd1/ldtd.htm	总会计师 党组成员		中国东方电气集团有限公司		3495

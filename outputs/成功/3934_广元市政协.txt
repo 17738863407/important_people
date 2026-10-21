@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+毛端喜		1		四川省	广元市	http://www.zxgy.gov.cn/list.html?cls1=1&cls2=14	主席		广元市政协	http://www.zxgy.gov.cn/article.html?id=8717	3934
+龙兆学		2		四川省	广元市	http://www.zxgy.gov.cn/list.html?cls1=1&cls2=14	副主席		广元市政协	http://www.zxgy.gov.cn/article.html?id=8714	3934
+余飞宇		3		四川省	广元市	http://www.zxgy.gov.cn/list.html?cls1=1&cls2=14	副主席		广元市政协	http://www.zxgy.gov.cn/article.html?id=8715	3934
+何开莉		4		四川省	广元市	http://www.zxgy.gov.cn/list.html?cls1=1&cls2=14	副主席		广元市政协	http://www.zxgy.gov.cn/article.html?id=8716	3934
+罗勤		5		四川省	广元市	http://www.zxgy.gov.cn/list.html?cls1=1&cls2=14	副主席		广元市政协	http://www.zxgy.gov.cn/article.html?id=9965	3934
+朱国勇		6		四川省	广元市	http://www.zxgy.gov.cn/list.html?cls1=1&cls2=14	副主席		广元市政协	http://www.zxgy.gov.cn/article.html?id=14671	3934
+王小莉		7		四川省	广元市	http://www.zxgy.gov.cn/list.html?cls1=1&cls2=14	副主席		广元市政协	http://www.zxgy.gov.cn/article.html?id=14672	3934
+段菲		8		四川省	广元市	http://www.zxgy.gov.cn/list.html?cls1=1&cls2=14	副主席		广元市政协	http://www.zxgy.gov.cn/article.html?id=8718	3934
+孙新华		9		四川省	广元市	http://www.zxgy.gov.cn/list.html?cls1=1&cls2=14	秘书长		广元市政协	http://www.zxgy.gov.cn/article.html?id=10206	3934

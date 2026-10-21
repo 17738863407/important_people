@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴洁静		1		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834360/index.html	杭州市人力资源和社会保障局党组书记、局长		杭州市人力社保局		3964
+杨焕		2		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834360/index.html	党组成员、副局长		杭州市人力社保局		3964
+徐明		3		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834360/index.html	党组成员、副局长		杭州市人力社保局		3964
+赵文建		4		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834360/index.html	党组成员、副局长		杭州市人力社保局		3964
+孟飞		5		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834360/index.html	市就业管理服务中心党委书记、主任		杭州市人力社保局		3964
+叶蔚华		6		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834360/index.html	市社会保险管理服务中心党委书记、主任		杭州市人力社保局		3964
+张锦		7		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834360/index.html	市人才管理服务中心（市人事考试院）党委书记、主任（院长）		杭州市人力社保局		3964
+刘志勇		8		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834360/index.html	二级巡视员		杭州市人力社保局		3964
+宣向东		9		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834360/index.html	二级巡视员		杭州市人力社保局		3964
+单黎霞		10		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834360/index.html	二级巡视员		杭州市人力社保局		3964
+钱斌		11		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229834360/index.html	二级巡视员		杭州市人力社保局		3964

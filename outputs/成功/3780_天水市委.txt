@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨金泉		1		甘肃省	天水市	https://www.tianshui.gov.cn/ldzc.htm	市委书记		天水市委	https://www.tianshui.gov.cn/info/4001/1230882.htm	3780
+刘力江		2		甘肃省	天水市	https://www.tianshui.gov.cn/ldzc.htm	副书记		天水市委	https://www.tianshui.gov.cn/info/1141/1058572.htm	3780
+张晓强		3		甘肃省	天水市	https://www.tianshui.gov.cn/ldzc.htm	副书记		天水市委	https://www.tianshui.gov.cn/info/1141/1248782.htm	3780
+刘立桢		4		甘肃省	天水市	https://www.tianshui.gov.cn/ldzc.htm	市委常委；市委秘书长		天水市委	https://www.tianshui.gov.cn/info/1151/1253752.htm	3780
+杨宪辉		5		甘肃省	天水市	https://www.tianshui.gov.cn/ldzc.htm	市委常委		天水市委	https://www.tianshui.gov.cn/info/1151/1268752.htm	3780
+孙亮		6		甘肃省	天水市	https://www.tianshui.gov.cn/ldzc.htm	市委常委		天水市委	https://www.tianshui.gov.cn/info/1151/1257842.htm	3780
+储著贞		7		甘肃省	天水市	https://www.tianshui.gov.cn/ldzc.htm	市委常委		天水市委	https://www.tianshui.gov.cn/info/1151/1260732.htm	3780
+康泰来		8		甘肃省	天水市	https://www.tianshui.gov.cn/ldzc.htm	市委常委		天水市委	https://www.tianshui.gov.cn/info/1151/1069522.htm	3780
+李炯芳		9		甘肃省	天水市	https://www.tianshui.gov.cn/ldzc.htm	市委常委		天水市委	https://www.tianshui.gov.cn/info/1151/1069582.htm	3780
+张莉		10		甘肃省	天水市	https://www.tianshui.gov.cn/ldzc.htm	市委常委		天水市委	https://www.tianshui.gov.cn/info/1151/1268762.htm	3780
+薛丞忠		11		甘肃省	天水市	https://www.tianshui.gov.cn/ldzc.htm	市委常委		天水市委	https://www.tianshui.gov.cn/info/1151/1253792.htm	3780

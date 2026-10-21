@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+丁德明		1		陕西省		https://czt.shaanxi.gov.cn/xxgk/zdgk/jgjj/ldxx/	省财政厅党组书记、厅长		陕西省财政厅		0395
+李明怀		2		陕西省		https://czt.shaanxi.gov.cn/xxgk/zdgk/jgjj/ldxx/	省财政厅一级巡视员		陕西省财政厅		0395
+刘卫阳		3		陕西省		https://czt.shaanxi.gov.cn/xxgk/zdgk/jgjj/ldxx/	省纪委监委驻省财政厅纪检监察组组长、二级高级监察官，省财政厅党组成员		陕西省财政厅		0395
+陈军平		4		陕西省		https://czt.shaanxi.gov.cn/xxgk/zdgk/jgjj/ldxx/	省财政厅党组成员、副厅长		陕西省财政厅		0395
+孙国权		5		陕西省		https://czt.shaanxi.gov.cn/xxgk/zdgk/jgjj/ldxx/	省财政厅党组成员、副厅长		陕西省财政厅		0395
+杨莉		6		陕西省		https://czt.shaanxi.gov.cn/xxgk/zdgk/jgjj/ldxx/	省财政厅党组成员、省国库支付中心主任		陕西省财政厅		0395
+焦洪涛		7		陕西省		https://czt.shaanxi.gov.cn/xxgk/zdgk/jgjj/ldxx/	省财政厅党组成员、副厅长		陕西省财政厅		0395
+张永周		8		陕西省		https://czt.shaanxi.gov.cn/xxgk/zdgk/jgjj/ldxx/	省财政厅二级巡视员		陕西省财政厅		0395
+王战航		9		陕西省		https://czt.shaanxi.gov.cn/xxgk/zdgk/jgjj/ldxx/	省预算资金评审中心主任		陕西省财政厅		0395

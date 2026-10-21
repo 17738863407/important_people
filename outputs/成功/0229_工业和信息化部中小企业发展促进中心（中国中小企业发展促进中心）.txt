@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+翁啟文		1		全国		https://www.chinasme.org.cn/html/mcms//daohang/zhongxingailan/zhongxinlingdao/index.html	主任、党委副书记		工业和信息化部中小企业发展促进中心（中国中小企业发展促进中心）		0229
+胡晓华		2		全国		https://www.chinasme.org.cn/html/mcms//daohang/zhongxingailan/zhongxinlingdao/index.html	党委书记、副主任		工业和信息化部中小企业发展促进中心（中国中小企业发展促进中心）		0229
+冯旭		3		全国		https://www.chinasme.org.cn/html/mcms//daohang/zhongxingailan/zhongxinlingdao/index.html	副主任		工业和信息化部中小企业发展促进中心（中国中小企业发展促进中心）		0229
+李妍		4		全国		https://www.chinasme.org.cn/html/mcms//daohang/zhongxingailan/zhongxinlingdao/index.html	副主任、纪委书记		工业和信息化部中小企业发展促进中心（中国中小企业发展促进中心）		0229

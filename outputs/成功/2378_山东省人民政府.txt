@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周乃翔		1		全国		http://www.shandong.gov.cn/col/col100624/index.html	省长		山东省人民政府	http://www.shandong.gov.cn/col/col219045/index.html	2378
+张海波		2		全国		http://www.shandong.gov.cn/col/col100624/index.html	副省长		山东省人民政府	http://www.shandong.gov.cn/col/col345372/index.html	2378
+陈平		3		全国		http://www.shandong.gov.cn/col/col100624/index.html	副省长		山东省人民政府	http://www.shandong.gov.cn/col/col317092/index.html	2378
+王桂英		4		全国		http://www.shandong.gov.cn/col/col100624/index.html	副省长		山东省人民政府	http://www.shandong.gov.cn/col/col317095/index.html	2378
+温暖		5		全国		http://www.shandong.gov.cn/col/col100624/index.html	副省长		山东省人民政府	http://www.shandong.gov.cn/col/col350067/index.html	2378
+李晓龙		6		全国		http://www.shandong.gov.cn/col/col100624/index.html	副省长		山东省人民政府	http://www.shandong.gov.cn/col/col364479/index.html	2378
+孙喜民		7		全国		http://www.shandong.gov.cn/col/col100624/index.html	副省长		山东省人民政府	http://www.shandong.gov.cn/col/col356238/index.html	2378
+闫剑波		8		全国		http://www.shandong.gov.cn/col/col100624/index.html	副省长		山东省人民政府	http://www.shandong.gov.cn/col/col366179/index.html	2378
+夏凤俭		9		全国		http://www.shandong.gov.cn/col/col100624/index.html	副省长		山东省人民政府	http://www.shandong.gov.cn/col/col367778/index.html	2378
+徐闻		10		全国		http://www.shandong.gov.cn/col/col100624/index.html	秘书长		山东省人民政府	http://www.shandong.gov.cn/col/col341574/index.html	2378

@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王志华		1		新疆维吾尔自治区		http://ylbzj.xinjiang.gov.cn/ylbzj/ldjs/list_ldjj1577161723427.shtml	新疆维吾尔自治区医疗保障局党组书记		新疆维吾尔自治区医疗保障局	http://ylbzj.xinjiang.gov.cn/ylbzj/ldjs/202608/ad70726a39e84c8889b5a09ad54c7cf5.shtml	3259
+熊跃伟		2		新疆维吾尔自治区		http://ylbzj.xinjiang.gov.cn/ylbzj/ldjs/list_ldjj1577161723427.shtml	新疆维吾尔自治区医疗保障局党组副书记、局长		新疆维吾尔自治区医疗保障局	http://ylbzj.xinjiang.gov.cn/ylbzj/ldjs/202608/dfef87f837414b3894601de33983a4f9.shtml	3259
+李怀海		3		新疆维吾尔自治区		http://ylbzj.xinjiang.gov.cn/ylbzj/ldjs/list_ldjj1577161723427.shtml	新疆维吾尔自治区医疗保障局党组成员、副局长		新疆维吾尔自治区医疗保障局	http://ylbzj.xinjiang.gov.cn/ylbzj/ldjs/202608/7bffa1acd654473fb06706bc49a8c272.shtml	3259
+阿不都热西提·吐送		4		新疆维吾尔自治区		http://ylbzj.xinjiang.gov.cn/ylbzj/ldjs/list_ldjj1577161723427.shtml	新疆维吾尔自治区医疗保障局党组成员、副局长		新疆维吾尔自治区医疗保障局	http://ylbzj.xinjiang.gov.cn/ylbzj/ldjs/202608/13730e3c206c4ae4aede975175a8aa4e.shtml	3259

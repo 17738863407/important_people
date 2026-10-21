@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+安虎贲		1		黑龙江省		http://amr.hlj.gov.cn/amr/jgld/public_jgld.shtml	黑龙江省市场监督管理局局长、党组书记，兼任省政府食品安全委员会办公室主任		黑龙江省市场监督管理局	http://amr.hlj.gov.cn/amr/jgld/202212/c00_31455704.shtml	0086
+李劲松		2		黑龙江省		http://amr.hlj.gov.cn/amr/jgld/public_jgld.shtml	党组成员，黑龙江省药品监督管理局局长、党组书记		黑龙江省市场监督管理局	http://amr.hlj.gov.cn/amr/jgld/202212/c00_31455700.shtml	0086
+刘猛		3		黑龙江省		http://amr.hlj.gov.cn/amr/jgld/public_jgld.shtml	副局长、党组成员		黑龙江省市场监督管理局	http://amr.hlj.gov.cn/amr/jgld/202212/c00_31455694.shtml	0086
+杨茹民		4		黑龙江省		http://amr.hlj.gov.cn/amr/jgld/public_jgld.shtml	副局长、党组成员		黑龙江省市场监督管理局	http://amr.hlj.gov.cn/amr/jgld/202212/c00_31455691.shtml	0086
+林淑英		5		黑龙江省		http://amr.hlj.gov.cn/amr/jgld/public_jgld.shtml	副局长、党组成员		黑龙江省市场监督管理局	http://amr.hlj.gov.cn/amr/jgld/202411/c00_31784202.shtml	0086
+张俊江		6		黑龙江省		http://amr.hlj.gov.cn/amr/jgld/public_jgld.shtml	副局长、党组成员		黑龙江省市场监督管理局	http://amr.hlj.gov.cn/amr/jgld/202608/c00_31971079.shtml	0086
+周乐		7		黑龙江省		http://amr.hlj.gov.cn/amr/jgld/public_jgld.shtml	副局长、党组成员		黑龙江省市场监督管理局	http://amr.hlj.gov.cn/amr/jgld/202606/c00_31951707.shtml	0086
+刘志峰		8		黑龙江省		http://amr.hlj.gov.cn/amr/jgld/public_jgld.shtml	副局长、党组成员，省第六批援疆干部人才副领队		黑龙江省市场监督管理局	http://amr.hlj.gov.cn/amr/jgld/202409/c00_31769529.shtml	0086
+杨帆		9		黑龙江省		http://amr.hlj.gov.cn/amr/jgld/public_jgld.shtml	副局长、党组成员		黑龙江省市场监督管理局	http://amr.hlj.gov.cn/amr/jgld/202509/c00_31874360.shtml	0086
+罗旭		10		黑龙江省		http://amr.hlj.gov.cn/amr/jgld/public_jgld.shtml	黑龙江省纪委监委驻省市场监督管理局纪检监察组组长、局党组成员		黑龙江省市场监督管理局	http://amr.hlj.gov.cn/amr/jgld/202605/c00_31938771.shtml	0086
+王伟群		11		黑龙江省		http://amr.hlj.gov.cn/amr/jgld/public_jgld.shtml	党组成员、黑龙江省知识产权局局长、党组书记		黑龙江省市场监督管理局	http://amr.hlj.gov.cn/amr/jgld/202212/c00_31455693.shtml	0086

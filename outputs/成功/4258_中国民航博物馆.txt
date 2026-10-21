@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+顾晓红		1		全国		http://www.caacmuseum.cn/AboutUs/?anchor=leader	民航博物馆党委委员、书记		中国民航博物馆		4258
+钱耿文		2		全国		http://www.caacmuseum.cn/AboutUs/?anchor=leader	民航博物馆党委委员、副书记、馆长		中国民航博物馆		4258
+高俊		3		全国		http://www.caacmuseum.cn/AboutUs/?anchor=leader	民航博物馆党委委员、副馆长		中国民航博物馆		4258
+曹庆利		4		全国		http://www.caacmuseum.cn/AboutUs/?anchor=leader	民航博物馆党委委员、副书记、纪委书记		中国民航博物馆		4258

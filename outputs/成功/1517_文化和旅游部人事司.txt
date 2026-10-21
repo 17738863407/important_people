@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王建华		1		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201111/t20111121_830355.htm	司长		文化和旅游部人事司		1517
+古今		2		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201111/t20111121_830355.htm	一级巡视员		文化和旅游部人事司		1517
+王磊		3		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201111/t20111121_830355.htm	副司长		文化和旅游部人事司		1517
+李莹		4		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201111/t20111121_830355.htm	副司长、部巡视办副主任		文化和旅游部人事司		1517

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吕雪峰		1		山东省	青岛市	http://qibebt.cas.cn/gk/xrld/	所长、党委书记		中国科学院青岛生物能源与过程研究所	http://qibebt.cas.cn/gk/xrld/202105/t20210528_6043793.html	4378
+吴绪永		2		山东省	青岛市	http://qibebt.cas.cn/gk/xrld/	副所长		中国科学院青岛生物能源与过程研究所	https://qibebt.cas.cn/gk/xrld/202105/t20210528_6043792.html	4378
+徐峰		3		山东省	青岛市	http://qibebt.cas.cn/gk/xrld/	副所长		中国科学院青岛生物能源与过程研究所	https://qibebt.cas.cn/gk/xrld/202105/t20210528_6043789.html	4378
+江河清		4		山东省	青岛市	http://qibebt.cas.cn/gk/xrld/	副所长		中国科学院青岛生物能源与过程研究所	https://qibebt.cas.cn/gk/xrld/202307/t20230721_6814633.html	4378
+孙军		5		山东省	青岛市	http://qibebt.cas.cn/gk/xrld/	纪委书记		中国科学院青岛生物能源与过程研究所	https://qibebt.cas.cn/gk/xrld/202501/t20250114_7517891.html	4378

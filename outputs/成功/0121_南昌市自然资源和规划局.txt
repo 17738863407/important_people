@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡俊峰		1		江西省	南昌市	http://bnr.nc.gov.cn/ncszrzyj/ldjs/common_wztt.shtml	党组书记		南昌市自然资源和规划局		0121
+彭华		2		江西省	南昌市	http://bnr.nc.gov.cn/ncszrzyj/ldjs/common_wztt.shtml	局长		南昌市自然资源和规划局		0121
+陈长春		3		江西省	南昌市	http://bnr.nc.gov.cn/ncszrzyj/ldjs/common_wztt.shtml	局党组成员、市规划国土发展研究中心主任		南昌市自然资源和规划局		0121
+吴晓勇		4		江西省	南昌市	http://bnr.nc.gov.cn/ncszrzyj/ldjs/common_wztt.shtml	局党组成员、市纪委市监委驻局纪检监察组组长		南昌市自然资源和规划局		0121
+杨先锋		5		江西省	南昌市	http://bnr.nc.gov.cn/ncszrzyj/ldjs/common_wztt.shtml	局党组成员、副局长		南昌市自然资源和规划局		0121
+邵欣然		6		江西省	南昌市	http://bnr.nc.gov.cn/ncszrzyj/ldjs/common_wztt.shtml	局党组成员、副局长		南昌市自然资源和规划局		0121
+熊斌		7		江西省	南昌市	http://bnr.nc.gov.cn/ncszrzyj/ldjs/common_wztt.shtml	局党组成员、副局长		南昌市自然资源和规划局		0121
+胡亦勇		8		江西省	南昌市	http://bnr.nc.gov.cn/ncszrzyj/ldjs/common_wztt.shtml	市土地储备中心主任		南昌市自然资源和规划局		0121
+罗晓峰		9		江西省	南昌市	http://bnr.nc.gov.cn/ncszrzyj/ldjs/common_wztt.shtml	二级调研员		南昌市自然资源和规划局		0121
+张锦增		10		江西省	南昌市	http://bnr.nc.gov.cn/ncszrzyj/ldjs/common_wztt.shtml	三级调研员		南昌市自然资源和规划局		0121
+饶鑫		11		江西省	南昌市	http://bnr.nc.gov.cn/ncszrzyj/ldjs/common_wztt.shtml	四级调研员		南昌市自然资源和规划局		0121

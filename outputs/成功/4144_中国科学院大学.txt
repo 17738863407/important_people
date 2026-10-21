@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周琪		1		全国		https://www.ucas.ac.cn/xxgk/xrld/index.htm	党委书记；党委常委；校长		中国科学院大学	https://www.ucas.ac.cn/xxgk/xrld/lss/09ca7c64acdd47e5b8fd66a3f8f3b701.htm	4144
+肖作敏		2		全国		https://www.ucas.ac.cn/xxgk/xrld/index.htm	党委副书记；纪委书记；党委常委		中国科学院大学	https://www.ucas.ac.cn/xxgk/xrld/xzm/13fc6c5d20b34935ab454aaf0b6bb845.htm	4144
+牛晓莉		3		全国		https://www.ucas.ac.cn/xxgk/xrld/index.htm	党委副书记；党委常委		中国科学院大学	https://www.ucas.ac.cn/xxgk/xrld/nxl/a0351fb7494e498b8b9bc9334e786b6e.htm	4144
+董纪昌		4		全国		https://www.ucas.ac.cn/xxgk/xrld/index.htm	党委常委；副校长		中国科学院大学	https://www.ucas.ac.cn/xxgk/xrld/djc/99fd5abf21f044e58138ebbf9e8afaac.htm	4144
+金德鹏		5		全国		https://www.ucas.ac.cn/xxgk/xrld/index.htm	党委常委；副校长		中国科学院大学	https://www.ucas.ac.cn/xxgk/xrld/jdp/64ed811dcc2b43bb960c05299fcde365.htm	4144
+林晓		6		全国		https://www.ucas.ac.cn/xxgk/xrld/index.htm	党委常委；副校长		中国科学院大学	https://www.ucas.ac.cn/xxgk/xrld/lx/a771dcc2333d47f1a8953ead37186627.htm	4144
+郑阳恒		7		全国		https://www.ucas.ac.cn/xxgk/xrld/index.htm	党委常委；副校长		中国科学院大学	https://www.ucas.ac.cn/xxgk/xrld/zyh/82d86249590f4ba59ec29928ff689cfb.htm	4144
+谭红军		8		全国		https://www.ucas.ac.cn/xxgk/xrld/index.htm	党委常委		中国科学院大学	https://www.ucas.ac.cn/xxgk/xrld/thj/37eb43ed2ac84693b059260f22e20ad7.htm	4144
+赵硕		9		全国		https://www.ucas.ac.cn/xxgk/xrld/index.htm	党委常委		中国科学院大学	https://www.ucas.ac.cn/xxgk/xrld/zs/c20ef07f3e7143b89c5ec4606f88dc00.htm	4144
+周克斌		10		全国		https://www.ucas.ac.cn/xxgk/xrld/index.htm	党委常委		中国科学院大学	https://www.ucas.ac.cn/xxgk/xrld/zkb/ba73e8d8136344ec8009bab860d89bd8.htm	4144
+聂广军		11		全国		https://www.ucas.ac.cn/xxgk/xrld/index.htm	副校长		中国科学院大学	https://www.ucas.ac.cn/xxgk/xrld/ngj/94255e207b764a3287486b63c1ac9b76.htm	4144
+袁伟		12		全国		https://www.ucas.ac.cn/xxgk/xrld/index.htm	副校长		中国科学院大学	https://www.ucas.ac.cn/xxgk/xrld/xzp/a41471dc39c545f9b58837636e0578ad.htm	4144

@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+兰静		1		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202405/t20240509_952769.htm	主任		文化和旅游部民族民间文艺发展中心		1513
+王晓松		2		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202405/t20240509_952769.htm	副主任		文化和旅游部民族民间文艺发展中心		1513
+周瑞		3		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202405/t20240509_952769.htm	副主任		文化和旅游部民族民间文艺发展中心		1513

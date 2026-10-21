@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杜岩岫		1		陕西省	西安市	http://gzw.xa.gov.cn/zwgk/zzjg/ldjsjfg/1.html	党委副书记、副主任		西安市国有资产监督管理委员会		0854
+李鹏		2		陕西省	西安市	http://gzw.xa.gov.cn/zwgk/zzjg/ldjsjfg/1.html	副主任		西安市国有资产监督管理委员会		0854
+李义长		3		陕西省	西安市	http://gzw.xa.gov.cn/zwgk/zzjg/ldjsjfg/1.html	党委委员、副主任		西安市国有资产监督管理委员会		0854
+王安策		4		陕西省	西安市	http://gzw.xa.gov.cn/zwgk/zzjg/ldjsjfg/1.html	市国资委党委委员，市纪委派驻市国资委纪检监察组组长		西安市国有资产监督管理委员会		0854

@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈首		1		全国		https://www.neac.gov.cn/seac/mwjs/201805/1009184.shtml	司长		国家民族事务委员会理论研究司		1864
+熊芳亮		2		全国		https://www.neac.gov.cn/seac/mwjs/201805/1009184.shtml	副司长		国家民族事务委员会理论研究司		1864
+孙启军		3		全国		https://www.neac.gov.cn/seac/mwjs/201805/1009184.shtml	副司长		国家民族事务委员会理论研究司		1864
+冀华锋		4		全国		https://www.neac.gov.cn/seac/mwjs/201805/1009184.shtml	副司长		国家民族事务委员会理论研究司		1864

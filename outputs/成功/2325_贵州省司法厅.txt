@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谭诤		1		贵州省		https://sft.guizhou.gov.cn/zwgk_97/ldxx/	贵州省司法厅党委书记、厅长，省委政法委委员，省监狱管理局第一政委（兼）		贵州省司法厅	https://sft.guizhou.gov.cn/zwgk_97/ldxx/202607/t20260713_90616601.html	2325
+魏华松		2		贵州省		https://sft.guizhou.gov.cn/zwgk_97/ldxx/	贵州省司法厅党委副书记、副厅长		贵州省司法厅	https://sft.guizhou.gov.cn/zwgk_97/ldxx/202503/t20250317_87185775.html	2325
+陈刚		3		贵州省		https://sft.guizhou.gov.cn/zwgk_97/ldxx/	贵州省司法厅党委委员、副厅长，省监狱管理局党委书记、局长，贵州黔新企业集团有限公司董事长（兼）		贵州省司法厅	https://sft.guizhou.gov.cn/zwgk_97/ldxx/202503/t20250317_87185520.html	2325
+朱进		4		贵州省		https://sft.guizhou.gov.cn/zwgk_97/ldxx/	贵州省司法厅党委委员、副厅长		贵州省司法厅	https://sft.guizhou.gov.cn/zwgk_97/ldxx/202503/t20250317_87185304.html	2325
+王华		5		贵州省		https://sft.guizhou.gov.cn/zwgk_97/ldxx/	贵州省司法厅党委委员，省戒毒管理局党委书记、局长		贵州省司法厅	https://sft.guizhou.gov.cn/zwgk_97/ldxx/202503/t20250317_87185003.html	2325
+宁茵		6		贵州省		https://sft.guizhou.gov.cn/zwgk_97/ldxx/	贵州省司法厅党委委员、副厅长		贵州省司法厅	https://sft.guizhou.gov.cn/zwgk_97/ldxx/202503/t20250317_87184720.html	2325
+蔡世平		7		贵州省		https://sft.guizhou.gov.cn/zwgk_97/ldxx/	贵州省司法厅党委委员、政治部（警务部）主任		贵州省司法厅	https://sft.guizhou.gov.cn/zwgk_97/ldxx/202503/t20250317_87184689.html	2325
+张根帮		8		贵州省		https://sft.guizhou.gov.cn/zwgk_97/ldxx/	贵州省司法厅党委委员、副厅长		贵州省司法厅	https://sft.guizhou.gov.cn/zwgk_97/ldxx/202605/t20260514_90174788.html	2325

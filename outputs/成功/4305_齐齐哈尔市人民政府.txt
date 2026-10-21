@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈兴平		1		黑龙江省	齐齐哈尔市	https://www.qqhr.gov.cn/qqhe/c100004/ldzc.shtml	市长		齐齐哈尔市人民政府	https://www.qqhr.gov.cn/qqhe/c100055/202310/c02_369246.shtml	4305
+刘云策		2		黑龙江省	齐齐哈尔市	https://www.qqhr.gov.cn/qqhe/c100004/ldzc.shtml	副市长		齐齐哈尔市人民政府	https://www.qqhr.gov.cn/qqhe/c100058/202307/c02_f38b2bb705c64e4dbe1e6fead74043b8.shtml	4305
+高淑春		3		黑龙江省	齐齐哈尔市	https://www.qqhr.gov.cn/qqhe/c100004/ldzc.shtml	副市长		齐齐哈尔市人民政府	https://www.qqhr.gov.cn/qqhe/c100058/202308/c02_d0ba5e22471e408fbb06bfa5fe5e982c.shtml	4305
+秦立宇		4		黑龙江省	齐齐哈尔市	https://www.qqhr.gov.cn/qqhe/c100004/ldzc.shtml	副市长		齐齐哈尔市人民政府	https://www.qqhr.gov.cn/qqhe/c100058/202401/c02_444333.shtml	4305
+张耀斌		5		黑龙江省	齐齐哈尔市	https://www.qqhr.gov.cn/qqhe/c100004/ldzc.shtml	副市长		齐齐哈尔市人民政府	https://www.qqhr.gov.cn/qqhe/c100058/202402/c02_456583.shtml	4305
+王杕		6		黑龙江省	齐齐哈尔市	https://www.qqhr.gov.cn/qqhe/c100004/ldzc.shtml	副市长		齐齐哈尔市人民政府	https://www.qqhr.gov.cn/qqhe/c100058/202505/c02_553146.shtml	4305
+孙艳福		7		黑龙江省	齐齐哈尔市	https://www.qqhr.gov.cn/qqhe/c100004/ldzc.shtml	副市长		齐齐哈尔市人民政府	https://www.qqhr.gov.cn/qqhe/c100058/202606/c02_628002.shtml	4305
+梁兴旺		8		黑龙江省	齐齐哈尔市	https://www.qqhr.gov.cn/qqhe/c100004/ldzc.shtml	副市长		齐齐哈尔市人民政府	https://www.qqhr.gov.cn/qqhe/c100058/202608/c02_638328.shtml	4305

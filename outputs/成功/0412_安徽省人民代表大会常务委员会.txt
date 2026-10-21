@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陶明伦		1		全国		http://district.ce.cn/zt/rwk/sf/ah/rd/201303/04/t20130304_770927.shtml	副主任		安徽省人民代表大会常务委员会	http://district.ce.cn/newarea/sddy/202301/17/t20230117_38353027_1.shtml	0412
+张韵声		2		全国		http://district.ce.cn/zt/rwk/sf/ah/rd/201303/04/t20130304_770927.shtml	副主任		安徽省人民代表大会常务委员会		0412
+何树山		3		全国		http://district.ce.cn/zt/rwk/sf/ah/rd/201303/04/t20130304_770927.shtml	副主任		安徽省人民代表大会常务委员会	http://district.ce.cn/newarea/sddy/202301/17/t20230117_38353027_2.shtml	0412
+王翠凤		4		全国		http://district.ce.cn/zt/rwk/sf/ah/rd/201303/04/t20130304_770927.shtml	副主任		安徽省人民代表大会常务委员会	http://district.ce.cn/newarea/sddy/202301/17/t20230117_38353027_3.shtml	0412
+刘明波		5		全国		http://district.ce.cn/zt/rwk/sf/ah/rd/201303/04/t20130304_770927.shtml	副主任		安徽省人民代表大会常务委员会	http://district.ce.cn/newarea/sddy/202301/17/t20230117_38353027_5.shtml	0412
+韩军		6		全国		http://district.ce.cn/zt/rwk/sf/ah/rd/201303/04/t20130304_770927.shtml	副主任		安徽省人民代表大会常务委员会	http://district.ce.cn/newarea/sddy/202301/17/t20230117_38353027_6.shtml	0412
+魏晓明		7		全国		http://district.ce.cn/zt/rwk/sf/ah/rd/201303/04/t20130304_770927.shtml	副主任		安徽省人民代表大会常务委员会	http://district.ce.cn/newarea/sddy/202301/17/t20230117_38353027_7.shtml	0412

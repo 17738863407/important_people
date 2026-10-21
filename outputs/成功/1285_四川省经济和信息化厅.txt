@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+严卫东		1		四川省		https://jxt.sc.gov.cn/scjxt/newjgzn/ldcs_new.shtml	党组书记、厅长		四川省经济和信息化厅	https://jxt.sc.gov.cn/scjxt/yanw/ldxx_leader66.shtml	1285
+赵文峤		2		四川省		https://jxt.sc.gov.cn/scjxt/newjgzn/ldcs_new.shtml	党组副书记、副厅长		四川省经济和信息化厅	https://jxt.sc.gov.cn/scjxt/zhaowenqiao/ldxx_leader16.shtml	1285
+罗文全		3		四川省		https://jxt.sc.gov.cn/scjxt/newjgzn/ldcs_new.shtml	党组成员、副厅长		四川省经济和信息化厅	https://jxt.sc.gov.cn/scjxt/c112254/ldxx_leader17.shtml	1285
+张勇		4		四川省		https://jxt.sc.gov.cn/scjxt/newjgzn/ldcs_new.shtml	党组成员、副厅长、机关党委书记		四川省经济和信息化厅	https://jxt.sc.gov.cn/scjxt/zhangy/ldxx_leader19.shtml	1285
+谭云		5		四川省		https://jxt.sc.gov.cn/scjxt/newjgzn/ldcs_new.shtml	党组成员、副厅长		四川省经济和信息化厅	https://jxt.sc.gov.cn/scjxt/tanyun/ldxx_leader26.shtml	1285
+曾吉明		6		四川省		https://jxt.sc.gov.cn/scjxt/newjgzn/ldcs_new.shtml	党组成员、副厅长		四川省经济和信息化厅	https://jxt.sc.gov.cn/scjxt/zjm/ldxx_leader14.shtml	1285
+刘银钱		7		四川省		https://jxt.sc.gov.cn/scjxt/newjgzn/ldcs_new.shtml	省纪委监委驻厅纪检监察组组长、党组成员		四川省经济和信息化厅	https://jxt.sc.gov.cn/scjxt/liuyinqian/ldxx_leader36.shtml	1285
+袁冰		8		四川省		https://jxt.sc.gov.cn/scjxt/newjgzn/ldcs_new.shtml	总经济师		四川省经济和信息化厅	https://jxt.sc.gov.cn/scjxt/yuanbing/ldxx_leader08.shtml	1285

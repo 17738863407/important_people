@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何庆		1		重庆市		https://jtysw.cq.gov.cn/zwgk_240/zfxxgk/fdzdgknr/jgjj/jgzn_1/	市交通运输委党委书记、主任		重庆市交通运输委员会	https://jtysw.cq.gov.cn/zwgk_240/zfxxgk/fdzdgknr/jgjj/jgzn_1/fzrxx/202412/t20241225_14022049.html	1227
+万雅芬		2		重庆市		https://jtysw.cq.gov.cn/zwgk_240/zfxxgk/fdzdgknr/jgjj/jgzn_1/	市交通运输委 党委委员、副主任		重庆市交通运输委员会	https://jtysw.cq.gov.cn/zwgk_240/zfxxgk/fdzdgknr/jgjj/jgzn_1/fzrxx/202409/t20240913_13626787.html	1227
+李关寿		3		重庆市		https://jtysw.cq.gov.cn/zwgk_240/zfxxgk/fdzdgknr/jgjj/jgzn_1/	市交通运输委 党委专职副书记		重庆市交通运输委员会	https://jtysw.cq.gov.cn/zwgk_240/zfxxgk/fdzdgknr/jgjj/jgzn_1/fzrxx/202409/t20240913_13626777.html	1227
+陈永忠		4		重庆市		https://jtysw.cq.gov.cn/zwgk_240/zfxxgk/fdzdgknr/jgjj/jgzn_1/	市交通运输委 党委委员、副主任		重庆市交通运输委员会	https://jtysw.cq.gov.cn/zwgk_240/zfxxgk/fdzdgknr/jgjj/jgzn_1/fzrxx/202409/t20240913_13626762.html	1227
+郝祎		5		重庆市		https://jtysw.cq.gov.cn/zwgk_240/zfxxgk/fdzdgknr/jgjj/jgzn_1/	市交通运输委 党委委员、副主任		重庆市交通运输委员会	https://jtysw.cq.gov.cn/zwgk_240/zfxxgk/fdzdgknr/jgjj/jgzn_1/fzrxx/202409/t20240913_13626756.html	1227
+卢燕		6		重庆市		https://jtysw.cq.gov.cn/zwgk_240/zfxxgk/fdzdgknr/jgjj/jgzn_1/	市交通运输委 党委委员、市纪委监委驻市交通运输委纪检监察组组长，二级高级监察官		重庆市交通运输委员会	https://jtysw.cq.gov.cn/zwgk_240/zfxxgk/fdzdgknr/jgjj/jgzn_1/fzrxx/202501/t20250127_14245457.html	1227
+李灼		7		重庆市		https://jtysw.cq.gov.cn/zwgk_240/zfxxgk/fdzdgknr/jgjj/jgzn_1/	市交通运输委 党委委员、副主任		重庆市交通运输委员会	https://jtysw.cq.gov.cn/zwgk_240/zfxxgk/fdzdgknr/jgjj/jgzn_1/fzrxx/202607/t20260730_15873889.html	1227
+周向东		8		重庆市		https://jtysw.cq.gov.cn/zwgk_240/zfxxgk/fdzdgknr/jgjj/jgzn_1/	市交通运输委 党委委员，重庆市邮政管理局党组书记、局长		重庆市交通运输委员会	https://jtysw.cq.gov.cn/zwgk_240/zfxxgk/fdzdgknr/jgjj/jgzn_1/fzrxx/202409/t20240913_13626739.html	1227
+蒋仕兵		9		重庆市		https://jtysw.cq.gov.cn/zwgk_240/zfxxgk/fdzdgknr/jgjj/jgzn_1/	市交通运输委 二级巡视员		重庆市交通运输委员会	https://jtysw.cq.gov.cn/zwgk_240/zfxxgk/fdzdgknr/jgjj/jgzn_1/fzrxx/202409/t20240913_13626692.html	1227

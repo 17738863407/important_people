@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于学强		1		全国		https://www.gjrdjj.com/aboutus/team.html	党委书记 董事长 总经理		国家融资担保基金有限责任公司		0724
+何琼		2		全国		https://www.gjrdjj.com/aboutus/team.html	党委委员 专职监事		国家融资担保基金有限责任公司		0724
+李静波		3		全国		https://www.gjrdjj.com/aboutus/team.html	党委委员 纪委书记		国家融资担保基金有限责任公司		0724
+潘家宝		4		全国		https://www.gjrdjj.com/aboutus/team.html	副总经理		国家融资担保基金有限责任公司		0724
+黄全明		5		全国		https://www.gjrdjj.com/aboutus/team.html	财务总监		国家融资担保基金有限责任公司		0724

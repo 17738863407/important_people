@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李秀领		1		全国		https://www.beijing.gov.cn/gongkai/sld/	主任		北京市人民代表大会常务委员会	https://www.beijing.gov.cn/gongkai/sld/srdld/zr/202301/t20230119_2905916.html	0111
+游钧		2		全国		https://www.beijing.gov.cn/gongkai/sld/	副主任		北京市人民代表大会常务委员会	https://www.beijing.gov.cn/gongkai/sld/srdld/fzr/202601/t20260129_4474869.html	0111
+齐静		3		全国		https://www.beijing.gov.cn/gongkai/sld/	副主任		北京市人民代表大会常务委员会	https://www.beijing.gov.cn/gongkai/sld/srdld/fzr/202201/t20220109_2586285.html	0111
+庞丽娟		4		全国		https://www.beijing.gov.cn/gongkai/sld/	副主任		北京市人民代表大会常务委员会	https://www.beijing.gov.cn/gongkai/sld/srdld/fzr/202004/t20200420_1858523.html	0111
+侯君舒		5		全国		https://www.beijing.gov.cn/gongkai/sld/	副主任		北京市人民代表大会常务委员会	https://www.beijing.gov.cn/gongkai/sld/srdld/fzr/202004/t20200420_1858402.html	0111
+于军		6		全国		https://www.beijing.gov.cn/gongkai/sld/	副主任		北京市人民代表大会常务委员会	https://www.beijing.gov.cn/gongkai/sld/srdld/fzr/202301/t20230119_2905918.html	0111
+王建中		7		全国		https://www.beijing.gov.cn/gongkai/sld/	秘书长		北京市人民代表大会常务委员会	https://www.beijing.gov.cn/gongkai/sld/srdld/msz/202401/t20240124_3544654.html	0111

@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+安春茂		1		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=7	郑州市科学技术局党组书记		郑州市科学技术局	https://public.zhengzhou.gov.cn/D14Y/7684628.jhtml	2092
+魏宁娣		2		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=7	郑州市科学技术局局长		郑州市科学技术局	https://public.zhengzhou.gov.cn/D14Y/128079.jhtml	2092
+张朝峰		3		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=7	郑州市科学技术局副局长、党组成员，三级调研员		郑州市科学技术局	https://public.zhengzhou.gov.cn/D14Y/6576145.jhtml	2092
+毛丰超		4		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=7	郑州市科学技术局党组成员，二级调研员		郑州市科学技术局	https://public.zhengzhou.gov.cn/D14Y/8075112.jhtml	2092
+王旸		5		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=7	郑州市科学技术局党组成员、副局长		郑州市科学技术局	https://public.zhengzhou.gov.cn/D14Y/8562150.jhtml	2092
+张新民		6		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=7	郑州市科学技术局党组成员、副局长		郑州市科学技术局	https://public.zhengzhou.gov.cn/D14Y/9909998.jhtml	2092
+吕忠洲		7		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=7	郑州市科学技术局党组成员、副局长		郑州市科学技术局	https://public.zhengzhou.gov.cn/D14Y/10088970.jhtml	2092
+范昕		8		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=7	郑州市科学技术局二级调研员		郑州市科学技术局	https://public.zhengzhou.gov.cn/D14Y/298802.jhtml	2092
+靳蕾		9		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=7	郑州市科学技术局二级调研员		郑州市科学技术局	https://public.zhengzhou.gov.cn/D14Y/128051.jhtml	2092
+孙智勇		10		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=7	郑州市科学技术局三级调研员		郑州市科学技术局	https://public.zhengzhou.gov.cn/D14Y/6576222.jhtml	2092
+范秋菊		11		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=7	郑州市科学技术局三级调研员		郑州市科学技术局	https://public.zhengzhou.gov.cn/D14Y/6576236.jhtml	2092

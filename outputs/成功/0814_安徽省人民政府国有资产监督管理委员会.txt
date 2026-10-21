@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王宏		1		安徽省		https://gzw.ah.gov.cn/public/column/7031?type=4&catId=43796521&action=list&nav=3	党委书记、主任		安徽省人民政府国有资产监督管理委员会	https://gzw.ah.gov.cn/public/7031/57820311.html	0814
+王永娟		2		安徽省		https://gzw.ah.gov.cn/public/column/7031?type=4&catId=43796521&action=list&nav=3	驻委纪检监察组组长、委党委委员		安徽省人民政府国有资产监督管理委员会	https://gzw.ah.gov.cn/public/7031/58207821.html	0814
+李向阳		3		安徽省		https://gzw.ah.gov.cn/public/column/7031?type=4&catId=43796521&action=list&nav=3	党委委员、副主任		安徽省人民政府国有资产监督管理委员会	https://gzw.ah.gov.cn/public/7031/57820351.html	0814
+吴明		4		安徽省		https://gzw.ah.gov.cn/public/column/7031?type=4&catId=43796521&action=list&nav=3	党委委员、副主任		安徽省人民政府国有资产监督管理委员会	https://gzw.ah.gov.cn/public/7031/57820371.html	0814
+阚立军		5		安徽省		https://gzw.ah.gov.cn/public/column/7031?type=4&catId=43796521&action=list&nav=3	二级巡视员		安徽省人民政府国有资产监督管理委员会	https://gzw.ah.gov.cn/public/7031/57820421.html	0814
+刘峰		6		安徽省		https://gzw.ah.gov.cn/public/column/7031?type=4&catId=43796521&action=list&nav=3	二级巡视员		安徽省人民政府国有资产监督管理委员会	https://gzw.ah.gov.cn/public/7031/57820431.html	0814
+徐俊华		7		安徽省		https://gzw.ah.gov.cn/public/column/7031?type=4&catId=43796521&action=list&nav=3	二级巡视员		安徽省人民政府国有资产监督管理委员会	https://gzw.ah.gov.cn/public/7031/58134831.html	0814
+左申齐		8		安徽省		https://gzw.ah.gov.cn/public/column/7031?type=4&catId=43796521&action=list&nav=3	二级巡视员		安徽省人民政府国有资产监督管理委员会	https://gzw.ah.gov.cn/public/7031/58135281.html	0814
+刘永学		9		安徽省		https://gzw.ah.gov.cn/public/column/7031?type=4&catId=43796521&action=list&nav=3	总会计师		安徽省人民政府国有资产监督管理委员会	https://gzw.ah.gov.cn/public/7031/57909511.html	0814
+刘一青		10		安徽省		https://gzw.ah.gov.cn/public/column/7031?type=4&catId=43796521&action=list&nav=3	总经济师		安徽省人民政府国有资产监督管理委员会	https://gzw.ah.gov.cn/public/7031/58258671.html	0814

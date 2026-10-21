@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王栋		1		新疆维吾尔自治区		https://wlt.xinjiang.gov.cn/wlt/c116125/ldxx.shtml	自治区文化和旅游厅党组书记、副厅长		新疆维吾尔自治区文化和旅游厅	https://wlt.xinjiang.gov.cn/wlt/c116125/202603/c496b7237f3e44f083ed29525a4049cd.shtml	2959
+古丽·阿不力木		2		新疆维吾尔自治区		https://wlt.xinjiang.gov.cn/wlt/c116125/ldxx.shtml	自治区文化和旅游厅党组副书记、厅长		新疆维吾尔自治区文化和旅游厅	https://wlt.xinjiang.gov.cn/wlt/c116125/202603/0874a3da5d9447c1b5bd37fdbfd6e5f4.shtml	2959
+王子彬		3		新疆维吾尔自治区		https://wlt.xinjiang.gov.cn/wlt/c116125/ldxx.shtml	自治区文化和旅游厅党组成员、副厅长		新疆维吾尔自治区文化和旅游厅	https://wlt.xinjiang.gov.cn/wlt/c116125/202603/98cfcd30062b4859872e09918256b074.shtml	2959
+张莉英		4		新疆维吾尔自治区		https://wlt.xinjiang.gov.cn/wlt/c116125/ldxx.shtml	自治区文化和旅游厅党组成员、副厅长		新疆维吾尔自治区文化和旅游厅	https://wlt.xinjiang.gov.cn/wlt/c116125/202603/1fda4e1712d2489f8941359c492cab18.shtml	2959
+闫晓东		5		新疆维吾尔自治区		https://wlt.xinjiang.gov.cn/wlt/c116125/ldxx.shtml	自治区文化和旅游厅党组成员、副厅长（援疆）		新疆维吾尔自治区文化和旅游厅	https://wlt.xinjiang.gov.cn/wlt/c116125/202608/0e122051e7f54e7ab65626bc34139413.shtml	2959
+张勇东		6		新疆维吾尔自治区		https://wlt.xinjiang.gov.cn/wlt/c116125/ldxx.shtml	自治区文化和旅游厅党组成员、副厅长		新疆维吾尔自治区文化和旅游厅	https://wlt.xinjiang.gov.cn/wlt/c116125/202603/cc67e24d471d46c38a83ec9605966cce.shtml	2959
+蔡晓荣		7		新疆维吾尔自治区		https://wlt.xinjiang.gov.cn/wlt/c116125/ldxx.shtml	自治区文化和旅游厅党组成员、副厅长		新疆维吾尔自治区文化和旅游厅	https://wlt.xinjiang.gov.cn/wlt/c116125/202603/d05e848b37ce49189821176c4f8e6c42.shtml	2959
+李军		8		新疆维吾尔自治区		https://wlt.xinjiang.gov.cn/wlt/c116125/ldxx.shtml	自治区文化和旅游厅党组成员，自治区文物局党组书记、局长		新疆维吾尔自治区文化和旅游厅	https://wlt.xinjiang.gov.cn/wlt/c116125/202603/2fd1981b356b4f1cb498ed35d4d1fab7.shtml	2959
+燕乃敏		9		新疆维吾尔自治区		https://wlt.xinjiang.gov.cn/wlt/c116125/ldxx.shtml	自治区文化和旅游厅一级巡视员		新疆维吾尔自治区文化和旅游厅	https://wlt.xinjiang.gov.cn/wlt/c116125/202603/fc37109e7094463e8e4af87b4918ee39.shtml	2959
+余洁		10		新疆维吾尔自治区		https://wlt.xinjiang.gov.cn/wlt/c116125/ldxx.shtml	自治区文化和旅游厅一级巡视员		新疆维吾尔自治区文化和旅游厅	https://wlt.xinjiang.gov.cn/wlt/c116125/202603/d287b83a66d54c8aa89cc2a1bde1678c.shtml	2959

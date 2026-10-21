@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邹展业		1		广西壮族自治区		http://swt.gxzf.gov.cn/jggk/ldbz/	广西壮族自治区商务厅党组书记、厅长，自治区口岸办公室主任，中国（广西）自由贸易试验区工作办公室主任		广西壮族自治区商务厅	http://swt.gxzf.gov.cn/ldrl/	2623
+刘柏		2		广西壮族自治区		http://swt.gxzf.gov.cn/jggk/ldbz/	广西壮族自治区纪委监委驻自治区商务厅纪检监察组组长，自治区商务厅党组成员、二级高级监察官		广西壮族自治区商务厅	http://swt.gxzf.gov.cn/jggk/ldbz/t18620844.shtml	2623
+粟坚		3		广西壮族自治区		http://swt.gxzf.gov.cn/jggk/ldbz/	广西壮族自治区商务厅一级巡视员		广西壮族自治区商务厅	http://swt.gxzf.gov.cn/jggk/ldbz/t692899.shtml	2623
+李硕		4		广西壮族自治区		http://swt.gxzf.gov.cn/jggk/ldbz/	广西壮族自治区商务厅党组成员、副厅长，自治区口岸办公室副主任		广西壮族自治区商务厅	http://swt.gxzf.gov.cn/jggk/ldbz/t10474545.shtml	2623
+傅晋明		5		广西壮族自治区		http://swt.gxzf.gov.cn/jggk/ldbz/	自治区商务厅党组成员、自治区打击走私综合治理领导小组办公室专职副主任，厅直属机关党委书记、商务行业社会组织党委书记		广西壮族自治区商务厅	http://swt.gxzf.gov.cn/jggk/ldbz/t15785510.shtml	2623
+朱雁玲		6		广西壮族自治区		http://swt.gxzf.gov.cn/jggk/ldbz/	广西壮族自治区商务厅党组成员、副厅长		广西壮族自治区商务厅	http://swt.gxzf.gov.cn/jggk/ldbz/t18620960.shtml	2623
+王新红		7		广西壮族自治区		http://swt.gxzf.gov.cn/jggk/ldbz/	中国（广西）自由贸易试验区工作办公室专职副主任（副厅长级）		广西壮族自治区商务厅	http://swt.gxzf.gov.cn/jggk/ldbz/t19479892.shtml	2623
+陈彦武		8		广西壮族自治区		http://swt.gxzf.gov.cn/jggk/ldbz/	广西壮族自治区商务厅党组成员、副厅长		广西壮族自治区商务厅	http://swt.gxzf.gov.cn/jggk/ldbz/t26748074.shtml	2623

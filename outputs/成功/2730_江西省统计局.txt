@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+曾永生		1		江西省		http://tjj.jiangxi.gov.cn/jxstjj/col/col5481/content/content_1872873035246972928.html	江西省统计局党组书记、局长		江西省统计局		2730
+喻滨		2		江西省		http://tjj.jiangxi.gov.cn/jxstjj/col/col5481/content/content_1872873035246972928.html	江西省统计局党组成员、副局长		江西省统计局		2730
+康冬明		3		江西省		http://tjj.jiangxi.gov.cn/jxstjj/col/col5481/content/content_1872873035246972928.html	江西省统计局党组成员、副局长		江西省统计局		2730
+胡九根		4		江西省		http://tjj.jiangxi.gov.cn/jxstjj/col/col5481/content/content_1872873035246972928.html	江西省统计局党组成员、副局长		江西省统计局		2730
+杨裕光		5		江西省		http://tjj.jiangxi.gov.cn/jxstjj/col/col5481/content/content_1872873035246972928.html	江西省统计局二级巡视员		江西省统计局		2730

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蔡奇		1		全国		https://www.news.cn/politics/leaders/	中央政治局常委、中央书记处书记，中央办公厅主任、中央和国家机关工委书记、中央党校（国家行政学院）校长（院长）		中央书记处书记	https://www.news.cn/politics/leaders/20260622/ee225363f1b5439ca328d4a5b542c943/c.html	1894
+石泰峰		2		全国		https://www.news.cn/politics/leaders/	中共二十届中央政治局委员、中央书记处书记，十四届全国政协副主席，中央组织部部长		中央书记处书记	https://www.news.cn/politics/leaders/20250403/df018f59adca492c9be52496b70fafef/c.html	1894
+李干杰		3		全国		https://www.news.cn/politics/leaders/	中央政治局委员、中央书记处书记，中央统战部部长		中央书记处书记	https://www.news.cn/politics/leaders/20250403/b873d9ada1c6450cbc505d4230a85c17/c.html	1894
+李书磊		4		全国		https://www.news.cn/politics/leaders/	中央政治局委员、中央书记处书记，中央宣传部部长		中央书记处书记	http://www.news.cn/politics/leaders/2023-01/13/c_1129280441.htm	1894
+陈文清		5		全国		https://www.news.cn/politics/leaders/	中央政治局委员、中央书记处书记，中央政法委书记		中央书记处书记	http://www.news.cn/politics/leaders/2023-01/13/c_1129280475.htm	1894
+刘金国		6		全国		https://www.news.cn/politics/leaders/	中共二十届中央书记处书记，中央纪律检查委员会副书记，国家监察委员会主任，总监察官		中央书记处书记	http://www.news.cn/politics/leaders/2023-03/12/c_1129280514.htm	1894
+王小洪		7		全国		https://www.news.cn/politics/leaders/	中共二十届中央书记处书记，国务委员、国务院党组成员，公安部部长、党委书记，中央政法委员会副书记，总警监		中央书记处书记	http://www.news.cn/politics/leaders/2023-03/13/c_1129280516.htm	1894

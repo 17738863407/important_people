@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵钢		1		四川省	成都市	https://rfb.chengdu.gov.cn/cdsrmfkw/c135147/zwgk_ldbz_list.shtml	党组书记、主任		成都市人民政府国防动员办公室		2177
+李晓勇		2		四川省	成都市	https://rfb.chengdu.gov.cn/cdsrmfkw/c135147/zwgk_ldbz_list.shtml	党组成员、副主任		成都市人民政府国防动员办公室		2177
+黄剑		3		四川省	成都市	https://rfb.chengdu.gov.cn/cdsrmfkw/c135147/zwgk_ldbz_list.shtml	党组成员、副主任		成都市人民政府国防动员办公室		2177
+李大巍		4		四川省	成都市	https://rfb.chengdu.gov.cn/cdsrmfkw/c135147/zwgk_ldbz_list.shtml	党组成员、副主任		成都市人民政府国防动员办公室		2177
+杜伟		5		四川省	成都市	https://rfb.chengdu.gov.cn/cdsrmfkw/c135147/zwgk_ldbz_list.shtml	党组成员、机关党委书记		成都市人民政府国防动员办公室		2177
+诸红举		6		四川省	成都市	https://rfb.chengdu.gov.cn/cdsrmfkw/c135147/zwgk_ldbz_list.shtml	二级巡视员		成都市人民政府国防动员办公室		2177
+李光辉		7		四川省	成都市	https://rfb.chengdu.gov.cn/cdsrmfkw/c135147/zwgk_ldbz_list.shtml	二级巡视员		成都市人民政府国防动员办公室		2177

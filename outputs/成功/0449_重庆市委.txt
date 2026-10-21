@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+袁家军		1		全国		http://district.ce.cn/zt/rwk/sf/cq/index.shtml	市委书记		重庆市委		0449
+陈新武		2		全国		http://district.ce.cn/zt/rwk/sf/cq/index.shtml	市委副书记、市长		重庆市委		0449
+宋依佳		3		全国		http://district.ce.cn/zt/rwk/sf/cq/index.shtml	市委常委、纪委书记、监委主任		重庆市委		0449
+卢红		4		全国		http://district.ce.cn/zt/rwk/sf/cq/index.shtml	市委常委、万州区委书记		重庆市委		0449
+刘尚进		5		全国		http://district.ce.cn/zt/rwk/sf/cq/index.shtml	市委常委，市政府党组副书记、副市长		重庆市委		0449
+商奎		6		全国		http://district.ce.cn/zt/rwk/sf/cq/index.shtml	市委常委、统战部部长		重庆市委		0449
+马震		7		全国		http://district.ce.cn/zt/rwk/sf/cq/index.shtml	市委常委、组织部部长		重庆市委		0449
+王燕崎		8		全国		http://district.ce.cn/zt/rwk/sf/cq/index.shtml	市委常委、重庆警备区司令员		重庆市委		0449

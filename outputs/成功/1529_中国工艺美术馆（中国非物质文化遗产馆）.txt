@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王晨阳		1		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202407/t20240719_954229.htm	党委书记		中国工艺美术馆（中国非物质文化遗产馆）		1529
+魏大威		2		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202407/t20240719_954229.htm	副馆长		中国工艺美术馆（中国非物质文化遗产馆）		1529
+杨斌		3		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202407/t20240719_954229.htm	副馆长		中国工艺美术馆（中国非物质文化遗产馆）		1529
+王辉		4		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202407/t20240719_954229.htm	副馆长、党委副书记		中国工艺美术馆（中国非物质文化遗产馆）		1529
+苏丹		5		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202407/t20240719_954229.htm	副馆长		中国工艺美术馆（中国非物质文化遗产馆）		1529

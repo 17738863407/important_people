@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈文海		1		海南省	海口市	https://tjj.haikou.gov.cn/hkstjj/ldxx/list.shtml	海口市统计局党组书记、局长		海口市统计局	https://tjj.haikou.gov.cn/hkstjj/ldxx/202603/408e6de3a42e47909f867c20c6f9c948.shtml	2723
+王业民		2		海南省	海口市	https://tjj.haikou.gov.cn/hkstjj/ldxx/list.shtml	海口市统计局党组成员、副局长		海口市统计局	https://tjj.haikou.gov.cn/hkstjj/ldxx/202603/078062af885a4bb0b18004b469e5ed42.shtml	2723
+邓宁坤		3		海南省	海口市	https://tjj.haikou.gov.cn/hkstjj/ldxx/list.shtml	海口市统计局党组成员、副局长		海口市统计局	https://tjj.haikou.gov.cn/hkstjj/ldxx/202502/e63c43e8dfce4dd69568fbfff309c74e.shtml	2723
+韩愈		4		海南省	海口市	https://tjj.haikou.gov.cn/hkstjj/ldxx/list.shtml	海口市统计局副局长		海口市统计局	https://tjj.haikou.gov.cn/hkstjj/ldxx/202601/d5c358fe0fcc43c5a81ece32ec4bc429.shtml	2723
+谢式金		5		海南省	海口市	https://tjj.haikou.gov.cn/hkstjj/ldxx/list.shtml	海口市统计局二级调研员		海口市统计局	https://tjj.haikou.gov.cn/hkstjj/ldxx/202603/b9e28e3c3acb4cfdb63b48881b24d761.shtml	2723
+祖恩普		6		海南省	海口市	https://tjj.haikou.gov.cn/hkstjj/ldxx/list.shtml	海口市统计局四级调研员		海口市统计局	https://tjj.haikou.gov.cn/hkstjj/ldxx/202603/f6d27472573a47d595b2b8d598d051bf.shtml	2723

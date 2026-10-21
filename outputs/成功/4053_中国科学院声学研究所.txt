@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李风华		1		全国		https://ioa.cas.cn/skjj/xrld/	所长		中国科学院声学研究所		4053
+库卫群		2		全国		https://ioa.cas.cn/skjj/xrld/	党委书记、副所长		中国科学院声学研究所		4053
+李明庚		3		全国		https://ioa.cas.cn/skjj/xrld/	副所长（正局级）		中国科学院声学研究所		4053
+杨军		4		全国		https://ioa.cas.cn/skjj/xrld/	副所长		中国科学院声学研究所		4053
+王雷		5		全国		https://ioa.cas.cn/skjj/xrld/	纪委书记		中国科学院声学研究所		4053

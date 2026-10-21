@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄艺		1		重庆市		https://rlsbj.cq.gov.cn/zwgk_182/fdzdgknr/jgzn/	党组书记、局长		重庆市人力资源和社会保障局	https://rlsbj.cq.gov.cn/zwgk_182/fdzdgknr/jgzn/fzrxx/202409/t20240909_13608325.html	2191
+屈克逊		2		重庆市		https://rlsbj.cq.gov.cn/zwgk_182/fdzdgknr/jgzn/	党组副书记、副局长		重庆市人力资源和社会保障局	https://rlsbj.cq.gov.cn/zwgk_182/fdzdgknr/jgzn/fzrxx/202607/t20260717_15831742.html	2191
+郑夕明		3		重庆市		https://rlsbj.cq.gov.cn/zwgk_182/fdzdgknr/jgzn/	党组成员、一级巡视员		重庆市人力资源和社会保障局	https://rlsbj.cq.gov.cn/zwgk_182/fdzdgknr/jgzn/fzrxx/202409/t20240909_13608320.html	2191
+苏静		4		重庆市		https://rlsbj.cq.gov.cn/zwgk_182/fdzdgknr/jgzn/	党组成员、副局长		重庆市人力资源和社会保障局	https://rlsbj.cq.gov.cn/zwgk_182/fdzdgknr/jgzn/fzrxx/202409/t20240909_13608319.html	2191
+胡京		5		重庆市		https://rlsbj.cq.gov.cn/zwgk_182/fdzdgknr/jgzn/	党组成员、副局长		重庆市人力资源和社会保障局	https://rlsbj.cq.gov.cn/zwgk_182/fdzdgknr/jgzn/fzrxx/202409/t20240909_13608324.html	2191
+李东		6		重庆市		https://rlsbj.cq.gov.cn/zwgk_182/fdzdgknr/jgzn/	党组成员、市纪委监委驻市人力社保局纪检监察组组长		重庆市人力资源和社会保障局	https://rlsbj.cq.gov.cn/zwgk_182/fdzdgknr/jgzn/fzrxx/202409/t20240929_13671034.html	2191
+孙承豪		7		重庆市		https://rlsbj.cq.gov.cn/zwgk_182/fdzdgknr/jgzn/	党组成员、副局长		重庆市人力资源和社会保障局	https://rlsbj.cq.gov.cn/zwgk_182/fdzdgknr/jgzn/fzrxx/202502/t20250212_14297700.html	2191
+李林峰		8		重庆市		https://rlsbj.cq.gov.cn/zwgk_182/fdzdgknr/jgzn/	党组成员、副局长		重庆市人力资源和社会保障局	https://rlsbj.cq.gov.cn/zwgk_182/fdzdgknr/jgzn/fzrxx/202505/t20250512_14601366.html	2191

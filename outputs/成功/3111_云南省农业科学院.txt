@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱江		1		云南省		https://www.yaas.org.cn/bygk/ldjs.html	云南省农业科学院党委书记。		云南省农业科学院	https://www.yaas.org.cn/bygk/ldjs/202409/20240906_116304.html	3111
+王继华		2		云南省		https://www.yaas.org.cn/bygk/ldjs.html	云南省农业科学院党委副书记、院长。		云南省农业科学院	https://www.yaas.org.cn/bygk/ldjs/202406/20240624_109880.html	3111
+王海燕		3		云南省		https://www.yaas.org.cn/bygk/ldjs.html	云南省农业科学院党委副书记、院工会主席、院机关党委书记。		云南省农业科学院	https://www.yaas.org.cn/bygk/ldjs/202406/20240624_109881.html	3111
+张跃彬		4		云南省		https://www.yaas.org.cn/bygk/ldjs.html	云南省农业科学院党委委员、副院长。		云南省农业科学院	https://www.yaas.org.cn/bygk/ldjs/202406/20240624_109883.html	3111
+周霖		5		云南省		https://www.yaas.org.cn/bygk/ldjs.html	云南省农业科学院党委委员、纪委书记。		云南省农业科学院	https://www.yaas.org.cn/bygk/ldjs/202406/20240624_109884.html	3111
+龚加顺		6		云南省		https://www.yaas.org.cn/bygk/ldjs.html	云南省农业科学院党委委员、副院长。		云南省农业科学院	https://www.yaas.org.cn/bygk/ldjs/202406/20240624_109885.html	3111
+李小林		7		云南省		https://www.yaas.org.cn/bygk/ldjs.html	云南省农业科学院党委委员、副院长。		云南省农业科学院	https://www.yaas.org.cn/bygk/ldjs/202406/20240624_109886.html	3111
+胡强		8		云南省		https://www.yaas.org.cn/bygk/ldjs.html	云南省农业科学院党委委员、副院长。		云南省农业科学院	https://www.yaas.org.cn/bygk/ldjs/202406/20240624_109887.html	3111
+陈福		9		云南省		https://www.yaas.org.cn/bygk/ldjs.html	云南省农业科学院党委委员、副院长。		云南省农业科学院	https://www.yaas.org.cn/bygk/ldjs/202406/20240624_109888.html	3111

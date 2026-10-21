@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱晟		1		新疆维吾尔自治区	乌鲁木齐市	https://www.wlmq.gov.cn/wlmqs/c119280/202608/bfbec95f7c3642478bb05efa27823e71.shtml	党组副书记、局长		乌鲁木齐市商务局		2934
+李海涛		2		新疆维吾尔自治区	乌鲁木齐市	https://www.wlmq.gov.cn/wlmqs/c119280/202608/bfbec95f7c3642478bb05efa27823e71.shtml	党组成员、副局长（援疆）		乌鲁木齐市商务局		2934
+狄娜		3		新疆维吾尔自治区	乌鲁木齐市	https://www.wlmq.gov.cn/wlmqs/c119280/202608/bfbec95f7c3642478bb05efa27823e71.shtml	党组成员、副局长		乌鲁木齐市商务局		2934
+赵善朴		4		新疆维吾尔自治区	乌鲁木齐市	https://www.wlmq.gov.cn/wlmqs/c119280/202608/bfbec95f7c3642478bb05efa27823e71.shtml	党组成员、副局长		乌鲁木齐市商务局		2934
+阿孜古丽·吾甫尔		5		新疆维吾尔自治区	乌鲁木齐市	https://www.wlmq.gov.cn/wlmqs/c119280/202608/bfbec95f7c3642478bb05efa27823e71.shtml	党组成员、副局长		乌鲁木齐市商务局		2934
+兰彬		6		新疆维吾尔自治区	乌鲁木齐市	https://www.wlmq.gov.cn/wlmqs/c119280/202608/bfbec95f7c3642478bb05efa27823e71.shtml	党组成员，中国国际贸易促进委员会乌鲁木齐市委员会（中国国际商会乌鲁木齐商会）会长		乌鲁木齐市商务局		2934

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐国华		1		广西壮族自治区		http://gat.gxzf.gov.cn/xxgk_68662/fdzdgknr/ldjj_68665/	广西壮族自治区公安厅党委书记、厅长，自治区党委政法委副书记		广西壮族自治区公安厅	http://gat.gxzf.gov.cn/xxgk_68662/fdzdgknr/ldjj_68665/t27389764.shtml	0627
+罗贤瑞		2		广西壮族自治区		http://gat.gxzf.gov.cn/xxgk_68662/fdzdgknr/ldjj_68665/	广西壮族自治区公安厅党委副书记、副厅长（正厅长级）		广西壮族自治区公安厅	http://gat.gxzf.gov.cn/xxgk_68662/fdzdgknr/ldjj_68665/t17330721.shtml	0627
+王书陆		3		广西壮族自治区		http://gat.gxzf.gov.cn/xxgk_68662/fdzdgknr/ldjj_68665/	自治区公安厅党委委员、特勤局党委书记、局长		广西壮族自治区公安厅	http://gat.gxzf.gov.cn/xxgk_68662/fdzdgknr/ldjj_68665/t17330681.shtml	0627
+朱永辉		4		广西壮族自治区		http://gat.gxzf.gov.cn/xxgk_68662/fdzdgknr/ldjj_68665/	广西壮族自治区公安厅党委委员、副厅长		广西壮族自治区公安厅	http://gat.gxzf.gov.cn/xxgk_68662/fdzdgknr/ldjj_68665/t17330828.shtml	0627
+罗棋权		5		广西壮族自治区		http://gat.gxzf.gov.cn/xxgk_68662/fdzdgknr/ldjj_68665/	广西壮族自治区公安厅党委委员、副厅长		广西壮族自治区公安厅	http://gat.gxzf.gov.cn/xxgk_68662/fdzdgknr/ldjj_68665/t17330862.shtml	0627
+罗卫东		6		广西壮族自治区		http://gat.gxzf.gov.cn/xxgk_68662/fdzdgknr/ldjj_68665/	广西壮族自治区公安厅党委委员、副厅长		广西壮族自治区公安厅	http://gat.gxzf.gov.cn/xxgk_68662/fdzdgknr/ldjj_68665/t17330562.shtml	0627
+朱亚明		7		广西壮族自治区		http://gat.gxzf.gov.cn/xxgk_68662/fdzdgknr/ldjj_68665/	广西壮族自治区公安厅党委委员、政治部主任		广西壮族自治区公安厅	http://gat.gxzf.gov.cn/xxgk_68662/fdzdgknr/ldjj_68665/t18380182.shtml	0627
+辛堃		8		广西壮族自治区		http://gat.gxzf.gov.cn/xxgk_68662/fdzdgknr/ldjj_68665/	广西壮族自治区纪委监委驻自治区公安厅纪检监察组组长，自治区公安厅党委委员		广西壮族自治区公安厅	http://gat.gxzf.gov.cn/xxgk_68662/fdzdgknr/ldjj_68665/t25915583.shtml	0627

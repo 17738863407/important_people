@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蔡伟		1		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/bmdyzs_673629/	司长		外交部北美大洋洲司		1558
+姚明		2		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/bmdyzs_673629/	副司长		外交部北美大洋洲司		1558
+张永超		3		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/bmdyzs_673629/	副司长		外交部北美大洋洲司		1558
+杨志伦		4		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/bmdyzs_673629/	副司长		外交部北美大洋洲司		1558
+赵文飞		5		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/bmdyzs_673629/	副司长		外交部北美大洋洲司		1558

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+阮敦梁		1		福建省	厦门市	http://sports.xm.gov.cn/zzjg/ldbz/	厦门市体育局党组书记、局长		厦门市体育局	http://sports.xm.gov.cn/zzjg/ldbz/202407/t20240717_2878541.htm	2527
+吴明显		2		福建省	厦门市	http://sports.xm.gov.cn/zzjg/ldbz/	厦门市体育局党组成员、副书记、二级巡视员		厦门市体育局	http://sports.xm.gov.cn/zzjg/ldbz/202601/t20260127_2979122.htm	2527
+陈岚		3		福建省	厦门市	http://sports.xm.gov.cn/zzjg/ldbz/	厦门市体育局党组成员、副局长		厦门市体育局	http://sports.xm.gov.cn/zzjg/ldbz/202407/t20240717_2878540.htm	2527
+杜新飞		4		福建省	厦门市	http://sports.xm.gov.cn/zzjg/ldbz/	厦门市体育局党组成员、副局长		厦门市体育局	http://sports.xm.gov.cn/zzjg/ldbz/202407/t20240717_2878539.htm	2527
+劳建军		5		福建省	厦门市	http://sports.xm.gov.cn/zzjg/ldbz/	厦门市体育局党组成员、副局长		厦门市体育局	http://sports.xm.gov.cn/zzjg/ldbz/202407/t20240717_2878537.htm	2527
+沈岚		6		福建省	厦门市	http://sports.xm.gov.cn/zzjg/ldbz/	厦门市体育局党组成员、政策法规处处长		厦门市体育局	http://sports.xm.gov.cn/zzjg/ldbz/202511/t20251117_2967452.htm	2527

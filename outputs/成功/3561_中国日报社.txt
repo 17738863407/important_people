@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+曲莹璞		1		全国		https://cn.chinadaily.com.cn/5b753f9fa310030f813cf408/5f59c820a31009ff9fddf6bc/5f59c843a31009ff9fddf6bf/	社长兼总编辑		中国日报社		3561
+周立		2		全国		https://cn.chinadaily.com.cn/5b753f9fa310030f813cf408/5f59c820a31009ff9fddf6bc/5f59c843a31009ff9fddf6bf/	副总编辑		中国日报社		3561
+刘伟玲		3		全国		https://cn.chinadaily.com.cn/5b753f9fa310030f813cf408/5f59c820a31009ff9fddf6bc/5f59c843a31009ff9fddf6bf/	副总编辑		中国日报社		3561
+朱宝霞		4		全国		https://cn.chinadaily.com.cn/5b753f9fa310030f813cf408/5f59c820a31009ff9fddf6bc/5f59c843a31009ff9fddf6bf/	副社长		中国日报社		3561
+邢志刚		5		全国		https://cn.chinadaily.com.cn/5b753f9fa310030f813cf408/5f59c820a31009ff9fddf6bc/5f59c843a31009ff9fddf6bf/	副总编辑		中国日报社		3561
+纪涛		6		全国		https://cn.chinadaily.com.cn/5b753f9fa310030f813cf408/5f59c820a31009ff9fddf6bc/5f59c843a31009ff9fddf6bf/	副总编辑		中国日报社		3561
+陈智明		7		全国		https://cn.chinadaily.com.cn/5b753f9fa310030f813cf408/5f59c820a31009ff9fddf6bc/5f59c843a31009ff9fddf6bf/	编委委员		中国日报社		3561

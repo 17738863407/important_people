@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄朝椿		1		贵州省		https://sky.guizhou.gov.cn/zwgk/zfxxgk/fdzdgknr/zzjg/	贵州省社会科学院党委书记		贵州省社会科学院	https://sky.guizhou.gov.cn/zwgk/zfxxgk/fdzdgknr/zzjg/ldzc_4511431/202503/t20250319_87202849.html	2473
+黄勇		2		贵州省		https://sky.guizhou.gov.cn/zwgk/zfxxgk/fdzdgknr/zzjg/	贵州省社会科学院党委副书记、院长		贵州省社会科学院	https://sky.guizhou.gov.cn/zwgk/zfxxgk/fdzdgknr/zzjg/ldzc_4511431/202503/t20250319_87202890.html	2473
+赵普		3		贵州省		https://sky.guizhou.gov.cn/zwgk/zfxxgk/fdzdgknr/zzjg/	贵州省社会科学院党委常委、副院长（保留正厅长级）		贵州省社会科学院	https://sky.guizhou.gov.cn/zwgk/zfxxgk/fdzdgknr/zzjg/ldzc_4511431/202503/t20250319_87202959.html	2473
+胡庆		4		贵州省		https://sky.guizhou.gov.cn/zwgk/zfxxgk/fdzdgknr/zzjg/	贵州省社会科学院党委常委、副院长		贵州省社会科学院	https://sky.guizhou.gov.cn/zwgk/zfxxgk/fdzdgknr/zzjg/ldzc_4511431/202506/t20250619_88163714.html	2473
+谢忠文		5		贵州省		https://sky.guizhou.gov.cn/zwgk/zfxxgk/fdzdgknr/zzjg/	贵州省社会科学院党委常委、副院长		贵州省社会科学院	https://sky.guizhou.gov.cn/zwgk/zfxxgk/fdzdgknr/zzjg/ldzc_4511431/202503/t20250319_87203138.html	2473
+王峰		6		贵州省		https://sky.guizhou.gov.cn/zwgk/zfxxgk/fdzdgknr/zzjg/	党委常委、副院长		贵州省社会科学院	https://sky.guizhou.gov.cn/zwgk/zfxxgk/fdzdgknr/zzjg/ldzc_4511431/202609/t20260910_90856625.html	2473

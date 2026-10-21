@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王新跃		1		全国		http://fwj.mwr.cn/zgzn/ldjh/	局党委书记、局长		水利部机关服务局		0586
+种青芳		2		全国		http://fwj.mwr.cn/zgzn/ldjh/	副局长		水利部机关服务局		0586
+赵凯靖		3		全国		http://fwj.mwr.cn/zgzn/ldjh/	副局长		水利部机关服务局		0586
+汪福学		4		全国		http://fwj.mwr.cn/zgzn/ldjh/	副局长		水利部机关服务局		0586

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈国宏		1		江西省	南昌市	http://ajj.nc.gov.cn/ncajj/gkldxxn/bmxxgk_list.shtml	党委书记、局长		南昌市应急管理局	https://ajj.nc.gov.cn/ncajj/gkldxxn/202307/3acb181585ff4e4f99fd10aa97911c09.shtml	0075
+马小娟		2		江西省	南昌市	http://ajj.nc.gov.cn/ncajj/gkldxxn/bmxxgk_list.shtml	党委委员、副局长		南昌市应急管理局	https://ajj.nc.gov.cn/ncajj/gkldxxn/202509/bd6e1cbb70d94b2f88c1c19691872384.shtml	0075
+陶志海		3		江西省	南昌市	http://ajj.nc.gov.cn/ncajj/gkldxxn/bmxxgk_list.shtml	党委委员、副局长		南昌市应急管理局	https://ajj.nc.gov.cn/ncajj/gkldxxn/201911/86172efb1d5c4e61b135b69588c40ede.shtml	0075
+杨航		4		江西省	南昌市	http://ajj.nc.gov.cn/ncajj/gkldxxn/bmxxgk_list.shtml	党委委员、副局长		南昌市应急管理局	https://ajj.nc.gov.cn/ncajj/gkldxxn/202509/ac9399b2941b49ee8f08ec1b555ca402.shtml	0075
+陈虎		5		江西省	南昌市	http://ajj.nc.gov.cn/ncajj/gkldxxn/bmxxgk_list.shtml	党委委员、副局长		南昌市应急管理局	https://ajj.nc.gov.cn/ncajj/gkldxxn/202509/8d6c86cca3c74814be3ec26285e27d61.shtml	0075

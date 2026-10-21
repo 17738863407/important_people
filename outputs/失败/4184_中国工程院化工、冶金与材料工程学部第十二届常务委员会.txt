@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李言荣		1		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	主任		中国工程院化工、冶金与材料工程学部第十二届常务委员会		4184
+戴厚良		2		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	副主任		中国工程院化工、冶金与材料工程学部第十二届常务委员会		4184
+刘正东		3		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	副主任		中国工程院化工、冶金与材料工程学部第十二届常务委员会		4184
+张平祥		4		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	副主任		中国工程院化工、冶金与材料工程学部第十二届常务委员会		4184

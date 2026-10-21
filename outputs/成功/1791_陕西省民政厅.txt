@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李智远		1		陕西省		https://mzt.shaanxi.gov.cn/jg/	党组书记、厅长		陕西省民政厅	https://mzt.shaanxi.gov.cn/jg/ldxx/202409/t20240902_2570627.html	1791
+王明智		2		陕西省		https://mzt.shaanxi.gov.cn/jg/	党组成员、副厅长		陕西省民政厅	https://mzt.shaanxi.gov.cn/jg/ldxx/202608/t20260827_3670335.html	1791
+李平		3		陕西省		https://mzt.shaanxi.gov.cn/jg/	党组成员、副厅长		陕西省民政厅	https://mzt.shaanxi.gov.cn/jg/ldxx/202409/t20240902_2570632.html	1791
+冯朝勇		4		陕西省		https://mzt.shaanxi.gov.cn/jg/	党组成员、副厅长		陕西省民政厅	https://mzt.shaanxi.gov.cn/jg/ldxx/202504/t20250427_3508044.html	1791
+冯雨		5		陕西省		https://mzt.shaanxi.gov.cn/jg/	党组成员、副厅长		陕西省民政厅	https://mzt.shaanxi.gov.cn/jg/ldxx/202511/t20251125_3588172.html	1791
+郭惠敏		6		陕西省		https://mzt.shaanxi.gov.cn/jg/	一级巡视员		陕西省民政厅	https://mzt.shaanxi.gov.cn/jg/ldxx/202409/t20240902_2570633.html	1791
+张可春		7		陕西省		https://mzt.shaanxi.gov.cn/jg/	二级巡视员		陕西省民政厅	https://mzt.shaanxi.gov.cn/jg/ldxx/202409/t20240902_2570631.html	1791
+高静		8		陕西省		https://mzt.shaanxi.gov.cn/jg/	二级巡视员		陕西省民政厅	https://mzt.shaanxi.gov.cn/jg/ldxx/202606/t20260603_3643944.html	1791

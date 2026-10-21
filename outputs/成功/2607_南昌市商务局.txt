@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+付向宇		1		江西省	南昌市	https://swj.nc.gov.cn/ncsswj/ldxx/202109/b42e5a2a2992496db69ad2c98df666ba.shtml	党组书记、局长，中国国际贸易促进委员会南昌市支会（中国国际商会南昌商会）党组书记、会长（兼）		南昌市商务局		2607
+李凌鹏		2		江西省	南昌市	https://swj.nc.gov.cn/ncsswj/ldxx/202109/b42e5a2a2992496db69ad2c98df666ba.shtml	党组成员、副局长		南昌市商务局	https://swj.nc.gov.cn/ncsswj/ldxx/202201/e8e4eb13bb974295a35912c9bfd6a121.shtml	2607
+金伟		3		江西省	南昌市	https://swj.nc.gov.cn/ncsswj/ldxx/202109/b42e5a2a2992496db69ad2c98df666ba.shtml	副局长		南昌市商务局	https://swj.nc.gov.cn/ncsswj/ldxx/202201/a945b65dc61a48b6a8e6b4b88e532e2e.shtml	2607
+胡足卿		4		江西省	南昌市	https://swj.nc.gov.cn/ncsswj/ldxx/202109/b42e5a2a2992496db69ad2c98df666ba.shtml	党组成员、副局长		南昌市商务局	https://swj.nc.gov.cn/ncsswj/ldxx/202109/e9dcc5c0a45644908f16a50618b6870f.shtml	2607
+袁静		5		江西省	南昌市	https://swj.nc.gov.cn/ncsswj/ldxx/202109/b42e5a2a2992496db69ad2c98df666ba.shtml	党组成员、副局长		南昌市商务局	https://swj.nc.gov.cn/ncsswj/ldxx/202304/e6bb15929ead4de18d9a95d0f3d1645a.shtml	2607
+曾伟群		6		江西省	南昌市	https://swj.nc.gov.cn/ncsswj/ldxx/202109/b42e5a2a2992496db69ad2c98df666ba.shtml	三级调研员		南昌市商务局	https://swj.nc.gov.cn/ncsswj/ldxx/202201/4baccf7d1b874497abf9a4a81c266030.shtml	2607
+陶东铭		7		江西省	南昌市	https://swj.nc.gov.cn/ncsswj/ldxx/202109/b42e5a2a2992496db69ad2c98df666ba.shtml	四级调研员		南昌市商务局	https://swj.nc.gov.cn/ncsswj/ldxx/202109/4e1787a75115470499b435af6e6e681b.shtml	2607
+雷艳		8		江西省	南昌市	https://swj.nc.gov.cn/ncsswj/ldxx/202109/b42e5a2a2992496db69ad2c98df666ba.shtml	四级调研员		南昌市商务局	https://swj.nc.gov.cn/ncsswj/ldxx/202109/9121528d1209458583629039bbaab668.shtml	2607
+徐国华		9		江西省	南昌市	https://swj.nc.gov.cn/ncsswj/ldxx/202109/b42e5a2a2992496db69ad2c98df666ba.shtml	四级调研员		南昌市商务局	https://swj.nc.gov.cn/ncsswj/ldxx/202201/3433f0f24d8644f8bb91c7f9870e02c5.shtml	2607
+董德		10		江西省	南昌市	https://swj.nc.gov.cn/ncsswj/ldxx/202109/b42e5a2a2992496db69ad2c98df666ba.shtml	中国国际贸易促进委员会南昌市支会（中国国际商会南昌商会）党组成员、副会长		南昌市商务局	https://swj.nc.gov.cn/ncsswj/ldxx/202201/c644e051024e4374b6ac2dc0bce144fb.shtml	2607

@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+付兆峰		1		吉林省		https://mpa.jl.gov.cn/xxgk_84894/ldjj/fzf/	吉林省药品监督管理局党组成员、副局长		吉林省药品监督管理局	https://mpa.jl.gov.cn/xxgk_84894/ldjj/fzf/202208/t20220810_8535323.html	1697
+李金波		2		吉林省		https://mpa.jl.gov.cn/xxgk_84894/ldjj/fzf/	吉林省药品监督管理局党组成员、副局长		吉林省药品监督管理局	https://mpa.jl.gov.cn/xxgk_84894/ldjj/ljb_205662/202005/t20200507_7200514.html	1697
+张健		3		吉林省		https://mpa.jl.gov.cn/xxgk_84894/ldjj/fzf/	吉林省药品监督管理局党组成员、副局长		吉林省药品监督管理局	https://mpa.jl.gov.cn/xxgk_84894/ldjj/zj/202405/t20240530_8915142.html	1697
+田春莉		4		吉林省		https://mpa.jl.gov.cn/xxgk_84894/ldjj/fzf/	吉林省药品监督管理局党组成员、药品安全总监		吉林省药品监督管理局	https://mpa.jl.gov.cn/xxgk_84894/ldjj/tcl/202405/t20240530_8915143.html	1697

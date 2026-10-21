@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王晓东		1		黑龙江省		https://zrzyt.hlj.gov.cn/zrzyt/c112243/jgldnew.shtml	厅党组书记、厅长		黑龙江省自然资源厅	https://zrzyt.hlj.gov.cn/zrzyt/c112243/202306/c00_31638960.shtml	3413
+李光辉		2		黑龙江省		https://zrzyt.hlj.gov.cn/zrzyt/c112243/jgldnew.shtml	厅党组成员、省地质矿产局党委书记、局长		黑龙江省自然资源厅	https://zrzyt.hlj.gov.cn/zrzyt/c112243/202306/c00_31638959.shtml	3413
+赵景海		3		黑龙江省		https://zrzyt.hlj.gov.cn/zrzyt/c112243/jgldnew.shtml	厅党组成员、副厅长		黑龙江省自然资源厅	https://zrzyt.hlj.gov.cn/zrzyt/c112243/201810/c00_30861942.shtml	3413
+史憨		4		黑龙江省		https://zrzyt.hlj.gov.cn/zrzyt/c112243/jgldnew.shtml	厅党组成员、副厅长		黑龙江省自然资源厅	https://zrzyt.hlj.gov.cn/zrzyt/c112243/202008/c00_30861946.shtml	3413
+李华		5		黑龙江省		https://zrzyt.hlj.gov.cn/zrzyt/c112243/jgldnew.shtml	厅党组成员、省纪委监委驻省自然资源厅纪检监察组组长、二级高级监察官		黑龙江省自然资源厅	https://zrzyt.hlj.gov.cn/zrzyt/c112243/202309/c00_31667630.shtml	3413
+舒思齐		6		黑龙江省		https://zrzyt.hlj.gov.cn/zrzyt/c112243/jgldnew.shtml	厅党组成员、副厅长		黑龙江省自然资源厅	https://zrzyt.hlj.gov.cn/zrzyt/c112243/202607/c00_31958632.shtml	3413
+杨权		7		黑龙江省		https://zrzyt.hlj.gov.cn/zrzyt/c112243/jgldnew.shtml	厅党组成员、副厅长		黑龙江省自然资源厅	https://zrzyt.hlj.gov.cn/zrzyt/c112243/202306/c00_31638967.shtml	3413
+陶占强		8		黑龙江省		https://zrzyt.hlj.gov.cn/zrzyt/c112243/jgldnew.shtml	厅党组成员、副厅长		黑龙江省自然资源厅	https://zrzyt.hlj.gov.cn/zrzyt/c112243/202506/c00_31852320.shtml	3413

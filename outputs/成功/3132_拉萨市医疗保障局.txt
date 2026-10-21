@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+普布扎西		1		西藏自治区	拉萨市	http://ybj.lasa.gov.cn/lsylbzj/shuji/ldxx_list.shtml	党组书记		拉萨市医疗保障局	http://ybj.lasa.gov.cn/lsylbzj/shuji/201910/c9b6709fe5e5434597a1610ca700de79.shtml	3132
+列桑		2		西藏自治区	拉萨市	http://ybj.lasa.gov.cn/lsylbzj/shuji/ldxx_list.shtml	党组副副书记、局长		拉萨市医疗保障局	http://ybj.lasa.gov.cn/lsylbzj/thsz/201910/1a420fced7c2479f81de40ba081e0259.shtml	3132
+次仁多吉		3		西藏自治区	拉萨市	http://ybj.lasa.gov.cn/lsylbzj/shuji/ldxx_list.shtml	党组成员、副局长、三级调研员		拉萨市医疗保障局	http://ybj.lasa.gov.cn/lsylbzj/ehsz/201910/20b4d53419cd4f07950d1bceed1a43bf.shtml	3132
+李君梅		4		西藏自治区	拉萨市	http://ybj.lasa.gov.cn/lsylbzj/shuji/ldxx_list.shtml	党组成员、副局长		拉萨市医疗保障局	http://ybj.lasa.gov.cn/lsylbzj/ehsz/201910/962de055cbae4e73999ae69ef05f5d1a.shtml	3132

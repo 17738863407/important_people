@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+顾雪飞		1		山东省		http://www.sdjcy.gov.cn/sygk/ldjs/	党组书记、检察长、二级大检察官、省委政法委副书记		山东省人民检察院	http://www.sdjcy.gov.cn/sygk/ldjs/202212/t20221230_4204787.html	4559
+于玉		2		山东省		http://www.sdjcy.gov.cn/sygk/ldjs/	党组副书记、副检察长、检察委员会委员、一级高级检察官		山东省人民检察院	http://www.sdjcy.gov.cn/sygk/ldjs/202501/t20250118_4784543.html	4559
+鲍峰		3		山东省		http://www.sdjcy.gov.cn/sygk/ldjs/	党组副书记、副检察长、检察委员会委员、一级高级检察官		山东省人民检察院	http://www.sdjcy.gov.cn/sygk/ldjs/202102/t20210205_3933522.html	4559
+王绍亮		4		山东省		http://www.sdjcy.gov.cn/sygk/ldjs/	党组成员、省纪委监委驻省检察院纪检监察组组长、二级高级监察官		山东省人民检察院	http://www.sdjcy.gov.cn/sygk/ldjs/202305/t20230522_4328259.html	4559
+王新建		5		山东省		http://www.sdjcy.gov.cn/sygk/ldjs/	党组成员、副检察长、检察委员会委员、一级高级检察官		山东省人民检察院	http://www.sdjcy.gov.cn/sygk/ldjs/201802/t20180227_3933515.html	4559
+衣光军		6		山东省		http://www.sdjcy.gov.cn/sygk/ldjs/	副检察长、检察委员会委员、二级高级检察官		山东省人民检察院	http://www.sdjcy.gov.cn/sygk/ldjs/201802/t20180227_3933518.html	4559
+刘建军		7		山东省		http://www.sdjcy.gov.cn/sygk/ldjs/	党组成员、政治部主任（副厅级）、直属机关党委书记		山东省人民检察院	http://www.sdjcy.gov.cn/sygk/ldjs/202208/t20220831_4045477.html	4559
+王钦杰		8		山东省		http://www.sdjcy.gov.cn/sygk/ldjs/	党组成员、副检察长、检察委员会委员、一级高级检察官		山东省人民检察院	http://www.sdjcy.gov.cn/sygk/ldjs/202403/t20240315_4712541.html	4559
+张敬艳		9		山东省		http://www.sdjcy.gov.cn/sygk/ldjs/	检察委员会专职检察委员、一级高级检察官		山东省人民检察院	http://www.sdjcy.gov.cn/sygk/ldjs/202409/t20240930_4762585.html	4559

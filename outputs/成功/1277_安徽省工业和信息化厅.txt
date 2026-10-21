@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+冯克金		1		安徽省		https://jx.ah.gov.cn/content/column/51520831	省工业和信息化厅党组书记、厅长		安徽省工业和信息化厅	https://jx.ah.gov.cn/content/column/51520841?liId=1031	1277
+程英春		2		安徽省		https://jx.ah.gov.cn/content/column/51520831	省工业和信息化厅党组成员、副厅长		安徽省工业和信息化厅	https://jx.ah.gov.cn/content/column/51520841?liId=1011	1277
+罗文杉		3		安徽省		https://jx.ah.gov.cn/content/column/51520831	省工业和信息化厅党组成员、副厅长		安徽省工业和信息化厅	https://jx.ah.gov.cn/content/column/51520841?liId=1241	1277
+施力		4		安徽省		https://jx.ah.gov.cn/content/column/51520831	省工业和信息化厅党组成员、副厅长		安徽省工业和信息化厅	https://jx.ah.gov.cn/content/column/51520841?liId=1411	1277
+蒋晨捷		5		安徽省		https://jx.ah.gov.cn/content/column/51520831	省工业和信息化厅党组成员、副厅长		安徽省工业和信息化厅	https://jx.ah.gov.cn/content/column/51520841?liId=1431	1277
+吴润松		6		安徽省		https://jx.ah.gov.cn/content/column/51520831	省纪委监委驻省工信厅纪检监察组组长、省工信厅党组成员、二级高级监察官		安徽省工业和信息化厅	https://jx.ah.gov.cn/content/column/51520841?liId=1471	1277
+王国武		7		安徽省		https://jx.ah.gov.cn/content/column/51520831	省工业和信息化厅二级巡视员		安徽省工业和信息化厅	https://jx.ah.gov.cn/content/column/51520841?liId=1491	1277
+崔益群		8		安徽省		https://jx.ah.gov.cn/content/column/51520831	省工业和信息化厅二级巡视员		安徽省工业和信息化厅	https://jx.ah.gov.cn/content/column/51520841?liId=1341	1277
+王林		9		安徽省		https://jx.ah.gov.cn/content/column/51520831	省工业和信息化厅二级巡视员		安徽省工业和信息化厅	https://jx.ah.gov.cn/content/column/51520841?liId=1451	1277
+李晓帆		10		安徽省		https://jx.ah.gov.cn/content/column/51520831	省工业和信息化厅二级巡视员		安徽省工业和信息化厅	https://jx.ah.gov.cn/content/column/51520841?liId=401	1277
+胡海林		11		安徽省		https://jx.ah.gov.cn/content/column/51520831	省工业和信息化厅二级巡视员		安徽省工业和信息化厅	https://jx.ah.gov.cn/content/column/51520841?liId=1561	1277
+沈忠林		12		安徽省		https://jx.ah.gov.cn/content/column/51520831	省工业和信息化厅总工程师		安徽省工业和信息化厅	https://jx.ah.gov.cn/content/column/51520841?liId=1351	1277
+张曙光		13		安徽省		https://jx.ah.gov.cn/content/column/51520831	省工业和信息化厅总经济师		安徽省工业和信息化厅	https://jx.ah.gov.cn/content/column/51520841?liId=1331	1277

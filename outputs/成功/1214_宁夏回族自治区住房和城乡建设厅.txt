@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王天军		1		宁夏回族自治区		https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/wtj/	党组书记		宁夏回族自治区住房和城乡建设厅		1214
+沈爱红		2		宁夏回族自治区		https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/wtj/	厅长		宁夏回族自治区住房和城乡建设厅	https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/sah/	1214
+刘国兴		3		宁夏回族自治区		https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/wtj/	党组成员、自治区纪委监委驻住房和城乡建设厅纪检监察组组长		宁夏回族自治区住房和城乡建设厅	https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/lgx/	1214
+李梅		4		宁夏回族自治区		https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/wtj/	党组成员、副厅长		宁夏回族自治区住房和城乡建设厅	https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/lm/	1214
+苏克宁		5		宁夏回族自治区		https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/wtj/	党组成员、副厅长		宁夏回族自治区住房和城乡建设厅	https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/skn/	1214
+张钊		6		宁夏回族自治区		https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/wtj/	党组成员、副厅长		宁夏回族自治区住房和城乡建设厅	https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/zz/	1214
+杨普		7		宁夏回族自治区		https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/wtj/	党组成员、总经济师		宁夏回族自治区住房和城乡建设厅	https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/yp/	1214
+刘冬梅		8		宁夏回族自治区		https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/wtj/	副厅长		宁夏回族自治区住房和城乡建设厅	https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/ldm/	1214
+刘婕		9		宁夏回族自治区		https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/wtj/	一级巡视员		宁夏回族自治区住房和城乡建设厅	https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/liujie/	1214
+隋峰		10		宁夏回族自治区		https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/wtj/	二级巡视员		宁夏回族自治区住房和城乡建设厅	https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/sf/	1214
+杨茂华		11		宁夏回族自治区		https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/wtj/	二级巡视员		宁夏回族自治区住房和城乡建设厅	https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/ymh/	1214
+刘军		12		宁夏回族自治区		https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/wtj/	总工程师、一级调研员		宁夏回族自治区住房和城乡建设厅	https://jst.nx.gov.cn/zwgk/zfxxgk/fdzdgknr/jgzn/ldjj/lj/	1214

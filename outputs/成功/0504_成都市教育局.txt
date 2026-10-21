@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+熊宗辉		1		四川省	成都市	https://edu.chengdu.gov.cn/cdedu/c112923/ldjs.shtml	成都市委教育工委书记，市教育局党组书记、局长		成都市教育局	https://edu.chengdu.gov.cn/cdedu/c112923/2021-06/18/content_930820c16cca42629ef92ea5c97816c5.shtml	0504
+沈鹏		2		四川省	成都市	https://edu.chengdu.gov.cn/cdedu/c112923/ldjs.shtml	成都市委教育工委专职副书记，市教育局党组成员		成都市教育局	https://edu.chengdu.gov.cn/cdedu/c112923/2019-03/21/content_b6897994f7414e9ca4961c1eaa7711d4.shtml	0504
+陈蕾		3		四川省	成都市	https://edu.chengdu.gov.cn/cdedu/c112923/ldjs.shtml	成都市委教育工委副书记，市教育纪检监察工委书记，市教育局党组成员、市纪委监委驻市教育局纪检监察组组长、三级高级监察官		成都市教育局	https://edu.chengdu.gov.cn/cdedu/c112923/2018-09/25/content_5d4c735b13fe4b04b88af9a7b0d81d4f.shtml	0504
+唐敏		4		四川省	成都市	https://edu.chengdu.gov.cn/cdedu/c112923/ldjs.shtml	成都市委教育工委委员，市教育局党组成员、副局长		成都市教育局	https://edu.chengdu.gov.cn/cdedu/c112923/2023-04/20/content_29ae85ade81a4fef8c00efdf542041a7.shtml	0504
+黄辉		5		四川省	成都市	https://edu.chengdu.gov.cn/cdedu/c112923/ldjs.shtml	成都市委教育工委委员，市教育局党组成员、副局长		成都市教育局	https://edu.chengdu.gov.cn/cdedu/c112923/2026-02/09/content_4ea874001f3749faa5dd4f458c791768.shtml	0504
+敬仕勇		6		四川省	成都市	https://edu.chengdu.gov.cn/cdedu/c112923/ldjs.shtml	成都市委教育工委委员，市教育局党组成员、副局长		成都市教育局	https://edu.chengdu.gov.cn/cdedu/c112923/2022-07/22/content_6ddcfee717d84f09810cfdefdb30f16c.shtml	0504
+杜忠云		7		四川省	成都市	https://edu.chengdu.gov.cn/cdedu/c112923/ldjs.shtml	成都市委教育工委委员，市教育局副局长		成都市教育局	https://edu.chengdu.gov.cn/cdedu/c112923/2024-05/31/content_834c7def27f14b229fa57923f3deb558.shtml	0504
+石斌		8		四川省	成都市	https://edu.chengdu.gov.cn/cdedu/c112923/ldjs.shtml	成都市委教育工委委员，市人民政府总督学		成都市教育局	https://edu.chengdu.gov.cn/cdedu/c112923/2022-03/02/content_a781dc5e21224af190c7cb8b9254c2ae.shtml	0504
+谭莹		9		四川省	成都市	https://edu.chengdu.gov.cn/cdedu/c112923/ldjs.shtml	成都市教育局党组成员、机关党委书记		成都市教育局	https://edu.chengdu.gov.cn/cdedu/c112923/2022-12/02/content_922d1420a443417fb55921b46bfc3d24.shtml	0504

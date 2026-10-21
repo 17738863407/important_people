@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈海生		1		全国		https://iet.cas.cn/about/xrld/	所长		中国科学院工程热物理研究所	http://www.iet.cas.cn/about/xrld/202109/t20210915_6203390.html	4076
+徐纲		2		全国		https://iet.cas.cn/about/xrld/	党委书记、副所长		中国科学院工程热物理研究所	https://iet.cas.cn/about/xrld/202109/t20210915_6203387.html	4076
+魏涌澎		3		全国		https://iet.cas.cn/about/xrld/	党委副书记、纪委书记		中国科学院工程热物理研究所	https://iet.cas.cn/about/xrld/202109/t20210915_6203388.html	4076
+隋军		4		全国		https://iet.cas.cn/about/xrld/	副所长		中国科学院工程热物理研究所	https://iet.cas.cn/about/xrld/202204/t20220424_6438175.html	4076

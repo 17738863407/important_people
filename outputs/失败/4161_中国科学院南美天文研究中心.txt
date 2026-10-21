@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵公博		1		全国		https://cassaca.org/zh/%E4%BA%BA%E5%91%98/%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86%E5%92%8C%E6%94%AF%E6%92%91%E4%BA%BA%E5%91%98/	主任；研究员		中国科学院南美天文研究中心		4161
+黄家声		2		全国		https://cassaca.org/zh/%E4%BA%BA%E5%91%98/%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86%E5%92%8C%E6%94%AF%E6%92%91%E4%BA%BA%E5%91%98/	主任；首席科学家		中国科学院南美天文研究中心		4161
+王仲		3		全国		https://cassaca.org/zh/%E4%BA%BA%E5%91%98/%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86%E5%92%8C%E6%94%AF%E6%92%91%E4%BA%BA%E5%91%98/	资深顾问		中国科学院南美天文研究中心		4161
+Guido Garay		4		全国		https://cassaca.org/zh/%E4%BA%BA%E5%91%98/%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86%E5%92%8C%E6%94%AF%E6%92%91%E4%BA%BA%E5%91%98/	智方首席科学家		中国科学院南美天文研究中心		4161
+朱磊		5		全国		https://cassaca.org/zh/%E4%BA%BA%E5%91%98/%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86%E5%92%8C%E6%94%AF%E6%92%91%E4%BA%BA%E5%91%98/	主任助理		中国科学院南美天文研究中心		4161
+Pablo Fernando García Fuentes		6		全国		https://cassaca.org/zh/%E4%BA%BA%E5%91%98/%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86%E5%92%8C%E6%94%AF%E6%92%91%E4%BA%BA%E5%91%98/	项目助理		中国科学院南美天文研究中心		4161
+曹元萍		7		全国		https://cassaca.org/zh/%E4%BA%BA%E5%91%98/%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86%E5%92%8C%E6%94%AF%E6%92%91%E4%BA%BA%E5%91%98/	行政助理		中国科学院南美天文研究中心		4161
+吴淑梅		8		全国		https://cassaca.org/zh/%E4%BA%BA%E5%91%98/%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86%E5%92%8C%E6%94%AF%E6%92%91%E4%BA%BA%E5%91%98/	项目助理		中国科学院南美天文研究中心		4161
+刘施羽		9		全国		https://cassaca.org/zh/%E4%BA%BA%E5%91%98/%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86%E5%92%8C%E6%94%AF%E6%92%91%E4%BA%BA%E5%91%98/	财务		中国科学院南美天文研究中心		4161
+白雪		10		全国		https://cassaca.org/zh/%E4%BA%BA%E5%91%98/%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86%E5%92%8C%E6%94%AF%E6%92%91%E4%BA%BA%E5%91%98/	财务		中国科学院南美天文研究中心		4161
+张媛		11		全国		https://cassaca.org/zh/%E4%BA%BA%E5%91%98/%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86%E5%92%8C%E6%94%AF%E6%92%91%E4%BA%BA%E5%91%98/	秘书		中国科学院南美天文研究中心		4161
+李旸鹏		12		全国		https://cassaca.org/zh/%E4%BA%BA%E5%91%98/%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86%E5%92%8C%E6%94%AF%E6%92%91%E4%BA%BA%E5%91%98/	秘书		中国科学院南美天文研究中心		4161

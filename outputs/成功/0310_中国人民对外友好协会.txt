@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨万明		1		全国		https://www.cpaffc.org.cn/index/xiehui/leader/lang/1.html	会长		中国人民对外友好协会	https://www.cpaffc.org.cn/index/xiehui/lishihui_detail/id/1/lang/1.html	0310
+袁敏道		2		全国		https://www.cpaffc.org.cn/index/xiehui/leader/lang/1.html	副会长		中国人民对外友好协会	https://www.cpaffc.org.cn/index/xiehui/lishihui_detail/id/16/lang/1.html	0310
+沈昕		3		全国		https://www.cpaffc.org.cn/index/xiehui/leader/lang/1.html	副会长		中国人民对外友好协会	https://www.cpaffc.org.cn/index/xiehui/lishihui_detail/id/19/lang/1.html	0310
+卢向东		4		全国		https://www.cpaffc.org.cn/index/xiehui/leader/lang/1.html	副会长		中国人民对外友好协会	https://www.cpaffc.org.cn/index/xiehui/lishihui_detail/id/23/lang/1.html	0310
+孙学庆		5		全国		https://www.cpaffc.org.cn/index/xiehui/leader/lang/1.html	副会长		中国人民对外友好协会	https://www.cpaffc.org.cn/index/xiehui/lishihui_detail/id/21/lang/1.html	0310
+郝忠伟		6		全国		https://www.cpaffc.org.cn/index/xiehui/leader/lang/1.html	秘书长		中国人民对外友好协会	https://www.cpaffc.org.cn/index/xiehui/lishihui_detail/id/27/lang/1.html	0310
+吉拥军		7		全国		https://www.cpaffc.org.cn/index/xiehui/leader/lang/1.html	副秘书长		中国人民对外友好协会	https://www.cpaffc.org.cn/index/xiehui/lishihui_detail/id/24/lang/1.html	0310

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蔡晓季		1		福建省		http://scjgj.fujian.gov.cn/scjgjg/ldzc/hsm/	党组书记、局长，省知识产权局局长		福建省市场监督管理局	http://scjgj.fujian.gov.cn/scjgjg/ldzc/cxj/	2263
+谢再春		2		福建省		http://scjgj.fujian.gov.cn/scjgjg/ldzc/hsm/	党组成员、副局长		福建省市场监督管理局	http://scjgj.fujian.gov.cn/scjgjg/ldzc/xzc/	2263
+许和木		3		福建省		http://scjgj.fujian.gov.cn/scjgjg/ldzc/hsm/	党组成员、副局长、直属机关党委书记		福建省市场监督管理局	http://scjgj.fujian.gov.cn/scjgjg/ldzc/xhm/	2263
+刘征颖		4		福建省		http://scjgj.fujian.gov.cn/scjgjg/ldzc/hsm/	党组成员、省知识产权发展保护中心主任		福建省市场监督管理局	http://scjgj.fujian.gov.cn/scjgjg/ldzc/yhs/	2263
+王文生		5		福建省		http://scjgj.fujian.gov.cn/scjgjg/ldzc/hsm/	党组成员、副局长		福建省市场监督管理局	http://scjgj.fujian.gov.cn/scjgjg/ldzc/wws/	2263
+黄传水		6		福建省		http://scjgj.fujian.gov.cn/scjgjg/ldzc/hsm/	党组成员、副局长		福建省市场监督管理局	http://scjgj.fujian.gov.cn/scjgjg/ldzc/hcs/	2263

@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+舒融		1		全国		https://www.chp.org.cn/#/newsDetail?id=15043	党委书记、秘书长		国家药典委员会		0235
+姜海雯		2		全国		https://www.chp.org.cn/#/newsDetail?id=15043	党委副书记、纪委书记		国家药典委员会		0235
+刘春		3		全国		https://www.chp.org.cn/#/newsDetail?id=15043	副秘书长		国家药典委员会		0235

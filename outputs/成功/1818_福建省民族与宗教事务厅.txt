@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+兰明尚		1		福建省		http://mzzjt.fj.gov.cn/xxgk/jggk/tldzc/lms/	党组书记、厅长，省委统战部副部长、部务会议成员		福建省民族与宗教事务厅		1818
+张东晖		2		福建省		http://mzzjt.fj.gov.cn/xxgk/jggk/tldzc/lms/	党组成员、副厅长		福建省民族与宗教事务厅		1818
+施务农		3		福建省		http://mzzjt.fj.gov.cn/xxgk/jggk/tldzc/lms/	党组成员、副厅长		福建省民族与宗教事务厅		1818
+郭耕		4		福建省		http://mzzjt.fj.gov.cn/xxgk/jggk/tldzc/lms/	党组成员、副厅长		福建省民族与宗教事务厅		1818

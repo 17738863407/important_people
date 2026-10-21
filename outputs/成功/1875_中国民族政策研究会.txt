@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+金炳镐		1		全国		https://www.neac.gov.cn/seac/mwjs/mzzc/jgrysz.shtml	会长；中央民族大学中国民族理论与民族政策研究院原教授（已退休）		中国民族政策研究会		1875
+麻国庆		2		全国		https://www.neac.gov.cn/seac/mwjs/mzzc/jgrysz.shtml	副会长；中央民族大学党委常委、副校长		中国民族政策研究会		1875
+隋青		3		全国		https://www.neac.gov.cn/seac/mwjs/mzzc/jgrysz.shtml	副会长；全国政协民族和宗教委员会驻会副主任		中国民族政策研究会		1875
+黄东辉		4		全国		https://www.neac.gov.cn/seac/mwjs/mzzc/jgrysz.shtml	副会长；国家民委共同发展司副司长		中国民族政策研究会		1875
+沈桂萍		5		全国		https://www.neac.gov.cn/seac/mwjs/mzzc/jgrysz.shtml	副会长；中央社会主义学院民族宗教教研室主任		中国民族政策研究会		1875
+陈建樾		6		全国		https://www.neac.gov.cn/seac/mwjs/mzzc/jgrysz.shtml	副会长；中国社科院民族学与人类学研究所研究员		中国民族政策研究会		1875
+乌小花		7		全国		https://www.neac.gov.cn/seac/mwjs/mzzc/jgrysz.shtml	副会长；中央民族大学研究生院院长（兼秘书长、法定代表人）		中国民族政策研究会		1875
+关凯		8		全国		https://www.neac.gov.cn/seac/mwjs/mzzc/jgrysz.shtml	副会长；中央民族大学铸牢中华民族共同体研究院副院长		中国民族政策研究会		1875
+马银平		9		全国		https://www.neac.gov.cn/seac/mwjs/mzzc/jgrysz.shtml	副会长；山东省政协民族和宗教委员会委员		中国民族政策研究会		1875

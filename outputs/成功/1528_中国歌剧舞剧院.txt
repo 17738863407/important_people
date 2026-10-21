@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+冯俐		1		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202004/t20200430_852890.htm	党委书记、院长		中国歌剧舞剧院		1528
+唐莹		2		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202004/t20200430_852890.htm	副院长		中国歌剧舞剧院		1528
+山翀		3		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202004/t20200430_852890.htm	副院长、艺术总监		中国歌剧舞剧院		1528
+赵麟		4		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202004/t20200430_852890.htm	副院长		中国歌剧舞剧院		1528

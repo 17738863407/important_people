@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李耿坚		1		广东省	汕尾市	http://www.swzx.gov.cn/swzx/zxld/202202/255ca2219f4d4131974217e940b99102.shtml	汕尾市政协主席		汕尾市政协		3954
+黄镜波		2		广东省	汕尾市	http://www.swzx.gov.cn/swzx/zxld/202202/255ca2219f4d4131974217e940b99102.shtml	汕尾市政协副主席		汕尾市政协		3954
+余红		3		广东省	汕尾市	http://www.swzx.gov.cn/swzx/zxld/202202/255ca2219f4d4131974217e940b99102.shtml	汕尾市政协副主席；汕尾市一级巡视员		汕尾市政协		3954
+吕珠龙		4		广东省	汕尾市	http://www.swzx.gov.cn/swzx/zxld/202202/255ca2219f4d4131974217e940b99102.shtml	汕尾市政协副主席		汕尾市政协		3954
+范振学		5		广东省	汕尾市	http://www.swzx.gov.cn/swzx/zxld/202202/255ca2219f4d4131974217e940b99102.shtml	汕尾市政协副主席		汕尾市政协		3954
+许伟明		6		广东省	汕尾市	http://www.swzx.gov.cn/swzx/zxld/202202/255ca2219f4d4131974217e940b99102.shtml	汕尾市政协副主席		汕尾市政协		3954
+李永坚		7		广东省	汕尾市	http://www.swzx.gov.cn/swzx/zxld/202202/255ca2219f4d4131974217e940b99102.shtml	汕尾市政协副主席		汕尾市政协		3954
+何自强		8		广东省	汕尾市	http://www.swzx.gov.cn/swzx/zxld/202202/255ca2219f4d4131974217e940b99102.shtml	汕尾市政协副主席		汕尾市政协		3954
+杨双标		9		广东省	汕尾市	http://www.swzx.gov.cn/swzx/zxld/202202/255ca2219f4d4131974217e940b99102.shtml	汕尾市政协秘书长		汕尾市政协		3954

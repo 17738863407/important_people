@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李国庆		1		吉林省	长春市	http://jyj.changchun.gov.cn/xxgk/jcxxgk/xdxx/	市委教育工委副书记，市教育局党组书记、局长		长春市教育局	http://jyj.changchun.gov.cn/xxgk/jcxxgk/xdxx/202208/t20220809_3050085.html	1302
+祝伟		2		吉林省	长春市	http://jyj.changchun.gov.cn/xxgk/jcxxgk/xdxx/	党组成员、市纪委监委驻市教育局纪检监察组组长		长春市教育局	http://jyj.changchun.gov.cn/xxgk/jcxxgk/xdxx/202111/t20211125_2943944.html	1302
+张晶		3		吉林省	长春市	http://jyj.changchun.gov.cn/xxgk/jcxxgk/xdxx/	市委教育工委专职副书记		长春市教育局	http://jyj.changchun.gov.cn/xxgk/jcxxgk/xdxx/202406/t20240605_3314848.html	1302
+李大伟		4		吉林省	长春市	http://jyj.changchun.gov.cn/xxgk/jcxxgk/xdxx/	党组成员、副局长		长春市教育局	http://jyj.changchun.gov.cn/xxgk/jcxxgk/xdxx/202007/t20200731_2382698.html	1302
+吕德辉		5		吉林省	长春市	http://jyj.changchun.gov.cn/xxgk/jcxxgk/xdxx/	党组成员、副局长		长春市教育局	http://jyj.changchun.gov.cn/xxgk/jcxxgk/xdxx/202007/t20200731_2382702.html	1302
+李亚君		6		吉林省	长春市	http://jyj.changchun.gov.cn/xxgk/jcxxgk/xdxx/	党组成员、副局长		长春市教育局	http://jyj.changchun.gov.cn/xxgk/jcxxgk/xdxx/202111/t20211125_2943946.html	1302
+唐名刚		7		吉林省	长春市	http://jyj.changchun.gov.cn/xxgk/jcxxgk/xdxx/	党组成员， 市政府教育督导室专职督学		长春市教育局	http://jyj.changchun.gov.cn/xxgk/jcxxgk/xdxx/202601/t20260126_3463891.html	1302
+胡培柱		8		吉林省	长春市	http://jyj.changchun.gov.cn/xxgk/jcxxgk/xdxx/	二级巡视员		长春市教育局	http://jyj.changchun.gov.cn/xxgk/jcxxgk/xdxx/202107/t20210714_2868295.html	1302

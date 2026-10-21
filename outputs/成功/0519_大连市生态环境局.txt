@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡凡		1		辽宁省	大连市	https://epb.dl.gov.cn/col/col9083/index.html?vc_xxgkarea=2102000035&number=DL014&jh=263	负责市生态环境局全面工作		大连市生态环境局	https://epb.dl.gov.cn/art/2026/8/6/art_9084_2086887.html	0519
+曲天桥		2		辽宁省	大连市	https://epb.dl.gov.cn/col/col9083/index.html?vc_xxgkarea=2102000035&number=DL014&jh=263	负责局机关行政管理、局机关后勤管理、政务公开、保密、宣传教育、档案管理、政策法规、标准和技术规范管理、统筹协调全市生态环境保护、大气环境保护、辐射安全管理、噪声环境保护、自然生态保护、党务、人事、生态环境事务服务方面工作		大连市生态环境局	https://epb.dl.gov.cn/art/2024/8/8/art_9084_2086886.html	0519
+孙晓梅		3		辽宁省	大连市	https://epb.dl.gov.cn/col/col9083/index.html?vc_xxgkarea=2102000035&number=DL014&jh=263	负责水环境管理、海洋环境管理、土壤及地下水环境管理、农业及农村环境管理、财务、科研、国际合作与交流方面工作		大连市生态环境局	https://epb.dl.gov.cn/art/2024/8/8/art_9084_2086885.html	0519
+张泽勇		4		辽宁省	大连市	https://epb.dl.gov.cn/col/col9083/index.html?vc_xxgkarea=2102000035&number=DL014&jh=263	负责生态环境保护督察、行政审批、营商环境、排污许可综合协调管理、固体废物与化学品管理、应对气候变化、生态环境监测及管理、工业污染防治、生态环境信息化建设和应用方面工作		大连市生态环境局	https://epb.dl.gov.cn/art/2024/8/8/art_9084_2086884.html	0519
+董宇		5		辽宁省	大连市	https://epb.dl.gov.cn/col/col9083/index.html?vc_xxgkarea=2102000035&number=DL014&jh=263	负责生态环境综合执法方面工作		大连市生态环境局	https://epb.dl.gov.cn/art/2024/8/8/art_9084_2086882.html	0519

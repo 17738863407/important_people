@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐大勇		1		江苏省	南京市	https://gaj.nanjing.gov.cn/njsgaj/?id=xxgk_215	省公安厅党委副书记，南京市副市长，市公安局党委书记、局长、督察长		南京市公安局		0614
+李大海		2		江苏省	南京市	https://gaj.nanjing.gov.cn/njsgaj/?id=xxgk_215	市公安局党委副书记、常务副局长		南京市公安局		0614
+尹照荣		3		江苏省	南京市	https://gaj.nanjing.gov.cn/njsgaj/?id=xxgk_215	市公安局党委委员，特勤局党委书记、局长		南京市公安局		0614
+嵇艳霞		4		江苏省	南京市	https://gaj.nanjing.gov.cn/njsgaj/?id=xxgk_215	市公安局党委委员、副局长（二级警务专员）		南京市公安局		0614
+仇文庆		5		江苏省	南京市	https://gaj.nanjing.gov.cn/njsgaj/?id=xxgk_215	市公安局党委委员、政治部主任（二级警务专员）		南京市公安局		0614
+骆晓刚		6		江苏省	南京市	https://gaj.nanjing.gov.cn/njsgaj/?id=xxgk_215	市纪委监委派驻市公安局纪检监察组组长，市公安局党委委员		南京市公安局		0614
+于琦		7		江苏省	南京市	https://gaj.nanjing.gov.cn/njsgaj/?id=xxgk_215	市公安局党委委员、副局长		南京市公安局		0614
+徐正凯		8		江苏省	南京市	https://gaj.nanjing.gov.cn/njsgaj/?id=xxgk_215	市公安局党委委员（二级警务专员）		南京市公安局		0614
+闫常伟		9		江苏省	南京市	https://gaj.nanjing.gov.cn/njsgaj/?id=xxgk_215	市公安局党委委员、副局长		南京市公安局		0614
+仲军		10		江苏省	南京市	https://gaj.nanjing.gov.cn/njsgaj/?id=xxgk_215	市公安局党委委员、副局长（二级警务专员）		南京市公安局		0614

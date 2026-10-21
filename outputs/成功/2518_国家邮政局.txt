@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵冲久		1		全国		https://www.spb.gov.cn/gjyzj/c100001/c100002/jgzn.shtml	党组书记、局长		国家邮政局	https://www.spb.gov.cn/gjyzj/c100001/c100002/zcj/zjgkxq.shtml	2518
+廖进荣		2		全国		https://www.spb.gov.cn/gjyzj/c100001/c100002/jgzn.shtml	党组成员、副局长		国家邮政局	https://www.spb.gov.cn/gjyzj/c100001/c100002/c100096/zjgkxqnew.shtml	2518
+陈凯		3		全国		https://www.spb.gov.cn/gjyzj/c100001/c100002/jgzn.shtml	党组成员、副局长		国家邮政局	https://www.spb.gov.cn/gjyzj/c100001/c100002/c100106/zjgkxqnew.shtml	2518
+沈鸿雁		4		全国		https://www.spb.gov.cn/gjyzj/c100001/c100002/jgzn.shtml	党组成员、副局长		国家邮政局	https://www.spb.gov.cn/gjyzj/c100001/c100002/c100107v/zjgkxqnew.shtml	2518
+周召华		5		全国		https://www.spb.gov.cn/gjyzj/c100001/c100002/jgzn.shtml	党组成员、副局长		国家邮政局	https://www.spb.gov.cn/gjyzj/c100001/c100002/zzh/zjgkxqnew.shtml	2518

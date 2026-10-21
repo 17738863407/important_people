@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周院生		1		全国		https://www.chinanotary.org.cn/site/content/a5be97323493455ea9565c531a07499b/view	会长		中国公证协会		0223
+罗厚如		2		全国		https://www.chinanotary.org.cn/site/content/a5be97323493455ea9565c531a07499b/view	副会长		中国公证协会		0223
+谢愚妮		3		全国		https://www.chinanotary.org.cn/site/content/a5be97323493455ea9565c531a07499b/view	副会长		中国公证协会		0223
+牟海容		4		全国		https://www.chinanotary.org.cn/site/content/a5be97323493455ea9565c531a07499b/view	副会长		中国公证协会		0223
+王朗		5		全国		https://www.chinanotary.org.cn/site/content/a5be97323493455ea9565c531a07499b/view	副会长		中国公证协会		0223
+陈铭勋		6		全国		https://www.chinanotary.org.cn/site/content/a5be97323493455ea9565c531a07499b/view	副会长		中国公证协会		0223
+冯培明		7		全国		https://www.chinanotary.org.cn/site/content/a5be97323493455ea9565c531a07499b/view	副会长		中国公证协会		0223
+李金祥		8		全国		https://www.chinanotary.org.cn/site/content/a5be97323493455ea9565c531a07499b/view	副会长		中国公证协会		0223
+熊飞		9		全国		https://www.chinanotary.org.cn/site/content/a5be97323493455ea9565c531a07499b/view	秘书长		中国公证协会		0223

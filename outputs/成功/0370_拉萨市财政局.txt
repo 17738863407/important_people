@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+格桑洛布		1		西藏自治区	拉萨市	http://czj.lasa.gov.cn/czj/thsz/ldxx_list.shtml	拉萨市财政局党组书记、副局长		拉萨市财政局	http://czj.lasa.gov.cn/czj/thsz/201910/8c2b2d187e6b4759bff005a84863cb28.shtml	0370
+宋礼伟		2		西藏自治区	拉萨市	http://czj.lasa.gov.cn/czj/thsz/ldxx_list.shtml	拉萨市财政局党组副书记、局长		拉萨市财政局	http://czj.lasa.gov.cn/czj/ehsz/202510/10eb594cb0084ff19db75fd76aab6abd.shtml	0370
+旦增		3		西藏自治区	拉萨市	http://czj.lasa.gov.cn/czj/thsz/ldxx_list.shtml	拉萨市财政局党组成员、副局长、三级调研员		拉萨市财政局	http://czj.lasa.gov.cn/czj/fjz/202601/0c75c541586a48ba8a8469566dc57022.shtml	0370
+张嘎		4		西藏自治区	拉萨市	http://czj.lasa.gov.cn/czj/thsz/ldxx_list.shtml	拉萨市财政局党组成员、副局长		拉萨市财政局	http://czj.lasa.gov.cn/czj/fjz/202510/bd8c5eb37cea4eec954fe3dc93bb54c1.shtml	0370
+刘瑞龙		5		西藏自治区	拉萨市	http://czj.lasa.gov.cn/czj/thsz/ldxx_list.shtml	拉萨市财政局党组成员、副局长		拉萨市财政局	http://czj.lasa.gov.cn/czj/fjz/202510/ece7ed1664594c2db5c1fd65c36fa2ea.shtml	0370
+吴向育		6		西藏自治区	拉萨市	http://czj.lasa.gov.cn/czj/thsz/ldxx_list.shtml	拉萨市财政局党组成员、副局长		拉萨市财政局	http://czj.lasa.gov.cn/czj/fjz/202502/cb21dda3e83b471a805cfc4fadd0f4d6.shtml	0370
+次仁德吉		7		西藏自治区	拉萨市	http://czj.lasa.gov.cn/czj/thsz/ldxx_list.shtml	拉萨市财政局党组成员、副局长		拉萨市财政局	http://czj.lasa.gov.cn/czj/fjz/202502/4370c25807b842a794c41976922bffcd.shtml	0370

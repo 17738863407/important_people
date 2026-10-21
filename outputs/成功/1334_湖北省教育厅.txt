@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周静		1		湖北省		http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/	省教育厅党组书记、省委教育工委副书记		湖北省教育厅	http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/th_GK2020/	1334
+孟晖		2		湖北省		http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/	省教育厅厅长、省政府教育督导室主任、主任督学		湖北省教育厅	http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/mh/	1334
+黎虹		3		湖北省		http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/	省教育厅副厅长、一级巡视员		湖北省教育厅	http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/lh_GK2020/	1334
+冯启东		4		湖北省		http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/	省纪委（监委）派驻省教育厅（省委教育工委）纪检监察组组长、省教育厅党组成员、省委教育工委委员		湖北省教育厅	http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/fqd/	1334
+邓立红		5		湖北省		http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/	省教育厅党组成员、副厅长、省委教育工委委员		湖北省教育厅	http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/dlh_GK2020/	1334
+戴伟		6		湖北省		http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/	省教育厅党组成员、副厅长、省委教育工委委员		湖北省教育厅	http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/dw/	1334
+高天琼		7		湖北省		http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/	省教育厅党组成员、省委教育工委专职副书记		湖北省教育厅	http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/gtq/	1334
+梅亚平		8		湖北省		http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/	省教育厅党组成员、副厅长、省委教育工委委员		湖北省教育厅	http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/myp/	1334
+闵石键		9		湖北省		http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/	省政府教育督导室副主任督学		湖北省教育厅	http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/msj/	1334
+周启红		10		湖北省		http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/	正厅长级干部		湖北省教育厅	http://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/zfgzjg_GK2020/ldxx_GK2020/zqh/	1334

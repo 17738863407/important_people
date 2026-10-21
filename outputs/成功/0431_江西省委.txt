@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+尹弘		1		全国		http://district.ce.cn/zt/rwk/sf/jx/index.shtml	省委书记、省人大常委会主任		江西省委	http://district.ce.cn/newarea/sddy/202301/15/t20230115_38347988.shtml	0431
+陈永奇		2		全国		http://district.ce.cn/zt/rwk/sf/jx/index.shtml	省委副书记、政法委书记		江西省委	http://district.ce.cn/newarea/sddy/202508/t20250826_2454587.shtml	0431
+任珠峰		3		全国		http://district.ce.cn/zt/rwk/sf/jx/index.shtml	省委常委、常务副省长		江西省委	http://district.ce.cn/newarea/sddy/202111/27/t20211127_37121119_7.shtml	0431
+庄兆林		4		全国		http://district.ce.cn/zt/rwk/sf/jx/index.shtml	省委常委、组织部部长		江西省委	http://district.ce.cn/newarea/sddy/202402/20/t20240220_38904924.shtml	0431
+黄喜忠		5		全国		http://district.ce.cn/zt/rwk/sf/jx/index.shtml	省委常委，赣州市委书记		江西省委	http://district.ce.cn/newarea/sddy/202412/16/t20241216_39236299.shtml	0431
+时玉宝		6		全国		http://district.ce.cn/zt/rwk/sf/jx/index.shtml	省委常委、纪委书记，省监委主任		江西省委	http://district.ce.cn/newarea/sddy/202601/t20260131_2742899_1.shtml	0431
+盛秋平		7		全国		http://district.ce.cn/zt/rwk/sf/jx/index.shtml	省委常委、南昌市委书记		江西省委	http://district.ce.cn/newarea/sddy/202606/t20260629_3058876.shtml	0431
+陈敏		8		全国		http://district.ce.cn/zt/rwk/sf/jx/index.shtml	省委常委、秘书长		江西省委	http://district.ce.cn/newarea/sddy/202404/03/t20240403_38957958.shtml	0431
+卢小青		9		全国		http://district.ce.cn/zt/rwk/sf/jx/index.shtml	省委常委、宣传部部长		江西省委	http://district.ce.cn/newarea/sddy/202404/01/t20240401_38955286.shtml	0431
+张莹		10		全国		http://district.ce.cn/zt/rwk/sf/jx/index.shtml	省委常委、统战部部长		江西省委	http://district.ce.cn/newarea/sddy/202608/t20260804_3128082.shtml	0431

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孔绍逊		1		全国		http://www.gansu.gov.cn/gsszf/c100035/ldzc.shtml	省委副书记、省长		甘肃省人民政府	https://www.gansu.gov.cn/gsszf/kongsx/kongshaoxun.shtml	0622
+王兵		2		全国		http://www.gansu.gov.cn/gsszf/c100035/ldzc.shtml	副省长		甘肃省人民政府	https://www.gansu.gov.cn/gsszf/wangb/szfld_four.shtml	0622
+王钧		3		全国		http://www.gansu.gov.cn/gsszf/c100035/ldzc.shtml	副省长		甘肃省人民政府	https://www.gansu.gov.cn/gsszf/wangj/szfld_four.shtml	0622
+王旭		4		全国		http://www.gansu.gov.cn/gsszf/c100035/ldzc.shtml	副省长		甘肃省人民政府	https://www.gansu.gov.cn/gsszf/wangx/szfld_four.shtml	0622
+葛建团		5		全国		http://www.gansu.gov.cn/gsszf/c100035/ldzc.shtml	副省长		甘肃省人民政府	https://www.gansu.gov.cn/gsszf/gejt/szfld_four.shtml	0622
+黄海		6		全国		http://www.gansu.gov.cn/gsszf/c100035/ldzc.shtml	副省长		甘肃省人民政府	https://www.gansu.gov.cn/gsszf/huangh/szfld_four.shtml	0622
+何谋保		7		全国		http://www.gansu.gov.cn/gsszf/c100035/ldzc.shtml	秘书长		甘肃省人民政府	https://www.gansu.gov.cn/gsszf/c119886/szfld_four.shtml	0622

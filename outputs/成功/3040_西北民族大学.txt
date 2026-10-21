@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张俊豪		1		甘肃省	兰州市	https://www.xbmu.edu.cn/xxgk/xrld.htm	党委书记		西北民族大学		3040
+王彦斌		2		甘肃省	兰州市	https://www.xbmu.edu.cn/xxgk/xrld.htm	党委副书记、校长		西北民族大学		3040
+石迎春		3		甘肃省	兰州市	https://www.xbmu.edu.cn/xxgk/xrld.htm	党委副书记		西北民族大学		3040
+徐绍文		4		甘肃省	兰州市	https://www.xbmu.edu.cn/xxgk/xrld.htm	党委副书记、副校长		西北民族大学		3040
+马世俊		5		甘肃省	兰州市	https://www.xbmu.edu.cn/xxgk/xrld.htm	党委常委、副校长		西北民族大学		3040
+伍永章		6		甘肃省	兰州市	https://www.xbmu.edu.cn/xxgk/xrld.htm	党委常委、纪委书记		西北民族大学		3040
+景兆玺		7		甘肃省	兰州市	https://www.xbmu.edu.cn/xxgk/xrld.htm	党委常委、副校长		西北民族大学		3040
+王建华		8		甘肃省	兰州市	https://www.xbmu.edu.cn/xxgk/xrld.htm	党委常委、副校长		西北民族大学		3040
+马忠才		9		甘肃省	兰州市	https://www.xbmu.edu.cn/xxgk/xrld.htm	党委常委、副校长		西北民族大学		3040
+李云		10		甘肃省	兰州市	https://www.xbmu.edu.cn/xxgk/xrld.htm	党委常委、总会计师		西北民族大学		3040

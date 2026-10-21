@@ -1,0 +1,2 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+解炜		1		陕西省	西安市	https://www.xa.gov.cn/gk/zfjgml/zssydw/gbdst/ldxx/1.html	党委书记、台长、董事长		西安广播电视台	https://www.xa.gov.cn/gk/zfjgml/zssydw/gbdst/ldxx/617a0fd5f8fd1c0bdc5e59c4.html	3014

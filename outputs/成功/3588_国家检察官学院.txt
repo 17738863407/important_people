@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐全兵		1		全国		https://www.spp.gov.cn/spp/gjyjg/zssydw/202512/t20251217_404120.shtml	党委书记		国家检察官学院		3588
+孙勤		2		全国		https://www.spp.gov.cn/spp/gjyjg/zssydw/202512/t20251217_404120.shtml	院长、党委副书记		国家检察官学院		3588
+周洪波		3		全国		https://www.spp.gov.cn/spp/gjyjg/zssydw/202512/t20251217_404120.shtml	副院长		国家检察官学院		3588
+徐鹤喃		4		全国		https://www.spp.gov.cn/spp/gjyjg/zssydw/202512/t20251217_404120.shtml	副院长		国家检察官学院		3588
+朱全景		5		全国		https://www.spp.gov.cn/spp/gjyjg/zssydw/202512/t20251217_404120.shtml	副院长		国家检察官学院		3588
+王蜀青		6		全国		https://www.spp.gov.cn/spp/gjyjg/zssydw/202512/t20251217_404120.shtml	纪委书记		国家检察官学院		3588
+周晓霞		7		全国		https://www.spp.gov.cn/spp/gjyjg/zssydw/202512/t20251217_404120.shtml	副院长		国家检察官学院		3588

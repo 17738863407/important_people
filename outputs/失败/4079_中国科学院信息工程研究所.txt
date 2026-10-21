@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+操云甫		1		全国		https://iie.cas.cn/jggk/xrld/	党委书记		中国科学院信息工程研究所		4079
+郭莉		2		全国		https://iie.cas.cn/jggk/xrld/	所长、党委副书记		中国科学院信息工程研究所		4079
+蔺占兵		3		全国		https://iie.cas.cn/jggk/xrld/	纪委书记		中国科学院信息工程研究所		4079
+王伟平		4		全国		https://iie.cas.cn/jggk/xrld/	副所长		中国科学院信息工程研究所		4079
+侯锐		5		全国		https://iie.cas.cn/jggk/xrld/	副所长		中国科学院信息工程研究所		4079

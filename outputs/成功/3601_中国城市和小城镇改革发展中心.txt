@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高国力		1		全国		http://www.ccud.org.cn/leader.html	国家发展改革委城市和小城镇改革发展中心党总支书记、主任		中国城市和小城镇改革发展中心	http://www.ccud.org.cn/leaderdetail/615.html	3601
+刘强		2		全国		http://www.ccud.org.cn/leader.html	国家发展改革委城市和小城镇改革发展中心党总支副书记、副主任		中国城市和小城镇改革发展中心	http://www.ccud.org.cn/leaderdetail/805.html	3601
+赵坤		3		全国		http://www.ccud.org.cn/leader.html	国家发展改革委城市和小城镇改革发展中心党总支委员、副主任		中国城市和小城镇改革发展中心	http://www.ccud.org.cn/leaderdetail/708.html	3601

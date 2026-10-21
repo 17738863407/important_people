@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐坚		1		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c107129/202604/c01_1120526.shtml	局长		哈尔滨市财政局		0891
+刘瑀		2		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c107129/202604/c01_1120526.shtml	二级巡视员		哈尔滨市财政局		0891
+鲍秀杰		3		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c107129/202604/c01_1120526.shtml	副局长		哈尔滨市财政局		0891
+孙奇淼		4		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c107129/202604/c01_1120526.shtml	副局长		哈尔滨市财政局		0891
+苏英来		5		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c107129/202604/c01_1120526.shtml	副局长		哈尔滨市财政局		0891
+王祥勇		6		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c107129/202604/c01_1120526.shtml	副局长		哈尔滨市财政局		0891
+张再文		7		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c107129/202604/c01_1120526.shtml	二级巡视员		哈尔滨市财政局		0891

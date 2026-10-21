@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+汪庆华		1		北京市		https://www.ncepu.edu.cn/xxgk/xrld/index.htm	党委书记		华北电力大学		3625
+毕天姝		2		北京市		https://www.ncepu.edu.cn/xxgk/xrld/index.htm	校长、党委副书记		华北电力大学		3625
+郭孝锋		3		北京市		https://www.ncepu.edu.cn/xxgk/xrld/index.htm	党委副书记		华北电力大学		3625
+檀勤良		4		北京市		https://www.ncepu.edu.cn/xxgk/xrld/index.htm	党委常委、副校长		华北电力大学		3625
+朱凌云		5		北京市		https://www.ncepu.edu.cn/xxgk/xrld/index.htm	党委副书记、纪委书记		华北电力大学		3625
+孙传新		6		北京市		https://www.ncepu.edu.cn/xxgk/xrld/index.htm	党委副书记		华北电力大学		3625
+鹿伟		7		北京市		https://www.ncepu.edu.cn/xxgk/xrld/index.htm	党委常委、副校长		华北电力大学		3625
+刘威		8		北京市		https://www.ncepu.edu.cn/xxgk/xrld/index.htm	党委常委、副校长		华北电力大学		3625
+刘云鹏		9		北京市		https://www.ncepu.edu.cn/xxgk/xrld/index.htm	党委常委、副校长		华北电力大学		3625
+房方		10		北京市		https://www.ncepu.edu.cn/xxgk/xrld/index.htm	党委常委、副校长		华北电力大学		3625

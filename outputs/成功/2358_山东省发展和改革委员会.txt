@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙爱军		1		山东省		http://www.shandong.gov.cn/col/col314060/index.html	省发展改革委党组书记、主任（省绿色低碳高质量发展办主任）兼省委改革办副主任、省委财经办副主任、省国动办主任		山东省发展和改革委员会		2358
+郑德雁		2		山东省		http://www.shandong.gov.cn/col/col314060/index.html	省发展改革委党组副书记，省能源局党组书记、局长（正厅级）		山东省发展和改革委员会		2358
+姜宁		3		山东省		http://www.shandong.gov.cn/col/col314060/index.html	省发展改革委党组副书记、副主任，济南新旧动能转换起步区党工委副书记、管委会副主任（正厅级）		山东省发展和改革委员会		2358
+赵庆平		4		山东省		http://www.shandong.gov.cn/col/col314060/index.html	省国防动员办公室党组书记、常务副主任（正厅级），兼省发展改革委副主任		山东省发展和改革委员会		2358
+隽新阳		5		山东省		http://www.shandong.gov.cn/col/col314060/index.html	省发展改革委党组成员，省粮食和储备局党组书记、局长		山东省发展和改革委员会		2358
+张传利		6		山东省		http://www.shandong.gov.cn/col/col314060/index.html	省发展改革委党组成员、省纪委监委驻省发展改革委纪检监察组组长		山东省发展和改革委员会		2358
+刘勇		7		山东省		http://www.shandong.gov.cn/col/col314060/index.html	省发展改革委党组成员、副主任		山东省发展和改革委员会		2358
+李秋生		8		山东省		http://www.shandong.gov.cn/col/col314060/index.html	省发展改革委党组成员、副主任		山东省发展和改革委员会		2358
+滕旭荣		9		山东省		http://www.shandong.gov.cn/col/col314060/index.html	省发展改革委党组成员、副主任		山东省发展和改革委员会		2358
+朱红		10		山东省		http://www.shandong.gov.cn/col/col314060/index.html	省发展改革委党组成员、副主任		山东省发展和改革委员会		2358
+胡芳营		11		山东省		http://www.shandong.gov.cn/col/col314060/index.html	省发展改革委党组成员、副主任，省发展改革委办公室主任		山东省发展和改革委员会		2358
+王晓燕		12		山东省		http://www.shandong.gov.cn/col/col314060/index.html	省发展改革委副厅级干部		山东省发展和改革委员会		2358
+杨宝利		13		山东省		http://www.shandong.gov.cn/col/col314060/index.html	省低空经济发展工作领导小组办公室专职副主任（副厅级）		山东省发展和改革委员会		2358

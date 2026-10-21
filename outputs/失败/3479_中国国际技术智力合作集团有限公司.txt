@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王晓梅		1		全国		http://www.ciic.com.cn/ciic/gyzz10/index.html#gyzz_a2	党委副书记；董事；总经理		中国国际技术智力合作集团有限公司		3479
+张杰		2		全国		http://www.ciic.com.cn/ciic/gyzz10/index.html#gyzz_a2	党委副书记、工会主席；职工董事		中国国际技术智力合作集团有限公司		3479
+雷勤		3		全国		http://www.ciic.com.cn/ciic/gyzz10/index.html#gyzz_a2	党委委员、纪委书记		中国国际技术智力合作集团有限公司		3479
+冯馨莹		4		全国		http://www.ciic.com.cn/ciic/gyzz10/index.html#gyzz_a2	党委委员；副总经理		中国国际技术智力合作集团有限公司		3479
+李庆		5		全国		http://www.ciic.com.cn/ciic/gyzz10/index.html#gyzz_a2	外部董事		中国国际技术智力合作集团有限公司		3479
+齐国生		6		全国		http://www.ciic.com.cn/ciic/gyzz10/index.html#gyzz_a2	外部董事		中国国际技术智力合作集团有限公司		3479
+施志勇		7		全国		http://www.ciic.com.cn/ciic/gyzz10/index.html#gyzz_a2	外部董事		中国国际技术智力合作集团有限公司		3479
+吴爱红		8		全国		http://www.ciic.com.cn/ciic/gyzz10/index.html#gyzz_a2	外部董事		中国国际技术智力合作集团有限公司		3479
+姚威		9		全国		http://www.ciic.com.cn/ciic/gyzz10/index.html#gyzz_a2	总会计师		中国国际技术智力合作集团有限公司		3479
+王晓辉		10		全国		http://www.ciic.com.cn/ciic/gyzz10/index.html#gyzz_a2	副总经理		中国国际技术智力合作集团有限公司		3479

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+曾俊林		1		四川省		http://tjj.sc.gov.cn/scstjj/c105865/jgzn.shtml	党组书记、局长		四川省统计局	http://tjj.sc.gov.cn/scstjj/c106377/ldxq.shtml	2739
+杨治刚		2		四川省		http://tjj.sc.gov.cn/scstjj/c105865/jgzn.shtml	党组副书记、副局长、机关党委书记		四川省统计局	http://tjj.sc.gov.cn/scstjj/c106379/ldxq.shtml	2739
+蒋勇		3		四川省		http://tjj.sc.gov.cn/scstjj/c105865/jgzn.shtml	党组成员、副局长		四川省统计局	http://tjj.sc.gov.cn/scstjj/tjjldhdjy/ldxq.shtml	2739
+蒋春华		4		四川省		http://tjj.sc.gov.cn/scstjj/c105865/jgzn.shtml	党组成员、副局长		四川省统计局	http://tjj.sc.gov.cn/scstjj/jchlm/ldxq.shtml	2739
+张利利		5		四川省		http://tjj.sc.gov.cn/scstjj/c105865/jgzn.shtml	党组成员、副局长		四川省统计局	http://tjj.sc.gov.cn/scstjj/c25121201/ldxq.shtml	2739
+蒋锐		6		四川省		http://tjj.sc.gov.cn/scstjj/c105865/jgzn.shtml	二级巡视员		四川省统计局	http://tjj.sc.gov.cn/scstjj/c106385/ldxq.shtml	2739
+刘华勇		7		四川省		http://tjj.sc.gov.cn/scstjj/c105865/jgzn.shtml	二级巡视员		四川省统计局	http://tjj.sc.gov.cn/scstjj/c25121202/ldxq.shtml	2739

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙超		1		陕西省	西安市	http://wlj.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	党组书记、局长		西安市文化和旅游局		2921
+左东		2		陕西省	西安市	http://wlj.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	党组成员、副局长		西安市文化和旅游局		2921
+赵仲军		3		陕西省	西安市	http://wlj.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	党组成员、市纪委监委驻市文旅局纪检监察组负责人		西安市文化和旅游局		2921
+程锐		4		陕西省	西安市	http://wlj.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	党组成员、副局长		西安市文化和旅游局		2921
+王晓		5		陕西省	西安市	http://wlj.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	党组成员、副局长		西安市文化和旅游局		2921
+赵锋		6		陕西省	西安市	http://wlj.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	党组成员、副局长		西安市文化和旅游局		2921
+苟立武		7		陕西省	西安市	http://wlj.xa.gov.cn/xxgk/zzjg/ldjsjfg/1.html	一级调研员		西安市文化和旅游局		2921

@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马小洁		1		甘肃省	兰州市	https://www.lzu.edu.cn/rsld/xxld.htm	党委书记；党委常委		兰州大学	https://www.lzu.edu.cn/info/1711/61091.htm	3675
+林恒春		2		甘肃省	兰州市	https://www.lzu.edu.cn/rsld/xxld.htm	党委副书记；纪委书记；国家监委驻兰州大学监察专员；党委常委		兰州大学	https://www.lzu.edu.cn/info/1741/61251.htm	3675
+李鹏杰		3		甘肃省	兰州市	https://www.lzu.edu.cn/rsld/xxld.htm	党委副书记；党委常委		兰州大学	https://www.lzu.edu.cn/info/1751/61271.htm	3675
+安俊堂		4		甘肃省	兰州市	https://www.lzu.edu.cn/rsld/xxld.htm	党委副书记；党委常委		兰州大学	https://www.lzu.edu.cn/info/1751/61261.htm	3675
+杨勇平		5		甘肃省	兰州市	https://www.lzu.edu.cn/rsld/xxld.htm	校长；党委副书记；党委常委		兰州大学	https://www.lzu.edu.cn/info/1721/61241.htm	3675
+曹红		6		甘肃省	兰州市	https://www.lzu.edu.cn/rsld/xxld.htm	常务副校长；党委常委		兰州大学	https://www.lzu.edu.cn/info/2491/72531.htm	3675
+范宝军		7		甘肃省	兰州市	https://www.lzu.edu.cn/rsld/xxld.htm	副校长；党委常委		兰州大学	https://www.lzu.edu.cn/info/1761/61341.htm	3675
+沙勇忠		8		甘肃省	兰州市	https://www.lzu.edu.cn/rsld/xxld.htm	副校长；党委常委		兰州大学	https://www.lzu.edu.cn/info/1761/61331.htm	3675
+李汛		9		甘肃省	兰州市	https://www.lzu.edu.cn/rsld/xxld.htm	副校长；党委常委		兰州大学	https://www.lzu.edu.cn/info/1761/61301.htm	3675
+王为		10		甘肃省	兰州市	https://www.lzu.edu.cn/rsld/xxld.htm	副校长		兰州大学	https://www.lzu.edu.cn/info/1761/61291.htm	3675
+刘翔		11		甘肃省	兰州市	https://www.lzu.edu.cn/rsld/xxld.htm	副校长；党委常委		兰州大学	https://www.lzu.edu.cn/info/1761/117721.htm	3675
+兰剑		12		甘肃省	兰州市	https://www.lzu.edu.cn/rsld/xxld.htm	副校长；党委常委		兰州大学	https://www.lzu.edu.cn/info/1761/122931.htm	3675
+王定峰		13		甘肃省	兰州市	https://www.lzu.edu.cn/rsld/xxld.htm	党委常委		兰州大学	https://www.lzu.edu.cn/info/1771/61361.htm	3675
+李永春		14		甘肃省	兰州市	https://www.lzu.edu.cn/rsld/xxld.htm	校长助理		兰州大学	https://www.lzu.edu.cn/info/1781/117731.htm	3675

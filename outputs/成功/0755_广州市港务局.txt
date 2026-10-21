@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐红雨		1		广东省	广州市	http://gwj.gz.gov.cn/gkmlpt/content/10/10569/post_10569359.html#957	广州市港务局党组成员、副局长		广州市港务局		0755
+刘义发		2		广东省	广州市	http://gwj.gz.gov.cn/gkmlpt/content/10/10569/post_10569359.html#957	广州市港务局党组成员、副局长		广州市港务局		0755
+万新周		3		广东省	广州市	http://gwj.gz.gov.cn/gkmlpt/content/10/10569/post_10569359.html#957	广州市港务局党组成员、副局长		广州市港务局		0755
+元桦辉		4		广东省	广州市	http://gwj.gz.gov.cn/gkmlpt/content/10/10569/post_10569359.html#957	广州市港务局一级巡视员		广州市港务局		0755
+连建立		5		广东省	广州市	http://gwj.gz.gov.cn/gkmlpt/content/10/10569/post_10569359.html#957	广州市港务局一级调研员（市管）		广州市港务局		0755
+陈杉		6		广东省	广州市	http://gwj.gz.gov.cn/gkmlpt/content/10/10569/post_10569359.html#957	广州市港务局一级调研员（市管）		广州市港务局		0755
+马新志		7		广东省	广州市	http://gwj.gz.gov.cn/gkmlpt/content/10/10569/post_10569359.html#957	广州市港务局一级调研员（市管）		广州市港务局		0755

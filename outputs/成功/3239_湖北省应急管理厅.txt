@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+董新明		1		湖北省		http://yjt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	党委委员、副厅长		湖北省应急管理厅	http://yjt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/dxm/202410/t20241024_5385541.shtml	3239
+陈年山		2		湖北省		http://yjt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	党委委员、副厅长		湖北省应急管理厅	http://yjt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/cns/201912/t20191219_1775082.shtml	3239
+吴龙海		3		湖北省		http://yjt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	党委委员、政治部主任		湖北省应急管理厅	http://yjt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/wlh/202301/t20230106_4477798.shtml	3239
+黄继军		4		湖北省		http://yjt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	党委委员、副厅长		湖北省应急管理厅	http://yjt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/hjj/202505/t20250519_5655202.shtml	3239
+郭玉梅		5		湖北省		http://yjt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	党委委员、副厅长		湖北省应急管理厅	http://yjt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/gym/202307/t20230705_4734403.shtml	3239
+卢梅		6		湖北省		http://yjt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	党委委员、驻厅纪检监察组组长		湖北省应急管理厅	http://yjt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/lm/202403/t20240320_5127282.shtml	3239
+王云鹏		7		湖北省		http://yjt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	党委委员、副厅长		湖北省应急管理厅	http://yjt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/wyp/202503/t20250325_5589518.shtml	3239
+徐雄飞		8		湖北省		http://yjt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	党委委员、副厅长		湖北省应急管理厅	http://yjt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/xxf/202512/t20251219_5838372.shtml	3239
+杨光武		9		湖北省		http://yjt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/	一级巡视员		湖北省应急管理厅	http://yjt.hubei.gov.cn/fbjd/xxgkml/jgzn/ldxx/ygw/201912/t20191219_1775095.shtml	3239

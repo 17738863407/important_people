@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄利红		1		广东省		http://gd.mof.gov.cn/zhuanyuangbangaikuang/	党组书记、局长		财政部广东监管局	http://gd.mof.gov.cn/zhuanyuangbangaikuang/201905/t20190510_3255185.htm	0655
+邱云良		2		广东省		http://gd.mof.gov.cn/zhuanyuangbangaikuang/	党组成员、一级巡视员、纪检组长		财政部广东监管局	http://gd.mof.gov.cn/zhuanyuangbangaikuang/202110/t20211019_3759354.htm	0655
+漆爱功		3		广东省		http://gd.mof.gov.cn/zhuanyuangbangaikuang/	二级巡视员		财政部广东监管局	http://gd.mof.gov.cn/zhuanyuangbangaikuang/202502/t20250211_3958293.htm	0655

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+宋鹍		1		全国		https://www.cah.com.cn/AboutUs/Leadership/	首都机场集团有限公司董事长、党委书记；首都机场股份公司董事长		首都机场集团		4257
+杜强		2		全国		https://www.cah.com.cn/AboutUs/Leadership/	首都机场集团有限公司董事、总经理、党委副书记；首都机场股份公司董事		首都机场集团		4257
+李洪		3		全国		https://www.cah.com.cn/AboutUs/Leadership/	首都机场集团有限公司副总经理（正职级）、党委委员		首都机场集团		4257
+薛荣国		4		全国		https://www.cah.com.cn/AboutUs/Leadership/	首都机场集团有限公司董事、党委副书记、工会主席；首都机场股份公司董事		首都机场集团		4257
+沈兰成		5		全国		https://www.cah.com.cn/AboutUs/Leadership/	首都机场集团有限公司总会计师、党委委员；首都机场股份公司董事；首都机场集团财务有限公司董事长		首都机场集团		4257
+李勇兵		6		全国		https://www.cah.com.cn/AboutUs/Leadership/	首都机场集团有限公司党委委员；首都机场股份公司董事、总经理、党委副书记		首都机场集团		4257
+张林		7		全国		https://www.cah.com.cn/AboutUs/Leadership/	首都机场集团有限公司党委委员；大兴机场总经理、党委副书记		首都机场集团		4257
+周江舟		8		全国		https://www.cah.com.cn/AboutUs/Leadership/	首都机场集团有限公司党委委员、纪委书记		首都机场集团		4257

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张正红		1		四川省		http://gzw.sc.gov.cn/scsgzw/CU230106/cu_wld.shtml	党委书记、主任		四川省政府国有资产监督管理委员会	http://gzw.sc.gov.cn/scsgzw/CU23010601/cu_wld_list.shtml	0847
+莫怀学		2		四川省		http://gzw.sc.gov.cn/scsgzw/CU230106/cu_wld.shtml	党委专职副书记		四川省政府国有资产监督管理委员会	http://gzw.sc.gov.cn/scsgzw/CU23010602/cu_wld_list.shtml	0847
+苟乙权		3		四川省		http://gzw.sc.gov.cn/scsgzw/CU230106/cu_wld.shtml	党委委员、副主任		四川省政府国有资产监督管理委员会	http://gzw.sc.gov.cn/scsgzw/CU23010613/cu_wld_list.shtml	0847
+刘晓博		4		四川省		http://gzw.sc.gov.cn/scsgzw/CU230106/cu_wld.shtml	党委委员、副主任		四川省政府国有资产监督管理委员会	http://gzw.sc.gov.cn/scsgzw/CU23010608/cu_wld_list.shtml	0847
+游代丽		5		四川省		http://gzw.sc.gov.cn/scsgzw/CU230106/cu_wld.shtml	党委委员、副主任		四川省政府国有资产监督管理委员会	http://gzw.sc.gov.cn/scsgzw/CU23010606/cu_wld_list.shtml	0847
+王先权		6		四川省		http://gzw.sc.gov.cn/scsgzw/CU230106/cu_wld.shtml	党委委员、副主任，兼任机关党委书记		四川省政府国有资产监督管理委员会	http://gzw.sc.gov.cn/scsgzw/CU23010607/cu_wld_list.shtml	0847
+张敏		7		四川省		http://gzw.sc.gov.cn/scsgzw/CU230106/cu_wld.shtml	党委委员、副主任		四川省政府国有资产监督管理委员会	http://gzw.sc.gov.cn/scsgzw/CU23010609/cu_wld_list.shtml	0847
+杨薇		8		四川省		http://gzw.sc.gov.cn/scsgzw/CU230106/cu_wld.shtml	副主任		四川省政府国有资产监督管理委员会	http://gzw.sc.gov.cn/scsgzw/CU23010612/cu_wld_list.shtml	0847
+杨晓清		9		四川省		http://gzw.sc.gov.cn/scsgzw/CU230106/cu_wld.shtml	驻委纪检监察组组长、党委委员、二级高级监察官		四川省政府国有资产监督管理委员会	http://gzw.sc.gov.cn/scsgzw/CU23010611/cu_wld_list.shtml	0847

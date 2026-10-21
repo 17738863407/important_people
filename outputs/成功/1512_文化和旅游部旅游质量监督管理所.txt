@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘建明		1		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/201903/t20190315_837764.htm	所长		文化和旅游部旅游质量监督管理所		1512
+陶从瑞		2		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/201903/t20190315_837764.htm	副所长		文化和旅游部旅游质量监督管理所		1512
+宋越平		3		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/201903/t20190315_837764.htm	副所长		文化和旅游部旅游质量监督管理所		1512

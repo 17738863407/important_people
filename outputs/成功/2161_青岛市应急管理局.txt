@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+姜书铭		1		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/yjj/gkml/jgxx/202201/t20220106_4184855.shtml	党委委员、副局长		青岛市应急管理局		2161
+魏刚		2		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/yjj/gkml/jgxx/202201/t20220106_4184855.shtml	党委委员、副局长		青岛市应急管理局		2161
+庄建蓉		3		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/yjj/gkml/jgxx/202201/t20220106_4184855.shtml	党委委员、副局长		青岛市应急管理局		2161
+吴法先		4		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/yjj/gkml/jgxx/202201/t20220106_4184855.shtml	党委委员、副局长		青岛市应急管理局		2161
+乔汝宾		5		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/yjj/gkml/jgxx/202201/t20220106_4184855.shtml	副巡视员		青岛市应急管理局		2161
+刘培喜		6		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/yjj/gkml/jgxx/202201/t20220106_4184855.shtml	党委委员、副局级领导干部		青岛市应急管理局		2161

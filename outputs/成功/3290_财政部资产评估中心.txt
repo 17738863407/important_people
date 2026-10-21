@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周法兴		1		全国		http://zcpgzx.mof.gov.cn/gywm/ldjj/	党委书记、主任		财政部资产评估中心		3290
+倪鹏翔		2		全国		http://zcpgzx.mof.gov.cn/gywm/ldjj/	党委委员、纪委书记		财政部资产评估中心		3290
+王颖		3		全国		http://zcpgzx.mof.gov.cn/gywm/ldjj/	党委委员、副主任		财政部资产评估中心		3290
+陈光宇		4		全国		http://zcpgzx.mof.gov.cn/gywm/ldjj/	党委委员、副主任		财政部资产评估中心		3290

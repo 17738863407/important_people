@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+祁美文		1		重庆市		https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/wap.html	党组书记		重庆市生态环境局	https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/fzrxx/202607/t20260706_15800959.html	2554
+余国东		2		重庆市		https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/wap.html	局长		重庆市生态环境局	https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/fzrxx/202410/t20241030_13754811.html	2554
+张广莉		3		重庆市		https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/wap.html	党组成员、副局长		重庆市生态环境局	https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/fzrxx/202512/t20251202_15203256.html	2554
+王邦平		4		重庆市		https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/wap.html	党组成员、副局长，重庆市生态环境保护督察办公室主任		重庆市生态环境局	https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/fzrxx/202410/t20241030_13754821.html	2554
+刘芹		5		重庆市		https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/wap.html	党组成员、副局长		重庆市生态环境局	https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/fzrxx/202410/t20241030_13754820.html	2554
+夏秋权		6		重庆市		https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/wap.html	党组成员、市纪委监委驻市生态环境局纪检监察组组长		重庆市生态环境局	https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/fzrxx/202506/t20250605_14686801.html	2554
+马强		7		重庆市		https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/wap.html	党组成员、二级巡视员		重庆市生态环境局	https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/fzrxx/202410/t20241030_13754825.html	2554
+刘明		8		重庆市		https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/wap.html	党组成员、副局长		重庆市生态环境局	https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/fzrxx/202410/t20241030_13754826.html	2554
+郑阳华		9		重庆市		https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/wap.html	党组成员、副局长		重庆市生态环境局	https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/fzrxx/202504/t20250409_14505716.html	2554
+吕俊强		10		重庆市		https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/wap.html	党组成员，市生态环境保护综合行政执法总队党委书记、总队长		重庆市生态环境局	https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/fzrxx/202504/t20250409_14505762.html	2554
+陈卫		11		重庆市		https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/wap.html	一级巡视员		重庆市生态环境局	https://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/jgzn/fzrxx/202410/t20241030_13754812.html	2554

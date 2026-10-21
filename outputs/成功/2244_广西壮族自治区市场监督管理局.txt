@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李泽		1		广西壮族自治区		http://scjdglj.gxzf.gov.cn/zwgk/fdzdgk/jgzn/jgzn_44367/	广西壮族自治区党委委员，自治区市场监督管理局党组书记、局长		广西壮族自治区市场监督管理局	http://scjdglj.gxzf.gov.cn/zwgk/fdzdgk/jgzn/jgzn_44367/lddt/	2244
+黄震		2		广西壮族自治区		http://scjdglj.gxzf.gov.cn/zwgk/fdzdgk/jgzn/jgzn_44367/	广西壮族自治区市场监督管理局党组成员、副局长、一级巡视员		广西壮族自治区市场监督管理局	http://scjdglj.gxzf.gov.cn/zwgk/fdzdgk/jgzn/jgzn_44367/ldjj/t12568534.shtml	2244
+刘军		3		广西壮族自治区		http://scjdglj.gxzf.gov.cn/zwgk/fdzdgk/jgzn/jgzn_44367/	广西壮族自治区市场监督管理局一级巡视员		广西壮族自治区市场监督管理局	http://scjdglj.gxzf.gov.cn/zwgk/fdzdgk/jgzn/jgzn_44367/ldjj/t12568633.shtml	2244
+李勇强		4		广西壮族自治区		http://scjdglj.gxzf.gov.cn/zwgk/fdzdgk/jgzn/jgzn_44367/	广西壮族自治区市场监督管理局党组成员，自治区药品监督管理局党组书记、局长		广西壮族自治区市场监督管理局	http://scjdglj.gxzf.gov.cn/zwgk/fdzdgk/jgzn/jgzn_44367/ldjj/t12568643.shtml	2244
+李暄		5		广西壮族自治区		http://scjdglj.gxzf.gov.cn/zwgk/fdzdgk/jgzn/jgzn_44367/	广西壮族自治区市场监督管理局党组成员、副局长，自治区归国华侨联合会第十一届委员会副主席		广西壮族自治区市场监督管理局	http://scjdglj.gxzf.gov.cn/zwgk/fdzdgk/jgzn/jgzn_44367/ldjj/t12568658.shtml	2244
+杨积军		6		广西壮族自治区		http://scjdglj.gxzf.gov.cn/zwgk/fdzdgk/jgzn/jgzn_44367/	广西壮族自治区市场监督管理局党组成员、副局长		广西壮族自治区市场监督管理局	http://scjdglj.gxzf.gov.cn/zwgk/fdzdgk/jgzn/jgzn_44367/ldjj/t18169680.shtml	2244
+胡振		7		广西壮族自治区		http://scjdglj.gxzf.gov.cn/zwgk/fdzdgk/jgzn/jgzn_44367/	广西壮族自治区市场监督管理局党组成员、副局长		广西壮族自治区市场监督管理局	http://scjdglj.gxzf.gov.cn/zwgk/fdzdgk/jgzn/jgzn_44367/ldjj/t28052053.shtml	2244

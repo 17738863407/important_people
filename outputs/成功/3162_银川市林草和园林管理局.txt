@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+白景晶		1		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/slyj_2540/xxgkml_2543/gkxx_2544/ldfg_2546/202506/t20250626_4945050.html	银川市林草和园林管理局党组书记、局长		银川市林草和园林管理局		3162
+李文奇		2		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/slyj_2540/xxgkml_2543/gkxx_2544/ldfg_2546/202506/t20250626_4945050.html	银川市林草和园林管理局党组成员、副局长		银川市林草和园林管理局		3162
+赵晨		3		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/slyj_2540/xxgkml_2543/gkxx_2544/ldfg_2546/202506/t20250626_4945050.html	银川市林草和园林管理局党组成员、副局长		银川市林草和园林管理局		3162
+何昆		4		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/slyj_2540/xxgkml_2543/gkxx_2544/ldfg_2546/202506/t20250626_4945050.html	银川市林草和园林管理局党组成员、副局长		银川市林草和园林管理局		3162
+常青		5		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/slyj_2540/xxgkml_2543/gkxx_2544/ldfg_2546/202506/t20250626_4945050.html	银川市林草和园林管理局三级调研员		银川市林草和园林管理局		3162

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郝生旺		1		陕西省	西安市	http://scjg.xa.gov.cn/zwgk/jczl/jcxxjjl/1.html	市市场监管局党委书记、局长，市知识产权局局长，省药监局西安分局局长		西安市市场监督管理局		2259
+王小青		2		陕西省	西安市	http://scjg.xa.gov.cn/zwgk/jczl/jcxxjjl/1.html	市市场监管局党委副书记		西安市市场监督管理局		2259
+冯超		3		陕西省	西安市	http://scjg.xa.gov.cn/zwgk/jczl/jcxxjjl/1.html	市市场监管局党委委员、副局长、二级巡视员		西安市市场监督管理局		2259
+孟祥东		4		陕西省	西安市	http://scjg.xa.gov.cn/zwgk/jczl/jcxxjjl/1.html	市市场监管局党委委员、（省药监局西安分局）副局长		西安市市场监督管理局		2259
+张军社		5		陕西省	西安市	http://scjg.xa.gov.cn/zwgk/jczl/jcxxjjl/1.html	市市场监管局党委委员、副局长		西安市市场监督管理局		2259
+王海东		6		陕西省	西安市	http://scjg.xa.gov.cn/zwgk/jczl/jcxxjjl/1.html	市市场监管局党委委员、市纪委监委驻市市场监管局纪检监察组组长		西安市市场监督管理局		2259

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+肖彦军		1		宁夏回族自治区		https://tyjrt.nx.gov.cn/jg/	宁夏回族自治区退役军人事务厅党组书记、厅长		宁夏回族自治区退役军人事务厅	https://tyjrt.nx.gov.cn/jg/ldzc/202509/t20250930_5045160.html	2830
+佘瑞东		2		宁夏回族自治区		https://tyjrt.nx.gov.cn/jg/	宁夏回族自治区退役军人事务厅党组副书记、副厅长、一级巡视员		宁夏回族自治区退役军人事务厅	https://tyjrt.nx.gov.cn/jg/ldzc/202604/t20260403_5210380.html	2830
+王刚		3		宁夏回族自治区		https://tyjrt.nx.gov.cn/jg/	宁夏回族自治区退役军人事务厅党组成员、副厅长（兼职）		宁夏回族自治区退役军人事务厅	https://tyjrt.nx.gov.cn/jg/ldzc/202406/t20240605_4559811.html	2830
+海国		4		宁夏回族自治区		https://tyjrt.nx.gov.cn/jg/	宁夏回族自治区退役军人事务厅党组成员、副厅长		宁夏回族自治区退役军人事务厅	https://tyjrt.nx.gov.cn/jg/ldzc/202205/t20220509_3492404.html	2830
+宋海涛		5		宁夏回族自治区		https://tyjrt.nx.gov.cn/jg/	宁夏回族自治区退役军人事务厅党组成员、副厅长		宁夏回族自治区退役军人事务厅	https://tyjrt.nx.gov.cn/jg/ldzc/202406/t20240605_4559809.html	2830
+刘宗福		6		宁夏回族自治区		https://tyjrt.nx.gov.cn/jg/	宁夏回族自治区退役军人事务厅二级巡视员		宁夏回族自治区退役军人事务厅	https://tyjrt.nx.gov.cn/jg/ldzc/202409/t20240926_4676244.html	2830

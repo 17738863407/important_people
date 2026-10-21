@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张春林		1		全国		http://www.shanxizx.gov.cn/zxld/dzsjzx/art/2025/art_40820f3e561f4f898b7ac546445afe3b.html	党组书记、主席		山西省政协		2402
+赵红严		2		全国		http://www.shanxizx.gov.cn/zxld/dzsjzx/art/2025/art_40820f3e561f4f898b7ac546445afe3b.html	党组副书记		山西省政协	http://www.shanxizx.gov.cn/zxld/szxdzfsj/art/2025/art_28ec2c1cd1c245d59140e8bc14d2121b.html	2402
+徐广国		3		全国		http://www.shanxizx.gov.cn/zxld/dzsjzx/art/2025/art_40820f3e561f4f898b7ac546445afe3b.html	党组副书记、副主席		山西省政协	http://www.shanxizx.gov.cn/zxld/dzfsj/art/2024/art_f22ec038995e4b4a8a9bf47229661693.html	2402
+张吉福		4		全国		http://www.shanxizx.gov.cn/zxld/dzsjzx/art/2025/art_40820f3e561f4f898b7ac546445afe3b.html	党组副书记、副主席		山西省政协	http://www.shanxizx.gov.cn/zxld/dzfsj/art/2025/art_2efce1619ac246d39c19d46293e95c76.html	2402
+郑连生		5		全国		http://www.shanxizx.gov.cn/zxld/dzsjzx/art/2025/art_40820f3e561f4f898b7ac546445afe3b.html	副主席		山西省政协	http://www.shanxizx.gov.cn/zxld/fzx/art/2025/art_45ed7a74731c43b4a118917b42124668.html	2402
+张复明		6		全国		http://www.shanxizx.gov.cn/zxld/dzsjzx/art/2025/art_40820f3e561f4f898b7ac546445afe3b.html	副主席		山西省政协	http://www.shanxizx.gov.cn/zxld/fzx/zrp/art/2021/art_d382513f5fb3470aab69d1480340b9aa.html	2402
+李晓波		7		全国		http://www.shanxizx.gov.cn/zxld/dzsjzx/art/2025/art_40820f3e561f4f898b7ac546445afe3b.html	副主席		山西省政协	http://www.shanxizx.gov.cn/zxld/fzx/lxb/art/2021/art_83da2f443e5748eb9d72e060c1471d5a.html	2402
+李青山		8		全国		http://www.shanxizx.gov.cn/zxld/dzsjzx/art/2025/art_40820f3e561f4f898b7ac546445afe3b.html	副主席		山西省政协	http://www.shanxizx.gov.cn/zxld/fzx/lqs/art/2021/art_437fbc5b407746228883bf3792efbf93.html	2402
+李思进		9		全国		http://www.shanxizx.gov.cn/zxld/dzsjzx/art/2025/art_40820f3e561f4f898b7ac546445afe3b.html	副主席		山西省政协	http://www.shanxizx.gov.cn/zxld/fzx/lsj/art/2021/art_61774528595a4569b616af2e448438e7.html	2402
+汤志平		10		全国		http://www.shanxizx.gov.cn/zxld/dzsjzx/art/2025/art_40820f3e561f4f898b7ac546445afe3b.html	副主席		山西省政协	http://www.shanxizx.gov.cn/zxld/fzx/art/2026/art_9e0863119d1648fe8ba5c42f86299bdf.html	2402
+王立伟		11		全国		http://www.shanxizx.gov.cn/zxld/dzsjzx/art/2025/art_40820f3e561f4f898b7ac546445afe3b.html	副主席		山西省政协	http://www.shanxizx.gov.cn/zxld/fzx/wlw/art/2021/art_8e6fc550a3b341489d59bd9c0431148a.html	2402
+闫晨曦		12		全国		http://www.shanxizx.gov.cn/zxld/dzsjzx/art/2025/art_40820f3e561f4f898b7ac546445afe3b.html	副主席		山西省政协	http://www.shanxizx.gov.cn/zxld/fzx/xxj/art/2021/art_ea1d64b24acb4ddba430b804dfbe0f81.html	2402
+王蕾		13		全国		http://www.shanxizx.gov.cn/zxld/dzsjzx/art/2025/art_40820f3e561f4f898b7ac546445afe3b.html	副主席		山西省政协	http://www.shanxizx.gov.cn/zxld/fzx/xh/art/2021/art_0dd8042efb154c259ff2e869b67d3347.html	2402
+毛益民		14		全国		http://www.shanxizx.gov.cn/zxld/dzsjzx/art/2025/art_40820f3e561f4f898b7ac546445afe3b.html	党组成员、秘书长		山西省政协	http://www.shanxizx.gov.cn/zxld/dzcymsz/art/2025/art_fae3cdfcab9946eebac23e1a91a4832a.html	2402

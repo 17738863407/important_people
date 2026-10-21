@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高念东		1		北京市		https://scjgj.beijing.gov.cn/jgzq/ldjs/	北京市市场监督管理局党组书记、局长		北京市市场监督管理局		2261
+唐云华		2		北京市		https://scjgj.beijing.gov.cn/jgzq/ldjs/	北京市市场监督管理局党组成员、副局长、一级巡视员，北京市市场监管综合执法总队党委书记、总队长		北京市市场监督管理局		2261
+宋同飞		3		北京市		https://scjgj.beijing.gov.cn/jgzq/ldjs/	北京市市场监督管理局党组成员		北京市市场监督管理局		2261
+史勍		4		北京市		https://scjgj.beijing.gov.cn/jgzq/ldjs/	北京市市场监督管理局党组成员、市纪委市监委驻北京市市场监督管理局纪检监察组组长		北京市市场监督管理局		2261
+李明		5		北京市		https://scjgj.beijing.gov.cn/jgzq/ldjs/	北京市市场监督管理局党组成员、副局长		北京市市场监督管理局		2261
+许泽楠		6		北京市		https://scjgj.beijing.gov.cn/jgzq/ldjs/	北京市市场监督管理局党组成员、副局长		北京市市场监督管理局		2261
+屈浩鹏		7		北京市		https://scjgj.beijing.gov.cn/jgzq/ldjs/	北京市市场监督管理局党组成员、北京市药品监督管理局党组书记		北京市市场监督管理局		2261
+于爽		8		北京市		https://scjgj.beijing.gov.cn/jgzq/ldjs/	北京市市场监督管理局一级巡视员		北京市市场监督管理局		2261

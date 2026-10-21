@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李海波		1		湖北省	武汉市	https://whb.cas.cn/fygk/xrld/	武汉分院分党组书记、院长，武汉分院系统单位党委书记		中国科学院武汉分院	http://whb.cas.cn/fygk/xrld/201811/t20181128_5194359.html	4043
+曾静		2		湖北省	武汉市	https://whb.cas.cn/fygk/xrld/	武汉分院分党组副书记，武汉分院系统单位党委副书记		中国科学院武汉分院	http://whb.cas.cn/fygk/xrld/202205/t20220509_6445099.html	4043
+关武祥		3		湖北省	武汉市	https://whb.cas.cn/fygk/xrld/	武汉分院副院长、分党组成员		中国科学院武汉分院	https://whb.cas.cn/fygk/xrld/202209/t20220901_6508015.html	4043
+徐红革		4		湖北省	武汉市	https://whb.cas.cn/fygk/xrld/	武汉分院纪检组组长、分党组成员，武汉分院系统单位纪委书记		中国科学院武汉分院	http://whb.cas.cn/fygk/xrld/202309/t20230914_6880159.html	4043

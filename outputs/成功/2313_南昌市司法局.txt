@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李国水		1		江西省	南昌市	https://sfj.nc.gov.cn/ncsfj/ldzc/nav_ldjj.shtml	南昌市司法局党组书记、局长兼市强戒所第一政委、一级调研员		南昌市司法局		2313
+汪勇		2		江西省	南昌市	https://sfj.nc.gov.cn/ncsfj/ldzc/nav_ldjj.shtml	南昌市司法局党组成员、市强戒所党委书记、所长		南昌市司法局		2313
+汤潇琼		3		江西省	南昌市	https://sfj.nc.gov.cn/ncsfj/ldzc/nav_ldjj.shtml	南昌市司法局党组成员、副局长		南昌市司法局		2313
+周义军		4		江西省	南昌市	https://sfj.nc.gov.cn/ncsfj/ldzc/nav_ldjj.shtml	南昌市司法局党组成员、副局长		南昌市司法局		2313
+凌小晋		5		江西省	南昌市	https://sfj.nc.gov.cn/ncsfj/ldzc/nav_ldjj.shtml	南昌市司法局党组成员、政治部(警务部)主任		南昌市司法局		2313
+万文革		6		江西省	南昌市	https://sfj.nc.gov.cn/ncsfj/ldzc/nav_ldjj.shtml	南昌市司法局三级调研员		南昌市司法局		2313
+涂慧玲		7		江西省	南昌市	https://sfj.nc.gov.cn/ncsfj/ldzc/nav_ldjj.shtml	二级巡视员		南昌市司法局		2313
+冯庆文		8		江西省	南昌市	https://sfj.nc.gov.cn/ncsfj/ldzc/nav_ldjj.shtml	南昌市司法局四级调研员		南昌市司法局		2313
+廖承文		9		江西省	南昌市	https://sfj.nc.gov.cn/ncsfj/ldzc/nav_ldjj.shtml	南昌市司法局二级调研员		南昌市司法局		2313
+舒奕斌		10		江西省	南昌市	https://sfj.nc.gov.cn/ncsfj/ldzc/nav_ldjj.shtml	南昌市司法局四级调研员		南昌市司法局		2313

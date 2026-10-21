@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周天		1		全国		https://www.119.gov.cn/jg/index.shtml	应急管理部党委委员、副部长，国家消防救援局局长、党委副书记，副总监消防救援衔		国家消防救援局	https://www.119.gov.cn/jg/ldxx/zt.shtml	0052
+李良生		2		全国		https://www.119.gov.cn/jg/index.shtml	应急管理部党委委员、政治部主任，国家消防救援局党委书记、政治委员，副总监消防救援衔		国家消防救援局	https://www.119.gov.cn/jg/ldxx/lls.shtml	0052
+王伟		3		全国		https://www.119.gov.cn/jg/index.shtml	国家消防救援局党委委员、副局长，助理总监消防救援衔		国家消防救援局	https://www.119.gov.cn/jg/ldxx/ww.shtml	0052
+徐忠舜		4		全国		https://www.119.gov.cn/jg/index.shtml	国家消防救援局党委委员、副局长，助理总监消防救援衔		国家消防救援局	https://www.119.gov.cn/jg/ldxx/xzs.shtml	0052
+宋树欣		5		全国		https://www.119.gov.cn/jg/index.shtml	国家消防救援局党委委员、副局长，助理总监消防救援衔		国家消防救援局	https://www.119.gov.cn/jg/ldxx/ssx.shtml	0052
+何宁		6		全国		https://www.119.gov.cn/jg/index.shtml	国家消防救援局党委委员、副局长，助理总监消防救援衔		国家消防救援局	https://www.119.gov.cn/jg/ldxx/hn.shtml	0052
+田静		7		全国		https://www.119.gov.cn/jg/index.shtml	国家消防救援局党委委员、政治部主任，机关党委书记，助理总监消防救援衔		国家消防救援局	https://www.119.gov.cn/jg/ldxx/tj.shtml	0052

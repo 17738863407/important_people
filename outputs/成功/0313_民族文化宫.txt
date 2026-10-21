@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+任毅		1		全国		https://www.cpon.cn/cms/c/leadership.html	党委书记、主任		民族文化宫		0313
+杨国文		2		全国		https://www.cpon.cn/cms/c/leadership.html	党委副书记、纪委书记		民族文化宫		0313
+邵彬		3		全国		https://www.cpon.cn/cms/c/leadership.html	党委委员、副主任		民族文化宫		0313
+李金希		4		全国		https://www.cpon.cn/cms/c/leadership.html	副主任		民族文化宫		0313
+许传哲		5		全国		https://www.cpon.cn/cms/c/leadership.html	党委委员、副主任		民族文化宫		0313
+严天亮		6		全国		https://www.cpon.cn/cms/c/leadership.html	党委委员、副主任		民族文化宫		0313
+好斯巴雅尔		7		全国		https://www.cpon.cn/cms/c/leadership.html	副主任		民族文化宫		0313
+杨晓静		8		全国		https://www.cpon.cn/cms/c/leadership.html	党委委员、总会计师		民族文化宫		0313

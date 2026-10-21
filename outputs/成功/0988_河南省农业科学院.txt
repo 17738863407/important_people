@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李卫东		1		河南省		https://www.hnagri.org.cn/article-100003.html	院党委书记		河南省农业科学院		0988
+周卫		2		河南省		https://www.hnagri.org.cn/article-100003.html	院党委副书记、院长		河南省农业科学院		0988
+王强		3		河南省		https://www.hnagri.org.cn/article-100003.html	院党委副书记（正厅级）、副院长		河南省农业科学院		0988
+谢长伟		4		河南省		https://www.hnagri.org.cn/article-100003.html	院党委副书记		河南省农业科学院		0988
+韩启忠		5		河南省		https://www.hnagri.org.cn/article-100003.html	院党委委员、副院长		河南省农业科学院		0988
+李秀杰		6		河南省		https://www.hnagri.org.cn/article-100003.html	院党委委员、副院长		河南省农业科学院		0988

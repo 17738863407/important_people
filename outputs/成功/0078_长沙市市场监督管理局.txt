@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱智勇		1		湖南省	长沙市	http://amr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	长沙市市场监督管理局党组书记、局长，市委非公有制经济组织和社会组织工作委员会副书记		长沙市市场监督管理局	http://amr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202507/t20250703_11904879.html	0078
+张炼		2		湖南省	长沙市	http://amr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	长沙市市场监督管理局党组成员、副局长、二级调研员		长沙市市场监督管理局	http://amr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202001/t20200104_5955753.html	0078
+肖磊		3		湖南省	长沙市	http://amr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	长沙市市场监督管理局党组成员、副局长、三级调研员		长沙市市场监督管理局	http://amr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202001/t20200104_5955757.html	0078
+宋小军		4		湖南省	长沙市	http://amr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	长沙市市场监管局党组成员、副局长、三级调研员		长沙市市场监督管理局	http://amr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202001/t20200104_5955758.html	0078
+罗定豪		5		湖南省	长沙市	http://amr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	长沙市市场监督管理局党组成员、副局长、三级调研员		长沙市市场监督管理局	http://amr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202607/t20260728_12512593.html	0078
+邓名鹏		6		湖南省	长沙市	http://amr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	市纪委监委驻市市场监管局纪检监察组组长、四级高级监察官、市市场监管局党组成员		长沙市市场监督管理局	http://amr.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202402/t20240201_11363405.html	0078

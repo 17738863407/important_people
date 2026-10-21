@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+许亮		1		全国		https://www.nmhms.org.cn/center-introduction/leaders___4JknAqTv	中心主任、党委书记		自然资源部海洋减灾中心		1957
+刘强		2		全国		https://www.nmhms.org.cn/center-introduction/leaders___4JknAqTv	中心副主任		自然资源部海洋减灾中心		1957
+高琳		3		全国		https://www.nmhms.org.cn/center-introduction/leaders___4JknAqTv	中心副主任		自然资源部海洋减灾中心		1957
+王国栋		4		全国		https://www.nmhms.org.cn/center-introduction/leaders___4JknAqTv	纪委书记		自然资源部海洋减灾中心		1957
+尹长兵		5		全国		https://www.nmhms.org.cn/center-introduction/leaders___4JknAqTv	党委专职副书记		自然资源部海洋减灾中心		1957
+国志兴		6		全国		https://www.nmhms.org.cn/center-introduction/leaders___4JknAqTv	中心副主任		自然资源部海洋减灾中心		1957

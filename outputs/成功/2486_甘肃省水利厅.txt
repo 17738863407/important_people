@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+霍子俊		1		甘肃省		https://slt.gansu.gov.cn/slt/c106726/c106732/c106733/jgld_list.shtml	党组书记、厅长、甘肃省河长制办公室主任（兼）		甘肃省水利厅	https://slt.gansu.gov.cn/slt/c119725/jgld_main.shtml	2486
+齐永强		2		甘肃省		https://slt.gansu.gov.cn/slt/c106726/c106732/c106733/jgld_list.shtml	省纪委监委派驻省水利厅纪检监察组组长、党组成员		甘肃省水利厅	https://slt.gansu.gov.cn/slt/c118449/jgld_main.shtml	2486
+廖赞		3		甘肃省		https://slt.gansu.gov.cn/slt/c106726/c106732/c106733/jgld_list.shtml	党组成员、副厅长		甘肃省水利厅	https://slt.gansu.gov.cn/slt/c118929/jgld_main.shtml	2486
+曾有孝		4		甘肃省		https://slt.gansu.gov.cn/slt/c106726/c106732/c106733/jgld_list.shtml	党组成员、副厅长		甘肃省水利厅	https://slt.gansu.gov.cn/slt/c118457/jgld_main.shtml	2486
+赵国霞		5		甘肃省		https://slt.gansu.gov.cn/slt/c106726/c106732/c106733/jgld_list.shtml	党组成员、副厅长		甘肃省水利厅	https://slt.gansu.gov.cn/slt/c118825/jgld_main.shtml	2486
+王江海		6		甘肃省		https://slt.gansu.gov.cn/slt/c106726/c106732/c106733/jgld_list.shtml	党组成员、副厅长		甘肃省水利厅	https://slt.gansu.gov.cn/slt/c118829/jgld_main.shtml	2486
+李阿蒙		7		甘肃省		https://slt.gansu.gov.cn/slt/c106726/c106732/c106733/jgld_list.shtml	党组成员、副厅长（挂职）		甘肃省水利厅	https://slt.gansu.gov.cn/slt/c119732/jgld_main.shtml	2486
+贾文平		8		甘肃省		https://slt.gansu.gov.cn/slt/c106726/c106732/c106733/jgld_list.shtml	一级巡视员		甘肃省水利厅	https://slt.gansu.gov.cn/slt/c118469/jgld_main.shtml	2486
+刘晓峰		9		甘肃省		https://slt.gansu.gov.cn/slt/c106726/c106732/c106733/jgld_list.shtml	二级巡视员		甘肃省水利厅	https://slt.gansu.gov.cn/slt/c118883/jgld_main.shtml	2486
+姬跃红		10		甘肃省		https://slt.gansu.gov.cn/slt/c106726/c106732/c106733/jgld_list.shtml	二级巡视员		甘肃省水利厅	https://slt.gansu.gov.cn/slt/c119822/jgld_main.shtml	2486
+刘宗平		11		甘肃省		https://slt.gansu.gov.cn/slt/c106726/c106732/c106733/jgld_list.shtml	二级巡视员		甘肃省水利厅	https://slt.gansu.gov.cn/slt/c119536/jgld_main.shtml	2486
+张东		12		甘肃省		https://slt.gansu.gov.cn/slt/c106726/c106732/c106733/jgld_list.shtml	总工程师		甘肃省水利厅	https://slt.gansu.gov.cn/slt/c292371/jgld_main.shtml	2486
+孟兆芳		13		甘肃省		https://slt.gansu.gov.cn/slt/c106726/c106732/c106733/jgld_list.shtml	总规划师		甘肃省水利厅	https://slt.gansu.gov.cn/slt/c119854/jgld_main.shtml	2486

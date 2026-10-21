@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+钟兆斌		1		黑龙江省		https://hrss.hlj.gov.cn/hrss/jgld/jgld.shtml	省人社厅党组书记、厅长		黑龙江省人力资源和社会保障厅	https://hrss.hlj.gov.cn/hrss/jgld/202606/c00_31952463.shtml	1015
+左志斌		2		黑龙江省		https://hrss.hlj.gov.cn/hrss/jgld/jgld.shtml	省人社厅党组成员、副厅长、一级巡视员		黑龙江省人力资源和社会保障厅	https://hrss.hlj.gov.cn/hrss/jgld/202208/c00_30648763.shtml	1015
+于占淮		3		黑龙江省		https://hrss.hlj.gov.cn/hrss/jgld/jgld.shtml	省人社厅党组成员、副厅长		黑龙江省人力资源和社会保障厅	https://hrss.hlj.gov.cn/hrss/jgld/202208/c00_30648752.shtml	1015
+杨海东		4		黑龙江省		https://hrss.hlj.gov.cn/hrss/jgld/jgld.shtml	省人社厅党组成员、副厅长		黑龙江省人力资源和社会保障厅	https://hrss.hlj.gov.cn/hrss/jgld/202401/c00_31703893.shtml	1015
+武唯		5		黑龙江省		https://hrss.hlj.gov.cn/hrss/jgld/jgld.shtml	省人社厅党组成员、副厅长		黑龙江省人力资源和社会保障厅	https://hrss.hlj.gov.cn/hrss/jgld/202606/c00_31948471.shtml	1015
+张佳丹		6		黑龙江省		https://hrss.hlj.gov.cn/hrss/jgld/jgld.shtml	省人社厅党组成员，省纪委监委驻省人社厅纪检监察组组长		黑龙江省人力资源和社会保障厅	https://hrss.hlj.gov.cn/hrss/jgld/202604/c00_31934326.shtml	1015
+朱春旭		7		黑龙江省		https://hrss.hlj.gov.cn/hrss/jgld/jgld.shtml	省人社厅党组成员、副厅长		黑龙江省人力资源和社会保障厅	https://hrss.hlj.gov.cn/hrss/jgld/202605/c00_31938643.shtml	1015
+苏盛刚		8		黑龙江省		https://hrss.hlj.gov.cn/hrss/jgld/jgld.shtml	省人社厅党组成员，省社会保险事业中心主任、党委书记		黑龙江省人力资源和社会保障厅	https://hrss.hlj.gov.cn/hrss/jgld/202401/c00_31703899.shtml	1015
+肇劲松		9		黑龙江省		https://hrss.hlj.gov.cn/hrss/jgld/jgld.shtml	省人社厅一级巡视员		黑龙江省人力资源和社会保障厅	https://hrss.hlj.gov.cn/hrss/jgld/202208/c00_30648758.shtml	1015
+徐树		10		黑龙江省		https://hrss.hlj.gov.cn/hrss/jgld/jgld.shtml	省人社厅二级巡视员		黑龙江省人力资源和社会保障厅	https://hrss.hlj.gov.cn/hrss/jgld/202306/c00_31642183.shtml	1015

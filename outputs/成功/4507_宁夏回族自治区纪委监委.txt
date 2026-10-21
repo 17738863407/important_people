@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+艾俊涛		1		宁夏回族自治区		http://www.nxjjjc.gov.cn/xbnxjw/xxgk/ldjg/	中国共产党宁夏回族自治区第十三届纪律检查委员会书记；中国共产党宁夏回族自治区第十三届纪律检查委员会常委；宁夏回族自治区监察委员会主任		宁夏回族自治区纪委监委	http://www.nxjjjc.gov.cn/xbnxjw/xxgk/ldjg/ajt/	4507
+周刚		2		宁夏回族自治区		http://www.nxjjjc.gov.cn/xbnxjw/xxgk/ldjg/	中国共产党宁夏回族自治区第十三届纪律检查委员会副书记；中国共产党宁夏回族自治区第十三届纪律检查委员会常委；宁夏回族自治区监察委员会副主任		宁夏回族自治区纪委监委	http://www.nxjjjc.gov.cn/xbnxjw/xxgk/ldjg/zg/	4507
+曹湘宁		3		宁夏回族自治区		http://www.nxjjjc.gov.cn/xbnxjw/xxgk/ldjg/	中国共产党宁夏回族自治区第十三届纪律检查委员会副书记；中国共产党宁夏回族自治区第十三届纪律检查委员会常委；宁夏回族自治区监察委员会副主任		宁夏回族自治区纪委监委	http://www.nxjjjc.gov.cn/xbnxjw/xxgk/ldjg/cxn/	4507
+刘智峰		4		宁夏回族自治区		http://www.nxjjjc.gov.cn/xbnxjw/xxgk/ldjg/	中国共产党宁夏回族自治区第十三届纪律检查委员会常委		宁夏回族自治区纪委监委	http://www.nxjjjc.gov.cn/xbnxjw/xxgk/ldjg/dzf/	4507
+戎尽寒		5		宁夏回族自治区		http://www.nxjjjc.gov.cn/xbnxjw/xxgk/ldjg/	中国共产党宁夏回族自治区第十三届纪律检查委员会常委		宁夏回族自治区纪委监委	http://www.nxjjjc.gov.cn/xbnxjw/xxgk/ldjg/rjh/	4507
+谭斌		6		宁夏回族自治区		http://www.nxjjjc.gov.cn/xbnxjw/xxgk/ldjg/	中国共产党宁夏回族自治区第十三届纪律检查委员会常委		宁夏回族自治区纪委监委	http://www.nxjjjc.gov.cn/xbnxjw/xxgk/ldjg/tb/	4507
+宁楠孔		7		宁夏回族自治区		http://www.nxjjjc.gov.cn/xbnxjw/xxgk/ldjg/	中国共产党宁夏回族自治区第十三届纪律检查委员会常委		宁夏回族自治区纪委监委	http://www.nxjjjc.gov.cn/xbnxjw/xxgk/ldjg/nnk/	4507
+摆山花		8		宁夏回族自治区		http://www.nxjjjc.gov.cn/xbnxjw/xxgk/ldjg/	中国共产党宁夏回族自治区第十三届纪律检查委员会常委		宁夏回族自治区纪委监委	http://www.nxjjjc.gov.cn/xbnxjw/xxgk/ldjg/bsh/	4507

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡春山		1		湖南省	长沙市	http://rsj.changsha.gov.cn/xxgk/fdzdgk/jgjj_131304/ldxx_131305/	长沙市人力资源和社会保障局党组书记、局长		长沙市人力资源和社会保障局	http://rsj.changsha.gov.cn/xxgk/fdzdgk/jgjj_131304/ldxx_131305/202306/t20230606_11124425.html	2196
+杨志强		2		湖南省	长沙市	http://rsj.changsha.gov.cn/xxgk/fdzdgk/jgjj_131304/ldxx_131305/	中共长沙市纪委市监委驻市人力资源和社会保障局纪检监察组组长，局党组成员，四级高级监察官		长沙市人力资源和社会保障局	http://rsj.changsha.gov.cn/xxgk/fdzdgk/jgjj_131304/ldxx_131305/202509/t20250902_11981713.html	2196
+邓勇		3		湖南省	长沙市	http://rsj.changsha.gov.cn/xxgk/fdzdgk/jgjj_131304/ldxx_131305/	长沙市人力资源和社会保障局党组成员、副局长		长沙市人力资源和社会保障局	http://rsj.changsha.gov.cn/xxgk/fdzdgk/jgjj_131304/ldxx_131305/202306/t20230606_11124560.html	2196
+向中华		4		湖南省	长沙市	http://rsj.changsha.gov.cn/xxgk/fdzdgk/jgjj_131304/ldxx_131305/	长沙市人力资源和社会保障局党组成员、副局长		长沙市人力资源和社会保障局	http://rsj.changsha.gov.cn/xxgk/fdzdgk/jgjj_131304/ldxx_131305/202306/t20230606_11124437.html	2196
+周学林		5		湖南省	长沙市	http://rsj.changsha.gov.cn/xxgk/fdzdgk/jgjj_131304/ldxx_131305/	长沙市人力资源和社会保障局党组成员、副局长		长沙市人力资源和社会保障局	http://rsj.changsha.gov.cn/xxgk/fdzdgk/jgjj_131304/ldxx_131305/202306/t20230607_11125226.html	2196
+刘中海		6		湖南省	长沙市	http://rsj.changsha.gov.cn/xxgk/fdzdgk/jgjj_131304/ldxx_131305/	长沙市人力资源和社会保障局党组成员、副局长		长沙市人力资源和社会保障局	http://rsj.changsha.gov.cn/xxgk/fdzdgk/jgjj_131304/ldxx_131305/202306/t20230607_11125216.html	2196

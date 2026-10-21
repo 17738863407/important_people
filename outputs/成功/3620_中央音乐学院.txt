@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+沈国华		1		北京市		https://www.ccom.edu.cn/ljxx/xxld.htm	党委书记		中央音乐学院	https://www.ccom.edu.cn/info/2241/235181.htm	3620
+于红梅		2		北京市		https://www.ccom.edu.cn/ljxx/xxld.htm	院长		中央音乐学院	https://www.ccom.edu.cn/info/2241/235211.htm	3620
+秦文琛		3		北京市		https://www.ccom.edu.cn/ljxx/xxld.htm	副院长		中央音乐学院	https://www.ccom.edu.cn/info/2241/235221.htm	3620
+李众		4		北京市		https://www.ccom.edu.cn/ljxx/xxld.htm	党委副书记		中央音乐学院	https://www.ccom.edu.cn/info/2241/235201.htm	3620
+柯扬		5		北京市		https://www.ccom.edu.cn/ljxx/xxld.htm	副院长		中央音乐学院	https://www.ccom.edu.cn/info/2241/235231.htm	3620
+胡守强		6		北京市		https://www.ccom.edu.cn/ljxx/xxld.htm	党委副书记、纪委书记		中央音乐学院	https://www.ccom.edu.cn/info/2241/235191.htm	3620

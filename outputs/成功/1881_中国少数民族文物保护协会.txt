@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+顾群		1		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwwbh/jgrysz.shtml	理事长；中国民族博物馆原党委书记、馆长		中国少数民族文物保护协会		1881
+邓光玉		2		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwwbh/jgrysz.shtml	副理事长；中国民族博物馆党委书记、馆长		中国少数民族文物保护协会		1881
+郑茜		3		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwwbh/jgrysz.shtml	副理事长；全国政协委员，中国民族博物馆党委副书记、副馆长		中国少数民族文物保护协会		1881
+杨硕		4		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwwbh/jgrysz.shtml	副理事长；全国少数民族古籍整理研究室副主任		中国少数民族文物保护协会		1881
+们发延		5		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwwbh/jgrysz.shtml	副理事长；全国政协委员、民族文化宫二级研究馆员		中国少数民族文物保护协会		1881
+肖静芳		6		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwwbh/jgrysz.shtml	副理事长；中国民族报社党委委员、副总编辑		中国少数民族文物保护协会		1881
+蒲天彪		7		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwwbh/jgrysz.shtml	副理事长；中国民族博物馆原党委委员、收藏部主任、二级研究馆员（兼秘书长、法定代表人）		中国少数民族文物保护协会		1881
+杭侃		8		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwwbh/jgrysz.shtml	副理事长；全国人大代表、云冈研究院院长		中国少数民族文物保护协会		1881
+白劲松		9		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwwbh/jgrysz.shtml	副理事长；呼伦贝尔博物院原院长		中国少数民族文物保护协会		1881
+李进增		10		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwwbh/jgrysz.shtml	副理事长；宁夏博物馆原馆长、宁夏文旅厅文博学术委员会主任		中国少数民族文物保护协会		1881
+黄诗莉		11		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwwbh/jgrysz.shtml	副理事长；广西民族博物馆副馆长		中国少数民族文物保护协会		1881
+夏格旺堆		12		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwwbh/jgrysz.shtml	副理事长；西藏自治区文物保护研究所副所长		中国少数民族文物保护协会		1881

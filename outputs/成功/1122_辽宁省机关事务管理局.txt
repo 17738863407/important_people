@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+温建萍		1		辽宁省		https://jgsw.ln.gov.cn/jgsw/zfxxgk/fdzdgknr/jgjj/index.shtml	局长		辽宁省机关事务管理局	https://jgsw.ln.gov.cn/jgsw/zfxxgk/fdzdgknr/jgjj/bmld/zbdjz/2022091509175751657/index.shtml	1122
+孙勇		2		辽宁省		https://jgsw.ln.gov.cn/jgsw/zfxxgk/fdzdgknr/jgjj/index.shtml	副局长		辽宁省机关事务管理局	https://jgsw.ln.gov.cn/jgsw/zfxxgk/fdzdgknr/jgjj/bmld/w_lfjz/08194A5381BE4AEE8B4D72A6BA8ED07D/index.shtml	1122
+王海峰		3		辽宁省		https://jgsw.ln.gov.cn/jgsw/zfxxgk/fdzdgknr/jgjj/index.shtml	副局长		辽宁省机关事务管理局	https://jgsw.ln.gov.cn/jgsw/zfxxgk/fdzdgknr/jgjj/bmld/whffjz/2026010510314669357/index.shtml	1122
+刘谋兴		4		辽宁省		https://jgsw.ln.gov.cn/jgsw/zfxxgk/fdzdgknr/jgjj/index.shtml	副局长		辽宁省机关事务管理局	https://jgsw.ln.gov.cn/jgsw/zfxxgk/fdzdgknr/jgjj/bmld/lmxfjz/2022040815205493681/index.shtml	1122
+王晖		5		辽宁省		https://jgsw.ln.gov.cn/jgsw/zfxxgk/fdzdgknr/jgjj/index.shtml	副局长		辽宁省机关事务管理局	https://jgsw.ln.gov.cn/jgsw/zfxxgk/fdzdgknr/jgjj/bmld/w__hfjz/2024030109375445077/index.shtml	1122
+王景涛		6		辽宁省		https://jgsw.ln.gov.cn/jgsw/zfxxgk/fdzdgknr/jgjj/index.shtml	副局长		辽宁省机关事务管理局	https://jgsw.ln.gov.cn/jgsw/zfxxgk/fdzdgknr/jgjj/bmld/wjt/2025032512285948447/index.shtml	1122

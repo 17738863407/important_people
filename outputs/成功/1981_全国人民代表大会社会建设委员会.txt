@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨振武		1		全国		http://www.npc.gov.cn/npc/bmzz2023/shjswyh2023/	主任委员		全国人民代表大会社会建设委员会		1981
+宋秀岩		2		全国		http://www.npc.gov.cn/npc/bmzz2023/shjswyh2023/	副主任委员		全国人民代表大会社会建设委员会		1981
+袁誉柏		3		全国		http://www.npc.gov.cn/npc/bmzz2023/shjswyh2023/	副主任委员		全国人民代表大会社会建设委员会		1981
+倪岳峰		4		全国		http://www.npc.gov.cn/npc/bmzz2023/shjswyh2023/	副主任委员		全国人民代表大会社会建设委员会		1981
+谭天星		5		全国		http://www.npc.gov.cn/npc/bmzz2023/shjswyh2023/	副主任委员		全国人民代表大会社会建设委员会		1981
+孙菊生		6		全国		http://www.npc.gov.cn/npc/bmzz2023/shjswyh2023/	副主任委员		全国人民代表大会社会建设委员会		1981
+李勇		7		全国		http://www.npc.gov.cn/npc/bmzz2023/shjswyh2023/	副主任委员		全国人民代表大会社会建设委员会		1981
+刘伟		8		全国		http://www.npc.gov.cn/npc/bmzz2023/shjswyh2023/	副主任委员		全国人民代表大会社会建设委员会		1981
+汪铁民		9		全国		http://www.npc.gov.cn/npc/bmzz2023/shjswyh2023/	副主任委员		全国人民代表大会社会建设委员会		1981

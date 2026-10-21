@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王启明		1		北京市		https://www.ouchn.edu.cn/xxgk/xxld/index.htm	党委书记、校长		国家开放大学		2064
+李松		2		北京市		https://www.ouchn.edu.cn/xxgk/xxld/index.htm	党委委员、副校长		国家开放大学		2064
+范贤睿		3		北京市		https://www.ouchn.edu.cn/xxgk/xxld/index.htm	党委委员、副校长		国家开放大学		2064
+徐明军		4		北京市		https://www.ouchn.edu.cn/xxgk/xxld/index.htm	党委副书记		国家开放大学		2064
+周天明		5		北京市		https://www.ouchn.edu.cn/xxgk/xxld/index.htm	党委委员、副校长		国家开放大学		2064
+蔡甄		6		北京市		https://www.ouchn.edu.cn/xxgk/xxld/index.htm	党委副书记、纪委书记		国家开放大学		2064
+冯立国		7		北京市		https://www.ouchn.edu.cn/xxgk/xxld/index.htm	副校长		国家开放大学		2064

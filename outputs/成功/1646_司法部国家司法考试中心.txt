@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孔祥泉		1		全国		https://www.moj.gov.cn/pub/sfbgw/jgsz/jgszzsdw/zsdwgjsfkszx/gjsfkszxld/202006/t20200603_171349.html	国家司法考试中心主任		司法部国家司法考试中心		1646
+吴玲		2		全国		https://www.moj.gov.cn/pub/sfbgw/jgsz/jgszzsdw/zsdwgjsfkszx/gjsfkszxld/202006/t20200603_171349.html	国家司法考试中心副主任		司法部国家司法考试中心		1646
+魏大勇		3		全国		https://www.moj.gov.cn/pub/sfbgw/jgsz/jgszzsdw/zsdwgjsfkszx/gjsfkszxld/202006/t20200603_171349.html	国家司法考试中心副主任		司法部国家司法考试中心		1646

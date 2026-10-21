@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+汪洪岩		1		全国		https://nao.cas.cn/ndw/xrld/	党委书记		中国科学院国家天文台		4060
+刘继峰		2		全国		https://nao.cas.cn/ndw/xrld/	台长、党委副书记		中国科学院国家天文台		4060
+赵公博		3		全国		https://nao.cas.cn/ndw/xrld/	副台长		中国科学院国家天文台		4060
+欧云		4		全国		https://nao.cas.cn/ndw/xrld/	纪委书记		中国科学院国家天文台		4060
+姜鹏		5		全国		https://nao.cas.cn/ndw/xrld/	副台长		中国科学院国家天文台		4060
+刘建军		6		全国		https://nao.cas.cn/ndw/xrld/	副台长		中国科学院国家天文台		4060

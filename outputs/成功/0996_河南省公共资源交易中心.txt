@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马正兰		1		河南省		https://hnsggzyjy.henan.gov.cn/xxgk/003001/ldjs_about.html	河南省公共资源交易中心党组书记、主任		河南省公共资源交易中心	https://hnsggzyjy.henan.gov.cn/xxgk/003001/20211228/e0a1b791-1b99-4806-93a6-18468da86ae9.html	0996
+王洁		2		河南省		https://hnsggzyjy.henan.gov.cn/xxgk/003001/ldjs_about.html	河南省公共资源交易中心党组成员、副主任		河南省公共资源交易中心	https://hnsggzyjy.henan.gov.cn/xxgk/003001/20221207/87eba8e1-6bda-4bda-a58b-2a152697b29d.html	0996
+李睿		3		河南省		https://hnsggzyjy.henan.gov.cn/xxgk/003001/ldjs_about.html	河南省公共资源交易中心党组成员、副主任		河南省公共资源交易中心	https://hnsggzyjy.henan.gov.cn/xxgk/003001/20221207/f9230a7e-ffb8-4f2b-a206-630e8b07936b.html	0996
+袁登科		4		河南省		https://hnsggzyjy.henan.gov.cn/xxgk/003001/ldjs_about.html	河南省公共资源交易中心党组成员、副主任		河南省公共资源交易中心	https://hnsggzyjy.henan.gov.cn/xxgk/003001/20211228/aa6f5f59-4059-421e-adbb-67c37c134f99.html	0996

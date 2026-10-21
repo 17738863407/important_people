@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴晓军		1		全国		http://district.ce.cn/zt/rwk/sf/gs/index.shtml	省委书记、省人大常委会主任		甘肃省委	http://district.ce.cn/newarea/sddy/202609/t20260929_3241984.shtml	0416
+孔绍逊		2		全国		http://district.ce.cn/zt/rwk/sf/gs/index.shtml	省委副书记、省长		甘肃省委	http://district.ce.cn/newarea/sddy/202609/t20260929_3241984.shtml	0416
+石谋军		3		全国		http://district.ce.cn/zt/rwk/sf/gs/index.shtml	省委副书记		甘肃省委	http://district.ce.cn/newarea/sddy/202312/08/t20231208_38822910.shtml	0416
+雷东生		4		全国		http://district.ce.cn/zt/rwk/sf/gs/index.shtml	省委常委、省委秘书长		甘肃省委	http://district.ce.cn/newarea/sddy/202510/t20251031_2550825.shtml	0416
+孙雪涛		5		全国		http://district.ce.cn/zt/rwk/sf/gs/index.shtml	省委常委、统战部部长		甘肃省委	http://district.ce.cn/newarea/sddy/202206/02/t20220602_37702313.shtml	0416
+刘长根		6		全国		http://district.ce.cn/zt/rwk/sf/gs/index.shtml	省委常委、政法委书记		甘肃省委	http://district.ce.cn/newarea/sddy/202206/02/t20220602_37702313.shtml	0416
+张永霞		7		全国		http://district.ce.cn/zt/rwk/sf/gs/index.shtml	省委常委、宣传部部长		甘肃省委	http://district.ce.cn/newarea/sddy/202206/02/t20220602_37702313.shtml	0416
+张晓强		8		全国		http://district.ce.cn/zt/rwk/sf/gs/index.shtml	省委常委，兰州市委书记		甘肃省委	http://district.ce.cn/newarea/sddy/202307/08/t20230708_38623107.shtml	0416
+靳国卫		9		全国		http://district.ce.cn/zt/rwk/sf/gs/index.shtml	省委常委、省纪委书记，省监委主任		甘肃省委	http://district.ce.cn/newarea/sddy/202510/t20251024_2536597.shtml	0416
+王兵		10		全国		http://district.ce.cn/zt/rwk/sf/gs/index.shtml	省委常委、副省长		甘肃省委	http://district.ce.cn/newarea/sddy/202606/t20260605_2999446.shtml	0416

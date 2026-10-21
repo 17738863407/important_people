@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+洪强		1		山西省		http://gzw.shanxi.gov.cn/jgsz/	省国资委党委书记、主任		山西省人民政府国有资产监督管理委员会	http://gzw.shanxi.gov.cn/jgsz/wld/hq/	0849
+侯国伟		2		山西省		http://gzw.shanxi.gov.cn/jgsz/	省国资委党委委员、副主任		山西省人民政府国有资产监督管理委员会	http://gzw.shanxi.gov.cn/jgsz/wld/hgw_71062/	0849
+闫卫伟		3		山西省		http://gzw.shanxi.gov.cn/jgsz/	省国资委党委委员、副主任		山西省人民政府国有资产监督管理委员会	http://gzw.shanxi.gov.cn/jgsz/wld/lq_87828/	0849
+李强		4		山西省		http://gzw.shanxi.gov.cn/jgsz/	省国资委党委委员、副主任		山西省人民政府国有资产监督管理委员会	http://gzw.shanxi.gov.cn/jgsz/wld/lq/	0849
+樊俊明		5		山西省		http://gzw.shanxi.gov.cn/jgsz/	省纪委监委驻省国资委纪检监察组组长、省国资委党委委员		山西省人民政府国有资产监督管理委员会	http://gzw.shanxi.gov.cn/jgsz/wld/fjm/	0849
+孙小虎		6		山西省		http://gzw.shanxi.gov.cn/jgsz/	省国资委党委委员、副主任		山西省人民政府国有资产监督管理委员会	http://gzw.shanxi.gov.cn/jgsz/wld/sxh/	0849
+刘红民		7		山西省		http://gzw.shanxi.gov.cn/jgsz/	省国资委党委委员、副主任		山西省人民政府国有资产监督管理委员会	http://gzw.shanxi.gov.cn/jgsz/wld/lhm/	0849

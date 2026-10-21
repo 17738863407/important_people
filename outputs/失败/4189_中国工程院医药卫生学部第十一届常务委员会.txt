@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+董家鸿		1		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	主任		中国工程院医药卫生学部第十一届常务委员会		4189
+韩德民		2		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	副主任		中国工程院医药卫生学部第十一届常务委员会		4189
+王军志		3		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	副主任		中国工程院医药卫生学部第十一届常务委员会		4189
+顾晓松		4		全国		https://www.cae.cn/cae/html/main/col12/column_12_1.html	副主任		中国工程院医药卫生学部第十一届常务委员会		4189

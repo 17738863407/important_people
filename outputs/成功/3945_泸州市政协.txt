@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐弟波		1		四川省	泸州市	https://www.lzzx.gov.cn/jsp/content/12577	主席		泸州市政协		3945
+张立新		2		四川省	泸州市	https://www.lzzx.gov.cn/jsp/content/12577	副主席		泸州市政协		3945
+刘旭晴		3		四川省	泸州市	https://www.lzzx.gov.cn/jsp/content/12577	副主席		泸州市政协		3945
+唐敏		4		四川省	泸州市	https://www.lzzx.gov.cn/jsp/content/12577	副主席		泸州市政协		3945
+杜旭林		5		四川省	泸州市	https://www.lzzx.gov.cn/jsp/content/12577	副主席		泸州市政协		3945
+李华桂		6		四川省	泸州市	https://www.lzzx.gov.cn/jsp/content/12577	副主席		泸州市政协		3945
+彭兵		7		四川省	泸州市	https://www.lzzx.gov.cn/jsp/content/12577	副主席		泸州市政协		3945
+许仁兵		8		四川省	泸州市	https://www.lzzx.gov.cn/jsp/content/12577	秘书长		泸州市政协		3945
+丁跃萍		9		四川省	泸州市	https://www.lzzx.gov.cn/jsp/content/12577	副主席		泸州市政协		3945
+杨开春		10		四川省	泸州市	https://www.lzzx.gov.cn/jsp/content/12577	副主席		泸州市政协		3945

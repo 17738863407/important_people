@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+姜明		1		全国		https://neigae.cas.cn/about/leader/	所长		中国科学院东北地理与农业生态研究所	https://neigae.cas.cn/../../about/leader/202109/t20210903_6188675.html	4088
+王宗明		2		全国		https://neigae.cas.cn/about/leader/	党委书记；副所长		中国科学院东北地理与农业生态研究所	https://neigae.cas.cn/../../about/leader/202109/t20210903_6188678.html	4088
+范存波		3		全国		https://neigae.cas.cn/about/leader/	党委副书记；纪委书记		中国科学院东北地理与农业生态研究所	https://neigae.cas.cn/../../about/leader/202510/t20251024_7996124.html	4088
+李向楠		4		全国		https://neigae.cas.cn/about/leader/	副所长		中国科学院东北地理与农业生态研究所	https://neigae.cas.cn/../../about/leader/202404/t20240430_7151649.html	4088
+李禄军		5		全国		https://neigae.cas.cn/about/leader/	副所长		中国科学院东北地理与农业生态研究所	https://neigae.cas.cn/../../about/leader/202404/t20240430_7151657.html	4088
+祝惠		6		全国		https://neigae.cas.cn/about/leader/	副所长		中国科学院东北地理与农业生态研究所	https://neigae.cas.cn/../../about/leader/202510/t20251024_7996101.html	4088

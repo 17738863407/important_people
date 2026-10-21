@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邓云生		1		江西省	南昌市	https://rfb.nc.gov.cn/ncsrfb/ldbz/nav_wztt.shtml	中共南昌市国防动员办公室党组书记、主任，中共南昌市发展和改革委员会党组成员		南昌市国防动员办公室		2182
+刘建勇		2		江西省	南昌市	https://rfb.nc.gov.cn/ncsrfb/ldbz/nav_wztt.shtml	南昌市国防动员办公室党组成员、副主任		南昌市国防动员办公室		2182
+谭飞		3		江西省	南昌市	https://rfb.nc.gov.cn/ncsrfb/ldbz/nav_wztt.shtml	南昌市国防动员办公室党组成员、副主任		南昌市国防动员办公室		2182
+赵忠祥		4		江西省	南昌市	https://rfb.nc.gov.cn/ncsrfb/ldbz/nav_wztt.shtml	南昌市国防动员办公室党组成员、副主任		南昌市国防动员办公室		2182
+罗词礼		5		江西省	南昌市	https://rfb.nc.gov.cn/ncsrfb/ldbz/nav_wztt.shtml	南昌市国防动员办公室二级调研员		南昌市国防动员办公室		2182
+黄文金		6		江西省	南昌市	https://rfb.nc.gov.cn/ncsrfb/ldbz/nav_wztt.shtml	南昌市国防动员办公室三级调研员		南昌市国防动员办公室		2182
+万明		7		江西省	南昌市	https://rfb.nc.gov.cn/ncsrfb/ldbz/nav_wztt.shtml	南昌市国防动员办公室三级调研员		南昌市国防动员办公室		2182
+陶涛会		8		江西省	南昌市	https://rfb.nc.gov.cn/ncsrfb/ldbz/nav_wztt.shtml	南昌市国防动员办公室四级调研员		南昌市国防动员办公室		2182

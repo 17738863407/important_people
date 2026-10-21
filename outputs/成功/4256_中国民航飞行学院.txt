@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+林青山		1		全国		https://www.cafuc.edu.cn/xxgk/xxld.htm	党委书记		中国民航飞行学院	https://www.cafuc.edu.cn/info/1395/48704.htm	4256
+马建新		2		全国		https://www.cafuc.edu.cn/xxgk/xxld.htm	党委常委、副院长（主持行政工作）		中国民航飞行学院	https://www.cafuc.edu.cn/info/1395/48699.htm	4256
+王维正		3		全国		https://www.cafuc.edu.cn/xxgk/xxld.htm	党委副书记		中国民航飞行学院	https://www.cafuc.edu.cn/info/1395/48703.htm	4256
+白珍		4		全国		https://www.cafuc.edu.cn/xxgk/xxld.htm	党委常委、纪委书记		中国民航飞行学院	https://www.cafuc.edu.cn/info/1395/49402.htm	4256
+李卫东		5		全国		https://www.cafuc.edu.cn/xxgk/xxld.htm	党委常委、副院长		中国民航飞行学院	https://www.cafuc.edu.cn/info/1395/48701.htm	4256
+于金艳		6		全国		https://www.cafuc.edu.cn/xxgk/xxld.htm	党委常委、工会主席		中国民航飞行学院	https://www.cafuc.edu.cn/info/1395/48698.htm	4256
+方涛		7		全国		https://www.cafuc.edu.cn/xxgk/xxld.htm	党委常委、副院长		中国民航飞行学院	https://www.cafuc.edu.cn/info/1395/50521.htm	4256
+郑涛		8		全国		https://www.cafuc.edu.cn/xxgk/xxld.htm	党委常委、宣传部部长、统战部部长		中国民航飞行学院	https://www.cafuc.edu.cn/info/1395/55490.htm	4256
+刘传健		9		全国		https://www.cafuc.edu.cn/xxgk/xxld.htm	党委委员、总飞行师		中国民航飞行学院	https://www.cafuc.edu.cn/info/1395/48697.htm	4256

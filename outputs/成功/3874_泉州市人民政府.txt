@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+侯为东		1		福建省	泉州市	https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/szzy/	代市长		泉州市人民政府	https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/szzy/sz/hwd/	3874
+黄景春		2		福建省	泉州市	https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/szzy/	副市长		泉州市人民政府	https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/szzy/fsz/hjc/	3874
+苏耿聪		3		福建省	泉州市	https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/szzy/	副市长		泉州市人民政府	https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/szzy/fsz/sgc/	3874
+柳建忠		4		福建省	泉州市	https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/szzy/	副市长		泉州市人民政府	https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/szzy/fsz/ljz/	3874
+雷连鸣		5		福建省	泉州市	https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/szzy/	副市长		泉州市人民政府	https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/szzy/fsz/llm/	3874
+黄文捷		6		福建省	泉州市	https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/szzy/	副市长		泉州市人民政府	https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/szzy/fsz/hwj/	3874
+王春雷		7		福建省	泉州市	https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/szzy/	副市长		泉州市人民政府	https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/szzy/fsz/wcl/	3874
+苏延辉		8		福建省	泉州市	https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/szzy/	副市长		泉州市人民政府	https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/szzy/fsz/syh/	3874
+吕秀家		9		福建省	泉州市	https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/szzy/	党组成员		泉州市人民政府	https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/szzy/dzcy/lxj/	3874

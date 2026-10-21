@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘凯		1		甘肃省	白银市	https://www.baiyin.gov.cn/ldzc/index.html	市委书记		白银市委	https://www.baiyin.gov.cn/ldzc/bysw/lk/index.html	3773
+王洋		2		甘肃省	白银市	https://www.baiyin.gov.cn/ldzc/index.html	市委副书记		白银市委	https://www.baiyin.gov.cn/ldzc/bysw/wy/index.html	3773
+朱利民		3		甘肃省	白银市	https://www.baiyin.gov.cn/ldzc/index.html	市委副书记		白银市委	https://www.baiyin.gov.cn/ldzc/bysw/zlm/index.html	3773
+王彬		4		甘肃省	白银市	https://www.baiyin.gov.cn/ldzc/index.html	市委常委		白银市委	https://www.baiyin.gov.cn/ldzc/bysw/wb/index.html	3773
+董兆生		5		甘肃省	白银市	https://www.baiyin.gov.cn/ldzc/index.html	市委常委		白银市委	https://www.baiyin.gov.cn/ldzc/bysw/dzs/index.html	3773
+葛永宏		6		甘肃省	白银市	https://www.baiyin.gov.cn/ldzc/index.html	市委常委		白银市委	https://www.baiyin.gov.cn/ldzc/bysw/llj/index.html	3773
+乔振华		7		甘肃省	白银市	https://www.baiyin.gov.cn/ldzc/index.html	市委常委		白银市委	https://www.baiyin.gov.cn/ldzc/bysw/qzh/index.html	3773
+丁肃静		8		甘肃省	白银市	https://www.baiyin.gov.cn/ldzc/index.html	市委常委		白银市委	https://www.baiyin.gov.cn/ldzc/bysw/ldxx/index.html	3773
+胡建伟		9		甘肃省	白银市	https://www.baiyin.gov.cn/ldzc/index.html	市委常委；秘书长		白银市委	https://www.baiyin.gov.cn/ldzc/bysw/rwg/index.html	3773
+潘新		10		甘肃省	白银市	https://www.baiyin.gov.cn/ldzc/index.html	市委常委		白银市委	https://www.baiyin.gov.cn/ldzc/byszf/hgfb/index.html	3773
+王志鹏		11		甘肃省	白银市	https://www.baiyin.gov.cn/ldzc/index.html	市委常委		白银市委	https://www.baiyin.gov.cn/ldzc/bysw/wzp/index.html	3773

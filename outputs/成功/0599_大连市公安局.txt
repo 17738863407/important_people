@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郁林涛		1		辽宁省	大连市	https://ga.dl.gov.cn/col/col9051/index.html?vc_xxgkarea=2102000028&number=DL014&jh=263	副市长、市公安局党委书记、局长		大连市公安局	https://ga.dl.gov.cn/art/2026/1/27/art_9052_2502614.html	0599
+王国文		2		辽宁省	大连市	https://ga.dl.gov.cn/col/col9051/index.html?vc_xxgkarea=2102000028&number=DL014&jh=263	党委副书记、分管日常工作的副局长		大连市公安局	https://ga.dl.gov.cn/art/2026/1/27/art_9052_2502613.html	0599
+曲波		3		辽宁省	大连市	https://ga.dl.gov.cn/col/col9051/index.html?vc_xxgkarea=2102000028&number=DL014&jh=263	党委委员、副局长（兼金州分局局长）		大连市公安局	https://ga.dl.gov.cn/art/2026/1/27/art_9052_2502611.html	0599
+牟爱民		4		辽宁省	大连市	https://ga.dl.gov.cn/col/col9051/index.html?vc_xxgkarea=2102000028&number=DL014&jh=263	党委委员、副局长		大连市公安局	https://ga.dl.gov.cn/art/2026/1/27/art_9052_2502610.html	0599
+郭鑫		5		辽宁省	大连市	https://ga.dl.gov.cn/col/col9051/index.html?vc_xxgkarea=2102000028&number=DL014&jh=263	党委委员、副局长		大连市公安局	https://ga.dl.gov.cn/art/2026/1/27/art_9052_2502609.html	0599
+郭大力		6		辽宁省	大连市	https://ga.dl.gov.cn/col/col9051/index.html?vc_xxgkarea=2102000028&number=DL014&jh=263	党委委员、驻局纪检监察组组长		大连市公安局	https://ga.dl.gov.cn/art/2026/1/27/art_9052_2502607.html	0599
+刘海		7		辽宁省	大连市	https://ga.dl.gov.cn/col/col9051/index.html?vc_xxgkarea=2102000028&number=DL014&jh=263	党委委员、副局长		大连市公安局	https://ga.dl.gov.cn/art/2026/1/27/art_9052_2502606.html	0599
+杨世栋		8		辽宁省	大连市	https://ga.dl.gov.cn/col/col9051/index.html?vc_xxgkarea=2102000028&number=DL014&jh=263	党委委员、政治部主任		大连市公安局	https://ga.dl.gov.cn/art/2026/1/27/art_9052_2502605.html	0599

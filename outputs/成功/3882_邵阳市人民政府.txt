@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+龚红果		1		湖南省	邵阳市	https://www.shaoyang.gov.cn/shaoyang/szfldt/xszf.shtml	代理市长		邵阳市人民政府	https://www.shaoyang.gov.cn/shaoyang/ghg/ldgrjj.shtml	3882
+郑小胡		2		湖南省	邵阳市	https://www.shaoyang.gov.cn/shaoyang/szfldt/xszf.shtml	副市长		邵阳市人民政府	https://www.shaoyang.gov.cn/shaoyang/zxhd/ldgrjj.shtml	3882
+贺源		3		湖南省	邵阳市	https://www.shaoyang.gov.cn/shaoyang/szfldt/xszf.shtml	副市长		邵阳市人民政府	https://www.shaoyang.gov.cn/shaoyang/hyuan/ldgrjj.shtml	3882
+冯东旺		4		湖南省	邵阳市	https://www.shaoyang.gov.cn/shaoyang/szfldt/xszf.shtml	副市长		邵阳市人民政府	https://www.shaoyang.gov.cn/shaoyang/fdw/ldgrjj.shtml	3882
+吴冰		5		湖南省	邵阳市	https://www.shaoyang.gov.cn/shaoyang/szfldt/xszf.shtml	副市长		邵阳市人民政府	https://www.shaoyang.gov.cn/shaoyang/wubf/ldgrjj.shtml	3882
+余勋伟		6		湖南省	邵阳市	https://www.shaoyang.gov.cn/shaoyang/szfldt/xszf.shtml	副市长		邵阳市人民政府	https://www.shaoyang.gov.cn/shaoyang/yxw/ldgrjj.shtml	3882
+朱敏		7		湖南省	邵阳市	https://www.shaoyang.gov.cn/shaoyang/szfldt/xszf.shtml	副市长		邵阳市人民政府	https://www.shaoyang.gov.cn/shaoyang/zhum/ldgrjj.shtml	3882
+江韬		8		湖南省	邵阳市	https://www.shaoyang.gov.cn/shaoyang/szfldt/xszf.shtml	副市长		邵阳市人民政府	https://www.shaoyang.gov.cn/shaoyang/jiangtao/ldgrjj.shtml	3882
+黄海蓉		9		湖南省	邵阳市	https://www.shaoyang.gov.cn/shaoyang/szfldt/xszf.shtml	副市长		邵阳市人民政府	https://www.shaoyang.gov.cn/shaoyang/huanghr/ldgrjj.shtml	3882
+唐宏华		10		湖南省	邵阳市	https://www.shaoyang.gov.cn/shaoyang/szfldt/xszf.shtml	秘书长		邵阳市人民政府	https://www.shaoyang.gov.cn/shaoyang/thh/ldgrjj.shtml	3882

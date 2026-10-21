@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+甄长瑜		1		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c107625/202511/c01_1092295.shtml	局长		哈尔滨市商务局		0909
+张淼		2		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c107625/202511/c01_1092295.shtml	市纪委监委驻市商务局纪检监察组组长		哈尔滨市商务局		0909
+林枫		3		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c107625/202511/c01_1092295.shtml	副局长		哈尔滨市商务局		0909
+王红		4		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c107625/202511/c01_1092295.shtml	副局长		哈尔滨市商务局		0909
+嵇景岩		5		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c107625/202511/c01_1092295.shtml	副局长		哈尔滨市商务局		0909
+刘静宇		6		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c107625/202511/c01_1092295.shtml	副局长		哈尔滨市商务局		0909

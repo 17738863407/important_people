@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+宋忠义		1		青海省	西宁市	https://xnzy.qhwsfy.gov.cn/article/detail/2026/06/id/9380681.shtml	青海省西宁市中级人民法院党组书记、副院长、代理院长、一级高级法官		西宁市中级人民法院		4422
+马德祥		2		青海省	西宁市	https://xnzy.qhwsfy.gov.cn/article/detail/2026/06/id/9380681.shtml	青海省西宁市中级人民法院党组副书记、副院长、二级高级法官		西宁市中级人民法院		4422
+沙沨		3		青海省	西宁市	https://xnzy.qhwsfy.gov.cn/article/detail/2026/06/id/9380681.shtml	青海省西宁市中级人民法院党组成员、副院长、二级高级法官		西宁市中级人民法院		4422
+王鹏		4		青海省	西宁市	https://xnzy.qhwsfy.gov.cn/article/detail/2026/06/id/9380681.shtml	青海省西宁市中级人民法院党组成员、副院长、三级高级法官		西宁市中级人民法院		4422
+陈志秀		5		青海省	西宁市	https://xnzy.qhwsfy.gov.cn/article/detail/2026/06/id/9380681.shtml	青海省西宁市中级人民法院党组成员、副院长、三级高级法官		西宁市中级人民法院		4422
+冯梦珺		6		青海省	西宁市	https://xnzy.qhwsfy.gov.cn/article/detail/2026/06/id/9380681.shtml	青海省西宁市中级人民法院党组成员、政治部主任		西宁市中级人民法院		4422
+王文东		7		青海省	西宁市	https://xnzy.qhwsfy.gov.cn/article/detail/2026/06/id/9380681.shtml	青海省西宁市中级人民法院党组成员、执行局局长、二级高级法官		西宁市中级人民法院		4422

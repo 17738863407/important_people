@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱国贤		1		全国		http://www.jlzx.gov.cn/zxld/zx/	主席		吉林省政协	http://www.jlzx.gov.cn/zxld/zx/202301/t20230117_2347205.html	1161
+吴靖平		2		全国		http://www.jlzx.gov.cn/zxld/zx/	副主席		吉林省政协	http://www.jlzx.gov.cn/zxld/fzx/202301/t20230117_2347206.html	1161
+李龙熙		3		全国		http://www.jlzx.gov.cn/zxld/zx/	副主席		吉林省政协	http://www.jlzx.gov.cn/zxld/fzx/202301/t20230117_2347207.html	1161
+张志军		4		全国		http://www.jlzx.gov.cn/zxld/zx/	副主席		吉林省政协	http://www.jlzx.gov.cn/zxld/fzx/202309/t20230912_2515752.html	1161
+韩福春		5		全国		http://www.jlzx.gov.cn/zxld/zx/	副主席		吉林省政协	http://www.jlzx.gov.cn/zxld/fzx/202309/t20230912_2515860.html	1161
+曹宇光		6		全国		http://www.jlzx.gov.cn/zxld/zx/	副主席		吉林省政协	http://www.jlzx.gov.cn/zxld/fzx/202301/t20230117_2347211.html	1161
+李维斗		7		全国		http://www.jlzx.gov.cn/zxld/zx/	副主席		吉林省政协	http://www.jlzx.gov.cn/zxld/fzx/202301/t20230117_2347213.html	1161
+郭乃硕		8		全国		http://www.jlzx.gov.cn/zxld/zx/	副主席		吉林省政协	http://www.jlzx.gov.cn/zxld/fzx/202301/t20230117_2347214.html	1161
+杨安娣		9		全国		http://www.jlzx.gov.cn/zxld/zx/	副主席		吉林省政协	http://www.jlzx.gov.cn/zxld/fzx/202301/t20230117_2347210.html	1161
+蔡国伟		10		全国		http://www.jlzx.gov.cn/zxld/zx/	副主席		吉林省政协	http://www.jlzx.gov.cn/zxld/fzx/202301/t20230117_2347215.html	1161
+秦海涛		11		全国		http://www.jlzx.gov.cn/zxld/zx/	副主席		吉林省政协	http://www.jlzx.gov.cn/zxld/fzx/202301/t20230117_2347216.html	1161
+赵海峰		12		全国		http://www.jlzx.gov.cn/zxld/zx/	秘书长		吉林省政协	http://www.jlzx.gov.cn/zxld/msz/201801/t20180130_2347217.html	1161
+许云鹏		13		全国		http://www.jlzx.gov.cn/zxld/zx/	副秘书长		吉林省政协	http://www.jlzx.gov.cn/zxld/fmsz/201805/t20180508_2347218.html	1161
+杨光		14		全国		http://www.jlzx.gov.cn/zxld/zx/	副秘书长		吉林省政协	http://www.jlzx.gov.cn/zxld/fmsz/202308/t20230816_2501469.html	1161

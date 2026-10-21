@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡剑飞		1		江西省	抚州市	https://www.jxfz.gov.cn/col/col25468/index.html	市长		抚州市人民政府		3822
+黄小燕		2		江西省	抚州市	https://www.jxfz.gov.cn/col/col25468/index.html	副市长		抚州市人民政府	https://www.jxfz.gov.cn/col/col28250/index.html	3822
+吕刚		3		江西省	抚州市	https://www.jxfz.gov.cn/col/col25468/index.html	副市长		抚州市人民政府	https://www.jxfz.gov.cn/col/col28581/index.html	3822
+蔡青		4		江西省	抚州市	https://www.jxfz.gov.cn/col/col25468/index.html	副市长		抚州市人民政府	https://www.jxfz.gov.cn/col/col6839/index.html	3822
+徐树斌		5		江西省	抚州市	https://www.jxfz.gov.cn/col/col25468/index.html	副市长		抚州市人民政府	https://www.jxfz.gov.cn/col/col28251/index.html	3822

@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄翔峰		1		上海市		https://www.sufe.edu.cn/xrld_13547/list.htm	党委书记；党委常委		上海财经大学	https://www.sufe.edu.cn/16/63/c13553a267875/page.htm	3640
+刘元春		2		上海市		https://www.sufe.edu.cn/xrld_13547/list.htm	校长；党委副书记；党委常委		上海财经大学	https://www.sufe.edu.cn/60/f7/c13554a221431/page.htm	3640
+何鹏程		3		上海市		https://www.sufe.edu.cn/xrld_13547/list.htm	党委副书记；纪委书记；党委常委		上海财经大学	https://www.sufe.edu.cn/60/f8/c13555a221432/page.htm	3640
+周国良		4		上海市		https://www.sufe.edu.cn/xrld_13547/list.htm	党委副书记；党委常委		上海财经大学	https://www.sufe.edu.cn/90/72/c13555a233586/page.htm	3640
+李增泉		5		上海市		https://www.sufe.edu.cn/xrld_13547/list.htm	副校长；党委常委		上海财经大学	https://www.sufe.edu.cn/60/fd/c13556a221437/page.htm	3640
+刘莉亚		6		上海市		https://www.sufe.edu.cn/xrld_13547/list.htm	副校长；党委常委		上海财经大学	https://www.sufe.edu.cn/60/fb/c13556a221435/page.htm	3640
+刘庆生		7		上海市		https://www.sufe.edu.cn/xrld_13547/list.htm	副校长；党委常委		上海财经大学	https://www.sufe.edu.cn/60/fc/c13556a221436/page.htm	3640
+靳玉英		8		上海市		https://www.sufe.edu.cn/xrld_13547/list.htm	副校长；党委常委		上海财经大学	https://www.sufe.edu.cn/60/fe/c13556a221438/page.htm	3640
+曹东勃		9		上海市		https://www.sufe.edu.cn/xrld_13547/list.htm	党委常委		上海财经大学	https://www.sufe.edu.cn/61/04/c13558a221444/page.htm	3640
+褚华		10		上海市		https://www.sufe.edu.cn/xrld_13547/list.htm	党委常委		上海财经大学	https://www.sufe.edu.cn/61/01/c13558a221441/page.htm	3640
+杨乐		11		上海市		https://www.sufe.edu.cn/xrld_13547/list.htm	党委常委		上海财经大学	https://www.sufe.edu.cn/dd/9d/c13558a253341/page.htm	3640
+夏纪军		12		上海市		https://www.sufe.edu.cn/xrld_13547/list.htm	校长助理		上海财经大学	https://www.sufe.edu.cn/b3/f9/c18499a242681/page.htm	3640

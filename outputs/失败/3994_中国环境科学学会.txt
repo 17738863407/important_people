@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王金南		1		全国		https://www.chinacses.org/web/67/202204/587.html	理事长		中国环境科学学会		3994
+王志斌		2		全国		https://www.chinacses.org/web/67/202204/587.html	副理事长		中国环境科学学会		3994
+王焰新		3		全国		https://www.chinacses.org/web/67/202204/587.html	副理事长		中国环境科学学会		3994
+朱利中		4		全国		https://www.chinacses.org/web/67/202204/587.html	副理事长		中国环境科学学会		3994
+任洪强		5		全国		https://www.chinacses.org/web/67/202204/587.html	副理事长		中国环境科学学会		3994
+刘文清		6		全国		https://www.chinacses.org/web/67/202204/587.html	副理事长		中国环境科学学会		3994
+吴丰昌		7		全国		https://www.chinacses.org/web/67/202204/587.html	副理事长		中国环境科学学会		3994
+贺泓		8		全国		https://www.chinacses.org/web/67/202204/587.html	副理事长		中国环境科学学会		3994
+贺克斌		9		全国		https://www.chinacses.org/web/67/202204/587.html	副理事长		中国环境科学学会		3994
+夏祖义		10		全国		https://www.chinacses.org/web/67/202204/587.html	副理事长；秘书长		中国环境科学学会		3994
+顾大钊		11		全国		https://www.chinacses.org/web/67/202204/587.html	副理事长		中国环境科学学会		3994
+倪晋仁		12		全国		https://www.chinacses.org/web/67/202204/587.html	副理事长		中国环境科学学会		3994
+高吉喜		13		全国		https://www.chinacses.org/web/67/202204/587.html	副理事长		中国环境科学学会		3994

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+贾忠武		1		全国		https://www.cacms.ac.cn/hospital.html#xrld	党委书记		中国中医科学院	https://www.cacms.ac.cn/current_leadership/detail/5403.html	4261
+黄璐琦		2		全国		https://www.cacms.ac.cn/hospital.html#xrld	党委副书记、院长		中国中医科学院	https://www.cacms.ac.cn/current_leadership/detail/473.html	4261
+于林勇		3		全国		https://www.cacms.ac.cn/hospital.html#xrld	党委常委、纪委书记		中国中医科学院	https://www.cacms.ac.cn/current_leadership/detail/470.html	4261
+李鲲		4		全国		https://www.cacms.ac.cn/hospital.html#xrld	党委常委、副院长		中国中医科学院	https://www.cacms.ac.cn/current_leadership/detail/469.html	4261
+杨洪军		5		全国		https://www.cacms.ac.cn/hospital.html#xrld	副院长		中国中医科学院	https://www.cacms.ac.cn/current_leadership/detail/1590.html	4261
+舒静		6		全国		https://www.cacms.ac.cn/hospital.html#xrld	副院长（挂职）		中国中医科学院	https://www.cacms.ac.cn/current_leadership/detail/4514.html	4261

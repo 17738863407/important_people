@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈水树		1		福建省		https://slt.fujian.gov.cn/xxgk/gkxx/tldzc/css/	党组书记、副厅长		福建省水利厅		2485
+叶敏		2		福建省		https://slt.fujian.gov.cn/xxgk/gkxx/tldzc/css/	厅长		福建省水利厅	https://slt.fujian.gov.cn/xxgk/gkxx/tldzc/ym/	2485
+吴深生		3		福建省		https://slt.fujian.gov.cn/xxgk/gkxx/tldzc/css/	党组成员、副厅长		福建省水利厅	https://slt.fujian.gov.cn/xxgk/gkxx/tldzc/wss/	2485
+林学坚		4		福建省		https://slt.fujian.gov.cn/xxgk/gkxx/tldzc/css/	驻厅纪检监察组组长、厅党组成员、二级高级监察官		福建省水利厅	https://slt.fujian.gov.cn/xxgk/gkxx/tldzc/lxj/	2485
+陈久新		5		福建省		https://slt.fujian.gov.cn/xxgk/gkxx/tldzc/css/	党组成员、副厅长		福建省水利厅	https://slt.fujian.gov.cn/xxgk/gkxx/tldzc/cjx/	2485
+张麒蛰		6		福建省		https://slt.fujian.gov.cn/xxgk/gkxx/tldzc/css/	党组成员、副厅长		福建省水利厅	https://slt.fujian.gov.cn/xxgk/gkxx/tldzc/zqz/	2485

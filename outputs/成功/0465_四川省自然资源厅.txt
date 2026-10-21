@@ -1,0 +1,19 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐志文		1		四川省		https://dnr.sc.gov.cn/scdnr/scjgjj/sc_jgjj_list.shtml	四川省自然资源厅党组书记、厅长		四川省自然资源厅	https://dnr.sc.gov.cn/scdnr/c1001/ldxq.shtml	0465
+荣全		2		四川省		https://dnr.sc.gov.cn/scdnr/scjgjj/sc_jgjj_list.shtml	四川省自然资源厅党组副书记、副厅长，四川省林业和草原局党组书记、局长		四川省自然资源厅	https://dnr.sc.gov.cn/scdnr/rongquan/ldxq.shtml	0465
+李春虎		3		四川省		https://dnr.sc.gov.cn/scdnr/scjgjj/sc_jgjj_list.shtml	四川省自然资源厅党组成员、副厅长		四川省自然资源厅	https://dnr.sc.gov.cn/scdnr/c1007/ldxq.shtml	0465
+魏文彪		4		四川省		https://dnr.sc.gov.cn/scdnr/scjgjj/sc_jgjj_list.shtml	省纪委监委驻四川省自然资源厅纪检监察组一级巡视员、一级高级监察官		四川省自然资源厅	https://dnr.sc.gov.cn/scdnr/c1020/ldxq.shtml	0465
+吴进学		5		四川省		https://dnr.sc.gov.cn/scdnr/scjgjj/sc_jgjj_list.shtml	四川省自然资源厅党组成员、副厅长		四川省自然资源厅	https://dnr.sc.gov.cn/scdnr/wxj/ldxq.shtml	0465
+谢安军		6		四川省		https://dnr.sc.gov.cn/scdnr/scjgjj/sc_jgjj_list.shtml	四川省自然资源厅党组成员、副厅长、机关党委书记		四川省自然资源厅	https://dnr.sc.gov.cn/scdnr/C1009/ldxq.shtml	0465
+邓斌		7		四川省		https://dnr.sc.gov.cn/scdnr/scjgjj/sc_jgjj_list.shtml	四川省自然资源厅一级巡视员		四川省自然资源厅	https://dnr.sc.gov.cn/scdnr/dengbin/ldxq.shtml	0465
+罗旭刚		8		四川省		https://dnr.sc.gov.cn/scdnr/scjgjj/sc_jgjj_list.shtml	四川省自然资源厅党组成员、副厅长		四川省自然资源厅	https://dnr.sc.gov.cn/scdnr/c1010/ldxq.shtml	0465
+杨伟		9		四川省		https://dnr.sc.gov.cn/scdnr/scjgjj/sc_jgjj_list.shtml	四川省自然资源厅党组成员，成都市规划和自然资源局党组书记、局长		四川省自然资源厅	https://dnr.sc.gov.cn/scdnr/c1011/ldxq.shtml	0465
+薛红		10		四川省		https://dnr.sc.gov.cn/scdnr/scjgjj/sc_jgjj_list.shtml	四川省自然资源厅副厅长		四川省自然资源厅	https://dnr.sc.gov.cn/scdnr/xuehong/ldxq.shtml	0465
+邓象乾		11		四川省		https://dnr.sc.gov.cn/scdnr/scjgjj/sc_jgjj_list.shtml	省纪委监委驻自然资源厅纪检监察组组长、自然资源厅党组成员、二级高级监察官		四川省自然资源厅	https://dnr.sc.gov.cn/scdnr/dengxiangqian/ldxq.shtml	0465
+杨旭		12		四川省		https://dnr.sc.gov.cn/scdnr/scjgjj/sc_jgjj_list.shtml	四川省自然资源厅二级巡视员		四川省自然资源厅	https://dnr.sc.gov.cn/scdnr/c1014/ldxq.shtml	0465
+王梦侠		13		四川省		https://dnr.sc.gov.cn/scdnr/scjgjj/sc_jgjj_list.shtml	四川省自然资源厅二级巡视员		四川省自然资源厅	https://dnr.sc.gov.cn/scdnr/wangmengxia/ldxq.shtml	0465
+张帆		14		四川省		https://dnr.sc.gov.cn/scdnr/scjgjj/sc_jgjj_list.shtml	四川省自然资源厅二级巡视员		四川省自然资源厅	https://dnr.sc.gov.cn/scdnr/zfan/ldxq.shtml	0465
+杨明元		15		四川省		https://dnr.sc.gov.cn/scdnr/scjgjj/sc_jgjj_list.shtml	四川省纪委监委驻自然资源厅纪检监察组副组长、二级巡视员、二级高级监察官		四川省自然资源厅	https://dnr.sc.gov.cn/scdnr/c10016/ldxq.shtml	0465
+岳运红		16		四川省		https://dnr.sc.gov.cn/scdnr/scjgjj/sc_jgjj_list.shtml	四川省自然资源厅二级巡视员		四川省自然资源厅	https://dnr.sc.gov.cn/scdnr/yueyunhong/ldxq.shtml	0465
+瞿亮		17		四川省		https://dnr.sc.gov.cn/scdnr/scjgjj/sc_jgjj_list.shtml	四川省自然资源厅总规划师		四川省自然资源厅	https://dnr.sc.gov.cn/scdnr/c10126/ldxq.shtml	0465
+胥良		18		四川省		https://dnr.sc.gov.cn/scdnr/scjgjj/sc_jgjj_list.shtml	四川省自然资源厅总工程师		四川省自然资源厅	https://dnr.sc.gov.cn/scdnr/xuliang/ldxq.shtml	0465

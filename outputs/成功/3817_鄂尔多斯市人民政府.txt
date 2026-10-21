@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于海宇		1		内蒙古自治区	鄂尔多斯市	https://www.ordos.gov.cn/gk_128120/ldcy/	市长		鄂尔多斯市人民政府	https://www.ordos.gov.cn/gk_128120/ldcy/zfld/yhy/	3817
+刘凤云		2		内蒙古自治区	鄂尔多斯市	https://www.ordos.gov.cn/gk_128120/ldcy/	副市长		鄂尔多斯市人民政府	https://www.ordos.gov.cn/gk_128120/ldcy/zfld/liufengyun/	3817
+赵春雨		3		内蒙古自治区	鄂尔多斯市	https://www.ordos.gov.cn/gk_128120/ldcy/	副市长		鄂尔多斯市人民政府	https://www.ordos.gov.cn/gk_128120/ldcy/zfld/zcy/	3817
+曹凯宏		4		内蒙古自治区	鄂尔多斯市	https://www.ordos.gov.cn/gk_128120/ldcy/	副市长		鄂尔多斯市人民政府	https://www.ordos.gov.cn/gk_128120/ldcy/zfld/ckh/	3817
+苗程玉		5		内蒙古自治区	鄂尔多斯市	https://www.ordos.gov.cn/gk_128120/ldcy/	副市长		鄂尔多斯市人民政府	https://www.ordos.gov.cn/gk_128120/ldcy/zfld/mcy/	3817
+吉日木图		6		内蒙古自治区	鄂尔多斯市	https://www.ordos.gov.cn/gk_128120/ldcy/	副市长		鄂尔多斯市人民政府	https://www.ordos.gov.cn/gk_128120/ldcy/zfld/jrmt_150776/	3817
+邬建勋		7		内蒙古自治区	鄂尔多斯市	https://www.ordos.gov.cn/gk_128120/ldcy/	副市长		鄂尔多斯市人民政府	https://www.ordos.gov.cn/gk_128120/ldcy/zfld/wjx/	3817
+张秀玲		8		内蒙古自治区	鄂尔多斯市	https://www.ordos.gov.cn/gk_128120/ldcy/	副市长		鄂尔多斯市人民政府	https://www.ordos.gov.cn/gk_128120/ldcy/zfld/zhangxiuling/	3817
+贾玉宝		9		内蒙古自治区	鄂尔多斯市	https://www.ordos.gov.cn/gk_128120/ldcy/	政府秘书长		鄂尔多斯市人民政府	https://www.ordos.gov.cn/gk_128120/ldcy/zfld/jyb/	3817

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘岱峰		1		吉林省	长春市	http://ajj.changchun.gov.cn/xxfb/jgzn/bzgk/202012/t20201210_2644204.html	局党委书记、局长		长春市应急管理局		0074
+郭义波		2		吉林省	长春市	http://ajj.changchun.gov.cn/xxfb/jgzn/bzgk/202012/t20201210_2644204.html	党委委员、地震局局长		长春市应急管理局		0074
+王春光		3		吉林省	长春市	http://ajj.changchun.gov.cn/xxfb/jgzn/bzgk/202012/t20201210_2644204.html	局党委委员、副局长		长春市应急管理局		0074
+姚炳道		4		吉林省	长春市	http://ajj.changchun.gov.cn/xxfb/jgzn/bzgk/202012/t20201210_2644204.html	局党委委员、副局长		长春市应急管理局		0074
+顾明智		5		吉林省	长春市	http://ajj.changchun.gov.cn/xxfb/jgzn/bzgk/202012/t20201210_2644204.html	局党委委员、政治部主任		长春市应急管理局		0074

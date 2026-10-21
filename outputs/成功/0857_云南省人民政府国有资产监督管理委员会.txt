@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄小荣		1		云南省		https://gzw.yn.gov.cn/zfxxgk/fdzdgknr/jgzn/wld/	省政府副秘书长、省政府办公厅党组成员，委党委书记、主任		云南省人民政府国有资产监督管理委员会	https://gzw.yn.gov.cn/zfxxgk/fdzdgknr/jgzn/wld/202603/t20260324_2953622.html	0857
+刘成志		2		云南省		https://gzw.yn.gov.cn/zfxxgk/fdzdgknr/jgzn/wld/	党委副书记		云南省人民政府国有资产监督管理委员会	https://gzw.yn.gov.cn/zfxxgk/fdzdgknr/jgzn/wld/202603/t20260324_2953623.html	0857
+夏丽坤		3		云南省		https://gzw.yn.gov.cn/zfxxgk/fdzdgknr/jgzn/wld/	党委委员、副主任		云南省人民政府国有资产监督管理委员会	https://gzw.yn.gov.cn/zfxxgk/fdzdgknr/jgzn/wld/202603/t20260324_2953626.html	0857
+杨勇		4		云南省		https://gzw.yn.gov.cn/zfxxgk/fdzdgknr/jgzn/wld/	党委委员、副主任		云南省人民政府国有资产监督管理委员会	https://gzw.yn.gov.cn/zfxxgk/fdzdgknr/jgzn/wld/202603/t20260324_2953627.html	0857
+陈红卫		5		云南省		https://gzw.yn.gov.cn/zfxxgk/fdzdgknr/jgzn/wld/	党委委员、副主任		云南省人民政府国有资产监督管理委员会	https://gzw.yn.gov.cn/zfxxgk/fdzdgknr/jgzn/wld/202605/t20260529_3032314.html	0857
+谢曙光		6		云南省		https://gzw.yn.gov.cn/zfxxgk/fdzdgknr/jgzn/wld/	一级巡视员		云南省人民政府国有资产监督管理委员会	https://gzw.yn.gov.cn/zfxxgk/fdzdgknr/jgzn/wld/202603/t20260324_2953625.html	0857

@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王树声		1		陕西省		https://jyt.shaanxi.gov.cn/gk/fdnr/jgxx/ldxx/	中共陕西省委教育工作委员会书记、陕西省教育厅厅长		陕西省教育厅		1343
+冀映秋		2		陕西省		https://jyt.shaanxi.gov.cn/gk/fdnr/jgxx/ldxx/	中共陕西省委教育工作委员会副书记		陕西省教育厅		1343
+赵军		3		陕西省		https://jyt.shaanxi.gov.cn/gk/fdnr/jgxx/ldxx/	陕西省纪委委员、陕西省纪委监委驻省教育厅纪检监察组组长、中共陕西省委教育工作委员会委员		陕西省教育厅		1343
+申雪峰		4		陕西省		https://jyt.shaanxi.gov.cn/gk/fdnr/jgxx/ldxx/	中共陕西省委教育工作委员会委员、陕西省教育厅副厅长		陕西省教育厅		1343
+梅争利		5		陕西省		https://jyt.shaanxi.gov.cn/gk/fdnr/jgxx/ldxx/	中共陕西省委教育工作委员会委员、陕西省教育厅副厅长		陕西省教育厅		1343
+高巍		6		陕西省		https://jyt.shaanxi.gov.cn/gk/fdnr/jgxx/ldxx/	中共陕西省委教育工作委员会、陕西省教育厅二级巡视员		陕西省教育厅		1343
+张和平		7		陕西省		https://jyt.shaanxi.gov.cn/gk/fdnr/jgxx/ldxx/	中共陕西省委教育工作委员会、陕西省教育厅二级巡视员		陕西省教育厅		1343
+李享阳		8		陕西省		https://jyt.shaanxi.gov.cn/gk/fdnr/jgxx/ldxx/	中共陕西省委教育工作委员会、陕西省教育厅二级巡视员		陕西省教育厅		1343
+陈国栋		9		陕西省		https://jyt.shaanxi.gov.cn/gk/fdnr/jgxx/ldxx/	中共陕西省委教育工作委员会、陕西省教育厅二级巡视员		陕西省教育厅		1343
+刘宏恩		10		陕西省		https://jyt.shaanxi.gov.cn/gk/fdnr/jgxx/ldxx/	中共陕西省委教育工作委员会、陕西省教育厅二级巡视员		陕西省教育厅		1343

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈波		1		内蒙古自治区		https://gzw.nmg.gov.cn/zfxxgk/zfxxgkml/?gk=0	自治区国资委党委书记、主任		内蒙古自治区人民政府国有资产监督管理委员会	https://gzw.nmg.gov.cn/zfxxgk/zfxxgkml/jgjj/ldjj/zzqgzwldjj/202411/t20241104_2601760.html	0844
+徐英		2		内蒙古自治区		https://gzw.nmg.gov.cn/zfxxgk/zfxxgkml/?gk=0	自治区国资委党委专职副书记		内蒙古自治区人民政府国有资产监督管理委员会	https://gzw.nmg.gov.cn/zfxxgk/zfxxgkml/jgjj/ldjj/zzqgzwldjj/202601/t20260116_2849909.html	0844
+马焕龙		3		内蒙古自治区		https://gzw.nmg.gov.cn/zfxxgk/zfxxgkml/?gk=0	自治区国资委党委委员、副主任		内蒙古自治区人民政府国有资产监督管理委员会	https://gzw.nmg.gov.cn/zfxxgk/zfxxgkml/jgjj/ldjj/zzqgzwldjj/202309/t20230908_2375918.html	0844
+孟强		4		内蒙古自治区		https://gzw.nmg.gov.cn/zfxxgk/zfxxgkml/?gk=0	自治区国资委党委委员、副主任		内蒙古自治区人民政府国有资产监督管理委员会	https://gzw.nmg.gov.cn/zfxxgk/zfxxgkml/jgjj/ldjj/zzqgzwldjj/202405/t20240521_2511719.html	0844
+吴大鹏		5		内蒙古自治区		https://gzw.nmg.gov.cn/zfxxgk/zfxxgkml/?gk=0	自治区国资委党委委员、副主任		内蒙古自治区人民政府国有资产监督管理委员会	https://gzw.nmg.gov.cn/zfxxgk/zfxxgkml/jgjj/ldjj/zzqgzwldjj/202309/t20230908_2375934.html	0844
+张东		6		内蒙古自治区		https://gzw.nmg.gov.cn/zfxxgk/zfxxgkml/?gk=0	自治区国资委党委委员、副主任，国企服务局局长		内蒙古自治区人民政府国有资产监督管理委员会	https://gzw.nmg.gov.cn/zfxxgk/zfxxgkml/jgjj/ldjj/zzqgzwldjj/202403/t20240325_2484687.html	0844
+郝璟		7		内蒙古自治区		https://gzw.nmg.gov.cn/zfxxgk/zfxxgkml/?gk=0	自治区国资委副厅级干部		内蒙古自治区人民政府国有资产监督管理委员会	https://gzw.nmg.gov.cn/zfxxgk/zfxxgkml/jgjj/ldjj/zzqgzwldjj/202309/t20230908_2375925.html	0844
+李巧霞		8		内蒙古自治区		https://gzw.nmg.gov.cn/zfxxgk/zfxxgkml/?gk=0	自治区国资委党委委员、驻委纪检监察组组长		内蒙古自治区人民政府国有资产监督管理委员会	https://gzw.nmg.gov.cn/zfxxgk/zfxxgkml/jgjj/ldjj/jwldjj/202601/t20260116_2849936.html	0844

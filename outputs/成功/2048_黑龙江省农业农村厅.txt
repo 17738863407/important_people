@@ -1,0 +1,18 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+庞海涛		1		黑龙江省		https://nynct.hlj.gov.cn/nynct/jgld/public_jgld.shtml	省委农办主任，省农业农村厅厅长、党组书记，省乡村振兴局局长		黑龙江省农业农村厅	https://nynct.hlj.gov.cn/nynct/jgld/202209/c00_31264681.shtml	2048
+周立新		2		黑龙江省		https://nynct.hlj.gov.cn/nynct/jgld/public_jgld.shtml	省纪委监委驻省农业农村厅纪检监察组组长、省农业农村厅党组成员		黑龙江省农业农村厅	https://nynct.hlj.gov.cn/nynct/jgld/202209/c00_31264679.shtml	2048
+姜以全		3		黑龙江省		https://nynct.hlj.gov.cn/nynct/jgld/public_jgld.shtml	省农业农村厅副厅长、党组成员		黑龙江省农业农村厅	https://nynct.hlj.gov.cn/nynct/jgld/202209/c00_31264673.shtml	2048
+刘广宇		4		黑龙江省		https://nynct.hlj.gov.cn/nynct/jgld/public_jgld.shtml	省委农办专职副主任（副厅级），省农业农村厅党组成员		黑龙江省农业农村厅	https://nynct.hlj.gov.cn/nynct/jgld/202209/c00_31264672.shtml	2048
+邰伟		5		黑龙江省		https://nynct.hlj.gov.cn/nynct/jgld/public_jgld.shtml	省农业农村厅副厅长、党组成员		黑龙江省农业农村厅	https://nynct.hlj.gov.cn/nynct/jgld/202211/c00_31378662.shtml	2048
+朱华生		6		黑龙江省		https://nynct.hlj.gov.cn/nynct/jgld/public_jgld.shtml	省农业农村厅副厅长、党组成员		黑龙江省农业农村厅	https://nynct.hlj.gov.cn/nynct/jgld/202507/c00_31856325.shtml	2048
+常玉春		7		黑龙江省		https://nynct.hlj.gov.cn/nynct/jgld/public_jgld.shtml	省农业农村厅一级巡视员		黑龙江省农业农村厅	https://nynct.hlj.gov.cn/nynct/jgld/202505/c00_31844907.shtml	2048
+李文德		8		黑龙江省		https://nynct.hlj.gov.cn/nynct/jgld/public_jgld.shtml	省农业农村厅一级巡视员		黑龙江省农业农村厅	https://nynct.hlj.gov.cn/nynct/jgld/202209/c00_31264682.shtml	2048
+尹文杰		9		黑龙江省		https://nynct.hlj.gov.cn/nynct/jgld/public_jgld.shtml	省农业农村厅二级巡视员		黑龙江省农业农村厅	https://nynct.hlj.gov.cn/nynct/jgld/202209/c00_31264676.shtml	2048
+王晓冬		10		黑龙江省		https://nynct.hlj.gov.cn/nynct/jgld/public_jgld.shtml	省农业农村厅二级巡视员		黑龙江省农业农村厅	https://nynct.hlj.gov.cn/nynct/jgld/202209/c00_31264675.shtml	2048
+杨淑波		11		黑龙江省		https://nynct.hlj.gov.cn/nynct/jgld/public_jgld.shtml	省农业农村厅二级巡视员		黑龙江省农业农村厅	https://nynct.hlj.gov.cn/nynct/jgld/202209/c00_31264671.shtml	2048
+窦洪波		12		黑龙江省		https://nynct.hlj.gov.cn/nynct/jgld/public_jgld.shtml	省农业农村厅二级巡视员		黑龙江省农业农村厅	https://nynct.hlj.gov.cn/nynct/jgld/202403/c00_31719543.shtml	2048
+樊丽娜		13		黑龙江省		https://nynct.hlj.gov.cn/nynct/jgld/public_jgld.shtml	省农业农村厅二级巡视员		黑龙江省农业农村厅	https://nynct.hlj.gov.cn/nynct/jgld/202507/c00_31856331.shtml	2048
+李凤燕		14		黑龙江省		https://nynct.hlj.gov.cn/nynct/jgld/public_jgld.shtml	省农业农村厅二级巡视员		黑龙江省农业农村厅	https://nynct.hlj.gov.cn/nynct/jgld/202507/c00_31856338.shtml	2048
+马晓非		15		黑龙江省		https://nynct.hlj.gov.cn/nynct/jgld/public_jgld.shtml	省农业农村厅二级巡视员		黑龙江省农业农村厅	https://nynct.hlj.gov.cn/nynct/jgld/202403/c00_31719778.shtml	2048
+李岩		16		黑龙江省		https://nynct.hlj.gov.cn/nynct/jgld/public_jgld.shtml	省农业农村厅总畜牧师		黑龙江省农业农村厅	https://nynct.hlj.gov.cn/nynct/jgld/202211/c00_31378661.shtml	2048
+康粤		17		黑龙江省		https://nynct.hlj.gov.cn/nynct/jgld/public_jgld.shtml	省农业农村厅总经济师		黑龙江省农业农村厅	https://nynct.hlj.gov.cn/nynct/jgld/202209/c00_31264677.shtml	2048

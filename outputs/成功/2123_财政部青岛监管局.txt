@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+汪飞		1		全国		http://qd.mof.gov.cn/gywm/ldjj/	党组成员、副局长		财政部青岛监管局	http://qd.mof.gov.cn/gywm/ldjj/202502/t20250217_3958572.htm	2123
+崔文静		2		全国		http://qd.mof.gov.cn/gywm/ldjj/	党组成员、副局长		财政部青岛监管局	http://qd.mof.gov.cn/gywm/ldjj/202602/t20260202_3983058.htm	2123
+王吉玲		3		全国		http://qd.mof.gov.cn/gywm/ldjj/	党组成员、纪检组长、二级巡视员		财政部青岛监管局	http://qd.mof.gov.cn/gywm/ldjj/202507/t20250718_3968093.htm	2123

@@ -1,0 +1,16 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+史启新		1		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=12	党组书记、一级调研员		郑州市民政局	https://public.zhengzhou.gov.cn/D14Y/10265054.jhtml	2095
+郑方燕		2		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=12	局长、一级调研员		郑州市民政局	https://public.zhengzhou.gov.cn/D14Y/7012812.jhtml	2095
+孙克强		3		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=12	党组成员、一级调研员		郑州市民政局	https://public.zhengzhou.gov.cn/D14Y/257071.jhtml	2095
+范钦禄		4		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=12	郑州市民政局党组成员、 一 级调研员		郑州市民政局	https://public.zhengzhou.gov.cn/D14Y/289873.jhtml	2095
+张勋		5		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=12	党组成员、副局长		郑州市民政局	https://public.zhengzhou.gov.cn/D14Y/6651213.jhtml	2095
+赵红林		6		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=12	郑州市民政局党组成员、副局长、三级调研员		郑州市民政局	https://public.zhengzhou.gov.cn/D14Y/10079484.jhtml	2095
+陈巍		7		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=12	郑州市民政局党组成员、二级调研员		郑州市民政局	https://public.zhengzhou.gov.cn/D14Y/10079317.jhtml	2095
+高金德		8		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=12	郑州市民政局党组成员、副局长		郑州市民政局	https://public.zhengzhou.gov.cn/D14Y/10079447.jhtml	2095
+郭益民		9		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=12	副局长、三级调研员		郑州市民政局	https://public.zhengzhou.gov.cn/D14Y/6651246.jhtml	2095
+潘永安		10		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=12	党组成员、副局长、三级调研员		郑州市民政局	https://public.zhengzhou.gov.cn/D14Y/6651234.jhtml	2095
+潘爱香		11		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=12	总会计师、二级调研员		郑州市民政局	https://public.zhengzhou.gov.cn/D14Y/299162.jhtml	2095
+霍正钦		12		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=12	一级调研员		郑州市民政局	https://public.zhengzhou.gov.cn/D14Y/6651283.jhtml	2095
+侯大军		13		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=12	三级调研员		郑州市民政局	https://public.zhengzhou.gov.cn/D14Y/299106.jhtml	2095
+涂擎		14		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=12	三级调研员		郑州市民政局	https://public.zhengzhou.gov.cn/D14Y/299117.jhtml	2095
+杨国臣		15		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=12	郑州市民政局三级调研员		郑州市民政局	https://public.zhengzhou.gov.cn/D14Y/10079267.jhtml	2095

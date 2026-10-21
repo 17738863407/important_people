@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵龙		1		全国		https://www.fujian.gov.cn/szf/	省长		福建省人民政府	https://www.fujian.gov.cn/szf/szfld/zldsz/	0575
+王永礼		2		全国		https://www.fujian.gov.cn/szf/	副省长		福建省人民政府	https://www.fujian.gov.cn/szf/szfld/wyl/	0575
+李建成		3		全国		https://www.fujian.gov.cn/szf/	副省长		福建省人民政府	https://www.fujian.gov.cn/szf/szfld/ljcfsz/	0575
+林瑞良		4		全国		https://www.fujian.gov.cn/szf/	副省长		福建省人民政府	https://www.fujian.gov.cn/szf/szfld/lrlfsz/	0575
+王金福		5		全国		https://www.fujian.gov.cn/szf/	副省长		福建省人民政府	https://www.fujian.gov.cn/szf/szfld/wjffsz/	0575
+江尔雄		6		全国		https://www.fujian.gov.cn/szf/	副省长		福建省人民政府	https://www.fujian.gov.cn/szf/szfld/jex/	0575
+赵增连		7		全国		https://www.fujian.gov.cn/szf/	副省长		福建省人民政府	https://www.fujian.gov.cn/szf/szfld/zzl/	0575
+伍斌		8		全国		https://www.fujian.gov.cn/szf/	副省长		福建省人民政府	https://www.fujian.gov.cn/szf/szfld/wbdzcy/	0575
+康涛		9		全国		https://www.fujian.gov.cn/szf/	党组成员		福建省人民政府	https://www.fujian.gov.cn/szf/szfld/ktdzcq/	0575
+李斌		10		全国		https://www.fujian.gov.cn/szf/	秘书长		福建省人民政府	https://www.fujian.gov.cn/szf/szfld/lb/	0575

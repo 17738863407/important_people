@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+曹阳		1		辽宁省	营口市	https://www.yingkou.gov.cn/zfxxgk/002001/leader.html	市长		营口市人民政府	https://www.yingkou.gov.cn/zfxxgk/002001/002001001/002001001004/leader.html	3905
+李进辉		2		辽宁省	营口市	https://www.yingkou.gov.cn/zfxxgk/002001/leader.html	副市长		营口市人民政府	https://www.yingkou.gov.cn/zfxxgk/002001/002001003/002001003022/leader.html	3905
+韩冰		3		辽宁省	营口市	https://www.yingkou.gov.cn/zfxxgk/002001/leader.html	副市长		营口市人民政府	https://www.yingkou.gov.cn/zfxxgk/002001/002001003/002001003024/leader.html	3905
+赵涵斌		4		辽宁省	营口市	https://www.yingkou.gov.cn/zfxxgk/002001/leader.html	副市长		营口市人民政府	https://www.yingkou.gov.cn/zfxxgk/002001/002001003/002001003016/leader.html	3905
+王正刚		5		辽宁省	营口市	https://www.yingkou.gov.cn/zfxxgk/002001/leader.html	副市长		营口市人民政府	https://www.yingkou.gov.cn/zfxxgk/002001/002001003/002001003019/leader.html	3905
+李人杰		6		辽宁省	营口市	https://www.yingkou.gov.cn/zfxxgk/002001/leader.html	副市长		营口市人民政府	https://www.yingkou.gov.cn/zfxxgk/002001/002001003/002001003001/leader.html	3905
+王殿丰		7		辽宁省	营口市	https://www.yingkou.gov.cn/zfxxgk/002001/leader.html	副市长		营口市人民政府	https://www.yingkou.gov.cn/zfxxgk/002001/002001003/002001003021/leader.html	3905
+付波		8		辽宁省	营口市	https://www.yingkou.gov.cn/zfxxgk/002001/leader.html	副市长		营口市人民政府	https://www.yingkou.gov.cn/zfxxgk/002001/002001003/002001003023/leader.html	3905
+高峰		9		辽宁省	营口市	https://www.yingkou.gov.cn/zfxxgk/002001/leader.html	副市长		营口市人民政府	https://www.yingkou.gov.cn/zfxxgk/002001/002001003/002001003025/leader.html	3905

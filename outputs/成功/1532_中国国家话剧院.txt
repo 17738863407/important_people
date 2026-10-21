@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+田沁鑫		1		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202211/t20221103_937168.htm	院长		中国国家话剧院		1532
+巩保江		2		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202211/t20221103_937168.htm	党委书记		中国国家话剧院		1532
+白雪峰		3		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202211/t20221103_937168.htm	副院长		中国国家话剧院		1532
+程鹏		4		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202211/t20221103_937168.htm	副院长		中国国家话剧院		1532

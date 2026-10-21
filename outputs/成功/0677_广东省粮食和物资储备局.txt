@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+肖晓光		1		广东省		https://gdgrain.gd.gov.cn/zwgk/xxgkml/zzjg/ldxx/	一级巡视员		广东省粮食和物资储备局		0677
+邢卫华		2		广东省		https://gdgrain.gd.gov.cn/zwgk/xxgkml/zzjg/ldxx/	党组成员、副局长		广东省粮食和物资储备局		0677
+邓伟珍		3		广东省		https://gdgrain.gd.gov.cn/zwgk/xxgkml/zzjg/ldxx/	党组成员、副局长		广东省粮食和物资储备局		0677
+马占飞		4		广东省		https://gdgrain.gd.gov.cn/zwgk/xxgkml/zzjg/ldxx/	党组成员、副局长，机关党委书记		广东省粮食和物资储备局		0677
+林善为		5		广东省		https://gdgrain.gd.gov.cn/zwgk/xxgkml/zzjg/ldxx/	二级巡视员		广东省粮食和物资储备局		0677

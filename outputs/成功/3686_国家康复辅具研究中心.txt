@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑远长		1		全国		https://www.mca.gov.cn/n158/n161/n303/c14502/content.html	党委书记		国家康复辅具研究中心		3686
+张宇星		2		全国		https://www.mca.gov.cn/n158/n161/n303/c14502/content.html	党委副书记；主任		国家康复辅具研究中心		3686
+赵红岗		3		全国		https://www.mca.gov.cn/n158/n161/n303/c14502/content.html	党委委员；副主任；附属康复医院党委书记		国家康复辅具研究中心		3686
+方新		4		全国		https://www.mca.gov.cn/n158/n161/n303/c14502/content.html	党委委员；副主任		国家康复辅具研究中心		3686
+李旭丹		5		全国		https://www.mca.gov.cn/n158/n161/n303/c14502/content.html	党委委员；纪委书记		国家康复辅具研究中心		3686
+吕泽平		6		全国		https://www.mca.gov.cn/n158/n161/n303/c14502/content.html	附属康复医院党委副书记；院长		国家康复辅具研究中心		3686

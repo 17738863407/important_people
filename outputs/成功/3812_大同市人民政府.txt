@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘俊义		1		山西省	大同市	https://www.dt.gov.cn/dtszf/szf/zfld.shtml	市长		大同市人民政府	https://www.dt.gov.cn/dtszf/ljyszr/szfld.shtml	3812
+翟永清		2		山西省	大同市	https://www.dt.gov.cn/dtszf/szf/zfld.shtml	副市长		大同市人民政府	https://www.dt.gov.cn/dtszf/jyq/szfld.shtml	3812
+宁文鑫		3		山西省	大同市	https://www.dt.gov.cn/dtszf/szf/zfld.shtml	副市长		大同市人民政府	https://www.dt.gov.cn/dtszf/nwx/szfld.shtml	3812
+李东升		4		山西省	大同市	https://www.dt.gov.cn/dtszf/szf/zfld.shtml	副市长		大同市人民政府	https://www.dt.gov.cn/dtszf/lds/szfld.shtml	3812
+袁小波		5		山西省	大同市	https://www.dt.gov.cn/dtszf/szf/zfld.shtml	副市长		大同市人民政府	https://www.dt.gov.cn/dtszf/yxb/szfld.shtml	3812
+高新文		6		山西省	大同市	https://www.dt.gov.cn/dtszf/szf/zfld.shtml	副市长		大同市人民政府	https://www.dt.gov.cn/dtszf/gxw/szfld.shtml	3812
+申海军		7		山西省	大同市	https://www.dt.gov.cn/dtszf/szf/zfld.shtml	秘书长		大同市人民政府	https://www.dt.gov.cn/dtszf/shj/szfld.shtml	3812

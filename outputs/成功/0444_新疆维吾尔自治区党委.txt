@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈小江		1		全国		http://district.ce.cn/zt/rwk/sf/xj/index.shtml	党委书记		新疆维吾尔自治区党委	http://district.ce.cn/newarea/sddy/202507/t20250701_2346299.shtml	0444
+艾尔肯·吐尼亚孜		2		全国		http://district.ce.cn/zt/rwk/sf/xj/index.shtml	党委副书记、政府主席		新疆维吾尔自治区党委	http://district.ce.cn/newarea/sddy/202201/28/t20220128_37296751.shtml	0444
+何忠友		3		全国		http://district.ce.cn/zt/rwk/sf/xj/index.shtml	党委副书记、兵团党委书记		新疆维吾尔自治区党委	http://district.ce.cn/newarea/sddy/202407/27/t20240727_39084507.shtml	0444
+陈明国		4		全国		http://district.ce.cn/zt/rwk/sf/xj/index.shtml	党委副书记		新疆维吾尔自治区党委	http://district.ce.cn/newarea/sddy/202412/28/t20241228_39249880.shtml	0444
+张迎春		5		全国		http://district.ce.cn/zt/rwk/sf/xj/index.shtml	党委副书记、政府常务副主席		新疆维吾尔自治区党委	http://district.ce.cn/newarea/sddy/202609/t20260920_3225312.shtml	0444
+王琳		6		全国		http://district.ce.cn/zt/rwk/sf/xj/index.shtml	党委副书记、乌鲁木齐市委书记		新疆维吾尔自治区党委	http://district.ce.cn/newarea/sddy/202609/t20260920_3222485.shtml	0444
+王建新		7		全国		http://district.ce.cn/zt/rwk/sf/xj/index.shtml	党委常委、宣传部部长		新疆维吾尔自治区党委	http://district.ce.cn/newarea/sddy/202301/03/t20230103_38322171.shtml	0444
+玉苏甫江·麦麦提		8		全国		http://district.ce.cn/zt/rwk/sf/xj/index.shtml	党委常委、政府副主席		新疆维吾尔自治区党委	http://district.ce.cn/newarea/sddy/202111/28/t20211128_37121831.shtml	0444
+伊力扎提·艾合买提江		9		全国		http://district.ce.cn/zt/rwk/sf/xj/index.shtml	党委常委、统战部部长，自治区政协党组副书记		新疆维吾尔自治区党委	http://district.ce.cn/newarea/sddy/202302/21/t20230221_38404141.shtml	0444
+哈丹·卡宾		10		全国		http://district.ce.cn/zt/rwk/sf/xj/index.shtml	党委常委、秘书长		新疆维吾尔自治区党委	http://district.ce.cn/newarea/sddy/202110/28/t20211028_37037538.shtml	0444
+李刚		11		全国		http://district.ce.cn/zt/rwk/sf/xj/index.shtml	党委常委、组织部部长		新疆维吾尔自治区党委	http://district.ce.cn/newarea/sddy/202607/t20260728_3112960.shtml	0444
+王刚		12		全国		http://district.ce.cn/zt/rwk/sf/xj/index.shtml	党委常委、政法委书记		新疆维吾尔自治区党委	http://district.ce.cn/newarea/sddy/202602/t20260210_2765515.shtml	0444
+凯赛尔·阿不都克热木		13		全国		http://district.ce.cn/zt/rwk/sf/xj/index.shtml	党委常委，自治区总工会主席		新疆维吾尔自治区党委	http://district.ce.cn/newarea/sddy/202607/t20260729_3115900.shtml	0444

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈子云		1		海南省	海口市	https://www.haikou.gov.cn/xxgk/hkdcd/fdzdgknr/jgjs_10458/ldxx_10464/201511/t1134783.shtml	党组书记、队长		国家统计局海口调查队		0860
+黄昌涛		2		海南省	海口市	https://www.haikou.gov.cn/xxgk/hkdcd/fdzdgknr/jgjs_10458/ldxx_10464/201511/t1134783.shtml	党组成员、副队长		国家统计局海口调查队		0860
+黄骜		3		海南省	海口市	https://www.haikou.gov.cn/xxgk/hkdcd/fdzdgknr/jgjs_10458/ldxx_10464/201511/t1134783.shtml	党组成员、副队长		国家统计局海口调查队		0860
+郑凯		4		海南省	海口市	https://www.haikou.gov.cn/xxgk/hkdcd/fdzdgknr/jgjs_10458/ldxx_10464/201511/t1134783.shtml	党组成员、副队长		国家统计局海口调查队		0860
+刘欣		5		海南省	海口市	https://www.haikou.gov.cn/xxgk/hkdcd/fdzdgknr/jgjs_10458/ldxx_10464/201511/t1134783.shtml	党组成员、党组纪检组组长		国家统计局海口调查队		0860

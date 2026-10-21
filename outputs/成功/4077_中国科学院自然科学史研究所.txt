@@ -1,0 +1,3 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+关晓武		1		全国		https://ihns.cas.cn/dwgk/xrld/	副所长（主持工作）		中国科学院自然科学史研究所	https://ihns.cas.cn/dwgk/xrld/202212/t20221206_6566989.html	4077
+赵艳		2		全国		https://ihns.cas.cn/dwgk/xrld/	党委副书记、纪委书记		中国科学院自然科学史研究所	https://ihns.cas.cn/dwgk/xrld/202212/t20221206_6566986.html	4077

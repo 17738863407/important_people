@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+叶卫红		1		浙江省	金华市	http://www.jhzx.gov.cn/col/col1229708054/index.html	主席		金华市政协		4313
+陶叶萍		2		浙江省	金华市	http://www.jhzx.gov.cn/col/col1229708054/index.html	副主席		金华市政协		4313
+杨坚明		3		浙江省	金华市	http://www.jhzx.gov.cn/col/col1229708054/index.html	副主席		金华市政协		4313
+石骁敏		4		浙江省	金华市	http://www.jhzx.gov.cn/col/col1229708054/index.html	副主席		金华市政协		4313
+蔡艳		5		浙江省	金华市	http://www.jhzx.gov.cn/col/col1229708054/index.html	副主席		金华市政协		4313
+张少华		6		浙江省	金华市	http://www.jhzx.gov.cn/col/col1229708054/index.html	副主席		金华市政协		4313
+胡晓杭		7		浙江省	金华市	http://www.jhzx.gov.cn/col/col1229708054/index.html	副主席		金华市政协		4313
+王宽民		8		浙江省	金华市	http://www.jhzx.gov.cn/col/col1229708054/index.html	副主席		金华市政协		4313
+程长生		9		浙江省	金华市	http://www.jhzx.gov.cn/col/col1229708054/index.html	秘书长		金华市政协		4313

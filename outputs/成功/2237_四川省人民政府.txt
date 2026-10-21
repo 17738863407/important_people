@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+施小琳		1		全国		https://www.sc.gov.cn/10462/wza2012/zfld/zfld.shtml	省委副书记，省政府省长、党组书记		四川省人民政府	https://www.sc.gov.cn/10462/szsxl/zfld_shixiaolin.shtml	2237
+董卫民		2		全国		https://www.sc.gov.cn/10462/wza2012/zfld/zfld.shtml	省委常委，省政府常务副省长、党组副书记		四川省人民政府	https://www.sc.gov.cn/10462/14721/14724/zfld_dongweimin.shtml	2237
+胡云		3		全国		https://www.sc.gov.cn/10462/wza2012/zfld/zfld.shtml	省政府副省长、党组成员		四川省人民政府	https://www.sc.gov.cn/10462/c106464/zfld_huyun.shtml	2237
+马正勇		4		全国		https://www.sc.gov.cn/10462/wza2012/zfld/zfld.shtml	省政府副省长、党组成员		四川省人民政府	https://www.sc.gov.cn/10462/zfldmzy/zfld_mazhengyong.shtml	2237
+任京东		5		全国		https://www.sc.gov.cn/10462/wza2012/zfld/zfld.shtml	省政府副省长、党组成员		四川省人民政府	https://www.sc.gov.cn/10462/zfldrjd/zfld_renjingdong.shtml	2237
+曾洪扬		6		全国		https://www.sc.gov.cn/10462/wza2012/zfld/zfld.shtml	省政府副省长、党组成员，自贡市委书记		四川省人民政府	https://www.sc.gov.cn/10462/zfldzhy/zfld_zenghongyang.shtml	2237
+胡元坤		7		全国		https://www.sc.gov.cn/10462/wza2012/zfld/zfld.shtml	省政府秘书长、党组成员		四川省人民政府	https://www.sc.gov.cn/10462/zfldhyk/zfld_huyuankun.shtml	2237

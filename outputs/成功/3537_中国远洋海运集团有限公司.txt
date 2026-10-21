@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+万敏		1		全国		https://www.coscoshipping.com/col/col6876/index.html	董事长、党组书记		中国远洋海运集团有限公司		3537
+林戟		2		全国		https://www.coscoshipping.com/col/col6876/index.html	董事、总经理、党组副书记		中国远洋海运集团有限公司		3537
+张峰		3		全国		https://www.coscoshipping.com/col/col6876/index.html	董事、党组副书记		中国远洋海运集团有限公司		3537
+王昌顺		4		全国		https://www.coscoshipping.com/col/col6876/index.html	外部董事		中国远洋海运集团有限公司		3537
+姚祖辉		5		全国		https://www.coscoshipping.com/col/col6876/index.html	外部董事		中国远洋海运集团有限公司		3537
+许高峰		6		全国		https://www.coscoshipping.com/col/col6876/index.html	外部董事		中国远洋海运集团有限公司		3537
+高同庆		7		全国		https://www.coscoshipping.com/col/col6876/index.html	外部董事		中国远洋海运集团有限公司		3537
+王宏		8		全国		https://www.coscoshipping.com/col/col6876/index.html	外部董事		中国远洋海运集团有限公司		3537
+盛遒文		9		全国		https://www.coscoshipping.com/col/col6876/index.html	中央纪委国家监委驻中国远洋海运集团有限公司纪检监察组组长、党组成员		中国远洋海运集团有限公司		3537
+李威		10		全国		https://www.coscoshipping.com/col/col6876/index.html	副总经理、党组成员		中国远洋海运集团有限公司		3537
+李云贵		11		全国		https://www.coscoshipping.com/col/col6876/index.html	总会计师、党组成员		中国远洋海运集团有限公司		3537
+罗兵		12		全国		https://www.coscoshipping.com/col/col6876/index.html	副总经理、党组成员		中国远洋海运集团有限公司		3537

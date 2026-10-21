@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴秉琪		1		全国		http://www.chinaoct.com/hqc/gyhqc/gltd/dsh/index.html	华侨城集团有限公司党委书记、董事长、总经理。		华侨城集团有限公司		3476
+刘家强		2		全国		http://www.chinaoct.com/hqc/gyhqc/gltd/dsh/index.html	中央企业专职外部董事、华侨城集团有限公司外部董事。		华侨城集团有限公司		3476
+唐志宏		3		全国		http://www.chinaoct.com/hqc/gyhqc/gltd/dsh/index.html	华侨城集团有限公司外部董事。		华侨城集团有限公司		3476
+傅卓洋		4		全国		http://www.chinaoct.com/hqc/gyhqc/gltd/dsh/index.html	华侨城集团有限公司外部董事。		华侨城集团有限公司		3476
+朱泽		5		全国		http://www.chinaoct.com/hqc/gyhqc/gltd/dsh/index.html	华侨城集团有限公司外部董事。		华侨城集团有限公司		3476

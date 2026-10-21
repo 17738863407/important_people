@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谭建国		1		湖北省	荆门市	https://www.jingmen.gov.cn/col/col373/index.html	市长		荆门市人民政府	https://www.jingmen.gov.cn/col/col29066/index.html	3842
+徐莉		2		湖北省	荆门市	https://www.jingmen.gov.cn/col/col373/index.html	荆门市委常委，市政府副市长（协助市长负责市政府日常工作）、党组副书记，市行政学院院长		荆门市人民政府	https://www.jingmen.gov.cn/col/col28945/index.html	3842
+周俊杰		3		湖北省	荆门市	https://www.jingmen.gov.cn/col/col373/index.html	荆门市政府党组副书记		荆门市人民政府	https://www.jingmen.gov.cn/col/col20598/index.html	3842
+彭俊武		4		湖北省	荆门市	https://www.jingmen.gov.cn/col/col373/index.html	荆门市政府副市长、党组成员，市公安局党委书记、局长、督察长，市委政法委副书记		荆门市人民政府	https://www.jingmen.gov.cn/col/col28492/index.html	3842
+江稳		5		湖北省	荆门市	https://www.jingmen.gov.cn/col/col373/index.html	荆门市政府副市长、党组成员		荆门市人民政府	https://www.jingmen.gov.cn/col/col28698/index.html	3842
+王丹		6		湖北省	荆门市	https://www.jingmen.gov.cn/col/col373/index.html	荆门市政府副市长，九三学社湖北省委委员，九三学社湖北省委教育文化专委会副主任		荆门市人民政府	https://www.jingmen.gov.cn/col/col28800/index.html	3842
+买绘宇		7		湖北省	荆门市	https://www.jingmen.gov.cn/col/col373/index.html	荆门市政府副市长、党组成员		荆门市人民政府	https://www.jingmen.gov.cn/col/col28831/index.html	3842
+魏朝东		8		湖北省	荆门市	https://www.jingmen.gov.cn/col/col373/index.html	荆门市政府副市长、党组成员		荆门市人民政府	https://www.jingmen.gov.cn/col/col29209/index.html	3842
+王玮		9		湖北省	荆门市	https://www.jingmen.gov.cn/col/col373/index.html	荆门市政府党组成员，荆门高新区党工委书记、管委会主任、掇刀区委书记		荆门市人民政府	https://www.jingmen.gov.cn/col/col29221/index.html	3842

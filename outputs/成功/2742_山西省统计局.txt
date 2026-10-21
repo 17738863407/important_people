@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+闫中立		1		山西省		http://tjj.shanxi.gov.cn/tjzn/ldjs/	山西省统计局党组书记、局长		山西省统计局	http://tjj.shanxi.gov.cn/tjzn/ldjs/201508/t20150814_730755.shtml	2742
+王育民		2		山西省		http://tjj.shanxi.gov.cn/tjzn/ldjs/	山西省统计局党组成员、副局长		山西省统计局	http://tjj.shanxi.gov.cn/tjzn/ldjs/202308/t20230802_9050052.shtml	2742
+史美荣		3		山西省		http://tjj.shanxi.gov.cn/tjzn/ldjs/	山西省统计局党组成员、副局长		山西省统计局	http://tjj.shanxi.gov.cn/tjzn/ldjs/202411/t20241129_9713330.shtml	2742
+吴梅英		4		山西省		http://tjj.shanxi.gov.cn/tjzn/ldjs/	山西省统计局党组成员、副局长		山西省统计局	http://tjj.shanxi.gov.cn/tjzn/ldjs/202603/t20260323_10084986.shtml	2742

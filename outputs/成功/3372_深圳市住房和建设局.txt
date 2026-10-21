@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱恩平		1		广东省	深圳市	http://zjj.sz.gov.cn/gkmlpt/index#2017	党组书记、局长		深圳市住房和建设局	https://zjj.sz.gov.cn/gkmlpt/content/10/10932/post_10932747.html	3372
+李秀钗		2		广东省	深圳市	http://zjj.sz.gov.cn/gkmlpt/index#2017	党组成员、副局长		深圳市住房和建设局	https://zjj.sz.gov.cn/gkmlpt/content/10/10390/post_10390075.html	3372
+王德响		3		广东省	深圳市	http://zjj.sz.gov.cn/gkmlpt/index#2017	党组成员、市住房保障署署长		深圳市住房和建设局	https://zjj.sz.gov.cn/gkmlpt/content/11/11712/post_11712377.html	3372
+王必丰		4		广东省	深圳市	http://zjj.sz.gov.cn/gkmlpt/index#2017	党组成员、副局长		深圳市住房和建设局	https://zjj.sz.gov.cn/gkmlpt/content/11/11981/post_11981582.html	3372
+蔡超伦		5		广东省	深圳市	http://zjj.sz.gov.cn/gkmlpt/index#2017	党组成员、副局长		深圳市住房和建设局	https://zjj.sz.gov.cn/gkmlpt/content/11/11981/post_11981620.html	3372
+宋延		6		广东省	深圳市	http://zjj.sz.gov.cn/gkmlpt/index#2017	二级巡视员		深圳市住房和建设局	https://zjj.sz.gov.cn/gkmlpt/content/10/10390/post_10390077.html	3372

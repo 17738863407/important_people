@@ -1,0 +1,18 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郭胜		1		新疆维吾尔自治区		https://jtyst.xinjiang.gov.cn/xjjtysj/c113777/leader_index.shtml	厅党委书记、副厅长		新疆维吾尔自治区交通运输厅	https://jtyst.xinjiang.gov.cn/xjjtysj/c113774/202501/5cabc6dce44e49c6917bdf36de8a1828.shtml	1267
+木塔力甫·艾力		2		新疆维吾尔自治区		https://jtyst.xinjiang.gov.cn/xjjtysj/c113777/leader_index.shtml	厅党委副书记、厅长		新疆维吾尔自治区交通运输厅	https://jtyst.xinjiang.gov.cn/xjjtysj/c113774/202601/c3de6724f3eb4e8cab6ed256b8b01130.shtml	1267
+李斌		3		新疆维吾尔自治区		https://jtyst.xinjiang.gov.cn/xjjtysj/c113777/leader_index.shtml	厅党委委员、副厅长，兵团交通运输局党组书记		新疆维吾尔自治区交通运输厅	https://jtyst.xinjiang.gov.cn/xjjtysj/c113774/202412/90c32a55afc24f58a9e3df71dd0d442e.shtml	1267
+鲁新虎		4		新疆维吾尔自治区		https://jtyst.xinjiang.gov.cn/xjjtysj/c113777/leader_index.shtml	厅党委委员、副厅长		新疆维吾尔自治区交通运输厅	https://jtyst.xinjiang.gov.cn/xjjtysj/c113774/202511/b25c68ba5f5944b987790b234748a080.shtml	1267
+邓淼		5		新疆维吾尔自治区		https://jtyst.xinjiang.gov.cn/xjjtysj/c113777/leader_index.shtml	厅党委委员、副厅长，新疆邮政管理局党组书记、局长		新疆维吾尔自治区交通运输厅	https://jtyst.xinjiang.gov.cn/xjjtysj/c113774/202002/447ade3926074367ae146b45da10b882.shtml	1267
+孙进		6		新疆维吾尔自治区		https://jtyst.xinjiang.gov.cn/xjjtysj/c113777/leader_index.shtml	厅党委委员、副厅长		新疆维吾尔自治区交通运输厅	https://jtyst.xinjiang.gov.cn/xjjtysj/c113774/202002/07e0110b22d14817afdab797f6e99e78.shtml	1267
+赵良波		7		新疆维吾尔自治区		https://jtyst.xinjiang.gov.cn/xjjtysj/c113777/leader_index.shtml	厅党委委员，公路事业发展中心党委书记、副主任		新疆维吾尔自治区交通运输厅	https://jtyst.xinjiang.gov.cn/xjjtysj/c113774/202506/e036d51df29b42ee99e78c5c6481a7cf.shtml	1267
+宋学典		8		新疆维吾尔自治区		https://jtyst.xinjiang.gov.cn/xjjtysj/c113777/leader_index.shtml	驻厅纪检监察组组长、二级高级监察官，厅党委委员		新疆维吾尔自治区交通运输厅	https://jtyst.xinjiang.gov.cn/xjjtysj/c113774/202309/b589b25c6e9b4edabe95b897b2a0401c.shtml	1267
+王兴华		9		新疆维吾尔自治区		https://jtyst.xinjiang.gov.cn/xjjtysj/c113777/leader_index.shtml	厅党委委员、副厅长		新疆维吾尔自治区交通运输厅	https://jtyst.xinjiang.gov.cn/xjjtysj/c113774/202506/581cf145d43d49c498affd712fc931ed.shtml	1267
+桂志敬		10		新疆维吾尔自治区		https://jtyst.xinjiang.gov.cn/xjjtysj/c113777/leader_index.shtml	厅党委委员（援疆）		新疆维吾尔自治区交通运输厅	https://jtyst.xinjiang.gov.cn/xjjtysj/c113774/202608/67bdcd56e0f94b6788aa9b21e6097a33.shtml	1267
+郑明权		11		新疆维吾尔自治区		https://jtyst.xinjiang.gov.cn/xjjtysj/c113777/leader_index.shtml	一级巡视员，交通运输综合行政执法局党委书记、副局长		新疆维吾尔自治区交通运输厅	https://jtyst.xinjiang.gov.cn/xjjtysj/c113775/202608/2ea6e448933e4799abb959d7b468180c.shtml	1267
+潘林伍		12		新疆维吾尔自治区		https://jtyst.xinjiang.gov.cn/xjjtysj/c113777/leader_index.shtml	总规划师、一级调研员		新疆维吾尔自治区交通运输厅	https://jtyst.xinjiang.gov.cn/xjjtysj/c113775/202004/fa5206e28e5c476eb9581dcb172fffc1.shtml	1267
+徐卫宾		13		新疆维吾尔自治区		https://jtyst.xinjiang.gov.cn/xjjtysj/c113777/leader_index.shtml	总工程师、一级调研员		新疆维吾尔自治区交通运输厅	https://jtyst.xinjiang.gov.cn/xjjtysj/c113775/202003/3d3e097a200549d6911ac7c273cbf2c9.shtml	1267
+鲁涛		14		新疆维吾尔自治区		https://jtyst.xinjiang.gov.cn/xjjtysj/c113777/leader_index.shtml	安全总监、一级调研员		新疆维吾尔自治区交通运输厅	https://jtyst.xinjiang.gov.cn/xjjtysj/c113775/202508/fc60c7e2f63a462da2d00c3751a6d980.shtml	1267
+邢凡胜		15		新疆维吾尔自治区		https://jtyst.xinjiang.gov.cn/xjjtysj/c113777/leader_index.shtml	总工程师（援疆）		新疆维吾尔自治区交通运输厅	https://jtyst.xinjiang.gov.cn/xjjtysj/c113775/202608/26402b356aba4f82ba6740fc857f69b7.shtml	1267
+林大海		16		新疆维吾尔自治区		https://jtyst.xinjiang.gov.cn/xjjtysj/c113777/leader_index.shtml	总规划师（援疆）		新疆维吾尔自治区交通运输厅	https://jtyst.xinjiang.gov.cn/xjjtysj/c113775/202608/69e8cefe59754d47bbdcedda53e37a25.shtml	1267
+王旭武		17		新疆维吾尔自治区		https://jtyst.xinjiang.gov.cn/xjjtysj/c113777/leader_index.shtml	二级巡视员		新疆维吾尔自治区交通运输厅	https://jtyst.xinjiang.gov.cn/xjjtysj/c113775/202407/2e353671618a4f138fd01295145e7e1d.shtml	1267

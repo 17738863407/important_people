@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于晓丹		1		辽宁省	大连市	https://www.dl.gov.cn/col/col9135/index.html?vc_xxgkarea=2103000019&number=DL014&jh=263	党组书记、主任		大连市检验检测认证技术服务中心	https://www.dl.gov.cn/art/2025/5/6/art_9136_2438117.html	0454
+张毅		2		辽宁省	大连市	https://www.dl.gov.cn/col/col9135/index.html?vc_xxgkarea=2103000019&number=DL014&jh=263	党组成员、副主任		大连市检验检测认证技术服务中心	https://www.dl.gov.cn/art/2025/10/22/art_9136_2468831.html	0454
+刘宁		3		辽宁省	大连市	https://www.dl.gov.cn/col/col9135/index.html?vc_xxgkarea=2103000019&number=DL014&jh=263	党组成员、副主任		大连市检验检测认证技术服务中心	https://www.dl.gov.cn/art/2025/5/6/art_9136_2438112.html	0454
+洪麟		4		辽宁省	大连市	https://www.dl.gov.cn/col/col9135/index.html?vc_xxgkarea=2103000019&number=DL014&jh=263	党组成员、副主任		大连市检验检测认证技术服务中心	https://www.dl.gov.cn/art/2025/10/22/art_9136_2468832.html	0454
+董广彬		5		辽宁省	大连市	https://www.dl.gov.cn/col/col9135/index.html?vc_xxgkarea=2103000019&number=DL014&jh=263	党组成员、副主任		大连市检验检测认证技术服务中心	https://www.dl.gov.cn/art/2025/5/6/art_9136_2438109.html	0454
+蓝麒		6		辽宁省	大连市	https://www.dl.gov.cn/col/col9135/index.html?vc_xxgkarea=2103000019&number=DL014&jh=263	党组成员、副主任		大连市检验检测认证技术服务中心	https://www.dl.gov.cn/art/2025/5/6/art_9136_2438104.html	0454

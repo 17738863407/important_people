@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+沈彬华		1		北京市		https://zwfwj.beijing.gov.cn/zwgk/qzxx/ldjs/	北京市人民政府副秘书长，北京市政务服务和数据管理局党组书记、局长		北京市政务服务和数据管理局		3433
+孙舫		2		北京市		https://zwfwj.beijing.gov.cn/zwgk/qzxx/ldjs/	北京市政务服务和数据管理局党组成员、副局长		北京市政务服务和数据管理局		3433
+彭雪海		3		北京市		https://zwfwj.beijing.gov.cn/zwgk/qzxx/ldjs/	北京市政务服务和数据管理局党组成员、副局长		北京市政务服务和数据管理局		3433
+朱琴		4		北京市		https://zwfwj.beijing.gov.cn/zwgk/qzxx/ldjs/	北京市政务服务和数据管理局党组成员、副局长		北京市政务服务和数据管理局		3433
+宋冬娜		5		北京市		https://zwfwj.beijing.gov.cn/zwgk/qzxx/ldjs/	北京市政务服务和数据管理局党组成员、副局长		北京市政务服务和数据管理局		3433
+张琳		6		北京市		https://zwfwj.beijing.gov.cn/zwgk/qzxx/ldjs/	北京市政务服务和数据管理局党组成员、北京市大数据中心（副局级）党委书记、主任		北京市政务服务和数据管理局		3433
+姚磊		7		北京市		https://zwfwj.beijing.gov.cn/zwgk/qzxx/ldjs/	北京市政务服务和数据管理局党组成员、北京市市民热线服务中心（副局级）党委书记、主任		北京市政务服务和数据管理局		3433
+莽琦		8		北京市		https://zwfwj.beijing.gov.cn/zwgk/qzxx/ldjs/	北京市政务服务和数据管理局副局长		北京市政务服务和数据管理局		3433

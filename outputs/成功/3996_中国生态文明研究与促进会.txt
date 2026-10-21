@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张波		1		全国		https://www.cecrpa.org.cn/gywm/hld/	中国生态文明研究与促进会会长		中国生态文明研究与促进会		3996
+文毅		2		全国		https://www.cecrpa.org.cn/gywm/hld/	副会长		中国生态文明研究与促进会		3996
+成苏宁		3		全国		https://www.cecrpa.org.cn/gywm/hld/	副会长		中国生态文明研究与促进会		3996
+曲久辉		4		全国		https://www.cecrpa.org.cn/gywm/hld/	副会长		中国生态文明研究与促进会		3996
+刘青松		5		全国		https://www.cecrpa.org.cn/gywm/hld/	副会长		中国生态文明研究与促进会		3996
+张震宇		6		全国		https://www.cecrpa.org.cn/gywm/hld/	副会长		中国生态文明研究与促进会		3996
+俞汉青		7		全国		https://www.cecrpa.org.cn/gywm/hld/	副会长		中国生态文明研究与促进会		3996
+栾祖盛		8		全国		https://www.cecrpa.org.cn/gywm/hld/	副会长		中国生态文明研究与促进会		3996
+黄翔峰		9		全国		https://www.cecrpa.org.cn/gywm/hld/	副会长		中国生态文明研究与促进会		3996

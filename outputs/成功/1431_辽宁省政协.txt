@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周波		1		全国		https://www.lnzx.gov.cn/lnzx/zxgk/index.shtml	主席		辽宁省政协		1431
+王健		2		全国		https://www.lnzx.gov.cn/lnzx/zxgk/index.shtml	副主席		辽宁省政协		1431
+姜军		3		全国		https://www.lnzx.gov.cn/lnzx/zxgk/index.shtml	副主席		辽宁省政协		1431
+余功斌		4		全国		https://www.lnzx.gov.cn/lnzx/zxgk/index.shtml	副主席		辽宁省政协		1431
+温雪琼		5		全国		https://www.lnzx.gov.cn/lnzx/zxgk/index.shtml	副主席		辽宁省政协		1431
+刘中民		6		全国		https://www.lnzx.gov.cn/lnzx/zxgk/index.shtml	副主席		辽宁省政协		1431
+邵林		7		全国		https://www.lnzx.gov.cn/lnzx/zxgk/index.shtml	副主席		辽宁省政协		1431
+宋诚		8		全国		https://www.lnzx.gov.cn/lnzx/zxgk/index.shtml	副主席		辽宁省政协		1431
+郑滨		9		全国		https://www.lnzx.gov.cn/lnzx/zxgk/index.shtml	副主席		辽宁省政协		1431
+冯万斌		10		全国		https://www.lnzx.gov.cn/lnzx/zxgk/index.shtml	秘书长		辽宁省政协		1431

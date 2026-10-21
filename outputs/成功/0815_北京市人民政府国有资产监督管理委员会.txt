@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴礼顺		1		北京市		https://gzw.beijing.gov.cn/xxfb/zqxx/wld/	党委书记、主任		北京市人民政府国有资产监督管理委员会		0815
+仲伟功		2		北京市		https://gzw.beijing.gov.cn/xxfb/zqxx/wld/	党委副书记、副主任		北京市人民政府国有资产监督管理委员会		0815
+朱保成		3		北京市		https://gzw.beijing.gov.cn/xxfb/zqxx/wld/	党委委员、副主任		北京市人民政府国有资产监督管理委员会		0815
+程海军		4		北京市		https://gzw.beijing.gov.cn/xxfb/zqxx/wld/	党委委员、驻委纪检监察组组长，一级巡视员		北京市人民政府国有资产监督管理委员会		0815
+贺昂		5		北京市		https://gzw.beijing.gov.cn/xxfb/zqxx/wld/	党委委员、副主任		北京市人民政府国有资产监督管理委员会		0815
+李红泉		6		北京市		https://gzw.beijing.gov.cn/xxfb/zqxx/wld/	党委委员、副主任		北京市人民政府国有资产监督管理委员会		0815
+石小璞		7		北京市		https://gzw.beijing.gov.cn/xxfb/zqxx/wld/	党委委员、副主任		北京市人民政府国有资产监督管理委员会		0815

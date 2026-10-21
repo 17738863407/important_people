@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡光喜		1		安徽省	合肥市	https://tyj.hefei.gov.cn/public/column/20201?type=4&catId=7036024&action=list&nav=3	党组书记		合肥市体育局	https://tyj.hefei.gov.cn/public/20201/111551302.html	2772
+余勇		2		安徽省	合肥市	https://tyj.hefei.gov.cn/public/column/20201?type=4&catId=7036024&action=list&nav=3	局长		合肥市体育局	https://tyj.hefei.gov.cn/public/20201/109616219.html	2772
+陆志勇		3		安徽省	合肥市	https://tyj.hefei.gov.cn/public/column/20201?type=4&catId=7036024&action=list&nav=3	党组成员、副局长		合肥市体育局	https://tyj.hefei.gov.cn/public/20201/109616214.html	2772
+孙根友		4		安徽省	合肥市	https://tyj.hefei.gov.cn/public/column/20201?type=4&catId=7036024&action=list&nav=3	党组成员、副局长		合肥市体育局	https://tyj.hefei.gov.cn/public/20201/109616196.html	2772
+吴昌均		5		安徽省	合肥市	https://tyj.hefei.gov.cn/public/column/20201?type=4&catId=7036024&action=list&nav=3	党组成员、副局长		合肥市体育局	https://tyj.hefei.gov.cn/public/20201/109616183.html	2772

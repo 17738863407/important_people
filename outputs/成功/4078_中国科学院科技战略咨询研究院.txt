@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+潘教峰		1		全国		https://casisd.cas.cn/jggk/xrld/	院长		中国科学院科技战略咨询研究院		4078
+陈文开		2		全国		https://casisd.cas.cn/jggk/xrld/	党委书记、副院长		中国科学院科技战略咨询研究院		4078
+杨辉		3		全国		https://casisd.cas.cn/jggk/xrld/	副院长		中国科学院科技战略咨询研究院		4078
+甘泉		4		全国		https://casisd.cas.cn/jggk/xrld/	副院长、纪委书记		中国科学院科技战略咨询研究院		4078
+鲁晓		5		全国		https://casisd.cas.cn/jggk/xrld/	副院长		中国科学院科技战略咨询研究院		4078

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+姜建春		1		陕西省		https://kjt.shaanxi.gov.cn/jgsz/wtld/	省委科技工委书记、省科技厅厅长		陕西省科学技术厅	https://kjt.shaanxi.gov.cn/jgsz/wtld/jjc/	1389
+刘子实		2		陕西省		https://kjt.shaanxi.gov.cn/jgsz/wtld/	省委科技工委副书记（正厅级）		陕西省科学技术厅	https://kjt.shaanxi.gov.cn/jgsz/wtld/lzs/	1389
+刘新宏		3		陕西省		https://kjt.shaanxi.gov.cn/jgsz/wtld/	省委科技工委委员、省纪委监委驻省科技厅纪检监察组组长		陕西省科学技术厅	https://kjt.shaanxi.gov.cn/jgsz/wtld/lxh/	1389
+冀峰		4		陕西省		https://kjt.shaanxi.gov.cn/jgsz/wtld/	省委科技工委委员、省科技厅副厅长		陕西省科学技术厅	https://kjt.shaanxi.gov.cn/jgsz/wtld/jf/	1389
+马云		5		陕西省		https://kjt.shaanxi.gov.cn/jgsz/wtld/	省委科技工委委员、省科技厅副厅长		陕西省科学技术厅	https://kjt.shaanxi.gov.cn/jgsz/wtld/my/	1389
+侯小林		6		陕西省		https://kjt.shaanxi.gov.cn/jgsz/wtld/	省委科技工委委员，省科技资源统筹中心主任		陕西省科学技术厅	https://kjt.shaanxi.gov.cn/jgsz/wtld/hxl/	1389
+兰壮丽		7		陕西省		https://kjt.shaanxi.gov.cn/jgsz/wtld/	省科技厅一级巡视员		陕西省科学技术厅	https://kjt.shaanxi.gov.cn/jgsz/wtld/lzl/	1389
+杨世宏		8		陕西省		https://kjt.shaanxi.gov.cn/jgsz/wtld/	省科技厅二级巡视员		陕西省科学技术厅	https://kjt.shaanxi.gov.cn/jgsz/wtld/ysh/	1389

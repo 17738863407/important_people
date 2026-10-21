@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李雄斌		1		陕西省		https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/	陕西省应急管理厅党委书记、厅长、省消防救援总队第一政治委员		陕西省应急管理厅	https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/202409/t20240925_2716928.html	3244
+孟中华		2		陕西省		https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/	陕西省应急管理厅党委副书记		陕西省应急管理厅	https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/202409/t20240925_2716927.html	3244
+冯永刚		3		陕西省		https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/	陕西省应急管理厅党委委员；陕西省消防救援总队总队长		陕西省应急管理厅	https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/202501/t20250116_3351521.html	3244
+李虎平		4		陕西省		https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/	陕西省应急管理厅党委委员、副厅长		陕西省应急管理厅	https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/202409/t20240925_2715876.html	3244
+赵化龙		5		陕西省		https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/	陕西省应急管理厅党委委员、副厅长		陕西省应急管理厅	https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/202506/t20250616_3532398.html	3244
+李忠宏		6		陕西省		https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/	陕西省应急管理厅党委委员、副厅长		陕西省应急管理厅	https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/202508/t20250806_3551895.html	3244
+张涛		7		陕西省		https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/	陕西省应急管理厅党委委员、副厅长		陕西省应急管理厅	https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/202604/t20260427_3633573.html	3244
+贾书贵		8		陕西省		https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/	陕西省应急管理厅二级巡视员		陕西省应急管理厅	https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/202409/t20240925_2715837.html	3244
+何备战		9		陕西省		https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/	陕西省应急管理厅二级巡视员		陕西省应急管理厅	https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/202409/t20240925_2715821.html	3244
+张伟		10		陕西省		https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/	陕西省应急管理厅二级巡视员		陕西省应急管理厅	https://yjt.shaanxi.gov.cn/gk/jgg/ldxx/202409/t20240925_2715849.html	3244

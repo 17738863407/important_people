@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈飞		1		山东省		http://www.shandong.gov.cn/col/col314057/index.html	党组书记、厅长		山东省工业和信息化厅		2359
+安文建		2		山东省		http://www.shandong.gov.cn/col/col314057/index.html	党组副书记、副厅长、一级巡视员		山东省工业和信息化厅		2359
+王晓		3		山东省		http://www.shandong.gov.cn/col/col314057/index.html	党组成员、副厅长		山东省工业和信息化厅		2359
+焉杰		4		山东省		http://www.shandong.gov.cn/col/col314057/index.html	党组成员、副厅长，山东省国防科学技术工业办公室主任（援疆）		山东省工业和信息化厅		2359
+王茂庆		5		山东省		http://www.shandong.gov.cn/col/col314057/index.html	党组成员、副厅长		山东省工业和信息化厅		2359
+张庆		6		山东省		http://www.shandong.gov.cn/col/col314057/index.html	党组成员、副厅长		山东省工业和信息化厅		2359

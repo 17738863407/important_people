@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赖勇		1		云南省		https://ymg.yntv.cn/ymg/companyIntroduce.html	云南广播电视台党委书记、台长		云南广播电视台		3267
+孔维华		2		云南省		https://ymg.yntv.cn/ymg/companyIntroduce.html	云南广播电视台总编辑、党委副书记		云南广播电视台		3267
+孙建松		3		云南省		https://ymg.yntv.cn/ymg/companyIntroduce.html	云南广播电视台党委副书记		云南广播电视台		3267
+李晓风		4		云南省		https://ymg.yntv.cn/ymg/companyIntroduce.html	云南广播电视台副台长、党委委员		云南广播电视台		3267
+李玮玮		5		云南省		https://ymg.yntv.cn/ymg/companyIntroduce.html	云南广播电视台纪委书记、党委委员		云南广播电视台		3267
+杨开荣		6		云南省		https://ymg.yntv.cn/ymg/companyIntroduce.html	云南广播电视台副台长、党委委员		云南广播电视台		3267
+李新		7		云南省		https://ymg.yntv.cn/ymg/companyIntroduce.html	云南广播电视台党委委员 云南广电传媒集团党委副书记、总经理		云南广播电视台		3267
+王珂		8		云南省		https://ymg.yntv.cn/ymg/companyIntroduce.html	云南广播电视台副台长、党委委员 融媒体中心主任		云南广播电视台		3267
+张莹		9		云南省		https://ymg.yntv.cn/ymg/companyIntroduce.html	云南广播电视台副台长、党委委员		云南广播电视台		3267
+雷激		10		云南省		https://ymg.yntv.cn/ymg/companyIntroduce.html	云南广播电视台副总编辑		云南广播电视台		3267
+黄洁龙		11		云南省		https://ymg.yntv.cn/ymg/companyIntroduce.html	云南广播电视台副总编辑		云南广播电视台		3267
+朵翔		12		云南省		https://ymg.yntv.cn/ymg/companyIntroduce.html	云南广播电视台副总编辑 卫视频道总监		云南广播电视台		3267
+陆德明		13		云南省		https://ymg.yntv.cn/ymg/companyIntroduce.html	云南广播电视台副总编辑		云南广播电视台		3267
+何从启		14		云南省		https://ymg.yntv.cn/ymg/companyIntroduce.html	云南广播电视台总会计师		云南广播电视台		3267

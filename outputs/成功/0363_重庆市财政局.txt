@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘小强		1		重庆市		http://czj.cq.gov.cn/zwgk_268/fdzdgknr/jgjj/	重庆市财政局党组书记、局长		重庆市财政局	http://czj.cq.gov.cn/zwgk_268/ldfg/liuxiaoqiang/	0363
+唐峰		2		重庆市		http://czj.cq.gov.cn/zwgk_268/fdzdgknr/jgjj/	重庆市财政局党组成员、一级巡视员		重庆市财政局	http://czj.cq.gov.cn/zwgk_268/ldfg/tangfeng/	0363
+何小军		3		重庆市		http://czj.cq.gov.cn/zwgk_268/fdzdgknr/jgjj/	重庆市财政局党组成员、副局长		重庆市财政局	http://czj.cq.gov.cn/zwgk_268/ldfg/hxj/	0363
+唐嘉		4		重庆市		http://czj.cq.gov.cn/zwgk_268/fdzdgknr/jgjj/	重庆市财政局党组成员、副局长		重庆市财政局	http://czj.cq.gov.cn/zwgk_268/ldfg/tj/	0363
+曹炯		5		重庆市		http://czj.cq.gov.cn/zwgk_268/fdzdgknr/jgjj/	重庆市财政局党组成员、市纪委监委驻市财政局纪检监察组组长		重庆市财政局	http://czj.cq.gov.cn/zwgk_268/ldfg/cj/	0363
+刘勇		6		重庆市		http://czj.cq.gov.cn/zwgk_268/fdzdgknr/jgjj/	重庆市财政局党组成员、副局长		重庆市财政局	http://czj.cq.gov.cn/zwgk_268/ldfg/liuyong/	0363
+彭涌		7		重庆市		http://czj.cq.gov.cn/zwgk_268/fdzdgknr/jgjj/	重庆市财政局一级巡视员		重庆市财政局	http://czj.cq.gov.cn/zwgk_268/ldfg/pengyong/	0363

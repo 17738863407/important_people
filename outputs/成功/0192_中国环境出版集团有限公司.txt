@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王付瑜		1		全国		https://www.cesp.com.cn/jtgk/gsldnew/	党委书记、董事长		中国环境出版集团有限公司	https://www.cesp.com.cn/jtgk/gsldnew/201801/t20180116_593112.html	0192
+何家振		2		全国		https://www.cesp.com.cn/jtgk/gsldnew/	党委委员、总编辑		中国环境出版集团有限公司	https://www.cesp.com.cn/jtgk/gsldnew/202301/t20230104_1009476.html	0192
+于绪文		3		全国		https://www.cesp.com.cn/jtgk/gsldnew/	党委委员、副董事长		中国环境出版集团有限公司	https://www.cesp.com.cn/jtgk/gsldnew/202509/t20250930_1128637.html	0192
+黄问航		4		全国		https://www.cesp.com.cn/jtgk/gsldnew/	党委委员、副董事长、工会主席		中国环境出版集团有限公司	https://www.cesp.com.cn/jtgk/gsldnew/201901/t20190114_689434.html	0192
+贾金虎		5		全国		https://www.cesp.com.cn/jtgk/gsldnew/	党委委员、副董事长		中国环境出版集团有限公司	https://www.cesp.com.cn/jtgk/gsldnew/201904/t20190401_698211.html	0192
+李铮		6		全国		https://www.cesp.com.cn/jtgk/gsldnew/	党委委员、纪委书记		中国环境出版集团有限公司	https://www.cesp.com.cn/jtgk/gsldnew/202509/t20250930_1128639.html	0192
+张泽武		7		全国		https://www.cesp.com.cn/jtgk/gsldnew/	副总经理，兼湖北华夏水利水电股份有限公司党委书记、董事长		中国环境出版集团有限公司	https://www.cesp.com.cn/jtgk/gsldnew/201706/t20170605_593106.html	0192
+陶克菲		8		全国		https://www.cesp.com.cn/jtgk/gsldnew/	党委委员、副总经理		中国环境出版集团有限公司	https://www.cesp.com.cn/jtgk/gsldnew/201706/t20170605_593105.html	0192
+季苏园		9		全国		https://www.cesp.com.cn/jtgk/gsldnew/	纪委委员、副总经理兼副总编辑，兼首席编辑兼重大项目办主任、兼任《生态环境部公报》总编辑		中国环境出版集团有限公司	https://www.cesp.com.cn/jtgk/gsldnew/202011/t20201116_807989.html	0192
+杨红		10		全国		https://www.cesp.com.cn/jtgk/gsldnew/	副总经理兼副总编辑，兼哈尔滨出版社股份有限公司党组书记、董事长		中国环境出版集团有限公司	https://www.cesp.com.cn/jtgk/gsldnew/202011/t20201116_808009.html	0192
+郭媛媛		11		全国		https://www.cesp.com.cn/jtgk/gsldnew/	纪委委员、总经理总编辑助理兼任《环境保护》杂志社有限公司社长、总编辑		中国环境出版集团有限公司	https://www.cesp.com.cn/jtgk/gsldnew/201706/t20170605_593101.html	0192
+赵惠芬		12		全国		https://www.cesp.com.cn/jtgk/gsldnew/	总经理总编辑助理兼营销发行部主任		中国环境出版集团有限公司	https://www.cesp.com.cn/jtgk/gsldnew/202011/t20201116_808011.html	0192
+李心亮		13		全国		https://www.cesp.com.cn/jtgk/gsldnew/	总经理总编辑助理，兼哈尔滨出版社股份有限公司董事		中国环境出版集团有限公司	https://www.cesp.com.cn/jtgk/gsldnew/202312/t20231225_1059833.html	0192

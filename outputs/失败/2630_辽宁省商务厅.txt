@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+潘爽		1		辽宁省		https://swt.ln.gov.cn/swt/zfxxgk/fdzdgknr/jgjj/index.shtml	厅党组书记、厅长		辽宁省商务厅	https://swt.ln.gov.cn/swt/zwgk/fdzdgknr/jgjj/bmld/p_s/2026070116374436164/index.shtml	2630
+李军		2		辽宁省		https://swt.ln.gov.cn/swt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省商务厅	https://swt.ln.gov.cn/swt/zwgk/fdzdgknr/jgjj/bmld/l_j/2026070116374436293/index.shtml	2630
+张卫东		3		辽宁省		https://swt.ln.gov.cn/swt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省商务厅	https://swt.ln.gov.cn/swt/zwgk/fdzdgknr/jgjj/bmld/zwd/2026070116374425318/index.shtml	2630
+路云飞		4		辽宁省		https://swt.ln.gov.cn/swt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省商务厅	https://swt.ln.gov.cn/swt/zwgk/fdzdgknr/jgjj/bmld/lyf/2026070116374463541/index.shtml	2630
+张剑		5		辽宁省		https://swt.ln.gov.cn/swt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省商务厅	https://swt.ln.gov.cn/swt/zwgk/fdzdgknr/jgjj/bmld/z__j/2026070116374448827/index.shtml	2630
+郭斌		6		辽宁省		https://swt.ln.gov.cn/swt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省商务厅	https://swt.ln.gov.cn/swt/zwgk/fdzdgknr/jgjj/bmld/g_b/2026070116374449477/index.shtml	2630
+王昱萍		7		辽宁省		https://swt.ln.gov.cn/swt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省商务厅	https://swt.ln.gov.cn/swt/zwgk/fdzdgknr/jgjj/bmld/wyp/2026070116374417404/index.shtml	2630
+吴英波		8		辽宁省		https://swt.ln.gov.cn/swt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、省纪委监委驻省商务厅纪检监察组组长		辽宁省商务厅	https://swt.ln.gov.cn/swt/zwgk/fdzdgknr/jgjj/bmld/wyb/2026070116374418967/index.shtml	2630
+徐凯		9		辽宁省		https://swt.ln.gov.cn/swt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省商务厅	https://swt.ln.gov.cn/swt/zwgk/fdzdgknr/jgjj/bmld/lh/2026070116374482486/index.shtml	2630
+刘殿辉		10		辽宁省		https://swt.ln.gov.cn/swt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省商务厅	https://swt.ln.gov.cn/swt/zwgk/fdzdgknr/jgjj/bmld/ldh/2026070116374443515/index.shtml	2630
+付游		11		辽宁省		https://swt.ln.gov.cn/swt/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副厅长		辽宁省商务厅	https://swt.ln.gov.cn/swt/zwgk/fdzdgknr/jgjj/bmld/fy/2026082809411163105/index.shtml	2630

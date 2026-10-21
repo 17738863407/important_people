@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李龙		1		新疆维吾尔自治区		http://jrjgj.xinjiang.gov.cn/jrb/nldjj/newzfxxgk.shtml	自治区党委金融委员会办公室 副主任（负责日常工作）；自治区党委金融工作委员会 副书记（负责日常工作）；自治区地方金融管理局 局长（厅长级）		新疆维吾尔自治区地方金融管理局	http://jrjgj.xinjiang.gov.cn/jrb/nldjj/202412/2921e55b206344e1b4ef2d10822ff356.shtml	1198
+孔智勇		2		新疆维吾尔自治区		http://jrjgj.xinjiang.gov.cn/jrb/nldjj/newzfxxgk.shtml	自治区党委金融工委 专职副书记		新疆维吾尔自治区地方金融管理局	http://jrjgj.xinjiang.gov.cn/jrb/nldjj/202412/a546e42d59ed49e28abb6f90acf43df0.shtml	1198
+刘西		3		新疆维吾尔自治区		http://jrjgj.xinjiang.gov.cn/jrb/nldjj/newzfxxgk.shtml	自治区党委金融委员会办公室 副主任（援疆）；自治区地方金融管理局 副局长		新疆维吾尔自治区地方金融管理局	http://jrjgj.xinjiang.gov.cn/jrb/nldjj/202608/a5a557a9ef3847b5b416c189d8fbde36.shtml	1198
+储幼阳		4		新疆维吾尔自治区		http://jrjgj.xinjiang.gov.cn/jrb/nldjj/newzfxxgk.shtml	自治区党委金融委员会办公室 副主任；自治区地方金融管理局 副局长		新疆维吾尔自治区地方金融管理局	http://jrjgj.xinjiang.gov.cn/jrb/nldjj/202508/bdf4029467c844c98cf3c0e4f5384eb3.shtml	1198
+付永强		5		新疆维吾尔自治区		http://jrjgj.xinjiang.gov.cn/jrb/nldjj/newzfxxgk.shtml	自治区党委金融委员会办公室 副主任；自治区地方金融管理局 副局长		新疆维吾尔自治区地方金融管理局	http://jrjgj.xinjiang.gov.cn/jrb/nldjj/202412/080589217dc24a0e8bd9ea918782bdd5.shtml	1198

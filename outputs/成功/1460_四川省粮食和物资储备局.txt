@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王程		1		四川省		https://lwj.sc.gov.cn/sclwj/jgjj/zwxx2022.shtml#	党组书记、局长		四川省粮食和物资储备局	https://lwj.sc.gov.cn/sclwj/leaderinfo/2025/2/13/1c0f28c8d2e644c5b5eb8889f915aa23.shtml	1460
+周光林		2		四川省		https://lwj.sc.gov.cn/sclwj/jgjj/zwxx2022.shtml#	党组成员、副局长，二级巡视员		四川省粮食和物资储备局	https://lwj.sc.gov.cn/sclwj/leaderinfo/2025/2/13/8982a408295d4c849b13e03882d8dcd7.shtml	1460
+柳易		3		四川省		https://lwj.sc.gov.cn/sclwj/jgjj/zwxx2022.shtml#	党组成员、副局长		四川省粮食和物资储备局	https://lwj.sc.gov.cn/sclwj/leaderinfo/2025/9/2/c91be91576de439b8c2026c6bb38d171.shtml	1460

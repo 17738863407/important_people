@@ -1,0 +1,17 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨昊		1		辽宁省		https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省交通运输厅党组书记、厅长		辽宁省交通运输厅	https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/bmld/yh/index.shtml	1245
+曲向进		2		辽宁省		https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省交通运输厅党组成员、副厅长、一级巡视员		辽宁省交通运输厅	https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/bmld/qxj/index.shtml	1245
+聂鹏		3		辽宁省		https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省交通运输厅党组成员、副厅长		辽宁省交通运输厅	https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/bmld/np/index.shtml	1245
+李继锐		4		辽宁省		https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省交通运输厅党组成员、副厅长		辽宁省交通运输厅	https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/bmld/ljr/index.shtml	1245
+柳晓东		5		辽宁省		https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省交通运输厅党组成员、副厅长		辽宁省交通运输厅	https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/bmld/lxd/index.shtml	1245
+王跃刚		6		辽宁省		https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省交通运输厅党组成员、副厅长，辽宁省邮政管理局党组书记、局长		辽宁省交通运输厅	https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/bmld/wyg/index.shtml	1245
+邵沛劼		7		辽宁省		https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省交通运输厅党组成员、副厅长		辽宁省交通运输厅	https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/bmld/spj/index.shtml	1245
+王涛		8		辽宁省		https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省交通运输厅党组成员、副厅长（挂职，时间2年）		辽宁省交通运输厅	https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/bmld/wt/index.shtml	1245
+王大野		9		辽宁省		https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省纪委监委驻省交通运输厅纪检监察组组长、省交通运输厅党组成员、二级高级监察官		辽宁省交通运输厅	https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/bmld/wdy/index.shtml	1245
+王瑞		10		辽宁省		https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省交通运输厅党组成员、副厅长		辽宁省交通运输厅	https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/bmld/wr/index.shtml	1245
+刘振江		11		辽宁省		https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省纪委监委派驻纪检监察组二级巡视员		辽宁省交通运输厅	https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/bmld/lzj/index.shtml	1245
+周政		12		辽宁省		https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省交通运输厅二级巡视员		辽宁省交通运输厅	https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/bmld/zz/index.shtml	1245
+苑立敏		13		辽宁省		https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省交通运输厅二级巡视员		辽宁省交通运输厅	https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/bmld/ylm/index.shtml	1245
+侯烈		14		辽宁省		https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省交通运输厅二级巡视员		辽宁省交通运输厅	https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/bmld/hl/index.shtml	1245
+朱喜喜		15		辽宁省		https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省交通运输厅总工程师		辽宁省交通运输厅	https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/bmld/zxx/index.shtml	1245
+于学军		16		辽宁省		https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省交通运输厅安全总监		辽宁省交通运输厅	https://jtt.ln.gov.cn/jtt/zfxxgk/fdzdgknr/jgjj/bmld/yxj/index.shtml	1245

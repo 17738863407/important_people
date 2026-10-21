@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄学军		1		广西壮族自治区	崇左市	http://www.chongzuo.gov.cn/zfxxgkzl/xxgkzn_fdzdgknr/ldjj/	市长		崇左市人民政府	http://www.chongzuo.gov.cn/zfxxgkzl/xxgkzn_fdzdgknr/ldjj/ldjj_sz/	3809
+粟家艺		2		广西壮族自治区	崇左市	http://www.chongzuo.gov.cn/zfxxgkzl/xxgkzn_fdzdgknr/ldjj/	副市长		崇左市人民政府	http://www.chongzuo.gov.cn/zfxxgkzl/xxgkzn_fdzdgknr/ldjj/ldjj_fsz/t19268115.shtml	3809
+刘剑云		3		广西壮族自治区	崇左市	http://www.chongzuo.gov.cn/zfxxgkzl/xxgkzn_fdzdgknr/ldjj/	副市长		崇左市人民政府	http://www.chongzuo.gov.cn/zfxxgkzl/xxgkzn_fdzdgknr/ldjj/ldjj_fsz/t27272084.shtml	3809
+柳佳		4		广西壮族自治区	崇左市	http://www.chongzuo.gov.cn/zfxxgkzl/xxgkzn_fdzdgknr/ldjj/	副市长		崇左市人民政府	http://www.chongzuo.gov.cn/zfxxgkzl/xxgkzn_fdzdgknr/ldjj/ldjj_fsz/t27842644.shtml	3809
+王帅		5		广西壮族自治区	崇左市	http://www.chongzuo.gov.cn/zfxxgkzl/xxgkzn_fdzdgknr/ldjj/	秘书长		崇左市人民政府	http://www.chongzuo.gov.cn/zfxxgkzl/xxgkzn_fdzdgknr/ldjj/ldjj_msz/t19561610.shtml	3809

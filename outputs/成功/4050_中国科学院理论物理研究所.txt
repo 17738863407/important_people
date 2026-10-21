@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周善贵		1		全国		https://itp.cas.cn/jjjgk/xrld/	所长		中国科学院理论物理研究所	https://itp.cas.cn/sourcedb/zw/zjrck/xyld/202410/t20241009_7394852.html	4050
+樊志军		2		全国		https://itp.cas.cn/jjjgk/xrld/	党委书记、副所长		中国科学院理论物理研究所	https://itp.cas.cn/sourcedb/zw/zjrck/xyld/202402/t20240202_6985255.html	4050
+周宇峰		3		全国		https://itp.cas.cn/jjjgk/xrld/	副所长、纪委书记		中国科学院理论物理研究所	https://itp.cas.cn/sourcedb/zw/zjrck/xyld/200907/t20090729_2281978.html	4050
+庄辞		4		全国		https://itp.cas.cn/jjjgk/xrld/	所务委员		中国科学院理论物理研究所	https://itp.cas.cn/sourcedb/zw/zjrck/xyld/202503/t20250304_7545812.html	4050
+李理		5		全国		https://itp.cas.cn/jjjgk/xrld/	所务委员		中国科学院理论物理研究所	https://itp.cas.cn/sourcedb/zw/zjrck/xyld/201904/t20190418_5277212.html	4050
+李伟		6		全国		https://itp.cas.cn/jjjgk/xrld/	所务委员		中国科学院理论物理研究所	https://itp.cas.cn/sourcedb/zw/zjrck/xyld/202112/t20211207_6289490.html	4050

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周春艳		1		山东省		http://www.shandong.gov.cn/col/col314076/index.html	省人力资源社会保障厅党组成员、副厅长、一级巡视员，兼任机关党委书记		山东省人力资源和社会保障厅		2377
+李士功		2		山东省		http://www.shandong.gov.cn/col/col314076/index.html	省人力资源社会保障厅党组成员、副厅长，省总工会副主席（兼职）		山东省人力资源和社会保障厅		2377
+潘文勇		3		山东省		http://www.shandong.gov.cn/col/col314076/index.html	省人力资源社会保障厅党组成员、副厅长		山东省人力资源和社会保障厅		2377
+衣军强		4		山东省		http://www.shandong.gov.cn/col/col314076/index.html	省人力资源社会保障厅党组成员、副厅长		山东省人力资源和社会保障厅		2377
+鲍海红		5		山东省		http://www.shandong.gov.cn/col/col314076/index.html	省人力资源社会保障厅党组成员、省纪委监委驻省人力资源社会保障厅纪检监察组组长、二级高级监察官		山东省人力资源和社会保障厅		2377
+张景镇		6		山东省		http://www.shandong.gov.cn/col/col314076/index.html	省社会保险事业中心党委书记、主任		山东省人力资源和社会保障厅		2377
+杨卫华		7		山东省		http://www.shandong.gov.cn/col/col314076/index.html	省公共就业和人才服务中心党委书记、主任		山东省人力资源和社会保障厅		2377

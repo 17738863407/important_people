@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈望远		1		山西省		https://kjt.shanxi.gov.cn/xxgk/zfxxgkml/azt_11688/jgzn/ldxx/	党组书记、厅长		山西省科学技术厅	https://kjt.shanxi.gov.cn/xxgk/zfxxgkml/acs_11737/rsc/202109/t20210910_2346681.shtml	1390
+张其光		2		山西省		https://kjt.shanxi.gov.cn/xxgk/zfxxgkml/azt_11688/jgzn/ldxx/	厅党组成员 副厅长		山西省科学技术厅	https://kjt.shanxi.gov.cn/xxgk/zfxxgkml/acs_11737/rsc/202109/t20210910_2346761.shtml	1390
+武国强		3		山西省		https://kjt.shanxi.gov.cn/xxgk/zfxxgkml/azt_11688/jgzn/ldxx/	省纪委监委驻厅纪检监察组组长、厅党组成员		山西省科学技术厅	https://kjt.shanxi.gov.cn/xxgk/zfxxgkml/acs_11737/rsc/202109/t20210910_2346551.shtml	1390
+王晋斌		4		山西省		https://kjt.shanxi.gov.cn/xxgk/zfxxgkml/azt_11688/jgzn/ldxx/	厅党组成员 副厅长		山西省科学技术厅	https://kjt.shanxi.gov.cn/xxgk/zfxxgkml/acs_11737/rsc/202410/t20241029_9681760.shtml	1390
+赵瑞		5		山西省		https://kjt.shanxi.gov.cn/xxgk/zfxxgkml/azt_11688/jgzn/ldxx/	厅党组成员、副厅长		山西省科学技术厅	https://kjt.shanxi.gov.cn/xxgk/zfxxgkml/acs_11737/rsc/202508/t20250812_9934738.shtml	1390
+郭九林		6		山西省		https://kjt.shanxi.gov.cn/xxgk/zfxxgkml/azt_11688/jgzn/ldxx/	二级巡视员		山西省科学技术厅	https://kjt.shanxi.gov.cn/xxgk/zfxxgkml/acs_11737/rsc/202410/t20241029_9681808.shtml	1390

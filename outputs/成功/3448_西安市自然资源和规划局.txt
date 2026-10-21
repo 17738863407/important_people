@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邹林		1		陕西省	西安市	http://zygh.xa.gov.cn/zwgk/ldjsjfg/1.html	党委书记、局长		西安市自然资源和规划局		3448
+王学军		2		陕西省	西安市	http://zygh.xa.gov.cn/zwgk/ldjsjfg/1.html	党委委员、市纪委监委驻市资源规划局纪检监察组组长、二级巡视员、二级高级监察官		西安市自然资源和规划局		3448
+姜颖		3		陕西省	西安市	http://zygh.xa.gov.cn/zwgk/ldjsjfg/1.html	党委委员、副局长		西安市自然资源和规划局		3448
+李伟		4		陕西省	西安市	http://zygh.xa.gov.cn/zwgk/ldjsjfg/1.html	党委委员、副局长		西安市自然资源和规划局		3448
+刘岗		5		陕西省	西安市	http://zygh.xa.gov.cn/zwgk/ldjsjfg/1.html	副局长，民盟西安市委员会副主委（不驻会），汉长安城国家大遗址保护特区管委会副主任		西安市自然资源和规划局		3448

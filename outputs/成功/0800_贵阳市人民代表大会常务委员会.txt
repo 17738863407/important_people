@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何薇		1		贵州省	贵阳市	https://www.gysrd.gov.cn/zrzc/hw/	党组书记		贵阳市人民代表大会常务委员会		0800
+魏定梅		2		贵州省	贵阳市	https://www.gysrd.gov.cn/zrzc/hw/	副主任		贵阳市人民代表大会常务委员会	https://www.gysrd.gov.cn/zrzc/wdm/	0800
+卓飞		3		贵州省	贵阳市	https://www.gysrd.gov.cn/zrzc/hw/	副主任		贵阳市人民代表大会常务委员会	https://www.gysrd.gov.cn/zrzc/zf/	0800
+张建军		4		贵州省	贵阳市	https://www.gysrd.gov.cn/zrzc/hw/	副主任		贵阳市人民代表大会常务委员会	https://www.gysrd.gov.cn/zrzc/zjj/	0800
+田胜松		5		贵州省	贵阳市	https://www.gysrd.gov.cn/zrzc/hw/	副主任		贵阳市人民代表大会常务委员会	https://www.gysrd.gov.cn/zrzc/tss/	0800
+刘俐莎		6		贵州省	贵阳市	https://www.gysrd.gov.cn/zrzc/hw/	副主任		贵阳市人民代表大会常务委员会	https://www.gysrd.gov.cn/zrzc/lls/	0800
+胡向群		7		贵州省	贵阳市	https://www.gysrd.gov.cn/zrzc/hw/	秘书长		贵阳市人民代表大会常务委员会	https://www.gysrd.gov.cn/zrzc/hxq/	0800

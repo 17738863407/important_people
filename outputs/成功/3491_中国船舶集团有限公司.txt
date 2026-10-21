@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐鹏		1		全国		http://www.csic.com.cn/n4/n13/index.html	党组书记、董事长		中国船舶集团有限公司	http://www.csic.com.cn/n4/n13/c30973/content.html	3491
+王国强		2		全国		http://www.csic.com.cn/n4/n13/index.html	党组副书记、董事、总经理		中国船舶集团有限公司	http://www.csic.com.cn/n4/n13/c31014/content.html	3491
+贾海英		3		全国		http://www.csic.com.cn/n4/n13/index.html	党组副书记；董事		中国船舶集团有限公司	http://www.csic.com.cn/n4/n13/c31227/content.html	3491
+朱永红		4		全国		http://www.csic.com.cn/n4/n13/index.html	党组成员；总会计师		中国船舶集团有限公司	http://www.csic.com.cn/n4/n13/c31312/content.html	3491
+王征		5		全国		http://www.csic.com.cn/n4/n13/index.html	党组成员；副总经理		中国船舶集团有限公司	http://www.csic.com.cn/n4/n13/c29134/content.html	3491
+彭宏		6		全国		http://www.csic.com.cn/n4/n13/index.html	纪检监察组组长；党组成员		中国船舶集团有限公司	http://www.csic.com.cn/n4/n13/c29263/content.html	3491
+彭原璞		7		全国		http://www.csic.com.cn/n4/n13/index.html	党组成员；副总经理		中国船舶集团有限公司	http://www.csic.com.cn/n4/n13/c31067/content.html	3491
+胡贤甫		8		全国		http://www.csic.com.cn/n4/n13/index.html	党组成员；副总经理		中国船舶集团有限公司	http://www.csic.com.cn/n4/n13/c30974/content.html	3491
+赵同宾		9		全国		http://www.csic.com.cn/n4/n13/index.html	党组成员；副总经理		中国船舶集团有限公司	http://www.csic.com.cn/n4/n13/c31962/content.html	3491

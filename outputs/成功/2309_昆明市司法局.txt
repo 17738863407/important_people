@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘毅		1		云南省	昆明市	https://sfj.km.gov.cn/zfxxgkml/fdzdgknr/ldxx/	昆明市司法局党委书记、局长、市强制隔离戒毒所第一政委		昆明市司法局	https://sfj.km.gov.cn/c/2026-03-17/4569271.shtml	2309
+秦芸		2		云南省	昆明市	https://sfj.km.gov.cn/zfxxgkml/fdzdgknr/ldxx/	昆明市司法局党委副书记、副局长		昆明市司法局	https://sfj.km.gov.cn/c/2026-03-17/4569485.shtml	2309
+魏巍		3		云南省	昆明市	https://sfj.km.gov.cn/zfxxgkml/fdzdgknr/ldxx/	昆明市司法局党委委员、副局长		昆明市司法局	https://sfj.km.gov.cn/c/2026-03-17/4569475.shtml	2309
+储嘉昱		4		云南省	昆明市	https://sfj.km.gov.cn/zfxxgkml/fdzdgknr/ldxx/	昆明市司法局党委委员、政治部主任、机关党委书记		昆明市司法局	https://sfj.km.gov.cn/c/2026-03-17/4569455.shtml	2309
+范永隽		5		云南省	昆明市	https://sfj.km.gov.cn/zfxxgkml/fdzdgknr/ldxx/	昆明市司法局党委委员、副局长		昆明市司法局	https://sfj.km.gov.cn/c/2026-03-17/5064096.shtml	2309
+金峰		6		云南省	昆明市	https://sfj.km.gov.cn/zfxxgkml/fdzdgknr/ldxx/	昆明市司法局党委委员、市纪委市监委驻市司法局纪检监察组组长		昆明市司法局	https://sfj.km.gov.cn/c/2026-03-17/4569453.shtml	2309
+胡昌坤		7		云南省	昆明市	https://sfj.km.gov.cn/zfxxgkml/fdzdgknr/ldxx/	昆明市司法局党委委员、副局长		昆明市司法局	https://sfj.km.gov.cn/c/2026-03-17/4813909.shtml	2309

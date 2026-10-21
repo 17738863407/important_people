@@ -1,0 +1,21 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘襄渝		1		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	党委书记、厅长		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/lxylingdaojianjie/leaderInfo.shtml	3243
+张春阳		2		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	党委委员，四川省消防救援总队总队长。		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/zcylingdaojianjie/leaderInfo.shtml	3243
+王其江		3		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	党委委员、国家矿山安全监察局四川局局长		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/wqjlingdaojianjie/leaderInfo.shtml	3243
+郑小清		4		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	党委委员、副厅长		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/zxqlingdaojianjie/leaderInfo.shtml	3243
+张劲		5		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	党委委员、副厅长		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/zjlingdaojianjie/leaderInfo.shtml	3243
+董绍棠		6		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	党委委员、副厅长		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/dstlingdaojianjie/leaderInfo.shtml	3243
+张红樱		7		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	四川省纪委监委驻应急管理厅纪检监察组组长、应急管理厅党委委员		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/zhylingdaojianjie/leaderInfo.shtml	3243
+周晓云		8		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	党委委员、政治部主任、机关党委书记		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/zxylingdaojianjie/leaderInfo.shtml	3243
+陈亮		9		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	党委委员、副厅长		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/cllingdaojianjie/leaderInfo.shtml	3243
+张宏伟		10		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	省森林防火指挥部专职副指挥长		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/zhwlingdaojianjie/leaderInfo.shtml	3243
+谢安军		11		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	副厅长		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/xajlingdaojianjie/leaderInfo.shtml	3243
+岳雷		12		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	副厅长		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/ylldjj/leaderInfo.shtml	3243
+郑伟		13		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	副厅长		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/zwlingdaojianjie/leaderInfo.shtml	3243
+廖琪		14		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	副厅长		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/lqlingdaojianjie/leaderInfo.shtml	3243
+王林		15		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	二级巡视员		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/wllingdaojianjie/leaderInfo.shtml	3243
+陈亚		16		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	二级巡视员		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/cylingdaojianjie/leaderInfo.shtml	3243
+高飞		17		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	二级巡视员		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/gflingdaojianjie/leaderInfo.shtml	3243
+吴天泉		18		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	二级巡视员		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/wtqlingdaojianjie/leaderInfo.shtml	3243
+章兴海		19		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	二级巡视员		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/zxhlingdaojianjie/leaderInfo.shtml	3243
+曹阳		20		四川省		https://yjt.sc.gov.cn/scyjt/tinglingdao/leaderlist.shtml	二级巡视员		四川省应急管理厅	https://yjt.sc.gov.cn/scyjt/cylingdaojianjie1/leaderInfo.shtml	3243

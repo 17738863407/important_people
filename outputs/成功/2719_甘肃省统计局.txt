@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周立荣		1		甘肃省		https://tjj.gansu.gov.cn/tjj/c109477/xxgk_list_ldjj.shtml	甘肃省统计局党组书记、局长		甘肃省统计局	https://tjj.gansu.gov.cn/tjj/c109477/202604/174321180.shtml	2719
+顾克勇		2		甘肃省		https://tjj.gansu.gov.cn/tjj/c109477/xxgk_list_ldjj.shtml	甘肃省统计局副局长		甘肃省统计局	https://tjj.gansu.gov.cn/tjj/c109477/202512/863323.shtml	2719
+徐立文		3		甘肃省		https://tjj.gansu.gov.cn/tjj/c109477/xxgk_list_ldjj.shtml	甘肃省统计局党组成员、副局长		甘肃省统计局	https://tjj.gansu.gov.cn/tjj/c109477/202402/173860154.shtml	2719
+何涛		4		甘肃省		https://tjj.gansu.gov.cn/tjj/c109477/xxgk_list_ldjj.shtml	甘肃省统计局党组成员、副局长		甘肃省统计局	https://tjj.gansu.gov.cn/tjj/c109477/202408/173969393.shtml	2719
+王海萍		5		甘肃省		https://tjj.gansu.gov.cn/tjj/c109477/xxgk_list_ldjj.shtml	甘肃省城乡抽样调查队队长		甘肃省统计局	https://tjj.gansu.gov.cn/tjj/c109477/202512/174259320.shtml	2719
+张军祯		6		甘肃省		https://tjj.gansu.gov.cn/tjj/c109477/xxgk_list_ldjj.shtml	甘肃省统计局一级巡视员		甘肃省统计局	https://tjj.gansu.gov.cn/tjj/c109477/202512/863324.shtml	2719
+路民生		7		甘肃省		https://tjj.gansu.gov.cn/tjj/c109477/xxgk_list_ldjj.shtml	甘肃省统计局一级巡视员		甘肃省统计局	https://tjj.gansu.gov.cn/tjj/c109477/202512/863320.shtml	2719

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王仁		1		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836904/index.html	党组书记、主任		杭州市国防动员办公室		0875
+郑国斌		2		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836904/index.html	党组成员、二级巡视员		杭州市国防动员办公室		0875
+段长林		3		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836904/index.html	党组成员、二级巡视员		杭州市国防动员办公室		0875
+欧阳建国		4		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836904/index.html	党组成员、副主任		杭州市国防动员办公室		0875
+富斌		5		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836904/index.html	党组成员、副主任		杭州市国防动员办公室		0875
+张飞烽		6		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836904/index.html	党组成员、副主任		杭州市国防动员办公室		0875
+吕燕翔		7		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836904/index.html	党组成员、副主任		杭州市国防动员办公室		0875
+张文戈		8		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836904/index.html	二级巡视员		杭州市国防动员办公室		0875
+潘红华		9		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836904/index.html	二级巡视员		杭州市国防动员办公室		0875

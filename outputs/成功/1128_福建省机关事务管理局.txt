@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李文哲		1		福建省		http://jgswglj.fujian.gov.cn/jggk/ldxx/lwz/	省政府副秘书长，省政府办公厅党组成员，局党组书记、局长		福建省机关事务管理局		1128
+梁方明		2		福建省		http://jgswglj.fujian.gov.cn/jggk/ldxx/lwz/	局党组成员、总会计师，二级巡视员		福建省机关事务管理局	http://jgswglj.fujian.gov.cn/jggk/ldxx/lsz/	1128
+许进		3		福建省		http://jgswglj.fujian.gov.cn/jggk/ldxx/lwz/	局党组成员、副局长		福建省机关事务管理局	http://jgswglj.fujian.gov.cn/jggk/ldxx/xj/	1128
+朱佑慧		4		福建省		http://jgswglj.fujian.gov.cn/jggk/ldxx/lwz/	局党组成员、副局长		福建省机关事务管理局	http://jgswglj.fujian.gov.cn/jggk/ldxx/zyh/	1128

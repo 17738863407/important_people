@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张云明		1		全国		https://wenkum.china-cic.cn/Detail/12/33/1489	理事长		中国通信学会		0216
+郑志明		2		全国		https://wenkum.china-cic.cn/Detail/12/33/1489	副理事长		中国通信学会		0216
+余少华		3		全国		https://wenkum.china-cic.cn/Detail/12/33/1489	副理事长		中国通信学会		0216
+张延川		4		全国		https://wenkum.china-cic.cn/Detail/12/33/1489	副理事长；秘书长		中国通信学会		0216
+徐坤		5		全国		https://wenkum.china-cic.cn/Detail/12/33/1489	副理事长		中国通信学会		0216
+尹文凯		6		全国		https://wenkum.china-cic.cn/Detail/12/33/1489	副理事长		中国通信学会		0216
+宋起柱		7		全国		https://wenkum.china-cic.cn/Detail/12/33/1489	副理事长		中国通信学会		0216
+龚斌		8		全国		https://wenkum.china-cic.cn/Detail/12/33/1489	副理事长		中国通信学会		0216
+宋彤		9		全国		https://wenkum.china-cic.cn/Detail/12/33/1489	副秘书长		中国通信学会		0216
+文剑		10		全国		https://wenkum.china-cic.cn/Detail/12/33/1489	副秘书长		中国通信学会		0216

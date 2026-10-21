@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴威		1		吉林省	长春市	http://sfj.changchun.gov.cn/xxfb/fzrjj/	局长		长春市司法局	http://sfj.changchun.gov.cn/xxfb/fzrjj/202104/t20210407_2789660.html	2300
+孟繁君		2		吉林省	长春市	http://sfj.changchun.gov.cn/xxfb/fzrjj/	副局长		长春市司法局	http://sfj.changchun.gov.cn/xxfb/fzrjj/202104/t20210407_2789672.html	2300
+张超		3		吉林省	长春市	http://sfj.changchun.gov.cn/xxfb/fzrjj/	副局长		长春市司法局	http://sfj.changchun.gov.cn/xxfb/fzrjj/202104/t20210407_2789665.html	2300
+李立权		4		吉林省	长春市	http://sfj.changchun.gov.cn/xxfb/fzrjj/	政治部（警务部）主任		长春市司法局	http://sfj.changchun.gov.cn/xxfb/fzrjj/202206/t20220613_3025369.html	2300
+韩会志		5		吉林省	长春市	http://sfj.changchun.gov.cn/xxfb/fzrjj/	副局长		长春市司法局	http://sfj.changchun.gov.cn/xxfb/fzrjj/202104/t20210407_2789670.html	2300
+王承伟		6		吉林省	长春市	http://sfj.changchun.gov.cn/xxfb/fzrjj/	一级巡视员		长春市司法局	http://sfj.changchun.gov.cn/xxfb/fzrjj/202607/t20260720_3501608.html	2300
+鲍龙乡		7		吉林省	长春市	http://sfj.changchun.gov.cn/xxfb/fzrjj/	二级巡视员		长春市司法局	http://sfj.changchun.gov.cn/xxfb/fzrjj/202108/t20210812_2885942.html	2300

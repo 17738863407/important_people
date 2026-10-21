@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+唐家富		1		上海市		https://sthj.sh.gov.cn/hbzhywpt1002/hbzhywpt1004/	党组书记、副局长		上海市生态环境局		2551
+王珏		2		上海市		https://sthj.sh.gov.cn/hbzhywpt1002/hbzhywpt1004/	局长		上海市生态环境局		2551
+吴启洲		3		上海市		https://sthj.sh.gov.cn/hbzhywpt1002/hbzhywpt1004/	党组成员、副局长、直属机关党委书记、一级巡视员		上海市生态环境局		2551
+汤臣栋		4		上海市		https://sthj.sh.gov.cn/hbzhywpt1002/hbzhywpt1004/	党组成员、副局长		上海市生态环境局		2551
+胡国俊		5		上海市		https://sthj.sh.gov.cn/hbzhywpt1002/hbzhywpt1004/	市纪委监委驻市生态环境局纪检监察组组长		上海市生态环境局		2551
+余飞麟		6		上海市		https://sthj.sh.gov.cn/hbzhywpt1002/hbzhywpt1004/	党组成员、副局长		上海市生态环境局		2551
+柏国强		7		上海市		https://sthj.sh.gov.cn/hbzhywpt1002/hbzhywpt1004/	一级巡视员		上海市生态环境局		2551

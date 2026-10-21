@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈博彰		1		湖南省	长沙市	http://www.changsha.gov.cn/szf/zfld/ldzc/	市委副书记、市人民政府党组书记、市长		长沙市人民政府	http://www.changsha.gov.cn/szf/zfld/ldzc/202511/t20251121_12069470.html	0213
+付旭明		2		湖南省	长沙市	http://www.changsha.gov.cn/szf/zfld/ldzc/	市委常委、市人民政府党组副书记、常务副市长		长沙市人民政府	http://www.changsha.gov.cn/szf/zfld/ldzc/202512/t20251225_12135365.html	0213
+钱丽霞		3		湖南省	长沙市	http://www.changsha.gov.cn/szf/zfld/ldzc/	市人民政府党组成员、副市长		长沙市人民政府	http://www.changsha.gov.cn/szf/zfld/ldzc/202511/t20251121_12069471.html	0213
+周志凯		4		湖南省	长沙市	http://www.changsha.gov.cn/szf/zfld/ldzc/	市人民政府党组成员、副市长		长沙市人民政府	http://www.changsha.gov.cn/szf/zfld/ldzc/202201/t20220121_10450685.html	0213
+余良勇		5		湖南省	长沙市	http://www.changsha.gov.cn/szf/zfld/ldzc/	市人民政府党组成员、副市长，市公安局党委书记、局长、督察长		长沙市人民政府	http://www.changsha.gov.cn/szf/zfld/ldzc/202512/t20251225_12135376.html	0213
+康镇麟		6		湖南省	长沙市	http://www.changsha.gov.cn/szf/zfld/ldzc/	市人民政府副市长，民革长沙市委会主委		长沙市人民政府	http://www.changsha.gov.cn/szf/zfld/ldzc/202201/t20220121_10450647.html	0213
+周春晖		7		湖南省	长沙市	http://www.changsha.gov.cn/szf/zfld/ldzc/	市人民政府党组成员、副市长		长沙市人民政府	http://www.changsha.gov.cn/szf/zfld/ldzc/202403/t20240327_11404065.html	0213
+郑平		8		湖南省	长沙市	http://www.changsha.gov.cn/szf/zfld/ldzc/	市人民政府党组成员、副市长		长沙市人民政府	http://www.changsha.gov.cn/szf/zfld/ldzc/202503/t20250303_11764912.html	0213
+许凡		9		湖南省	长沙市	http://www.changsha.gov.cn/szf/zfld/ldzc/	市人民政府党组成员、秘书长，办公室党组书记、主任		长沙市人民政府	http://www.changsha.gov.cn/szf/zfld/ldzc/202201/t20220128_10460772.html	0213

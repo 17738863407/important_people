@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+方磊		1		重庆市		https://kjj.cq.gov.cn/zwgk_176/fdzdgknr/jgzn/	党委书记、局长，市外国专家局局长（兼）		重庆市科学技术局	https://kjj.cq.gov.cn/zwgk_176/fdzdgknr/jgzn/fzrxx/202607/t20260716_15826366.html	1355
+许志鹏		2		重庆市		https://kjj.cq.gov.cn/zwgk_176/fdzdgknr/jgzn/	党委副书记		重庆市科学技术局	https://kjj.cq.gov.cn/zwgk_176/fdzdgknr/jgzn/fzrxx/202409/t20240905_13597944.html	1355
+张小宁		3		重庆市		https://kjj.cq.gov.cn/zwgk_176/fdzdgknr/jgzn/	党委委员、市纪委监委驻市科技局纪检监察组组长		重庆市科学技术局	https://kjj.cq.gov.cn/zwgk_176/fdzdgknr/jgzn/fzrxx/202409/t20240905_13597938.html	1355
+王伟		4		重庆市		https://kjj.cq.gov.cn/zwgk_176/fdzdgknr/jgzn/	党委委员、副局长（新闻发言人）		重庆市科学技术局	https://kjj.cq.gov.cn/zwgk_176/fdzdgknr/jgzn/fzrxx/202409/t20240905_13597949.html	1355
+张斌		5		重庆市		https://kjj.cq.gov.cn/zwgk_176/fdzdgknr/jgzn/	党委委员、副局长		重庆市科学技术局	https://kjj.cq.gov.cn/zwgk_176/fdzdgknr/jgzn/fzrxx/202608/t20260826_15982935.html	1355
+蒲骥		6		重庆市		https://kjj.cq.gov.cn/zwgk_176/fdzdgknr/jgzn/	党委委员、副局长		重庆市科学技术局	https://kjj.cq.gov.cn/zwgk_176/fdzdgknr/jgzn/fzrxx/202503/t20250307_14383170.html	1355
+杨军		7		重庆市		https://kjj.cq.gov.cn/zwgk_176/fdzdgknr/jgzn/	二级巡视员		重庆市科学技术局	https://kjj.cq.gov.cn/zwgk_176/fdzdgknr/jgzn/fzrxx/202409/t20240905_13597960.html	1355

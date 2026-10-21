@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱生岭		1		全国		http://www.cppcc.gov.cn/zxww/newcppcc/wshxxwyh/index.shtml	副主任		中国人民政治协商会议全国委员会文化文史和学习委员会		0325
+李宝善		2		全国		http://www.cppcc.gov.cn/zxww/newcppcc/wshxxwyh/index.shtml	副主任		中国人民政治协商会议全国委员会文化文史和学习委员会		0325
+吴志良		3		全国		http://www.cppcc.gov.cn/zxww/newcppcc/wshxxwyh/index.shtml	副主任		中国人民政治协商会议全国委员会文化文史和学习委员会		0325
+陈润儿		4		全国		http://www.cppcc.gov.cn/zxww/newcppcc/wshxxwyh/index.shtml	副主任		中国人民政治协商会议全国委员会文化文史和学习委员会		0325
+欧阳坚		5		全国		http://www.cppcc.gov.cn/zxww/newcppcc/wshxxwyh/index.shtml	副主任		中国人民政治协商会议全国委员会文化文史和学习委员会		0325
+胡纪源		6		全国		http://www.cppcc.gov.cn/zxww/newcppcc/wshxxwyh/index.shtml	副主任（驻会）		中国人民政治协商会议全国委员会文化文史和学习委员会		0325
+姚爱兴		7		全国		http://www.cppcc.gov.cn/zxww/newcppcc/wshxxwyh/index.shtml	副主任		中国人民政治协商会议全国委员会文化文史和学习委员会		0325
+聂辰席		8		全国		http://www.cppcc.gov.cn/zxww/newcppcc/wshxxwyh/index.shtml	副主任		中国人民政治协商会议全国委员会文化文史和学习委员会		0325
+黄建盛		9		全国		http://www.cppcc.gov.cn/zxww/newcppcc/wshxxwyh/index.shtml	副主任		中国人民政治协商会议全国委员会文化文史和学习委员会		0325
+阎晶明		10		全国		http://www.cppcc.gov.cn/zxww/newcppcc/wshxxwyh/index.shtml	副主任		中国人民政治协商会议全国委员会文化文史和学习委员会		0325
+李屹		11		全国		http://www.cppcc.gov.cn/zxww/newcppcc/wshxxwyh/index.shtml	副主任		中国人民政治协商会议全国委员会文化文史和学习委员会		0325
+潘岳		12		全国		http://www.cppcc.gov.cn/zxww/newcppcc/wshxxwyh/index.shtml	副主任		中国人民政治协商会议全国委员会文化文史和学习委员会		0325
+傅奎		13		全国		http://www.cppcc.gov.cn/zxww/newcppcc/wshxxwyh/index.shtml	副主任		中国人民政治协商会议全国委员会文化文史和学习委员会		0325

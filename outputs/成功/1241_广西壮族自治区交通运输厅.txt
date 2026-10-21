@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘可		1		广西壮族自治区		http://jtt.gxzf.gov.cn/zfxxgk/fdzdgk/jggk/tldxx/	自治区交通运输厅党组书记、厅长，自治区铁路建设办公室主任		广西壮族自治区交通运输厅	http://jtt.gxzf.gov.cn/ldrz/index.shtml	1241
+黄永忠		2		广西壮族自治区		http://jtt.gxzf.gov.cn/zfxxgk/fdzdgk/jggk/tldxx/	自治区交通运输厅党组成员、副厅长		广西壮族自治区交通运输厅	http://jtt.gxzf.gov.cn/zfxxgk/fdzdgk/jggk/tldxx/t12765394.shtml	1241
+李一川		3		广西壮族自治区		http://jtt.gxzf.gov.cn/zfxxgk/fdzdgk/jggk/tldxx/	自治区交通运输厅党组成员、自治区铁路建设办公室专职副主任		广西壮族自治区交通运输厅	http://jtt.gxzf.gov.cn/zfxxgk/fdzdgk/jggk/tldxx/t12765393.shtml	1241
+陈津维		4		广西壮族自治区		http://jtt.gxzf.gov.cn/zfxxgk/fdzdgk/jggk/tldxx/	自治区交通运输厅党组成员、副厅长		广西壮族自治区交通运输厅	http://jtt.gxzf.gov.cn/zfxxgk/fdzdgk/jggk/tldxx/t12765391.shtml	1241
+黄国勋		5		广西壮族自治区		http://jtt.gxzf.gov.cn/zfxxgk/fdzdgk/jggk/tldxx/	自治区交通运输厅党组成员、副厅长		广西壮族自治区交通运输厅	http://jtt.gxzf.gov.cn/zfxxgk/fdzdgk/jggk/tldxx/t19188310.shtml	1241
+农正定		6		广西壮族自治区		http://jtt.gxzf.gov.cn/zfxxgk/fdzdgk/jggk/tldxx/	自治区交通运输厅党组成员、副厅长		广西壮族自治区交通运输厅	http://jtt.gxzf.gov.cn/zfxxgk/fdzdgk/jggk/tldxx/t27149518.shtml	1241
+莫祖俊		7		广西壮族自治区		http://jtt.gxzf.gov.cn/zfxxgk/fdzdgk/jggk/tldxx/	广西邮政管理局党组书记、局长，自治区交通运输厅党组成员、副厅长		广西壮族自治区交通运输厅	http://jtt.gxzf.gov.cn/zfxxgk/fdzdgk/jggk/tldxx/t13109241.shtml	1241
+侯永能		8		广西壮族自治区		http://jtt.gxzf.gov.cn/zfxxgk/fdzdgk/jggk/tldxx/	自治区交通运输厅党组成员、自治区纪委监委驻自治区交通运输厅纪检监察组组长、二级高级监察官		广西壮族自治区交通运输厅	http://jtt.gxzf.gov.cn/zfxxgk/fdzdgk/jggk/tldxx/t18377859.shtml	1241

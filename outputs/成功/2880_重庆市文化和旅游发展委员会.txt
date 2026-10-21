@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+石强		1		重庆市		http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/	党委书记		重庆市文化和旅游发展委员会	http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/fzrxx/202412/t20241211_14043311.html	2880
+高琳		2		重庆市		http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/	主任		重庆市文化和旅游发展委员会	http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/fzrxx/202409/t20240929_14043314.html	2880
+屈锐		3		重庆市		http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/	党委副书记		重庆市文化和旅游发展委员会	http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/fzrxx/202604/t20260410_15602273.html	2880
+罗晓春		4		重庆市		http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/	党委委员、副主任		重庆市文化和旅游发展委员会	http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/fzrxx/202606/t20260610_15743303.html	2880
+汪华鹰		5		重庆市		http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/	党委委员、驻委纪检监察组组长		重庆市文化和旅游发展委员会	http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/fzrxx/202409/t20240929_14043316.html	2880
+罗绍禄		6		重庆市		http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/	党委委员、副主任		重庆市文化和旅游发展委员会	http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/fzrxx/202410/t20241011_14043312.html	2880
+宋俊红		7		重庆市		http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/	党委委员、副主任		重庆市文化和旅游发展委员会	http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/fzrxx/202609/t20260908_16050194.html	2880
+赵明全		8		重庆市		http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/	党委委员、二级巡视员		重庆市文化和旅游发展委员会	http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/fzrxx/201912/t20191230_14043313.html	2880
+幸军		9		重庆市		http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/	一级巡视员		重庆市文化和旅游发展委员会	http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/fzrxx/201912/t20191230_14043319.html	2880
+方来珊		10		重庆市		http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/	一级巡视员		重庆市文化和旅游发展委员会	http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/fzrxx/202410/t20241011_14043317.html	2880
+梁跃		11		重庆市		http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/	二级巡视员		重庆市文化和旅游发展委员会	http://whlyw.cq.gov.cn/zwgk_221/fdzdgknr/jgzn/fzrxx/202604/t20260422_15629158.html	2880

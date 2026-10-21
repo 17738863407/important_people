@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+莽琦		1		辽宁省	沈阳市	https://dsjj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/	市数据局党组书记、局长		沈阳市数据局	https://dsjj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202208/t20220822_4065986.html	0489
+马忠胜		2		辽宁省	沈阳市	https://dsjj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/	党组成员、副局长		沈阳市数据局	https://dsjj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202208/t20220822_4065821.html	0489
+王曾		3		辽宁省	沈阳市	https://dsjj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/	党组成员、副局长		沈阳市数据局	https://dsjj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202208/t20220822_4066281.html	0489
+王秋实		4		辽宁省	沈阳市	https://dsjj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/	党组成员、副局长		沈阳市数据局	https://dsjj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202606/t20260625_5046208.html	0489

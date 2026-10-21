@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吕建平		1		上海市		http://sh.mof.gov.cn/gywm/zhuanyuangbangaikuang/	党组书记、局长		财政部上海监管局	http://sh.mof.gov.cn/gywm/zhuanyuangbangaikuang/202504/t20250423_3962579.htm	2352
+万洪宇		2		上海市		http://sh.mof.gov.cn/gywm/zhuanyuangbangaikuang/	党组成员、副局长、纪检组长		财政部上海监管局	http://sh.mof.gov.cn/gywm/zhuanyuangbangaikuang/202504/t20250423_3962578.htm	2352
+包骁文		3		上海市		http://sh.mof.gov.cn/gywm/zhuanyuangbangaikuang/	党组成员、副局长		财政部上海监管局	http://sh.mof.gov.cn/gywm/zhuanyuangbangaikuang/202504/t20250423_3962576.htm	2352
+邵依群		4		上海市		http://sh.mof.gov.cn/gywm/zhuanyuangbangaikuang/	二级巡视员		财政部上海监管局	http://sh.mof.gov.cn/gywm/zhuanyuangbangaikuang/202307/t20230719_3897121.htm	2352

@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王庆东		1		辽宁省		https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/index.shtml	省教育厅党组书记、厅长兼省委教育工委分管日常工作的副书记		辽宁省教育厅	https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/bmld/wqd/index.shtml	1339
+崔长征		2		辽宁省		https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/index.shtml	省委教育工委专职副书记，省教育厅党组成员		辽宁省教育厅	https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/bmld/czz/index.shtml	1339
+张国林		3		辽宁省		https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/index.shtml	省教育厅党组成员、副厅长兼省委教育工委副书记、一级巡视员		辽宁省教育厅	https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/bmld/zgl/index.shtml	1339
+孔峰		4		辽宁省		https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/index.shtml	省教育厅党组成员、副厅长		辽宁省教育厅	https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/bmld/kf/index.shtml	1339
+刘健		5		辽宁省		https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/index.shtml	省纪委监委驻省教育厅纪检监察组组长（省委教育纪检监察工作委员会书记）、省教育厅党组成员、二级高级监察官		辽宁省教育厅	https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/bmld/lj/index.shtml	1339
+曹兰		6		辽宁省		https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/index.shtml	省教育厅党组成员、副厅长		辽宁省教育厅	https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/bmld/cl/index.shtml	1339
+李国华		7		辽宁省		https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/index.shtml	省教育厅党组成员、副厅长		辽宁省教育厅	https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/bmld/lgh/index.shtml	1339
+纪洪涛		8		辽宁省		https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/index.shtml	省教育厅党组成员、副厅长		辽宁省教育厅	https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/bmld/jht/index.shtml	1339
+孙家成		9		辽宁省		https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/index.shtml	省委教育工委专职委员		辽宁省教育厅	https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/bmld/sjc/index.shtml	1339
+李振权		10		辽宁省		https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/index.shtml	省政府教育督导室主任		辽宁省教育厅	https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/bmld/lzq/index.shtml	1339

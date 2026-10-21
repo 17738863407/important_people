@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+娄果		1		贵州省	贵阳市	http://wsjkj.guiyang.gov.cn/zfxxgk_500627/fdzdgknr/jgjj/jgld2/	市卫生健康局党委书记，一级调研员		贵阳市卫生健康局	http://wsjkj.guiyang.gov.cn/zfxxgk_500627/fdzdgknr/jgjj/jgld2/202503/t20250314_87172273.html	2985
+郭莉莉		2		贵州省	贵阳市	http://wsjkj.guiyang.gov.cn/zfxxgk_500627/fdzdgknr/jgjj/jgld2/	市卫生健康局局长，中国农工民主党贵阳市委员会副主委（兼）		贵阳市卫生健康局	http://wsjkj.guiyang.gov.cn/zfxxgk_500627/fdzdgknr/jgjj/jgld2/202503/t20250314_87172253.html	2985
+郭俊		3		贵州省	贵阳市	http://wsjkj.guiyang.gov.cn/zfxxgk_500627/fdzdgknr/jgjj/jgld2/	党委委员、市计生协专职副会长		贵阳市卫生健康局	http://wsjkj.guiyang.gov.cn/zfxxgk_500627/fdzdgknr/jgjj/jgld2/202608/t20260825_90778052.html	2985
+黄雪梅		4		贵州省	贵阳市	http://wsjkj.guiyang.gov.cn/zfxxgk_500627/fdzdgknr/jgjj/jgld2/	党委委员、副局长，三级调研员		贵阳市卫生健康局	http://wsjkj.guiyang.gov.cn/zfxxgk_500627/fdzdgknr/jgjj/jgld2/202503/t20250314_87171917.html	2985
+陈刚		5		贵州省	贵阳市	http://wsjkj.guiyang.gov.cn/zfxxgk_500627/fdzdgknr/jgjj/jgld2/	市疾病预防控制局局长，市卫生健康局党委委员、副局长（兼），三级调研员		贵阳市卫生健康局	http://wsjkj.guiyang.gov.cn/zfxxgk_500627/fdzdgknr/jgjj/jgld2/202503/t20250314_87171538.html	2985
+刘毅峰		6		贵州省	贵阳市	http://wsjkj.guiyang.gov.cn/zfxxgk_500627/fdzdgknr/jgjj/jgld2/	党委委员		贵阳市卫生健康局	http://wsjkj.guiyang.gov.cn/zfxxgk_500627/fdzdgknr/jgjj/jgld2/202503/t20250314_87171469.html	2985
+朱恺		7		贵州省	贵阳市	http://wsjkj.guiyang.gov.cn/zfxxgk_500627/fdzdgknr/jgjj/jgld2/	党委委员、 副局长		贵阳市卫生健康局	http://wsjkj.guiyang.gov.cn/zfxxgk_500627/fdzdgknr/jgjj/jgld2/202503/t20250314_87171426.html	2985

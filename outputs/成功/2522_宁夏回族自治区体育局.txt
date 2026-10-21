@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+丁波		1		宁夏回族自治区		http://sport.nx.gov.cn/zfxxgk/fdzdgknr/jgznxx/202203/t20220322_3392481.html	党组书记、局长		宁夏回族自治区体育局		2522
+岳彤		2		宁夏回族自治区		http://sport.nx.gov.cn/zfxxgk/fdzdgknr/jgznxx/202203/t20220322_3392481.html	党组成员、副局长		宁夏回族自治区体育局		2522
+钱学林		3		宁夏回族自治区		http://sport.nx.gov.cn/zfxxgk/fdzdgknr/jgznxx/202203/t20220322_3392481.html	党组成员、副局长		宁夏回族自治区体育局		2522
+田进邦		4		宁夏回族自治区		http://sport.nx.gov.cn/zfxxgk/fdzdgknr/jgznxx/202203/t20220322_3392481.html	党组成员、副局长		宁夏回族自治区体育局		2522
+宋少涛		5		宁夏回族自治区		http://sport.nx.gov.cn/zfxxgk/fdzdgknr/jgznxx/202203/t20220322_3392481.html	党组成员、纪检监察组组长		宁夏回族自治区体育局		2522

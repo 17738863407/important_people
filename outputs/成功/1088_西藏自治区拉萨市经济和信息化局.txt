@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+格桑卓嘎		1		西藏自治区	拉萨市	http://iib.lasa.gov.cn/jxj/thsz/ldxx_list.shtml	党组书记、副局长、一级调研员		西藏自治区拉萨市经济和信息化局	http://iib.lasa.gov.cn/jxj/thsz/202412/a661df99edfd45ecb9bd6d7c38bfc3ad.shtml	1088
+王旭光		2		西藏自治区	拉萨市	http://iib.lasa.gov.cn/jxj/thsz/ldxx_list.shtml	党组副书记，局长、一级调研员		西藏自治区拉萨市经济和信息化局	http://iib.lasa.gov.cn/jxj/thsz/202001/26a482e697e24442b279a5411d022f1a.shtml	1088
+次旦贡觉		3		西藏自治区	拉萨市	http://iib.lasa.gov.cn/jxj/thsz/ldxx_list.shtml	党组副书记、副局长、二级调研员		西藏自治区拉萨市经济和信息化局	http://iib.lasa.gov.cn/jxj/ehsz/202411/99a09be228064b9db0ef0128a2c8af23.shtml	1088
+张炜		4		西藏自治区	拉萨市	http://iib.lasa.gov.cn/jxj/thsz/ldxx_list.shtml	党组成员、副局长		西藏自治区拉萨市经济和信息化局	http://iib.lasa.gov.cn/jxj/ehsz/202412/bc65b18946114225957650a9513a6bb5.shtml	1088
+李明浩		5		西藏自治区	拉萨市	http://iib.lasa.gov.cn/jxj/thsz/ldxx_list.shtml	党组成员、副局长		西藏自治区拉萨市经济和信息化局	http://iib.lasa.gov.cn/jxj/ehsz/202412/0e96862fc4a8472aa01600b723728dbd.shtml	1088
+姜勇		6		西藏自治区	拉萨市	http://iib.lasa.gov.cn/jxj/thsz/ldxx_list.shtml	党组成员、副局长、三级调研员		西藏自治区拉萨市经济和信息化局	http://iib.lasa.gov.cn/jxj/ehsz/202305/582a04541f394919bdda5e5467271a61.shtml	1088
+陈龙		7		西藏自治区	拉萨市	http://iib.lasa.gov.cn/jxj/thsz/ldxx_list.shtml	党组成员、副局长		西藏自治区拉萨市经济和信息化局	http://iib.lasa.gov.cn/jxj/ehsz/202412/dfc516c0329c46d6a612b87c44e4730b.shtml	1088

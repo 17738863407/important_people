@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+任开斌		1		辽宁省		https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省人民政府副省长、省政府党组成员，辽宁省公安厅党委书记、厅长、督察长，兼任辽宁省委政法委委员		辽宁省公安厅	https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/bmld/2026031009380177357/index.shtml	0635
+冯永利		2		辽宁省		https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省公安厅党委副书记、分管日常工作的副厅长（正厅长级）		辽宁省公安厅	https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/bmld/2026031009345669564/index.shtml	0635
+袁林		3		辽宁省		https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省公安厅党委委员，沈阳市政府副市长、市政府党组成员，沈阳市公安局党委书记、局长、督察长		辽宁省公安厅	https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/bmld/2026031009381611825/index.shtml	0635
+陈军		4		辽宁省		https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省公安厅特勤局党委书记、局长、辽宁省公安厅党委委员		辽宁省公安厅	https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/bmld/2026031009472677545/index.shtml	0635
+赵丕显		5		辽宁省		https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省公安厅党委委员、副厅长		辽宁省公安厅	https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/bmld/2026100916100232309/index.shtml	0635
+王选梁		6		辽宁省		https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省纪委监委驻省公安厅纪检监察组组长、辽宁省公安厅党委委员		辽宁省公安厅	https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/bmld/2026031009382547219/index.shtml	0635
+魏显光		7		辽宁省		https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省公安厅党委委员、副厅长		辽宁省公安厅	https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/bmld/2026031009383562444/index.shtml	0635
+雒荣广		8		辽宁省		https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省公安厅党委委员、副厅长		辽宁省公安厅	https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/bmld/2026031009384574206/index.shtml	0635
+陈密森		9		辽宁省		https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省公安厅党委委员、副厅长		辽宁省公安厅	https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/bmld/2026031009385379842/index.shtml	0635
+王蕾		10		辽宁省		https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省公安厅党委委员、政治部主任		辽宁省公安厅	https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/bmld/2026031009390157876/index.shtml	0635
+朱朝键		11		辽宁省		https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省公安厅反恐专员		辽宁省公安厅	https://gat.ln.gov.cn/gat/zwgk/zfxxgk/fdzdgknr/jgjj/bmld/2026031009390924347/index.shtml	0635

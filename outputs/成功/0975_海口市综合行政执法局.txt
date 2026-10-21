@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王琳		1		海南省	海口市	http://hkszfj.haikou.gov.cn/hksszglj/jgjs/jgjs.shtml	党组书记、局长		海口市综合行政执法局	http://hkszfj.haikou.gov.cn/hksszglj/ldxx/202207/6405f0cc8538420eb0e07836cb22065e.shtml	0975
+林梦云		2		海南省	海口市	http://hkszfj.haikou.gov.cn/hksszglj/jgjs/jgjs.shtml	党组成员、副局长		海口市综合行政执法局	http://hkszfj.haikou.gov.cn/hksszglj/ldxx/202609/b1172aaba35747dabefa357fc79c8acd.shtml	0975
+庄华东		3		海南省	海口市	http://hkszfj.haikou.gov.cn/hksszglj/jgjs/jgjs.shtml	党组成员、副局长		海口市综合行政执法局	http://hkszfj.haikou.gov.cn/hksszglj/ldxx/202509/c6fe0b682f6f4a98bff10cddb0fea89d.shtml	0975
+付余超		4		海南省	海口市	http://hkszfj.haikou.gov.cn/hksszglj/jgjs/jgjs.shtml	党组成员、副局长		海口市综合行政执法局	http://hkszfj.haikou.gov.cn/hksszglj/ldxx/202512/76af91115dff4fc1b09d798543201e7e.shtml	0975
+宋佐		5		海南省	海口市	http://hkszfj.haikou.gov.cn/hksszglj/jgjs/jgjs.shtml	一级调研员		海口市综合行政执法局	http://hkszfj.haikou.gov.cn/hksszglj/ldxx/202609/4e990237a0004e94a524857954674cd2.shtml	0975
+张全		6		海南省	海口市	http://hkszfj.haikou.gov.cn/hksszglj/jgjs/jgjs.shtml	三级调研员		海口市综合行政执法局	http://hkszfj.haikou.gov.cn/hksszglj/ldxx/202409/c8bb90f455bc4ea8a3fa288878c15cca.shtml	0975
+刘军		7		海南省	海口市	http://hkszfj.haikou.gov.cn/hksszglj/jgjs/jgjs.shtml	三级调研员		海口市综合行政执法局	http://hkszfj.haikou.gov.cn/hksszglj/ldxx/202609/e27d35f4c2a54c5cb197f2b939771477.shtml	0975
+江定清		8		海南省	海口市	http://hkszfj.haikou.gov.cn/hksszglj/jgjs/jgjs.shtml	四级调研员		海口市综合行政执法局	http://hkszfj.haikou.gov.cn/hksszglj/ldxx/202609/dea137e38bbd4de8a52bf02a97af5796.shtml	0975
+龙崇贵		9		海南省	海口市	http://hkszfj.haikou.gov.cn/hksszglj/jgjs/jgjs.shtml	四级调研员		海口市综合行政执法局	http://hkszfj.haikou.gov.cn/hksszglj/ldxx/202609/c8ecae7a0d534f92bf99c1eb6398e2f9.shtml	0975
+罗惠群		10		海南省	海口市	http://hkszfj.haikou.gov.cn/hksszglj/jgjs/jgjs.shtml	四级调研员		海口市综合行政执法局	http://hkszfj.haikou.gov.cn/hksszglj/ldxx/202609/013c9eb436c34fb2b8735b85cd2c9a75.shtml	0975
+杨世华		11		海南省	海口市	http://hkszfj.haikou.gov.cn/hksszglj/jgjs/jgjs.shtml	四级调研员		海口市综合行政执法局	http://hkszfj.haikou.gov.cn/hksszglj/ldxx/202304/2d1c1ae7e07e4743bf700309da71ac30.shtml	0975
+杨建国		12		海南省	海口市	http://hkszfj.haikou.gov.cn/hksszglj/jgjs/jgjs.shtml	四级调研员		海口市综合行政执法局	http://hkszfj.haikou.gov.cn/hksszglj/ldxx/202509/8193a4a96b6e4f24968bcf64ddf1ae38.shtml	0975

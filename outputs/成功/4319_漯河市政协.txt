@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王克俊		1		河南省	漯河市	https://lh.hnzx.gov.cn/zxgk/zxld	主席		漯河市政协	https://lh.hnzx.gov.cn/zxgk/zxld/zx/content_19091	4319
+胡新保		2		河南省	漯河市	https://lh.hnzx.gov.cn/zxgk/zxld	副主席		漯河市政协	https://lh.hnzx.gov.cn/zxgk/zxld/fzx/content_19086	4319
+荣之光		3		河南省	漯河市	https://lh.hnzx.gov.cn/zxgk/zxld	副主席		漯河市政协	https://lh.hnzx.gov.cn/zxgk/zxld/fzx/content_19085	4319
+李耀军		4		河南省	漯河市	https://lh.hnzx.gov.cn/zxgk/zxld	副主席		漯河市政协	https://lh.hnzx.gov.cn/zxgk/zxld/fzx/content_19084	4319
+张祎捷		5		河南省	漯河市	https://lh.hnzx.gov.cn/zxgk/zxld	副主席		漯河市政协	https://lh.hnzx.gov.cn/zxgk/zxld/fzx/content_42387	4319
+史有来		6		河南省	漯河市	https://lh.hnzx.gov.cn/zxgk/zxld	副主席		漯河市政协	https://lh.hnzx.gov.cn/zxgk/zxld/fzx/content_42386	4319
+刘少宏		7		河南省	漯河市	https://lh.hnzx.gov.cn/zxgk/zxld	副主席		漯河市政协	https://lh.hnzx.gov.cn/zxgk/zxld/fzx/content_19087	4319
+钮盾		8		河南省	漯河市	https://lh.hnzx.gov.cn/zxgk/zxld	副主席		漯河市政协	https://lh.hnzx.gov.cn/zxgk/zxld/fzx/content_19088	4319
+宋春华		9		河南省	漯河市	https://lh.hnzx.gov.cn/zxgk/zxld	副主席		漯河市政协	https://lh.hnzx.gov.cn/zxgk/zxld/fzx/content_19090	4319
+舒畅		10		河南省	漯河市	https://lh.hnzx.gov.cn/zxgk/zxld	秘书长		漯河市政协	https://lh.hnzx.gov.cn/zxgk/zxld/msz/content_19083	4319

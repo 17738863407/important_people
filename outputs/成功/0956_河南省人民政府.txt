@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张敏		1		全国		https://www.henan.gov.cn/zwgk/zfxxgk/fdzdgknr/zfld/	副省长		河南省人民政府	https://www.henan.gov.cn/2023/01-09/2669763.html	0956
+刘玉江		2		全国		https://www.henan.gov.cn/zwgk/zfxxgk/fdzdgknr/zfld/	副省长		河南省人民政府	https://www.henan.gov.cn/2020/06-03/1544270.html	0956
+宋争辉		3		全国		https://www.henan.gov.cn/zwgk/zfxxgk/fdzdgknr/zfld/	副省长		河南省人民政府	https://www.henan.gov.cn/2022/06-27/2476125.html	0956
+郑海洋		4		全国		https://www.henan.gov.cn/zwgk/zfxxgk/fdzdgknr/zfld/	副省长		河南省人民政府	https://www.henan.gov.cn/2023/01-09/2669765.html	0956
+李酌		5		全国		https://www.henan.gov.cn/zwgk/zfxxgk/fdzdgknr/zfld/	副省长		河南省人民政府	https://www.henan.gov.cn/2023/07-28/2786564.html	0956
+吕国范		6		全国		https://www.henan.gov.cn/zwgk/zfxxgk/fdzdgknr/zfld/	副省长		河南省人民政府	https://www.henan.gov.cn/2025/05-21/3160300.html	0956
+朱鸣		7		全国		https://www.henan.gov.cn/zwgk/zfxxgk/fdzdgknr/zfld/	秘书长		河南省人民政府	https://www.henan.gov.cn/2023/01-30/2680556.html	0956

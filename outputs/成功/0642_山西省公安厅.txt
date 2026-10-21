@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+董煜华		1		山西省		https://gatgw.shanxi.gov.cn/xxgk/zfxxgk2023/xxgkml/jgzn2023/202301/t20230131_7897350.shtml	厅党委书记、厅长		山西省公安厅		0642
+朱炳文		2		山西省		https://gatgw.shanxi.gov.cn/xxgk/zfxxgk2023/xxgkml/jgzn2023/202301/t20230131_7897350.shtml	厅党委副书记、主持日常工作的副厅长		山西省公安厅		0642
+李良华		3		山西省		https://gatgw.shanxi.gov.cn/xxgk/zfxxgk2023/xxgkml/jgzn2023/202301/t20230131_7897350.shtml	厅党委委员、特勤局局长		山西省公安厅		0642
+史红波		4		山西省		https://gatgw.shanxi.gov.cn/xxgk/zfxxgk2023/xxgkml/jgzn2023/202301/t20230131_7897350.shtml	厅党委委员、副厅长，太原市副市长、公安局局长，一级巡视员		山西省公安厅		0642
+柴文龙		5		山西省		https://gatgw.shanxi.gov.cn/xxgk/zfxxgk2023/xxgkml/jgzn2023/202301/t20230131_7897350.shtml	驻厅纪检监察组组长、厅党委委员		山西省公安厅		0642
+曾涛		6		山西省		https://gatgw.shanxi.gov.cn/xxgk/zfxxgk2023/xxgkml/jgzn2023/202301/t20230131_7897350.shtml	厅党委委员、副厅长，一级警务专员		山西省公安厅		0642
+李文平		7		山西省		https://gatgw.shanxi.gov.cn/xxgk/zfxxgk2023/xxgkml/jgzn2023/202301/t20230131_7897350.shtml	厅党委委员、副厅长，一级警务专员		山西省公安厅		0642
+刘春安		8		山西省		https://gatgw.shanxi.gov.cn/xxgk/zfxxgk2023/xxgkml/jgzn2023/202301/t20230131_7897350.shtml	厅党委委员、副厅长		山西省公安厅		0642

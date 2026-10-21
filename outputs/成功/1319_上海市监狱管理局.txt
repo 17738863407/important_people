@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+顾全		1		上海市		http://jyj.sh.gov.cn/jyw/n27/n30/n111/n117/index.html	上海市司法局党委书记、局长，市监狱管理局第一政委		上海市监狱管理局	http://jyj.sh.gov.cn/jyw/n27/n30/n111/n117/20251118/90d3dbc3db6f4a3e81f9909e5e2204bf.html	1319
+王东晟		2		上海市		http://jyj.sh.gov.cn/jyw/n27/n30/n111/n117/index.html	上海市司法局党委委员、副局长，市监狱管理局党委书记、局长		上海市监狱管理局	http://jyj.sh.gov.cn/jyw/n27/n30/n111/n117/20230302/02044828bc1a4a42992b23684be91d61.html	1319
+戴卫东		3		上海市		http://jyj.sh.gov.cn/jyw/n27/n30/n111/n117/index.html	上海市监狱管理局党委委员、党委副书记、副局长，二级警监警衔		上海市监狱管理局	http://jyj.sh.gov.cn/jyw/n27/n30/n111/n117/20190321/0042-5896.html	1319
+朱旭东		4		上海市		http://jyj.sh.gov.cn/jyw/n27/n30/n111/n117/index.html	上海市监狱管理局党委委员、副局长、上海申岳企业发展（集团）有限公司总经理，二级警监警衔		上海市监狱管理局	http://jyj.sh.gov.cn/jyw/n27/n30/n111/n117/20210720/fec7ec60bb874a5988eff8c9baca569a.html	1319
+欧利刚		5		上海市		http://jyj.sh.gov.cn/jyw/n27/n30/n111/n117/index.html	上海市监狱管理局党委委员、副局长，三级警监警衔		上海市监狱管理局	http://jyj.sh.gov.cn/jyw/n27/n30/n111/n117/20250312/e463582a93804293b364feca037812a4.html	1319
+张勇		6		上海市		http://jyj.sh.gov.cn/jyw/n27/n30/n111/n117/index.html	上海市监狱管理局党委委员、直属机关纪委（警务督察室）书记（主任）		上海市监狱管理局	http://jyj.sh.gov.cn/jyw/n27/n30/n111/n117/20260824/e869fd4133aa4674962dcd7b0d0ec8ae.html	1319
+陆建荣		7		上海市		http://jyj.sh.gov.cn/jyw/n27/n30/n111/n117/index.html	上海市监狱管理局党委委员、政治部主任，三级警监警衔		上海市监狱管理局	http://jyj.sh.gov.cn/jyw/n27/n30/n111/n117/20260803/038ef8df86364243942f5eb8d9e888c8.html	1319

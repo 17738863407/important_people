@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙大伟		1		全国		http://www.gxzx.gov.cn/index.php?a=lists&catid=41	主席		广西壮族自治区政协		0799
+徐绍川		2		全国		http://www.gxzx.gov.cn/index.php?a=lists&catid=41	副主席		广西壮族自治区政协		0799
+周异决		3		全国		http://www.gxzx.gov.cn/index.php?a=lists&catid=41	副主席		广西壮族自治区政协		0799
+黄俊华		4		全国		http://www.gxzx.gov.cn/index.php?a=lists&catid=41	副主席		广西壮族自治区政协		0799
+许显辉		5		全国		http://www.gxzx.gov.cn/index.php?a=lists&catid=41	广西壮族自治区人民政协副主席		广西壮族自治区政协		0799
+钱学明		6		全国		http://www.gxzx.gov.cn/index.php?a=lists&catid=41	副主席		广西壮族自治区政协		0799
+王乃学		7		全国		http://www.gxzx.gov.cn/index.php?a=lists&catid=41	副主席		广西壮族自治区政协		0799
+巫家世		8		全国		http://www.gxzx.gov.cn/index.php?a=lists&catid=41	副主席		广西壮族自治区政协		0799
+刘咏梅		9		全国		http://www.gxzx.gov.cn/index.php?a=lists&catid=41	副主席		广西壮族自治区政协		0799
+彭健铭		10		全国		http://www.gxzx.gov.cn/index.php?a=lists&catid=41	副主席		广西壮族自治区政协		0799
+欧余军		11		全国		http://www.gxzx.gov.cn/index.php?a=lists&catid=41	副主席		广西壮族自治区政协		0799
+黄智宇		12		全国		http://www.gxzx.gov.cn/index.php?a=lists&catid=41	秘书长		广西壮族自治区政协		0799

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邹永廖		1		全国		https://nssc.cas.cn/jgsz2015/ztjg/yqysktcztb/	主任		中国科学院月球与深空探测总体部		4160
+李春来		2		全国		https://nssc.cas.cn/jgsz2015/ztjg/yqysktcztb/	副主任		中国科学院月球与深空探测总体部		4160
+洪晓瑜		3		全国		https://nssc.cas.cn/jgsz2015/ztjg/yqysktcztb/	副主任		中国科学院月球与深空探测总体部		4160
+薛长斌		4		全国		https://nssc.cas.cn/jgsz2015/ztjg/yqysktcztb/	副主任；副总工程师		中国科学院月球与深空探测总体部		4160
+王建宇		5		全国		https://nssc.cas.cn/jgsz2015/ztjg/yqysktcztb/	总工程师		中国科学院月球与深空探测总体部		4160
+刘建军		6		全国		https://nssc.cas.cn/jgsz2015/ztjg/yqysktcztb/	副总工程师		中国科学院月球与深空探测总体部		4160
+郑为民		7		全国		https://nssc.cas.cn/jgsz2015/ztjg/yqysktcztb/	副总工程师		中国科学院月球与深空探测总体部		4160
+严俊		8		全国		https://nssc.cas.cn/jgsz2015/ztjg/yqysktcztb/	首席科学家		中国科学院月球与深空探测总体部		4160

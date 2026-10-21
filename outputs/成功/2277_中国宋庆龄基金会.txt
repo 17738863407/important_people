@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李斌		1		全国		https://www.sclf.org/jgjj/	主席		中国宋庆龄基金会	https://www.sclf.org/jgjj/ldcy/zx/202112/t20211223_21090.htm	2277
+龙明彪		2		全国		https://www.sclf.org/jgjj/	副主席		中国宋庆龄基金会	https://www.sclf.org/jgjj/ldcy/fzx/202303/t20230323_22959.htm	2277
+王宁		3		全国		https://www.sclf.org/jgjj/	副主席		中国宋庆龄基金会	https://www.sclf.org/jgjj/ldcy/fzx/202303/t20230323_22958.htm	2277
+李惠东		4		全国		https://www.sclf.org/jgjj/	副主席		中国宋庆龄基金会	https://www.sclf.org/jgjj/ldcy/fzx/202303/t20230323_22957.htm	2277
+谢锋		5		全国		https://www.sclf.org/jgjj/	副主席		中国宋庆龄基金会	https://www.sclf.org/jgjj/ldcy/fzx/202303/t20230323_22956.htm	2277
+余艳红		6		全国		https://www.sclf.org/jgjj/	副主席		中国宋庆龄基金会	https://www.sclf.org/jgjj/ldcy/fzx/202303/t20230323_22955.htm	2277
+沈蓓莉		7		全国		https://www.sclf.org/jgjj/	副主席		中国宋庆龄基金会	https://www.sclf.org/jgjj/ldcy/fzx/202303/t20230323_22954.htm	2277
+张吉明		8		全国		https://www.sclf.org/jgjj/	副主席		中国宋庆龄基金会	https://www.sclf.org/jgjj/ldcy/fzx/202310/t20231030_23894.htm	2277
+丁洁		9		全国		https://www.sclf.org/jgjj/	副主席		中国宋庆龄基金会	https://www.sclf.org/jgjj/ldcy/fzx/202303/t20230323_22951.htm	2277
+陈宏曲		10		全国		https://www.sclf.org/jgjj/	秘书长		中国宋庆龄基金会	https://www.sclf.org/jgjj/ldcy/msz2017/202601/t20260127_32396.htm	2277
+李安晋		11		全国		https://www.sclf.org/jgjj/	副秘书长		中国宋庆龄基金会	https://www.sclf.org/jgjj/ldcy/fmsz/202112/t20211223_21100.htm	2277
+陈爱民		12		全国		https://www.sclf.org/jgjj/	副秘书长		中国宋庆龄基金会	https://www.sclf.org/jgjj/ldcy/fmsz/202402/t20240228_29960.htm	2277

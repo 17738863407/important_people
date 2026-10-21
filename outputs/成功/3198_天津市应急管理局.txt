@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李政		1		天津市		https://yjgl.tj.gov.cn/JGGK1112/LDBZCY7250/	天津市应急管理局党委委员、市纪委监委驻市应急管理局 纪检监察组组长		天津市应急管理局	https://yjgl.tj.gov.cn/JGGK1112/LDBZCY7250/202603/t20260305_7255800.html	3198
+于斌		2		天津市		https://yjgl.tj.gov.cn/JGGK1112/LDBZCY7250/	天津市应急管理局党委委员、副局长		天津市应急管理局	https://yjgl.tj.gov.cn/JGGK1112/LDBZCY7250/202307/t20230719_6356131.html	3198
+高海山		3		天津市		https://yjgl.tj.gov.cn/JGGK1112/LDBZCY7250/	天津市应急管理局党委委员、副局长		天津市应急管理局	https://yjgl.tj.gov.cn/JGGK1112/LDBZCY7250/202210/t20221013_6008138.html	3198
+张军武		4		天津市		https://yjgl.tj.gov.cn/JGGK1112/LDBZCY7250/	天津市政府副秘书长、天津市应急管理局党委书记、局长		天津市应急管理局	https://yjgl.tj.gov.cn/JGGK1112/LDBZCY7250/202109/t20210927_5614096.html	3198
+王勇		5		天津市		https://yjgl.tj.gov.cn/JGGK1112/LDBZCY7250/	天津市应急管理局党委委员、一级巡视员		天津市应急管理局	https://yjgl.tj.gov.cn/JGGK1112/LDBZCY7250/202007/t20200730_3242128.html	3198
+张逢凯		6		天津市		https://yjgl.tj.gov.cn/JGGK1112/LDBZCY7250/	天津市应急管理局党委委员、副局长		天津市应急管理局	https://yjgl.tj.gov.cn/JGGK1112/LDBZCY7250/202007/t20200730_3242127.html	3198
+魏东		7		天津市		https://yjgl.tj.gov.cn/JGGK1112/LDBZCY7250/	天津市应急管理局党委委员、副局长		天津市应急管理局	https://yjgl.tj.gov.cn/JGGK1112/LDBZCY7250/202007/t20200730_3242123.html	3198
+郭春辉		8		天津市		https://yjgl.tj.gov.cn/JGGK1112/LDBZCY7250/	天津市应急管理局党委委员、政治部主任		天津市应急管理局	https://yjgl.tj.gov.cn/JGGK1112/LDBZCY7250/202007/t20200730_3242122.html	3198

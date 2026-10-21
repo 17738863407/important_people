@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+汪卫东		1		安徽省	合肥市	http://www.hefeirenda.cn/rdgk/zrzc/index.html	主任		合肥市人民代表大会常务委员会	http://www.hefeirenda.cn/rdgk/zrzc/zr/wwd/index.html	0955
+姚亚妹		2		安徽省	合肥市	http://www.hefeirenda.cn/rdgk/zrzc/index.html	副主任		合肥市人民代表大会常务委员会	http://www.hefeirenda.cn/rdgk/zrzc/fzr/yym/index.html	0955
+刘晓文		3		安徽省	合肥市	http://www.hefeirenda.cn/rdgk/zrzc/index.html	副主任		合肥市人民代表大会常务委员会	http://www.hefeirenda.cn/rdgk/zrzc/fzr/lxw/index.html	0955
+雍凤山		4		安徽省	合肥市	http://www.hefeirenda.cn/rdgk/zrzc/index.html	副主任		合肥市人民代表大会常务委员会	http://www.hefeirenda.cn/rdgk/zrzc/fzr/yfs/index.html	0955
+盛开		5		安徽省	合肥市	http://www.hefeirenda.cn/rdgk/zrzc/index.html	秘书长		合肥市人民代表大会常务委员会	http://www.hefeirenda.cn/rdgk/zrzc/msz/sk/index.html	0955

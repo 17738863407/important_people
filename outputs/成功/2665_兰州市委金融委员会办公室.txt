@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+贾正晞		1		甘肃省	兰州市	http://szfjrb.lanzhou.gov.cn/col/col16333/index.html	市委金融办常务副主任、市委金融工委常务副书记（兼）		兰州市委金融委员会办公室	http://szfjrb.lanzhou.gov.cn/art/2025/9/5/art_6644_1552947.html	2665
+柳旭辉		2		甘肃省	兰州市	http://szfjrb.lanzhou.gov.cn/col/col16333/index.html	市委金融工委专职副书记		兰州市委金融委员会办公室	http://szfjrb.lanzhou.gov.cn/art/2024/5/16/art_6644_1035509.html	2665
+崔润琼		3		甘肃省	兰州市	http://szfjrb.lanzhou.gov.cn/col/col16333/index.html	市委金融办副主任		兰州市委金融委员会办公室	http://szfjrb.lanzhou.gov.cn/art/2024/5/16/art_6644_1035497.html	2665
+苏宏斌		4		甘肃省	兰州市	http://szfjrb.lanzhou.gov.cn/col/col16333/index.html	市委金融办副主任		兰州市委金融委员会办公室	http://szfjrb.lanzhou.gov.cn/art/2026/3/3/art_6644_1683275.html	2665
+李瑞红		5		甘肃省	兰州市	http://szfjrb.lanzhou.gov.cn/col/col16333/index.html	市委金融办副主任		兰州市委金融委员会办公室	http://szfjrb.lanzhou.gov.cn/art/2026/3/10/art_6644_1685599.html	2665

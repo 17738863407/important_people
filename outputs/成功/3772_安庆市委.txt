@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张君毅		1		安徽省	安庆市	https://www.anqing.gov.cn/ldzc/index.html	市委书记		安庆市委	https://www.anqing.gov.cn/content/column/3902227?liId=3999107	3772
+徐雄		2		安徽省	安庆市	https://www.anqing.gov.cn/ldzc/index.html	市委副书记、市政府代理市长，市政府党组书记		安庆市委	https://www.anqing.gov.cn/content/column/3902227?liId=93474121	3772
+廖强		3		安徽省	安庆市	https://www.anqing.gov.cn/ldzc/index.html	市委副书记，市委党校校长、市社会主义学院院长（兼），宿松县委书记		安庆市委	https://www.anqing.gov.cn/content/column/3902227?liId=93474163	3772
+周建春		4		安徽省	安庆市	https://www.anqing.gov.cn/ldzc/index.html	市委常委，市政府党组成员、副市长		安庆市委	https://www.anqing.gov.cn/content/column/3902227?liId=93474182	3772
+王家权		5		安徽省	安庆市	https://www.anqing.gov.cn/ldzc/index.html	市委常委，安庆军分区大校司令员		安庆市委	https://www.anqing.gov.cn/content/column/3902227?liId=93474162	3772
+梁龙义		6		安徽省	安庆市	https://www.anqing.gov.cn/ldzc/index.html	市委常委、组织部部长		安庆市委	https://www.anqing.gov.cn/content/column/3902227?liId=93474174	3772
+刘婉贞		7		安徽省	安庆市	https://www.anqing.gov.cn/ldzc/index.html	市委常委，桐城市委书记		安庆市委	https://www.anqing.gov.cn/content/column/3902227?liId=93474185	3772
+吴宏波		8		安徽省	安庆市	https://www.anqing.gov.cn/ldzc/index.html	市委常委、市纪委书记、市监委代理主任		安庆市委	https://www.anqing.gov.cn/content/column/3902227?liId=93474191	3772
+关家涛		9		安徽省	安庆市	https://www.anqing.gov.cn/ldzc/index.html	市委常委、政法委书记，市公安局党委书记、局长、督察长		安庆市委	https://www.anqing.gov.cn/content/column/3902227?liId=93474151	3772
+章洪海		10		安徽省	安庆市	https://www.anqing.gov.cn/ldzc/index.html	市委常委、市政府副市长，市政府党组副书记		安庆市委	https://www.anqing.gov.cn/content/column/3902227?liId=93474194	3772
+尹立祥		11		安徽省	安庆市	https://www.anqing.gov.cn/ldzc/index.html	市委常委，市政府党组成员、副市长		安庆市委	https://www.anqing.gov.cn/content/column/3902227?liId=93474197	3772

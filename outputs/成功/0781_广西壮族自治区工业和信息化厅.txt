@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+袁煌		1		广西壮族自治区		http://gxt.gxzf.gov.cn/xxgk/dwjj/ldjj/	自治区工业和信息化厅党组书记、厅长		广西壮族自治区工业和信息化厅	http://gxt.gxzf.gov.cn/ldrz/	0781
+柯梅		2		广西壮族自治区		http://gxt.gxzf.gov.cn/xxgk/dwjj/ldjj/	自治区工业和信息化厅副厅长		广西壮族自治区工业和信息化厅	http://gxt.gxzf.gov.cn/xxgk/dwjj/ldjj/t17267357.shtml	0781
+龙晗		3		广西壮族自治区		http://gxt.gxzf.gov.cn/xxgk/dwjj/ldjj/	自治区工业和信息化厅党组成员，自治区工业促进和中小企业服务中心党委书记、主任		广西壮族自治区工业和信息化厅	http://gxt.gxzf.gov.cn/xxgk/dwjj/ldjj/t18514192.shtml	0781
+肖修建		4		广西壮族自治区		http://gxt.gxzf.gov.cn/xxgk/dwjj/ldjj/	自治区工业和信息化厅党组成员，自治区纪委监委驻自治区工业和信息化厅纪检监察组组长，二级高级监察官		广西壮族自治区工业和信息化厅	http://gxt.gxzf.gov.cn/xxgk/dwjj/ldjj/t23363978.shtml	0781
+覃俊峰		5		广西壮族自治区		http://gxt.gxzf.gov.cn/xxgk/dwjj/ldjj/	自治区工业和信息化厅党组成员、副厅长		广西壮族自治区工业和信息化厅	http://gxt.gxzf.gov.cn/xxgk/dwjj/ldjj/t17533083.shtml	0781
+陆爱平		6		广西壮族自治区		http://gxt.gxzf.gov.cn/xxgk/dwjj/ldjj/	自治区工业和信息化厅二级巡视员		广西壮族自治区工业和信息化厅	http://gxt.gxzf.gov.cn/xxgk/dwjj/ldjj/t17267290.shtml	0781

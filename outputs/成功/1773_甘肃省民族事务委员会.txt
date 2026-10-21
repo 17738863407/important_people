@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘诚		1		甘肃省		https://mzsw.gansu.gov.cn/mzsw/c109546/xxgk_jgld.shtml	党组成员、副主任		甘肃省民族事务委员会		1773
+王宇卫		2		甘肃省		https://mzsw.gansu.gov.cn/mzsw/c109546/xxgk_jgld.shtml	党组成员、副主任		甘肃省民族事务委员会		1773
+张树杰		3		甘肃省		https://mzsw.gansu.gov.cn/mzsw/c109546/xxgk_jgld.shtml	党组成员、副主任		甘肃省民族事务委员会		1773
+魏旭文		4		甘肃省		https://mzsw.gansu.gov.cn/mzsw/c109546/xxgk_jgld.shtml	党组成员、副主任		甘肃省民族事务委员会		1773
+宋树红		5		甘肃省		https://mzsw.gansu.gov.cn/mzsw/c109546/xxgk_jgld.shtml	一级巡视员		甘肃省民族事务委员会		1773

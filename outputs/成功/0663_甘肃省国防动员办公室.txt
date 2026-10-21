@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张毅		1		甘肃省		https://gdb.gansu.gov.cn/rfb/c109291/xxgk_jgld.shtml	甘肃省国防动员办公室党组书记、主任、甘肃省发展和改革委员会副主任		甘肃省国防动员办公室	https://gdb.gansu.gov.cn/rfb/c109291/202412/174050425.shtml	0663
+徐彦信		2		甘肃省		https://gdb.gansu.gov.cn/rfb/c109291/xxgk_jgld.shtml	甘肃省国防动员办公室党组成员、副主任、机关党委书记		甘肃省国防动员办公室	https://gdb.gansu.gov.cn/rfb/c109291/202412/174050447.shtml	0663
+宁翼龙		3		甘肃省		https://gdb.gansu.gov.cn/rfb/c109291/xxgk_jgld.shtml	甘肃省国防动员办公室党组成员、副主任		甘肃省国防动员办公室	https://gdb.gansu.gov.cn/rfb/c109291/202412/174050454.shtml	0663
+邓高华		4		甘肃省		https://gdb.gansu.gov.cn/rfb/c109291/xxgk_jgld.shtml	甘肃省国防动员办公室党组成员、副主任		甘肃省国防动员办公室	https://gdb.gansu.gov.cn/rfb/c109291/202412/174050459.shtml	0663
+张耀凤		5		甘肃省		https://gdb.gansu.gov.cn/rfb/c109291/xxgk_jgld.shtml	甘肃省国防动员办公室二级巡视员		甘肃省国防动员办公室	https://gdb.gansu.gov.cn/rfb/c109291/202412/174050466.shtml	0663
+王晓晨		6		甘肃省		https://gdb.gansu.gov.cn/rfb/c109291/xxgk_jgld.shtml	甘肃省国防动员办公室二级巡视员		甘肃省国防动员办公室	https://gdb.gansu.gov.cn/rfb/c109291/202605/174339897.shtml	0663

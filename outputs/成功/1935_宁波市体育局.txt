@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐承志		1		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218895/index.html	局长、党组书记，市体育总会主席（兼）		宁波市体育局	https://www.ningbo.gov.cn/col/col1229218895/art/2026/art_5fa95ea31d2447d4aed9698971494731.html	1935
+吴生莲		2		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218895/index.html	副局长、党组副书记		宁波市体育局	https://www.ningbo.gov.cn/art/2022/10/25/art_1229218895_135064.html	1935
+曹敏杰		3		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218895/index.html	副局长、党组成员		宁波市体育局	https://www.ningbo.gov.cn/art/2022/10/25/art_1229218895_120721.html	1935
+吴承军		4		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218895/index.html	副局长、党组成员		宁波市体育局	https://www.ningbo.gov.cn/art/2022/10/25/art_1229218895_26160.html	1935
+李国辉		5		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218895/index.html	党组成员、二级巡视员		宁波市体育局	https://www.ningbo.gov.cn/art/2023/8/3/art_1229218895_146300.html	1935
+任乐波		6		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218895/index.html	党组成员、宁波市体育总会专职副主席		宁波市体育局	https://www.ningbo.gov.cn/art/2022/10/25/art_1229218895_26161.html	1935
+顾飞舟		7		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218895/index.html	党组成员、竞技体育处（青少年训练处）处长、一级调研员		宁波市体育局	https://www.ningbo.gov.cn/art/2022/10/25/art_1229218895_135065.html	1935
+谢炜军		8		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218895/index.html	党组成员、办公室（财务与审计处）主任、一级调研员		宁波市体育局	https://www.ningbo.gov.cn/art/2022/10/25/art_1229218895_135066.html	1935
+陈军		9		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218895/index.html	一级调研员		宁波市体育局	https://www.ningbo.gov.cn/art/2022/10/25/art_1229218895_26159.html	1935

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李邵军		1		湖北省	武汉市	https://whrsm.cas.cn/jggk2020/xrld_168082/	副所长（主持工作）		中国科学院武汉岩土力学研究所	https://whrsm.cas.cn/jggk2020/xrld_168082/202506/t20250621_7873186.html	4112
+周辉		2		湖北省	武汉市	https://whrsm.cas.cn/jggk2020/xrld_168082/	党委副书记（主持工作）、副所长		中国科学院武汉岩土力学研究所	https://whrsm.cas.cn/jggk2020/xrld_168082/202506/t20250621_7873187.html	4112
+安骏勇		3		湖北省	武汉市	https://whrsm.cas.cn/jggk2020/xrld_168082/	副所长		中国科学院武汉岩土力学研究所	https://whrsm.cas.cn/jggk2020/xrld_168082/202007/t20200718_5635455.html	4112
+朱航		4		湖北省	武汉市	https://whrsm.cas.cn/jggk2020/xrld_168082/	纪委书记		中国科学院武汉岩土力学研究所	https://whrsm.cas.cn/jggk2020/xrld_168082/202506/t20250621_7873189.html	4112
+施锡林		5		湖北省	武汉市	https://whrsm.cas.cn/jggk2020/xrld_168082/	副所长		中国科学院武汉岩土力学研究所	https://whrsm.cas.cn/jggk2020/xrld_168082/202506/t20250621_7873188.html	4112

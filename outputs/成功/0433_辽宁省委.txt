@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+许昆林		1		全国		http://district.ce.cn/zt/rwk/sf/ln/index.shtml	省委书记、省人大常委会主任		辽宁省委	http://district.ce.cn/newarea/sddy/202509/t20250930_2499923.shtml	0433
+王新伟		2		全国		http://district.ce.cn/zt/rwk/sf/ln/index.shtml	省委副书记、省长		辽宁省委	http://district.ce.cn/newarea/sddy/202503/31/t20250331_39335732.shtml	0433
+霍步刚		3		全国		http://district.ce.cn/zt/rwk/sf/ln/index.shtml	省委副书记、沈阳市委书记		辽宁省委	http://district.ce.cn/newarea/sddy/202609/t20260915_3214314.shtml	0433
+李猛		4		全国		http://district.ce.cn/zt/rwk/sf/ln/index.shtml	省委常委、省纪委书记、监委主任		辽宁省委	http://district.ce.cn/newarea/sddy/202501/18/t20250118_39270607.shtml	0433
+张立林		5		全国		http://district.ce.cn/zt/rwk/sf/ln/index.shtml	省委常委，省政府党组副书记、副省长		辽宁省委	http://district.ce.cn/newarea/sddy/202601/t20260121_2717982.shtml	0433
+赵承		6		全国		http://district.ce.cn/zt/rwk/sf/ln/index.shtml	省委常委、宣传部部长		辽宁省委	http://district.ce.cn/newarea/sddy/202511/t20251126_2603466.shtml	0433
+蒋天宝		7		全国		http://district.ce.cn/zt/rwk/sf/ln/index.shtml	省委常委、组织部部长		辽宁省委	http://district.ce.cn/newarea/sddy/202306/19/t20230619_38596927.shtml	0433
+姜有为		8		全国		http://district.ce.cn/zt/rwk/sf/ln/index.shtml	省委常委、秘书长		辽宁省委	http://district.ce.cn/newarea/sddy/202309/28/t20230928_38733408.shtml	0433
+孟凡清		9		全国		http://district.ce.cn/zt/rwk/sf/ln/index.shtml	省委常委，省军区司令员		辽宁省委	http://district.ce.cn/newarea/sddy/202503/15/t20250315_39320512.shtml	0433
+郑艺		10		全国		http://district.ce.cn/zt/rwk/sf/ln/index.shtml	省委常委、政法委书记		辽宁省委	http://district.ce.cn/newarea/sddy/202508/t20250825_2453098.shtml	0433
+李强		11		全国		http://district.ce.cn/zt/rwk/sf/ln/index.shtml	省委常委、大连市委书记		辽宁省委	http://district.ce.cn/newarea/sddy/202609/t20260912_3209371.shtml	0433

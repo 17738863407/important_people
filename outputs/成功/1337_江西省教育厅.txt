@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴永明		1		江西省		http://jyt.jiangxi.gov.cn/jxjyw/wtld/index.html	省委教育工委书记		江西省教育厅	http://jyt.jiangxi.gov.cn/jxjyw/wym125/index.html	1337
+郑磊		2		江西省		http://jyt.jiangxi.gov.cn/jxjyw/wtld/index.html	省教育厅厅长		江西省教育厅	http://jyt.jiangxi.gov.cn/jxjyw/zl123/pc/list.html	1337
+严全胜		3		江西省		http://jyt.jiangxi.gov.cn/jxjyw/wtld/index.html	工委委员、省纪委省监委 驻省厅纪检监察组组长		江西省教育厅	http://jyt.jiangxi.gov.cn/jxjyw/yqsld/index.html	1337
+王勇		4		江西省		http://jyt.jiangxi.gov.cn/jxjyw/wtld/index.html	工委委员、副厅长		江西省教育厅	http://jyt.jiangxi.gov.cn/jxjyw/wy/index.html	1337
+程裕秋		5		江西省		http://jyt.jiangxi.gov.cn/jxjyw/wtld/index.html	工委委员、副厅长		江西省教育厅	http://jyt.jiangxi.gov.cn/jxjyw/cyq285/index.html	1337
+谢康		6		江西省		http://jyt.jiangxi.gov.cn/jxjyw/wtld/index.html	工委委员、厅总督学		江西省教育厅	http://jyt.jiangxi.gov.cn/jxjyw/cbh461/index.html	1337
+肖乾		7		江西省		http://jyt.jiangxi.gov.cn/jxjyw/wtld/index.html	工委委员、副厅长		江西省教育厅	http://jyt.jiangxi.gov.cn/jxjyw/xq/index.html	1337
+范洪辉		8		江西省		http://jyt.jiangxi.gov.cn/jxjyw/wtld/index.html	工委委员、副厅长		江西省教育厅	http://jyt.jiangxi.gov.cn/jxjyw/fhh/index.html	1337
+丁国华		9		江西省		http://jyt.jiangxi.gov.cn/jxjyw/wtld/index.html	省教育评估监测研究院 党委副书记、院长		江西省教育厅	http://jyt.jiangxi.gov.cn/jxjyw/dgh607/index.html	1337
+刘彪文		10		江西省		http://jyt.jiangxi.gov.cn/jxjyw/wtld/index.html	省教育考试院 党委书记		江西省教育厅	http://jyt.jiangxi.gov.cn/jxjyw/lbw/index.html	1337
+徐峰		11		江西省		http://jyt.jiangxi.gov.cn/jxjyw/wtld/index.html	省教育考试院 党委副书记、院长		江西省教育厅	http://jyt.jiangxi.gov.cn/jxjyw/xf471/index.html	1337
+杨联愚		12		江西省		http://jyt.jiangxi.gov.cn/jxjyw/wtld/index.html	厅二级巡视员		江西省教育厅	http://jyt.jiangxi.gov.cn/jxjyw/yly/pc/list.html	1337
+陈晓通		13		江西省		http://jyt.jiangxi.gov.cn/jxjyw/wtld/index.html	厅二级巡视员		江西省教育厅	http://jyt.jiangxi.gov.cn/jxjyw/cxt/pc/list.html	1337
+刘江华		14		江西省		http://jyt.jiangxi.gov.cn/jxjyw/wtld/index.html	厅二级巡视员		江西省教育厅	http://jyt.jiangxi.gov.cn/jxjyw/ljh1/index.html	1337

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+饶祖跃		1		贵州省	贵阳市	http://amr.guiyang.gov.cn/zwgk/zfxxgk/fdzdgknr/jggk_5772377/jgld_5983379/	党委书记、局长		贵阳市市场监督管理局	http://amr.guiyang.gov.cn/zwgk/zfxxgk/fdzdgknr/jggk_5772377/jgld_5983379/202503/t20250325_87262220.html	0080
+雷后祥		2		贵州省	贵阳市	http://amr.guiyang.gov.cn/zwgk/zfxxgk/fdzdgknr/jggk_5772377/jgld_5983379/	党委副书记、副局长		贵阳市市场监督管理局	http://amr.guiyang.gov.cn/zwgk/zfxxgk/fdzdgknr/jggk_5772377/jgld_5983379/202503/t20250325_87262210.html	0080
+罗军		3		贵州省	贵阳市	http://amr.guiyang.gov.cn/zwgk/zfxxgk/fdzdgknr/jggk_5772377/jgld_5983379/	党委委员、副局长		贵阳市市场监督管理局	http://amr.guiyang.gov.cn/zwgk/zfxxgk/fdzdgknr/jggk_5772377/jgld_5983379/202503/t20250325_87262218.html	0080
+申晓方		4		贵州省	贵阳市	http://amr.guiyang.gov.cn/zwgk/zfxxgk/fdzdgknr/jggk_5772377/jgld_5983379/	党委委员		贵阳市市场监督管理局	http://amr.guiyang.gov.cn/zwgk/zfxxgk/fdzdgknr/jggk_5772377/jgld_5983379/202503/t20250325_87262217.html	0080
+彭宇		5		贵州省	贵阳市	http://amr.guiyang.gov.cn/zwgk/zfxxgk/fdzdgknr/jggk_5772377/jgld_5983379/	党委委员		贵阳市市场监督管理局	http://amr.guiyang.gov.cn/zwgk/zfxxgk/fdzdgknr/jggk_5772377/jgld_5983379/202503/t20250325_87262211.html	0080
+李东升		6		贵州省	贵阳市	http://amr.guiyang.gov.cn/zwgk/zfxxgk/fdzdgknr/jggk_5772377/jgld_5983379/	党委委员		贵阳市市场监督管理局	http://amr.guiyang.gov.cn/zwgk/zfxxgk/fdzdgknr/jggk_5772377/jgld_5983379/202503/t20250325_87262209.html	0080
+喻龙江		7		贵州省	贵阳市	http://amr.guiyang.gov.cn/zwgk/zfxxgk/fdzdgknr/jggk_5772377/jgld_5983379/	党委委员、副局长		贵阳市市场监督管理局	http://amr.guiyang.gov.cn/zwgk/zfxxgk/fdzdgknr/jggk_5772377/jgld_5983379/202506/t20250627_88198046.html	0080

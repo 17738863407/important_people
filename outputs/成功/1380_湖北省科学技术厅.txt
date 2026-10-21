@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+夏松		1		湖北省		https://kjt.hubei.gov.cn/zfxxgk_GK2020/xxgkml/jgzn/ldxx/#test	省科技厅党组书记、厅长		湖北省科学技术厅	https://kjt.hubei.gov.cn/zfxxgk_GK2020/xxgkml/jgzn/ldxx/xias/	1380
+朱俊梅		2		湖北省		https://kjt.hubei.gov.cn/zfxxgk_GK2020/xxgkml/jgzn/ldxx/#test	省纪委监委派驻省科技厅纪检监察组组长、省科技厅党组成员		湖北省科学技术厅	https://kjt.hubei.gov.cn/zfxxgk_GK2020/xxgkml/jgzn/ldxx/zjm/	1380
+张镧		3		湖北省		https://kjt.hubei.gov.cn/zfxxgk_GK2020/xxgkml/jgzn/ldxx/#test	省科技厅党组成员、副厅长		湖北省科学技术厅	https://kjt.hubei.gov.cn/zfxxgk_GK2020/xxgkml/jgzn/ldxx/zl/	1380
+王昕晔		4		湖北省		https://kjt.hubei.gov.cn/zfxxgk_GK2020/xxgkml/jgzn/ldxx/#test	省科技厅党组成员、副厅长		湖北省科学技术厅	https://kjt.hubei.gov.cn/zfxxgk_GK2020/xxgkml/jgzn/ldxx/wxy/	1380
+张远钦		5		湖北省		https://kjt.hubei.gov.cn/zfxxgk_GK2020/xxgkml/jgzn/ldxx/#test	省科技厅党组成员、副厅长		湖北省科学技术厅	https://kjt.hubei.gov.cn/zfxxgk_GK2020/xxgkml/jgzn/ldxx/zyq/	1380
+刘望清		6		湖北省		https://kjt.hubei.gov.cn/zfxxgk_GK2020/xxgkml/jgzn/ldxx/#test	省人大常委会委员、教科文卫委员会副主任委员，省科技厅一级巡视员		湖北省科学技术厅	https://kjt.hubei.gov.cn/zfxxgk_GK2020/xxgkml/jgzn/ldxx/lwq/	1380
+葛琳		7		湖北省		https://kjt.hubei.gov.cn/zfxxgk_GK2020/xxgkml/jgzn/ldxx/#test	省人大常委会委员、财政经济委员会副主任委员，省科技厅一级巡视员		湖北省科学技术厅	https://kjt.hubei.gov.cn/zfxxgk_GK2020/xxgkml/jgzn/ldxx/gl/	1380

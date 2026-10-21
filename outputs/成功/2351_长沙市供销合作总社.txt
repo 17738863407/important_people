@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+潘虹		1		湖南省	长沙市	http://sgxs.changsha.gov.cn/zwgk_38219/fdzdgknr/jgxx/ldxx/	党组书记、理事会主任		长沙市供销合作总社	http://sgxs.changsha.gov.cn/zwgk_38219/fdzdgknr/jgxx/ldxx/201711/t20171121_2113269.htm	2351
+熊翠玲		2		湖南省	长沙市	http://sgxs.changsha.gov.cn/zwgk_38219/fdzdgknr/jgxx/ldxx/	党组成员、理事会副主任		长沙市供销合作总社	http://sgxs.changsha.gov.cn/zwgk_38219/fdzdgknr/jgxx/ldxx/202303/t20230323_11039169.htm	2351
+杨立		3		湖南省	长沙市	http://sgxs.changsha.gov.cn/zwgk_38219/fdzdgknr/jgxx/ldxx/	党组成员、监事会主任		长沙市供销合作总社	http://sgxs.changsha.gov.cn/zwgk_38219/fdzdgknr/jgxx/ldxx/201712/t20171218_2146883.htm	2351
+郭驰		4		湖南省	长沙市	http://sgxs.changsha.gov.cn/zwgk_38219/fdzdgknr/jgxx/ldxx/	党组成员、理事会副主任		长沙市供销合作总社	http://sgxs.changsha.gov.cn/zwgk_38219/fdzdgknr/jgxx/ldxx/202106/t20210611_10003887.htm	2351
+章成斌		5		湖南省	长沙市	http://sgxs.changsha.gov.cn/zwgk_38219/fdzdgknr/jgxx/ldxx/	党组成员、理事会副主任		长沙市供销合作总社	http://sgxs.changsha.gov.cn/zwgk_38219/fdzdgknr/jgxx/ldxx/202203/t20220309_10495901.htm	2351

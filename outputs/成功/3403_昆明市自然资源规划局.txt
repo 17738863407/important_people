@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+成志东		1		云南省	昆明市	https://zrzygh.km.gov.cn/zfxxgk/fdzdgknr/zfld/	2021年8月任昆明市自然资源和规划局党组副书记、昆明市土地矿产储备中心主任		昆明市自然资源规划局	https://zrzygh.km.gov.cn/c/2022-09-06/4398394.shtml	3403
+车俊宇		2		云南省	昆明市	https://zrzygh.km.gov.cn/zfxxgk/fdzdgknr/zfld/	2019年4月任昆明市自然资源和规划局副局长		昆明市自然资源规划局	https://zrzygh.km.gov.cn/c/2022-09-06/3552469.shtml	3403
+段文华		3		云南省	昆明市	https://zrzygh.km.gov.cn/zfxxgk/fdzdgknr/zfld/	2019年4月任昆明市自然资源和规划局党组成员、副局长		昆明市自然资源规划局	https://zrzygh.km.gov.cn/c/2022-09-06/3552470.shtml	3403
+白龙飞		4		云南省	昆明市	https://zrzygh.km.gov.cn/zfxxgk/fdzdgknr/zfld/	2022年8月任昆明市自然资源和规划局党组成员、副局长、昆明市自然资源和规划副总督查		昆明市自然资源规划局	https://zrzygh.km.gov.cn/c/2022-03-07/4584444.shtml	3403
+余良清		5		云南省	昆明市	https://zrzygh.km.gov.cn/zfxxgk/fdzdgknr/zfld/	2022年12月任昆明市纪委昆明市监委驻市自然资源规划局纪检监察组组长，2023年2月任昆明市自然资源和规划局党组成员		昆明市自然资源规划局	https://zrzygh.km.gov.cn/c/2023-03-07/4715628.shtml	3403
+王晓健		6		云南省	昆明市	https://zrzygh.km.gov.cn/zfxxgk/fdzdgknr/zfld/	2023年2月任昆明市自然资源和规划局党组成员、副局长		昆明市自然资源规划局	https://zrzygh.km.gov.cn/c/2023-03-07/4715630.shtml	3403
+周明		7		云南省	昆明市	https://zrzygh.km.gov.cn/zfxxgk/fdzdgknr/zfld/	2022年9月任专职昆明市自然资源和规划副总督查		昆明市自然资源规划局	https://zrzygh.km.gov.cn/c/2022-09-06/4584452.shtml	3403

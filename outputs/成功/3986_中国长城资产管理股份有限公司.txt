@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+向党		1		全国		https://www.gwamcc.com/Leader.aspx	党委书记、执行董事、董事长		中国长城资产管理股份有限公司		3986
+魏世平		2		全国		https://www.gwamcc.com/Leader.aspx	党委副书记、执行董事、副董事长、总裁		中国长城资产管理股份有限公司		3986
+胡永康		3		全国		https://www.gwamcc.com/Leader.aspx	党委副书记、执行董事		中国长城资产管理股份有限公司		3986
+姜姗		4		全国		https://www.gwamcc.com/Leader.aspx	党委委员、副总裁		中国长城资产管理股份有限公司		3986
+王成伟		5		全国		https://www.gwamcc.com/Leader.aspx	党委委员、纪委书记		中国长城资产管理股份有限公司		3986
+郑海阳		6		全国		https://www.gwamcc.com/Leader.aspx	党委委员、副总裁		中国长城资产管理股份有限公司		3986
+史剑		7		全国		https://www.gwamcc.com/Leader.aspx	党委委员、副总裁		中国长城资产管理股份有限公司		3986

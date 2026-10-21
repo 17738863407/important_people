@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郭怀刚		1		北京市		https://whlyj.beijing.gov.cn/zfxxgkpt/zdgk/jgzn/ldjl/#	北京市文化和旅游局党组书记、局长		北京市文化和旅游局		2877
+曹鹏程		2		北京市		https://whlyj.beijing.gov.cn/zfxxgkpt/zdgk/jgzn/ldjl/#	北京市文化和旅游局党组成员、北京市文化市场综合执法总队党委书记、总队长、一级巡视员		北京市文化和旅游局		2877
+林亮		3		北京市		https://whlyj.beijing.gov.cn/zfxxgkpt/zdgk/jgzn/ldjl/#	北京市文化和旅游局党组成员、副局长		北京市文化和旅游局		2877
+徐振涛		4		北京市		https://whlyj.beijing.gov.cn/zfxxgkpt/zdgk/jgzn/ldjl/#	北京市文化和旅游局党组成员、副局长		北京市文化和旅游局		2877
+孙健		5		北京市		https://whlyj.beijing.gov.cn/zfxxgkpt/zdgk/jgzn/ldjl/#	北京市文化和旅游局党组成员、副局长		北京市文化和旅游局		2877
+荣欣		6		北京市		https://whlyj.beijing.gov.cn/zfxxgkpt/zdgk/jgzn/ldjl/#	北京市文化和旅游局党组成员、市纪委市监委驻市文化和旅游局纪检监察组组长、二级高级监察官		北京市文化和旅游局		2877
+郑芳		7		北京市		https://whlyj.beijing.gov.cn/zfxxgkpt/zdgk/jgzn/ldjl/#	北京市文化和旅游局党组成员、副局长		北京市文化和旅游局		2877
+周丹妮		8		北京市		https://whlyj.beijing.gov.cn/zfxxgkpt/zdgk/jgzn/ldjl/#	北京市文化和旅游局副局长		北京市文化和旅游局		2877

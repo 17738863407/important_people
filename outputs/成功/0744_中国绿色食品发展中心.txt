@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刁新育		1		全国		http://www.greenfood.agri.cn/jgzn/zxld/202303/t20230327_7956164.htm	主任 党委副书记		中国绿色食品发展中心		0744
+唐泓		2		全国		http://www.greenfood.agri.cn/jgzn/zxld/202303/t20230327_7956164.htm	党委书记 副主任		中国绿色食品发展中心		0744
+张志华		3		全国		http://www.greenfood.agri.cn/jgzn/zxld/202303/t20230327_7956164.htm	总工程师 党委委员		中国绿色食品发展中心		0744
+王艳		4		全国		http://www.greenfood.agri.cn/jgzn/zxld/202303/t20230327_7956164.htm	纪委书记		中国绿色食品发展中心		0744

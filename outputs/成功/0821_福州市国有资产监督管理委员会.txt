@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+翁国平		1		福建省	福州市	https://gzw.fuzhou.gov.cn/zwgk/jggk/	党委书记、主任、一级调研员		福州市国有资产监督管理委员会	https://gzw.fuzhou.gov.cn/zwgk/jggk/ldzc/wgp/	0821
+陈宙泉		2		福建省	福州市	https://gzw.fuzhou.gov.cn/zwgk/jggk/	党委副书记、一级调研员		福州市国有资产监督管理委员会	https://gzw.fuzhou.gov.cn/zwgk/jggk/ldzc/czq/	0821
+刘勇		3		福建省	福州市	https://gzw.fuzhou.gov.cn/zwgk/jggk/	党委委员、机关党委书记、三级调研员		福州市国有资产监督管理委员会	https://gzw.fuzhou.gov.cn/zwgk/jggk/ldzc/ly/	0821
+陈建文		4		福建省	福州市	https://gzw.fuzhou.gov.cn/zwgk/jggk/	党委委员、副主任、三级调研员		福州市国有资产监督管理委员会	https://gzw.fuzhou.gov.cn/zwgk/jggk/ldzc/cjw/	0821
+林兆荣		5		福建省	福州市	https://gzw.fuzhou.gov.cn/zwgk/jggk/	党委委员、四级调研员		福州市国有资产监督管理委员会	https://gzw.fuzhou.gov.cn/zwgk/jggk/ldzc/lzr/	0821
+林世烽		6		福建省	福州市	https://gzw.fuzhou.gov.cn/zwgk/jggk/	党委委员、驻市国资委纪检监察组组长、四级高级监察官		福州市国有资产监督管理委员会	https://gzw.fuzhou.gov.cn/zwgk/jggk/ldzc/lsf/	0821
+陈颖		7		福建省	福州市	https://gzw.fuzhou.gov.cn/zwgk/jggk/	副主任		福州市国有资产监督管理委员会	https://gzw.fuzhou.gov.cn/zwgk/jggk/ldzc/cy/	0821
+李木春		8		福建省	福州市	https://gzw.fuzhou.gov.cn/zwgk/jggk/	副主任		福州市国有资产监督管理委员会	https://gzw.fuzhou.gov.cn/zwgk/jggk/ldzc/lmc/	0821
+辛晓		9		福建省	福州市	https://gzw.fuzhou.gov.cn/zwgk/jggk/	二级调研员		福州市国有资产监督管理委员会	https://gzw.fuzhou.gov.cn/zwgk/jggk/ldzc/xx/	0821
+江水月		10		福建省	福州市	https://gzw.fuzhou.gov.cn/zwgk/jggk/	驻市国资委纪检监察组三级调研员		福州市国有资产监督管理委员会	https://gzw.fuzhou.gov.cn/zwgk/jggk/ldzc/jsy/	0821
+林键		11		福建省	福州市	https://gzw.fuzhou.gov.cn/zwgk/jggk/	三级调研员		福州市国有资产监督管理委员会	https://gzw.fuzhou.gov.cn/zwgk/jggk/ldzc/lj/	0821

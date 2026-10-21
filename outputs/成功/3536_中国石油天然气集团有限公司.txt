@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+戴厚良		1		全国		https://www.cnpc.com.cn/cnpc/gltd/gltd_index.shtml	集团公司董事长、党组书记		中国石油天然气集团有限公司		3536
+周心怀		2		全国		https://www.cnpc.com.cn/cnpc/gltd/gltd_index.shtml	集团公司董事、总经理、党组副书记		中国石油天然气集团有限公司		3536
+段良伟		3		全国		https://www.cnpc.com.cn/cnpc/gltd/gltd_index.shtml	集团公司董事、党组副书记、工会主席		中国石油天然气集团有限公司		3536
+周松		4		全国		https://www.cnpc.com.cn/cnpc/gltd/gltd_index.shtml	集团公司党组成员、总会计师		中国石油天然气集团有限公司		3536
+任立新		5		全国		https://www.cnpc.com.cn/cnpc/gltd/gltd_index.shtml	集团公司党组成员、副总经理、安全总监		中国石油天然气集团有限公司		3536
+谢军		6		全国		https://www.cnpc.com.cn/cnpc/gltd/gltd_index.shtml	集团公司党组成员、副总经理		中国石油天然气集团有限公司		3536
+张道伟		7		全国		https://www.cnpc.com.cn/cnpc/gltd/gltd_index.shtml	集团公司党组成员、副总经理		中国石油天然气集团有限公司		3536
+宋大勇		8		全国		https://www.cnpc.com.cn/cnpc/gltd/gltd_index.shtml	集团公司党组成员、副总经理		中国石油天然气集团有限公司		3536

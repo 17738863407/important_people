@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈晓军		1		陕西省	西安市	http://xzspj.xa.gov.cn/zwgk/zzjg/bmldjfg/1.html	党组书记、局长		西安市行政审批服务局		3109
+张新鳌		2		陕西省	西安市	http://xzspj.xa.gov.cn/zwgk/zzjg/bmldjfg/1.html	党组成员、副局长		西安市行政审批服务局		3109
+曾国梅		3		陕西省	西安市	http://xzspj.xa.gov.cn/zwgk/zzjg/bmldjfg/1.html	党组成员、副局长		西安市行政审批服务局		3109
+汤勇军		4		陕西省	西安市	http://xzspj.xa.gov.cn/zwgk/zzjg/bmldjfg/1.html	一级调研员		西安市行政审批服务局		3109
+张𮧵		5		陕西省	西安市	http://xzspj.xa.gov.cn/zwgk/zzjg/bmldjfg/1.html	西安市政务服务中心主任（副局长级）		西安市行政审批服务局		3109
+赵雪琴		6		陕西省	西安市	http://xzspj.xa.gov.cn/zwgk/zzjg/bmldjfg/1.html	市政务中心副主任		西安市行政审批服务局		3109
+潘国富		7		陕西省	西安市	http://xzspj.xa.gov.cn/zwgk/zzjg/bmldjfg/1.html	市政务中心副主任		西安市行政审批服务局		3109

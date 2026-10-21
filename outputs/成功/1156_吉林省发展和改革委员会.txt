@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李平		1		吉林省		https://jldrc.jl.gov.cn/jggk/ldfg/	党组书记、主任		吉林省发展和改革委员会	https://jldrc.jl.gov.cn/jggk/ldfg/202604/t20260401_3599230.html	1156
+刘日昊		2		吉林省		https://jldrc.jl.gov.cn/jggk/ldfg/	党组成员、副主任，省长吉图办主任		吉林省发展和改革委员会	https://jldrc.jl.gov.cn/jggk/ldfg/202604/t20260401_3599229.html	1156
+赵彦峰		3		吉林省		https://jldrc.jl.gov.cn/jggk/ldfg/	省能源局局长、省发展改革委副主任		吉林省发展和改革委员会	https://jldrc.jl.gov.cn/jggk/ldfg/202604/t20260401_3599226.html	1156
+常忠诚		4		吉林省		https://jldrc.jl.gov.cn/jggk/ldfg/	党组成员、副主任，长春现代化都市圈建设推进领导小组办公室副主任		吉林省发展和改革委员会	https://jldrc.jl.gov.cn/jggk/ldfg/202609/t20260909_3669172.html	1156
+赵姝丽		5		吉林省		https://jldrc.jl.gov.cn/jggk/ldfg/	党组成员、副主任		吉林省发展和改革委员会	https://jldrc.jl.gov.cn/jggk/ldfg/202604/t20260401_3599225.html	1156
+易环宇		6		吉林省		https://jldrc.jl.gov.cn/jggk/ldfg/	党组成员、副主任		吉林省发展和改革委员会	https://jldrc.jl.gov.cn/jggk/ldfg/202604/t20260401_3599224.html	1156
+洪秀福		7		吉林省		https://jldrc.jl.gov.cn/jggk/ldfg/	党组成员、副主任		吉林省发展和改革委员会	https://jldrc.jl.gov.cn/jggk/ldfg/202604/t20260401_3599223.html	1156
+蔡文彬		8		吉林省		https://jldrc.jl.gov.cn/jggk/ldfg/	党组成员、驻委纪检监察组组长		吉林省发展和改革委员会	https://jldrc.jl.gov.cn/jggk/ldfg/202604/t20260401_3599228.html	1156
+董翔		9		吉林省		https://jldrc.jl.gov.cn/jggk/ldfg/	党组成员、副主任		吉林省发展和改革委员会	https://jldrc.jl.gov.cn/jggk/ldfg/202604/t20260401_3599227.html	1156
+戴丽莹		10		吉林省		https://jldrc.jl.gov.cn/jggk/ldfg/	总经济师、二级巡视员		吉林省发展和改革委员会	https://jldrc.jl.gov.cn/jggk/ldfg/202604/t20260401_3599222.html	1156
+李馨		11		吉林省		https://jldrc.jl.gov.cn/jggk/ldfg/	总工程师、一级调研员		吉林省发展和改革委员会	https://jldrc.jl.gov.cn/jggk/ldfg/202604/t20260401_3599221.html	1156

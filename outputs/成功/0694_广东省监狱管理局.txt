@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈贤亮		1		广东省		http://gdjyj.gd.gov.cn/zwgkn/zfxxgkml/zzjg/ldfg/index.html	省司法厅党委委员、局党委书记、局长		广东省监狱管理局	http://gdjyj.gd.gov.cn/zwgkn/zfxxgkml/zzjg/ldfg/content/post_4255292.html	0694
+林映坤		2		广东省		http://gdjyj.gd.gov.cn/zwgkn/zfxxgkml/zzjg/ldfg/index.html	局党委委员、二级巡视员、省广裕集团有限责任公司总经理		广东省监狱管理局	http://gdjyj.gd.gov.cn/zwgkn/zfxxgkml/zzjg/ldfg/content/post_2656898.html	0694
+刘任求		3		广东省		http://gdjyj.gd.gov.cn/zwgkn/zfxxgkml/zzjg/ldfg/index.html	局党委委员、副局长		广东省监狱管理局	http://gdjyj.gd.gov.cn/zwgkn/zfxxgkml/zzjg/ldfg/content/post_2656897.html	0694
+刘宝松		4		广东省		http://gdjyj.gd.gov.cn/zwgkn/zfxxgkml/zzjg/ldfg/index.html	局党委委员、纪委书记		广东省监狱管理局	http://gdjyj.gd.gov.cn/zwgkn/zfxxgkml/zzjg/ldfg/content/post_2656896.html	0694
+陈强义		5		广东省		http://gdjyj.gd.gov.cn/zwgkn/zfxxgkml/zzjg/ldfg/index.html	局党委委员、副局长		广东省监狱管理局	http://gdjyj.gd.gov.cn/zwgkn/zfxxgkml/zzjg/ldfg/content/post_3186836.html	0694
+全湘平		6		广东省		http://gdjyj.gd.gov.cn/zwgkn/zfxxgkml/zzjg/ldfg/index.html	局党委委员、副局长		广东省监狱管理局	http://gdjyj.gd.gov.cn/zwgkn/zfxxgkml/zzjg/ldfg/content/post_4694092.html	0694
+都贵均		7		广东省		http://gdjyj.gd.gov.cn/zwgkn/zfxxgkml/zzjg/ldfg/index.html	局党委委员、政治部主任		广东省监狱管理局	http://gdjyj.gd.gov.cn/zwgkn/zfxxgkml/zzjg/ldfg/content/post_4694098.html	0694

@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+麻承荣		1		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836513/index.html	党委书记、局长		杭州市市场监督管理局		0882
+林霄		2		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836513/index.html	党委委员、副局长		杭州市市场监督管理局		0882
+余梅芳		3		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836513/index.html	党委委员、副局长		杭州市市场监督管理局		0882
+张洪阁		4		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836513/index.html	党委委员、副局长		杭州市市场监督管理局		0882
+娄益元		5		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836513/index.html	党委委员、副局长		杭州市市场监督管理局		0882
+熊春来		6		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836513/index.html	党委委员、副局长		杭州市市场监督管理局		0882
+王建文		7		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836513/index.html	党委委员、二级巡视员		杭州市市场监督管理局		0882
+冯世联		8		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836513/index.html	二级巡视员		杭州市市场监督管理局		0882
+俞敏		9		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836513/index.html	二级巡视员		杭州市市场监督管理局		0882
+汪晓敏		10		浙江省	杭州市	https://www.hangzhou.gov.cn/col/col1229836513/index.html	一级调研员		杭州市市场监督管理局		0882

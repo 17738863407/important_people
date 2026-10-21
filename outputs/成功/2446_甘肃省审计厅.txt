@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郝文杰		1		甘肃省		https://sjt.gansu.gov.cn/sjt/c108702/xxgklmlb.shtml	省委审计委员会办公室主任，省审计厅党组书记、厅长		甘肃省审计厅	https://sjt.gansu.gov.cn/c108704/202208/2094148.shtml	2446
+陈炎人		2		甘肃省		https://sjt.gansu.gov.cn/sjt/c108702/xxgklmlb.shtml	省审计厅党组成员、副厅长		甘肃省审计厅	https://sjt.gansu.gov.cn/c108704/202108/1768250.shtml	2446
+张平平		3		甘肃省		https://sjt.gansu.gov.cn/sjt/c108702/xxgklmlb.shtml	省审计厅党组成员、副厅长		甘肃省审计厅	https://sjt.gansu.gov.cn/c108704/202401/173832475.shtml	2446
+杜明诗		4		甘肃省		https://sjt.gansu.gov.cn/sjt/c108702/xxgklmlb.shtml	省审计厅党组成员、副厅长		甘肃省审计厅	https://sjt.gansu.gov.cn/c108704/202308/169915182.shtml	2446
+李飞		5		甘肃省		https://sjt.gansu.gov.cn/sjt/c108702/xxgklmlb.shtml	省审计厅党组成员、总审计师		甘肃省审计厅	https://sjt.gansu.gov.cn/c108704/202509/174213697.shtml	2446
+王学文		6		甘肃省		https://sjt.gansu.gov.cn/sjt/c108702/xxgklmlb.shtml	省纪委监委派驻省审计厅纪检监察组组长、省审计厅党组成员		甘肃省审计厅	https://sjt.gansu.gov.cn/c108704/202607/174372605.shtml	2446
+徐明丽		7		甘肃省		https://sjt.gansu.gov.cn/sjt/c108702/xxgklmlb.shtml	一级总监		甘肃省审计厅	https://sjt.gansu.gov.cn/c108704/202308/528b1f810edd46dc9c1947a987d94d10.shtml	2446
+吴跟运		8		甘肃省		https://sjt.gansu.gov.cn/sjt/c108702/xxgklmlb.shtml	一级总监		甘肃省审计厅	https://sjt.gansu.gov.cn/c108704/202112/1908974.shtml	2446

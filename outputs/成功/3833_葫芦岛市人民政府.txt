@@ -1,0 +1,18 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+宁国军		1		辽宁省	葫芦岛市	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/	市长		葫芦岛市人民政府	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/shizhang/ngj/	3833
+刘占元		2		辽宁省	葫芦岛市	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/	副市长		葫芦岛市人民政府	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/fushizhang/lzy/	3833
+李伟航		3		辽宁省	葫芦岛市	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/	副市长		葫芦岛市人民政府	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/fushizhang/lwh/	3833
+范晶		4		辽宁省	葫芦岛市	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/	副市长		葫芦岛市人民政府	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/fushizhang/fanjing/	3833
+刘辉		5		辽宁省	葫芦岛市	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/	副市长		葫芦岛市人民政府	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/fushizhang/liuhui/	3833
+刘耀南		6		辽宁省	葫芦岛市	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/	副市长		葫芦岛市人民政府	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/fushizhang/lyn/	3833
+袁伶		7		辽宁省	葫芦岛市	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/	副市长		葫芦岛市人民政府	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/fushizhang/yl/	3833
+张祥波		8		辽宁省	葫芦岛市	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/	副市长		葫芦岛市人民政府	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/fushizhang/zhangxiangbo/	3833
+张猛		9		辽宁省	葫芦岛市	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/	副市长		葫芦岛市人民政府	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/fushizhang/zm/	3833
+李东		10		辽宁省	葫芦岛市	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/	秘书长		葫芦岛市人民政府	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/mishuzhang/ld/	3833
+孙阳		11		辽宁省	葫芦岛市	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/	副秘书长		葫芦岛市人民政府	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/fmsz/202609/t20260911_1248187.html	3833
+李旭		12		辽宁省	葫芦岛市	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/	副秘书长		葫芦岛市人民政府	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/fmsz/202609/t20260911_1248186.html	3833
+王超		13		辽宁省	葫芦岛市	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/	副秘书长		葫芦岛市人民政府	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/fmsz/202609/t20260911_1248185.html	3833
+王月娟		14		辽宁省	葫芦岛市	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/	副秘书长		葫芦岛市人民政府	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/fmsz/202609/t20260911_1248184.html	3833
+常啸		15		辽宁省	葫芦岛市	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/	副秘书长		葫芦岛市人民政府	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/fmsz/202609/t20260911_1248183.html	3833
+郑新鹏		16		辽宁省	葫芦岛市	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/	副秘书长		葫芦岛市人民政府	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/fmsz/202609/t20260911_1248182.html	3833
+季寒冰		17		辽宁省	葫芦岛市	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/	副秘书长		葫芦岛市人民政府	https://www.hld.gov.cn/zwgk/fdzdgknr/zfld/fmsz/202609/t20260911_1248181.html	3833

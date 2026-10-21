@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+尹力		1		全国		https://www.beijing.gov.cn/gongkai/sld/	书记		北京市委	https://www.beijing.gov.cn/gongkai/sld/swld/swsj/202211/t20221113_2857628.html	0115
+殷勇		2		全国		https://www.beijing.gov.cn/gongkai/sld/	副书记		北京市委	https://www.beijing.gov.cn/gongkai/sld/swld/swfsj/202207/t20220701_2761231.html	0115
+陈健		3		全国		https://www.beijing.gov.cn/gongkai/sld/	常委		北京市委	https://www.beijing.gov.cn/gongkai/sld/swld/swcw/202112/t20211201_2551518.html	0115
+李成林		4		全国		https://www.beijing.gov.cn/gongkai/sld/	常委		北京市委	https://www.beijing.gov.cn/gongkai/sld/swld/swcw/202506/t20250618_4116710.html	0115
+夏林茂		5		全国		https://www.beijing.gov.cn/gongkai/sld/	常委		北京市委	https://www.beijing.gov.cn/gongkai/sld/swld/swcw/202102/t20210210_2282290.html	0115
+靳伟		6		全国		https://www.beijing.gov.cn/gongkai/sld/	常委		北京市委	https://www.beijing.gov.cn/gongkai/sld/swld/swcw/202207/t20220701_2761191.html	0115
+孙军民		7		全国		https://www.beijing.gov.cn/gongkai/sld/	常委		北京市委	https://www.beijing.gov.cn/gongkai/sld/swld/swcw/202207/t20220701_2761151.html	0115
+赵磊		8		全国		https://www.beijing.gov.cn/gongkai/sld/	常委		北京市委	https://www.beijing.gov.cn/gongkai/sld/swld/swcw/202207/t20220701_2761154.html	0115
+于英杰		9		全国		https://www.beijing.gov.cn/gongkai/sld/	常委		北京市委	https://www.beijing.gov.cn/gongkai/sld/swld/swcw/202312/t20231228_3516463.html	0115
+朱军		10		全国		https://www.beijing.gov.cn/gongkai/sld/	常委		北京市委	https://www.beijing.gov.cn/gongkai/sld/swld/swcw/202409/t20240930_3909972.html	0115
+谈绪祥		11		全国		https://www.beijing.gov.cn/gongkai/sld/	常委		北京市委	https://www.beijing.gov.cn/gongkai/sld/swld/swcw/202412/t20241213_3965445.html	0115
+马骏		12		全国		https://www.beijing.gov.cn/gongkai/sld/	常委		北京市委	https://www.beijing.gov.cn/gongkai/sld/swld/swcw/202506/t20250627_4129944.html	0115

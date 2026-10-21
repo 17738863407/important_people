@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张浩然		1		贵州省		https://wsg.guizhou.gov.cn/zwgk/xxgkml/ldzc/ldjs_5982321/	党组书记、馆长		贵州省文史研究馆	https://wsg.guizhou.gov.cn/zwgk/xxgkml/ldzc/ldjs_5982321/202606/t20260621_90540576.html	2978
+张绍川		2		贵州省		https://wsg.guizhou.gov.cn/zwgk/xxgkml/ldzc/ldjs_5982321/	副馆长		贵州省文史研究馆	https://wsg.guizhou.gov.cn/zwgk/xxgkml/ldzc/ldjs_5982321/202505/t20250515_87875735.html	2978
+曾达		3		贵州省		https://wsg.guizhou.gov.cn/zwgk/xxgkml/ldzc/ldjs_5982321/	党组成员、副馆长		贵州省文史研究馆	https://wsg.guizhou.gov.cn/zwgk/xxgkml/ldzc/ldjs_5982321/202503/t20250325_87269034.html	2978
+成德义		4		贵州省		https://wsg.guizhou.gov.cn/zwgk/xxgkml/ldzc/ldjs_5982321/	党组成员、副馆长		贵州省文史研究馆	https://wsg.guizhou.gov.cn/zwgk/xxgkml/ldzc/ldjs_5982321/202503/t20250325_87269033.html	2978

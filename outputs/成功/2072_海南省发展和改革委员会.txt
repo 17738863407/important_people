@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+綦树利		1		海南省		http://plan.hainan.gov.cn/sfgw/0100/lingdao.shtml	党组书记、主任		海南省发展和改革委员会	http://plan.hainan.gov.cn/sfgw/0103/201809/5dc9f3cfef924593ba7501c0fee923dd.shtml	2072
+丛劲松		2		海南省		http://plan.hainan.gov.cn/sfgw/0100/lingdao.shtml	党组成员、副主任，海南省数据局局长		海南省发展和改革委员会	http://plan.hainan.gov.cn/sfgw/0103/202401/de1d37f371214daa84e2482237d19a5c.shtml	2072
+黄鹏		3		海南省		http://plan.hainan.gov.cn/sfgw/0100/lingdao.shtml	党组成员、副主任		海南省发展和改革委员会	http://plan.hainan.gov.cn/sfgw/0103/202411/4e56cfd1d26f4bfdaca9be5d8ebb4f57.shtml	2072
+李冠涛		4		海南省		http://plan.hainan.gov.cn/sfgw/0100/lingdao.shtml	党组成员、副主任		海南省发展和改革委员会	http://plan.hainan.gov.cn/sfgw/0103/202606/7e71936e70d04a32b49cc4882370d97c.shtml	2072
+江洪		5		海南省		http://plan.hainan.gov.cn/sfgw/0100/lingdao.shtml	党组成员、副主任		海南省发展和改革委员会	http://plan.hainan.gov.cn/sfgw/0103/202411/cb7b3d6b879c4de5b6212ad1b7b0f0d3.shtml	2072
+杨善华		6		海南省		http://plan.hainan.gov.cn/sfgw/0100/lingdao.shtml	党组成员、副主任		海南省发展和改革委员会	http://plan.hainan.gov.cn/sfgw/0103/202412/5a8916fff91c4a3486d0c0507d4683c6.shtml	2072
+许教春		7		海南省		http://plan.hainan.gov.cn/sfgw/0100/lingdao.shtml	党组成员、副主任，省委军民融合发展委员会办公室党组成员、副主任		海南省发展和改革委员会	http://plan.hainan.gov.cn/sfgw/0103/202311/935a708dfa7c40dba4b9350e5036c5eb.shtml	2072
+刘旭红		8		海南省		http://plan.hainan.gov.cn/sfgw/0100/lingdao.shtml	二级巡视员		海南省发展和改革委员会	http://plan.hainan.gov.cn/sfgw/0103/202506/a0d4219d039f427a83d756776cb3283c.shtml	2072

@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于进		1		全国		https://www.ndrctc.org.cn/gywm/xrld/	中心主任		国家发展和改革委员会培训中心（宣传中心）		3599
+周清		2		全国		https://www.ndrctc.org.cn/gywm/xrld/	中心副主任		国家发展和改革委员会培训中心（宣传中心）		3599
+陈艳		3		全国		https://www.ndrctc.org.cn/gywm/xrld/	党委专职副书记		国家发展和改革委员会培训中心（宣传中心）		3599
+江洪		4		全国		https://www.ndrctc.org.cn/gywm/xrld/	中心副主任		国家发展和改革委员会培训中心（宣传中心）		3599

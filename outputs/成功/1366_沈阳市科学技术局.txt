@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨洪颖		1		辽宁省	沈阳市	https://kjj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副局长		沈阳市科学技术局	https://kjj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bumenlingdao/202206/t20220628_3372481.html	1366
+张炯		2		辽宁省	沈阳市	https://kjj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副局长		沈阳市科学技术局	https://kjj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bumenlingdao/202501/t20250110_4794124.html	1366
+郑鹏		3		辽宁省	沈阳市	https://kjj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副局长		沈阳市科学技术局	https://kjj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bumenlingdao/202407/t20240702_4683973.html	1366
+李志勇		4		辽宁省	沈阳市	https://kjj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	二级巡视员		沈阳市科学技术局	https://kjj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bumenlingdao/202205/t20220524_3019351.html	1366

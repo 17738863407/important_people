@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+韩流		1		广西壮族自治区		http://jyt.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk/	自治区党委教育工委副书记，自治区教育厅党组书记、厅长，自治区党委教育工作领导小组办公室主任		广西壮族自治区教育厅	http://jyt.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk/ldjl/t27910634.shtml	1330
+农毅		2		广西壮族自治区		http://jyt.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk/	自治区教育厅党组成员、自治区纪委监委驻自治区教育厅纪检监察组组长		广西壮族自治区教育厅	http://jyt.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk/ldjl/t17351237.shtml	1330
+刘冰		3		广西壮族自治区		http://jyt.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk/	自治区教育厅党组成员,自治区招生考试院党委书记、院长		广西壮族自治区教育厅	http://jyt.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk/ldjl/t17350846.shtml	1330
+胡春柳		4		广西壮族自治区		http://jyt.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk/	自治区教育厅党组成员、副厅长		广西壮族自治区教育厅	http://jyt.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk/ldjl/t17993330.shtml	1330
+傅源方		5		广西壮族自治区		http://jyt.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk/	自治区教育厅党组成员、副厅长		广西壮族自治区教育厅	http://jyt.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk/ldjl/t21211510.shtml	1330
+潘旭阳		6		广西壮族自治区		http://jyt.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk/	自治区教育厅党组成员、副厅长		广西壮族自治区教育厅	http://jyt.gxzf.gov.cn/zfxxgk/fdzdgknr/jggk/ldjl/t25888078.shtml	1330

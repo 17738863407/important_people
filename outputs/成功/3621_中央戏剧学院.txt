@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+范绪锋		1		北京市		https://www.chntheatre.edu.cn/cn/survey.html	党委书记；党委常委		中央戏剧学院	https://www.chntheatre.edu.cn/detail/25175.html	3621
+徐永胜		2		北京市		https://www.chntheatre.edu.cn/cn/survey.html	院长；党委副书记；党委常委		中央戏剧学院	https://www.chntheatre.edu.cn/detail/51.html	3621
+靳燕		3		北京市		https://www.chntheatre.edu.cn/cn/survey.html	党委副书记；党委常委		中央戏剧学院	https://www.chntheatre.edu.cn/detail/21077.html	3621
+甘小军		4		北京市		https://www.chntheatre.edu.cn/cn/survey.html	党委副书记；纪委书记；党委常委		中央戏剧学院	https://www.chntheatre.edu.cn/detail/24301.html	3621
+宋英		5		北京市		https://www.chntheatre.edu.cn/cn/survey.html	副院长；党委常委		中央戏剧学院	https://www.chntheatre.edu.cn/detail/50.html	3621
+徐贞		6		北京市		https://www.chntheatre.edu.cn/cn/survey.html	副院长；党委常委		中央戏剧学院	https://www.chntheatre.edu.cn/detail/53.html	3621
+马晓		7		北京市		https://www.chntheatre.edu.cn/cn/survey.html	党委常委		中央戏剧学院	https://www.chntheatre.edu.cn/detail/21012.html	3621
+张东宾		8		北京市		https://www.chntheatre.edu.cn/cn/survey.html	党委常委		中央戏剧学院	https://www.chntheatre.edu.cn/detail/21013.html	3621
+陈雷		9		北京市		https://www.chntheatre.edu.cn/cn/survey.html	院长助理		中央戏剧学院	https://www.chntheatre.edu.cn/detail/56.html	3621

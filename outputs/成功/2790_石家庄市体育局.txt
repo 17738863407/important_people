@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+任维维		1		河北省	石家庄市	https://tyj.sjz.gov.cn/columns/9020c9fd-888d-4737-a475-4fe11c1dde6c/202601/12/2acfb247-2acc-4f47-9332-1292029a5ce5.html	党组书记、局长、一级调研员		石家庄市体育局		2790
+乔茜		2		河北省	石家庄市	https://tyj.sjz.gov.cn/columns/9020c9fd-888d-4737-a475-4fe11c1dde6c/202601/12/2acfb247-2acc-4f47-9332-1292029a5ce5.html	副局长、二级调研员		石家庄市体育局		2790
+宋连军		3		河北省	石家庄市	https://tyj.sjz.gov.cn/columns/9020c9fd-888d-4737-a475-4fe11c1dde6c/202601/12/2acfb247-2acc-4f47-9332-1292029a5ce5.html	党组成员、副局长、三级调研员		石家庄市体育局		2790
+苑斌		4		河北省	石家庄市	https://tyj.sjz.gov.cn/columns/9020c9fd-888d-4737-a475-4fe11c1dde6c/202601/12/2acfb247-2acc-4f47-9332-1292029a5ce5.html	党组成员、副局长		石家庄市体育局		2790
+赵敏生		5		河北省	石家庄市	https://tyj.sjz.gov.cn/columns/9020c9fd-888d-4737-a475-4fe11c1dde6c/202601/12/2acfb247-2acc-4f47-9332-1292029a5ce5.html	二级调研员		石家庄市体育局		2790
+杨振峰		6		河北省	石家庄市	https://tyj.sjz.gov.cn/columns/9020c9fd-888d-4737-a475-4fe11c1dde6c/202601/12/2acfb247-2acc-4f47-9332-1292029a5ce5.html	三级调研员		石家庄市体育局		2790
+杜俊杰		7		河北省	石家庄市	https://tyj.sjz.gov.cn/columns/9020c9fd-888d-4737-a475-4fe11c1dde6c/202601/12/2acfb247-2acc-4f47-9332-1292029a5ce5.html	三级调研员		石家庄市体育局		2790

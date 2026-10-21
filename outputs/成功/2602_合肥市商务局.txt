@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨有明		1		安徽省	合肥市	https://swj.hefei.gov.cn/public/column/18311?type=4&catId=7036024&action=list&nav=3	党组书记、局长、一级调研员		合肥市商务局	https://swj.hefei.gov.cn/public/18311/108892109.html	2602
+胡静		2		安徽省	合肥市	https://swj.hefei.gov.cn/public/column/18311?type=4&catId=7036024&action=list&nav=3	党组成员、市贸促会（市博览局）副会长（副局长）、三级调研员		合肥市商务局	https://swj.hefei.gov.cn/public/18311/108892118.html	2602
+余波		3		安徽省	合肥市	https://swj.hefei.gov.cn/public/column/18311?type=4&catId=7036024&action=list&nav=3	党组成员、副局长、三级调研员		合肥市商务局	https://swj.hefei.gov.cn/public/18311/109320706.html	2602
+马卫东		4		安徽省	合肥市	https://swj.hefei.gov.cn/public/column/18311?type=4&catId=7036024&action=list&nav=3	党组成员、副局长、三级调研员		合肥市商务局	https://swj.hefei.gov.cn/public/18311/108892121.html	2602
+陈玉雄		5		安徽省	合肥市	https://swj.hefei.gov.cn/public/column/18311?type=4&catId=7036024&action=list&nav=3	党组成员、副局长		合肥市商务局	https://swj.hefei.gov.cn/public/18311/108892124.html	2602
+杨桢		6		安徽省	合肥市	https://swj.hefei.gov.cn/public/column/18311?type=4&catId=7036024&action=list&nav=3	党组成员、市贸促会（市博览局）副会长（副局长）		合肥市商务局	https://swj.hefei.gov.cn/public/18311/109320721.html	2602
+黄桂兰		7		安徽省	合肥市	https://swj.hefei.gov.cn/public/column/18311?type=4&catId=7036024&action=list&nav=3	党组成员、副局长		合肥市商务局	https://swj.hefei.gov.cn/public/18311/110792744.html	2602
+饶金凤		8		安徽省	合肥市	https://swj.hefei.gov.cn/public/column/18311?type=4&catId=7036024&action=list&nav=3	副局长		合肥市商务局	https://swj.hefei.gov.cn/public/18311/110514618.html	2602
+刘伟		9		安徽省	合肥市	https://swj.hefei.gov.cn/public/column/18311?type=4&catId=7036024&action=list&nav=3	总会计师、三级调研员		合肥市商务局	https://swj.hefei.gov.cn/public/18311/108892127.html	2602
+崔霞		10		安徽省	合肥市	https://swj.hefei.gov.cn/public/column/18311?type=4&catId=7036024&action=list&nav=3	二级调研员		合肥市商务局	https://swj.hefei.gov.cn/public/18311/108892139.html	2602

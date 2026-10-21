@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄捷		1		云南省	昆明市	https://fzjz.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	局长		昆明市防震减灾局	https://fzjz.km.gov.cn/c/2024-04-22/4467977.shtml	0595
+郭沁		2		云南省	昆明市	https://fzjz.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	副局长		昆明市防震减灾局	https://fzjz.km.gov.cn/c/2024-04-22/4610943.shtml	0595
+黄玉林		3		云南省	昆明市	https://fzjz.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	副局长		昆明市防震减灾局	https://fzjz.km.gov.cn/c/2024-11-11/4914515.shtml	0595

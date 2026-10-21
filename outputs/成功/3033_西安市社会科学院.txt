@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高东新		1		陕西省	西安市	http://www.xass.org.cn/newsshow.php?cid=3&id=120	党组书记、院长		西安市社会科学院		3033
+蒋涛		2		陕西省	西安市	http://www.xass.org.cn/newsshow.php?cid=3&id=120	党组成员、副院长		西安市社会科学院		3033
+李博		3		陕西省	西安市	http://www.xass.org.cn/newsshow.php?cid=3&id=120	党组成员、副院长		西安市社会科学院		3033

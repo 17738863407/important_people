@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄婉		1		四川省	成都市	https://cdzj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市住房和城乡建设局党组书记、局长		成都市住房和城乡建设局	https://cdzj.chengdu.gov.cn/gkml/ldcy/1293970945349779456.shtml	0185
+熊健		2		四川省	成都市	https://cdzj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市住房和城乡建设局副局长		成都市住房和城乡建设局	https://cdzj.chengdu.gov.cn/gkml/ldcy/1314640909916176384.shtml	0185
+杨波		3		四川省	成都市	https://cdzj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市住房和城乡建设局党组成员、副局长、机关党委书记		成都市住房和城乡建设局	https://cdzj.chengdu.gov.cn/gkml/ldcy/1191740323903045632.shtml	0185
+张宏		4		四川省	成都市	https://cdzj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市住房和城乡建设局党组成员、副局长		成都市住房和城乡建设局	https://cdzj.chengdu.gov.cn/gkml/ldcy/1628219842580455424.shtml	0185
+陈建伟		5		四川省	成都市	https://cdzj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市住房和城乡建设局党组成员、副局长		成都市住房和城乡建设局	https://cdzj.chengdu.gov.cn/gkml/ldcy/1481585131805212672.shtml	0185
+江涛		6		四川省	成都市	https://cdzj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市住房和城乡建设局党组成员、市纪委监委驻市住建局纪检监察组组长、三级高级监察官		成都市住房和城乡建设局	https://cdzj.chengdu.gov.cn/gkml/ldcy/1453796417821736960.shtml	0185
+袁楷		7		四川省	成都市	https://cdzj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市住房和城乡建设局党组成员、副局长		成都市住房和城乡建设局	https://cdzj.chengdu.gov.cn/gkml/ldcy/1531975692613320704.shtml	0185
+刘波		8		四川省	成都市	https://cdzj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市住房和城乡建设局总工程师		成都市住房和城乡建设局	https://cdzj.chengdu.gov.cn/gkml/ldcy/1628219842035195904.shtml	0185
+王建新		9		四川省	成都市	https://cdzj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市住房和城乡建设局二级巡视员		成都市住房和城乡建设局	https://cdzj.chengdu.gov.cn/gkml/ldcy/1628219843117326336.shtml	0185
+李汝钊		10		四川省	成都市	https://cdzj.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市轨道建设工程保障中心主任		成都市住房和城乡建设局	https://cdzj.chengdu.gov.cn/gkml/ldcy/1412854971153514496.shtml	0185

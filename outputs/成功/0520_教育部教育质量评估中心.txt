@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐维清		1		全国		https://www.eqea.edu.cn/constitution.php?category_name=xrld	中心主任（正司级）		教育部教育质量评估中心		0520
+周爱军		2		全国		https://www.eqea.edu.cn/constitution.php?category_name=xrld	中心副主任（副司级）		教育部教育质量评估中心		0520
+江河		3		全国		https://www.eqea.edu.cn/constitution.php?category_name=xrld	中心副主任（副司级）		教育部教育质量评估中心		0520
+张勇		4		全国		https://www.eqea.edu.cn/constitution.php?category_name=xrld	中心副主任（副司级）		教育部教育质量评估中心		0520

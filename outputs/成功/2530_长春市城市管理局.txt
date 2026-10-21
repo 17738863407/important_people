@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王殿泉		1		吉林省	长春市	http://srhwj.changchun.gov.cn/xxgk/jgzn/ldxx/	长春市城市管理局（长春市城市管理行政执法局）党组成员、副局长		长春市城市管理局	http://srhwj.changchun.gov.cn/xxgk/jgzn/ldxx/202605/t20260511_3486424.html	2530
+张东雪		2		吉林省	长春市	http://srhwj.changchun.gov.cn/xxgk/jgzn/ldxx/	长春市城市管理局（长春市城市管理行政执法局）党组成员、副局长		长春市城市管理局	http://srhwj.changchun.gov.cn/xxgk/jgzn/ldxx/202605/t20260511_3486423.html	2530
+周鹤		3		吉林省	长春市	http://srhwj.changchun.gov.cn/xxgk/jgzn/ldxx/	长春市城市管理局（长春市城市管理行政执法局）党组书记、局长		长春市城市管理局	http://srhwj.changchun.gov.cn/xxgk/jgzn/ldxx/202511/t20251111_3439831.html	2530
+亓晓鹏		4		吉林省	长春市	http://srhwj.changchun.gov.cn/xxgk/jgzn/ldxx/	长春市城市管理局（长春市城市管理行政执法局）党组成员、副局长		长春市城市管理局	http://srhwj.changchun.gov.cn/xxgk/jgzn/ldxx/202510/t20251013_3433453.html	2530
+周建波		5		吉林省	长春市	http://srhwj.changchun.gov.cn/xxgk/jgzn/ldxx/	长春市城市管理局（长春市城市管理行政执法局）二级巡视员		长春市城市管理局	http://srhwj.changchun.gov.cn/xxgk/jgzn/ldxx/202001/t20200109_2069585.html	2530
+龙庆宽		6		吉林省	长春市	http://srhwj.changchun.gov.cn/xxgk/jgzn/ldxx/	长春市城市管理局（长春市城市管理行政执法局）二级巡视员		长春市城市管理局	http://srhwj.changchun.gov.cn/xxgk/jgzn/ldxx/202406/t20240625_3320130.html	2530

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐威		1		福建省		https://sthjt.fujian.gov.cn/gkxx/stld/xw/	党组书记、厅长		福建省生态环境厅		2568
+陈尚颖		2		福建省		https://sthjt.fujian.gov.cn/gkxx/stld/xw/	党组成员、纪检监察组组长		福建省生态环境厅	https://sthjt.fujian.gov.cn/gkxx/stld/csy/	2568
+张玉梅		3		福建省		https://sthjt.fujian.gov.cn/gkxx/stld/xw/	党组成员、副厅长		福建省生态环境厅	https://sthjt.fujian.gov.cn/gkxx/stld/zym/	2568
+魏良栋		4		福建省		https://sthjt.fujian.gov.cn/gkxx/stld/xw/	党组成员、副厅长		福建省生态环境厅	https://sthjt.fujian.gov.cn/gkxx/stld/wld/	2568
+彭国斌		5		福建省		https://sthjt.fujian.gov.cn/gkxx/stld/xw/	生态环境保护监察专员（副厅长级）		福建省生态环境厅	https://sthjt.fujian.gov.cn/gkxx/stld/pgb/	2568

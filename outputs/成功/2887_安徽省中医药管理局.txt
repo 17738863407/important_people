@@ -1,0 +1,3 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王卉晓		1		安徽省		https://wjw.ah.gov.cn/ztzl/zyygljzt/jldjs/index.html	省卫生健康委员会党组成员，省中医药管理局党组书记、局长		安徽省中医药管理局	https://wjw.ah.gov.cn/ztzl/zyygljzt/jldjs/57107491.html	2887
+邵东华		2		安徽省		https://wjw.ah.gov.cn/ztzl/zyygljzt/jldjs/index.html	省中医药管理局党组成员、副局长		安徽省中医药管理局	https://wjw.ah.gov.cn/ztzl/zyygljzt/jldjs/58325331.html	2887

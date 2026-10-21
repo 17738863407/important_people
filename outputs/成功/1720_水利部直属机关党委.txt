@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙高振		1		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	分管日常工作的副书记、巡视办主任		水利部直属机关党委		1720
+孙斐		2		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副书记、纪委书记（正司级）、巡视办副主任		水利部直属机关党委		1720
+李铭		3		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	巡视办专职副主任		水利部直属机关党委		1720
+何韵华		4		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副书记、巡视办副主任		水利部直属机关党委		1720
+何仕伟		5		全国		http://www.mwr.gov.cn/jg/zzjg/jgsj/	副书记、巡视办副主任		水利部直属机关党委		1720

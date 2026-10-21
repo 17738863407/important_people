@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+神法军		1		山东省	济南市	http://jnsafety.jinan.gov.cn/col29125/art/2026/art_29125_4778012.html	济南市应急管理局党委书记、局长		济南市应急管理局		1183
+刘春强		2		山东省	济南市	http://jnsafety.jinan.gov.cn/col29125/art/2026/art_29125_4778012.html	济南市应急管理局党委副书记、副局长		济南市应急管理局		1183
+刘慕平		3		山东省	济南市	http://jnsafety.jinan.gov.cn/col29125/art/2026/art_29125_4778012.html	济南市应急管理局党委委员、副局长		济南市应急管理局		1183
+崔健		4		山东省	济南市	http://jnsafety.jinan.gov.cn/col29125/art/2026/art_29125_4778012.html	济南市应急管理局党委委员、副局长		济南市应急管理局		1183
+孟国锋		5		山东省	济南市	http://jnsafety.jinan.gov.cn/col29125/art/2026/art_29125_4778012.html	济南市应急管理局党委委员、副局长		济南市应急管理局		1183
+甄忠		6		山东省	济南市	http://jnsafety.jinan.gov.cn/col29125/art/2026/art_29125_4778012.html	济南市应急管理局党委委员、市应急管理综合行政执法支队支队长		济南市应急管理局		1183
+王龙跃		7		山东省	济南市	http://jnsafety.jinan.gov.cn/col29125/art/2026/art_29125_4778012.html	济南市应急管理局党委委员、副局长		济南市应急管理局		1183
+王联华		8		山东省	济南市	http://jnsafety.jinan.gov.cn/col29125/art/2026/art_29125_4778012.html	济南市应急管理局二级巡视员		济南市应急管理局		1183
+程勤芳		9		山东省	济南市	http://jnsafety.jinan.gov.cn/col29125/art/2026/art_29125_4778012.html	济南市应急管理局二级巡视员		济南市应急管理局		1183

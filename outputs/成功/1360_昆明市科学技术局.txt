@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李瑞林		1		云南省	昆明市	https://kjj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	党组书记		昆明市科学技术局	https://kjj.km.gov.cn/c/2026-09-28/5116059.shtml	1360
+朱燕		2		云南省	昆明市	https://kjj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	副局长		昆明市科学技术局	https://kjj.km.gov.cn/c/2025-09-19/4581819.shtml	1360
+黄文浩		3		云南省	昆明市	https://kjj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	副局长		昆明市科学技术局	https://kjj.km.gov.cn/c/2026-03-17/4581790.shtml	1360
+陆佳		4		云南省	昆明市	https://kjj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	副局长		昆明市科学技术局	https://kjj.km.gov.cn/c/2025-09-19/4581779.shtml	1360

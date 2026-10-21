@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴洁静		1		浙江省	杭州市	https://hrss.hangzhou.gov.cn/col/col1229230679/index.html	杭州市人力资源和社会保障局党组书记、局长		杭州市人力资源和社会保障局	https://hrss.hangzhou.gov.cn/art/2024/8/23/art_1229230679_120120.html	1013
+杨焕		2		浙江省	杭州市	https://hrss.hangzhou.gov.cn/col/col1229230679/index.html	杭州市人力资源和社会保障局党组成员、副局长		杭州市人力资源和社会保障局	https://hrss.hangzhou.gov.cn/art/2024/8/23/art_1229230679_97307.html	1013
+徐明		3		浙江省	杭州市	https://hrss.hangzhou.gov.cn/col/col1229230679/index.html	杭州市人力资源和社会保障局党组成员、副局长		杭州市人力资源和社会保障局	https://hrss.hangzhou.gov.cn/art/2024/8/23/art_1229230679_26910.html	1013
+赵文建		4		浙江省	杭州市	https://hrss.hangzhou.gov.cn/col/col1229230679/index.html	杭州市人力资源和社会保障局党组成员、副局长		杭州市人力资源和社会保障局	https://hrss.hangzhou.gov.cn/art/2024/8/23/art_1229230679_154284.html	1013
+孟飞		5		浙江省	杭州市	https://hrss.hangzhou.gov.cn/col/col1229230679/index.html	市就业管理服务中心党委书记、主任		杭州市人力资源和社会保障局	https://hrss.hangzhou.gov.cn/art/2024/12/24/art_1229230679_163905.html	1013
+叶蔚华		6		浙江省	杭州市	https://hrss.hangzhou.gov.cn/col/col1229230679/index.html	市社会保险管理服务中心党委书记、主任		杭州市人力资源和社会保障局	https://hrss.hangzhou.gov.cn/art/2024/9/27/art_1229230679_26916.html	1013
+张锦		7		浙江省	杭州市	https://hrss.hangzhou.gov.cn/col/col1229230679/index.html	市人才管理服务中心（市人事考试院）党委书记、主任（院长）		杭州市人力资源和社会保障局	https://hrss.hangzhou.gov.cn/art/2024/8/23/art_1229230679_163907.html	1013
+刘志勇		8		浙江省	杭州市	https://hrss.hangzhou.gov.cn/col/col1229230679/index.html	杭州市人力资源和社会保障局二级巡视员		杭州市人力资源和社会保障局	https://hrss.hangzhou.gov.cn/art/2024/8/23/art_1229230679_26913.html	1013
+宣向东		9		浙江省	杭州市	https://hrss.hangzhou.gov.cn/col/col1229230679/index.html	二级巡视员		杭州市人力资源和社会保障局	https://hrss.hangzhou.gov.cn/art/2024/8/23/art_1229230679_26912.html	1013
+单黎霞		10		浙江省	杭州市	https://hrss.hangzhou.gov.cn/col/col1229230679/index.html	杭州市人力资源和社会保障局二级巡视员		杭州市人力资源和社会保障局	https://hrss.hangzhou.gov.cn/art/2024/8/23/art_1229230679_26915.html	1013
+钱斌		11		浙江省	杭州市	https://hrss.hangzhou.gov.cn/col/col1229230679/index.html	杭州市人力资源和社会保障局二级巡视员		杭州市人力资源和社会保障局	https://hrss.hangzhou.gov.cn/art/2024/8/23/art_1229230679_26911.html	1013

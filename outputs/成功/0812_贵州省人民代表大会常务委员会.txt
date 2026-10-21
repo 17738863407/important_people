@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐麟		1		全国		https://www.gzrd.gov.cn/zrzc/xl/	主任		贵州省人民代表大会常务委员会		0812
+陶长海		2		全国		https://www.gzrd.gov.cn/zrzc/xl/	副主任		贵州省人民代表大会常务委员会	https://www.gzrd.gov.cn/zrzc/tch/	0812
+吴强		3		全国		https://www.gzrd.gov.cn/zrzc/xl/	副主任		贵州省人民代表大会常务委员会	https://www.gzrd.gov.cn/zrzc/wq/	0812
+王世杰		4		全国		https://www.gzrd.gov.cn/zrzc/xl/	副主任		贵州省人民代表大会常务委员会	https://www.gzrd.gov.cn/zrzc/wsj/	0812
+桑维亮		5		全国		https://www.gzrd.gov.cn/zrzc/xl/	副主任		贵州省人民代表大会常务委员会	https://www.gzrd.gov.cn/zrzc/swl/	0812
+王忠		6		全国		https://www.gzrd.gov.cn/zrzc/xl/	副主任		贵州省人民代表大会常务委员会	https://www.gzrd.gov.cn/zrzc/wz/	0812
+杨永英		7		全国		https://www.gzrd.gov.cn/zrzc/xl/	副主任		贵州省人民代表大会常务委员会	https://www.gzrd.gov.cn/zrzc/yyy/	0812
+李豫贵		8		全国		https://www.gzrd.gov.cn/zrzc/xl/	副主任		贵州省人民代表大会常务委员会	https://www.gzrd.gov.cn/zrzc/lyg/	0812

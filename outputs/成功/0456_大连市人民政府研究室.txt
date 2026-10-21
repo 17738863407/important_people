@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+程安生		1		辽宁省	大连市	https://www.dl.gov.cn/col/col9122/index.html?vc_xxgkarea=2103000003&number=DL014&jh=263	大连市人民政府研究室党组书记、主任		大连市人民政府研究室	https://www.dl.gov.cn/art/2025/10/11/art_9123_2389684.html	0456
+杨大海		2		辽宁省	大连市	https://www.dl.gov.cn/col/col9122/index.html?vc_xxgkarea=2103000003&number=DL014&jh=263	大连市人民政府研究室党组成员、副主任		大连市人民政府研究室	https://www.dl.gov.cn/art/2025/10/11/art_9123_2087008.html	0456
+王树坤		3		辽宁省	大连市	https://www.dl.gov.cn/col/col9122/index.html?vc_xxgkarea=2103000003&number=DL014&jh=263	大连市人民政府研究室党组成员、副主任		大连市人民政府研究室	https://www.dl.gov.cn/art/2025/10/11/art_9123_2087006.html	0456

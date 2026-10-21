@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+许忠华		1		江西省		http://jxjr.jiangxi.gov.cn/jxsdfjrjdglj/col/col80045/content/content_1854359224165527552.html	省委金融办分管日常工作的副主任、省委金融工委分管日常工作的副书记、省地方金融管理局局长		江西省地方金融管理局	http://jxjr.jiangxi.gov.cn/jxsdfjrjdglj/col/col80045/content/content_1854359224165527552.html	1282
+邹常军		2		江西省		http://jxjr.jiangxi.gov.cn/jxsdfjrjdglj/col/col80045/content/content_1854359224165527552.html	省委金融办副主任、省委金融工委副书记		江西省地方金融管理局	http://jxjr.jiangxi.gov.cn/jxsdfjrjdglj/col/col85290/content/content_1854359542693556224.html	1282
+李楠		3		江西省		http://jxjr.jiangxi.gov.cn/jxsdfjrjdglj/col/col80045/content/content_1854359224165527552.html	省委金融办副主任、省委金融工委副书记、省地方金融管理局副局长		江西省地方金融管理局	http://jxjr.jiangxi.gov.cn/jxsdfjrjdglj/col/col89168/content/content_1976216985450881024.html	1282

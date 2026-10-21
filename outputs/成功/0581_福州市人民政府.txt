@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴贤德		1		福建省	福州市	https://www.fuzhou.gov.cn/zwgk/ldzc/wxd/	福州市委副书记，市人民政府党组书记、市长，福州新区管委会主任		福州市人民政府		0581
+张定锋		2		福建省	福州市	https://www.fuzhou.gov.cn/zwgk/ldzc/wxd/	福州市委常委，市人民政府党组副书记、常务副市长		福州市人民政府	https://www.fuzhou.gov.cn/zwgk/ldzc/zdf/	0581
+肖进才		3		福建省	福州市	https://www.fuzhou.gov.cn/zwgk/ldzc/wxd/	福州市人民政府党组成员、副市长，市公安局党委书记、局长、督察长，市委政法委副书记		福州市人民政府	https://www.fuzhou.gov.cn/zwgk/ldzc/xjc/	0581
+郑鸿		4		福建省	福州市	https://www.fuzhou.gov.cn/zwgk/ldzc/wxd/	福州市人民政府党组成员、副市长		福州市人民政府	https://www.fuzhou.gov.cn/zwgk/ldzc/zh/	0581
+赵明正		5		福建省	福州市	https://www.fuzhou.gov.cn/zwgk/ldzc/wxd/	福州市人民政府党组成员、副市长		福州市人民政府	https://www.fuzhou.gov.cn/zwgk/ldzc/zmz/	0581
+梁栋		6		福建省	福州市	https://www.fuzhou.gov.cn/zwgk/ldzc/wxd/	福州市人民政府党组成员、副市长		福州市人民政府	https://www.fuzhou.gov.cn/zwgk/ldzc/ld/	0581
+林锋		7		福建省	福州市	https://www.fuzhou.gov.cn/zwgk/ldzc/wxd/	福州市人民政府副市长，民革福建省委会副主委、福州市委会主委		福州市人民政府	https://www.fuzhou.gov.cn/zwgk/ldzc/lf/	0581
+许用贵		8		福建省	福州市	https://www.fuzhou.gov.cn/zwgk/ldzc/wxd/	福州市人民政府党组成员、副市长，市红十字会会长		福州市人民政府	https://www.fuzhou.gov.cn/zwgk/ldzc/xyg/	0581
+胡旭彬		9		福建省	福州市	https://www.fuzhou.gov.cn/zwgk/ldzc/wxd/	福州市人民政府党组成员，福州新区党工委委员、管委会分管日常工作的副主任（正厅长级），长乐区委副书记、区政府区长候选人		福州市人民政府	https://www.fuzhou.gov.cn/zwgk/ldzc/hxb/	0581
+许剑锋		10		福建省	福州市	https://www.fuzhou.gov.cn/zwgk/ldzc/wxd/	福州市人民政府党组成员、秘书长		福州市人民政府	https://www.fuzhou.gov.cn/zwgk/ldzc/xjf/	0581

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+苏辉		1		全国		https://www.taimeng.org.cn/tmly/xrld/	主席		台湾民主自治同盟	https://www.taimeng.org.cn/tmly/xrld/202403/t20240325_407671.html	2683
+吴国华		2		全国		https://www.taimeng.org.cn/tmly/xrld/	副主席		台湾民主自治同盟	https://www.taimeng.org.cn/tmly/xrld/202402/t20240226_400766.html	2683
+郑建闽		3		全国		https://www.taimeng.org.cn/tmly/xrld/	副主席		台湾民主自治同盟	https://www.taimeng.org.cn/tmly/xrld/202402/t20240226_400765.html	2683
+江利平		4		全国		https://www.taimeng.org.cn/tmly/xrld/	副主席		台湾民主自治同盟	https://www.taimeng.org.cn/tmly/xrld/202402/t20240226_400763.html	2683
+孔令智		5		全国		https://www.taimeng.org.cn/tmly/xrld/	副主席		台湾民主自治同盟	https://www.taimeng.org.cn/tmly/xrld/202402/t20240226_400762.html	2683
+符之冠		6		全国		https://www.taimeng.org.cn/tmly/xrld/	副主席		台湾民主自治同盟	https://www.taimeng.org.cn/tmly/xrld/202402/t20240226_400761.html	2683

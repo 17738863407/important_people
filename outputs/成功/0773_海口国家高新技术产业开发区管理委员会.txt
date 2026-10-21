@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李杉		1		海南省	海口市	https://gxq.haikou.gov.cn/jgjs/ldxx/	海口国家高新技术产业开发区工委书记		海口国家高新技术产业开发区管理委员会	https://gxq.haikou.gov.cn/jgjs/ldxx/202203/t667494.shtml	0773
+侯金赋		2		海南省	海口市	https://gxq.haikou.gov.cn/jgjs/ldxx/	海口国家高新技术产业开发区工委副书记、管委会主任		海口国家高新技术产业开发区管理委员会	https://gxq.haikou.gov.cn/jgjs/ldxx/202608/t1539809.shtml	0773
+陈量子		3		海南省	海口市	https://gxq.haikou.gov.cn/jgjs/ldxx/	海口国家高新技术产业开发区工委副书记、一级调研员		海口国家高新技术产业开发区管理委员会	https://gxq.haikou.gov.cn/jgjs/ldxx/202404/t1352329.shtml	0773
+宁瑜晖		4		海南省	海口市	https://gxq.haikou.gov.cn/jgjs/ldxx/	海口国家高新技术产业开发区工委委员、管委会副主任		海口国家高新技术产业开发区管理委员会	https://gxq.haikou.gov.cn/jgjs/ldxx/202311/t1326357.shtml	0773
+许鸿楷		5		海南省	海口市	https://gxq.haikou.gov.cn/jgjs/ldxx/	海口国家高新技术产业开发区工委委员、管委会副主任、三级调研员		海口国家高新技术产业开发区管理委员会	https://gxq.haikou.gov.cn/jgjs/ldxx/202605/t1527987.shtml	0773
+吴至俊		6		海南省	海口市	https://gxq.haikou.gov.cn/jgjs/ldxx/	海口国家高新技术产业开发区工委委员、管委会副主任		海口国家高新技术产业开发区管理委员会	https://gxq.haikou.gov.cn/jgjs/ldxx/202301/t1221920.shtml	0773
+林怡		7		海南省	海口市	https://gxq.haikou.gov.cn/jgjs/ldxx/	海口国家高新技术产业开发区工委委员、管委会副主任		海口国家高新技术产业开发区管理委员会	https://gxq.haikou.gov.cn/jgjs/ldxx/202406/t1364978.shtml	0773

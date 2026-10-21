@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+宣圣进		1		安徽省	合肥市	https://gfdy.hefei.gov.cn/public/column/5531?type=4&catId=7036024&action=list&nav=3	党组书记、主任		合肥市国防动员办公室	https://gfdy.hefei.gov.cn/public/5531/109928247.html	0701
+刘丹		2		安徽省	合肥市	https://gfdy.hefei.gov.cn/public/column/5531?type=4&catId=7036024&action=list&nav=3	党组成员、副主任		合肥市国防动员办公室	https://gfdy.hefei.gov.cn/public/5531/109929245.html	0701
+张汉田		3		安徽省	合肥市	https://gfdy.hefei.gov.cn/public/column/5531?type=4&catId=7036024&action=list&nav=3	党组成员、副主任		合肥市国防动员办公室	https://gfdy.hefei.gov.cn/public/5531/109929276.html	0701
+刘春		4		安徽省	合肥市	https://gfdy.hefei.gov.cn/public/column/5531?type=4&catId=7036024&action=list&nav=3	党组成员、副主任		合肥市国防动员办公室	https://gfdy.hefei.gov.cn/public/5531/110823235.html	0701
+邹金海		5		安徽省	合肥市	https://gfdy.hefei.gov.cn/public/column/5531?type=4&catId=7036024&action=list&nav=3	总工程师		合肥市国防动员办公室	https://gfdy.hefei.gov.cn/public/5531/109929284.html	0701
+郭孝成		6		安徽省	合肥市	https://gfdy.hefei.gov.cn/public/column/5531?type=4&catId=7036024&action=list&nav=3	二级调研员		合肥市国防动员办公室	https://gfdy.hefei.gov.cn/public/5531/109929303.html	0701

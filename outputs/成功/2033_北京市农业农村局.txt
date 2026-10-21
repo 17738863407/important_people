@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨建海		1		北京市		https://nyncj.beijing.gov.cn/nyj/zwgk/jgzn/ldjs/index.html	书记、局长		北京市农业农村局		2033
+高云峰		2		北京市		https://nyncj.beijing.gov.cn/nyj/zwgk/jgzn/ldjs/index.html	一级巡视员		北京市农业农村局		2033
+姚忠阳		3		北京市		https://nyncj.beijing.gov.cn/nyj/zwgk/jgzn/ldjs/index.html	副书记、副局长、一级巡视员		北京市农业农村局		2033
+张华		4		北京市		https://nyncj.beijing.gov.cn/nyj/zwgk/jgzn/ldjs/index.html	工委委员、保留正局长级待遇		北京市农业农村局		2033
+张士功		5		北京市		https://nyncj.beijing.gov.cn/nyj/zwgk/jgzn/ldjs/index.html	工委委员、专职副主任		北京市农业农村局		2033
+谭继东		6		北京市		https://nyncj.beijing.gov.cn/nyj/zwgk/jgzn/ldjs/index.html	工委委员、纪检监察组组长		北京市农业农村局		2033
+陈连武		7		北京市		https://nyncj.beijing.gov.cn/nyj/zwgk/jgzn/ldjs/index.html	工委委员、副局长		北京市农业农村局		2033
+张正伟		8		北京市		https://nyncj.beijing.gov.cn/nyj/zwgk/jgzn/ldjs/index.html	工委委员、副局长		北京市农业农村局		2033
+邱睿		9		北京市		https://nyncj.beijing.gov.cn/nyj/zwgk/jgzn/ldjs/index.html	工委委员、副局长		北京市农业农村局		2033
+王修达		10		北京市		https://nyncj.beijing.gov.cn/nyj/zwgk/jgzn/ldjs/index.html	二级巡视员		北京市农业农村局		2033

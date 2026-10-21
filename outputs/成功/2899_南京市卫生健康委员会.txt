@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+唐伯才		1		江苏省	南京市	https://wjw.nanjing.gov.cn/njswshjhsywyh/?id=xxgk_215	南京市卫生健康委员会主任、党委书记。		南京市卫生健康委员会		2899
+王静		2		江苏省	南京市	https://wjw.nanjing.gov.cn/njswshjhsywyh/?id=xxgk_215	南京市卫生健康委员会副主任、党委委员、二级巡视员。		南京市卫生健康委员会		2899
+王安琴		3		江苏省	南京市	https://wjw.nanjing.gov.cn/njswshjhsywyh/?id=xxgk_215	南京市卫生健康委员会副主任。		南京市卫生健康委员会		2899
+杨大锁		4		江苏省	南京市	https://wjw.nanjing.gov.cn/njswshjhsywyh/?id=xxgk_215	南京市卫生健康委员会副主任、党委委员。		南京市卫生健康委员会		2899
+岳飙		5		江苏省	南京市	https://wjw.nanjing.gov.cn/njswshjhsywyh/?id=xxgk_215	南京市纪委监委派驻市卫生健康委员会纪检监察组组长、南京市卫生健康委员会党委委员。		南京市卫生健康委员会		2899
+李传军		6		江苏省	南京市	https://wjw.nanjing.gov.cn/njswshjhsywyh/?id=xxgk_215	南京市卫生健康委员会副主任、党委委员，南京市疾病预防控制局局长。		南京市卫生健康委员会		2899
+周楠		7		江苏省	南京市	https://wjw.nanjing.gov.cn/njswshjhsywyh/?id=xxgk_215	南京市卫生健康委员会副主任、党委委员。		南京市卫生健康委员会		2899
+袁先友		8		江苏省	南京市	https://wjw.nanjing.gov.cn/njswshjhsywyh/?id=xxgk_215	南京市卫生健康委员会一级调研员（市管）。		南京市卫生健康委员会		2899
+沈军洪		9		江苏省	南京市	https://wjw.nanjing.gov.cn/njswshjhsywyh/?id=xxgk_215	南京市卫生健康委员会一级调研员（市管）。		南京市卫生健康委员会		2899

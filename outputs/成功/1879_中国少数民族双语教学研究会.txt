@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+钟进文		1		全国		https://www.neac.gov.cn/seac/mwjs/ssmzsyjx/jgrysz.shtml	会长；中央民族大学中国少数民族语言文学学院院长		中国少数民族双语教学研究会		1879
+艾尔肯·阿热孜		2		全国		https://www.neac.gov.cn/seac/mwjs/ssmzsyjx/jgrysz.shtml	副会长；中央民族大学中国少数民族语言文学学院副院长		中国少数民族双语教学研究会		1879
+丁石庆		3		全国		https://www.neac.gov.cn/seac/mwjs/ssmzsyjx/jgrysz.shtml	副会长；中央民族大学中国少数民族语言研究院教授		中国少数民族双语教学研究会		1879
+关辛秋		4		全国		https://www.neac.gov.cn/seac/mwjs/ssmzsyjx/jgrysz.shtml	副会长；中央民族大学中国少数民族语言文学学院教		中国少数民族双语教学研究会		1879
+刘劲荣		5		全国		https://www.neac.gov.cn/seac/mwjs/ssmzsyjx/jgrysz.shtml	副会长；云南民族大学民族研究所教授		中国少数民族双语教学研究会		1879
+马锦卫		6		全国		https://www.neac.gov.cn/seac/mwjs/ssmzsyjx/jgrysz.shtml	副会长；西南民族大学西南民族研究院教授		中国少数民族双语教学研究会		1879
+蒙元耀		7		全国		https://www.neac.gov.cn/seac/mwjs/ssmzsyjx/jgrysz.shtml	副会长；广西民族大学文学院教授		中国少数民族双语教学研究会		1879
+苏德		8		全国		https://www.neac.gov.cn/seac/mwjs/ssmzsyjx/jgrysz.shtml	副会长；中央民族大学教育学院党委书记		中国少数民族双语教学研究会		1879
+武启云		9		全国		https://www.neac.gov.cn/seac/mwjs/ssmzsyjx/jgrysz.shtml	副会长；青海师范大学发展规划处处长		中国少数民族双语教学研究会		1879
+郑旺全		10		全国		https://www.neac.gov.cn/seac/mwjs/ssmzsyjx/jgrysz.shtml	副会长；人民教育出版社副总编辑		中国少数民族双语教学研究会		1879
+周国炎		11		全国		https://www.neac.gov.cn/seac/mwjs/ssmzsyjx/jgrysz.shtml	副会长；中央民族大学中国少数民族语言研究院副院长		中国少数民族双语教学研究会		1879
+周庆生		12		全国		https://www.neac.gov.cn/seac/mwjs/ssmzsyjx/jgrysz.shtml	副会长；中国社会科学院民族学与人类学研究所教授		中国少数民族双语教学研究会		1879
+苗东霞		13		全国		https://www.neac.gov.cn/seac/mwjs/ssmzsyjx/jgrysz.shtml	秘书长、法定代表人；中央民族大学中国少数民族语言文学学院教授		中国少数民族双语教学研究会		1879

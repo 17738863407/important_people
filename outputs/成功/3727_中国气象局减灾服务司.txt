@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王亚伟		1		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/nsjg/202008/t20200826_4633639.html	司长		中国气象局减灾服务司		3727
+刘波		2		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/nsjg/202008/t20200826_4633639.html	副司长（副局级）		中国气象局减灾服务司		3727
+张迪		3		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/nsjg/202008/t20200826_4633639.html	副司长；二级巡视员		中国气象局减灾服务司		3727

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王振利		1		河南省		https://hnsswt.henan.gov.cn/jgsz/	党组书记、厅长		河南省商务厅	https://hnsswt.henan.gov.cn/jgsz/tld/wzl/	0999
+丁昌盛		2		河南省		https://hnsswt.henan.gov.cn/jgsz/	纪检监察组长、党组成员		河南省商务厅	https://hnsswt.henan.gov.cn/jgsz/tld/lq/	0999
+王军		3		河南省		https://hnsswt.henan.gov.cn/jgsz/	党组成员、副厅长		河南省商务厅	https://hnsswt.henan.gov.cn/jgsz/tld/wj/	0999
+宋玉哲		4		河南省		https://hnsswt.henan.gov.cn/jgsz/	党组成员、副厅长		河南省商务厅	https://hnsswt.henan.gov.cn/jgsz/tld/syz/	0999
+井鹏		5		河南省		https://hnsswt.henan.gov.cn/jgsz/	党组成员、副厅长		河南省商务厅	https://hnsswt.henan.gov.cn/jgsz/tld/jp/	0999
+张大幸		6		河南省		https://hnsswt.henan.gov.cn/jgsz/	党组成员、副厅长		河南省商务厅	https://hnsswt.henan.gov.cn/jgsz/tld/zdx/	0999
+王鑫		7		河南省		https://hnsswt.henan.gov.cn/jgsz/	二级巡视员		河南省商务厅	https://hnsswt.henan.gov.cn/jgsz/tld/wx/	0999

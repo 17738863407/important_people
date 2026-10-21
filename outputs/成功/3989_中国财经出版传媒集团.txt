@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+许正明		1		全国		http://www.cfemg.cn/jtld/index.html	党委书记、董事长		中国财经出版传媒集团		3989
+刘峰		2		全国		http://www.cfemg.cn/jtld/index.html	总经理		中国财经出版传媒集团		3989
+段建涛		3		全国		http://www.cfemg.cn/jtld/index.html	党委委员、纪委书记		中国财经出版传媒集团		3989
+梁飞		4		全国		http://www.cfemg.cn/jtld/index.html	党委委员、副总经理		中国财经出版传媒集团		3989
+张峰		5		全国		http://www.cfemg.cn/jtld/index.html	党委委员、副总经理		中国财经出版传媒集团		3989
+余佳奇		6		全国		http://www.cfemg.cn/jtld/index.html	党委委员、副总经理		中国财经出版传媒集团		3989

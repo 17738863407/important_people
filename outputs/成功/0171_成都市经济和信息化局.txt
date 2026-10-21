@@ -1,0 +1,17 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵春淦		1		四川省	成都市	https://cdjx.chengdu.gov.cn/cdsjxw/c132788/ldxx.shtml	党组书记，局长、主任		成都市经济和信息化局		0171
+程桦		2		四川省	成都市	https://cdjx.chengdu.gov.cn/cdsjxw/c132788/ldxx.shtml	党组成员、副主任		成都市经济和信息化局		0171
+蒲斌		3		四川省	成都市	https://cdjx.chengdu.gov.cn/cdsjxw/c132788/ldxx.shtml	党组成员、副局长		成都市经济和信息化局		0171
+朱和金		4		四川省	成都市	https://cdjx.chengdu.gov.cn/cdsjxw/c132788/ldxx.shtml	副局长		成都市经济和信息化局		0171
+凌风		5		四川省	成都市	https://cdjx.chengdu.gov.cn/cdsjxw/c132788/ldxx.shtml	党组成员、纪检监察组组长		成都市经济和信息化局		0171
+鲁刚		6		四川省	成都市	https://cdjx.chengdu.gov.cn/cdsjxw/c132788/ldxx.shtml	副局长		成都市经济和信息化局		0171
+周成		7		四川省	成都市	https://cdjx.chengdu.gov.cn/cdsjxw/c132788/ldxx.shtml	党组成员、副主任		成都市经济和信息化局		0171
+朱健		8		四川省	成都市	https://cdjx.chengdu.gov.cn/cdsjxw/c132788/ldxx.shtml	副局长		成都市经济和信息化局		0171
+苏功臣		9		四川省	成都市	https://cdjx.chengdu.gov.cn/cdsjxw/c132788/ldxx.shtml	党组成员、副局长		成都市经济和信息化局		0171
+陈渝楠		10		四川省	成都市	https://cdjx.chengdu.gov.cn/cdsjxw/c132788/ldxx.shtml	党组成员、总工程师		成都市经济和信息化局		0171
+陈俊宇		11		四川省	成都市	https://cdjx.chengdu.gov.cn/cdsjxw/c132788/ldxx.shtml	副主任		成都市经济和信息化局		0171
+陈星明		12		四川省	成都市	https://cdjx.chengdu.gov.cn/cdsjxw/c132788/ldxx.shtml	总经济师		成都市经济和信息化局		0171
+丁琴		13		四川省	成都市	https://cdjx.chengdu.gov.cn/cdsjxw/c132788/ldxx.shtml	机关党委书记		成都市经济和信息化局		0171
+代兰		14		四川省	成都市	https://cdjx.chengdu.gov.cn/cdsjxw/c132788/ldxx.shtml	总工程师		成都市经济和信息化局		0171
+郑中礼		15		四川省	成都市	https://cdjx.chengdu.gov.cn/cdsjxw/c132788/ldxx.shtml	二级巡视员		成都市经济和信息化局		0171
+何德顺		16		四川省	成都市	https://cdjx.chengdu.gov.cn/cdsjxw/c132788/ldxx.shtml	一级调研员		成都市经济和信息化局		0171

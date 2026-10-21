@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+方存好		1		四川省	宜宾市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%9C%E5%AE%BE%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/59019158	市委书记		宜宾市委	https://baike.baidu.com/item/%E6%96%B9%E5%AD%98%E5%A5%BD/6010699	0028
+杜海洋		2		四川省	宜宾市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%9C%E5%AE%BE%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/59019158	市委副书记、市政府市长		宜宾市委	https://baike.baidu.com/item/%E6%9D%9C%E6%B5%B7%E6%B4%8B/9495972	0028
+池勇		3		四川省	宜宾市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%9C%E5%AE%BE%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/59019158	宜宾市委副书记		宜宾市委		0028
+贾发扬		4		四川省	宜宾市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%9C%E5%AE%BE%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/59019158	市委常委、市政府党组副书记		宜宾市委		0028
+郑雷		5		四川省	宜宾市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%9C%E5%AE%BE%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/59019158	宜宾市委常委		宜宾市委	https://baike.baidu.com/item/%E9%83%91%E9%9B%B7/15940775	0028
+刘晓卫		6		四川省	宜宾市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%9C%E5%AE%BE%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/59019158	宜宾市委常委		宜宾市委	https://baike.baidu.com/item/%E5%88%98%E6%99%93%E5%8D%AB/5295143	0028
+陶学周		7		四川省	宜宾市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%9C%E5%AE%BE%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/59019158	宜宾市委常委		宜宾市委	https://baike.baidu.com/item/%E9%99%B6%E5%AD%A6%E5%91%A8/2824026	0028
+唐伟		8		四川省	宜宾市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%9C%E5%AE%BE%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/59019158	宜宾市委常委		宜宾市委		0028
+毕胜		9		四川省	宜宾市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%9C%E5%AE%BE%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/59019158	市委常委、组织部部长		宜宾市委	https://baike.baidu.com/item/%E6%AF%95%E8%83%9C/19161887	0028
+刘红兵		10		四川省	宜宾市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%9C%E5%AE%BE%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/59019158	市委常委、宜宾军分区司令员		宜宾市委	https://baike.baidu.com/item/%E5%88%98%E7%BA%A2%E5%85%B5/64038251	0028
+韩斌		11		四川省	宜宾市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%9C%E5%AE%BE%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/59019158	市委常委、统战部部长		宜宾市委	https://baike.baidu.com/item/%E9%9F%A9%E6%96%8C/58353864	0028
+雷涛		12		四川省	宜宾市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%9C%E5%AE%BE%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/59019158	市委常委、宣传部部长		宜宾市委	https://baike.baidu.com/item/%E9%9B%B7%E6%B6%9B/20190530	0028
+刘乃贵		13		四川省	宜宾市	https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%9C%E5%AE%BE%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A/59019158	市委常委、宜宾高新区党工委书记		宜宾市委		0028

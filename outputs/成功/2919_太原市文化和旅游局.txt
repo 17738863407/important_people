@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+师旭东		1		山西省	太原市	https://wlj.taiyuan.gov.cn/ldxx/20250421/963715.html	党组书记、局长		太原市文化和旅游局		2919
+安俊跃		2		山西省	太原市	https://wlj.taiyuan.gov.cn/ldxx/20250421/963715.html	党组成员、副局长		太原市文化和旅游局		2919
+石钧		3		山西省	太原市	https://wlj.taiyuan.gov.cn/ldxx/20250421/963715.html	党组成员、副局长		太原市文化和旅游局		2919
+胡彦清		4		山西省	太原市	https://wlj.taiyuan.gov.cn/ldxx/20250421/963715.html	党组成员、副局长		太原市文化和旅游局		2919
+张建斌		5		山西省	太原市	https://wlj.taiyuan.gov.cn/ldxx/20250421/963715.html	党组成员、三级调研员		太原市文化和旅游局		2919
+杜文鹏		6		山西省	太原市	https://wlj.taiyuan.gov.cn/ldxx/20250421/963715.html	党组成员、纪检监察组组长		太原市文化和旅游局		2919
+徐晓东		7		山西省	太原市	https://wlj.taiyuan.gov.cn/ldxx/20250421/963715.html	党组成员、副局长		太原市文化和旅游局		2919
+董晓英		8		山西省	太原市	https://wlj.taiyuan.gov.cn/ldxx/20250421/963715.html	二级调研员		太原市文化和旅游局		2919
+杨俊青		9		山西省	太原市	https://wlj.taiyuan.gov.cn/ldxx/20250421/963715.html	四级调研员		太原市文化和旅游局		2919

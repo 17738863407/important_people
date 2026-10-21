@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+石亚洲		1		全国		https://www.neac.gov.cn/seac/mwjs/mzdxxy/jgrysz.shtml	会长；中央民族大学党委常委、副校长		中央民族大学校友会		1885
+吕家兴		2		全国		https://www.neac.gov.cn/seac/mwjs/mzdxxy/jgrysz.shtml	副会长；中央民族大学校长助理		中央民族大学校友会		1885
+高庆海		3		全国		https://www.neac.gov.cn/seac/mwjs/mzdxxy/jgrysz.shtml	副会长；北京中民健投资公司董事长		中央民族大学校友会		1885
+陈钦平		4		全国		https://www.neac.gov.cn/seac/mwjs/mzdxxy/jgrysz.shtml	副会长；中国唱片深圳公司副总经理		中央民族大学校友会		1885
+吴先红		5		全国		https://www.neac.gov.cn/seac/mwjs/mzdxxy/jgrysz.shtml	副会长；同景集团有限公司董事长		中央民族大学校友会		1885
+蓝顺汉		6		全国		https://www.neac.gov.cn/seac/mwjs/mzdxxy/jgrysz.shtml	副会长；深圳市融威技术发展有限公司董事长		中央民族大学校友会		1885
+马东平		7		全国		https://www.neac.gov.cn/seac/mwjs/mzdxxy/jgrysz.shtml	副会长；甘肃省社会科学院社会学研究所所长		中央民族大学校友会		1885
+申东日		8		全国		https://www.neac.gov.cn/seac/mwjs/mzdxxy/jgrysz.shtml	副会长；朗姿股份有限公司董事长		中央民族大学校友会		1885
+蒙曼		9		全国		https://www.neac.gov.cn/seac/mwjs/mzdxxy/jgrysz.shtml	副会长；中央民族大学党委委员、教授		中央民族大学校友会		1885
+白勇		10		全国		https://www.neac.gov.cn/seac/mwjs/mzdxxy/jgrysz.shtml	秘书长、法定代表人；中央民族大学国内合作处处长		中央民族大学校友会		1885

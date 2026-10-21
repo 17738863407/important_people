@@ -1,0 +1,17 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄晓勇		1		河北省	石家庄市	http://zrghj.sjz.gov.cn/sjzzrzy/zwgk/fdzdgknr/jggk/ldxx/	党组书记、局长、一级调研员		石家庄市自然资源和规划局		3394
+梁伟		2		河北省	石家庄市	http://zrghj.sjz.gov.cn/sjzzrzy/zwgk/fdzdgknr/jggk/ldxx/	党组成员、副局长、二级调研员		石家庄市自然资源和规划局		3394
+侯金勇		3		河北省	石家庄市	http://zrghj.sjz.gov.cn/sjzzrzy/zwgk/fdzdgknr/jggk/ldxx/	党组成员、副局长		石家庄市自然资源和规划局		3394
+赵红学		4		河北省	石家庄市	http://zrghj.sjz.gov.cn/sjzzrzy/zwgk/fdzdgknr/jggk/ldxx/	党组成员、驻局纪检监察组组长、四级高级监察官		石家庄市自然资源和规划局		3394
+李根权		5		河北省	石家庄市	http://zrghj.sjz.gov.cn/sjzzrzy/zwgk/fdzdgknr/jggk/ldxx/	党组成员、副局长		石家庄市自然资源和规划局		3394
+魏建峰		6		河北省	石家庄市	http://zrghj.sjz.gov.cn/sjzzrzy/zwgk/fdzdgknr/jggk/ldxx/	党组成员、副局长		石家庄市自然资源和规划局		3394
+李建业		7		河北省	石家庄市	http://zrghj.sjz.gov.cn/sjzzrzy/zwgk/fdzdgknr/jggk/ldxx/	一级调研员		石家庄市自然资源和规划局		3394
+李卫山		8		河北省	石家庄市	http://zrghj.sjz.gov.cn/sjzzrzy/zwgk/fdzdgknr/jggk/ldxx/	一级调研员		石家庄市自然资源和规划局		3394
+吴建格		9		河北省	石家庄市	http://zrghj.sjz.gov.cn/sjzzrzy/zwgk/fdzdgknr/jggk/ldxx/	二级调研员		石家庄市自然资源和规划局		3394
+高增棉		10		河北省	石家庄市	http://zrghj.sjz.gov.cn/sjzzrzy/zwgk/fdzdgknr/jggk/ldxx/	二级调研员		石家庄市自然资源和规划局		3394
+霍立东		11		河北省	石家庄市	http://zrghj.sjz.gov.cn/sjzzrzy/zwgk/fdzdgknr/jggk/ldxx/	二级调研员		石家庄市自然资源和规划局		3394
+王占林		12		河北省	石家庄市	http://zrghj.sjz.gov.cn/sjzzrzy/zwgk/fdzdgknr/jggk/ldxx/	三级调研员		石家庄市自然资源和规划局		3394
+杨鸿雁		13		河北省	石家庄市	http://zrghj.sjz.gov.cn/sjzzrzy/zwgk/fdzdgknr/jggk/ldxx/	三级调研员		石家庄市自然资源和规划局		3394
+魏占川		14		河北省	石家庄市	http://zrghj.sjz.gov.cn/sjzzrzy/zwgk/fdzdgknr/jggk/ldxx/	三级调研员		石家庄市自然资源和规划局		3394
+盖鹏举		15		河北省	石家庄市	http://zrghj.sjz.gov.cn/sjzzrzy/zwgk/fdzdgknr/jggk/ldxx/	三级调研员		石家庄市自然资源和规划局		3394
+巩少鹏		16		河北省	石家庄市	http://zrghj.sjz.gov.cn/sjzzrzy/zwgk/fdzdgknr/jggk/ldxx/	四级调研员		石家庄市自然资源和规划局		3394

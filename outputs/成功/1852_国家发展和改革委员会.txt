@@ -1,0 +1,16 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑栅洁		1		全国		https://www.ndrc.gov.cn/fzggw/	党组书记 主任		国家发展和改革委员会	https://www.ndrc.gov.cn/fzggw/wld/zsj/	1852
+相里斌		2		全国		https://www.ndrc.gov.cn/fzggw/	党组成员 副主任 （兼职）		国家发展和改革委员会	https://www.ndrc.gov.cn/fzggw/wld/xianglibin/	1852
+孙怀新		3		全国		https://www.ndrc.gov.cn/fzggw/	党组成员 驻委纪检监察组组长		国家发展和改革委员会	https://www.ndrc.gov.cn/fzggw/wld/shx/	1852
+李春临		4		全国		https://www.ndrc.gov.cn/fzggw/	党组成员 副主任		国家发展和改革委员会	https://www.ndrc.gov.cn/fzggw/wld/lichunlin/	1852
+郑备		5		全国		https://www.ndrc.gov.cn/fzggw/	党组成员 副主任		国家发展和改革委员会	https://www.ndrc.gov.cn/fzggw/wld/zb/	1852
+周海兵		6		全国		https://www.ndrc.gov.cn/fzggw/	党组成员 副主任		国家发展和改革委员会	https://www.ndrc.gov.cn/fzggw/wld/zhb/	1852
+岳修虎		7		全国		https://www.ndrc.gov.cn/fzggw/	党组成员 副主任		国家发展和改革委员会	https://www.ndrc.gov.cn/fzggw/wld/yxh/	1852
+黄如		8		全国		https://www.ndrc.gov.cn/fzggw/	党组成员 副主任 （兼职）		国家发展和改革委员会	https://www.ndrc.gov.cn/fzggw/wld/hr/	1852
+王昌林		9		全国		https://www.ndrc.gov.cn/fzggw/	党组成员 副主任 （兼职）		国家发展和改革委员会	https://www.ndrc.gov.cn/fzggw/wld/wcl/	1852
+沈竹林		10		全国		https://www.ndrc.gov.cn/fzggw/	党组成员 副主任 （兼职）		国家发展和改革委员会	https://www.ndrc.gov.cn/fzggw/wld/szl/	1852
+刘焕鑫		11		全国		https://www.ndrc.gov.cn/fzggw/	党组成员		国家发展和改革委员会	https://www.ndrc.gov.cn/fzggw/wld/lhx/	1852
+刘烈宏		12		全国		https://www.ndrc.gov.cn/fzggw/	党组成员		国家发展和改革委员会	https://www.ndrc.gov.cn/fzggw/wld/llh/	1852
+王宏志		13		全国		https://www.ndrc.gov.cn/fzggw/	党组成员		国家发展和改革委员会	https://www.ndrc.gov.cn/fzggw/wld/wanghongzhi/	1852
+袁达		14		全国		https://www.ndrc.gov.cn/fzggw/	秘书长		国家发展和改革委员会	https://www.ndrc.gov.cn/fzggw/wld/yd/	1852
+肖渭明		15		全国		https://www.ndrc.gov.cn/fzggw/	副秘书长		国家发展和改革委员会	https://www.ndrc.gov.cn/fzggw/wld/xwm/	1852

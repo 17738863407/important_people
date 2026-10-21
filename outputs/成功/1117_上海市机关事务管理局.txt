@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+盖博华		1		上海市		https://www.jgj.sh.gov.cn/xxgk/jgzn/ldjj/index.html	市机管局党组书记、局长，市孙中山宋庆龄文管委主任		上海市机关事务管理局	https://www.jgj.sh.gov.cn/xxgk/jgzn/ldjj/20260603/b511276fc0d947dfbc3db6e3466048e8.html	1117
+谢雪莹		2		上海市		https://www.jgj.sh.gov.cn/xxgk/jgzn/ldjj/index.html	市机管局党组成员、一级巡视员		上海市机关事务管理局	https://www.jgj.sh.gov.cn/xxgk/jgzn/ldjj/20260831/90529ffd0473490d9c88283cf7f0aa0a.html	1117
+杨晓东		3		上海市		https://www.jgj.sh.gov.cn/xxgk/jgzn/ldjj/index.html	市机管局党组成员、副局长		上海市机关事务管理局	https://www.jgj.sh.gov.cn/xxgk/jgzn/ldjj/20241111/2a050f84c7194fa2becbc8e9df5f71ae.html	1117
+方巍		4		上海市		https://www.jgj.sh.gov.cn/xxgk/jgzn/ldjj/index.html	市机管局党组成员、副局长		上海市机关事务管理局	https://www.jgj.sh.gov.cn/xxgk/jgzn/ldjj/20230516/e1089772e3a546e580cb79d92d0e1c39.html	1117
+李雪良		5		上海市		https://www.jgj.sh.gov.cn/xxgk/jgzn/ldjj/index.html	市机管局党组成员、副局长		上海市机关事务管理局	https://www.jgj.sh.gov.cn/xxgk/jgzn/ldjj/20250718/17c7ae131b2e4f3383d5b00e375f36a6.html	1117

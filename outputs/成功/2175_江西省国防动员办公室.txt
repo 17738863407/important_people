@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+侯熙文		1		江西省		http://rf.jiangxi.gov.cn/jxsgfdybgs/ldxx165/pc/content/content_2003629443217625088.html	党组成员、副主任		江西省国防动员办公室		2175
+林承杰		2		江西省		http://rf.jiangxi.gov.cn/jxsgfdybgs/ldxx165/pc/content/content_2003629443217625088.html	党组成员、副主任		江西省国防动员办公室		2175
+刘忠平		3		江西省		http://rf.jiangxi.gov.cn/jxsgfdybgs/ldxx165/pc/content/content_2003629443217625088.html	党组成员、副主任		江西省国防动员办公室		2175

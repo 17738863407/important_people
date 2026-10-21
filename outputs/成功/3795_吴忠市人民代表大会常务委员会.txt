@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+白小军		1		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	主任		吴忠市人民代表大会常务委员会		3795
+魏建荣		2		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	副主任		吴忠市人民代表大会常务委员会		3795
+沙莉		3		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	副主任		吴忠市人民代表大会常务委员会		3795
+马国锋		4		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	副主任		吴忠市人民代表大会常务委员会		3795
+蒋文军		5		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	副主任		吴忠市人民代表大会常务委员会		3795
+侯永林		6		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	副主任		吴忠市人民代表大会常务委员会		3795
+冯茂璋		7		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	副主任		吴忠市人民代表大会常务委员会		3795
+汪洋		8		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	副主任		吴忠市人民代表大会常务委员会		3795
+蒋波		9		宁夏回族自治区	吴忠市	https://www.wuzhong.gov.cn/xxgk/ldzc/	秘书长		吴忠市人民代表大会常务委员会		3795

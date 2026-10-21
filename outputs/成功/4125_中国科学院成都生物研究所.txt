@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李家堂		1		四川省	成都市	https://cib.cas.cn/jggk/xrld/	所长		中国科学院成都生物研究所		4125
+刘刚君		2		四川省	成都市	https://cib.cas.cn/jggk/xrld/	党委书记、副所长		中国科学院成都生物研究所		4125
+李铁牛		3		四川省	成都市	https://cib.cas.cn/jggk/xrld/	纪委书记		中国科学院成都生物研究所		4125
+王涛		4		四川省	成都市	https://cib.cas.cn/jggk/xrld/	副所长		中国科学院成都生物研究所	https://cib.cas.cn/sourcedb/zw/rck/200908/t20090803_2296882.html	4125
+蒋海波		5		四川省	成都市	https://cib.cas.cn/jggk/xrld/	所务委员		中国科学院成都生物研究所	https://cib.cas.cn/sourcedb/zw/rck/202310/t20231008_6893451.html	4125
+李东		6		四川省	成都市	https://cib.cas.cn/jggk/xrld/	所务委员		中国科学院成都生物研究所	https://cib.cas.cn/sourcedb/zw/rck/201711/t20171127_4898890.html	4125
+尹华军		7		四川省	成都市	https://cib.cas.cn/jggk/xrld/	所务委员		中国科学院成都生物研究所	https://cib.cas.cn/sourcedb/zw/rck/201408/t20140818_4186558.html	4125

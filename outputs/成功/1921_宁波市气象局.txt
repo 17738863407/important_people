@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何文岳		1		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218959/index.html	党组成员、纪检组长		宁波市气象局	https://www.ningbo.gov.cn/art/2026/3/4/art_1229218959_183780.html	1921
+鲍岳建		2		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218959/index.html	宁波市气象局党组成员、副局长		宁波市气象局	https://www.ningbo.gov.cn/art/2021/7/19/art_1229218959_106249.html	1921
+华正江		3		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218959/index.html	宁波市气象局党组成员、副局长		宁波市气象局	https://www.ningbo.gov.cn/art/2024/10/29/art_1229218959_168018.html	1921
+张红博		4		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218959/index.html	宁波市气象局党组成员、副局长		宁波市气象局	https://www.ningbo.gov.cn/col/col1229218959/art/2026/art_c058283ba1694397b2889922f813b04c.html	1921

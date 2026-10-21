@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐雄		1		安徽省	安庆市	https://www.anqing.gov.cn/ldzc/index.html	市委副书记、市政府代理市长，市政府党组书记		安庆市人民政府	https://www.anqing.gov.cn/content/column/3902227?liId=93474188	3798
+章洪海		2		安徽省	安庆市	https://www.anqing.gov.cn/ldzc/index.html	市委常委、市政府副市长，市政府党组副书记		安庆市人民政府	https://www.anqing.gov.cn/content/column/3902227?liId=93474165	3798
+周建春		3		安徽省	安庆市	https://www.anqing.gov.cn/ldzc/index.html	市委常委，市政府党组成员、副市长		安庆市人民政府	https://www.anqing.gov.cn/content/column/3902227?liId=93474161	3798
+尹立祥		4		安徽省	安庆市	https://www.anqing.gov.cn/ldzc/index.html	市委常委，市政府党组成员、副市长		安庆市人民政府	https://www.anqing.gov.cn/content/column/3902227?liId=93474200	3798
+唐厚明		5		安徽省	安庆市	https://www.anqing.gov.cn/ldzc/index.html	市政府党组成员、副市长、秘书长		安庆市人民政府	https://www.anqing.gov.cn/content/column/3902227?liId=93474101	3798
+李岩		6		安徽省	安庆市	https://www.anqing.gov.cn/ldzc/index.html	市政府副市长		安庆市人民政府	https://www.anqing.gov.cn/content/column/3902227?liId=93474168	3798
+王国林		7		安徽省	安庆市	https://www.anqing.gov.cn/ldzc/index.html	市政府党组成员、副市长，潜山市委书记		安庆市人民政府	https://www.anqing.gov.cn/content/column/3902227?liId=93474203	3798
+杨旭东		8		安徽省	安庆市	https://www.anqing.gov.cn/ldzc/index.html	市政府党组成员，安庆经济技术开发区党工委书记兼管委会主任		安庆市人民政府	https://www.anqing.gov.cn/content/column/3902227?liId=93474173	3798

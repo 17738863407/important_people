@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+田向利		1		全国		http://www.sczx.gov.cn/deail-cd9c931599e34b94a738a678eeb8b463.html	主席		四川省政协		2287
+钟勉		2		全国		http://www.sczx.gov.cn/deail-cd9c931599e34b94a738a678eeb8b463.html	副主席		四川省政协		2287
+杜和平		3		全国		http://www.sczx.gov.cn/deail-cd9c931599e34b94a738a678eeb8b463.html	副主席		四川省政协		2287
+欧阳泽华		4		全国		http://www.sczx.gov.cn/deail-cd9c931599e34b94a738a678eeb8b463.html	副主席		四川省政协		2287
+刘成鸣		5		全国		http://www.sczx.gov.cn/deail-cd9c931599e34b94a738a678eeb8b463.html	副主席		四川省政协		2287
+杨丹		6		全国		http://www.sczx.gov.cn/deail-cd9c931599e34b94a738a678eeb8b463.html	副主席		四川省政协		2287
+谢商华		7		全国		http://www.sczx.gov.cn/deail-cd9c931599e34b94a738a678eeb8b463.html	副主席		四川省政协		2287
+许唯临		8		全国		http://www.sczx.gov.cn/deail-cd9c931599e34b94a738a678eeb8b463.html	副主席		四川省政协		2287
+何树平		9		全国		http://www.sczx.gov.cn/deail-cd9c931599e34b94a738a678eeb8b463.html	副主席		四川省政协		2287
+马波		10		全国		http://www.sczx.gov.cn/deail-cd9c931599e34b94a738a678eeb8b463.html	秘书长		四川省政协		2287

@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈凯		1		四川省		https://scjgj.sc.gov.cn/scsjgj/c104462/jigou.shtml	省市场监督管理局党组书记、局长，省知识产权局局长、省食安办主任（兼）		四川省市场监督管理局	https://scjgj.sc.gov.cn/scsjgj/sjld/2026/7/13/bca9ee2d254a4135b96990023bb034e5.shtml	2270
+欧海林		2		四川省		https://scjgj.sc.gov.cn/scsjgj/c104462/jigou.shtml	省市场监督管理局党组副书记、副局长、机关党委书记		四川省市场监督管理局	https://scjgj.sc.gov.cn/scsjgj/sjld/2026/6/2/8b92f70eec034f7da4e27581929040e7.shtml	2270
+李在伟		3		四川省		https://scjgj.sc.gov.cn/scsjgj/c104462/jigou.shtml	省市场监督管理局党组成员，省药品监督管理局党组书记、局长		四川省市场监督管理局	https://scjgj.sc.gov.cn/scsjgj/sjld/2025/4/25/5651229e4cfa45b0a156bf9b3fbcd697.shtml	2270
+黄俊		4		四川省		https://scjgj.sc.gov.cn/scsjgj/c104462/jigou.shtml	省市场监督管理局党组成员、副局长		四川省市场监督管理局	https://scjgj.sc.gov.cn/scsjgj/sjld/2025/4/25/2ad86a3325af4337876744a9dcd856ff.shtml	2270
+高晓宇		5		四川省		https://scjgj.sc.gov.cn/scsjgj/c104462/jigou.shtml	省市场监督管理局党组成员、副局长		四川省市场监督管理局	https://scjgj.sc.gov.cn/scsjgj/sjld/2025/4/25/bf23b9d34c254f9fafde8387509b5185.shtml	2270
+马忠		6		四川省		https://scjgj.sc.gov.cn/scsjgj/c104462/jigou.shtml	省纪委监委驻省市场监管局纪检监察组组长、省市场监管局党组成员		四川省市场监督管理局	https://scjgj.sc.gov.cn/scsjgj/sjld/2025/2/10/38ef7c41dbb04dab8def2e9674e021bd.shtml	2270
+杨勇前		7		四川省		https://scjgj.sc.gov.cn/scsjgj/c104462/jigou.shtml	省市场监督管理局党组成员、副局长		四川省市场监督管理局	https://scjgj.sc.gov.cn/scsjgj/sjld/2025/4/25/db0d011abec14a43b45fcf9819a7c7a0.shtml	2270
+张建红		8		四川省		https://scjgj.sc.gov.cn/scsjgj/c104462/jigou.shtml	省市场监督管理局副局长		四川省市场监督管理局	https://scjgj.sc.gov.cn/scsjgj/sjld/2026/6/22/ac2b8427b28d4557abebe10ac664af21.shtml	2270
+董若洁		9		四川省		https://scjgj.sc.gov.cn/scsjgj/c104462/jigou.shtml	省市场监督管理局副局长		四川省市场监督管理局	https://scjgj.sc.gov.cn/scsjgj/sjld/2025/4/21/adf3d4b5f11a4ede96382a168095d005.shtml	2270
+余德仲		10		四川省		https://scjgj.sc.gov.cn/scsjgj/c104462/jigou.shtml	省市场监督管理局安全总监		四川省市场监督管理局	https://scjgj.sc.gov.cn/scsjgj/sjld/2025/2/10/cc7b1dc39043448d8ec8d74b13e4b15a.shtml	2270
+王映健		11		四川省		https://scjgj.sc.gov.cn/scsjgj/c104462/jigou.shtml	省市场监督管理局一级巡视员		四川省市场监督管理局	https://scjgj.sc.gov.cn/scsjgj/sjld/2025/12/3/e01783fd677a49f28e167ebecce9fb4f.shtml	2270
+朱佑富		12		四川省		https://scjgj.sc.gov.cn/scsjgj/c104462/jigou.shtml	省市场监督管理局二级巡视员		四川省市场监督管理局	https://scjgj.sc.gov.cn/scsjgj/sjld/2025/2/10/cd92b28c232b48e7a53def31429e2813.shtml	2270
+李轶		13		四川省		https://scjgj.sc.gov.cn/scsjgj/c104462/jigou.shtml	省市场监督管理局二级巡视员		四川省市场监督管理局	https://scjgj.sc.gov.cn/scsjgj/sjld/2026/7/13/721c46edd3774d2a9ae945a6882f8c6e.shtml	2270

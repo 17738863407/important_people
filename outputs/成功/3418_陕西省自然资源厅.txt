@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+冯涛		1		陕西省		https://zrzyt.shaanxi.gov.cn/btzs/ldcy/	党组书记、厅长		陕西省自然资源厅	https://zrzyt.shaanxi.gov.cn/btzs/ldcy/202504/t20250409_3489106.html	3418
+董普选		2		陕西省		https://zrzyt.shaanxi.gov.cn/btzs/ldcy/	党组成员、副厅长		陕西省自然资源厅	https://zrzyt.shaanxi.gov.cn/btzs/ldcy/202504/t20250409_3489102.html	3418
+蒲明辉		3		陕西省		https://zrzyt.shaanxi.gov.cn/btzs/ldcy/	党组成员、副厅长		陕西省自然资源厅	https://zrzyt.shaanxi.gov.cn/btzs/ldcy/202504/t20250409_3489093.html	3418
+王雁林		4		陕西省		https://zrzyt.shaanxi.gov.cn/btzs/ldcy/	党组成员、副厅长		陕西省自然资源厅	https://zrzyt.shaanxi.gov.cn/btzs/ldcy/202504/t20250409_3489089.html	3418
+马红梅		5		陕西省		https://zrzyt.shaanxi.gov.cn/btzs/ldcy/	省纪委监委驻省自然资源厅纪检监察组组长、厅党组成员		陕西省自然资源厅	https://zrzyt.shaanxi.gov.cn/btzs/ldcy/202504/t20250409_3489085.html	3418
+李怡		6		陕西省		https://zrzyt.shaanxi.gov.cn/btzs/ldcy/	党组成员、副厅长		陕西省自然资源厅	https://zrzyt.shaanxi.gov.cn/btzs/ldcy/202504/t20250409_3489077.html	3418

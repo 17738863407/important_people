@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张朝林		1		全国		https://www.camscma.cn/xrld.html	副院长、党委副书记、党委常委		中国气象科学研究院		4217
+高云		2		全国		https://www.camscma.cn/xrld.html	副院长、党委常委		中国气象科学研究院		4217
+王金星		3		全国		https://www.camscma.cn/xrld.html	副院长、党委常委		中国气象科学研究院		4217
+费文革		4		全国		https://www.camscma.cn/xrld.html	纪委书记、党委常委		中国气象科学研究院		4217
+李建		5		全国		https://www.camscma.cn/xrld.html	副院长、党委常委		中国气象科学研究院		4217
+车慧正		6		全国		https://www.camscma.cn/xrld.html	副院长、党委常委		中国气象科学研究院		4217
+张柱		7		全国		https://www.camscma.cn/xrld.html	气象学会秘书长		中国气象科学研究院		4217

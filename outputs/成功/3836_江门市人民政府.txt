@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴晓晖		1		广东省	江门市	http://www.jiangmen.gov.cn/newzwgk/szfld/index.html	市长		江门市人民政府	http://www.jiangmen.gov.cn/newzwgk/szfld/content/post_2235351.html	3836
+郑晓毅		2		广东省	江门市	http://www.jiangmen.gov.cn/newzwgk/szfld/index.html	副市长		江门市人民政府	http://www.jiangmen.gov.cn/newzwgk/szfld/content/post_2227703.html	3836
+曹阳		3		广东省	江门市	http://www.jiangmen.gov.cn/newzwgk/szfld/index.html	副市长		江门市人民政府	http://www.jiangmen.gov.cn/newzwgk/szfld/content/post_2431967.html	3836
+林健生		4		广东省	江门市	http://www.jiangmen.gov.cn/newzwgk/szfld/index.html	副市长		江门市人民政府	http://www.jiangmen.gov.cn/newzwgk/szfld/content/post_2512354.html	3836
+冯小钢		5		广东省	江门市	http://www.jiangmen.gov.cn/newzwgk/szfld/index.html	副市长		江门市人民政府	http://www.jiangmen.gov.cn/newzwgk/szfld/content/post_2584644.html	3836
+李键		6		广东省	江门市	http://www.jiangmen.gov.cn/newzwgk/szfld/index.html	副市长		江门市人民政府	http://www.jiangmen.gov.cn/newzwgk/szfld/content/post_3530767.html	3836
+刘志刚		7		广东省	江门市	http://www.jiangmen.gov.cn/newzwgk/szfld/index.html	副市长		江门市人民政府	http://www.jiangmen.gov.cn/newzwgk/szfld/content/post_3251925.html	3836
+高放		8		广东省	江门市	http://www.jiangmen.gov.cn/newzwgk/szfld/index.html	副市长		江门市人民政府	http://www.jiangmen.gov.cn/newzwgk/szfld/content/post_3448756.html	3836

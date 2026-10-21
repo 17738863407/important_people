@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙建辉		1		福建省	厦门市	http://dpc.xm.gov.cn/xxgk/xxgkml/jgzn/	厦门市发展和改革委员会党组书记、主任		厦门市发展和改革委员会	http://dpc.xm.gov.cn/xxgk/xxgkml/jgzn/ldjs/202505/t20250515_2933775.htm	0472
+陈勇		2		福建省	厦门市	http://dpc.xm.gov.cn/xxgk/xxgkml/jgzn/	市国防动员办公室党组书记、主任，市人民防空办公室主任，兼市发改委副主任		厦门市发展和改革委员会	http://dpc.xm.gov.cn/xxgk/xxgkml/jgzn/ldjs/202505/t20250515_2933779.htm	0472
+李晓燕		3		福建省	厦门市	http://dpc.xm.gov.cn/xxgk/xxgkml/jgzn/	厦门市发展和改革委员会党组成员、副主任、二级巡视员		厦门市发展和改革委员会	http://dpc.xm.gov.cn/xxgk/xxgkml/jgzn/ldjs/202505/t20250515_2933753.htm	0472
+林江帆		4		福建省	厦门市	http://dpc.xm.gov.cn/xxgk/xxgkml/jgzn/	厦门市发展和改革委员会二级巡视员		厦门市发展和改革委员会	http://dpc.xm.gov.cn/xxgk/xxgkml/jgzn/ldjs/202511/t20251114_2966932.htm	0472
+叶新		5		福建省	厦门市	http://dpc.xm.gov.cn/xxgk/xxgkml/jgzn/	厦门市发展和改革委员会党组成员、副主任		厦门市发展和改革委员会	http://dpc.xm.gov.cn/xxgk/xxgkml/jgzn/ldjs/202204/t20220429_2658930.htm	0472

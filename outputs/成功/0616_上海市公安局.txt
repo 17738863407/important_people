@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张亚宏		1		上海市		https://gaj.sh.gov.cn/shga/wzXxfbZfgkml/jgjj	上海市副市长，市公安局党委书记、局长、督察长，上海公安学院院长		上海市公安局		0616
+罗震川		2		上海市		https://gaj.sh.gov.cn/shga/wzXxfbZfgkml/jgjj	市公安局党委副书记、副局长（正局长级）		上海市公安局		0616
+梁赞明		3		上海市		https://gaj.sh.gov.cn/shga/wzXxfbZfgkml/jgjj	市公安局党委委员、特勤局党委书记、局长		上海市公安局		0616
+徐靖		4		上海市		https://gaj.sh.gov.cn/shga/wzXxfbZfgkml/jgjj	市公安局党委委员、上海公安学院党委书记、常务副院长		上海市公安局		0616
+孙嘉丰		5		上海市		https://gaj.sh.gov.cn/shga/wzXxfbZfgkml/jgjj	市公安局党委委员、市纪委监委驻市公安局纪检监察组组长		上海市公安局		0616
+祝新军		6		上海市		https://gaj.sh.gov.cn/shga/wzXxfbZfgkml/jgjj	市公安局党委委员、副局长		上海市公安局		0616
+庄炜		7		上海市		https://gaj.sh.gov.cn/shga/wzXxfbZfgkml/jgjj	市公安局党委委员、政治部主任		上海市公安局		0616
+商勇		8		上海市		https://gaj.sh.gov.cn/shga/wzXxfbZfgkml/jgjj	市公安局党委委员、副局长		上海市公安局		0616
+柳国青		9		上海市		https://gaj.sh.gov.cn/shga/wzXxfbZfgkml/jgjj	市公安局党委委员、副局长、情报指挥中心主任、一级警务专员		上海市公安局		0616
+谢庆灿		10		上海市		https://gaj.sh.gov.cn/shga/wzXxfbZfgkml/jgjj	市公安局党委委员、副局长		上海市公安局		0616

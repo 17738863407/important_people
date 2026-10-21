@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王炯		1		全国		https://www.cqrd.gov.cn/web/column/col1838763.html	党组书记、主任		重庆市人民代表大会常务委员会	https://www.cqrd.gov.cn/web/column/col1838745.html	0328
+李明清		2		全国		https://www.cqrd.gov.cn/web/column/col1838763.html	党组副书记、副主任		重庆市人民代表大会常务委员会	https://www.cqrd.gov.cn/web/column/col1915657.html	0328
+沈金强		3		全国		https://www.cqrd.gov.cn/web/column/col1838763.html	副主任		重庆市人民代表大会常务委员会	https://www.cqrd.gov.cn/web/column/col1838759.html	0328
+屈谦		4		全国		https://www.cqrd.gov.cn/web/column/col1838763.html	副主任		重庆市人民代表大会常务委员会	https://www.cqrd.gov.cn/web/column/col1838757.html	0328
+欧顺清		5		全国		https://www.cqrd.gov.cn/web/column/col1838763.html	副主任		重庆市人民代表大会常务委员会	https://www.cqrd.gov.cn/web/column/col1838751.html	0328
+赵世庆		6		全国		https://www.cqrd.gov.cn/web/column/col1838763.html	副主任		重庆市人民代表大会常务委员会	https://www.cqrd.gov.cn/web/column/col1838749.html	0328
+许洪斌		7		全国		https://www.cqrd.gov.cn/web/column/col1838763.html	副主任		重庆市人民代表大会常务委员会	https://www.cqrd.gov.cn/web/column/col5021306.html	0328
+周少政		8		全国		https://www.cqrd.gov.cn/web/column/col1838763.html	秘书长		重庆市人民代表大会常务委员会	https://www.cqrd.gov.cn/web/column/col1838761.html	0328

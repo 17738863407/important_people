@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孟祥会		1		黑龙江省		https://czt.hlj.gov.cn/czt/c110802/common_jgld.shtml	党组书记、厅长		黑龙江省财政厅	https://czt.hlj.gov.cn/czt/c110802/201912/c00_30603303.shtml	0385
+张高成		2		黑龙江省		https://czt.hlj.gov.cn/czt/c110802/common_jgld.shtml	一级巡视员		黑龙江省财政厅	https://czt.hlj.gov.cn/czt/c110802/201912/c00_30603310.shtml	0385
+赵谦		3		黑龙江省		https://czt.hlj.gov.cn/czt/c110802/common_jgld.shtml	党组成员、副厅长		黑龙江省财政厅	https://czt.hlj.gov.cn/czt/c110802/201912/c00_30603297.shtml	0385
+刘振林		4		黑龙江省		https://czt.hlj.gov.cn/czt/c110802/common_jgld.shtml	党组成员、副厅长		黑龙江省财政厅	https://czt.hlj.gov.cn/czt/c110802/202202/c00_30603300.shtml	0385
+徐海臣		5		黑龙江省		https://czt.hlj.gov.cn/czt/c110802/common_jgld.shtml	副厅长		黑龙江省财政厅	https://czt.hlj.gov.cn/czt/c110802/201912/c00_30603306.shtml	0385
+于彦		6		黑龙江省		https://czt.hlj.gov.cn/czt/c110802/common_jgld.shtml	党组成员、省公共资源交易中心主任		黑龙江省财政厅	https://czt.hlj.gov.cn/czt/c110802/202312/c00_31692040.shtml	0385
+王海鹏		7		黑龙江省		https://czt.hlj.gov.cn/czt/c110802/common_jgld.shtml	党组成员、副厅长		黑龙江省财政厅	https://czt.hlj.gov.cn/czt/c110802/202606/c00_31948108.shtml	0385
+王舒勃		8		黑龙江省		https://czt.hlj.gov.cn/czt/c110802/common_jgld.shtml	党组成员、副厅长		黑龙江省财政厅	https://czt.hlj.gov.cn/czt/c110802/202411/c00_31786333.shtml	0385
+何瑞		9		黑龙江省		https://czt.hlj.gov.cn/czt/c110802/common_jgld.shtml	党组成员、副厅长		黑龙江省财政厅	https://czt.hlj.gov.cn/czt/c110802/202506/c00_31848968.shtml	0385
+王珂		10		黑龙江省		https://czt.hlj.gov.cn/czt/c110802/common_jgld.shtml	党组成员、省纪委监委驻省财政厅纪检监察组组长		黑龙江省财政厅	https://czt.hlj.gov.cn/czt/c110802/202608/c00_31966531.shtml	0385
+肖应博		11		黑龙江省		https://czt.hlj.gov.cn/czt/c110802/common_jgld.shtml	党组成员		黑龙江省财政厅	https://czt.hlj.gov.cn/czt/c110802/202504/c00_31827338.shtml	0385

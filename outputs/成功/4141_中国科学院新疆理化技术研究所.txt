@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+潘世烈		1		全国		https://xjipc.cas.cn/gaikuang/xrldnew/	所长		中国科学院新疆理化技术研究所	https://xjipc.cas.cn/rcdw/jcqnnew/200908/t20090812_2380411.html	4141
+周喜		2		全国		https://xjipc.cas.cn/gaikuang/xrldnew/	党委书记、副所长		中国科学院新疆理化技术研究所	https://xjipc.cas.cn/rcdw/yjynew/200908/t20090812_2380363.html	4141
+桂东伟		3		全国		https://xjipc.cas.cn/gaikuang/xrldnew/	纪委书记		中国科学院新疆理化技术研究所	https://xjipc.cas.cn/rcdw/yjynew/202405/t20240527_7173032.html	4141
+李豫东		4		全国		https://xjipc.cas.cn/gaikuang/xrldnew/	副所长		中国科学院新疆理化技术研究所	https://xjipc.cas.cn/rcdw/yjynew/201203/t20120313_3509433.html	4141
+任晓光		5		全国		https://xjipc.cas.cn/gaikuang/xrldnew/	副所长		中国科学院新疆理化技术研究所	https://xjipc.cas.cn/rcdw/yjynew/202507/t20250724_7896139.html	4141

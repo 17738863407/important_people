@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘海红		1		内蒙古自治区		https://nmg.chinamine-safety.gov.cn/Category_86/Index.aspx	党组书记、局长		国家矿山安全监察局内蒙古局	https://nmg.chinamine-safety.gov.cn/Item/10860.aspx	1952
+易承长		2		内蒙古自治区		https://nmg.chinamine-safety.gov.cn/Category_86/Index.aspx	党组成员、纪检组长		国家矿山安全监察局内蒙古局	https://nmg.chinamine-safety.gov.cn/Item/10863.aspx	1952
+袁贵斌		3		内蒙古自治区		https://nmg.chinamine-safety.gov.cn/Category_86/Index.aspx	党组成员、副局长		国家矿山安全监察局内蒙古局	https://nmg.chinamine-safety.gov.cn/Item/11062.aspx	1952
+张建亭		4		内蒙古自治区		https://nmg.chinamine-safety.gov.cn/Category_86/Index.aspx	党组成员、副局长		国家矿山安全监察局内蒙古局	https://nmg.chinamine-safety.gov.cn/Item/11063.aspx	1952
+薛恒强		5		内蒙古自治区		https://nmg.chinamine-safety.gov.cn/Category_86/Index.aspx	党组成员、副局长		国家矿山安全监察局内蒙古局	https://nmg.chinamine-safety.gov.cn/Item/12091.aspx	1952
+韩俊庆		6		内蒙古自治区		https://nmg.chinamine-safety.gov.cn/Category_86/Index.aspx	一级巡视员		国家矿山安全监察局内蒙古局	https://nmg.chinamine-safety.gov.cn/Item/10861.aspx	1952

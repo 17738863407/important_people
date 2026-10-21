@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谷澍		1		全国		https://www.nafmii.org.cn/ljxh/xhjs/index.html	会长、中国农业银行股份有限公司董事长		中国银行间市场交易商协会		4014
+张宝江		2		全国		https://www.nafmii.org.cn/ljxh/xhjs/index.html	监事长、交通银行股份有限公司行长		中国银行间市场交易商协会		4014
+徐忠		3		全国		https://www.nafmii.org.cn/ljxh/xhjs/index.html	副会长、中国银行间市场交易商协会副秘书长		中国银行间市场交易商协会		4014
+王中		4		全国		https://www.nafmii.org.cn/ljxh/xhjs/index.html	副会长、国家开发银行首席风险官		中国银行间市场交易商协会		4014
+张伟武		5		全国		https://www.nafmii.org.cn/ljxh/xhjs/index.html	副会长、中国工商银行股份有限公司副行长		中国银行间市场交易商协会		4014
+张小东		6		全国		https://www.nafmii.org.cn/ljxh/xhjs/index.html	副会长、中国银行股份有限公司原副行长		中国银行间市场交易商协会		4014
+纪志宏		7		全国		https://www.nafmii.org.cn/ljxh/xhjs/index.html	副会长、中国建设银行股份有限公司副行长		中国银行间市场交易商协会		4014
+李德林		8		全国		https://www.nafmii.org.cn/ljxh/xhjs/index.html	副会长、招商银行股份有限公司原副行长		中国银行间市场交易商协会		4014
+林朝晖		9		全国		https://www.nafmii.org.cn/ljxh/xhjs/index.html	副会长、中国人寿保险（集团）公司副总裁		中国银行间市场交易商协会		4014
+张佑君		10		全国		https://www.nafmii.org.cn/ljxh/xhjs/index.html	副会长、中信证券股份有限公司董事长		中国银行间市场交易商协会		4014
+王大庆		11		全国		https://www.nafmii.org.cn/ljxh/xhjs/index.html	副会长、中央国债登记结算有限责任公司董事长		中国银行间市场交易商协会		4014
+张漪		12		全国		https://www.nafmii.org.cn/ljxh/xhjs/index.html	副会长、中国外汇交易中心总裁		中国银行间市场交易商协会		4014
+马贱阳		13		全国		https://www.nafmii.org.cn/ljxh/xhjs/index.html	副会长、银行间市场清算所股份有限公司董事长		中国银行间市场交易商协会		4014
+高飞		14		全国		https://www.nafmii.org.cn/ljxh/xhjs/index.html	副会长、人民银行金融市场司原司长		中国银行间市场交易商协会		4014

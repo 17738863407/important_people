@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+史春玲		1		福建省	厦门市	http://audit.xm.gov.cn/jggk/ldfg/scl/	厦门市审计局党组副书记、副局长		厦门市审计局		0103
+蔡乾坤		2		福建省	厦门市	http://audit.xm.gov.cn/jggk/ldfg/scl/	厦门市审计局党组成员、副局长		厦门市审计局	http://audit.xm.gov.cn/jggk/ldfg/cqk/	0103
+黄乐淅		3		福建省	厦门市	http://audit.xm.gov.cn/jggk/ldfg/scl/	厦门市审计局党组成员、副局长		厦门市审计局	http://audit.xm.gov.cn/jggk/ldfg/hlz/	0103
+苏英		4		福建省	厦门市	http://audit.xm.gov.cn/jggk/ldfg/scl/	厦门市审计局党组成员、厦门市经济责任审计工作联席会议办公室主任		厦门市审计局	http://audit.xm.gov.cn/jggk/ldfg/sy/	0103
+兰芳		5		福建省	厦门市	http://audit.xm.gov.cn/jggk/ldfg/scl/	厦门市审计局党组成员、总审计师		厦门市审计局	http://audit.xm.gov.cn/jggk/ldfg/lf/	0103
+钟志远		6		福建省	厦门市	http://audit.xm.gov.cn/jggk/ldfg/scl/	厦门市审计局党组成员、副局长		厦门市审计局	http://audit.xm.gov.cn/jggk/ldfg/zzy/	0103

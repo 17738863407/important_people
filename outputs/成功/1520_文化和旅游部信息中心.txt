@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈胜利		1		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202311/t20231120_949811.htm	主任		文化和旅游部信息中心		1520
+曹树军		2		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202311/t20231120_949811.htm	副主任		文化和旅游部信息中心		1520
+李经		3		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202311/t20231120_949811.htm	副主任		文化和旅游部信息中心		1520
+邢波		4		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202311/t20231120_949811.htm	副主任		文化和旅游部信息中心		1520

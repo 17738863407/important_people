@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+严佛元		1		江西省		http://sgj.jiangxi.gov.cn/jxsjgswglj/col/col21265/content/content_1864764044327747584.html	省政府副秘书长，省机关事务管理局党组书记、局长。		江西省机关事务管理局		2346
+邓国良		2		江西省		http://sgj.jiangxi.gov.cn/jxsjgswglj/col/col21265/content/content_1864764044327747584.html	省机关事务管理局党组成员、副局长。		江西省机关事务管理局		2346
+冯小明		3		江西省		http://sgj.jiangxi.gov.cn/jxsjgswglj/col/col21265/content/content_1864764044327747584.html	省机关事务管理局党组成员、副局长。		江西省机关事务管理局		2346

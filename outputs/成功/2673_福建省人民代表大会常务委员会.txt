@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周祖翼		1		全国		https://szrd.fjrd.gov.cn/rdgk/	主任		福建省人民代表大会常务委员会		2673
+庄稼汉		2		全国		https://szrd.fjrd.gov.cn/rdgk/	副主任		福建省人民代表大会常务委员会		2673
+林宝金		3		全国		https://szrd.fjrd.gov.cn/rdgk/	副主任		福建省人民代表大会常务委员会		2673
+李德金		4		全国		https://szrd.fjrd.gov.cn/rdgk/	副主任		福建省人民代表大会常务委员会		2673
+檀云坤		5		全国		https://szrd.fjrd.gov.cn/rdgk/	副主任		福建省人民代表大会常务委员会		2673
+袁毅		6		全国		https://szrd.fjrd.gov.cn/rdgk/	副主任		福建省人民代表大会常务委员会		2673
+黄新銮		7		全国		https://szrd.fjrd.gov.cn/rdgk/	秘书长		福建省人民代表大会常务委员会		2673

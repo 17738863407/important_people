@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+章建国		1		四川省	成都市	https://cdggzy.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	党组书记、主任		成都市公共资源交易服务中心	https://cdggzy.chengdu.gov.cn/gkml/ldcy/1628317768866603008.shtml	0168
+陈进		2		四川省	成都市	https://cdggzy.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	党组成员、副主任		成都市公共资源交易服务中心	https://cdggzy.chengdu.gov.cn/gkml/ldcy/1271495993791086592.shtml	0168
+李晓莺		3		四川省	成都市	https://cdggzy.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	党组成员、机关委员会书记		成都市公共资源交易服务中心	https://cdggzy.chengdu.gov.cn/gkml/ldcy/1271496337199726592.shtml	0168

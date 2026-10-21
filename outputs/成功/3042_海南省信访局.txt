@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈昊旻		1		海南省		https://xf.hainan.gov.cn/sxfj/0103/leadlist.shtml	[局党组书记、局长]		海南省信访局	https://xf.hainan.gov.cn/sxfj/0103/202504/47315cf888c6468195e8ed4ea24221b2.shtml	3042
+邢益琼		2		海南省		https://xf.hainan.gov.cn/sxfj/0103/leadlist.shtml	[局党组成员、副局长]		海南省信访局	https://xf.hainan.gov.cn/sxfj/0103/202302/5c522caf95a748fcafd2ac8673b0f88f.shtml	3042
+邓勇		3		海南省		https://xf.hainan.gov.cn/sxfj/0103/leadlist.shtml	[局党组成员、副局长]		海南省信访局	https://xf.hainan.gov.cn/sxfj/0103/202411/8bf0365b849a4ab99cebb49e088b9e35.shtml	3042

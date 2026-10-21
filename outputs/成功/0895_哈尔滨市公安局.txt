@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+尹喜峰		1		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106943/202306/c01_750120.shtml	副市长、市公安局党委书记、局长		哈尔滨市公安局		0895
+刘光宇		2		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106943/202306/c01_750120.shtml	市公安局党委副书记、副局长（正局长级）		哈尔滨市公安局		0895
+邓晓飞		3		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106943/202306/c01_750120.shtml	市公安局党委委员、特勤局局长		哈尔滨市公安局		0895
+刘畅		4		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106943/202306/c01_750120.shtml	市公安局党委委员、副局长		哈尔滨市公安局		0895
+王锋		5		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106943/202306/c01_750120.shtml	市公安局党委委员、驻局纪检监察组组长		哈尔滨市公安局		0895
+唐健		6		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106943/202306/c01_750120.shtml	市公安局党委委员、政治部主任		哈尔滨市公安局		0895
+付时光		7		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106943/202306/c01_750120.shtml	市公安局党委委员、副局长		哈尔滨市公安局		0895
+孙立夫		8		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106943/202306/c01_750120.shtml	市公安局党委委员、副局长		哈尔滨市公安局		0895
+李博		9		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106943/202306/c01_750120.shtml	市公安局副局长		哈尔滨市公安局		0895
+王典明		10		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c106943/202306/c01_750120.shtml	市公安局副局长		哈尔滨市公安局		0895

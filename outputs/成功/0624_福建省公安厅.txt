@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李建成		1		福建省		http://gat.fujian.gov.cn/zwgk/jggk/ldjs/ljc/	省政府副省长，省公安厅党委书记、厅长、督察长		福建省公安厅		0624
+王锡章		2		福建省		http://gat.fujian.gov.cn/zwgk/jggk/ldjs/ljc/	省公安厅党委副书记、分管日常工作的副厅长（正厅长级）		福建省公安厅	http://gat.fujian.gov.cn/zwgk/jggk/ldjs/wxz/	0624
+许耀鹏		3		福建省		http://gat.fujian.gov.cn/zwgk/jggk/ldjs/ljc/	省公安厅党委委员、副厅长、一级巡视员		福建省公安厅	http://gat.fujian.gov.cn/zwgk/jggk/ldjs/xyp/	0624
+马明		4		福建省		http://gat.fujian.gov.cn/zwgk/jggk/ldjs/ljc/	省公安厅党委委员、特勤局党委书记、局长		福建省公安厅	http://gat.fujian.gov.cn/zwgk/jggk/ldjs/mm/	0624
+池家文		5		福建省		http://gat.fujian.gov.cn/zwgk/jggk/ldjs/ljc/	省纪委监委驻省公安厅纪检监察组组长、省公安厅党委委员		福建省公安厅	http://gat.fujian.gov.cn/zwgk/jggk/ldjs/cjw/	0624
+洪永新		6		福建省		http://gat.fujian.gov.cn/zwgk/jggk/ldjs/ljc/	省公安厅党委委员、副厅长		福建省公安厅	http://gat.fujian.gov.cn/zwgk/jggk/ldjs/hyx/	0624
+肖进才		7		福建省		http://gat.fujian.gov.cn/zwgk/jggk/ldjs/ljc/	省公安厅党委委员、福州市政府副市长、市公安局党委书记、局长		福建省公安厅	http://gat.fujian.gov.cn/zwgk/jggk/ldjs/xjc/	0624
+张晓容		8		福建省		http://gat.fujian.gov.cn/zwgk/jggk/ldjs/ljc/	省公安厅党委委员、政治部主任		福建省公安厅	http://gat.fujian.gov.cn/zwgk/jggk/ldjs/zxr/	0624
+许佳		9		福建省		http://gat.fujian.gov.cn/zwgk/jggk/ldjs/ljc/	省公安厅党委委员、副厅长		福建省公安厅	http://gat.fujian.gov.cn/zwgk/jggk/ldjs/xj/	0624
+吴卫云		10		福建省		http://gat.fujian.gov.cn/zwgk/jggk/ldjs/ljc/	省公安厅党委委员、副厅长		福建省公安厅	http://gat.fujian.gov.cn/zwgk/jggk/ldjs/wwy/	0624
+肖申华		11		福建省		http://gat.fujian.gov.cn/zwgk/jggk/ldjs/ljc/	省公安厅党委委员、副厅长		福建省公安厅	http://gat.fujian.gov.cn/zwgk/jggk/ldjs/xsh/	0624

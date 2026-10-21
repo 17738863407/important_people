@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王维强		1		全国		https://www.chinacft.org.cn/gywm.html?pn=1	主任		中国金融培训中心		4011
+胡涛		2		全国		https://www.chinacft.org.cn/gywm.html?pn=1	副主任		中国金融培训中心		4011
+陆志坚		3		全国		https://www.chinacft.org.cn/gywm.html?pn=1	副主任		中国金融培训中心		4011

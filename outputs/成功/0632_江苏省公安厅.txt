@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡彬郴		1		江苏省		https://gat.jiangsu.gov.cn/col/col89902/index.html	江苏省人民政府副省长、党组成员，省公安厅厅长、党委书记、督察长，省委政法委员会副书记		江苏省公安厅	https://gat.jiangsu.gov.cn/art/2025/5/30/art_89902_50.html	0632
+徐大勇		2		江苏省		https://gat.jiangsu.gov.cn/col/col89902/index.html	江苏省公安厅党委副书记，南京市副市长，市公安局局长、党委书记、督察长		江苏省公安厅	https://gat.jiangsu.gov.cn/art/2024/3/6/art_89902_49.html	0632
+陈安		3		江苏省		https://gat.jiangsu.gov.cn/col/col89902/index.html	江苏省公安厅常务副厅长、党委副书记		江苏省公安厅	https://gat.jiangsu.gov.cn/art/2023/12/7/art_89902_44.html	0632
+覃仕毅		4		江苏省		https://gat.jiangsu.gov.cn/col/col89902/index.html	江苏省公安厅党委委员，特勤局局长、党委书记		江苏省公安厅	https://gat.jiangsu.gov.cn/art/2023/12/7/art_89902_46.html	0632
+周凤琴		5		江苏省		https://gat.jiangsu.gov.cn/col/col89902/index.html	江苏省公安厅党委委员，江苏警官学院党委书记		江苏省公安厅	https://gat.jiangsu.gov.cn/art/2026/4/27/art_89902_52.html	0632
+陈红淦		6		江苏省		https://gat.jiangsu.gov.cn/col/col89902/index.html	江苏省公安厅副厅长、党委委员		江苏省公安厅	https://gat.jiangsu.gov.cn/art/2023/12/7/art_89902_43.html	0632
+谭永生		7		江苏省		https://gat.jiangsu.gov.cn/col/col89902/index.html	江苏省公安厅副厅长、党委委员		江苏省公安厅	https://gat.jiangsu.gov.cn/art/2023/12/7/art_89902_42.html	0632
+朱荣		8		江苏省		https://gat.jiangsu.gov.cn/col/col89902/index.html	江苏省公安厅副厅长、党委委员		江苏省公安厅	https://gat.jiangsu.gov.cn/art/2026/4/27/art_89902_51.html	0632
+高松		9		江苏省		https://gat.jiangsu.gov.cn/col/col89902/index.html	江苏省公安厅党委委员，苏州市政府党组成员，市公安局党委书记、督察长，市委政法委员会副书记		江苏省公安厅	https://gat.jiangsu.gov.cn/art/2023/12/7/art_89902_41.html	0632
+杨广学		10		江苏省		https://gat.jiangsu.gov.cn/col/col89902/index.html	江苏省公安厅党委委员，政治部主任、机关党委书记		江苏省公安厅	https://gat.jiangsu.gov.cn/art/2026/7/24/art_89902_53.html	0632
+赵居伦		11		江苏省		https://gat.jiangsu.gov.cn/col/col89902/index.html	江苏省公安厅副厅长、党委委员		江苏省公安厅	https://gat.jiangsu.gov.cn/art/2026/7/24/art_89902_54.html	0632

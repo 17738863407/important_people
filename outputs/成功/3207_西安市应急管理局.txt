@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张兴华		1		陕西省	西安市	http://yjglj.xa.gov.cn/jg/ldxx/1.html	党委书记、局长，西安市消防救援支队第一政治委员(兼)		西安市应急管理局		3207
+段胜利		2		陕西省	西安市	http://yjglj.xa.gov.cn/jg/ldxx/1.html	党委委员、副局长		西安市应急管理局		3207
+李君亭		3		陕西省	西安市	http://yjglj.xa.gov.cn/jg/ldxx/1.html	党委委员、副局长		西安市应急管理局		3207
+张文川		4		陕西省	西安市	http://yjglj.xa.gov.cn/jg/ldxx/1.html	党委委员		西安市应急管理局		3207
+徐杨		5		陕西省	西安市	http://yjglj.xa.gov.cn/jg/ldxx/1.html	党委委员、市纪委监委派驻市应急管理局纪检监察组组长		西安市应急管理局		3207
+杨西鹏		6		陕西省	西安市	http://yjglj.xa.gov.cn/jg/ldxx/1.html	党委委员		西安市应急管理局		3207
+刘永峰		7		陕西省	西安市	http://yjglj.xa.gov.cn/jg/ldxx/1.html	执法支队支队长		西安市应急管理局		3207

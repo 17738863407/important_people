@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张智明		1		辽宁省		https://mzw.ln.gov.cn/mzw/zfxxgk/fdzdgknr/jgjj/index.shtml	党组书记、主任		辽宁省民族和宗教事务委员会	https://mzw.ln.gov.cn/mzw/zfxxgk/fdzdgknr/jgjj/bmld/lgh/index.shtml	1804
+邓荔		2		辽宁省		https://mzw.ln.gov.cn/mzw/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副主任		辽宁省民族和宗教事务委员会	https://mzw.ln.gov.cn/mzw/zfxxgk/fdzdgknr/jgjj/bmld/ln/index.shtml	1804
+王强		3		辽宁省		https://mzw.ln.gov.cn/mzw/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副主任		辽宁省民族和宗教事务委员会	https://mzw.ln.gov.cn/mzw/zfxxgk/fdzdgknr/jgjj/bmld/wq/index.shtml	1804
+张全		4		辽宁省		https://mzw.ln.gov.cn/mzw/zfxxgk/fdzdgknr/jgjj/index.shtml	党组成员、副主任		辽宁省民族和宗教事务委员会	https://mzw.ln.gov.cn/mzw/zfxxgk/fdzdgknr/jgjj/bmld/zq/index.shtml	1804

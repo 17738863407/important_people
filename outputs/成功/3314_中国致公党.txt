@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蒋作君		1		全国		https://www.zg.org.cn/zgdjj/ljld/dsljld/	全国政协副主席、致公党中央主席		中国致公党	https://www.zg.org.cn/zgdjj/ljld/dsljld/202212/t20221216_75309.htm	3314
+张恩迪		2		全国		https://www.zg.org.cn/zgdjj/ljld/dsljld/	全国政协常委、副秘书长，致公党中央常务副主席、中央内部监督委员会主任		中国致公党	https://www.zg.org.cn/zgdjj/ljld/dsljld/202212/t20221216_75308.htm	3314
+曹鸿鸣		3		全国		https://www.zg.org.cn/zgdjj/ljld/dsljld/	全国人大常委会委员、华侨委员会副主任委员，致公党中央专职副主席、致公党中央内部监督委员会副主任		中国致公党	https://www.zg.org.cn/zgdjj/ljld/dsljld/202212/t20221216_75307.htm	3314
+杨兴平		4		全国		https://www.zg.org.cn/zgdjj/ljld/dsljld/	全国人大代表、四川省人大代表，致公党中央副主席、四川省委会主委，四川省人民政府副省长		中国致公党	https://www.zg.org.cn/zgdjj/ljld/dsljld/202212/t20221216_75300.htm	3314
+徐晓兰		5		全国		https://www.zg.org.cn/zgdjj/ljld/dsljld/	全国政协常委、经济委员会委员，致公党中央专职副主席，全国妇联副主席（兼）、中国电子学会第十一届理事会理事长		中国致公党	https://www.zg.org.cn/zgdjj/ljld/dsljld/202212/t20221216_75302.htm	3314
+卢国懿		6		全国		https://www.zg.org.cn/zgdjj/ljld/dsljld/	全国政协常委、港澳台侨委员会副主任，致公党中央专职副主席兼秘书长		中国致公党	https://www.zg.org.cn/zgdjj/ljld/dsljld/202212/t20221216_75303.htm	3314

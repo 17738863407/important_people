@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吕曦		1		广西壮族自治区	南宁市	http://rsj.nanning.gov.cn/zwgk/fdzdgknr/jgzn/ldxx/t6340829.html	南宁市人力资源和社会保障局党组书记、局长、一级调研员，中共南宁市委组织部副部长（兼）		南宁市人力资源和社会保障局		2205
+陆多迎		2		广西壮族自治区	南宁市	http://rsj.nanning.gov.cn/zwgk/fdzdgknr/jgzn/ldxx/t6340829.html	南宁市人力资源和社会保障局党组成员、副局长、三级调研员		南宁市人力资源和社会保障局		2205
+姚美华		3		广西壮族自治区	南宁市	http://rsj.nanning.gov.cn/zwgk/fdzdgknr/jgzn/ldxx/t6340829.html	中共南宁市纪律检查委员会、南宁市监察委员会驻南宁市人力资源和社会保障局纪检监察组组长，南宁市人力资源和社会保障局党组成员		南宁市人力资源和社会保障局		2205
+谭洁		4		广西壮族自治区	南宁市	http://rsj.nanning.gov.cn/zwgk/fdzdgknr/jgzn/ldxx/t6340829.html	南宁市人力资源和社会保障局党组成员、副局长		南宁市人力资源和社会保障局		2205
+谢晓娜		5		广西壮族自治区	南宁市	http://rsj.nanning.gov.cn/zwgk/fdzdgknr/jgzn/ldxx/t6340829.html	南宁市人力资源和社会保障局党组成员、副局长		南宁市人力资源和社会保障局		2205
+黄文松		6		广西壮族自治区	南宁市	http://rsj.nanning.gov.cn/zwgk/fdzdgknr/jgzn/ldxx/t6340829.html	南宁市人力资源和社会保障局一级调研员		南宁市人力资源和社会保障局		2205
+邱凤伟		7		广西壮族自治区	南宁市	http://rsj.nanning.gov.cn/zwgk/fdzdgknr/jgzn/ldxx/t6340829.html	南宁市人力资源和社会保障局二级调研员		南宁市人力资源和社会保障局		2205
+苏金锐		8		广西壮族自治区	南宁市	http://rsj.nanning.gov.cn/zwgk/fdzdgknr/jgzn/ldxx/t6340829.html	南宁市人力资源和社会保障局三级调研员		南宁市人力资源和社会保障局		2205

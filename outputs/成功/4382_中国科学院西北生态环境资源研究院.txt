@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+冯起		1		全国		https://nieer.cas.cn/gkjj/xrld/	院长、党委委员		中国科学院西北生态环境资源研究院	http://nieer.cas.cn/cs/yld/index.html	4382
+张长春		2		全国		https://nieer.cas.cn/gkjj/xrld/	党委书记、副院长		中国科学院西北生态环境资源研究院	http://nieer.cas.cn/cs/zcc1/index.html	4382
+张明义		3		全国		https://nieer.cas.cn/gkjj/xrld/	副院长、党委委员		中国科学院西北生态环境资源研究院	http://nieer.cas.cn/cs/zmy1/index.html	4382
+袁小华		4		全国		https://nieer.cas.cn/gkjj/xrld/	纪委书记、党委委员		中国科学院西北生态环境资源研究院	http://nieer.cas.cn/cs/yxh1/index.html	4382
+李宗省		5		全国		https://nieer.cas.cn/gkjj/xrld/	副院长、党委委员		中国科学院西北生态环境资源研究院	http://nieer.cas.cn/cs/lzx1/index.html	4382
+范桥辉		6		全国		https://nieer.cas.cn/gkjj/xrld/	院务委员、党委委员		中国科学院西北生态环境资源研究院	http://nieer.cas.cn/cs/fqh1/index.html	4382
+苗运法		7		全国		https://nieer.cas.cn/gkjj/xrld/	院务委员		中国科学院西北生态环境资源研究院	http://nieer.cas.cn/cs/myf1/index.html	4382
+孟宪红		8		全国		https://nieer.cas.cn/gkjj/xrld/	院务委员、党委委员		中国科学院西北生态环境资源研究院	http://nieer.cas.cn/cs/mxh1/index.html	4382

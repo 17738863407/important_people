@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张海峰		1		全国		https://www.tio.org.cn/OWUP/html/ldzc/	所长、党委副书记		自然资源部第三海洋研究所		2701
+梅显俊		2		全国		https://www.tio.org.cn/OWUP/html/ldzc/	党委书记、副所长		自然资源部第三海洋研究所		2701
+陈彬		3		全国		https://www.tio.org.cn/OWUP/html/ldzc/	副所长		自然资源部第三海洋研究所		2701
+陈建宁		4		全国		https://www.tio.org.cn/OWUP/html/ldzc/	党委委员，副所长		自然资源部第三海洋研究所		2701
+吴向荣		5		全国		https://www.tio.org.cn/OWUP/html/ldzc/	党委委员，纪委书记		自然资源部第三海洋研究所		2701
+林龙山		6		全国		https://www.tio.org.cn/OWUP/html/ldzc/	党委委员，副所长		自然资源部第三海洋研究所		2701
+刘希		7		全国		https://www.tio.org.cn/OWUP/html/ldzc/	副所长		自然资源部第三海洋研究所		2701

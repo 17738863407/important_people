@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+许宁		1		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202105/t20210510_924369.htm	主任		文化和旅游部艺术发展中心		1521
+孔蓉		2		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202105/t20210510_924369.htm	副主任		文化和旅游部艺术发展中心		1521
+潘慧卿		3		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202105/t20210510_924369.htm	副主任		文化和旅游部艺术发展中心		1521
+乔宜男		4		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202105/t20210510_924369.htm	副主任		文化和旅游部艺术发展中心		1521

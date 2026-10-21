@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈岳峰		1		福建省	三明市	https://www.sm.gov.cn/zw/sld/cyf/?sid_for_share=99125_3	市长		三明市人民政府		3877
+李盛烨		2		福建省	三明市	https://www.sm.gov.cn/zw/sld/cyf/?sid_for_share=99125_3	副市长		三明市人民政府	https://www.sm.gov.cn/zw/sld/lsy/	3877
+张元明		3		福建省	三明市	https://www.sm.gov.cn/zw/sld/cyf/?sid_for_share=99125_3	副市长		三明市人民政府	https://www.sm.gov.cn/zw/sld/zymfsz/	3877
+林菁		4		福建省	三明市	https://www.sm.gov.cn/zw/sld/cyf/?sid_for_share=99125_3	副市长		三明市人民政府	https://www.sm.gov.cn/zw/sld/lq/	3877
+廖金辉		5		福建省	三明市	https://www.sm.gov.cn/zw/sld/cyf/?sid_for_share=99125_3	副市长		三明市人民政府	https://www.sm.gov.cn/zw/sld/ljh/	3877
+吴健成		6		福建省	三明市	https://www.sm.gov.cn/zw/sld/cyf/?sid_for_share=99125_3	副市长		三明市人民政府	https://www.sm.gov.cn/zw/sld/wjc/	3877
+游文杰		7		福建省	三明市	https://www.sm.gov.cn/zw/sld/cyf/?sid_for_share=99125_3	副市长		三明市人民政府	https://www.sm.gov.cn/zw/sld/ywj/	3877
+王冬		8		福建省	三明市	https://www.sm.gov.cn/zw/sld/cyf/?sid_for_share=99125_3	秘书长		三明市人民政府	https://www.sm.gov.cn/zw/sld/wdmsz/	3877

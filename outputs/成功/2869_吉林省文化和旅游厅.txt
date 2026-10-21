@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙光芝		1		吉林省		https://whhlyt.jl.gov.cn/stgk/	厅长		吉林省文化和旅游厅	https://whhlyt.jl.gov.cn/stgk/stld/202302/t20230216_8669728.html	2869
+柏晓明		2		吉林省		https://whhlyt.jl.gov.cn/stgk/	纪检监察组组长		吉林省文化和旅游厅	https://whhlyt.jl.gov.cn/stgk/stld/202312/t20231222_8855528.html	2869
+金振林		3		吉林省		https://whhlyt.jl.gov.cn/stgk/	副厅长		吉林省文化和旅游厅	https://whhlyt.jl.gov.cn/stgk/stld/202109/t20210929_8234801.html	2869
+宋薇		4		吉林省		https://whhlyt.jl.gov.cn/stgk/	副厅长		吉林省文化和旅游厅	https://whhlyt.jl.gov.cn/stgk/stld/202409/t20240929_8981058.html	2869
+刘大蔚		5		吉林省		https://whhlyt.jl.gov.cn/stgk/	副厅长		吉林省文化和旅游厅	https://whhlyt.jl.gov.cn/stgk/stld/202607/t20260710_9663056.html	2869
+张鹏		6		吉林省		https://whhlyt.jl.gov.cn/stgk/	副厅长		吉林省文化和旅游厅	https://whhlyt.jl.gov.cn/stgk/stld/202601/t20260104_9387762.html	2869
+孙立君		7		吉林省		https://whhlyt.jl.gov.cn/stgk/	一级巡视员		吉林省文化和旅游厅	https://whhlyt.jl.gov.cn/stgk/stld/202004/t20200427_7177373.html	2869

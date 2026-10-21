@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+韦凤云		1		广西壮族自治区	贺州市	http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/ldxx/	代理市长		贺州市人民政府	http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/ldxx/sz/index.shtml	3830
+范小花		2		广西壮族自治区	贺州市	http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/ldxx/	副市长		贺州市人民政府	http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/ldxx/fsz/t4157809.shtml	3830
+李丽		3		广西壮族自治区	贺州市	http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/ldxx/	副市长		贺州市人民政府	http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/ldxx/fsz/t5669648.shtml	3830
+罗剑		4		广西壮族自治区	贺州市	http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/ldxx/	副市长		贺州市人民政府	http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/ldxx/fsz/t10454792.shtml	3830
+陈耀超		5		广西壮族自治区	贺州市	http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/ldxx/	副市长		贺州市人民政府	http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/ldxx/fsz/t17500153.shtml	3830
+陈展维		6		广西壮族自治区	贺州市	http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/ldxx/	秘书长		贺州市人民政府	http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/ldxx/msz/t10380578.shtml	3830

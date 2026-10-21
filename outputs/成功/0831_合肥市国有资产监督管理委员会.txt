@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙超		1		安徽省	合肥市	https://gzw.hefei.gov.cn/jggk/fwcn/15450791.html	党委委员、副主任		合肥市国有资产监督管理委员会		0831
+张庆伟		2		安徽省	合肥市	https://gzw.hefei.gov.cn/jggk/fwcn/15450791.html	党委委员、副主任		合肥市国有资产监督管理委员会		0831
+江艳		3		安徽省	合肥市	https://gzw.hefei.gov.cn/jggk/fwcn/15450791.html	党委委员、副主任		合肥市国有资产监督管理委员会		0831
+赵斌		4		安徽省	合肥市	https://gzw.hefei.gov.cn/jggk/fwcn/15450791.html	党委委员、驻市国资委纪检监察组组长		合肥市国有资产监督管理委员会		0831
+项飙		5		安徽省	合肥市	https://gzw.hefei.gov.cn/jggk/fwcn/15450791.html	总经济师		合肥市国有资产监督管理委员会		0831
+吴翔翎		6		安徽省	合肥市	https://gzw.hefei.gov.cn/jggk/fwcn/15450791.html	二级调研员		合肥市国有资产监督管理委员会		0831

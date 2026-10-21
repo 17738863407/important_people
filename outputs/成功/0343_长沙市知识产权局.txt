@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴宏亮		1		湖南省	长沙市	http://csipo.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组成员、副局长		长沙市知识产权局	http://csipo.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202402/t20240204_11365495.html	0343
+徐拥军		2		湖南省	长沙市	http://csipo.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组成员、副局长		长沙市知识产权局	http://csipo.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/201512/t20151204_2242004.html	0343
+黄向红		3		湖南省	长沙市	http://csipo.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组成员、副局长		长沙市知识产权局	http://csipo.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/201804/t20180416_2242003.html	0343
+李薇		4		湖南省	长沙市	http://csipo.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	党组成员、副局长		长沙市知识产权局	http://csipo.changsha.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202208/t20220831_10779686.html	0343

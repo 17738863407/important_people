@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李斌		1		全国		https://www.hmrc.net.cn/aboutus/zdjx/	党委书记、主任		交通运输部路网监测与应急处置中心	https://www.hmrc.net.cn/aboutus/zdjx/202505/t20250526_2769.html	0986
+朱传生		2		全国		https://www.hmrc.net.cn/aboutus/zdjx/	纪委书记、党委委员		交通运输部路网监测与应急处置中心	https://www.hmrc.net.cn/aboutus/zdjx/202511/t20251119_5451.html	0986
+张志军		3		全国		https://www.hmrc.net.cn/aboutus/zdjx/	党委委员、副主任，工会主席		交通运输部路网监测与应急处置中心	https://www.hmrc.net.cn/aboutus/zdjx/202505/t20250526_2767.html	0986
+陈洁		4		全国		https://www.hmrc.net.cn/aboutus/zdjx/	党委委员、副主任		交通运输部路网监测与应急处置中心	https://www.hmrc.net.cn/aboutus/zdjx/202505/t20250526_2766.html	0986

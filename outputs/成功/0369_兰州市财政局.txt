@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张永才		1		甘肃省	兰州市	http://czj.lanzhou.gov.cn/col/col10250/index.html	党组书记、局长		兰州市财政局	http://czj.lanzhou.gov.cn/col/col21136/index.html	0369
+杨建英		2		甘肃省	兰州市	http://czj.lanzhou.gov.cn/col/col10250/index.html	党组副书记、副局长		兰州市财政局	http://czj.lanzhou.gov.cn/col/col25345/index.html	0369
+赵松涛		3		甘肃省	兰州市	http://czj.lanzhou.gov.cn/col/col10250/index.html	党组成员、市纪委监委派驻市财政局纪检监察组组长		兰州市财政局	http://czj.lanzhou.gov.cn/col/col21138/index.html	0369
+张永花		4		甘肃省	兰州市	http://czj.lanzhou.gov.cn/col/col10250/index.html	党组成员、非税收入核算中心主任		兰州市财政局	http://czj.lanzhou.gov.cn/col/col21142/index.html	0369
+刘颖		5		甘肃省	兰州市	http://czj.lanzhou.gov.cn/col/col10250/index.html	党组成员、副局长		兰州市财政局	http://czj.lanzhou.gov.cn/col/col21139/index.html	0369
+胡海香		6		甘肃省	兰州市	http://czj.lanzhou.gov.cn/col/col10250/index.html	党组成员、副局长		兰州市财政局	http://czj.lanzhou.gov.cn/col/col21141/index.html	0369
+郭振海		7		甘肃省	兰州市	http://czj.lanzhou.gov.cn/col/col10250/index.html	党组成员、副局长		兰州市财政局	http://czj.lanzhou.gov.cn/col/col26085/index.html	0369
+武浩		8		甘肃省	兰州市	http://czj.lanzhou.gov.cn/col/col10250/index.html	党组成员、副局长		兰州市财政局	http://czj.lanzhou.gov.cn/col/col25061/index.html	0369
+张颖		9		甘肃省	兰州市	http://czj.lanzhou.gov.cn/col/col10250/index.html	党组成员、副局长		兰州市财政局	http://czj.lanzhou.gov.cn/col/col28306/index.html	0369

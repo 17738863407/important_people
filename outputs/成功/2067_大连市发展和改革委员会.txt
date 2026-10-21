@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+顾在浜		1		辽宁省	大连市	https://pc.dl.gov.cn/col/col8898/index.html?vc_xxgkarea=2102000056&number=DL014&jh=263	党组书记、主任（局长）		大连市发展和改革委员会	https://pc.dl.gov.cn/art/2023/10/13/art_8899_2084094.html	2067
+邵龙馥		2		辽宁省	大连市	https://pc.dl.gov.cn/col/col8898/index.html?vc_xxgkarea=2102000056&number=DL014&jh=263	党组成员		大连市发展和改革委员会	https://pc.dl.gov.cn/art/2023/10/13/art_8899_2084095.html	2067
+杨科		3		辽宁省	大连市	https://pc.dl.gov.cn/col/col8898/index.html?vc_xxgkarea=2102000056&number=DL014&jh=263	副主任（副局长）（兼）		大连市发展和改革委员会	https://pc.dl.gov.cn/art/2024/7/31/art_8899_2342318.html	2067
+应涛		4		辽宁省	大连市	https://pc.dl.gov.cn/col/col8898/index.html?vc_xxgkarea=2102000056&number=DL014&jh=263	副主任（副局长）（兼）		大连市发展和改革委员会	https://pc.dl.gov.cn/art/2026/7/23/art_8899_2526516.html	2067
+于冬		5		辽宁省	大连市	https://pc.dl.gov.cn/col/col8898/index.html?vc_xxgkarea=2102000056&number=DL014&jh=263	党组成员，驻委纪检监察组组长		大连市发展和改革委员会	https://pc.dl.gov.cn/art/2024/7/31/art_8899_2342320.html	2067
+姜洪波		6		辽宁省	大连市	https://pc.dl.gov.cn/col/col8898/index.html?vc_xxgkarea=2102000056&number=DL014&jh=263	党组成员、副主任（副局长）		大连市发展和改革委员会	https://pc.dl.gov.cn/art/2023/10/13/art_8899_2094245.html	2067
+于洋		7		辽宁省	大连市	https://pc.dl.gov.cn/col/col8898/index.html?vc_xxgkarea=2102000056&number=DL014&jh=263	党组成员、副主任（副局长）		大连市发展和改革委员会	https://pc.dl.gov.cn/art/2023/6/15/art_8899_2084099.html	2067
+傅吉新		8		辽宁省	大连市	https://pc.dl.gov.cn/col/col8898/index.html?vc_xxgkarea=2102000056&number=DL014&jh=263	党组成员、副主任（副局长）		大连市发展和改革委员会	https://pc.dl.gov.cn/art/2024/7/31/art_8899_2342323.html	2067
+胡健		9		辽宁省	大连市	https://pc.dl.gov.cn/col/col8898/index.html?vc_xxgkarea=2102000056&number=DL014&jh=263	总经济师		大连市发展和改革委员会	https://pc.dl.gov.cn/art/2026/7/23/art_8899_2526500.html	2067
+党红瑾		10		辽宁省	大连市	https://pc.dl.gov.cn/col/col8898/index.html?vc_xxgkarea=2102000056&number=DL014&jh=263	总工程师		大连市发展和改革委员会	https://pc.dl.gov.cn/art/2026/7/23/art_8899_2526506.html	2067

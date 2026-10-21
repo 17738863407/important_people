@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+苏虎超		1		陕西省		https://fsa.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/	省委金融委员会办公室常务副主任（正厅长级）、省委金融工作委员会常务副书记、省地方金融管理局局长		陕西省委金融委员会办公室		0572
+张荣辉		2		陕西省		https://fsa.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/	省委金融委员会办公室副主任、省委金融工作委员会委员		陕西省委金融委员会办公室		0572
+李兴龙		3		陕西省		https://fsa.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/	省委金融委员会办公室副主任、省委金融工作委员会委员		陕西省委金融委员会办公室		0572
+高冬民		4		陕西省		https://fsa.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/	省委金融工作委员会委员、省委金融纪检监察工作委员会书记		陕西省委金融委员会办公室		0572

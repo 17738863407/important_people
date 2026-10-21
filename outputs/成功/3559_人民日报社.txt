@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于绍良		1		全国		https://www.people.com.cn/GB/50142/104580/440928/index.html	人民日报社社长		人民日报社	https://www.people.com.cn/GB/50142/104580/440928/440929/442025/index.html	3559
+陈建文		2		全国		https://www.people.com.cn/GB/50142/104580/440928/index.html	人民日报社总编辑		人民日报社	https://www.people.com.cn/GB/50142/104580/440928/440929/459592/index.html	3559
+秦斌		3		全国		https://www.people.com.cn/GB/50142/104580/440928/index.html	中央纪委国家监委驻人民日报社纪检监察组组长、人民日报社编委委员		人民日报社	https://www.people.com.cn/GB/50142/104580/440928/440929/459595/index.html	3559
+陈贽		4		全国		https://www.people.com.cn/GB/50142/104580/440928/index.html	人民日报社编委委员、海外版编辑部总编辑		人民日报社	https://www.people.com.cn/GB/50142/104580/440928/440929/442031/index.html	3559
+徐立京		5		全国		https://www.people.com.cn/GB/50142/104580/440928/index.html	人民日报社副总编辑		人民日报社	https://www.people.com.cn/GB/50142/104580/440928/440929/448770/index.html	3559
+马宏伟		6		全国		https://www.people.com.cn/GB/50142/104580/440928/index.html	人民日报社副总编辑		人民日报社	https://www.people.com.cn/GB/50142/104580/440928/440929/458416/index.html	3559
+叶蓁蓁		7		全国		https://www.people.com.cn/GB/50142/104580/440928/index.html	人民日报社副社长兼人民网股份有限公司董事长		人民日报社	https://www.people.com.cn/GB/50142/104580/440928/440929/459594/index.html	3559
+杜尚泽		8		全国		https://www.people.com.cn/GB/50142/104580/440928/index.html	人民日报社副总编辑		人民日报社	https://www.people.com.cn/GB/50142/104580/440928/440929/459593/index.html	3559

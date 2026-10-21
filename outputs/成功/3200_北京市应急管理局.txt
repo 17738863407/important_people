@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+缪剑虹		1		北京市		https://yjglj.beijing.gov.cn/col/col6048/index.html	北京市人民政府副秘书长（兼），北京市应急管理局党委书记、局长		北京市应急管理局	https://yjglj.beijing.gov.cn/art/2025/1/2/art_6048_388.html	3200
+吴振坤		2		北京市		https://yjglj.beijing.gov.cn/col/col6048/index.html	北京市应急管理局党委委员、副局长（兼），北京市消防救援总队总队长		北京市应急管理局	https://yjglj.beijing.gov.cn/art/2024/3/15/art_6048_382.html	3200
+罗明		3		北京市		https://yjglj.beijing.gov.cn/col/col6048/index.html	北京市应急管理局党委副书记、副局长		北京市应急管理局	https://yjglj.beijing.gov.cn/art/2024/2/5/art_6048_378.html	3200
+廖全		4		北京市		https://yjglj.beijing.gov.cn/col/col6048/index.html	北京市应急管理局党委委员，中共北京市纪律检查委员会、北京市监察委员会驻北京市应急管理局纪检监察组组长，二级高级监察官		北京市应急管理局	https://yjglj.beijing.gov.cn/art/2025/7/4/art_6048_396.html	3200
+李宇		5		北京市		https://yjglj.beijing.gov.cn/col/col6048/index.html	北京市应急管理局党委委员、副局长		北京市应急管理局	https://yjglj.beijing.gov.cn/art/2023/11/10/art_6048_376.html	3200
+冯江全		6		北京市		https://yjglj.beijing.gov.cn/col/col6048/index.html	北京市应急管理局党委委员、副局长		北京市应急管理局	https://yjglj.beijing.gov.cn/art/2025/7/4/art_6048_398.html	3200
+靳玉光		7		北京市		https://yjglj.beijing.gov.cn/col/col6048/index.html	北京市应急管理局党委委员、副局长		北京市应急管理局	https://yjglj.beijing.gov.cn/art/2024/2/5/art_6048_380.html	3200
+车广杰		8		北京市		https://yjglj.beijing.gov.cn/col/col6048/index.html	北京市应急管理局党委委员、副局长		北京市应急管理局	https://yjglj.beijing.gov.cn/art/2025/6/13/art_6048_394.html	3200
+杨永军		9		北京市		https://yjglj.beijing.gov.cn/col/col6048/index.html	北京市应急管理局二级巡视员		北京市应急管理局	https://yjglj.beijing.gov.cn/art/2018/12/3/art_6048_206.html	3200
+朱戈		10		北京市		https://yjglj.beijing.gov.cn/col/col6048/index.html	北京市应急管理局二级巡视员		北京市应急管理局	https://yjglj.beijing.gov.cn/art/2019/3/1/art_6048_194.html	3200

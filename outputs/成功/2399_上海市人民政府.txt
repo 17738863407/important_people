@@ -1,0 +1,22 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱忠明		1		全国		https://www.shanghai.gov.cn/nw44727/index.html	市长		上海市人民政府	https://www.shanghai.gov.cn/zhuzhongming/index.html	2399
+华源		2		全国		https://www.shanghai.gov.cn/nw44727/index.html	副市长		上海市人民政府	https://www.shanghai.gov.cn/huayuan/index.html	2399
+陈杰		3		全国		https://www.shanghai.gov.cn/nw44727/index.html	副市长		上海市人民政府	https://www.shanghai.gov.cn/chenjie/index.html	2399
+张小宏		4		全国		https://www.shanghai.gov.cn/nw44727/index.html	副市长		上海市人民政府	https://www.shanghai.gov.cn/zhangxiaohong/index.html	2399
+卢山		5		全国		https://www.shanghai.gov.cn/nw44727/index.html	副市长		上海市人民政府	https://www.shanghai.gov.cn/lushan/index.html	2399
+张亚宏		6		全国		https://www.shanghai.gov.cn/nw44727/index.html	副市长		上海市人民政府	https://www.shanghai.gov.cn/zhangyahong/index.html	2399
+贺青		7		全国		https://www.shanghai.gov.cn/nw44727/index.html	副市长		上海市人民政府	https://www.shanghai.gov.cn/heqing/index.html	2399
+王华杰		8		全国		https://www.shanghai.gov.cn/nw44727/index.html	副市长		上海市人民政府	https://www.shanghai.gov.cn/wanghuajie/index.html	2399
+舒庆		9		全国		https://www.shanghai.gov.cn/nw44727/index.html	党组成员		上海市人民政府	https://www.shanghai.gov.cn/sq/index.html	2399
+马春雷		10		全国		https://www.shanghai.gov.cn/nw44727/index.html	市政府秘书长		上海市人民政府		2399
+夏科家		11		全国		https://www.shanghai.gov.cn/nw44727/index.html	市政府副秘书长		上海市人民政府		2399
+金鹏辉		12		全国		https://www.shanghai.gov.cn/nw44727/index.html	市政府副秘书长		上海市人民政府		2399
+章雄		13		全国		https://www.shanghai.gov.cn/nw44727/index.html	市政府副秘书长		上海市人民政府		2399
+吴金城		14		全国		https://www.shanghai.gov.cn/nw44727/index.html	市政府副秘书长		上海市人民政府		2399
+马笑虹		15		全国		https://www.shanghai.gov.cn/nw44727/index.html	市政府副秘书长		上海市人民政府		2399
+刘健		16		全国		https://www.shanghai.gov.cn/nw44727/index.html	市政府副秘书长		上海市人民政府		2399
+朱民		17		全国		https://www.shanghai.gov.cn/nw44727/index.html	市政府副秘书长		上海市人民政府		2399
+周亚明		18		全国		https://www.shanghai.gov.cn/nw44727/index.html	市政府副秘书长		上海市人民政府		2399
+张玉鑫		19		全国		https://www.shanghai.gov.cn/nw44727/index.html	市政府副秘书长		上海市人民政府		2399
+张英		20		全国		https://www.shanghai.gov.cn/nw44727/index.html	市政府副秘书长		上海市人民政府		2399
+张磊		21		全国		https://www.shanghai.gov.cn/nw44727/index.html	市政府副秘书长		上海市人民政府		2399

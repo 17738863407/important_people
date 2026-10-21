@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+叶牛平		1		陕西省	西安市	https://www.xa.gov.cn/ld/ynp/	市委副书记、市长		西安市人民政府		3015
+杨建强		2		陕西省	西安市	https://www.xa.gov.cn/ld/ynp/	市委常委、常务副市长		西安市人民政府	https://www.xa.gov.cn/ld/yjq/	3015
+孟浩		3		陕西省	西安市	https://www.xa.gov.cn/ld/ynp/	市委常委、副市长		西安市人民政府	https://www.xa.gov.cn/ld/mh/	3015
+张涌		4		陕西省	西安市	https://www.xa.gov.cn/ld/ynp/	市委常委、市政府党组成员		西安市人民政府	https://www.xa.gov.cn/ld/zy/	3015
+王泽明		5		陕西省	西安市	https://www.xa.gov.cn/ld/ynp/	市委常委、副市长		西安市人民政府	https://www.xa.gov.cn/ld/wzm/	3015
+肖琦		6		陕西省	西安市	https://www.xa.gov.cn/ld/ynp/	副市长		西安市人民政府	https://www.xa.gov.cn/ld/xq/	3015
+王征		7		陕西省	西安市	https://www.xa.gov.cn/ld/ynp/	副市长		西安市人民政府	https://www.xa.gov.cn/ld/wz/	3015
+解宁元		8		陕西省	西安市	https://www.xa.gov.cn/ld/ynp/	副市长		西安市人民政府	https://www.xa.gov.cn/ld/xny/	3015
+姜劲儒		9		陕西省	西安市	https://www.xa.gov.cn/ld/ynp/	副市长		西安市人民政府	https://www.xa.gov.cn/ld/jjr/	3015
+王建东		10		陕西省	西安市	https://www.xa.gov.cn/ld/ynp/	市政府秘书长		西安市人民政府	https://www.xa.gov.cn/ld/wjd/ldxx/1924791580577357825.html	3015

@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴正国		1		江苏省	无锡市	https://www.jiangnan.edu.cn/xxgk/xrld.htm	党委书记		江南大学	https://www.jiangnan.edu.cn/info/1225/11058.htm	3645
+李剑		2		江苏省	无锡市	https://www.jiangnan.edu.cn/xxgk/xrld.htm	党委副书记；校长		江南大学	https://www.jiangnan.edu.cn/info/1226/15091.htm	3645
+倪松涛		3		江苏省	无锡市	https://www.jiangnan.edu.cn/xxgk/xrld.htm	党委副书记		江南大学	https://www.jiangnan.edu.cn/info/1411/13012.htm	3645
+李旸		4		江苏省	无锡市	https://www.jiangnan.edu.cn/xxgk/xrld.htm	党委副书记；纪委书记		江南大学	https://www.jiangnan.edu.cn/info/1818/8342.htm	3645
+戴月波		5		江苏省	无锡市	https://www.jiangnan.edu.cn/xxgk/xrld.htm	副校长		江南大学	https://www.jiangnan.edu.cn/info/1228/13013.htm	3645
+张影陆		6		江苏省	无锡市	https://www.jiangnan.edu.cn/xxgk/xrld.htm	副校长		江南大学	https://www.jiangnan.edu.cn/info/1228/1022.htm	3645
+马鑫		7		江苏省	无锡市	https://www.jiangnan.edu.cn/xxgk/xrld.htm	副校长		江南大学	https://www.jiangnan.edu.cn/info/1228/9965.htm	3645
+刘龙		8		江苏省	无锡市	https://www.jiangnan.edu.cn/xxgk/xrld.htm	副校长		江南大学	https://www.jiangnan.edu.cn/info/1228/13967.htm	3645
+李兆丰		9		江苏省	无锡市	https://www.jiangnan.edu.cn/xxgk/xrld.htm	副校长		江南大学	https://www.jiangnan.edu.cn/info/1228/13968.htm	3645
+金科		10		江苏省	无锡市	https://www.jiangnan.edu.cn/xxgk/xrld.htm	副校长		江南大学	https://www.jiangnan.edu.cn/info/1228/14305.htm	3645

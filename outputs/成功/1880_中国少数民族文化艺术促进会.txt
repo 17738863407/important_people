@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+武翠英		1		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwhys/jgrysz.shtml	会长、法定代表人；国家民委文化宣传司原司长（已退休）		中国少数民族文化艺术促进会		1880
+李晓东		2		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwhys/jgrysz.shtml	副会长；国家民委全国少数民族古籍整理研究室原主任，已退休（兼秘书长）		中国少数民族文化艺术促进会		1880
+黄耀萍		3		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwhys/jgrysz.shtml	副会长；国家民委民族团结促进司司长		中国少数民族文化艺术促进会		1880
+钟廷雄		4		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwhys/jgrysz.shtml	副会长；国家民委文化宣传司副司长		中国少数民族文化艺术促进会		1880
+钟兴奎		5		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwhys/jgrysz.shtml	副会长；民族文化宫副主任		中国少数民族文化艺术促进会		1880
+任乌晶		6		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwhys/jgrysz.shtml	副会长；国家民委文化宣传司原副巡视员（已退休）		中国少数民族文化艺术促进会		1880
+刘玉琴		7		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwhys/jgrysz.shtml	副会长；人民日报文艺部原主任（已退休）		中国少数民族文化艺术促进会		1880
+李甲芹		8		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwhys/jgrysz.shtml	副会长；中国舞蹈家协会分党组原副书记（已退休）		中国少数民族文化艺术促进会		1880
+赵建新		9		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwhys/jgrysz.shtml	副会长；中国民族博物馆原副馆长（已退休）		中国少数民族文化艺术促进会		1880
+景宜		10		全国		https://www.neac.gov.cn/seac/mwjs/ssmzwhys/jgrysz.shtml	副会长；中国民族音像出版社原社长（已退休）		中国少数民族文化艺术促进会		1880

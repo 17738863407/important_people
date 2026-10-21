@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+贾效明		1		内蒙古自治区	呼伦贝尔市	https://www.hlbe.gov.cn/Leader/show/2/52.html	副市长		呼伦贝尔市人民政府	https://www.hlbe.gov.cn/Leader/show/2/999.html	3834
+辛曙光		2		内蒙古自治区	呼伦贝尔市	https://www.hlbe.gov.cn/Leader/show/2/52.html	副市长		呼伦贝尔市人民政府		3834
+梁劲松		3		内蒙古自治区	呼伦贝尔市	https://www.hlbe.gov.cn/Leader/show/2/52.html	副市长		呼伦贝尔市人民政府	https://www.hlbe.gov.cn/Leader/show/2/527.html	3834
+张洪波		4		内蒙古自治区	呼伦贝尔市	https://www.hlbe.gov.cn/Leader/show/2/52.html	副市长		呼伦贝尔市人民政府	https://www.hlbe.gov.cn/Leader/show/2/1027.html	3834
+杨子江		5		内蒙古自治区	呼伦贝尔市	https://www.hlbe.gov.cn/Leader/show/2/52.html	副市长		呼伦贝尔市人民政府	https://www.hlbe.gov.cn/Leader/show/2/531.html	3834
+孙微		6		内蒙古自治区	呼伦贝尔市	https://www.hlbe.gov.cn/Leader/show/2/52.html	副市长		呼伦贝尔市人民政府	https://www.hlbe.gov.cn/Leader/show/2/928.html	3834
+郭晓龙		7		内蒙古自治区	呼伦贝尔市	https://www.hlbe.gov.cn/Leader/show/2/52.html	副市长		呼伦贝尔市人民政府	https://www.hlbe.gov.cn/Leader/show/2/1065.html	3834
+文进磊		8		内蒙古自治区	呼伦贝尔市	https://www.hlbe.gov.cn/Leader/show/2/52.html	副市长		呼伦贝尔市人民政府	https://www.hlbe.gov.cn/Leader/show/2/994.html	3834

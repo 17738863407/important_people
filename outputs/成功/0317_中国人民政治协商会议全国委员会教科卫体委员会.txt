@@ -1,0 +1,19 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈宝生		1		全国		http://www.cppcc.gov.cn/zxww/newcppcc/jkwwtwyh/index.shtml	主任		中国人民政治协商会议全国委员会教科卫体委员会		0317
+王志刚		2		全国		http://www.cppcc.gov.cn/zxww/newcppcc/jkwwtwyh/index.shtml	副主任		中国人民政治协商会议全国委员会教科卫体委员会		0317
+邓清河		3		全国		http://www.cppcc.gov.cn/zxww/newcppcc/jkwwtwyh/index.shtml	副主任		中国人民政治协商会议全国委员会教科卫体委员会		0317
+刘伟		4		全国		http://www.cppcc.gov.cn/zxww/newcppcc/jkwwtwyh/index.shtml	副主任		中国人民政治协商会议全国委员会教科卫体委员会		0317
+尚勇		5		全国		http://www.cppcc.gov.cn/zxww/newcppcc/jkwwtwyh/index.shtml	副主任		中国人民政治协商会议全国委员会教科卫体委员会		0317
+郑和		6		全国		http://www.cppcc.gov.cn/zxww/newcppcc/jkwwtwyh/index.shtml	副主任		中国人民政治协商会议全国委员会教科卫体委员会		0317
+柯尊平		7		全国		http://www.cppcc.gov.cn/zxww/newcppcc/jkwwtwyh/index.shtml	副主任		中国人民政治协商会议全国委员会教科卫体委员会		0317
+钱克明		8		全国		http://www.cppcc.gov.cn/zxww/newcppcc/jkwwtwyh/index.shtml	副主任		中国人民政治协商会议全国委员会教科卫体委员会		0317
+徐延豪		9		全国		http://www.cppcc.gov.cn/zxww/newcppcc/jkwwtwyh/index.shtml	副主任		中国人民政治协商会议全国委员会教科卫体委员会		0317
+黄卫		10		全国		http://www.cppcc.gov.cn/zxww/newcppcc/jkwwtwyh/index.shtml	副主任		中国人民政治协商会议全国委员会教科卫体委员会		0317
+曹雪涛		11		全国		http://www.cppcc.gov.cn/zxww/newcppcc/jkwwtwyh/index.shtml	副主任		中国人民政治协商会议全国委员会教科卫体委员会		0317
+蔡名照		12		全国		http://www.cppcc.gov.cn/zxww/newcppcc/jkwwtwyh/index.shtml	副主任		中国人民政治协商会议全国委员会教科卫体委员会		0317
+马晓伟		13		全国		http://www.cppcc.gov.cn/zxww/newcppcc/jkwwtwyh/index.shtml	副主任		中国人民政治协商会议全国委员会教科卫体委员会		0317
+曹军		14		全国		http://www.cppcc.gov.cn/zxww/newcppcc/jkwwtwyh/index.shtml	副主任（驻会）		中国人民政治协商会议全国委员会教科卫体委员会		0317
+庹震		15		全国		http://www.cppcc.gov.cn/zxww/newcppcc/jkwwtwyh/index.shtml	副主任		中国人民政治协商会议全国委员会教科卫体委员会		0317
+丁学东		16		全国		http://www.cppcc.gov.cn/zxww/newcppcc/jkwwtwyh/index.shtml	副主任		中国人民政治协商会议全国委员会教科卫体委员会		0317
+唐良智		17		全国		http://www.cppcc.gov.cn/zxww/newcppcc/jkwwtwyh/index.shtml	副主任		中国人民政治协商会议全国委员会教科卫体委员会		0317
+李晓红		18		全国		http://www.cppcc.gov.cn/zxww/newcppcc/jkwwtwyh/index.shtml	副主任		中国人民政治协商会议全国委员会教科卫体委员会		0317

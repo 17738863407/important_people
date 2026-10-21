@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈阳		1		海南省	儋州市	https://www.danzhou.gov.cn/danzhou/xxgk/szf/sjldjs.html	市长		儋州市人民政府	https://www.danzhou.gov.cn/danzhou/xxgk/szf/szfld/sz/202307/t20230704_3447110.html	3810
+肖谦		2		海南省	儋州市	https://www.danzhou.gov.cn/danzhou/xxgk/szf/sjldjs.html	副市长		儋州市人民政府	https://www.danzhou.gov.cn/danzhou/xxgk/szf/szfld/fsz/202411/t20241127_3775165.html	3810
+冯本彦		3		海南省	儋州市	https://www.danzhou.gov.cn/danzhou/xxgk/szf/sjldjs.html	副市长		儋州市人民政府	https://www.danzhou.gov.cn/danzhou/xxgk/szf/szfld/fsz/202111/t20211119_3095627.html	3810
+杨宗峰		4		海南省	儋州市	https://www.danzhou.gov.cn/danzhou/xxgk/szf/sjldjs.html	副市长		儋州市人民政府	https://www.danzhou.gov.cn/danzhou/xxgk/szf/szfld/fsz/202406/t20240624_3685392.html	3810
+陈评		5		海南省	儋州市	https://www.danzhou.gov.cn/danzhou/xxgk/szf/sjldjs.html	副市长		儋州市人民政府	https://www.danzhou.gov.cn/danzhou/xxgk/szf/szfld/fsz/202509/t20250902_3923103.html	3810
+詹联科		6		海南省	儋州市	https://www.danzhou.gov.cn/danzhou/xxgk/szf/sjldjs.html	副市长		儋州市人民政府	https://www.danzhou.gov.cn/danzhou/xxgk/szf/szfld/fsz/202603/t20260319_4045823.html	3810
+王冰		7		海南省	儋州市	https://www.danzhou.gov.cn/danzhou/xxgk/szf/sjldjs.html	秘书长		儋州市人民政府	https://www.danzhou.gov.cn/danzhou/xxgk/szf/szfld/msz/202607/t20260717_4112543.html	3810

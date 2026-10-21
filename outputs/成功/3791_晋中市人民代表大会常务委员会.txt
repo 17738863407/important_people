@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王建忠		1		山西省	晋中市	https://www.sxjz.gov.cn/zwgk/fdzdgknr/ldzc	晋中市人大常委会党组书记、主任		晋中市人民代表大会常务委员会	https://www.sxjz.gov.cn/zwgk/fdzdgknr/ldzc/rdld/content_359374	3791
+段燕翔		2		山西省	晋中市	https://www.sxjz.gov.cn/zwgk/fdzdgknr/ldzc	晋中市人大常委会党组副书记、副主任，晋中市总工会主席		晋中市人民代表大会常务委员会	https://www.sxjz.gov.cn/zwgk/fdzdgknr/ldzc/rdld/content_405282	3791
+辛琰		3		山西省	晋中市	https://www.sxjz.gov.cn/zwgk/fdzdgknr/ldzc	晋中市人大常委会副主任、一级巡视员		晋中市人民代表大会常务委员会	https://www.sxjz.gov.cn/zwgk/fdzdgknr/ldzc/rdld/content_405281	3791
+赵成武		4		山西省	晋中市	https://www.sxjz.gov.cn/zwgk/fdzdgknr/ldzc	晋中市人大常委会党组成员、副主任		晋中市人民代表大会常务委员会	https://www.sxjz.gov.cn/zwgk/fdzdgknr/ldzc/rdld/content_405283	3791
+张英杰		5		山西省	晋中市	https://www.sxjz.gov.cn/zwgk/fdzdgknr/ldzc	晋中市人大常委会党组成员、副主任，榆次区委书记		晋中市人民代表大会常务委员会	https://www.sxjz.gov.cn/zwgk/fdzdgknr/ldzc/rdld/content_405284	3791
+许利伟		6		山西省	晋中市	https://www.sxjz.gov.cn/zwgk/fdzdgknr/ldzc	晋中市人大常委会党组成员、副主任		晋中市人民代表大会常务委员会	https://www.sxjz.gov.cn/zwgk/fdzdgknr/ldzc/rdld/content_405285	3791
+李军		7		山西省	晋中市	https://www.sxjz.gov.cn/zwgk/fdzdgknr/ldzc	晋中市人大常委会党组成员、副主任		晋中市人民代表大会常务委员会	https://www.sxjz.gov.cn/zwgk/fdzdgknr/ldzc/rdld/content_532527	3791
+张文军		8		山西省	晋中市	https://www.sxjz.gov.cn/zwgk/fdzdgknr/ldzc	晋中市人大常委会党组成员、秘书长，市人大机关党组书记、办公室主任		晋中市人民代表大会常务委员会	https://www.sxjz.gov.cn/zwgk/fdzdgknr/ldzc/rdld/content_556688	3791

@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吕海强		1		吉林省		https://yjt.jl.gov.cn/jggk/stld/	吉林省应急管理厅党委书记、厅长，省矿山安全生产监督管理局局长		吉林省应急管理厅	https://yjt.jl.gov.cn/jggk/stld/lhq/202501/t20250108_9028561.html	3241
+王毅飞		2		吉林省		https://yjt.jl.gov.cn/jggk/stld/	吉林省消防救援总队总队长、党委副书记，吉林省应急管理厅副厅长（兼）、党委委员		吉林省应急管理厅	https://yjt.jl.gov.cn/jggk/stld/wyf/202412/t20241203_9004534.html	3241
+杨得志		3		吉林省		https://yjt.jl.gov.cn/jggk/stld/	吉林省应急管理厅党委委员、副厅长，省矿山安全生产监督管理局副局长		吉林省应急管理厅	https://yjt.jl.gov.cn/jggk/stld/ydz/201912/t20191212_6288813.html	3241
+郝云文		4		吉林省		https://yjt.jl.gov.cn/jggk/stld/	吉林省应急管理厅党委委员、政治部主任		吉林省应急管理厅	https://yjt.jl.gov.cn/jggk/stld/hyw/202004/t20200420_7134044.html	3241
+张佳宇		5		吉林省		https://yjt.jl.gov.cn/jggk/stld/	吉林省应急管理厅党委委员、副厅长		吉林省应急管理厅	https://yjt.jl.gov.cn/jggk/stld/zjy/202201/t20220120_8381482.html	3241
+王剑飞		6		吉林省		https://yjt.jl.gov.cn/jggk/stld/	吉林省应急管理厅党委委员、副厅长		吉林省应急管理厅	https://yjt.jl.gov.cn/jggk/stld/wjf/202212/t20221208_8645705.html	3241
+王同强		7		吉林省		https://yjt.jl.gov.cn/jggk/stld/	吉林省应急管理厅党委委员、副厅长		吉林省应急管理厅	https://yjt.jl.gov.cn/jggk/stld/wtq/202407/t20240710_8932353.html	3241
+胥铭兴		8		吉林省		https://yjt.jl.gov.cn/jggk/stld/	吉林省应急管理厅党委委员、副厅长		吉林省应急管理厅	https://yjt.jl.gov.cn/jggk/stld/xmx/202411/t20241112_8996145.html	3241
+税敏		9		吉林省		https://yjt.jl.gov.cn/jggk/stld/	吉林省应急管理厅党委委员、应急指挥专员		吉林省应急管理厅	https://yjt.jl.gov.cn/jggk/stld/sm/202503/t20250321_9110107.html	3241
+薛琨		10		吉林省		https://yjt.jl.gov.cn/jggk/stld/	吉林省应急管理厅党委委员，省纪委监委驻省应急管理厅纪检监察组组长，二级高级监察官		吉林省应急管理厅	https://yjt.jl.gov.cn/jggk/stld/xk/202512/t20251230_9385613.html	3241
+孙珂		11		吉林省		https://yjt.jl.gov.cn/jggk/stld/	吉林省应急管理厅党委委员		吉林省应急管理厅	https://yjt.jl.gov.cn/jggk/stld/sk/202503/t20250321_9110109.html	3241
+孙廷东		12		吉林省		https://yjt.jl.gov.cn/jggk/stld/	吉林省应急管理厅一级巡视员		吉林省应急管理厅	https://yjt.jl.gov.cn/jggk/stld/std/201912/t20191212_6288700.html	3241
+刘兴禹		13		吉林省		https://yjt.jl.gov.cn/jggk/stld/	省纪委监委一级巡视员、一级高级监察官		吉林省应急管理厅	https://yjt.jl.gov.cn/jggk/stld/lxy/202108/t20210816_8183174.html	3241

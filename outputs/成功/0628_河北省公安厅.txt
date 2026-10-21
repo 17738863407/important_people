@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王立彤		1		河北省		http://gat.hebei.gov.cn/HebeiPolicePublic/pages/publicLeader.php	省政府副省长，省公安厅党委书记、厅长、督察长		河北省公安厅		0628
+邹传军		2		河北省		http://gat.hebei.gov.cn/HebeiPolicePublic/pages/publicLeader.php	省公安厅党委委员、特勤局局长		河北省公安厅		0628
+傅海涛		3		河北省		http://gat.hebei.gov.cn/HebeiPolicePublic/pages/publicLeader.php	省公安厅党委委员、副厅长、一级警务专员		河北省公安厅		0628
+郭铁铮		4		河北省		http://gat.hebei.gov.cn/HebeiPolicePublic/pages/publicLeader.php	省公安厅党委委员、副厅长、一级警务专员		河北省公安厅		0628
+车军		5		河北省		http://gat.hebei.gov.cn/HebeiPolicePublic/pages/publicLeader.php	省公安厅党委委员、省纪委监委驻省公安厅纪检监察组组长		河北省公安厅		0628
+梁昆		6		河北省		http://gat.hebei.gov.cn/HebeiPolicePublic/pages/publicLeader.php	省公安厅党委委员、副厅长		河北省公安厅		0628
+杨东川		7		河北省		http://gat.hebei.gov.cn/HebeiPolicePublic/pages/publicLeader.php	省公安厅党委委员、副厅长，石家庄市副市长、市公安局局长		河北省公安厅		0628
+齐建政		8		河北省		http://gat.hebei.gov.cn/HebeiPolicePublic/pages/publicLeader.php	省公安厅党委委员、副厅长		河北省公安厅		0628
+贺斌		9		河北省		http://gat.hebei.gov.cn/HebeiPolicePublic/pages/publicLeader.php	省公安厅党委委员、政治部主任		河北省公安厅		0628
+范晓军		10		河北省		http://gat.hebei.gov.cn/HebeiPolicePublic/pages/publicLeader.php	省公安厅党委委员、雄安新区公安局局长、一级警务专员		河北省公安厅		0628

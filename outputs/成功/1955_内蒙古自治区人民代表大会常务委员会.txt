@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王伟中		1		全国		http://www.nmgrd.gov.cn/cwhld/	自治区党委书记，人大常委会主任		内蒙古自治区人民代表大会常务委员会	http://www.nmgrd.gov.cn/cwhld/cwhzr/202205/t20220520_413245.html	1955
+张韶春		2		全国		http://www.nmgrd.gov.cn/cwhld/	副主任		内蒙古自治区人民代表大会常务委员会	http://www.nmgrd.gov.cn/cwhld/cwhfzr_51624/202001/t20200116_447960.html	1955
+郑宏范		3		全国		http://www.nmgrd.gov.cn/cwhld/	副主任		内蒙古自治区人民代表大会常务委员会	http://www.nmgrd.gov.cn/cwhld/cwhfzr_51624/202501/t20250116_447959.html	1955
+丁绣峰		4		全国		http://www.nmgrd.gov.cn/cwhld/	副主任		内蒙古自治区人民代表大会常务委员会	http://www.nmgrd.gov.cn/cwhld/cwhfzr_51624/202501/t20250116_447958.html	1955
+孟宪东		5		全国		http://www.nmgrd.gov.cn/cwhld/	副主任		内蒙古自治区人民代表大会常务委员会	http://www.nmgrd.gov.cn/cwhld/cwhfzr_51624/202602/t20260205_447957.html	1955
+李玉刚		6		全国		http://www.nmgrd.gov.cn/cwhld/	副主任		内蒙古自治区人民代表大会常务委员会	http://www.nmgrd.gov.cn/cwhld/cwhfzr_51624/202602/t20260205_447956.html	1955
+于立新		7		全国		http://www.nmgrd.gov.cn/cwhld/	副主任		内蒙古自治区人民代表大会常务委员会	http://www.nmgrd.gov.cn/cwhld/cwhfzr_51624/202602/t20260205_447955.html	1955
+艾丽华		8		全国		http://www.nmgrd.gov.cn/cwhld/	副主任		内蒙古自治区人民代表大会常务委员会	http://www.nmgrd.gov.cn/cwhld/cwhfzr_51624/201302/t20130207_447954.html	1955
+李秉荣		9		全国		http://www.nmgrd.gov.cn/cwhld/	副主任		内蒙古自治区人民代表大会常务委员会	http://www.nmgrd.gov.cn/cwhld/cwhfzr_51624/201802/t20180222_447953.html	1955
+吴艳刚		10		全国		http://www.nmgrd.gov.cn/cwhld/	副主任		内蒙古自治区人民代表大会常务委员会	http://www.nmgrd.gov.cn/cwhld/cwhfzr_51624/201701/t20170119_447952.html	1955
+万超岐		11		全国		http://www.nmgrd.gov.cn/cwhld/	秘书长		内蒙古自治区人民代表大会常务委员会	http://www.nmgrd.gov.cn/cwhld/msz/201802/t20180222_435773.html	1955

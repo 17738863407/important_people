@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张任		1		宁夏回族自治区		https://sft.nx.gov.cn/xxgk/fdzdgknr/jgzn_1/ldfg/index_wap.html	自治区司法厅党委书记、厅长，自治区监狱管理局第一政委		宁夏回族自治区司法厅		0106
+叶军		2		宁夏回族自治区		https://sft.nx.gov.cn/xxgk/fdzdgknr/jgzn_1/ldfg/index_wap.html	自治区司法厅党委委员、政治部主任		宁夏回族自治区司法厅		0106
+温静		3		宁夏回族自治区		https://sft.nx.gov.cn/xxgk/fdzdgknr/jgzn_1/ldfg/index_wap.html	自治区司法厅党委委员、副厅长		宁夏回族自治区司法厅		0106
+魏进德		4		宁夏回族自治区		https://sft.nx.gov.cn/xxgk/fdzdgknr/jgzn_1/ldfg/index_wap.html	自治区司法厅党委委员、副厅长		宁夏回族自治区司法厅		0106
+刘文智		5		宁夏回族自治区		https://sft.nx.gov.cn/xxgk/fdzdgknr/jgzn_1/ldfg/index_wap.html	自治区司法厅党委委员，自治区监狱管理局党委书记、局长		宁夏回族自治区司法厅		0106
+曾祥娟		6		宁夏回族自治区		https://sft.nx.gov.cn/xxgk/fdzdgknr/jgzn_1/ldfg/index_wap.html	自治区司法厅党委委员，自治区纪委监委驻自治区司法厅纪检监察组组长		宁夏回族自治区司法厅		0106
+张述荣		7		宁夏回族自治区		https://sft.nx.gov.cn/xxgk/fdzdgknr/jgzn_1/ldfg/index_wap.html	自治区司法厅一级巡视员		宁夏回族自治区司法厅		0106
+刘连喜		8		宁夏回族自治区		https://sft.nx.gov.cn/xxgk/fdzdgknr/jgzn_1/ldfg/index_wap.html	自治区司法厅二级巡视员		宁夏回族自治区司法厅		0106

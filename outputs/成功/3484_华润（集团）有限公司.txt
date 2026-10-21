@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王海民		1		全国		https://www.crc.com.hk/about/overview/team/jyglc/index.html	华润（集团）有限公司董事长		华润（集团）有限公司		3484
+王崔军		2		全国		https://www.crc.com.hk/about/overview/team/jyglc/index.html	华润（集团）有限公司董事、总经理		华润（集团）有限公司		3484
+王继明		3		全国		https://www.crc.com.hk/about/overview/team/jyglc/index.html	华润（集团）有限公司董事		华润（集团）有限公司		3484
+陈小军		4		全国		https://www.crc.com.hk/about/overview/team/jyglc/index.html	华润（集团）有限公司副总经理		华润（集团）有限公司		3484
+韩跃伟		5		全国		https://www.crc.com.hk/about/overview/team/jyglc/index.html	华润（集团）有限公司副总经理		华润（集团）有限公司		3484
+蓝屹		6		全国		https://www.crc.com.hk/about/overview/team/jyglc/index.html	华润（集团）有限公司副总经理		华润（集团）有限公司		3484
+周响华		7		全国		https://www.crc.com.hk/about/overview/team/jyglc/index.html	华润（集团）有限公司总会计师		华润（集团）有限公司		3484
+程永平		8		全国		https://www.crc.com.hk/about/overview/team/jyglc/index.html	华润（集团）有限公司董事		华润（集团）有限公司		3484
+王进强		9		全国		https://www.crc.com.hk/about/overview/team/jyglc/index.html	华润（集团）有限公司副总经理		华润（集团）有限公司		3484

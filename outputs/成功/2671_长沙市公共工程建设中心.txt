@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李航		1		湖南省	长沙市	http://szjs.changsha.gov.cn/zwgk/fdzdgknr/jgjs/ldxx/	长沙市公共工程建设中心党组书记		长沙市公共工程建设中心	http://szjs.changsha.gov.cn/zwgk/fdzdgknr/jgjs/ldxx/201612/t20161208_6129784.html	2671
+黄金国		2		湖南省	长沙市	http://szjs.changsha.gov.cn/zwgk/fdzdgknr/jgjs/ldxx/	长沙市公共工程建设中心主任		长沙市公共工程建设中心	http://szjs.changsha.gov.cn/zwgk/fdzdgknr/jgjs/ldxx/202309/t20230927_11235636.html	2671
+邹红武		3		湖南省	长沙市	http://szjs.changsha.gov.cn/zwgk/fdzdgknr/jgjs/ldxx/	党组成员、副主任		长沙市公共工程建设中心	http://szjs.changsha.gov.cn/zwgk/fdzdgknr/jgjs/ldxx/202312/t20231204_11306671.html	2671
+徐泽		4		湖南省	长沙市	http://szjs.changsha.gov.cn/zwgk/fdzdgknr/jgjs/ldxx/	党组成员、副主任		长沙市公共工程建设中心	http://szjs.changsha.gov.cn/zwgk/fdzdgknr/jgjs/ldxx/202511/t20251110_12050697.html	2671
+盛勇		5		湖南省	长沙市	http://szjs.changsha.gov.cn/zwgk/fdzdgknr/jgjs/ldxx/	正县级干部		长沙市公共工程建设中心	http://szjs.changsha.gov.cn/zwgk/fdzdgknr/jgjs/ldxx/201612/t20161208_6129787.html	2671

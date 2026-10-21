@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+江乐森		1		全国		https://fwzx.mof.gov.cn/guanyuwomen/lingdaozhici/	党委书记、主任		财政部机关服务中心		0587
+辛在峰		2		全国		https://fwzx.mof.gov.cn/guanyuwomen/lingdaozhici/	党委委员、副主任		财政部机关服务中心		0587
+肖刚		3		全国		https://fwzx.mof.gov.cn/guanyuwomen/lingdaozhici/	党委委员、副主任		财政部机关服务中心		0587
+刘玉飞		4		全国		https://fwzx.mof.gov.cn/guanyuwomen/lingdaozhici/	党委委员、纪委书记（副司长级）		财政部机关服务中心		0587
+李丹阳		5		全国		https://fwzx.mof.gov.cn/guanyuwomen/lingdaozhici/	党委委员、副主任		财政部机关服务中心		0587

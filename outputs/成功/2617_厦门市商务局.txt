@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈敏		1		福建省	厦门市	http://swj.xm.gov.cn/zwgk/zfxxgk/ml/jgszzyzn/ldxmzw/202601/t20260116_2977379.htm	党组书记、一级巡视员、市招商办常务副主任		厦门市商务局		2617
+陈颢颖		2		福建省	厦门市	http://swj.xm.gov.cn/zwgk/zfxxgk/ml/jgszzyzn/ldxmzw/202601/t20260116_2977379.htm	局长、市口岸办主任		厦门市商务局		2617
+陈跃进		3		福建省	厦门市	http://swj.xm.gov.cn/zwgk/zfxxgk/ml/jgszzyzn/ldxmzw/202601/t20260116_2977379.htm	党组成员、二级巡视员、机关党委书记		厦门市商务局		2617
+林珍雅		4		福建省	厦门市	http://swj.xm.gov.cn/zwgk/zfxxgk/ml/jgszzyzn/ldxmzw/202601/t20260116_2977379.htm	党组成员、副局长、二级巡视员		厦门市商务局		2617
+喻皓		5		福建省	厦门市	http://swj.xm.gov.cn/zwgk/zfxxgk/ml/jgszzyzn/ldxmzw/202601/t20260116_2977379.htm	党组成员、副局长		厦门市商务局		2617
+吴辉艺		6		福建省	厦门市	http://swj.xm.gov.cn/zwgk/zfxxgk/ml/jgszzyzn/ldxmzw/202601/t20260116_2977379.htm	党组成员、副局长		厦门市商务局		2617
+蔡传强		7		福建省	厦门市	http://swj.xm.gov.cn/zwgk/zfxxgk/ml/jgszzyzn/ldxmzw/202601/t20260116_2977379.htm	党组成员、驻局纪检监察组组长		厦门市商务局		2617
+黄慧菁		8		福建省	厦门市	http://swj.xm.gov.cn/zwgk/zfxxgk/ml/jgszzyzn/ldxmzw/202601/t20260116_2977379.htm	副局长		厦门市商务局		2617

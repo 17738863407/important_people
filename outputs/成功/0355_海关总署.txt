@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙梅君		1		全国		http://www.customs.gov.cn/customs/zsgk93/302252/index.html	署长、党委书记		海关总署	http://www.customs.gov.cn/customs/302249/hgzssldzj/6327982/6327983/index.html	0355
+王林		2		全国		http://www.customs.gov.cn/customs/zsgk93/302252/index.html	中央纪委国家监委驻海关总署纪检监察组组长、海关总署党委委员		海关总署	http://www.customs.gov.cn/customs/302249/hgzssldzj/4033175/4033177/index.html	0355
+吴海平		3		全国		http://www.customs.gov.cn/customs/zsgk93/302252/index.html	副署长、党委委员		海关总署	http://www.customs.gov.cn/customs/302249/hgzssldzj/5597864/5597865/index.html	0355
+王军		4		全国		http://www.customs.gov.cn/customs/zsgk93/302252/index.html	副署长、党委委员		海关总署	http://www.customs.gov.cn/customs/302249/hgzssldzj/6546034/6546035/index.html	0355
+张宝峰		5		全国		http://www.customs.gov.cn/customs/zsgk93/302252/index.html	副署长、党委委员，办公厅（国家口岸管理办公室）主任		海关总署	http://www.customs.gov.cn/customs/302249/hgzssldzj/6101864/6101865/index.html	0355
+郝炜明		6		全国		http://www.customs.gov.cn/customs/zsgk93/302252/index.html	副署长、党委委员		海关总署		0355
+宋汝冰		7		全国		http://www.customs.gov.cn/customs/zsgk93/302252/index.html	政治部主任、党委委员		海关总署		0355
+张格萍		8		全国		http://www.customs.gov.cn/customs/zsgk93/302252/index.html	党委委员，广东分署主任、党委书记		海关总署	http://www.customs.gov.cn/customs/302249/hgzssldzj/6615059/6615060/index.html	0355

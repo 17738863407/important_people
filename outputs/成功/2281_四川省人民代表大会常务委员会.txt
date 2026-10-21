@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王晓晖		1		全国		https://www.scspc.gov.cn/rdgk/	四川省委书记，省人大常委会主任		四川省人民代表大会常务委员会		2281
+王雁飞		2		全国		https://www.scspc.gov.cn/rdgk/	省人大常委会党组书记、副主任		四川省人民代表大会常务委员会	https://www.scspc.gov.cn/cwhldrdgk/202602/152345.html	2281
+陈炜		3		全国		https://www.scspc.gov.cn/rdgk/	省人大常委会党组副书记、副主任		四川省人民代表大会常务委员会	https://www.scspc.gov.cn/cwhldrdgk/202602/152353.html	2281
+罗强		4		全国		https://www.scspc.gov.cn/rdgk/	省人大常委会党组副书记、副主任		四川省人民代表大会常务委员会	https://www.scspc.gov.cn/cwhldrdgk/202602/152346.html	2281
+杨兴平		5		全国		https://www.scspc.gov.cn/rdgk/	省人大常委会副主任		四川省人民代表大会常务委员会		2281
+祝春秀		6		全国		https://www.scspc.gov.cn/rdgk/	省人大常委会党组成员、副主任		四川省人民代表大会常务委员会		2281
+彭琳		7		全国		https://www.scspc.gov.cn/rdgk/	省人大常委会党组成员、副主任		四川省人民代表大会常务委员会		2281
+王菲		8		全国		https://www.scspc.gov.cn/rdgk/	省人大常委会党组成员、副主任		四川省人民代表大会常务委员会		2281
+刘坪		9		全国		https://www.scspc.gov.cn/rdgk/	省人大常委会党组成员、副主任		四川省人民代表大会常务委员会		2281
+何延政		10		全国		https://www.scspc.gov.cn/rdgk/	省人大常委会副主任		四川省人民代表大会常务委员会		2281
+朱家德		11		全国		https://www.scspc.gov.cn/rdgk/	省人大常委会党组成员、副主任		四川省人民代表大会常务委员会		2281
+贾瑞云		12		全国		https://www.scspc.gov.cn/rdgk/	省人大常委会党组成员、秘书长、机关党组书记		四川省人民代表大会常务委员会		2281

@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+廉毅敏		1		全国		https://www.zjzx.gov.cn/zxjj/ryzc/szxld2	主席		浙江省政协		3392
+王昌荣		2		全国		https://www.zjzx.gov.cn/zxjj/ryzc/szxld2	副主席		浙江省政协		3392
+陈小平		3		全国		https://www.zjzx.gov.cn/zxjj/ryzc/szxld2	副主席		浙江省政协		3392
+蔡秀军		4		全国		https://www.zjzx.gov.cn/zxjj/ryzc/szxld2	副主席		浙江省政协		3392
+成岳冲		5		全国		https://www.zjzx.gov.cn/zxjj/ryzc/szxld2	副主席		浙江省政协		3392
+陈擎苍		6		全国		https://www.zjzx.gov.cn/zxjj/ryzc/szxld2	副主席		浙江省政协		3392
+张学伟		7		全国		https://www.zjzx.gov.cn/zxjj/ryzc/szxld2	副主席		浙江省政协		3392
+叶正波		8		全国		https://www.zjzx.gov.cn/zxjj/ryzc/szxld2	副主席		浙江省政协		3392
+尹学群		9		全国		https://www.zjzx.gov.cn/zxjj/ryzc/szxld2	副主席		浙江省政协		3392
+高鹰忠		10		全国		https://www.zjzx.gov.cn/zxjj/ryzc/szxld2	副主席		浙江省政协		3392
+陈东凌		11		全国		https://www.zjzx.gov.cn/zxjj/ryzc/szxld2	秘书长		浙江省政协		3392

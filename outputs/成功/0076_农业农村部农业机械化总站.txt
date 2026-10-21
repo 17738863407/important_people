@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王松		1		全国		http://www.amic.agri.cn/secondLevelPage/deptinfo/1	站长、党委书记		农业农村部农业机械化总站		0076
+金红伟		2		全国		http://www.amic.agri.cn/secondLevelPage/deptinfo/1	总工程师、党委委员		农业农村部农业机械化总站		0076
+刘小伟		3		全国		http://www.amic.agri.cn/secondLevelPage/deptinfo/1	副站长、党委委员		农业农村部农业机械化总站		0076
+侯方安		4		全国		http://www.amic.agri.cn/secondLevelPage/deptinfo/1	副站长、党委委员		农业农村部农业机械化总站		0076

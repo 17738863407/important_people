@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李忠军		1		江苏省	南京市	https://www.nanjing.gov.cn/xxgkn/jgld/	南京市委副书记，市长、市政府党组书记		南京市人民政府	https://www.nanjing.gov.cn/dzld/zfld/202601/t20260129_5782576.html	1823
+林涛		2		江苏省	南京市	https://www.nanjing.gov.cn/xxgkn/jgld/	南京市委常委，副市长、市政府党组副书记，市委金融委员会办公室主任、市委金融工作委员会书记，市行政学院院长		南京市人民政府	https://www.nanjing.gov.cn/dzld/zfld/202604/t20260422_5828371.html	1823
+许峰		3		江苏省	南京市	https://www.nanjing.gov.cn/xxgkn/jgld/	南京市委常委、副市长、市政府党组成员		南京市人民政府	https://www.nanjing.gov.cn/dzld/zfld/202601/t20260129_5782568.html	1823
+徐大勇		4		江苏省	南京市	https://www.nanjing.gov.cn/xxgkn/jgld/	南京市副市长、市政府党组成员，市公安局局长、党委书记、督察长，市委政法委副书记，省公安厅党委副书记		南京市人民政府	https://www.nanjing.gov.cn/dzld/zfld/202604/t20260422_5827830.html	1823
+孙百军		5		江苏省	南京市	https://www.nanjing.gov.cn/xxgkn/jgld/	南京市副市长，民进中央委员、省委副主委、市委主委		南京市人民政府	https://www.nanjing.gov.cn/dzld/zfld/202601/t20260129_5782569.html	1823
+赵庆红		6		江苏省	南京市	https://www.nanjing.gov.cn/xxgkn/jgld/	南京市副市长、市政府党组成员		南京市人民政府	https://www.nanjing.gov.cn/dzld/zfld/202608/t20260821_5897693.html	1823
+张蕴		7		江苏省	南京市	https://www.nanjing.gov.cn/xxgkn/jgld/	南京市副市长、市政府党组成员，江宁区委书记		南京市人民政府	https://www.nanjing.gov.cn/dzld/zfld/202601/t20260129_5782571.html	1823
+滕涛		8		江苏省	南京市	https://www.nanjing.gov.cn/xxgkn/jgld/	南京市政府党组成员、秘书长		南京市人民政府	https://www.nanjing.gov.cn/dzld/zfld/202608/t20260825_5899451.html	1823

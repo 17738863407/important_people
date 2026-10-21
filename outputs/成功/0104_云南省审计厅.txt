@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+谢健		1		云南省		https://audit.yn.gov.cn/html/jigougaikuang/	党组书记、厅长		云南省审计厅	https://audit.yn.gov.cn/html/2024/lingdaozhichuang_1204/7241.html	0104
+付云昆		2		云南省		https://audit.yn.gov.cn/html/jigougaikuang/	党组成员、副厅长		云南省审计厅	https://audit.yn.gov.cn/html/2024/lingdaozhichuang_1204/7243.html	0104
+张勇		3		云南省		https://audit.yn.gov.cn/html/jigougaikuang/	党组成员、副厅长		云南省审计厅	https://audit.yn.gov.cn/html/2024/lingdaozhichuang_1204/7244.html	0104
+孙正星		4		云南省		https://audit.yn.gov.cn/html/jigougaikuang/	党组成员、副厅长		云南省审计厅	https://audit.yn.gov.cn/html/2024/lingdaozhichuang_1204/7245.html	0104
+王辉		5		云南省		https://audit.yn.gov.cn/html/jigougaikuang/	副厅长		云南省审计厅	https://audit.yn.gov.cn/html/2024/lingdaozhichuang_1204/7248.html	0104
+陈琦		6		云南省		https://audit.yn.gov.cn/html/jigougaikuang/	党组成员、云南省领导干部任期经济责任审计工作联席会议办公室主任		云南省审计厅	https://audit.yn.gov.cn/html/2024/lingdaozhichuang_1204/7247.html	0104
+李涛		7		云南省		https://audit.yn.gov.cn/html/jigougaikuang/	一级总监		云南省审计厅	https://audit.yn.gov.cn/html/2024/lingdaozhichuang_1204/7246.html	0104

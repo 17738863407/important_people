@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+骆大进		1		上海市		https://stcsm.sh.gov.cn/zwgk/#jgld	中共上海市科学技术工作委员会副书记 上海市科学技术委员会主任		上海市科学技术委员会	https://stcsm.sh.gov.cn/zwgk/jgxx/jgld/20180223/0016-11377.html	2543
+王宇		2		上海市		https://stcsm.sh.gov.cn/zwgk/#jgld	中共上海市科学技术工作委员会副书记（正局长级）		上海市科学技术委员会	https://stcsm.sh.gov.cn/zwgk/jgxx/jgld/20200724/a99d68fe86094a698e1efdd14cd31a6c.html	2543
+莫亮金		3		上海市		https://stcsm.sh.gov.cn/zwgk/#jgld	中共上海市科学技术工作委员会副书记		上海市科学技术委员会	https://stcsm.sh.gov.cn/zwgk/jgxx/jgld/20260911/d78e885e9d6a4946a5bacf25d8cbf3da.html	2543
+邬万里		4		上海市		https://stcsm.sh.gov.cn/zwgk/#jgld	市纪委、市监察委驻市科技工作党委纪检监察组组长		上海市科学技术委员会	https://stcsm.sh.gov.cn/zwgk/jgxx/jgld/20220129/c47aec82e8394f7d8efa120a65c5f1a6.html	2543
+江舸		5		上海市		https://stcsm.sh.gov.cn/zwgk/#jgld	上海市科学技术委员会副主任		上海市科学技术委员会	https://stcsm.sh.gov.cn/zwgk/jgxx/jgld/20260327/ffafc264c0264702b023a889b93b8951.html	2543
+屈炜		6		上海市		https://stcsm.sh.gov.cn/zwgk/#jgld	上海市科学技术委员会副主任		上海市科学技术委员会	https://stcsm.sh.gov.cn/zwgk/jgxx/jgld/20190718/0016-157355.html	2543
+翟金国		7		上海市		https://stcsm.sh.gov.cn/zwgk/#jgld	上海市科学技术委员会副主任		上海市科学技术委员会	https://stcsm.sh.gov.cn/zwgk/jgxx/jgld/20181203/0016-152465.html	2543
+谢文澜		8		上海市		https://stcsm.sh.gov.cn/zwgk/#jgld	上海市科学技术委员会副局长级干部		上海市科学技术委员会	https://stcsm.sh.gov.cn/zwgk/jgxx/jgld/20150518/0016-11383.html	2543

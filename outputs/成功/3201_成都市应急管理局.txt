@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张吉广		1		四川省	成都市	https://yjglj.chengdu.gov.cn/yjglj/cdyj22/list_v4.shtml	成都市应急管理局党委书记、局长。		成都市应急管理局		3201
+秦韬		2		四川省	成都市	https://yjglj.chengdu.gov.cn/yjglj/cdyj22/list_v4.shtml	成都市应急管理局党委副书记、副局长。		成都市应急管理局		3201
+左光磊		3		四川省	成都市	https://yjglj.chengdu.gov.cn/yjglj/cdyj22/list_v4.shtml	成都市应急管理局党委委员、副局长。		成都市应急管理局		3201
+袁代树		4		四川省	成都市	https://yjglj.chengdu.gov.cn/yjglj/cdyj22/list_v4.shtml	成都市应急管理党委委员、副局长。		成都市应急管理局		3201
+李勇		5		四川省	成都市	https://yjglj.chengdu.gov.cn/yjglj/cdyj22/list_v4.shtml	成都市应急管理局党委委员、副局长。		成都市应急管理局		3201
+向海		6		四川省	成都市	https://yjglj.chengdu.gov.cn/yjglj/cdyj22/list_v4.shtml	成都市应急管理局党委委员、驻局纪检监察组组长。		成都市应急管理局		3201
+盛英聪		7		四川省	成都市	https://yjglj.chengdu.gov.cn/yjglj/cdyj22/list_v4.shtml	成都市应急管理局副局长、市安办专职副主任。		成都市应急管理局		3201
+杜都		8		四川省	成都市	https://yjglj.chengdu.gov.cn/yjglj/cdyj22/list_v4.shtml	成都市应急管理局副局长。		成都市应急管理局		3201
+叶彬		9		四川省	成都市	https://yjglj.chengdu.gov.cn/yjglj/cdyj22/list_v4.shtml	成都市应急管理综合行政执法总队总队长。		成都市应急管理局		3201
+张勇		10		四川省	成都市	https://yjglj.chengdu.gov.cn/yjglj/cdyj22/list_v4.shtml	成都市应急管理局二级巡视员。		成都市应急管理局		3201
+牟小波		11		四川省	成都市	https://yjglj.chengdu.gov.cn/yjglj/cdyj22/list_v4.shtml	成都市应急管理局二级巡视员。		成都市应急管理局		3201
+廖颖		12		四川省	成都市	https://yjglj.chengdu.gov.cn/yjglj/cdyj22/list_v4.shtml	成都市应急管理局二级巡视员。		成都市应急管理局		3201
+曾光红		13		四川省	成都市	https://yjglj.chengdu.gov.cn/yjglj/cdyj22/list_v4.shtml	成都市应急管理局二级巡视员。		成都市应急管理局		3201

@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+宝贵贞		1		全国		https://www.neac.gov.cn/seac/mwjs/ssmzzxjss/ryjgsz.shtml	理事长；中央民族大学哲学与宗教学学院教授		中国少数民族哲学及社会思想史学会		1882
+邹吉忠		2		全国		https://www.neac.gov.cn/seac/mwjs/ssmzzxjss/ryjgsz.shtml	副理事长；中央民族大学党委常委、副校长		中国少数民族哲学及社会思想史学会		1882
+赵智奎		3		全国		https://www.neac.gov.cn/seac/mwjs/ssmzzxjss/ryjgsz.shtml	副理事长；中国社会科学院研究生原马克思主义学院研究员		中国少数民族哲学及社会思想史学会		1882
+陈晓嫚		4		全国		https://www.neac.gov.cn/seac/mwjs/ssmzzxjss/ryjgsz.shtml	副理事长；国家民委理论研究司研究处处长		中国少数民族哲学及社会思想史学会		1882
+杨志明		5		全国		https://www.neac.gov.cn/seac/mwjs/ssmzzxjss/ryjgsz.shtml	副理事长；云南师范大学哲学与政法学院教授		中国少数民族哲学及社会思想史学会		1882
+朝克吉勒图		6		全国		https://www.neac.gov.cn/seac/mwjs/ssmzzxjss/ryjgsz.shtml	副理事长；中国石油大学马克思主义学院原教授（已退休）		中国少数民族哲学及社会思想史学会		1882
+萧洪恩		7		全国		https://www.neac.gov.cn/seac/mwjs/ssmzzxjss/ryjgsz.shtml	副理事长；华中农业大学文法学院教授		中国少数民族哲学及社会思想史学会		1882
+唐建荣		8		全国		https://www.neac.gov.cn/seac/mwjs/ssmzzxjss/ryjgsz.shtml	副理事长；贵州民族大学党委副书记、教授		中国少数民族哲学及社会思想史学会		1882
+陈亚联		9		全国		https://www.neac.gov.cn/seac/mwjs/ssmzzxjss/ryjgsz.shtml	副理事长；中国社会科学院研究室主任、副研究员		中国少数民族哲学及社会思想史学会		1882
+刘成有		10		全国		https://www.neac.gov.cn/seac/mwjs/ssmzzxjss/ryjgsz.shtml	秘书长、法定代表人；中央民族大学哲学与宗教学学院教授		中国少数民族哲学及社会思想史学会		1882

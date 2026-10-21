@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+贾志勇		1		青海省	西宁市	https://www.xnrdw.gov.cn/channels/107.html	主任		西宁市人民代表大会常务委员会	https://www.xnrdw.gov.cn/contents/158/9156.html	3092
+韩兴斌		2		青海省	西宁市	https://www.xnrdw.gov.cn/channels/107.html	副主任		西宁市人民代表大会常务委员会	https://www.xnrdw.gov.cn/contents/159/7920.html	3092
+汤向军		3		青海省	西宁市	https://www.xnrdw.gov.cn/channels/107.html	副主任		西宁市人民代表大会常务委员会	https://www.xnrdw.gov.cn/contents/159/7918.html	3092
+马化伟		4		青海省	西宁市	https://www.xnrdw.gov.cn/channels/107.html	副主任		西宁市人民代表大会常务委员会	https://www.xnrdw.gov.cn/contents/159/7919.html	3092
+李晓舸		5		青海省	西宁市	https://www.xnrdw.gov.cn/channels/107.html	副主任		西宁市人民代表大会常务委员会	https://www.xnrdw.gov.cn/contents/159/4727.html	3092
+袁文		6		青海省	西宁市	https://www.xnrdw.gov.cn/channels/107.html	副主任		西宁市人民代表大会常务委员会	https://www.xnrdw.gov.cn/contents/159/8611.html	3092
+周仁义		7		青海省	西宁市	https://www.xnrdw.gov.cn/channels/107.html	副主任		西宁市人民代表大会常务委员会	https://www.xnrdw.gov.cn/contents/159/9157.html	3092
+冯元智		8		青海省	西宁市	https://www.xnrdw.gov.cn/channels/107.html	副主任		西宁市人民代表大会常务委员会	https://www.xnrdw.gov.cn/contents/159/4726.html	3092
+王刚		9		青海省	西宁市	https://www.xnrdw.gov.cn/channels/107.html	副主任		西宁市人民代表大会常务委员会	https://www.xnrdw.gov.cn/contents/159/9335.html	3092
+王忠海		10		青海省	西宁市	https://www.xnrdw.gov.cn/channels/107.html	秘书长		西宁市人民代表大会常务委员会	https://www.xnrdw.gov.cn/contents/160/1558.html	3092

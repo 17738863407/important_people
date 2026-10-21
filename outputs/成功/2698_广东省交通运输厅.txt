@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+林飞鸣		1		广东省		https://td.gd.gov.cn/zwgk_n/zzjg/channel1/index.html	党组书记、厅长		广东省交通运输厅	https://td.gd.gov.cn/zwgk_n/zzjg/channel1/content/post_3915614.html	2698
+贾绍明		2		广东省		https://td.gd.gov.cn/zwgk_n/zzjg/channel1/index.html	党组成员、副厅长		广东省交通运输厅	https://td.gd.gov.cn/zwgk_n/zzjg/channel1/content/post_2621633.html	2698
+黄成造		3		广东省		https://td.gd.gov.cn/zwgk_n/zzjg/channel1/index.html	党组成员、副厅长		广东省交通运输厅	https://td.gd.gov.cn/zwgk_n/zzjg/channel1/content/post_2621635.html	2698
+杨旭		4		广东省		https://td.gd.gov.cn/zwgk_n/zzjg/channel1/index.html	党组成员、副厅长		广东省交通运输厅	https://td.gd.gov.cn/zwgk_n/zzjg/channel1/content/post_3191239.html	2698
+吴自立		5		广东省		https://td.gd.gov.cn/zwgk_n/zzjg/channel1/index.html	党组成员、省纪委监委驻厅纪检监察组组长		广东省交通运输厅	https://td.gd.gov.cn/zwgk_n/zzjg/channel1/content/post_3926308.html	2698
+徐海波		6		广东省		https://td.gd.gov.cn/zwgk_n/zzjg/channel1/index.html	党组成员、副厅长、新闻发言人		广东省交通运输厅	https://td.gd.gov.cn/zwgk_n/zzjg/channel1/content/post_4290685.html	2698
+黄燊		7		广东省		https://td.gd.gov.cn/zwgk_n/zzjg/channel1/index.html	副厅长，省邮政管理局党组书记、局长		广东省交通运输厅	https://td.gd.gov.cn/zwgk_n/zzjg/channel1/content/post_4382083.html	2698

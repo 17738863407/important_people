@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张平		1		全国		https://amss.cas.cn/dwgk/xrld/	院长、党委书记（法定代表人）		中国科学院数学与系统科学研究院		4048
+赵刚		2		全国		https://amss.cas.cn/dwgk/xrld/	党委副书记、纪委书记		中国科学院数学与系统科学研究院		4048
+黄飞敏		3		全国		https://amss.cas.cn/dwgk/xrld/	副院长		中国科学院数学与系统科学研究院		4048
+戴彧虹		4		全国		https://amss.cas.cn/dwgk/xrld/	副院长		中国科学院数学与系统科学研究院		4048
+杨翠红		5		全国		https://amss.cas.cn/dwgk/xrld/	副院长		中国科学院数学与系统科学研究院		4048
+田野		6		全国		https://amss.cas.cn/dwgk/xrld/	学术副院长		中国科学院数学与系统科学研究院		4048

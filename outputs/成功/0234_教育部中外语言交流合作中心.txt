@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郁云峰		1		全国		https://www.chinese.cn/page/#/pcpage/publicinfodetail?id=140	中外语言交流合作中心党委书记，主任		教育部中外语言交流合作中心		0234
+于天琪		2		全国		https://www.chinese.cn/page/#/pcpage/publicinfodetail?id=140	中外语言交流合作中心副主任		教育部中外语言交流合作中心		0234
+张旭		3		全国		https://www.chinese.cn/page/#/pcpage/publicinfodetail?id=140	中外语言交流合作中心党委副书记，纪委书记		教育部中外语言交流合作中心		0234
+刘剑青		4		全国		https://www.chinese.cn/page/#/pcpage/publicinfodetail?id=140	中外语言交流合作中心副主任		教育部中外语言交流合作中心		0234
+杨洲		5		全国		https://www.chinese.cn/page/#/pcpage/publicinfodetail?id=140	中外语言交流合作中心副主任		教育部中外语言交流合作中心		0234

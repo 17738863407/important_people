@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+贾洪斐		1		山东省	济南市	http://www.jnjrb.gov.cn/col/col14287/art/2026/art_08cee633e23f43c4b22915a2d044da3b.html	市委金融办分管日常工作的副主任、市委金融工委分管日常工作的副书记、市地方金融局局长		济南市地方金融管理局		1173
+张庆英		2		山东省	济南市	http://www.jnjrb.gov.cn/col/col14287/art/2026/art_08cee633e23f43c4b22915a2d044da3b.html	市委金融工委专职副书记、市金融纪检监察工委书记		济南市地方金融管理局		1173
+任会霞		3		山东省	济南市	http://www.jnjrb.gov.cn/col/col14287/art/2026/art_08cee633e23f43c4b22915a2d044da3b.html	市委金融办副主任、市地方金融局副局长		济南市地方金融管理局		1173
+朱洪权		4		山东省	济南市	http://www.jnjrb.gov.cn/col/col14287/art/2026/art_08cee633e23f43c4b22915a2d044da3b.html	市委金融办副主任、市地方金融局副局长		济南市地方金融管理局		1173
+尹言波		5		山东省	济南市	http://www.jnjrb.gov.cn/col/col14287/art/2026/art_08cee633e23f43c4b22915a2d044da3b.html	市委金融办副主任、市地方金融局副局长（挂职期两年）		济南市地方金融管理局		1173
+刘璐		6		山东省	济南市	http://www.jnjrb.gov.cn/col/col14287/art/2026/art_08cee633e23f43c4b22915a2d044da3b.html	市委金融办副主任、市地方金融局副局长（挂职期一年）		济南市地方金融管理局		1173

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱良才		1		河南省	濮阳市	https://www.puyang.gov.cn/zfxx_gk/classList.thtml?cid=23308	市长		濮阳市人民政府	https://www.puyang.gov.cn/zwxx/zfld-show.thtml?id=1	3872
+陈功		2		河南省	濮阳市	https://www.puyang.gov.cn/zfxx_gk/classList.thtml?cid=23308	副市长		濮阳市人民政府	https://www.puyang.gov.cn/zwxx/zfld-show.thtml?id=2	3872
+张五星		3		河南省	濮阳市	https://www.puyang.gov.cn/zfxx_gk/classList.thtml?cid=23308	副市长		濮阳市人民政府	https://www.puyang.gov.cn/zwxx/zfld-show.thtml?id=17	3872
+张宏		4		河南省	濮阳市	https://www.puyang.gov.cn/zfxx_gk/classList.thtml?cid=23308	副市长		濮阳市人民政府	https://www.puyang.gov.cn/zwxx/zfld-show.thtml?id=16	3872
+宋成玲		5		河南省	濮阳市	https://www.puyang.gov.cn/zfxx_gk/classList.thtml?cid=23308	副市长		濮阳市人民政府	https://www.puyang.gov.cn/zwxx/zfld-show.thtml?id=19	3872
+方业生		6		河南省	濮阳市	https://www.puyang.gov.cn/zfxx_gk/classList.thtml?cid=23308	副市长		濮阳市人民政府	https://www.puyang.gov.cn/zwxx/zfld-show.thtml?id=20	3872
+高尚功		7		河南省	濮阳市	https://www.puyang.gov.cn/zfxx_gk/classList.thtml?cid=23308	副市长		濮阳市人民政府	https://www.puyang.gov.cn/zwxx/zfld-show.thtml?id=22	3872
+苗锋		8		河南省	濮阳市	https://www.puyang.gov.cn/zfxx_gk/classList.thtml?cid=23308	副市长		濮阳市人民政府	https://www.puyang.gov.cn/zwxx/zfld-show.thtml?id=23	3872
+宋德启		9		河南省	濮阳市	https://www.puyang.gov.cn/zfxx_gk/classList.thtml?cid=23308	副市长		濮阳市人民政府	https://www.puyang.gov.cn/zwxx/zfld-show.thtml?id=3	3872

@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+万里菲		1		江西省	南昌市	http://hc.nc.gov.cn/ncwjw/gkldxx/201908/45c59d9e303542f4b2207de0d836fbc4.shtml	市委卫健工委书记、市卫生健康委主任		南昌市卫生健康委员会		0939
+欧阳锋		2		江西省	南昌市	http://hc.nc.gov.cn/ncwjw/gkldxx/201908/45c59d9e303542f4b2207de0d836fbc4.shtml	市委卫健工委委员、市纪委市监委驻市卫生健康委纪检监察组组长		南昌市卫生健康委员会		0939
+张萍		3		江西省	南昌市	http://hc.nc.gov.cn/ncwjw/gkldxx/201908/45c59d9e303542f4b2207de0d836fbc4.shtml	市委卫健工委委员、南昌市第一医院党委副书记		南昌市卫生健康委员会		0939
+吴梅萍		4		江西省	南昌市	http://hc.nc.gov.cn/ncwjw/gkldxx/201908/45c59d9e303542f4b2207de0d836fbc4.shtml	市委卫健工委委员、市卫生健康委副主任		南昌市卫生健康委员会		0939
+胡志娟		5		江西省	南昌市	http://hc.nc.gov.cn/ncwjw/gkldxx/201908/45c59d9e303542f4b2207de0d836fbc4.shtml	市卫生健康委副主任		南昌市卫生健康委员会		0939
+潘景屏		6		江西省	南昌市	http://hc.nc.gov.cn/ncwjw/gkldxx/201908/45c59d9e303542f4b2207de0d836fbc4.shtml	市委卫健工委委员、市卫生健康委副主任		南昌市卫生健康委员会		0939
+曾国华		7		江西省	南昌市	http://hc.nc.gov.cn/ncwjw/gkldxx/201908/45c59d9e303542f4b2207de0d836fbc4.shtml	市委卫健工委委员、市疾病预防控制局局长、市卫生健康委副主任		南昌市卫生健康委员会		0939
+涂晓明		8		江西省	南昌市	http://hc.nc.gov.cn/ncwjw/gkldxx/201908/45c59d9e303542f4b2207de0d836fbc4.shtml	市委卫健工委委员、市计生协会专职副会长、二级调研员		南昌市卫生健康委员会		0939
+王群		9		江西省	南昌市	http://hc.nc.gov.cn/ncwjw/gkldxx/201908/45c59d9e303542f4b2207de0d836fbc4.shtml	市卫生健康委三级调研员		南昌市卫生健康委员会		0939
+姚敏		10		江西省	南昌市	http://hc.nc.gov.cn/ncwjw/gkldxx/201908/45c59d9e303542f4b2207de0d836fbc4.shtml	市卫生健康委四级调研员		南昌市卫生健康委员会		0939

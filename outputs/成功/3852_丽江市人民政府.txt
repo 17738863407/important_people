@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+聂金辉		1		云南省	丽江市	https://www.lijiang.gov.cn/ljsrmzf/c102149/zfxxgk_zfld.shtml	市长		丽江市人民政府	https://www.lijiang.gov.cn/ljsrmzf/c102150/202512/cde10ef7471f49b3aca155d0ce59d3b8.shtml	3852
+李伟		2		云南省	丽江市	https://www.lijiang.gov.cn/ljsrmzf/c102149/zfxxgk_zfld.shtml	副市长		丽江市人民政府	https://www.lijiang.gov.cn/ljsrmzf/c102056/202504/b50f7cd64a6a49a09037b8f8c1ccfe2c.shtml	3852
+唐晓云		3		云南省	丽江市	https://www.lijiang.gov.cn/ljsrmzf/c102149/zfxxgk_zfld.shtml	副市长		丽江市人民政府	https://www.lijiang.gov.cn/ljsrmzf/c102056/202607/835997b262464f8da1bb89baf1742f7b.shtml	3852
+魏妮娅		4		云南省	丽江市	https://www.lijiang.gov.cn/ljsrmzf/c102149/zfxxgk_zfld.shtml	副市长		丽江市人民政府	https://www.lijiang.gov.cn/ljsrmzf/c102056/202108/2fdeb3ec6fa44ed9b69a33f3e247b2c7.shtml	3852
+林志祥		5		云南省	丽江市	https://www.lijiang.gov.cn/ljsrmzf/c102149/zfxxgk_zfld.shtml	副市长		丽江市人民政府	https://www.lijiang.gov.cn/ljsrmzf/c102056/202203/f7da4eb52d174cfb82effb779d3f00b4.shtml	3852
+张涛武		6		云南省	丽江市	https://www.lijiang.gov.cn/ljsrmzf/c102149/zfxxgk_zfld.shtml	副市长		丽江市人民政府	https://www.lijiang.gov.cn/ljsrmzf/c102056/202311/62200f9303614f8fa111fb8e94e71f79.shtml	3852
+杨耀军		7		云南省	丽江市	https://www.lijiang.gov.cn/ljsrmzf/c102149/zfxxgk_zfld.shtml	副市长		丽江市人民政府	https://www.lijiang.gov.cn/ljsrmzf/c102056/202501/bd36954464fa4a478833924306b7d756.shtml	3852
+胡彬		8		云南省	丽江市	https://www.lijiang.gov.cn/ljsrmzf/c102149/zfxxgk_zfld.shtml	副市长		丽江市人民政府	https://www.lijiang.gov.cn/ljsrmzf/c102056/202602/7c919a16a2dd4d6b93282ba48dff11ad.shtml	3852
+张仁彬		9		云南省	丽江市	https://www.lijiang.gov.cn/ljsrmzf/c102149/zfxxgk_zfld.shtml	市政府副厅级领导		丽江市人民政府	https://www.lijiang.gov.cn/ljsrmzf/c102057/202108/728bc2d3eab1440db1e4ef5c1a489d0d.shtml	3852
+徐开诚		10		云南省	丽江市	https://www.lijiang.gov.cn/ljsrmzf/c102149/zfxxgk_zfld.shtml	市政府党组成员		丽江市人民政府	https://www.lijiang.gov.cn/ljsrmzf/c102058/202504/4b1524f581944ecbba2543337c158f99.shtml	3852

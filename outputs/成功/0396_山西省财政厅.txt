@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+常国华		1		山西省		http://czt.shanxi.gov.cn/zwgk/btgk_49456/tld_49457/	党组书记、厅长		山西省财政厅	http://czt.shanxi.gov.cn/zwgk/btgk_49456/tld_49457/202101/t20210126_1283435.shtml	0396
+张源		2		山西省		http://czt.shanxi.gov.cn/zwgk/btgk_49456/tld_49457/	省纪委监委驻省财政厅纪检监察组组长、厅党组成员		山西省财政厅	http://czt.shanxi.gov.cn/zwgk/btgk_49456/tld_49457/202112/t20211201_3544906.shtml	0396
+王会波		3		山西省		http://czt.shanxi.gov.cn/zwgk/btgk_49456/tld_49457/	党组成员、副厅长		山西省财政厅	http://czt.shanxi.gov.cn/zwgk/btgk_49456/tld_49457/202203/t20220307_5236057.shtml	0396
+魏志华		4		山西省		http://czt.shanxi.gov.cn/zwgk/btgk_49456/tld_49457/	党组成员、副厅长		山西省财政厅	http://czt.shanxi.gov.cn/zwgk/btgk_49456/tld_49457/201907/t20190722_1281353.shtml	0396
+陈新民		5		山西省		http://czt.shanxi.gov.cn/zwgk/btgk_49456/tld_49457/	党组成员、副厅长		山西省财政厅	http://czt.shanxi.gov.cn/zwgk/btgk_49456/tld_49457/202109/t20210922_2471099.shtml	0396
+郭林春		6		山西省		http://czt.shanxi.gov.cn/zwgk/btgk_49456/tld_49457/	党组成员、副厅长		山西省财政厅	http://czt.shanxi.gov.cn/zwgk/btgk_49456/tld_49457/201907/t20190722_1281352.shtml	0396
+王娅萍		7		山西省		http://czt.shanxi.gov.cn/zwgk/btgk_49456/tld_49457/	党组成员、副厅长		山西省财政厅	http://czt.shanxi.gov.cn/zwgk/btgk_49456/tld_49457/201907/t20190722_1281354.shtml	0396

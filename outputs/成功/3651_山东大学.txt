@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李忠军		1		山东省	济南市	https://www.sdu.edu.cn/sdgk/xrld.htm	党委书记；党委常委		山东大学	https://www.sdu.edu.cn/info/1071/1006.htm	3651
+李术才		2		山东省	济南市	https://www.sdu.edu.cn/sdgk/xrld.htm	党委副书记、校长；党委常委		山东大学	https://www.sdu.edu.cn/info/1073/1033.htm	3651
+陈宏伟		3		山东省	济南市	https://www.sdu.edu.cn/sdgk/xrld.htm	党委副书记；党委常委		山东大学	https://www.sdu.edu.cn/info/1077/69229.htm	3651
+李向阳		4		山东省	济南市	https://www.sdu.edu.cn/sdgk/xrld.htm	党委副书记；党委常委		山东大学	https://www.sdu.edu.cn/info/1077/69231.htm	3651
+魏名山		5		山东省	济南市	https://www.sdu.edu.cn/sdgk/xrld.htm	党委副书记；纪委书记；国家监委驻山东大学监察专员；党委常委		山东大学	https://www.sdu.edu.cn/info/1077/70403.htm	3651
+张帅		6		山东省	济南市	https://www.sdu.edu.cn/sdgk/xrld.htm	党委副书记；党委常委		山东大学	https://www.sdu.edu.cn/info/1077/69230.htm	3651
+吴臻		7		山东省	济南市	https://www.sdu.edu.cn/sdgk/xrld.htm	党委常委；常务副校长		山东大学	https://www.sdu.edu.cn/info/1078/69238.htm	3651
+朱德建		8		山东省	济南市	https://www.sdu.edu.cn/sdgk/xrld.htm	党委常委；副校长		山东大学	https://www.sdu.edu.cn/info/1078/69236.htm	3651
+曹现强		9		山东省	济南市	https://www.sdu.edu.cn/sdgk/xrld.htm	党委常委；副校长		山东大学	https://www.sdu.edu.cn/info/1078/69234.htm	3651
+王美琴		10		山东省	济南市	https://www.sdu.edu.cn/sdgk/xrld.htm	党委常委；副校长		山东大学	https://www.sdu.edu.cn/info/1078/69233.htm	3651
+刘兆军		11		山东省	济南市	https://www.sdu.edu.cn/sdgk/xrld.htm	党委常委；副校长		山东大学	https://www.sdu.edu.cn/info/1078/69239.htm	3651
+马晓琳		12		山东省	济南市	https://www.sdu.edu.cn/sdgk/xrld.htm	党委常委		山东大学	https://www.sdu.edu.cn/info/1078/69240.htm	3651
+黄发有		13		山东省	济南市	https://www.sdu.edu.cn/sdgk/xrld.htm	副校长		山东大学	https://www.sdu.edu.cn/info/1076/69224.htm	3651
+邢占军		14		山东省	济南市	https://www.sdu.edu.cn/sdgk/xrld.htm	校长助理		山东大学	https://www.sdu.edu.cn/info/1079/70406.htm	3651

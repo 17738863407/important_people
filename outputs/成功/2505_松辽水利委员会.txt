@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张延坤		1		全国		http://www.slwr.gov.cn/slwld.jhtml	松辽委党组书记、主任		松辽水利委员会	http://www.slwr.gov.cn/zyk.jhtml	2505
+马铁民		2		全国		http://www.slwr.gov.cn/slwld.jhtml	松辽委党组成员、副主任（正局级）		松辽水利委员会	http://www.slwr.gov.cn/mtm.jhtml	2505
+廉茂庆		3		全国		http://www.slwr.gov.cn/slwld.jhtml	松辽委党组成员、副主任		松辽水利委员会	http://www.slwr.gov.cn/lmq.jhtml	2505
+郑维立		4		全国		http://www.slwr.gov.cn/slwld.jhtml	松辽委党组成员、副主任		松辽水利委员会	http://www.slwr.gov.cn/zwl.jhtml	2505
+郭海		5		全国		http://www.slwr.gov.cn/slwld.jhtml	松辽委党组成员、副主任		松辽水利委员会	http://www.slwr.gov.cn/gh1.jhtml	2505
+李天良		6		全国		http://www.slwr.gov.cn/slwld.jhtml	松辽委党组成员、机关党委副书记、机关纪委书记		松辽水利委员会	http://www.slwr.gov.cn/ltl.jhtml	2505

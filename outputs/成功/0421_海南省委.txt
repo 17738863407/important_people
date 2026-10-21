@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+冯飞		1		全国		http://district.ce.cn/zt/rwk/sf/hi/index.shtml	省委书记、省人大常委会主任		海南省委	http://district.ce.cn/newarea/sddy/202305/31/t20230531_38569460.shtml	0421
+刘小明		2		全国		http://district.ce.cn/zt/rwk/sf/hi/index.shtml	省委副书记、省长		海南省委	http://district.ce.cn/newarea/sddy/202305/31/t20230531_38569460.shtml	0421
+杨晋柏		3		全国		http://district.ce.cn/zt/rwk/sf/hi/index.shtml	省委副书记、政法委书记		海南省委	http://district.ce.cn/newarea/sddy/202504/12/t20250412_39342641.shtml	0421
+陈国猛		4		全国		http://district.ce.cn/zt/rwk/sf/hi/index.shtml	省委常委、纪委书记、监委主任		海南省委	http://district.ce.cn/newarea/sddy/202301/18/t20230118_38354151.shtml	0421
+王斌		5		全国		http://district.ce.cn/zt/rwk/sf/hi/index.shtml	省委常委、宣传部部长		海南省委	http://district.ce.cn/newarea/sddy/202205/05/t20220505_37552024.shtml	0421
+巴特尔		6		全国		http://district.ce.cn/zt/rwk/sf/hi/index.shtml	省委常委、常务副省长		海南省委	http://district.ce.cn/newarea/sddy/202309/20/t20230920_38723267.shtml	0421
+王培杰		7		全国		http://district.ce.cn/zt/rwk/sf/hi/index.shtml	省委常委，省军区司令员		海南省委	http://district.ce.cn/newarea/sddy/202206/22/t20220622_37782109.shtml	0421
+王祺扬		8		全国		http://district.ce.cn/zt/rwk/sf/hi/index.shtml	省委常委、三亚市委书记		海南省委	http://district.ce.cn/newarea/sddy/202412/03/t20241203_39223151.shtml	0421
+纳云德		9		全国		http://district.ce.cn/zt/rwk/sf/hi/index.shtml	省委常委、组织部部长		海南省委	http://district.ce.cn/newarea/sddy/202408/26/t20240826_39117580.shtml	0421
+范少军		10		全国		http://district.ce.cn/zt/rwk/sf/hi/index.shtml	省委常委、海口市委书记		海南省委	http://district.ce.cn/newarea/sddy/202501/06/t20250106_39257802.shtml	0421
+邹广		11		全国		http://district.ce.cn/zt/rwk/sf/hi/index.shtml	省委常委、儋州市委书记		海南省委	http://district.ce.cn/newarea/sddy/202604/t20260413_2900128.shtml	0421

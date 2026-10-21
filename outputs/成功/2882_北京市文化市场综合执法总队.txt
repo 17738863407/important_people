@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+曹鹏程		1		北京市		https://whsczfzd.beijing.gov.cn/zwgk/jgzn/ldxx/	党委书记、总队长、一级巡视员		北京市文化市场综合执法总队		2882
+赵恩国		2		北京市		https://whsczfzd.beijing.gov.cn/zwgk/jgzn/ldxx/	党委副书记、纪委书记、督办		北京市文化市场综合执法总队		2882
+于鹏		3		北京市		https://whsczfzd.beijing.gov.cn/zwgk/jgzn/ldxx/	党委委员、副总队长		北京市文化市场综合执法总队		2882
+闻阳		4		北京市		https://whsczfzd.beijing.gov.cn/zwgk/jgzn/ldxx/	党委委员、副总队长		北京市文化市场综合执法总队		2882
+张权		5		北京市		https://whsczfzd.beijing.gov.cn/zwgk/jgzn/ldxx/	副总队长		北京市文化市场综合执法总队		2882
+王占军		6		北京市		https://whsczfzd.beijing.gov.cn/zwgk/jgzn/ldxx/	党委委员、副总队长		北京市文化市场综合执法总队		2882
+张华宇		7		北京市		https://whsczfzd.beijing.gov.cn/zwgk/jgzn/ldxx/	党委委员、督办		北京市文化市场综合执法总队		2882
+贾振宇		8		北京市		https://whsczfzd.beijing.gov.cn/zwgk/jgzn/ldxx/	党委委员、督办		北京市文化市场综合执法总队		2882

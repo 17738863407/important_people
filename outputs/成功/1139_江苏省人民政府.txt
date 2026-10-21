@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘小涛		1		全国		https://www.jiangsu.gov.cn/col/col59850/index.html	省长		江苏省人民政府	https://www.jiangsu.gov.cn/col/col92840/index.html	1139
+张文兵		2		全国		https://www.jiangsu.gov.cn/col/col59850/index.html	副省长		江苏省人民政府	https://www.jiangsu.gov.cn/col/col93690/index.html	1139
+马士光		3		全国		https://www.jiangsu.gov.cn/col/col59850/index.html	副省长		江苏省人民政府	https://www.jiangsu.gov.cn/col/col91761/index.html	1139
+胡彬郴		4		全国		https://www.jiangsu.gov.cn/col/col59850/index.html	副省长		江苏省人民政府	https://www.jiangsu.gov.cn/col/col92407/index.html	1139
+沈剑荣		5		全国		https://www.jiangsu.gov.cn/col/col59850/index.html	副省长		江苏省人民政府	https://www.jiangsu.gov.cn/col/col93044/index.html	1139
+史志军		6		全国		https://www.jiangsu.gov.cn/col/col59850/index.html	副省长		江苏省人民政府	https://www.jiangsu.gov.cn/col/col93626/index.html	1139
+赵建军		7		全国		https://www.jiangsu.gov.cn/col/col59850/index.html	秘书长		江苏省人民政府	https://www.jiangsu.gov.cn/col/col92729/index.html	1139

@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+鞠振		1		山西省	阳泉市	https://www.yq.gov.cn/zwgk/sjld/	市委书记		阳泉市委	https://www.yq.gov.cn/zwgk/sjld/swld/juzhensj/202601/t20260105_2155676.shtml	4291
+张利锋		2		山西省	阳泉市	https://www.yq.gov.cn/zwgk/sjld/	市委副书记		阳泉市委	https://www.yq.gov.cn/zwgk/sjld/swld/chenkai/202601/t20260105_2155677.shtml	4291
+师旭明		3		山西省	阳泉市	https://www.yq.gov.cn/zwgk/sjld/	市委副书记		阳泉市委	https://www.yq.gov.cn/zwgk/sjld/swld/sxm/202103/t20210318_1140016.shtml	4291
+王增昂		4		山西省	阳泉市	https://www.yq.gov.cn/zwgk/sjld/	市委常委		阳泉市委	https://www.yq.gov.cn/zwgk/sjld/swld/cwwza/202406/t20240625_1913832.shtml	4291
+李遊		5		山西省	阳泉市	https://www.yq.gov.cn/zwgk/sjld/	市委常委		阳泉市委	https://www.yq.gov.cn/zwgk/sjld/swld/ly/202109/t20210930_1224069.shtml	4291
+胡海亮		6		山西省	阳泉市	https://www.yq.gov.cn/zwgk/sjld/	市委常委		阳泉市委	https://www.yq.gov.cn/zwgk/sjld/swld/hhl/202609/t20260907_2236162.shtml	4291
+李哲		7		山西省	阳泉市	https://www.yq.gov.cn/zwgk/sjld/	市委常委		阳泉市委	https://www.yq.gov.cn/zwgk/sjld/swld/gpp/202609/t20260902_2234603.shtml	4291
+马小力		8		山西省	阳泉市	https://www.yq.gov.cn/zwgk/sjld/	市委常委		阳泉市委	https://www.yq.gov.cn/zwgk/sjld/swld/mxl/202609/t20260907_2236163.shtml	4291
+石峥		9		山西省	阳泉市	https://www.yq.gov.cn/zwgk/sjld/	市委常委		阳泉市委	https://www.yq.gov.cn/zwgk/sjld/swld/cwsz/202504/t20250416_2049149.shtml	4291
+陈明华		10		山西省	阳泉市	https://www.yq.gov.cn/zwgk/sjld/	市委常委		阳泉市委	https://www.yq.gov.cn/zwgk/sjld/swld/cwcmh/202406/t20240625_1913826.shtml	4291
+王晓斌		11		山西省	阳泉市	https://www.yq.gov.cn/zwgk/sjld/	市委常委		阳泉市委	https://www.yq.gov.cn/zwgk/sjld/swld/cwwxb/202510/t20251028_2127829.shtml	4291

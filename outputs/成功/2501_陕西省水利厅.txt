@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑维国		1		陕西省		https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	厅党组书记、厅长		陕西省水利厅	https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/tz/202007/t20200716_728800.html	2501
+宇涛		2		陕西省		https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	厅党组成员、副厅长		陕西省水利厅	https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/cy/202107/t20210714_2183118.html	2501
+张蕾		3		陕西省		https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	省纪委监委驻省水利厅纪检监察组组长、厅党组成员		陕西省水利厅	https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/cy/202412/t20241217_3248754.html	2501
+周毅		4		陕西省		https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	厅党组成员、副厅长		陕西省水利厅	https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/cy/202505/t20250528_3525225.html	2501
+邓宽社		5		陕西省		https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	厅党组成员、副厅长		陕西省水利厅	https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/cy/202507/t20250708_3540954.html	2501
+杨军严		6		陕西省		https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	厅党组成员、副厅长		陕西省水利厅	https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/cy/202512/t20251202_3591587.html	2501
+程子勇		7		陕西省		https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	厅一级巡视员		陕西省水利厅	https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/cy/202511/t20251110_3583582.html	2501
+宋晓强		8		陕西省		https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	厅一级巡视员		陕西省水利厅	https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/cy/202511/t20251110_3583587.html	2501
+曹宇		9		陕西省		https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	厅二级巡视员		陕西省水利厅	https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/cy/202603/t20260306_3618023.html	2501
+安芳东		10		陕西省		https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	厅二级巡视员		陕西省水利厅	https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/cy/202609/t20260915_3692454.html	2501
+王宇		11		陕西省		https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	厅二级巡视员		陕西省水利厅	https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/cy/202512/t20251202_3591585.html	2501
+孙力安		12		陕西省		https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	厅二级巡视员		陕西省水利厅	https://slt.shaanxi.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/cy/202604/t20260402_3627096.html	2501

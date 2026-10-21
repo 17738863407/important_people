@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈彬斌		1		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201111/t20111121_830357.htm	主任		文化和旅游部办公厅		1499
+张雪超		2		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201111/t20111121_830357.htm	副主任（在外挂职）		文化和旅游部办公厅		1499
+李晓良		3		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201111/t20111121_830357.htm	副主任		文化和旅游部办公厅		1499
+张剑		4		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201111/t20111121_830357.htm	副主任		文化和旅游部办公厅		1499
+陈文锋		5		全国		https://www.mct.gov.cn/gywhb/jgsz/bjg_jgsz/201111/t20111121_830357.htm	副主任		文化和旅游部办公厅		1499

@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+任发政		1		全国		https://www.cits.ac.cn/gyxh	会长		中国检验检测学会	https://www.cits.ac.cn/newsinfo/689092.html	4021
+杜修力		2		全国		https://www.cits.ac.cn/gyxh	副会长		中国检验检测学会		4021
+王兴国		3		全国		https://www.cits.ac.cn/gyxh	副会长		中国检验检测学会	https://www.cits.ac.cn/newsinfo/2229181.html	4021
+赵谋明		4		全国		https://www.cits.ac.cn/gyxh	副会长		中国检验检测学会	https://www.cits.ac.cn/newsinfo/661862.html	4021
+程博闻		5		全国		https://www.cits.ac.cn/gyxh	副会长		中国检验检测学会	https://www.cits.ac.cn/newsinfo/661896.html	4021
+李彦夫		6		全国		https://www.cits.ac.cn/gyxh	副会长		中国检验检测学会	https://www.cits.ac.cn/newsinfo/661694.html	4021
+夏扬		7		全国		https://www.cits.ac.cn/gyxh	副会长兼秘书长		中国检验检测学会	https://www.cits.ac.cn/newsinfo/545796.html	4021
+金震		8		全国		https://www.cits.ac.cn/gyxh	副会长		中国检验检测学会	https://www.cits.ac.cn/newsinfo/1512951.html	4021
+林祥梅		9		全国		https://www.cits.ac.cn/gyxh	副会长		中国检验检测学会	http://www.cits.ac.cn/newsinfo/1513241.html	4021
+宫赤霄		10		全国		https://www.cits.ac.cn/gyxh	副会长		中国检验检测学会	https://www.cits.ac.cn/newsinfo/1513008.html	4021
+孙玉友		11		全国		https://www.cits.ac.cn/gyxh	副会长		中国检验检测学会	https://www.cits.ac.cn/newsinfo/1512974.html	4021
+陈彦长		12		全国		https://www.cits.ac.cn/gyxh	副会长		中国检验检测学会	https://www.cits.ac.cn/newsinfo/1513023.html	4021

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+林振中		1		全国		https://www.sinomaps.com/gywm/jtld/index.html	党委书记、董事长		中国地图出版社集团有限公司		2417
+王大贺		2		全国		https://www.sinomaps.com/gywm/jtld/index.html	党委副书记、副董事长、总经理		中国地图出版社集团有限公司		2417
+毛文萍		3		全国		https://www.sinomaps.com/gywm/jtld/index.html	党委专职副书记		中国地图出版社集团有限公司		2417
+芦仲进		4		全国		https://www.sinomaps.com/gywm/jtld/index.html	党委委员，董事、总编辑		中国地图出版社集团有限公司		2417
+陈卓宁		5		全国		https://www.sinomaps.com/gywm/jtld/index.html	党委委员，董事、副总经理		中国地图出版社集团有限公司		2417
+孙水		6		全国		https://www.sinomaps.com/gywm/jtld/index.html	党委委员，董事、副总经理		中国地图出版社集团有限公司		2417
+闵佳		7		全国		https://www.sinomaps.com/gywm/jtld/index.html	纪委书记、党委委员，董事		中国地图出版社集团有限公司		2417

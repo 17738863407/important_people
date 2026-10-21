@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈杰		1		海南省		https://dost.hainan.gov.cn/xxgk/zzjg/	党组书记、厅长		海南省科学技术厅	https://dost.hainan.gov.cn/xxgk/zzjg/ldjs/201608/t20160831_705216.html	0471
+刘联伟		2		海南省		https://dost.hainan.gov.cn/xxgk/zzjg/	党组成员、副厅长		海南省科学技术厅	https://dost.hainan.gov.cn/xxgk/zzjg/ldjs/202601/t20260107_4007408.html	0471
+蒙巍		3		海南省		https://dost.hainan.gov.cn/xxgk/zzjg/	党组成员、副厅长，省外国专家局局长		海南省科学技术厅	https://dost.hainan.gov.cn/xxgk/zzjg/ldjs/202308/t20230818_3478021.html	0471
+谈戈		4		海南省		https://dost.hainan.gov.cn/xxgk/zzjg/	党组成员、副厅长		海南省科学技术厅	https://dost.hainan.gov.cn/xxgk/zzjg/ldjs/202203/t20220301_3148995.html	0471
+杨文强		5		海南省		https://dost.hainan.gov.cn/xxgk/zzjg/	党组成员、副厅长		海南省科学技术厅	https://dost.hainan.gov.cn/xxgk/zzjg/ldjs/202511/t20251124_3976209.html	0471
+许江		6		海南省		https://dost.hainan.gov.cn/xxgk/zzjg/	党组成员、副厅长		海南省科学技术厅	https://dost.hainan.gov.cn/xxgk/zzjg/ldjs/202406/t20240617_3681647.html	0471
+李海璇		7		海南省		https://dost.hainan.gov.cn/xxgk/zzjg/	二级巡视员		海南省科学技术厅	https://dost.hainan.gov.cn/xxgk/zzjg/ldjs/202511/t20251105_3960635.html	0471

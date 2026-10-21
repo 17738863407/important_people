@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+林海峰		1		吉林省	长春市	http://gaj.changchun.gov.cn/xxgk/ldxx/202403/t20240307_3287067.html	省公安厅副厅长、长春市副市长、市公安局党委书记、局长、督察长		长春市公安局		0606
+李燃		2		吉林省	长春市	http://gaj.changchun.gov.cn/xxgk/ldxx/202403/t20240307_3287067.html	市公安局党委副书记、常务副局长、二级警务专员		长春市公安局		0606
+杜宝虎		3		吉林省	长春市	http://gaj.changchun.gov.cn/xxgk/ldxx/202403/t20240307_3287067.html	市公安局党委委员、特勤局局长		长春市公安局		0606
+刘景泽		4		吉林省	长春市	http://gaj.changchun.gov.cn/xxgk/ldxx/202403/t20240307_3287067.html	市公安局党委委员、副局长、二级警务专员		长春市公安局		0606
+李永胜		5		吉林省	长春市	http://gaj.changchun.gov.cn/xxgk/ldxx/202403/t20240307_3287067.html	市公安局副局长、二级警务专员		长春市公安局		0606
+张力游		6		吉林省	长春市	http://gaj.changchun.gov.cn/xxgk/ldxx/202403/t20240307_3287067.html	市公安局党委委员、副局长、二级警务专员		长春市公安局		0606
+王开远		7		吉林省	长春市	http://gaj.changchun.gov.cn/xxgk/ldxx/202403/t20240307_3287067.html	市纪委监委驻市公安局纪检监察组组长、市公安局党委委员		长春市公安局		0606
+国英波		8		吉林省	长春市	http://gaj.changchun.gov.cn/xxgk/ldxx/202403/t20240307_3287067.html	市公安局副局长、二级警务专员		长春市公安局		0606
+孙志远		9		吉林省	长春市	http://gaj.changchun.gov.cn/xxgk/ldxx/202403/t20240307_3287067.html	市公安局副局长、一级高级警长		长春市公安局		0606
+王岩		10		吉林省	长春市	http://gaj.changchun.gov.cn/xxgk/ldxx/202403/t20240307_3287067.html	市公安局党委委员、政治部主任		长春市公安局		0606
+常健		11		吉林省	长春市	http://gaj.changchun.gov.cn/xxgk/ldxx/202403/t20240307_3287067.html	市公安局反恐专员、二级警务专员		长春市公安局		0606

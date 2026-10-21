@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐志向		1		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/swgl/gkml/jgxx/202201/t20220118_4264046.shtml	党组书记、局长		青岛市水务管理局		2151
+刘国会		2		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/swgl/gkml/jgxx/202201/t20220118_4264046.shtml	党组成员、副局长		青岛市水务管理局		2151
+万光临		3		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/swgl/gkml/jgxx/202201/t20220118_4264046.shtml	党组成员、副局长		青岛市水务管理局		2151
+王震		4		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/swgl/gkml/jgxx/202201/t20220118_4264046.shtml	党组成员、副局长		青岛市水务管理局		2151
+纪文峰		5		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/swgl/gkml/jgxx/202201/t20220118_4264046.shtml	市水务管理局党组成员		青岛市水务管理局		2151
+郑毅		6		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/swgl/gkml/jgxx/202201/t20220118_4264046.shtml	党组成员、副局长		青岛市水务管理局		2151

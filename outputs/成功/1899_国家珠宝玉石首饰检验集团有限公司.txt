@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+顾晓华		1		全国		https://www.ngtc.com.cn/jigou/jtld/index.html	党委书记、董事长		国家珠宝玉石首饰检验集团有限公司		1899
+张晓		2		全国		https://www.ngtc.com.cn/jigou/jtld/index.html	党委副书记，总经理，董事，工会主席		国家珠宝玉石首饰检验集团有限公司		1899
+刘法宪		3		全国		https://www.ngtc.com.cn/jigou/jtld/index.html	董事，副总经理		国家珠宝玉石首饰检验集团有限公司		1899
+王忠		4		全国		https://www.ngtc.com.cn/jigou/jtld/index.html	党委专职副书记，董事		国家珠宝玉石首饰检验集团有限公司		1899
+周艳		5		全国		https://www.ngtc.com.cn/jigou/jtld/index.html	董事，副总经理		国家珠宝玉石首饰检验集团有限公司		1899
+钟帆		6		全国		https://www.ngtc.com.cn/jigou/jtld/index.html	纪委书记，党委委员，董事		国家珠宝玉石首饰检验集团有限公司		1899
+张钧		7		全国		https://www.ngtc.com.cn/jigou/jtld/index.html	总工程师		国家珠宝玉石首饰检验集团有限公司		1899
+孟晓珺		8		全国		https://www.ngtc.com.cn/jigou/jtld/index.html	总经济师		国家珠宝玉石首饰检验集团有限公司		1899

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张涛		1		四川省	成都市	https://jtys.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	党组书记、局长		成都市交通运输局	https://jtys.chengdu.gov.cn/gkml/ldcy/1222488085468545024.shtml	1252
+王清宇		2		四川省	成都市	https://jtys.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	党组成员、副局长		成都市交通运输局	https://jtys.chengdu.gov.cn/gkml/ldcy/1613191171297878016.shtml	1252
+王晖		3		四川省	成都市	https://jtys.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	党组成员、副局长		成都市交通运输局	https://jtys.chengdu.gov.cn/gkml/ldcy/1377584442243022848.shtml	1252
+高怡强		4		四川省	成都市	https://jtys.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	党组成员、驻局纪检监察组组长		成都市交通运输局	https://jtys.chengdu.gov.cn/gkml/ldcy/1179071038235869184.shtml	1252
+陈俊材		5		四川省	成都市	https://jtys.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	副局长		成都市交通运输局	https://jtys.chengdu.gov.cn/gkml/ldcy/1377581124628250624.shtml	1252
+周亚军		6		四川省	成都市	https://jtys.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	党组成员、副局长		成都市交通运输局	https://jtys.chengdu.gov.cn/gkml/ldcy/1613191171318849536.shtml	1252
+禹刚		7		四川省	成都市	https://jtys.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	成都市邮政管理局党组书记、局长，成都市交通运输局副局长（兼）		成都市交通运输局	https://jtys.chengdu.gov.cn/gkml/ldcy/1179073229621297152.shtml	1252
+谢忠		8		四川省	成都市	https://jtys.chengdu.gov.cn/gkml/ldcy/detail-list/column-index-1.shtml	一级调研员		成都市交通运输局	https://jtys.chengdu.gov.cn/gkml/ldcy/1186725004901875712.shtml	1252

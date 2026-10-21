@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴强		1		全国		https://www.waterinfo.com.cn/zzjg/xrld/	水利部发展研究中心主任、党委书记		水利部发展研究中心		2848
+吴浓娣		2		全国		https://www.waterinfo.com.cn/zzjg/xrld/	水利部发展研究中心三级职员		水利部发展研究中心		2848
+陈玉秋		3		全国		https://www.waterinfo.com.cn/zzjg/xrld/	水利部发展研究中心副主任		水利部发展研究中心		2848
+刘小勇		4		全国		https://www.waterinfo.com.cn/zzjg/xrld/	水利部发展研究中心副主任		水利部发展研究中心		2848
+乔根平		5		全国		https://www.waterinfo.com.cn/zzjg/xrld/	水利部发展研究中心副主任		水利部发展研究中心		2848
+况黎丹		6		全国		https://www.waterinfo.com.cn/zzjg/xrld/	水利部发展研究中心纪委书记		水利部发展研究中心		2848
+戴向前		7		全国		https://www.waterinfo.com.cn/zzjg/xrld/	水利部发展研究中心副主任		水利部发展研究中心		2848

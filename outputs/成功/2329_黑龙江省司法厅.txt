@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+崔永洪		1		黑龙江省		https://sft.hlj.gov.cn/sft/jgld/public_jgld_new.shtml	省司法厅党委书记、厅长，省监狱管理局第一政委		黑龙江省司法厅		2329
+李泰峰		2		黑龙江省		https://sft.hlj.gov.cn/sft/jgld/public_jgld_new.shtml	省司法厅党委委员、政治部主任		黑龙江省司法厅		2329
+滕凤洲		3		黑龙江省		https://sft.hlj.gov.cn/sft/jgld/public_jgld_new.shtml	省司法厅党委委员、副厅长		黑龙江省司法厅		2329
+李沫		4		黑龙江省		https://sft.hlj.gov.cn/sft/jgld/public_jgld_new.shtml	省司法厅党委委员、驻厅纪检监察组组长		黑龙江省司法厅		2329
+刘旭东		5		黑龙江省		https://sft.hlj.gov.cn/sft/jgld/public_jgld_new.shtml	省司法厅党委委员、副厅长，省监狱管理局党委书记、局长		黑龙江省司法厅		2329
+姜涛		6		黑龙江省		https://sft.hlj.gov.cn/sft/jgld/public_jgld_new.shtml	省司法厅党委委员、副厅长		黑龙江省司法厅		2329
+蒙帅		7		黑龙江省		https://sft.hlj.gov.cn/sft/jgld/public_jgld_new.shtml	省司法厅党委委员、副厅长		黑龙江省司法厅		2329
+张万林		8		黑龙江省		https://sft.hlj.gov.cn/sft/jgld/public_jgld_new.shtml	省司法厅二级巡视员		黑龙江省司法厅		2329

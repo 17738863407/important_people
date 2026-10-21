@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+曹俊杰		1		四川省		https://fgw.sc.gov.cn/sfgw/nsjg/nsjg.shtml	党组书记、主任		四川省发展和改革委员会	https://fgw.sc.gov.cn/sfgw/ldjj/2026/1/29/1557bc394c0840c2b294871c3eed6d66.shtml	0558
+顾红松		2		四川省		https://fgw.sc.gov.cn/sfgw/nsjg/nsjg.shtml	党组副书记、副主任（正厅级），省数据局局长		四川省发展和改革委员会	https://fgw.sc.gov.cn/sfgw/ldjj/2024/1/16/b6a343f5fa62494895af8151569546f1.shtml	0558
+陶剑锋		3		四川省		https://fgw.sc.gov.cn/sfgw/nsjg/nsjg.shtml	党组副书记、副主任		四川省发展和改革委员会	https://fgw.sc.gov.cn/sfgw/ldjj/2018/11/29/673f7faa244547dab582145f047bc1e0.shtml	0558
+沈林红		4		四川省		https://fgw.sc.gov.cn/sfgw/nsjg/nsjg.shtml	驻委纪检监察组组长、委党组成员		四川省发展和改革委员会	https://fgw.sc.gov.cn/sfgw/ldjj/2024/5/7/1a39789944274ec3b62364e775ecb163.shtml	0558
+梁武湖		5		四川省		https://fgw.sc.gov.cn/sfgw/nsjg/nsjg.shtml	党组成员、副主任		四川省发展和改革委员会	https://fgw.sc.gov.cn/sfgw/ldjj/2017/5/18/1e58918005b44cfb88cdb0cd91e59f9b.shtml	0558
+崔大鹏		6		四川省		https://fgw.sc.gov.cn/sfgw/nsjg/nsjg.shtml	省铁路和机场建设办公室专职副主任、省发展改革委副主任		四川省发展和改革委员会	https://fgw.sc.gov.cn/sfgw/ldjj/2026/7/3/ab322bf9ba8b4cb9bd714f17275a86e2.shtml	0558
+邱波		7		四川省		https://fgw.sc.gov.cn/sfgw/nsjg/nsjg.shtml	党组成员、机关党委书记		四川省发展和改革委员会	https://fgw.sc.gov.cn/sfgw/ldjj/2020/1/16/290c87c910df45be8339a0a66f9f543e.shtml	0558
+陈波涛		8		四川省		https://fgw.sc.gov.cn/sfgw/nsjg/nsjg.shtml	党组成员，省能源局局长		四川省发展和改革委员会	https://fgw.sc.gov.cn/sfgw/ldjj/2026/1/28/489a7c36b09142b2b600be104bf366d3.shtml	0558
+黄勇		9		四川省		https://fgw.sc.gov.cn/sfgw/nsjg/nsjg.shtml	党组成员、副主任		四川省发展和改革委员会	https://fgw.sc.gov.cn/sfgw/ldjj/2023/10/13/09195e1cd4964e0d85f3ee7928e7b11c.shtml	0558
+陈亮		10		四川省		https://fgw.sc.gov.cn/sfgw/nsjg/nsjg.shtml	省以工代赈办主任		四川省发展和改革委员会	https://fgw.sc.gov.cn/sfgw/ldjj/2024/8/19/1abfa873eecf4baf8e988699c2ad2ee5.shtml	0558

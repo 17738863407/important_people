@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吕建成		1		广东省	广州市	https://giec.cas.cn/yjsgk2016/xrld2016/	所长		中国科学院广州能源研究所	http://giec.cas.cn/sourcedb/zw/zjrck/202104/t20210427_6000679.html	4120
+孙龙涛		2		广东省	广州市	https://giec.cas.cn/yjsgk2016/xrld2016/	党委书记副所长		中国科学院广州能源研究所	https://giec.cas.cn/yjsgk2016/xrld2016/202601/t20260115_8108630.html	4120
+侯红明		3		广东省	广州市	https://giec.cas.cn/yjsgk2016/xrld2016/	党委副书记、纪委书记		中国科学院广州能源研究所	http://giec.cas.cn/sourcedb/zw/zjrck/202403/t20240321_7047819.html	4120
+黄宏宇		4		广东省	广州市	https://giec.cas.cn/yjsgk2016/xrld2016/	副所长		中国科学院广州能源研究所	http://giec.cas.cn/sourcedb/zw/zjrck/201212/t20121205_3699180.html	4120
+孙永明		5		广东省	广州市	https://giec.cas.cn/yjsgk2016/xrld2016/	副所长		中国科学院广州能源研究所	http://giec.cas.cn/sourcedb/zw/zjrck/200907/t20090713_2071241.html	4120
+袁浩然		6		广东省	广州市	https://giec.cas.cn/yjsgk2016/xrld2016/	副所长		中国科学院广州能源研究所	http://giec.cas.cn/sourcedb/zw/zjrck/201706/t20170609_4809846.html	4120
+李小森		7		广东省	广州市	https://giec.cas.cn/yjsgk2016/xrld2016/	学术副所长		中国科学院广州能源研究所	http://giec.cas.cn/sourcedb/zw/zjrck/200907/t20090713_2071262.html	4120

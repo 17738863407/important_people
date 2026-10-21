@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈子季		1		北京市		https://www.bjtu.edu.cn/xxgk/xrld/index.htm	党委书记		北京交通大学	https://www.bjtu.edu.cn/xxgk/xrld/cec8ac48b3b54d9591e4761fcab53c73.htm	3611
+刘攀		2		北京市		https://www.bjtu.edu.cn/xxgk/xrld/index.htm	校长、党委副书记		北京交通大学	https://www.bjtu.edu.cn/xxgk/xrld/b98e282f18c54de087fec82a1efa1fdd.htm	3611
+刘伟		3		北京市		https://www.bjtu.edu.cn/xxgk/xrld/index.htm	党委副书记、纪委书记		北京交通大学	https://www.bjtu.edu.cn/xxgk/xrld/38aef6e1208d41c28047dce1c56e0a8b.htm	3611
+文海涛		4		北京市		https://www.bjtu.edu.cn/xxgk/xrld/index.htm	党委副书记		北京交通大学	https://www.bjtu.edu.cn/xxgk/xrld/162524.htm	3611
+姚念龙		5		北京市		https://www.bjtu.edu.cn/xxgk/xrld/index.htm	党委副书记		北京交通大学	https://www.bjtu.edu.cn/xxgk/xrld/f120732bacd3401a8baf148a47e53ed7.htm	3611
+赵鹏		6		北京市		https://www.bjtu.edu.cn/xxgk/xrld/index.htm	党委常委、副校长		北京交通大学	https://www.bjtu.edu.cn/xxgk/xrld/bd05798b3faa47f48d6d9df06cd6001a.htm	3611
+荆涛		7		北京市		https://www.bjtu.edu.cn/xxgk/xrld/index.htm	副校长		北京交通大学	https://www.bjtu.edu.cn/xxgk/xrld/07507ff37d6c465cbd06c76170d54476.htm	3611
+高亮		8		北京市		https://www.bjtu.edu.cn/xxgk/xrld/index.htm	党委常委、副校长		北京交通大学	https://www.bjtu.edu.cn/xxgk/xrld/1cc4c769aebb4e918974e749040e3498.htm	3611
+李国岫		9		北京市		https://www.bjtu.edu.cn/xxgk/xrld/index.htm	党委常委、副校长		北京交通大学	https://www.bjtu.edu.cn/xxgk/xrld/162520.htm	3611
+施先亮		10		北京市		https://www.bjtu.edu.cn/xxgk/xrld/index.htm	党委常委、副校长		北京交通大学	https://www.bjtu.edu.cn/xxgk/xrld/162525.htm	3611
+艾渤		11		北京市		https://www.bjtu.edu.cn/xxgk/xrld/index.htm	党委常委、副校长		北京交通大学	https://www.bjtu.edu.cn/xxgk/xrld/59bcd0a7f9024474b789f937e2b974a2.htm	3611
+蓝晓霞		12		北京市		https://www.bjtu.edu.cn/xxgk/xrld/index.htm	党委常委、统战部部长		北京交通大学	https://www.bjtu.edu.cn/xxgk/xrld/162518.htm	3611
+赵岚		13		北京市		https://www.bjtu.edu.cn/xxgk/xrld/index.htm	党委常委、宣传部部长		北京交通大学	https://www.bjtu.edu.cn/xxgk/xrld/8b36f40a1e7f4f038d61f18cabef115a.htm	3611
+信心		14		北京市		https://www.bjtu.edu.cn/xxgk/xrld/index.htm	校长助理		北京交通大学	https://www.bjtu.edu.cn/xxgk/xrld/162517.htm	3611

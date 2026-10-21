@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+俸兰		1		全国		https://www.neac.gov.cn/seac/mwjs/ssmzdwjl/jgrysz.shtml	会长；国家民委国际交流司原司长（已退休）		中国少数民族对外交流协会		1877
+魏国雄		2		全国		https://www.neac.gov.cn/seac/mwjs/ssmzdwjl/jgrysz.shtml	副会长；国家民委国际交流司司长		中国少数民族对外交流协会		1877
+李焕才		3		全国		https://www.neac.gov.cn/seac/mwjs/ssmzdwjl/jgrysz.shtml	副会长；国家民委国际交流司副司长（兼秘书长、法定代表人）		中国少数民族对外交流协会		1877
+宋敏		4		全国		https://www.neac.gov.cn/seac/mwjs/ssmzdwjl/jgrysz.shtml	副会长；中央民族大学党委常委、副校长		中国少数民族对外交流协会		1877
+潘红祥		5		全国		https://www.neac.gov.cn/seac/mwjs/ssmzdwjl/jgrysz.shtml	副会长；中南民族大学法学院党委副书记、院长		中国少数民族对外交流协会		1877
+张明善		6		全国		https://www.neac.gov.cn/seac/mwjs/ssmzdwjl/jgrysz.shtml	副会长；西南民族大学党委常委、副校长		中国少数民族对外交流协会		1877
+玉苏甫江		7		全国		https://www.neac.gov.cn/seac/mwjs/ssmzdwjl/jgrysz.shtml	副会长；西北民族大学党委副书记、副校长		中国少数民族对外交流协会		1877
+李岩青		8		全国		https://www.neac.gov.cn/seac/mwjs/ssmzdwjl/jgrysz.shtml	副会长；北方民族大学党委常委、副校长		中国少数民族对外交流协会		1877
+黄永东		9		全国		https://www.neac.gov.cn/seac/mwjs/ssmzdwjl/jgrysz.shtml	副会长；大连民族大学党委常委、副校长		中国少数民族对外交流协会		1877

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+柏志国		1		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c108183/202403/c01_976306.shtml	党组书记、局长		哈尔滨市体育局		0916
+鲍金宝		2		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c108183/202403/c01_976306.shtml	党组成员、驻局纪检监察组组长		哈尔滨市体育局		0916
+于洋		3		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c108183/202403/c01_976306.shtml	党组成员、副局长		哈尔滨市体育局		0916
+赵亮		4		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c108183/202403/c01_976306.shtml	党组成员、副局长		哈尔滨市体育局		0916
+童申玉		5		黑龙江省	哈尔滨市	https://www.harbin.gov.cn/haerbin/c108183/202403/c01_976306.shtml	二级巡视员		哈尔滨市体育局		0916

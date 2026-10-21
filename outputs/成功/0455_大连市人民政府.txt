@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+姚华明		1		辽宁省	大连市	https://www.dl.gov.cn/col/col46/index.html	中共大连市委副书记、市长、市政府党组书记		大连市人民政府	https://www.dl.gov.cn/col/col11849/index.html	0455
+邱宝林		2		辽宁省	大连市	https://www.dl.gov.cn/col/col46/index.html	中共大连市委常委、市政府副市长、市政府党组副书记，兼任市委军民融合办（市国防科工办）主任		大连市人民政府	https://www.dl.gov.cn/col/col9941/index.html	0455
+王少洪		3		辽宁省	大连市	https://www.dl.gov.cn/col/col46/index.html	中共大连市委常委、市政府副市长、市政府党组成员		大连市人民政府	https://www.dl.gov.cn/col/col11378/index.html	0455
+王小强		4		辽宁省	大连市	https://www.dl.gov.cn/col/col46/index.html	中共大连市委常委，市政府副市长、市政府党组成员		大连市人民政府	https://www.dl.gov.cn/col/col11826/index.html	0455
+郁林涛		5		辽宁省	大连市	https://www.dl.gov.cn/col/col46/index.html	大连市人民政府副市长、党组成员，市公安局党委书记、局长		大连市人民政府	https://www.dl.gov.cn/col/col9942/index.html	0455
+牟傲风		6		辽宁省	大连市	https://www.dl.gov.cn/col/col46/index.html	大连市人民政府副市长		大连市人民政府	https://www.dl.gov.cn/col/col11564/index.html	0455
+赵东		7		辽宁省	大连市	https://www.dl.gov.cn/col/col46/index.html	大连市人民政府副市长、党组成员，大连长兴岛经济技术开发区（长兴岛经济区）党工委书记，中共辽宁省瓦房店市委书记		大连市人民政府	https://www.dl.gov.cn/col/col11565/index.html	0455
+高云鹏		8		辽宁省	大连市	https://www.dl.gov.cn/col/col46/index.html	大连市人民政府副市长、党组成员		大连市人民政府	https://www.dl.gov.cn/col/col11655/index.html	0455
+汤易		9		辽宁省	大连市	https://www.dl.gov.cn/col/col46/index.html	大连市政协副主席，大连市人民政府秘书长、党组成员，市政府办公厅主任、市政府机关党组书记		大连市人民政府	https://www.dl.gov.cn/col/col9591/index.html	0455
+姜斌		10		辽宁省	大连市	https://www.dl.gov.cn/col/col46/index.html	大连市政府党组成员		大连市人民政府	https://www.dl.gov.cn/col/col11739/index.html	0455
+刘宝庆		11		辽宁省	大连市	https://www.dl.gov.cn/col/col46/index.html	大连市政府党组成员，大连太平湾合作创新区党委书记、管委会主任		大连市人民政府	https://www.dl.gov.cn/col/col11741/index.html	0455

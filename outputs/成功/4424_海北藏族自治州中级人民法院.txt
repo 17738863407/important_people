@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马文全		1		青海省	海北藏族自治州	https://hbzy.qhwsfy.gov.cn/article/detail/2023/01/id/7104902.shtml	海北州中级人民法院党组书记、院长、审判委员会委员、审判员		海北藏族自治州中级人民法院		4424
+张青武		2		青海省	海北藏族自治州	https://hbzy.qhwsfy.gov.cn/article/detail/2023/01/id/7104902.shtml	海北州中级人民法院党组副书记、副院长、二级高级法官		海北藏族自治州中级人民法院		4424
+东勒什吉		3		青海省	海北藏族自治州	https://hbzy.qhwsfy.gov.cn/article/detail/2023/01/id/7104902.shtml	州纪委监委派驻第七纪检监察组组长、党组成员		海北藏族自治州中级人民法院		4424
+尚文英		4		青海省	海北藏族自治州	https://hbzy.qhwsfy.gov.cn/article/detail/2023/01/id/7104902.shtml	海北州中级人民法院党组成员、政治部主任		海北藏族自治州中级人民法院		4424
+齐建彩		5		青海省	海北藏族自治州	https://hbzy.qhwsfy.gov.cn/article/detail/2023/01/id/7104902.shtml	海北州中级人民法院党组成员、副院长		海北藏族自治州中级人民法院		4424

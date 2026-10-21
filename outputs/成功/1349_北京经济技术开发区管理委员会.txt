@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王磊		1		北京市		https://kfqgw.beijing.gov.cn/zwgkkfq/jgzn/	经开区工委副书记、管委会主任		北京经济技术开发区管理委员会	https://kfqgw.beijing.gov.cn/zwgkkfq/jgzn/ldjs/gwhld/202312/t20231229_3518613.html	1349
+李全		2		北京市		https://kfqgw.beijing.gov.cn/zwgkkfq/jgzn/	经开区工委委员、管委会副主任		北京经济技术开发区管理委员会	https://kfqgw.beijing.gov.cn/zwgkkfq/jgzn/ldjs/gwhld/202401/t20240131_3551709.html	1349
+傅大瑞		3		北京市		https://kfqgw.beijing.gov.cn/zwgkkfq/jgzn/	经开区管委会副主任		北京经济技术开发区管理委员会	https://kfqgw.beijing.gov.cn/zwgkkfq/jgzn/ldjs/gwhld/202407/t20240702_3735461.html	1349
+伊元甲		4		北京市		https://kfqgw.beijing.gov.cn/zwgkkfq/jgzn/	经开区管委会副主任		北京经济技术开发区管理委员会	https://kfqgw.beijing.gov.cn/zwgkkfq/jgzn/ldjs/gwhld/202407/t20240702_3735465.html	1349
+历彦涛		5		北京市		https://kfqgw.beijing.gov.cn/zwgkkfq/jgzn/	经开区管委会副主任、市集成电路重大办主任		北京经济技术开发区管理委员会	https://kfqgw.beijing.gov.cn/zwgkkfq/jgzn/ldjs/gwhld/202407/t20240730_3762639.html	1349
+陈建民		6		北京市		https://kfqgw.beijing.gov.cn/zwgkkfq/jgzn/	经开区管委会副主任（试用期一年）		北京经济技术开发区管理委员会	https://kfqgw.beijing.gov.cn/zwgkkfq/jgzn/ldjs/gwhld/202601/t20260127_4468762.html	1349
+李文峰		7		北京市		https://kfqgw.beijing.gov.cn/zwgkkfq/jgzn/	经开区管委会副主任		北京经济技术开发区管理委员会	https://kfqgw.beijing.gov.cn/zwgkkfq/jgzn/ldjs/gwhld/202602/t20260228_4545342.html	1349
+沈金坤		8		北京市		https://kfqgw.beijing.gov.cn/zwgkkfq/jgzn/	经开区工委管委会一级巡视员		北京经济技术开发区管理委员会	https://kfqgw.beijing.gov.cn/zwgkkfq/jgzn/ldjs/gwhld/202103/t20210326_2330112.html	1349

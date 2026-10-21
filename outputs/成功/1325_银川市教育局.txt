@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张靓		1		宁夏回族自治区	银川市	https://jyj.yinchuan.gov.cn/zfxxgk/fdzdgknr/ldfg/202501/t20250123_4804392.htm	银川市教育党工委书记，市教育局党组书记、局长，市教育督导室主任督学，兼任市委教育工作领导小组办公室主任		银川市教育局		1325
+李金鹏		2		宁夏回族自治区	银川市	https://jyj.yinchuan.gov.cn/zfxxgk/fdzdgknr/ldfg/202501/t20250123_4804392.htm	银川市教育党工委委员，市教育局党组成员，市纪委监委派驻第十纪检监察组组长，二级调研员，三级高级监察官		银川市教育局		1325
+马洪梅		3		宁夏回族自治区	银川市	https://jyj.yinchuan.gov.cn/zfxxgk/fdzdgknr/ldfg/202501/t20250123_4804392.htm	银川市教育党工委副书记，市教育局党组成员，市教育团工委书记，共青团银川市委员会副书记（兼）		银川市教育局		1325
+田歌溪		4		宁夏回族自治区	银川市	https://jyj.yinchuan.gov.cn/zfxxgk/fdzdgknr/ldfg/202501/t20250123_4804392.htm	银川市教育党工委副书记、教育局党组成员		银川市教育局		1325
+袁辉		5		宁夏回族自治区	银川市	https://jyj.yinchuan.gov.cn/zfxxgk/fdzdgknr/ldfg/202501/t20250123_4804392.htm	银川市教育党工委委员，市教育局党组成员、市教育局副局长		银川市教育局		1325
+李晶		6		宁夏回族自治区	银川市	https://jyj.yinchuan.gov.cn/zfxxgk/fdzdgknr/ldfg/202501/t20250123_4804392.htm	银川市教育党工委委员，市教育局党组成员、市教育局副局长		银川市教育局		1325
+张学兵		7		宁夏回族自治区	银川市	https://jyj.yinchuan.gov.cn/zfxxgk/fdzdgknr/ldfg/202501/t20250123_4804392.htm	教育党工委委员，教育局党组成员、教育局副局长		银川市教育局		1325
+周磊		8		宁夏回族自治区	银川市	https://jyj.yinchuan.gov.cn/zfxxgk/fdzdgknr/ldfg/202501/t20250123_4804392.htm	银川市政府教育督导室副主任督学		银川市教育局		1325

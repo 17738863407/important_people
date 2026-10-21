@@ -1,0 +1,3 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘文军		1		青海省	西宁市	https://mzj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	党组书记局长		西宁市民政局	https://mzj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202203/t20220303_166030.html	1770
+马淑萍		2		青海省	西宁市	https://mzj.xining.gov.cn/zwgk/fdzdgknr/jgjj/	副局长		西宁市民政局	https://mzj.xining.gov.cn/zwgk/fdzdgknr/jgjj/ldxx/202203/t20220315_166600.html	1770

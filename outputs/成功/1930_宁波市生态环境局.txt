@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+林伟明		1		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218835/index.html	宁波市生态环境局党组书记、局长		宁波市生态环境局	https://www.ningbo.gov.cn/art/2021/12/8/art_1229218835_117382.html	1930
+吕唤春		2		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218835/index.html	宁波市生态环境局党组 副书记、副局长		宁波市生态环境局	https://www.ningbo.gov.cn/art/2020/8/20/art_1229218835_27135.html	1930
+朱建荣		3		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218835/index.html	宁波市生态环境局党组成员、副局长		宁波市生态环境局	https://www.ningbo.gov.cn/art/2020/8/20/art_1229218835_27178.html	1930
+水旭东		4		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218835/index.html	市生态环境局党组成员、副局长		宁波市生态环境局	https://www.ningbo.gov.cn/art/2021/8/25/art_1229218835_108897.html	1930
+马颖颖		5		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218835/index.html	宁波市生态环境局党组成员、副局长		宁波市生态环境局	https://www.ningbo.gov.cn/art/2021/12/14/art_1229218835_117795.html	1930
+赵恩铭		6		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218835/index.html	宁波市纪委市监委驻市生态环境局纪检监察组组长，市生态环境局党组成员		宁波市生态环境局	https://www.ningbo.gov.cn/art/2024/3/28/art_1229218835_159105.html	1930
+陈敏武		7		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218835/index.html	党组成员、二级巡视员		宁波市生态环境局	https://www.ningbo.gov.cn/art/2023/2/6/art_1229218835_140117.html	1930
+章哲		8		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218835/index.html	市生态环境局 党组成员、总工程师		宁波市生态环境局	https://www.ningbo.gov.cn/art/2021/12/14/art_1229218835_117797.html	1930
+林斌		9		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218835/index.html	市生态环境保护行政执法队队长		宁波市生态环境局	https://www.ningbo.gov.cn/art/2024/6/13/art_1229218835_162046.html	1930
+叶立光		10		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218835/index.html	宁波市生态环境局 二级巡视员		宁波市生态环境局	https://www.ningbo.gov.cn/art/2020/8/20/art_1229218835_27113.html	1930
+虞建飞		11		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218835/index.html	宁波市生态环境局一级调研员		宁波市生态环境局	https://www.ningbo.gov.cn/art/2020/8/20/art_1229218835_27126.html	1930

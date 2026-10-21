@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+贝劲松		1		全国		https://www.cncc.cn/gywm/ldjj/	党委书记 主任		中国人民银行清算总中心		4010
+吕罡		2		全国		https://www.cncc.cn/gywm/ldjj/	副主任		中国人民银行清算总中心		4010
+谭静蕙		3		全国		https://www.cncc.cn/gywm/ldjj/	副主任		中国人民银行清算总中心		4010
+贺铁林		4		全国		https://www.cncc.cn/gywm/ldjj/	总工程师		中国人民银行清算总中心		4010
+牛冬梅		5		全国		https://www.cncc.cn/gywm/ldjj/	副主任		中国人民银行清算总中心		4010
+李红岗		6		全国		https://www.cncc.cn/gywm/ldjj/	纪委书记		中国人民银行清算总中心		4010

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙志		1		宁夏回族自治区		https://czt.nx.gov.cn/zwgk/ldzc/ldjj/	财政厅党组书记、厅长		宁夏回族自治区财政厅	https://czt.nx.gov.cn/zwgk/ldzc/ldjj/202209/t20220928_3795885.html	0392
+张侃		2		宁夏回族自治区		https://czt.nx.gov.cn/zwgk/ldzc/ldjj/	党组副书记、副厅长（正厅级）		宁夏回族自治区财政厅	https://czt.nx.gov.cn/zwgk/ldzc/ldjj/202606/t20260611_5263142.html	0392
+王志军		3		宁夏回族自治区		https://czt.nx.gov.cn/zwgk/ldzc/ldjj/	财政厅党组成员、驻厅纪检监察组组长，二级高级监察官		宁夏回族自治区财政厅	https://czt.nx.gov.cn/zwgk/ldzc/ldjj/202204/t20220422_3465548.html	0392
+党进平		4		宁夏回族自治区		https://czt.nx.gov.cn/zwgk/ldzc/ldjj/	财政厅党组成员、副厅长		宁夏回族自治区财政厅	https://czt.nx.gov.cn/zwgk/ldzc/ldjj/202606/t20260611_5263174.html	0392
+何天文		5		宁夏回族自治区		https://czt.nx.gov.cn/zwgk/ldzc/ldjj/	财政厅党组成员、副厅长、一级巡视员		宁夏回族自治区财政厅	https://czt.nx.gov.cn/zwgk/ldzc/ldjj/202204/t20220422_3465545.html	0392
+李国强		6		宁夏回族自治区		https://czt.nx.gov.cn/zwgk/ldzc/ldjj/	财政厅二级巡视员		宁夏回族自治区财政厅	https://czt.nx.gov.cn/zwgk/ldzc/ldjj/202606/t20260611_5263176.html	0392
+吕文		7		宁夏回族自治区		https://czt.nx.gov.cn/zwgk/ldzc/ldjj/	财政厅二级巡视员		宁夏回族自治区财政厅	https://czt.nx.gov.cn/zwgk/ldzc/ldjj/202204/t20220422_3465538.html	0392
+马春梅		8		宁夏回族自治区		https://czt.nx.gov.cn/zwgk/ldzc/ldjj/	财政厅二级巡视员		宁夏回族自治区财政厅	https://czt.nx.gov.cn/zwgk/ldzc/ldjj/202606/t20260611_5263186.html	0392
+黄金燕		9		宁夏回族自治区		https://czt.nx.gov.cn/zwgk/ldzc/ldjj/	财政厅二级巡视员		宁夏回族自治区财政厅	https://czt.nx.gov.cn/zwgk/ldzc/ldjj/202606/t20260611_5263196.html	0392

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马仁钊		1		湖北省	武汉市	https://yjj.wuhan.gov.cn/zfxxgk/fdzdgk/bmgk/ldxx/	党委书记、局长		武汉市应急管理局	https://yjj.wuhan.gov.cn/zfxxgk/fdzdgk/bmgk/ldxx/202501/t20250107_2513867.shtml	3232
+胡庚松		2		湖北省	武汉市	https://yjj.wuhan.gov.cn/zfxxgk/fdzdgk/bmgk/ldxx/	党委委员		武汉市应急管理局	https://yjj.wuhan.gov.cn/zfxxgk/fdzdgk/bmgk/ldxx/202501/t20250107_2513865.shtml	3232
+张毅		3		湖北省	武汉市	https://yjj.wuhan.gov.cn/zfxxgk/fdzdgk/bmgk/ldxx/	副局长、党委委员		武汉市应急管理局	https://yjj.wuhan.gov.cn/zfxxgk/fdzdgk/bmgk/ldxx/202501/t20250107_2513861.shtml	3232
+杨少敏		4		湖北省	武汉市	https://yjj.wuhan.gov.cn/zfxxgk/fdzdgk/bmgk/ldxx/	副局长、党委委员		武汉市应急管理局	https://yjj.wuhan.gov.cn/zfxxgk/fdzdgk/bmgk/ldxx/202501/t20250107_2513859.shtml	3232
+谢楚华		5		湖北省	武汉市	https://yjj.wuhan.gov.cn/zfxxgk/fdzdgk/bmgk/ldxx/	副局长、党委委员		武汉市应急管理局	https://yjj.wuhan.gov.cn/zfxxgk/fdzdgk/bmgk/ldxx/202501/t20250107_2513845.shtml	3232
+张伟		6		湖北省	武汉市	https://yjj.wuhan.gov.cn/zfxxgk/fdzdgk/bmgk/ldxx/	总工程师、党委委员		武汉市应急管理局	https://yjj.wuhan.gov.cn/zfxxgk/fdzdgk/bmgk/ldxx/202501/t20250107_2513842.shtml	3232
+汤媛玲		7		湖北省	武汉市	https://yjj.wuhan.gov.cn/zfxxgk/fdzdgk/bmgk/ldxx/	副局长、党委委员		武汉市应急管理局	https://yjj.wuhan.gov.cn/zfxxgk/fdzdgk/bmgk/ldxx/202605/t20260507_2761521.shtml	3232
+喻思源		8		湖北省	武汉市	https://yjj.wuhan.gov.cn/zfxxgk/fdzdgk/bmgk/ldxx/	二级巡视员		武汉市应急管理局	https://yjj.wuhan.gov.cn/zfxxgk/fdzdgk/bmgk/ldxx/202501/t20250107_2513862.shtml	3232

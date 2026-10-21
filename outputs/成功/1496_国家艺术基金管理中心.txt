@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄小驹		1		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202406/t20240604_953306.htm	主任		国家艺术基金管理中心		1496
+杨舟贤		2		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202406/t20240604_953306.htm	副主任		国家艺术基金管理中心		1496
+张艳		3		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202406/t20240604_953306.htm	副主任		国家艺术基金管理中心		1496

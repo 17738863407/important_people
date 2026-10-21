@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张咏雁		1		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/scjdglj/gkml/jgxx/202112/t20211209_3948502.shtml	局长、市知识产权局局长		青岛市市场监督管理局		2150
+韩林科		2		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/scjdglj/gkml/jgxx/202112/t20211209_3948502.shtml	党组成员、副局长		青岛市市场监督管理局		2150
+李杰		3		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/scjdglj/gkml/jgxx/202112/t20211209_3948502.shtml	党组成员、副局长		青岛市市场监督管理局		2150
+郭大鹏		4		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/scjdglj/gkml/jgxx/202112/t20211209_3948502.shtml	党组成员、市市场监管综合行政执法支队支队长		青岛市市场监督管理局		2150
+龙健		5		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/scjdglj/gkml/jgxx/202112/t20211209_3948502.shtml	党组成员、副局长		青岛市市场监督管理局		2150
+马学浩		6		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/scjdglj/gkml/jgxx/202112/t20211209_3948502.shtml	党组成员、驻市市场监管局纪检监察组组长		青岛市市场监督管理局		2150
+翟滨		7		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/scjdglj/gkml/jgxx/202112/t20211209_3948502.shtml	党组成员、市市场监管发展服务中心主任		青岛市市场监督管理局		2150
+王亮		8		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/scjdglj/gkml/jgxx/202112/t20211209_3948502.shtml	二级巡视员		青岛市市场监督管理局		2150
+刘原龙		9		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/scjdglj/gkml/jgxx/202112/t20211209_3948502.shtml	二级巡视员		青岛市市场监督管理局		2150
+宋吉帅		10		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/scjdglj/gkml/jgxx/202112/t20211209_3948502.shtml	副局级领导干部		青岛市市场监督管理局		2150

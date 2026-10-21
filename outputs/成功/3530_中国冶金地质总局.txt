@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王文军		1		全国		https://www.cmgb.com.cn/category/zjld.html	党委副书记、局长		中国冶金地质总局		3530
+李伟		2		全国		https://www.cmgb.com.cn/category/zjld.html	党委委员、副局长		中国冶金地质总局		3530
+潘树仁		3		全国		https://www.cmgb.com.cn/category/zjld.html	副局长		中国冶金地质总局		3530
+王彦		4		全国		https://www.cmgb.com.cn/category/zjld.html	党委委员、总会计师		中国冶金地质总局		3530
+傅金光		5		全国		https://www.cmgb.com.cn/category/zjld.html	党委委员、纪委书记		中国冶金地质总局		3530
+杨占东		6		全国		https://www.cmgb.com.cn/category/zjld.html	副局长		中国冶金地质总局		3530

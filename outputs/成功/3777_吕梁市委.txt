@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李云峰		1		山西省	吕梁市	http://www.lvliang.gov.cn/zfxxgk/sld/szfld/wjq/	市委书记		吕梁市委	http://www.lvliang.gov.cn/zfxxgk/sld/swld/lyf/	3777
+熊义志		2		山西省	吕梁市	http://www.lvliang.gov.cn/zfxxgk/sld/szfld/wjq/	副书记、市长		吕梁市委	http://www.lvliang.gov.cn/zfxxgk/sld/swld/szxyz/	3777
+田安平		3		山西省	吕梁市	http://www.lvliang.gov.cn/zfxxgk/sld/szfld/wjq/	副书记、政法委书记		吕梁市委	http://www.lvliang.gov.cn/zfxxgk/sld/swld/xcbz/	3777
+宋刚		4		山西省	吕梁市	http://www.lvliang.gov.cn/zfxxgk/sld/szfld/wjq/	常委、常务副市长		吕梁市委	http://www.lvliang.gov.cn/zfxxgk/sld/swld/cwsg/	3777
+田洪		5		山西省	吕梁市	http://www.lvliang.gov.cn/zfxxgk/sld/szfld/wjq/	常委、纪委书记、监委主任		吕梁市委	http://www.lvliang.gov.cn/zfxxgk/sld/swld/sjwsjth/	3777
+张子梁		6		山西省	吕梁市	http://www.lvliang.gov.cn/zfxxgk/sld/szfld/wjq/	常委、组织部部长		吕梁市委	http://www.lvliang.gov.cn/zfxxgk/sld/swld/zzl/	3777
+闫林		7		山西省	吕梁市	http://www.lvliang.gov.cn/zfxxgk/sld/szfld/wjq/	常委、副市长		吕梁市委	http://www.lvliang.gov.cn/zfxxgk/sld/swld/fszyl/	3777
+郭红波		8		山西省	吕梁市	http://www.lvliang.gov.cn/zfxxgk/sld/szfld/wjq/	常委、市委秘书长、副市长、 公安局局长		吕梁市委	http://www.lvliang.gov.cn/zfxxgk/sld/swld/swghb/	3777
+武海荣		9		山西省	吕梁市	http://www.lvliang.gov.cn/zfxxgk/sld/szfld/wjq/	常委、统战部部长		吕梁市委	http://www.lvliang.gov.cn/zfxxgk/sld/swld/whr/	3777
+王晓丽		10		山西省	吕梁市	http://www.lvliang.gov.cn/zfxxgk/sld/szfld/wjq/	常委、宣传部部长		吕梁市委	http://www.lvliang.gov.cn/zfxxgk/sld/swld/wxl/	3777

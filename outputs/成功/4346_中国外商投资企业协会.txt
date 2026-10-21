@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王文涛		1		全国		https://www.caefi.org.cn/article/gywm/xhld/202504/1626.html	商务部党组书记、部长；中国外商投资企业协会会长（兼）		中国外商投资企业协会		4346
+彭伟		2		全国		https://www.caefi.org.cn/article/gywm/xhld/202504/1626.html	常务副会长		中国外商投资企业协会		4346
+范文洁		3		全国		https://www.caefi.org.cn/article/gywm/xhld/202504/1626.html	副会长		中国外商投资企业协会		4346

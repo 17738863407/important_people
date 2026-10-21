@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+卢少进		1		福建省	厦门市	http://zygh.xm.gov.cn/zwgk/jggk/jldfg/lsj/	福建省厦门市自然资源和规划局党组书记、局长		厦门市自然资源和规划局		3450
+洪耀同		2		福建省	厦门市	http://zygh.xm.gov.cn/zwgk/jggk/jldfg/lsj/	福建省厦门市自然资源和规划局党组成员、副局长		厦门市自然资源和规划局	http://zygh.xm.gov.cn/zwgk/jggk/jldfg/hyt/	3450
+沈瑞全		3		福建省	厦门市	http://zygh.xm.gov.cn/zwgk/jggk/jldfg/lsj/	福建省厦门市自然资源和规划局党组成员、副局长、二级巡视员		厦门市自然资源和规划局	http://zygh.xm.gov.cn/zwgk/jggk/jldfg/srj/	3450
+王胜		4		福建省	厦门市	http://zygh.xm.gov.cn/zwgk/jggk/jldfg/lsj/	福建省厦门市自然资源和规划局党组成员、副局长		厦门市自然资源和规划局	http://zygh.xm.gov.cn/zwgk/jggk/jldfg/ws/	3450
+张进金		5		福建省	厦门市	http://zygh.xm.gov.cn/zwgk/jggk/jldfg/lsj/	福建省厦门市自然资源和规划局党组成员、副局长		厦门市自然资源和规划局	http://zygh.xm.gov.cn/zwgk/jggk/jldfg/zjj/	3450
+吴春围		6		福建省	厦门市	http://zygh.xm.gov.cn/zwgk/jggk/jldfg/lsj/	福建省厦门市自然资源和规划局党组成员、市纪委监委驻局纪检监察组组长		厦门市自然资源和规划局	http://zygh.xm.gov.cn/zwgk/jggk/jldfg/wcw/	3450
+吴志明		7		福建省	厦门市	http://zygh.xm.gov.cn/zwgk/jggk/jldfg/lsj/	福建省厦门市自然资源和规划局党组成员、副局长		厦门市自然资源和规划局	http://zygh.xm.gov.cn/zwgk/jggk/jldfg/wzm/	3450
+周畅灵		8		福建省	厦门市	http://zygh.xm.gov.cn/zwgk/jggk/jldfg/lsj/	福建省厦门市自然资源和规划局一级调研员、系统工会主席		厦门市自然资源和规划局	http://zygh.xm.gov.cn/zwgk/jggk/jldfg/zcl/	3450

@@ -1,0 +1,16 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈冠松		1		四川省		http://edu.sc.gov.cn/scedu/c102577/zfxxgk_gkjgsz.shtml	省委教育工委副书记，教育厅党组书记、厅长		四川省教育厅	http://edu.sc.gov.cn/scedu/c112574/ld_list.shtml	0511
+张澜涛		2		四川省		http://edu.sc.gov.cn/scedu/c102577/zfxxgk_gkjgsz.shtml	中共四川省委教育工委副书记，教育厅党组成员，一级巡视员		四川省教育厅	http://edu.sc.gov.cn/scedu/c100520/ld_list.shtml	0511
+丁念友		3		四川省		http://edu.sc.gov.cn/scedu/c102577/zfxxgk_gkjgsz.shtml	中共四川省委教育工委委员，教育厅党组成员、副厅长		四川省教育厅	http://edu.sc.gov.cn/scedu/dnyldjj/ld_list.shtml	0511
+巨能攀		4		四川省		http://edu.sc.gov.cn/scedu/c102577/zfxxgk_gkjgsz.shtml	中共四川省委教育工委委员，教育厅党组成员、副厅长		四川省教育厅	http://edu.sc.gov.cn/scedu/junp/ld_list.shtml	0511
+冯永刚		5		四川省		http://edu.sc.gov.cn/scedu/c102577/zfxxgk_gkjgsz.shtml	中共四川省委教育工委委员，教育厅党组成员、副厅长		四川省教育厅	http://edu.sc.gov.cn/scedu/tldfyg/ld_list.shtml	0511
+任亮		6		四川省		http://edu.sc.gov.cn/scedu/c102577/zfxxgk_gkjgsz.shtml	省纪委监委驻教育厅纪检监察组组长，省委教育工委委员，教育厅党组成员		四川省教育厅	http://edu.sc.gov.cn/scedu/c112573/ld_list.shtml	0511
+王挚		7		四川省		http://edu.sc.gov.cn/scedu/c102577/zfxxgk_gkjgsz.shtml	中共四川省委教育工委委员，教育厅总督学、机关党委书记		四川省教育厅	http://edu.sc.gov.cn/scedu/c112543/ld_list.shtml	0511
+唐磊		8		四川省		http://edu.sc.gov.cn/scedu/c102577/zfxxgk_gkjgsz.shtml	中共四川省委教育工委委员，省教育考试院党委书记、院长		四川省教育厅	http://edu.sc.gov.cn/scedu/tangl/ld_list.shtml	0511
+郭世一		9		四川省		http://edu.sc.gov.cn/scedu/c102577/zfxxgk_gkjgsz.shtml	省纪委监委驻教育厅纪检监察组一级巡视员、一级高级监察官		四川省教育厅	http://edu.sc.gov.cn/scedu/guoshiyi/ld_list.shtml	0511
+胡卫锋		10		四川省		http://edu.sc.gov.cn/scedu/c102577/zfxxgk_gkjgsz.shtml	四川省教育厅一级巡视员		四川省教育厅	http://edu.sc.gov.cn/scedu/c100525/ld_list.shtml	0511
+付军		11		四川省		http://edu.sc.gov.cn/scedu/c102577/zfxxgk_gkjgsz.shtml	四川省教育厅二级巡视员		四川省教育厅	http://edu.sc.gov.cn/scedu/jytfj/ld_list.shtml	0511
+陆卫江		12		四川省		http://edu.sc.gov.cn/scedu/c102577/zfxxgk_gkjgsz.shtml	四川省教育厅二级巡视员		四川省教育厅	http://edu.sc.gov.cn/scedu/luwj/ld_list.shtml	0511
+何庆		13		四川省		http://edu.sc.gov.cn/scedu/c102577/zfxxgk_gkjgsz.shtml	四川省教育厅二级巡视员		四川省教育厅	http://edu.sc.gov.cn/scedu/c093001/ld_list.shtml	0511
+蔡存明		14		四川省		http://edu.sc.gov.cn/scedu/c102577/zfxxgk_gkjgsz.shtml	四川省教育厅二级巡视员		四川省教育厅	http://edu.sc.gov.cn/scedu/ldccm/ld_list.shtml	0511
+龚崇儒		15		四川省		http://edu.sc.gov.cn/scedu/c102577/zfxxgk_gkjgsz.shtml	四川省教育厅二级巡视员		四川省教育厅	http://edu.sc.gov.cn/scedu/c112793/ld_list.shtml	0511

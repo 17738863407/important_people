@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王慧敏		1		全国		https://about.gmw.cn/node_21441.htm	社长兼总编辑		光明日报社		3560
+邢宇皓		2		全国		https://about.gmw.cn/node_21441.htm	副总编辑		光明日报社		3560
+陈品高		3		全国		https://about.gmw.cn/node_21441.htm	副总编辑		光明日报社		3560
+郭林		4		全国		https://about.gmw.cn/node_21441.htm	副总编辑		光明日报社		3560
+蔡闯		5		全国		https://about.gmw.cn/node_21441.htm	编委		光明日报社		3560
+武力		6		全国		https://about.gmw.cn/node_21441.htm	编委		光明日报社		3560

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杜胜		1		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sgxj/xxgkml_1893/gkxx_1894/ldfg_1896/202506/t20250617_4935994.html	党工委书记、党组书记。		银川市工业和信息化局		3154
+潘玮璐		2		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sgxj/xxgkml_1893/gkxx_1894/ldfg_1896/202506/t20250617_4935994.html	局长。		银川市工业和信息化局		3154
+武振		3		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sgxj/xxgkml_1893/gkxx_1894/ldfg_1896/202506/t20250617_4935994.html	党工委委员、党组成员、副局长。		银川市工业和信息化局		3154
+张益伟		4		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sgxj/xxgkml_1893/gkxx_1894/ldfg_1896/202506/t20250617_4935994.html	党工委委员、党组成员、副局长。		银川市工业和信息化局		3154
+雍艳惠		5		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/sgxj/xxgkml_1893/gkxx_1894/ldfg_1896/202506/t20250617_4935994.html	党工委委员、党组成员、副局长。		银川市工业和信息化局		3154

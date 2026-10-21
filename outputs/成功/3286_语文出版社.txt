@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于春迟		1		全国		https://www.ywcbs.com/gywm/gltd/#gltd	社长、党总支书记		语文出版社	https://www.ywcbs.com/gywm/gltd/202206/t20220624_75.html	3286
+龙杰		2		全国		https://www.ywcbs.com/gywm/gltd/#gltd	总编辑、总经理		语文出版社	https://www.ywcbs.com/gywm/gltd/202206/t20220624_79.html	3286
+郑伟钟		3		全国		https://www.ywcbs.com/gywm/gltd/#gltd	副总编辑		语文出版社	https://www.ywcbs.com/gywm/gltd/202206/t20220624_78.html	3286
+王永强		4		全国		https://www.ywcbs.com/gywm/gltd/#gltd	副总编辑		语文出版社	https://www.ywcbs.com/gywm/gltd/202206/t20220624_77.html	3286
+刘影秋		5		全国		https://www.ywcbs.com/gywm/gltd/#gltd	副社长		语文出版社	https://www.ywcbs.com/gywm/gltd/202206/t20220624_76.html	3286

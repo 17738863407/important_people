@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何亚琼		1		江苏省	南京市	https://www.nuaa.edu.cn/481/list.htm	党委书记		南京航空航天大学		2002
+姜斌		2		江苏省	南京市	https://www.nuaa.edu.cn/481/list.htm	党委副书记、校长		南京航空航天大学		2002
+杭育新		3		江苏省	南京市	https://www.nuaa.edu.cn/481/list.htm	党委副书记、纪委书记		南京航空航天大学		2002
+陶勇		4		江苏省	南京市	https://www.nuaa.edu.cn/481/list.htm	党委副书记		南京航空航天大学		2002
+刘宇雷		5		江苏省	南京市	https://www.nuaa.edu.cn/481/list.htm	党委副书记		南京航空航天大学		2002
+吴启晖		6		江苏省	南京市	https://www.nuaa.edu.cn/481/list.htm	党委常委、副校长		南京航空航天大学		2002
+徐正扬		7		江苏省	南京市	https://www.nuaa.edu.cn/481/list.htm	党委常委、副校长		南京航空航天大学		2002
+张启钱		8		江苏省	南京市	https://www.nuaa.edu.cn/481/list.htm	党委常委、副校长		南京航空航天大学		2002
+崔海涛		9		江苏省	南京市	https://www.nuaa.edu.cn/481/list.htm	党委常委、副校长		南京航空航天大学		2002
+王晖		10		江苏省	南京市	https://www.nuaa.edu.cn/481/list.htm	党委常委、党委组织部部长、党校常务副校长兼党委统战部部长		南京航空航天大学		2002
+潘时龙		11		江苏省	南京市	https://www.nuaa.edu.cn/481/list.htm	校长助理、电子信息工程学院常务副院长		南京航空航天大学		2002

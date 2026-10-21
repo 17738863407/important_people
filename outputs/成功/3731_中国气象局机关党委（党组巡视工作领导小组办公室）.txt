@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马明		1		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/nsjg/202008/t20200819_4641301.html	分管日常工作的副书记（巡视办主任）		中国气象局机关党委（党组巡视工作领导小组办公室）		3731
+张俊霞		2		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/nsjg/202008/t20200819_4641301.html	副书记（巡视办副主任）		中国气象局机关党委（党组巡视工作领导小组办公室）		3731
+刘厚堂		3		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/nsjg/202008/t20200819_4641301.html	副书记（巡视办副主任），直属机关纪委书记		中国气象局机关党委（党组巡视工作领导小组办公室）		3731
+槐杨		4		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/nsjg/202008/t20200819_4641301.html	直属机关纪委副书记		中国气象局机关党委（党组巡视工作领导小组办公室）		3731
+颜文胜		5		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/nsjg/202008/t20200819_4641301.html	中国气象局党组巡视工作领导小组办公室副主任（挂职）；中国气象局党组党建工作机制办公室副主任（挂职）		中国气象局机关党委（党组巡视工作领导小组办公室）		3731
+魏延涛		6		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/nsjg/202008/t20200819_4641301.html	中国气象局党组巡视组组长（专职）；一级巡视员		中国气象局机关党委（党组巡视工作领导小组办公室）		3731
+郭战峰		7		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/nsjg/202008/t20200819_4641301.html	中国气象局直属机关工会主席，四级职员		中国气象局机关党委（党组巡视工作领导小组办公室）		3731

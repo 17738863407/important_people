@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+崔建勇		1		西藏自治区	拉萨市	http://xfj.lasa.gov.cn/xfj/shuji/ldxx_list.shtml	中共拉萨市委社会工作部副部长，市信访局党组书记、副局长		拉萨市信访局	http://xfj.lasa.gov.cn/xfj/shuji/202107/3f59064fd0ae44d58e449dc944eedfc7.shtml	3059
+普布卓玛		2		西藏自治区	拉萨市	http://xfj.lasa.gov.cn/xfj/shuji/ldxx_list.shtml	党组副书记、局长		拉萨市信访局	http://xfj.lasa.gov.cn/xfj/thsz/201909/f7d785f9fc9845738e1aaaa543e80f55.shtml	3059
+何平		3		西藏自治区	拉萨市	http://xfj.lasa.gov.cn/xfj/shuji/ldxx_list.shtml	党组成员、副局长、三级调研员		拉萨市信访局	http://xfj.lasa.gov.cn/xfj/ehsz/202505/3f138945594e4d7cae10af7da42db08d.shtml	3059
+姜玉祥		4		西藏自治区	拉萨市	http://xfj.lasa.gov.cn/xfj/shuji/ldxx_list.shtml	党组成员、副局长		拉萨市信访局	http://xfj.lasa.gov.cn/xfj/ehsz/202505/ab4abe99474142aeaaeee8cb1e3d19af.shtml	3059
+尼珍		5		西藏自治区	拉萨市	http://xfj.lasa.gov.cn/xfj/shuji/ldxx_list.shtml	党组成员、副局长		拉萨市信访局	http://xfj.lasa.gov.cn/xfj/ehsz/202505/eae7c2865b9e427a9a6e4c452898a6c4.shtml	3059

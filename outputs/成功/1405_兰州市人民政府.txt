@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘建勋		1		甘肃省	兰州市	https://www.lanzhou.gov.cn/col/col44/index.html	市长		兰州市人民政府	https://www.lanzhou.gov.cn/col/col1037/index.html	1405
+潘喆		2		甘肃省	兰州市	https://www.lanzhou.gov.cn/col/col44/index.html	副市长		兰州市人民政府	https://www.lanzhou.gov.cn/col/col23492/index.html	1405
+靳芳		3		甘肃省	兰州市	https://www.lanzhou.gov.cn/col/col44/index.html	副市长		兰州市人民政府	https://www.lanzhou.gov.cn/col/col24468/index.html	1405
+王毅		4		甘肃省	兰州市	https://www.lanzhou.gov.cn/col/col44/index.html	副市长		兰州市人民政府	https://www.lanzhou.gov.cn/col/col29065/index.html	1405
+阮强		5		甘肃省	兰州市	https://www.lanzhou.gov.cn/col/col44/index.html	副市长		兰州市人民政府	https://www.lanzhou.gov.cn/col/col24461/index.html	1405
+陈贵生		6		甘肃省	兰州市	https://www.lanzhou.gov.cn/col/col44/index.html	副市长		兰州市人民政府	https://www.lanzhou.gov.cn/col/col26666/index.html	1405
+赵晓颖		7		甘肃省	兰州市	https://www.lanzhou.gov.cn/col/col44/index.html	副市长		兰州市人民政府	https://www.lanzhou.gov.cn/col/col29316/index.html	1405
+刘凤恒		8		甘肃省	兰州市	https://www.lanzhou.gov.cn/col/col44/index.html	副市长		兰州市人民政府	https://www.lanzhou.gov.cn/col/col19857/index.html	1405
+张永才		9		甘肃省	兰州市	https://www.lanzhou.gov.cn/col/col44/index.html	副市长		兰州市人民政府	https://www.lanzhou.gov.cn/col/col21592/index.html	1405
+罗毅		10		甘肃省	兰州市	https://www.lanzhou.gov.cn/col/col44/index.html	副市长		兰州市人民政府	https://www.lanzhou.gov.cn/col/col28065/index.html	1405
+刘鹏堂		11		甘肃省	兰州市	https://www.lanzhou.gov.cn/col/col44/index.html	副市长		兰州市人民政府	https://www.lanzhou.gov.cn/col/col15503/index.html	1405
+钱崇麟		12		甘肃省	兰州市	https://www.lanzhou.gov.cn/col/col44/index.html	秘书长		兰州市人民政府	https://www.lanzhou.gov.cn/col/col1050/index.html	1405

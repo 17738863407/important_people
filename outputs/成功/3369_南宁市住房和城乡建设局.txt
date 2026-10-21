@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+梁武庆		1		广西壮族自治区	南宁市	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/	南宁市住房和城乡建设局党组书记（试用期1年）、副局长		南宁市住房和城乡建设局	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/t4302258.html	3369
+苏子筠		2		广西壮族自治区	南宁市	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/	南宁市住房和城乡建设局局长，中国民主建国会南宁市委员会副主任委员（兼）		南宁市住房和城乡建设局	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/t3066475.html	3369
+廖伟行		3		广西壮族自治区	南宁市	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/	广西南宁五象新区规划建设管理委员会〔中国(广西)自由贸易试验区南宁片区管理委员会〕建设和生态环境局局长，南宁市住房和城乡建设局副局长（兼）、党组成员		南宁市住房和城乡建设局	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/t6701784.html	3369
+刘耀中		4		广西壮族自治区	南宁市	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/	南宁市住房和城乡建设局副局长、二级调研员、党组成员		南宁市住房和城乡建设局	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/t1632929.html	3369
+梁航琳		5		广西壮族自治区	南宁市	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/	南宁市住房和城乡建设局副局长、党组成员		南宁市住房和城乡建设局	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/t3066458.html	3369
+粟弼国		6		广西壮族自治区	南宁市	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/	南宁市住房和城乡建设局副局长、党组成员		南宁市住房和城乡建设局	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/t5976628.html	3369
+余翔		7		广西壮族自治区	南宁市	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/	中共南宁市纪律检查委员会、南宁市监察委员会驻南宁市住房和城乡建设局纪检监察组组长（试用期1年），南宁市住房和城乡建设局党组成员		南宁市住房和城乡建设局	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/t5976621.html	3369
+朱东平		8		广西壮族自治区	南宁市	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/	南宁市住房和城乡建设局三级调研员		南宁市住房和城乡建设局	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/t1633080.html	3369
+刘东		9		广西壮族自治区	南宁市	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/	南宁市住房和城乡建设局三级调研员		南宁市住房和城乡建设局	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/t4828916.html	3369
+华荣春		10		广西壮族自治区	南宁市	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/	南宁市住房和城乡建设局四级调研员		南宁市住房和城乡建设局	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/t6198719.html	3369
+曾桂荣		11		广西壮族自治区	南宁市	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/	南宁市住房和城乡建设局四级调研员		南宁市住房和城乡建设局	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/t3067219.html	3369
+朱芳飞		12		广西壮族自治区	南宁市	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/	南宁市住房和城乡建设局四级调研员		南宁市住房和城乡建设局	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/t1631731.html	3369
+周日贵		13		广西壮族自治区	南宁市	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/	南宁市住房和城乡建设局四级调研员		南宁市住房和城乡建设局	https://zjj.nanning.gov.cn/xxgk/fdzdgknr/jggk/ldfg/t3067196.html	3369

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+伍光清		1		广西壮族自治区	南宁市	https://nnsw.nanning.gov.cn/ldbz/	党组书记、局长		南宁市商务局		1964
+陶琳		2		广西壮族自治区	南宁市	https://nnsw.nanning.gov.cn/ldbz/	党组成员、副局长、三级调研员		南宁市商务局		1964
+韦波		3		广西壮族自治区	南宁市	https://nnsw.nanning.gov.cn/ldbz/	党组成员、副局长		南宁市商务局		1964
+吴少鹏		4		广西壮族自治区	南宁市	https://nnsw.nanning.gov.cn/ldbz/	党组成 员、副局长		南宁市商务局		1964
+谭萍萍		5		广西壮族自治区	南宁市	https://nnsw.nanning.gov.cn/ldbz/	党组成员、副局长		南宁市商务局		1964
+黄锡健		6		广西壮族自治区	南宁市	https://nnsw.nanning.gov.cn/ldbz/	党组成员、南宁市打击走私综合治理领导小组办公室专职副主任		南宁市商务局		1964
+段靖伟		7		广西壮族自治区	南宁市	https://nnsw.nanning.gov.cn/ldbz/	二级调研员		南宁市商务局		1964
+周勇		8		广西壮族自治区	南宁市	https://nnsw.nanning.gov.cn/ldbz/	四级调研员		南宁市商务局		1964

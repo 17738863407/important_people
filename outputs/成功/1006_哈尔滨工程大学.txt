@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+宋迎东		1		黑龙江省	哈尔滨市	https://www.hrbeu.edu.cn/xxgk/xrld1.htm	党委书记；党委常委		哈尔滨工程大学		1006
+殷敬伟		2		黑龙江省	哈尔滨市	https://www.hrbeu.edu.cn/xxgk/xrld1.htm	党委副书记；党委常委；校长		哈尔滨工程大学		1006
+姚震		3		黑龙江省	哈尔滨市	https://www.hrbeu.edu.cn/xxgk/xrld1.htm	党委副书记；纪委书记；党委常委		哈尔滨工程大学		1006
+张石梅		4		黑龙江省	哈尔滨市	https://www.hrbeu.edu.cn/xxgk/xrld1.htm	党委副书记；党委常委		哈尔滨工程大学		1006
+李荣生		5		黑龙江省	哈尔滨市	https://www.hrbeu.edu.cn/xxgk/xrld1.htm	党委副书记；党委常委		哈尔滨工程大学		1006
+韩端锋		6		黑龙江省	哈尔滨市	https://www.hrbeu.edu.cn/xxgk/xrld1.htm	党委常委；副校长		哈尔滨工程大学		1006
+於志文		7		黑龙江省	哈尔滨市	https://www.hrbeu.edu.cn/xxgk/xrld1.htm	党委常委；副校长		哈尔滨工程大学		1006
+严汝建		8		黑龙江省	哈尔滨市	https://www.hrbeu.edu.cn/xxgk/xrld1.htm	党委常委；副校长		哈尔滨工程大学		1006
+赵玉新		9		黑龙江省	哈尔滨市	https://www.hrbeu.edu.cn/xxgk/xrld1.htm	党委常委；副校长		哈尔滨工程大学		1006
+尹航		10		黑龙江省	哈尔滨市	https://www.hrbeu.edu.cn/xxgk/xrld1.htm	党委常委；副校长		哈尔滨工程大学		1006
+吕开东		11		黑龙江省	哈尔滨市	https://www.hrbeu.edu.cn/xxgk/xrld1.htm	党委常委		哈尔滨工程大学		1006
+王忠义		12		黑龙江省	哈尔滨市	https://www.hrbeu.edu.cn/xxgk/xrld1.htm	党委常委		哈尔滨工程大学		1006
+耿敬		13		黑龙江省	哈尔滨市	https://www.hrbeu.edu.cn/xxgk/xrld1.htm	校长助理		哈尔滨工程大学		1006
+陈海龙		14		黑龙江省	哈尔滨市	https://www.hrbeu.edu.cn/xxgk/xrld1.htm	校长助理		哈尔滨工程大学		1006

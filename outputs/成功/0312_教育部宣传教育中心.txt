@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄兴胜		1		全国		https://www.cpipe.edu.cn/site/webfile/zxgk/zxld/	教育部宣传教育中心主任		教育部宣传教育中心		0312
+夏越		2		全国		https://www.cpipe.edu.cn/site/webfile/zxgk/zxld/	教育部宣传教育中心副主任		教育部宣传教育中心		0312
+蒋宏潮		3		全国		https://www.cpipe.edu.cn/site/webfile/zxgk/zxld/	教育部宣传教育中心副主任（援疆）		教育部宣传教育中心		0312
+蔡继乐		4		全国		https://www.cpipe.edu.cn/site/webfile/zxgk/zxld/	教育部宣传教育中心副主任		教育部宣传教育中心		0312
+杨晨光		5		全国		https://www.cpipe.edu.cn/site/webfile/zxgk/zxld/	教育部宣传教育中心副主任		教育部宣传教育中心		0312

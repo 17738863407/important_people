@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘磊		1		山西省		http://sn.mof.gov.cn/gywmm/zhuanyuangbangaikuang/	党组书记、局长 刘磊		财政部山西监管局	http://sn.mof.gov.cn/gywmm/zhuanyuangbangaikuang/202411/t20241101_3946773.htm	2509
+袁庆海		2		山西省		http://sn.mof.gov.cn/gywmm/zhuanyuangbangaikuang/	党组成员、副局长 袁庆海		财政部山西监管局	http://sn.mof.gov.cn/gywmm/zhuanyuangbangaikuang/201706/t20170622_2629446.htm	2509
+牟前均		3		山西省		http://sn.mof.gov.cn/gywmm/zhuanyuangbangaikuang/	党组成员、纪检组长 牟前均		财政部山西监管局	http://sn.mof.gov.cn/gywmm/zhuanyuangbangaikuang/202109/t20210909_3751597.htm	2509
+史维峰		4		山西省		http://sn.mof.gov.cn/gywmm/zhuanyuangbangaikuang/	党组成员、副局长 史维峰		财政部山西监管局	http://sn.mof.gov.cn/gywmm/zhuanyuangbangaikuang/202609/t20260902_3996495.htm	2509

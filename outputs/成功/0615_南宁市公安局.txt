@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李瑜		1		广西壮族自治区	南宁市	http://gaj.nanning.gov.cn/xxgk/zwgk/fzrxx/t1705434.html	广西壮族自治区公安厅党委委员、副厅长，南宁市副市长，南宁市公安局党委书记、局长		南宁市公安局		0615
+黄勤民		2		广西壮族自治区	南宁市	http://gaj.nanning.gov.cn/xxgk/zwgk/fzrxx/t1705434.html	南宁市公安局党委副书记、副局长		南宁市公安局		0615
+陈春启		3		广西壮族自治区	南宁市	http://gaj.nanning.gov.cn/xxgk/zwgk/fzrxx/t1705434.html	南宁市公安局党委委员、南宁市公安局特勤局局长		南宁市公安局		0615
+傅来大		4		广西壮族自治区	南宁市	http://gaj.nanning.gov.cn/xxgk/zwgk/fzrxx/t1705434.html	南宁市公安局党委委员、副局长		南宁市公安局		0615
+熊涛		5		广西壮族自治区	南宁市	http://gaj.nanning.gov.cn/xxgk/zwgk/fzrxx/t1705434.html	南宁市纪委监委驻市公安局纪检监察组组长、南宁市公安局党委委员		南宁市公安局		0615
+蒋卫红		6		广西壮族自治区	南宁市	http://gaj.nanning.gov.cn/xxgk/zwgk/fzrxx/t1705434.html	南宁市公安局党委委员、副局长		南宁市公安局		0615
+宋波		7		广西壮族自治区	南宁市	http://gaj.nanning.gov.cn/xxgk/zwgk/fzrxx/t1705434.html	南宁市公安局党委委员、政治部主任，局直属机关党委书记		南宁市公安局		0615
+陈朝晖		8		广西壮族自治区	南宁市	http://gaj.nanning.gov.cn/xxgk/zwgk/fzrxx/t1705434.html	南宁市公安局党委委员、副局长		南宁市公安局		0615
+庞浩		9		广西壮族自治区	南宁市	http://gaj.nanning.gov.cn/xxgk/zwgk/fzrxx/t1705434.html	南宁市公安局党委委员、副局长，自治区公安厅刑侦总队副总队长		南宁市公安局		0615

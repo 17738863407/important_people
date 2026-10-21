@@ -1,0 +1,4 @@
+﻿姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘清		1		湖北省	武汉市	https://whlib.cas.cn/ver/nc/institution/jggk/xrld/	党委书记		中国科学院武汉文献情报中心		4150
+陶诚		2		湖北省	武汉市	https://whlib.cas.cn/ver/nc/institution/jggk/xrld/	主任、党委副书记		中国科学院武汉文献情报中心		4150
+任晓华		3		湖北省	武汉市	https://whlib.cas.cn/ver/nc/institution/jggk/xrld/	纪委书记		中国科学院武汉文献情报中心		4150

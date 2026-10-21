@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+戴博伟		1		全国		https://ime.cas.cn/skjs/xrld/	所长、党委书记		中国科学院微电子研究所		4072
+谢光锋		2		全国		https://ime.cas.cn/skjs/xrld/	党委副书记、纪委书记		中国科学院微电子研究所		4072
+曹立强		3		全国		https://ime.cas.cn/skjs/xrld/	副所长		中国科学院微电子研究所		4072
+李泠		4		全国		https://ime.cas.cn/skjs/xrld/	副所长		中国科学院微电子研究所		4072
+罗军		5		全国		https://ime.cas.cn/skjs/xrld/	副所长		中国科学院微电子研究所		4072

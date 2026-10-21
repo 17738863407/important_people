@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+代小红		1		重庆市		http://dsjj.cq.gov.cn/zwgk_533/fdzdgknr/jgzn/wap.html	党组书记、局长		重庆市大数据应用发展管理局	http://dsjj.cq.gov.cn/zwgk_533/fdzdgknr/jgzn/fzrxx/dxh_1/202105/t20210519_9301641.html	0487
+杨帆		2		重庆市		http://dsjj.cq.gov.cn/zwgk_533/fdzdgknr/jgzn/wap.html	党组副书记、副局长		重庆市大数据应用发展管理局	http://dsjj.cq.gov.cn/zwgk_533/fdzdgknr/jgzn/fzrxx/yf/202606/t20260613_15751712.html	0487
+李斌		3		重庆市		http://dsjj.cq.gov.cn/zwgk_533/fdzdgknr/jgzn/wap.html	党组成员、一级巡视员		重庆市大数据应用发展管理局	http://dsjj.cq.gov.cn/zwgk_533/fdzdgknr/jgzn/fzrxx/lb_1/201912/t20191231_3778316.html	0487
+胡军国		4		重庆市		http://dsjj.cq.gov.cn/zwgk_533/fdzdgknr/jgzn/wap.html	党组成员、副局长		重庆市大数据应用发展管理局	http://dsjj.cq.gov.cn/zwgk_533/fdzdgknr/jgzn/fzrxx/hjg_1/202204/t20220406_10591678.html	0487
+黄星华		5		重庆市		http://dsjj.cq.gov.cn/zwgk_533/fdzdgknr/jgzn/wap.html	党组成员、副局长		重庆市大数据应用发展管理局	http://dsjj.cq.gov.cn/zwgk_533/fdzdgknr/jgzn/fzrxx/hxh/202503/t20250319_14420727.html	0487
+周卫东		6		重庆市		http://dsjj.cq.gov.cn/zwgk_533/fdzdgknr/jgzn/wap.html	二级巡视员		重庆市大数据应用发展管理局	http://dsjj.cq.gov.cn/zwgk_533/fdzdgknr/jgzn/fzrxx/zwd_1/202405/t20240529_13246133.html	0487
+吕宏庆		7		重庆市		http://dsjj.cq.gov.cn/zwgk_533/fdzdgknr/jgzn/wap.html	二级巡视员		重庆市大数据应用发展管理局	http://dsjj.cq.gov.cn/zwgk_533/fdzdgknr/jgzn/fzrxx/lhq_1/202606/t20260613_15751715.html	0487

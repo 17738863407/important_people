@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘珍昌		1		福建省	福州市	https://smartcity.fuzhou.gov.cn/zwgk/zxjj/ldxx/lzc/	福州市“智慧福州”管理服务中心党组副书记、主任，兼任福州市数据管理局党组副书记		福州市“智慧福州”管理服务中心		4409
+李卫东		2		福建省	福州市	https://smartcity.fuzhou.gov.cn/zwgk/zxjj/ldxx/lzc/	福州市“智慧福州”管理服务中心党组成员、副主任		福州市“智慧福州”管理服务中心	https://smartcity.fuzhou.gov.cn/zwgk/zxjj/ldxx/lwd/	4409
+杨小清		3		福建省	福州市	https://smartcity.fuzhou.gov.cn/zwgk/zxjj/ldxx/lzc/	福州市“智慧福州”管理服务中心党组成员、副主任		福州市“智慧福州”管理服务中心	https://smartcity.fuzhou.gov.cn/zwgk/zxjj/ldxx/yxq/	4409

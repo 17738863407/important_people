@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+别荣海		1		河南省		https://jyt.henan.gov.cn/zwgk/gknr/wtld/	省委教育工作领导小组秘书组组长，省委教育工委副书记，省教育厅党组书记、厅长		河南省教育厅		1332
+刘昭阳		2		河南省		https://jyt.henan.gov.cn/zwgk/gknr/wtld/	省教育厅一级巡视员		河南省教育厅		1332
+张传广		3		河南省		https://jyt.henan.gov.cn/zwgk/gknr/wtld/	省教育厅党组成员、副厅长		河南省教育厅		1332
+朱自锋		4		河南省		https://jyt.henan.gov.cn/zwgk/gknr/wtld/	省教育厅党组成员、副厅长		河南省教育厅		1332
+吕冰		5		河南省		https://jyt.henan.gov.cn/zwgk/gknr/wtld/	省委教育工委委员，省教育厅党组成员、副厅长、一级巡视员		河南省教育厅		1332
+董学胜		6		河南省		https://jyt.henan.gov.cn/zwgk/gknr/wtld/	省教育厅党组成员，省教育考试院党委书记、院长		河南省教育厅		1332
+刘林亚		7		河南省		https://jyt.henan.gov.cn/zwgk/gknr/wtld/	省委教育工委专职副书记、省教育厅党组成员		河南省教育厅		1332
+张国强		8		河南省		https://jyt.henan.gov.cn/zwgk/gknr/wtld/	省教育厅党组成员、副厅长		河南省教育厅		1332
+杨朝阳		9		河南省		https://jyt.henan.gov.cn/zwgk/gknr/wtld/	省纪委监委驻省教育厅纪检监察组组长、省教育厅党组成员		河南省教育厅		1332
+杨光		10		河南省		https://jyt.henan.gov.cn/zwgk/gknr/wtld/	省教育厅党组成员、副厅长		河南省教育厅		1332
+陈凯		11		河南省		https://jyt.henan.gov.cn/zwgk/gknr/wtld/	省教育厅党组成员、副厅长		河南省教育厅		1332

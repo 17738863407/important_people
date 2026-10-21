@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李红安		1		全国		https://swnro.mee.gov.cn/dwgk_14345/zld/zr/	分党组书记、主任		西南核与辐射安全监督站	https://swnro.mee.gov.cn/dwgk_14345/zld/zr/202405/t20240524_1074020.shtml	2618
+沈苏		2		全国		https://swnro.mee.gov.cn/dwgk_14345/zld/zr/	分党组成员、副主任		西南核与辐射安全监督站	https://swnro.mee.gov.cn/dwgk_14345/zld/fzr/202311/t20231114_1055867.shtml	2618
+李儒君		3		全国		https://swnro.mee.gov.cn/dwgk_14345/zld/zr/	分党组成员、纪检组长		西南核与辐射安全监督站	https://swnro.mee.gov.cn/dwgk_14345/zld/jjzzz/202209/t20220911_993704.shtml	2618
+张家利		4		全国		https://swnro.mee.gov.cn/dwgk_14345/zld/zr/	分党组成员、副主任		西南核与辐射安全监督站	https://swnro.mee.gov.cn/dwgk_14345/zld/fxsy/202311/t20231114_1055868.shtml	2618

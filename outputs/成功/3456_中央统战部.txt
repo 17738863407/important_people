@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李干杰		1		全国		https://www.zytzb.gov.cn/zytzb/2022-09/26/article_2022121420300082382.shtml	中央政治局委员、中央书记处书记，中央统战部部长		中央统战部		3456
+沈莹		2		全国		https://www.zytzb.gov.cn/zytzb/2022-09/26/article_2022121420300082382.shtml	中央统战部分管日常工作的副部长（正部长级）		中央统战部		3456
+陈旭		3		全国		https://www.zytzb.gov.cn/zytzb/2022-09/26/article_2022121420300082382.shtml	中央统战部副部长，国务院侨务办公室主任		中央统战部		3456
+陈瑞峰		4		全国		https://www.zytzb.gov.cn/zytzb/2022-09/26/article_2022121420300082382.shtml	中央统战部副部长，国家民族事务委员会主任、党组书记		中央统战部		3456
+林锐		5		全国		https://www.zytzb.gov.cn/zytzb/2022-09/26/article_2022121420300082382.shtml	中央统战部副部长		中央统战部		3456
+刘军川		6		全国		https://www.zytzb.gov.cn/zytzb/2022-09/26/article_2022121420300082382.shtml	中央纪委国家监委驻中央统战部纪检监察组组长		中央统战部		3456
+王瑞军		7		全国		https://www.zytzb.gov.cn/zytzb/2022-09/26/article_2022121420300082382.shtml	中央统战部副部长		中央统战部		3456
+段毅君		8		全国		https://www.zytzb.gov.cn/zytzb/2022-09/26/article_2022121420300082382.shtml	中央统战部副部长，国家宗教事务局局长		中央统战部		3456
+马利怀		9		全国		https://www.zytzb.gov.cn/zytzb/2022-09/26/article_2022121420300082382.shtml	中央统战部副部长		中央统战部		3456

@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑宇		1		北京市		https://mzj.beijing.gov.cn/col/col243/index.html	北京市民政局党组书记		北京市民政局	https://mzj.beijing.gov.cn/art/2025/11/20/art_5546_366.html	1747
+佟立志		2		北京市		https://mzj.beijing.gov.cn/col/col243/index.html	北京市民政局局长		北京市民政局	https://mzj.beijing.gov.cn/art/2025/11/20/art_5546_386.html	1747
+许伟		3		北京市		https://mzj.beijing.gov.cn/col/col243/index.html	北京市民政局党组副书记、副局长、一级巡视员		北京市民政局	https://mzj.beijing.gov.cn/art/2025/11/20/art_5546_362.html	1747
+王建华		4		北京市		https://mzj.beijing.gov.cn/col/col243/index.html	北京市民政局党组成员、副局长		北京市民政局	https://mzj.beijing.gov.cn/art/2025/11/20/art_5546_384.html	1747
+吴蓓		5		北京市		https://mzj.beijing.gov.cn/col/col243/index.html	北京市民政局党组成员、副局长		北京市民政局	https://mzj.beijing.gov.cn/art/2026/7/29/art_5546_400.html	1747
+赵万里		6		北京市		https://mzj.beijing.gov.cn/col/col243/index.html	北京市民政局党组成员、市纪委市监委驻市民政局纪检监察组组长、二级高级监察官		北京市民政局	https://mzj.beijing.gov.cn/art/2026/7/20/art_5546_354.html	1747
+杨志伟		7		北京市		https://mzj.beijing.gov.cn/col/col243/index.html	北京市民政局党组成员、副局长		北京市民政局	https://mzj.beijing.gov.cn/art/2025/11/20/art_5546_392.html	1747
+李红兵		8		北京市		https://mzj.beijing.gov.cn/col/col243/index.html	北京市民政局一级巡视员		北京市民政局	https://mzj.beijing.gov.cn/art/2025/11/20/art_5546_360.html	1747
+赵学刚		9		北京市		https://mzj.beijing.gov.cn/col/col243/index.html	北京市民政局一级巡视员		北京市民政局	https://mzj.beijing.gov.cn/art/2025/11/20/art_5546_356.html	1747
+陈世坤		10		北京市		https://mzj.beijing.gov.cn/col/col243/index.html	北京市民政局一级巡视员		北京市民政局	https://mzj.beijing.gov.cn/art/2026/7/20/art_5546_340.html	1747
+牛国政		11		北京市		https://mzj.beijing.gov.cn/col/col243/index.html	北京市民政局二级巡视员		北京市民政局	https://mzj.beijing.gov.cn/art/2025/11/20/art_5546_338.html	1747

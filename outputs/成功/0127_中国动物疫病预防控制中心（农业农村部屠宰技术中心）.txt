@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙研		1		全国		https://www.cadc.net.cn/sites/MainSite/jgxx/zxld/	主任、党委书记		中国动物疫病预防控制中心（农业农村部屠宰技术中心）		0127
+冯忠泽		2		全国		https://www.cadc.net.cn/sites/MainSite/jgxx/zxld/	副主任		中国动物疫病预防控制中心（农业农村部屠宰技术中心）		0127
+王治国		3		全国		https://www.cadc.net.cn/sites/MainSite/jgxx/zxld/	党委副书记、纪委书记		中国动物疫病预防控制中心（农业农村部屠宰技术中心）		0127
+翟新验		4		全国		https://www.cadc.net.cn/sites/MainSite/jgxx/zxld/	总兽医师		中国动物疫病预防控制中心（农业农村部屠宰技术中心）		0127
+谷红		5		全国		https://www.cadc.net.cn/sites/MainSite/jgxx/zxld/	副主任		中国动物疫病预防控制中心（农业农村部屠宰技术中心）		0127

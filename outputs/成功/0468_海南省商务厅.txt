@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张斌		1		海南省		https://dofcom.hainan.gov.cn/dofcom/0100/jgjs.shtml?ddtab=true	海南省商务厅党组书记、厅长		海南省商务厅	https://dofcom.hainan.gov.cn/dofcom/0103/202302/1d40adcf639d437692699a9596973655.shtml	0468
+陆敏		2		海南省		https://dofcom.hainan.gov.cn/dofcom/0100/jgjs.shtml?ddtab=true	海南省商务厅党组成员、海南国际经济发展局局长		海南省商务厅	https://dofcom.hainan.gov.cn/dofcom/0103/202601/3ed43abf39be4011883e557ddd61498c.shtml	0468
+陆维		3		海南省		https://dofcom.hainan.gov.cn/dofcom/0100/jgjs.shtml?ddtab=true	海南省商务厅党组成员、副厅长		海南省商务厅	https://dofcom.hainan.gov.cn/dofcom/0103/202212/bdc0ef09c9604b288204d2782ae64960.shtml	0468
+朱丹		4		海南省		https://dofcom.hainan.gov.cn/dofcom/0100/jgjs.shtml?ddtab=true	海南省商务厅党组成员、副厅长		海南省商务厅	https://dofcom.hainan.gov.cn/dofcom/0103/202411/03d9ea4cd85e4608a9442c6bace470d5.shtml	0468
+熊爱香		5		海南省		https://dofcom.hainan.gov.cn/dofcom/0100/jgjs.shtml?ddtab=true	海南省商务厅党组成员、海南省纪委监委驻省商务厅纪检监察组组长		海南省商务厅	https://dofcom.hainan.gov.cn/dofcom/0103/202204/e151abd5e2164d5b81b6f85c39957703.shtml	0468
+李枝平		6		海南省		https://dofcom.hainan.gov.cn/dofcom/0100/jgjs.shtml?ddtab=true	海南省商务厅党组成员、副厅长		海南省商务厅	https://dofcom.hainan.gov.cn/dofcom/0103/202112/3b79d1fb86e543c5b236a5f35b9da7ed.shtml	0468
+张跃强		7		海南省		https://dofcom.hainan.gov.cn/dofcom/0100/jgjs.shtml?ddtab=true	海南省商务厅党组成员、副厅长		海南省商务厅	https://dofcom.hainan.gov.cn/dofcom/0103/202511/b6b19efc6c304809b2f7b7cccf41f116.shtml	0468
+张春亘		8		海南省		https://dofcom.hainan.gov.cn/dofcom/0100/jgjs.shtml?ddtab=true	海南省商务厅党组成员、副厅长		海南省商务厅	https://dofcom.hainan.gov.cn/dofcom/0103/202501/d7d7c068e3f346dfa4d630ab9d9d29b4.shtml	0468
+黄永红		9		海南省		https://dofcom.hainan.gov.cn/dofcom/0100/jgjs.shtml?ddtab=true	海南省商务厅党组成员、副厅长兼省口岸办公室专职副主任		海南省商务厅	https://dofcom.hainan.gov.cn/dofcom/0103/202405/d05529e9bde04aff8965d822a07f3eeb.shtml	0468

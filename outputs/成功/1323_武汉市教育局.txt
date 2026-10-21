@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李超		1		湖北省	武汉市	https://jyj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgsz/ldxx/	市教育局党委书记、局长		武汉市教育局	http://jyj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgsz/ldxx/202102/t20210219_1636687.shtml	1323
+刘传鸰		2		湖北省	武汉市	https://jyj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgsz/ldxx/	市纪委监委派驻市教育局纪检监察组组长、市教育局党委委员		武汉市教育局	http://jyj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgsz/ldxx/202609/t20260903_2842987.shtml	1323
+张念强		3		湖北省	武汉市	https://jyj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgsz/ldxx/	市教育局副局长、党委委员		武汉市教育局	http://jyj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgsz/ldxx/202308/t20230810_2245518.shtml	1323
+朱俊		4		湖北省	武汉市	https://jyj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgsz/ldxx/	市教育局副局长、党委委员		武汉市教育局	http://jyj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgsz/ldxx/202306/t20230625_2221079.shtml	1323
+丁华锋		5		湖北省	武汉市	https://jyj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgsz/ldxx/	市教育局副局长、党委委员		武汉市教育局	http://jyj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgsz/ldxx/202602/t20260224_2731353.shtml	1323
+叶璐		6		湖北省	武汉市	https://jyj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgsz/ldxx/	市政府教育督导室副主任督学		武汉市教育局	http://jyj.wuhan.gov.cn/zfxxgk/fdzdgknr/jgsz/ldxx/202602/t20260224_2731354.shtml	1323

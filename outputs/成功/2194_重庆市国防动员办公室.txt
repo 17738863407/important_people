@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李顺		1		重庆市		http://rmfkb.cq.gov.cn/zwgk_246/fdzdgknr/jgzn/wap.html	市国防动员办（市人民防空办）党组书记、主任		重庆市国防动员办公室	http://rmfkb.cq.gov.cn/zwgk_246/fdzdgknr/jgzn/fzrxx/ls/202509/t20250925_15042783.html	2194
+刘朝煜		2		重庆市		http://rmfkb.cq.gov.cn/zwgk_246/fdzdgknr/jgzn/wap.html	市国防动员办（市人民防空办）党组成员、副主任		重庆市国防动员办公室	http://rmfkb.cq.gov.cn/zwgk_246/fdzdgknr/jgzn/fzrxx/lcy/202607/t20260720_15833403.html	2194
+张新忠		3		重庆市		http://rmfkb.cq.gov.cn/zwgk_246/fdzdgknr/jgzn/wap.html	市国防动员办（市人民防空办）党组成员、副主任		重庆市国防动员办公室	http://rmfkb.cq.gov.cn/zwgk_246/fdzdgknr/jgzn/fzrxx/zxz/202408/t20240812_13489360.html	2194
+董孟能		4		重庆市		http://rmfkb.cq.gov.cn/zwgk_246/fdzdgknr/jgzn/wap.html	市国防动员办（市人民防空办）党组成员、副主任		重庆市国防动员办公室	http://rmfkb.cq.gov.cn/zwgk_246/fdzdgknr/jgzn/fzrxx/dmn/202503/t20250312_14397488.html	2194
+王涛		5		重庆市		http://rmfkb.cq.gov.cn/zwgk_246/fdzdgknr/jgzn/wap.html	市国防动员办（市人民防空办）党组成员、二级巡视员		重庆市国防动员办公室	http://rmfkb.cq.gov.cn/zwgk_246/fdzdgknr/jgzn/fzrxx/wt/202408/t20240812_13489384.html	2194
+刘彤		6		重庆市		http://rmfkb.cq.gov.cn/zwgk_246/fdzdgknr/jgzn/wap.html	市国防动员办（市人民防空办）一级巡视员		重庆市国防动员办公室	http://rmfkb.cq.gov.cn/zwgk_246/fdzdgknr/jgzn/fzrxx/lt/202408/t20240812_13489332.html	2194
+池彬		7		重庆市		http://rmfkb.cq.gov.cn/zwgk_246/fdzdgknr/jgzn/wap.html	市国防动员办（市人民防空办）二级巡视员		重庆市国防动员办公室	http://rmfkb.cq.gov.cn/zwgk_246/fdzdgknr/jgzn/fzrxx/cb/202409/t20240905_13596171.html	2194
+李国坤		8		重庆市		http://rmfkb.cq.gov.cn/zwgk_246/fdzdgknr/jgzn/wap.html	市国防动员办（市人民防空办）二级巡视员		重庆市国防动员办公室	http://rmfkb.cq.gov.cn/zwgk_246/fdzdgknr/jgzn/fzrxx/lgk/202511/t20251128_15197825.html	2194

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+洪小平		1		全国		https://www.nfra.gov.cn/branch/guizhou/view/pages/common/ItemList.html?itemId=1912&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=1910&itemUrl=ItemListRightArticle.html	国家金融监督管理总局贵州监管局党委书记、局长		国家金融监督管理总局贵州监管局		4026
+许捷		2		全国		https://www.nfra.gov.cn/branch/guizhou/view/pages/common/ItemList.html?itemId=1912&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=1910&itemUrl=ItemListRightArticle.html	国家金融监督管理总局贵州监管局党委委员、副局长		国家金融监督管理总局贵州监管局		4026
+袁震		3		全国		https://www.nfra.gov.cn/branch/guizhou/view/pages/common/ItemList.html?itemId=1912&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=1910&itemUrl=ItemListRightArticle.html	国家金融监督管理总局贵州监管局党委委员、副局长		国家金融监督管理总局贵州监管局		4026
+郁翔		4		全国		https://www.nfra.gov.cn/branch/guizhou/view/pages/common/ItemList.html?itemId=1912&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=1910&itemUrl=ItemListRightArticle.html	国家金融监督管理总局贵州监管局党委委员、副局长		国家金融监督管理总局贵州监管局		4026
+廖晖		5		全国		https://www.nfra.gov.cn/branch/guizhou/view/pages/common/ItemList.html?itemId=1912&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=1910&itemUrl=ItemListRightArticle.html	国家金融监督管理总局贵州监管局党委委员、纪委书记		国家金融监督管理总局贵州监管局		4026
+张曼红		6		全国		https://www.nfra.gov.cn/branch/guizhou/view/pages/common/ItemList.html?itemId=1912&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=1910&itemUrl=ItemListRightArticle.html	国家金融监督管理总局贵州监管局一级巡视员		国家金融监督管理总局贵州监管局		4026

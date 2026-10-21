@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+次登		1		西藏自治区		https://xzgy.xzcourt.gov.cn/article/detail/2020/05/id/5195483.shtml	西藏自治区高级人民法院党组书记、院长、二级大法官		西藏自治区高级人民法院		4570
+赵宇彦		2		西藏自治区		https://xzgy.xzcourt.gov.cn/article/detail/2020/05/id/5195483.shtml	西藏自治区高级人民法院党组副书记、常务副院长、审判委员会委员、一级高级法官		西藏自治区高级人民法院		4570
+袁英鹰		3		西藏自治区		https://xzgy.xzcourt.gov.cn/article/detail/2020/05/id/5195483.shtml	西藏自治区高级人民法院党组副书记、副院长、审判委员会委员、二级高级法官		西藏自治区高级人民法院		4570
+蒋贞明		4		西藏自治区		https://xzgy.xzcourt.gov.cn/article/detail/2020/05/id/5195483.shtml	西藏自治区高级人民法院党组成员、副院长、审判委员会委员、二级高级法官		西藏自治区高级人民法院		4570
+明马丹增		5		西藏自治区		https://xzgy.xzcourt.gov.cn/article/detail/2020/05/id/5195483.shtml	西藏自治区高级人民法院党组成员、副院长、审判委员会委员、二级高级法官		西藏自治区高级人民法院		4570
+郭建海		6		西藏自治区		https://xzgy.xzcourt.gov.cn/article/detail/2020/05/id/5195483.shtml	西藏自治区高级人民法院党组成员、政治部主任		西藏自治区高级人民法院		4570
+索娜吉		7		西藏自治区		https://xzgy.xzcourt.gov.cn/article/detail/2020/05/id/5195483.shtml	西藏自治区高级人民法院党组成员、副院长、审判委员会委员、一级高级法官		西藏自治区高级人民法院		4570
+普琼扎西		8		西藏自治区		https://xzgy.xzcourt.gov.cn/article/detail/2020/05/id/5195483.shtml	西藏自治区高级人民法院党组成员、副院长、审判委员会委员、二级高级法官		西藏自治区高级人民法院		4570
+黄鹏		9		西藏自治区		https://xzgy.xzcourt.gov.cn/article/detail/2020/05/id/5195483.shtml	西藏自治区高级人民法院党组成员、副院长、审判委员会委员、二级高级法官		西藏自治区高级人民法院		4570
+旦珍		10		西藏自治区		https://xzgy.xzcourt.gov.cn/article/detail/2020/05/id/5195483.shtml	西藏自治区高级人民法院审判委员会副厅级专职委员、二级高级法官		西藏自治区高级人民法院		4570
+王旭东		11		西藏自治区		https://xzgy.xzcourt.gov.cn/article/detail/2020/05/id/5195483.shtml	西藏自治区高级人民法院审判委员会副厅级专职委员、二级高级法官		西藏自治区高级人民法院		4570
+红旭		12		西藏自治区		https://xzgy.xzcourt.gov.cn/article/detail/2020/05/id/5195483.shtml	西藏自治区高级人民法院二级巡视员		西藏自治区高级人民法院		4570

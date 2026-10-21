@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李炳泽		1		云南省		https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/	省教育厅厅长、党组书记、省委教育工委副书记		云南省教育厅	https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/202608/t20260805_3386180.html	1346
+张祖武		2		云南省		https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/	省委教育工委常务副书记(正厅长级)，省教育厅党组成员		云南省教育厅	https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/202608/t20260825_3724282.html	1346
+杨红琼		3		云南省		https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/	省委教育工委副书记，省教育厅党组成员		云南省教育厅	https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/202608/t20260805_3386177.html	1346
+赵德荣		4		云南省		https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/	省教育厅副厅长、党组成员，省委教育工委委员		云南省教育厅	https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/202608/t20260805_3386178.html	1346
+杨春城		5		云南省		https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/	省教育厅副厅长、党组成员，省委教育工委委员		云南省教育厅	https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/202608/t20260805_3386176.html	1346
+李光洪		6		云南省		https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/	省教育厅副厅长、党组成员，省委教育工委委员		云南省教育厅	https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/202608/t20260805_3386175.html	1346
+刘刚		7		云南省		https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/	省委教育工委委员，省教育厅党组成员，省招生考试院院长、党委书记		云南省教育厅	https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/202608/t20260805_3386172.html	1346
+白玉兵		8		云南省		https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/	省委教育工委委员、省教育厅党组成员、总督学		云南省教育厅	https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/202608/t20260805_3386174.html	1346
+雷韬		9		云南省		https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/	二级巡视员		云南省教育厅	https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/202608/t20260805_3386171.html	1346
+木红春		10		云南省		https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/	二级巡视员		云南省教育厅	https://jyt.yn.gov.cn/zfxxgk/fdzdgknr/ld/202608/t20260805_3386170.html	1346

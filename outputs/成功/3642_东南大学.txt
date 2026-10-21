@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邬小撑		1		江苏省	南京市	https://www.seu.edu.cn/28446/list.htm	党委书记		东南大学	http://www.seu.edu.cn/2025/0905/c28449a538416/page.htm	3642
+孙友宏		2		江苏省	南京市	https://www.seu.edu.cn/28446/list.htm	党委副书记；校长		东南大学	http://www.seu.edu.cn/2025/0224/c28449a519266/page.htm	3642
+高立国		3		江苏省	南京市	https://www.seu.edu.cn/28446/list.htm	党委副书记；纪委书记；国家监委驻东南大学监察专员		东南大学	http://www.seu.edu.cn/2022/0304/c28449a400362/page.htm	3642
+邢纪红		4		江苏省	南京市	https://www.seu.edu.cn/28446/list.htm	党委副书记		东南大学	http://www.seu.edu.cn/2022/0304/c28449a400360/page.htm	3642
+钟文琪		5		江苏省	南京市	https://www.seu.edu.cn/28446/list.htm	副校长		东南大学	http://www.seu.edu.cn/2021/0714/c28449a378112/page.htm	3642
+邱海波		6		江苏省	南京市	https://www.seu.edu.cn/28446/list.htm	副校长		东南大学	http://www.seu.edu.cn/2021/0714/c28449a378111/page.htm	3642
+孙立涛		7		江苏省	南京市	https://www.seu.edu.cn/28446/list.htm	副校长		东南大学	http://www.seu.edu.cn/2021/0714/c28449a378110/page.htm	3642
+金石		8		江苏省	南京市	https://www.seu.edu.cn/28446/list.htm	副校长		东南大学	http://www.seu.edu.cn/2021/0714/c28449a378109/page.htm	3642
+王承祥		9		江苏省	南京市	https://www.seu.edu.cn/28446/list.htm	副校长		东南大学	http://www.seu.edu.cn/2026/0420/c28449a564275/page.htm	3642
+施畅		10		江苏省	南京市	https://www.seu.edu.cn/28446/list.htm	副校长		东南大学	http://www.seu.edu.cn/2026/1011/c28449a585636/page.htm	3642

@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+闫伟		1		山西省	太原市	https://nyj.taiyuan.gov.cn/gbxbtjycx/20240614/1151578.html	党组书记、局长、一级调研员		太原市能源局		2022
+孙忠国		2		山西省	太原市	https://nyj.taiyuan.gov.cn/gbxbtjycx/20240614/1151578.html	党组成员、副局长、三级调研员		太原市能源局		2022
+刘瑞峰		3		山西省	太原市	https://nyj.taiyuan.gov.cn/gbxbtjycx/20240614/1151578.html	党组成员、副局长、三级调研员		太原市能源局		2022
+王建伟		4		山西省	太原市	https://nyj.taiyuan.gov.cn/gbxbtjycx/20240614/1151578.html	四级调研员、工会主席		太原市能源局		2022

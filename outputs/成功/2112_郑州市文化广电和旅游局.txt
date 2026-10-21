@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘海青		1		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=29	党组成员、副局长		郑州市文化广电和旅游局	https://public.zhengzhou.gov.cn/D14Y/128642.jhtml	2112
+王道远		2		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=29	党组成员、一级调研员		郑州市文化广电和旅游局	https://public.zhengzhou.gov.cn/D14Y/189129.jhtml	2112
+魏银普		3		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=29	党组成员、副局长		郑州市文化广电和旅游局	https://public.zhengzhou.gov.cn/D14Y/6886280.jhtml	2112
+魏本礼		4		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=29	党组成员、一级调研员		郑州市文化广电和旅游局	https://public.zhengzhou.gov.cn/D14Y/3329937.jhtml	2112
+刘源		5		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=29	党组成员、副局长		郑州市文化广电和旅游局	https://public.zhengzhou.gov.cn/D14Y/287486.jhtml	2112
+李宏勇		6		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=29	党组成员、调研员		郑州市文化广电和旅游局	https://public.zhengzhou.gov.cn/D14Y/3329942.jhtml	2112
+魏志雄		7		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=29	党组成员、副局长		郑州市文化广电和旅游局	https://public.zhengzhou.gov.cn/D14Y/310849.jhtml	2112

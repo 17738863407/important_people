@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王效光		1		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=14	党组书记、局长，一级调研员		郑州市财政局	https://public.zhengzhou.gov.cn/D14Y/9873479.jhtml	2082
+王军		2		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=14	党组成员，一级调研员		郑州市财政局	https://public.zhengzhou.gov.cn/D14Y/259192.jhtml	2082
+任国平		3		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=14	党组成员，一级调研员		郑州市财政局	https://public.zhengzhou.gov.cn/D14Y/287514.jhtml	2082
+董红利		4		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=14	党组成员，一级调研员		郑州市财政局	https://public.zhengzhou.gov.cn/D14Y/6575891.jhtml	2082
+王豪		5		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=14	党组成员、派驻纪检监察组组长，三级调研员		郑州市财政局	https://public.zhengzhou.gov.cn/D14Y/6769563.jhtml	2082
+张娟		6		河南省	郑州市	https://public.zhengzhou.gov.cn/?a=path&p=D14Y&d=14	党组成员、副局长，三级调研员		郑州市财政局	https://public.zhengzhou.gov.cn/D14Y/7025783.jhtml	2082

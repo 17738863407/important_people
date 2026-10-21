@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+石国琦		1		辽宁省	沈阳市	https://jw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组书记、局长		沈阳市城乡建设局	https://jw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202507/t20250716_4877356.html	1276
+石坚		2		辽宁省	沈阳市	https://jw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	一级巡视员		沈阳市城乡建设局	https://jw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202111/t20211116_886691.html	1276
+何振文		3		辽宁省	沈阳市	https://jw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副局长		沈阳市城乡建设局	https://jw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202111/t20211116_893109.html	1276
+祝永泉		4		辽宁省	沈阳市	https://jw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副局长		沈阳市城乡建设局	https://jw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202111/t20211116_892853.html	1276
+贾晓东		5		辽宁省	沈阳市	https://jw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副局长		沈阳市城乡建设局	https://jw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202507/t20250716_4877435.html	1276
+刘真龙		6		辽宁省	沈阳市	https://jw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副局长		沈阳市城乡建设局	https://jw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202604/t20260420_5017202.html	1276
+刘灿		7		辽宁省	沈阳市	https://jw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副局长		沈阳市城乡建设局	https://jw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202501/t20250126_4803612.html	1276
+居理宏		8		辽宁省	沈阳市	https://jw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	城乡建设事务服务中心党委书记		沈阳市城乡建设局	https://jw.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202606/t20260608_5037913.html	1276

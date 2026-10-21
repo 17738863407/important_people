@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吕宁		1		贵州省	贵阳市	https://czj.guiyang.gov.cn/new_site/zwgk_5908373/	局党组成员、副局长、三级调研员		贵阳市财政局	https://czj.guiyang.gov.cn/new_site/zwgk_5908373/zfxxgk/fdzdgknr_5908377/jggk_5908378/ldbz_5908380/202607/t20260730_90675449.html	0365
+幺俊		2		贵州省	贵阳市	https://czj.guiyang.gov.cn/new_site/zwgk_5908373/	局党组成员、副局长		贵阳市财政局	https://czj.guiyang.gov.cn/new_site/zwgk_5908373/zfxxgk/fdzdgknr_5908377/jggk_5908378/ldbz_5908380/202508/t20250824_88510886.html	0365
+张兆治		3		贵州省	贵阳市	https://czj.guiyang.gov.cn/new_site/zwgk_5908373/	局党组成员、副局长		贵阳市财政局	https://czj.guiyang.gov.cn/new_site/zwgk_5908373/zfxxgk/fdzdgknr_5908377/jggk_5908378/ldbz_5908380/202607/t20260730_90675499.html	0365
+唐娅		4		贵州省	贵阳市	https://czj.guiyang.gov.cn/new_site/zwgk_5908373/	局党组成员、副局长		贵阳市财政局	https://czj.guiyang.gov.cn/new_site/zwgk_5908373/zfxxgk/fdzdgknr_5908377/jggk_5908378/ldbz_5908380/202503/t20250321_87228078.html	0365

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄强		1		全国		http://www.jlrd.gov.cn/rdgl/zzjg/zrzc/	省人大常委会主任		吉林省人民代表大会常务委员会		1158
+高广滨		2		全国		http://www.jlrd.gov.cn/rdgl/zzjg/zrzc/	省人大常委会副主任		吉林省人民代表大会常务委员会	http://www.jlrd.gov.cn/rdgl/zzjg/zrzc/fzr/ggb/	1158
+范锐平		3		全国		http://www.jlrd.gov.cn/rdgl/zzjg/zrzc/	省人大常委会副主任		吉林省人民代表大会常务委员会	http://www.jlrd.gov.cn/rdgl/zzjg/zrzc/fzr/frp/	1158
+田锦尘		4		全国		http://www.jlrd.gov.cn/rdgl/zzjg/zrzc/	省人大常委会副主任		吉林省人民代表大会常务委员会	http://www.jlrd.gov.cn/rdgl/zzjg/zrzc/fzr/tjc/	1158
+王秋实		5		全国		http://www.jlrd.gov.cn/rdgl/zzjg/zrzc/	省人大常委会副主任		吉林省人民代表大会常务委员会	http://www.jlrd.gov.cn/rdgl/zzjg/zrzc/fzr/wqs/	1158
+刘金波		6		全国		http://www.jlrd.gov.cn/rdgl/zzjg/zrzc/	省人大常委会副主任		吉林省人民代表大会常务委员会	http://www.jlrd.gov.cn/rdgl/zzjg/zrzc/fzr/ljb/	1158
+贾晓东		7		全国		http://www.jlrd.gov.cn/rdgl/zzjg/zrzc/	省人大常委会副主任		吉林省人民代表大会常务委员会	http://www.jlrd.gov.cn/rdgl/zzjg/zrzc/fzr/jxd/	1158
+梁仁哲		8		全国		http://www.jlrd.gov.cn/rdgl/zzjg/zrzc/	省人大常委会副主任		吉林省人民代表大会常务委员会	http://www.jlrd.gov.cn/rdgl/zzjg/zrzc/fzr/lrz/	1158
+金喜双		9		全国		http://www.jlrd.gov.cn/rdgl/zzjg/zrzc/	省人大常委会秘书长		吉林省人民代表大会常务委员会	http://www.jlrd.gov.cn/rdgl/zzjg/zrzc/msz/jsx/	1158

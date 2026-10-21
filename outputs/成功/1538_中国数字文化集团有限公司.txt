@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+白雪华		1		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202103/t20210329_923371.htm	党委书记、执行董事、总经理		中国数字文化集团有限公司		1538
+周广明		2		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202103/t20210329_923371.htm	副总经理		中国数字文化集团有限公司		1538
+黄培斌		3		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202103/t20210329_923371.htm	党委副书记、纪委书记		中国数字文化集团有限公司		1538
+高约娜		4		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202103/t20210329_923371.htm	副总经理		中国数字文化集团有限公司		1538
+梁川		5		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202103/t20210329_923371.htm	副总经理		中国数字文化集团有限公司		1538

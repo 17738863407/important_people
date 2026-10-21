@@ -1,0 +1,3 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李新华		1		江西省		http://mzj.jiangxi.gov.cn/jxsmzzjswj/col/col5542/index.html	江西省民族宗教事务局党组成员、副局长		江西省民族宗教事务局	http://mzj.jiangxi.gov.cn/jxsmzzjswj/col/col5542/content/content_1864633276595142656.html	1756
+廖敏		2		江西省		http://mzj.jiangxi.gov.cn/jxsmzzjswj/col/col5542/index.html	江西省民族宗教事务局党组成员 副局长		江西省民族宗教事务局	http://mzj.jiangxi.gov.cn/jxsmzzjswj/col/col5542/content/content_1864344683364450304.html	1756

@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+顾卫兵		1		全国		http://www.cicos.agri.cn/zxjj/zxld/	主任		农业农村部国际交流服务中心		0237
+徐明		2		全国		http://www.cicos.agri.cn/zxjj/zxld/	副主任		农业农村部国际交流服务中心		0237
+王静		3		全国		http://www.cicos.agri.cn/zxjj/zxld/	副主任		农业农村部国际交流服务中心		0237

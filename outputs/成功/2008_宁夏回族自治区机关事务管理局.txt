@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+魏卓		1		宁夏回族自治区		http://nxjgsw.nx.gov.cn/jqgk/	宁夏回族自治区机关事务管理局党组书记、局长		宁夏回族自治区机关事务管理局	http://nxjgsw.nx.gov.cn/jqgk/ldfg/201908/t20190819_1669969.html	2008
+肖延锋		2		宁夏回族自治区		http://nxjgsw.nx.gov.cn/jqgk/	宁夏回族自治区机关事务管理局党组成员、副局长、二级巡视员		宁夏回族自治区机关事务管理局	http://nxjgsw.nx.gov.cn/jqgk/ldfg/201908/t20190819_1670049.html	2008
+唐辉		3		宁夏回族自治区		http://nxjgsw.nx.gov.cn/jqgk/	宁夏回族自治区机关事务管理局党组成员、副局长		宁夏回族自治区机关事务管理局	http://nxjgsw.nx.gov.cn/jqgk/ldfg/201908/t20190819_1670056.html	2008
+马中华		4		宁夏回族自治区		http://nxjgsw.nx.gov.cn/jqgk/	宁夏回族自治区机关事务管理局党组成员、副局长		宁夏回族自治区机关事务管理局	http://nxjgsw.nx.gov.cn/jqgk/ldfg/202504/t20250424_4890286.html	2008

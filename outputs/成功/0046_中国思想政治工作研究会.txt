@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李书磊		1		全国		https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%B7%A5%E4%BD%9C%E7%A0%94%E7%A9%B6%E4%BC%9A/553319#5	会长		中国思想政治工作研究会	https://baike.baidu.com/item/%E6%9D%8E%E4%B9%A6%E7%A3%8A/6955266	0046
+孙业礼		2		全国		https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%B7%A5%E4%BD%9C%E7%A0%94%E7%A9%B6%E4%BC%9A/553319#5	常务副会长		中国思想政治工作研究会	https://baike.baidu.com/item/%E5%AD%99%E4%B8%9A%E7%A4%BC/1881723	0046
+齐家滨		3		全国		https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%B7%A5%E4%BD%9C%E7%A0%94%E7%A9%B6%E4%BC%9A/553319#5	副会长		中国思想政治工作研究会	https://baike.baidu.com/item/%E9%BD%90%E5%AE%B6%E6%BB%A8/2534992	0046
+吴汉圣		4		全国		https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%B7%A5%E4%BD%9C%E7%A0%94%E7%A9%B6%E4%BC%9A/553319#5	副会长		中国思想政治工作研究会	https://baike.baidu.com/item/%E5%90%B4%E6%B1%89%E5%9C%A3/7441007	0046
+谭作钧		5		全国		https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%B7%A5%E4%BD%9C%E7%A0%94%E7%A9%B6%E4%BC%9A/553319#5	副会长		中国思想政治工作研究会	https://baike.baidu.com/item/%E8%B0%AD%E4%BD%9C%E9%92%A7/8529981	0046
+李晓钟		6		全国		https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%B7%A5%E4%BD%9C%E7%A0%94%E7%A9%B6%E4%BC%9A/553319#5	副会长		中国思想政治工作研究会	https://baike.baidu.com/item/%E6%9D%8E%E6%99%93%E9%92%9F/15765369	0046
+汪鸿雁		7		全国		https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%B7%A5%E4%BD%9C%E7%A0%94%E7%A9%B6%E4%BC%9A/553319#5	副会长		中国思想政治工作研究会	https://baike.baidu.com/item/%E6%B1%AA%E9%B8%BF%E9%9B%81/624144	0046
+吴海鹰		8		全国		https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%B7%A5%E4%BD%9C%E7%A0%94%E7%A9%B6%E4%BC%9A/553319#5	副会长		中国思想政治工作研究会	https://baike.baidu.com/item/%E5%90%B4%E6%B5%B7%E9%B9%B0/69890	0046
+褚君浩		9		全国		https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%B7%A5%E4%BD%9C%E7%A0%94%E7%A9%B6%E4%BC%9A/553319#5	副会长		中国思想政治工作研究会	https://baike.baidu.com/item/%E8%A4%9A%E5%90%9B%E6%B5%A9/9517762	0046
+吴建春		10		全国		https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%B7%A5%E4%BD%9C%E7%A0%94%E7%A9%B6%E4%BC%9A/553319#5	秘书长		中国思想政治工作研究会		0046

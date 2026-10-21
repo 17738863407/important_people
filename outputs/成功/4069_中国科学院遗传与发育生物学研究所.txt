@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+傅向东		1		全国		https://genetics.cas.cn/yjs/xrld/	所长、党委书记		中国科学院遗传与发育生物学研究所	https://genetics.cas.cn/fuxiangdong	4069
+李浩然		2		全国		https://genetics.cas.cn/yjs/xrld/	党委副书记、纪委书记		中国科学院遗传与发育生物学研究所		4069
+沈彦俊		3		全国		https://genetics.cas.cn/yjs/xrld/	副所长		中国科学院遗传与发育生物学研究所	https://genetics.cas.cn/shenyanjun	4069
+吴青峰		4		全国		https://genetics.cas.cn/yjs/xrld/	副所长		中国科学院遗传与发育生物学研究所	http://genetics.cas.cn/wuqingfeng	4069
+鲁非		5		全国		https://genetics.cas.cn/yjs/xrld/	副所长		中国科学院遗传与发育生物学研究所	http://genetics.cas.cn/lufei	4069
+肖军		6		全国		https://genetics.cas.cn/yjs/xrld/	所务委员		中国科学院遗传与发育生物学研究所	https://www.genetics.ac.cn/xiaojun	4069
+张可心		7		全国		https://genetics.cas.cn/yjs/xrld/	所务委员		中国科学院遗传与发育生物学研究所	https://genetics.cas.cn/yjs/xrld/swwy/202608/t20260818_8261517.html	4069

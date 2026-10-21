@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+殷德健		1		全国		https://nwro.mee.gov.cn/zwgk/jgzn/zyld/zr/	分党组书记、主任		西北核与辐射安全监督站	https://nwro.mee.gov.cn/zwgk/jgzn/zyld/zr/202407/t20240730_1082924.html	2004
+余建兴		2		全国		https://nwro.mee.gov.cn/zwgk/jgzn/zyld/zr/	分党组成员、纪检组组长		西北核与辐射安全监督站	https://nwro.mee.gov.cn/zwgk/jgzn/zyld/fzr1/201911/t20191104_740700.html	2004
+张树丛		3		全国		https://nwro.mee.gov.cn/zwgk/jgzn/zyld/zr/	分党组成员、副主任		西北核与辐射安全监督站	https://nwro.mee.gov.cn/zwgk/jgzn/zyld/fzr2/202311/t20231123_1057086.html	2004
+姚永奎		4		全国		https://nwro.mee.gov.cn/zwgk/jgzn/zyld/zr/	二级巡视员		西北核与辐射安全监督站	https://nwro.mee.gov.cn/zwgk/jgzn/zyld/fzr/201911/t20191104_740701.html	2004

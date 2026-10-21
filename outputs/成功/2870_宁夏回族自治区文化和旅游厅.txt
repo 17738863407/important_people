@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马洪海		1		宁夏回族自治区		https://whhlyt.nx.gov.cn/zzjg/tld/	宁夏回族自治区文化和旅游厅党组书记、厅长、文物局局长，兼任自治区党委宣传部副部长		宁夏回族自治区文化和旅游厅	https://whhlyt.nx.gov.cn/zzjg/tld/202507/t20250724_4969675.html	2870
+马国俊		2		宁夏回族自治区		https://whhlyt.nx.gov.cn/zzjg/tld/	宁夏回族自治区文化和旅游厅党组成员、自治区纪委监委驻自治区文化和旅游厅纪检监察组组长		宁夏回族自治区文化和旅游厅	https://whhlyt.nx.gov.cn/zzjg/tld/202011/t20201111_3641771.html	2870
+张玉进		3		宁夏回族自治区		https://whhlyt.nx.gov.cn/zzjg/tld/	宁夏回族自治区文化和旅游厅党组成员、副厅长		宁夏回族自治区文化和旅游厅	https://whhlyt.nx.gov.cn/zzjg/tld/202011/t20201111_3641758.html	2870
+吴静		4		宁夏回族自治区		https://whhlyt.nx.gov.cn/zzjg/tld/	宁夏回族自治区文化和旅游厅党组成员、副厅长		宁夏回族自治区文化和旅游厅	https://whhlyt.nx.gov.cn/zzjg/tld/202609/t20260923_5354044.html	2870
+柳萍		5		宁夏回族自治区		https://whhlyt.nx.gov.cn/zzjg/tld/	宁夏回族自治区文化和旅游厅一级巡视员		宁夏回族自治区文化和旅游厅	https://whhlyt.nx.gov.cn/zzjg/tld/202011/t20201111_3641745.html	2870
+付满玉		6		宁夏回族自治区		https://whhlyt.nx.gov.cn/zzjg/tld/	宁夏回族自治区文化和旅游厅二级巡视员		宁夏回族自治区文化和旅游厅	https://whhlyt.nx.gov.cn/zzjg/tld/202412/t20241212_4756946.html	2870
+王光华		7		宁夏回族自治区		https://whhlyt.nx.gov.cn/zzjg/tld/	宁夏回族自治区文化和旅游厅二级巡视员		宁夏回族自治区文化和旅游厅	https://whhlyt.nx.gov.cn/zzjg/tld/202509/t20250915_5021678.html	2870
+吴建平		8		宁夏回族自治区		https://whhlyt.nx.gov.cn/zzjg/tld/	宁夏回族自治区文化和旅游厅二级巡视员		宁夏回族自治区文化和旅游厅	https://whhlyt.nx.gov.cn/zzjg/tld/202604/t20260428_5228085.html	2870

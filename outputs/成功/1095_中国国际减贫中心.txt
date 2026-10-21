@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘俊文		1		全国		https://www.iprcc.org.cn/article/40X9CYyy3mz	主任		中国国际减贫中心		1095
+李昕		2		全国		https://www.iprcc.org.cn/article/40X9CYyy3mz	副主任		中国国际减贫中心		1095
+焦点		3		全国		https://www.iprcc.org.cn/article/40X9CYyy3mz	副主任		中国国际减贫中心		1095
+接萍		4		全国		https://www.iprcc.org.cn/article/40X9CYyy3mz	副主任		中国国际减贫中心		1095

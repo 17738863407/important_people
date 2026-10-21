@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于学利		1		辽宁省	沈阳市	https://www.syzx.gov.cn/syszx/zxgk/zxld/glist.html	主席		沈阳市政协		2656
+纪政		2		辽宁省	沈阳市	https://www.syzx.gov.cn/syszx/zxgk/zxld/glist.html	副主席		沈阳市政协		2656
+王燕玲		3		辽宁省	沈阳市	https://www.syzx.gov.cn/syszx/zxgk/zxld/glist.html	副主席		沈阳市政协		2656
+许桂清		4		辽宁省	沈阳市	https://www.syzx.gov.cn/syszx/zxgk/zxld/glist.html	副主席		沈阳市政协		2656
+于振明		5		辽宁省	沈阳市	https://www.syzx.gov.cn/syszx/zxgk/zxld/glist.html	副主席		沈阳市政协		2656
+于龙		6		辽宁省	沈阳市	https://www.syzx.gov.cn/syszx/zxgk/zxld/glist.html	副主席		沈阳市政协		2656
+王会奇		7		辽宁省	沈阳市	https://www.syzx.gov.cn/syszx/zxgk/zxld/glist.html	副主席		沈阳市政协		2656
+李军		8		辽宁省	沈阳市	https://www.syzx.gov.cn/syszx/zxgk/zxld/glist.html	副主席		沈阳市政协		2656
+赵彦志		9		辽宁省	沈阳市	https://www.syzx.gov.cn/syszx/zxgk/zxld/glist.html	副主席		沈阳市政协		2656
+张鸣		10		辽宁省	沈阳市	https://www.syzx.gov.cn/syszx/zxgk/zxld/glist.html	副主席		沈阳市政协		2656
+杨昕		11		辽宁省	沈阳市	https://www.syzx.gov.cn/syszx/zxgk/zxld/glist.html	秘书长人选		沈阳市政协		2656

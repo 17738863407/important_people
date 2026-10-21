@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李宏琪		1		新疆维吾尔自治区		https://swt.xinjiang.gov.cn/xjswt/c114354/leader.shtml	自治区商务厅党组书记、副厅长，中国（新疆）自由贸易试验区工作办公室主任		新疆维吾尔自治区商务厅	https://swt.xinjiang.gov.cn/xjswt/c114354/202606/a79e0a785b414f47b2dd53391f2d8357.shtml	2635
+邢涛		2		新疆维吾尔自治区		https://swt.xinjiang.gov.cn/xjswt/c114354/leader.shtml	自治区商务厅党组副书记、厅长，中国（新疆）自由贸易试验区工作办公室副主任		新疆维吾尔自治区商务厅	https://swt.xinjiang.gov.cn/xjswt/c114354/202311/056e484f96be474d9a3a67be0c048c84.shtml	2635
+卢跃东		3		新疆维吾尔自治区		https://swt.xinjiang.gov.cn/xjswt/c114354/leader.shtml	兵团商务局党组书记、局长，兵团贸易促进会会长，自治区商务厅党组成员、副厅长（兼）		新疆维吾尔自治区商务厅	https://swt.xinjiang.gov.cn/xjswt/c114354/202605/c96e8867698841fbaeb046f65c161301.shtml	2635
+祝贺香		4		新疆维吾尔自治区		https://swt.xinjiang.gov.cn/xjswt/c114354/leader.shtml	自治区商务厅党组成员、一级巡视员		新疆维吾尔自治区商务厅	https://swt.xinjiang.gov.cn/xjswt/c114354/202311/d5697b9477204cd7ba7ad7a85a414aa8.shtml	2635
+熊哲家		5		新疆维吾尔自治区		https://swt.xinjiang.gov.cn/xjswt/c114354/leader.shtml	自治区商务厅党组成员、副厅长 、一级巡视员，自治区口岸管理办公室党组书记		新疆维吾尔自治区商务厅	https://swt.xinjiang.gov.cn/xjswt/c114354/202607/96ada17642ea4d2986d2ae4cc25a7511.shtml	2635
+王亚		6		新疆维吾尔自治区		https://swt.xinjiang.gov.cn/xjswt/c114354/leader.shtml	自治区商务厅党组成员、副厅长（援疆）		新疆维吾尔自治区商务厅	https://swt.xinjiang.gov.cn/xjswt/c114354/202608/e537eb1760ee4fbeb969ad131ec6eb42.shtml	2635
+刘波		7		新疆维吾尔自治区		https://swt.xinjiang.gov.cn/xjswt/c114354/leader.shtml	自治区商务厅党组成员、副厅长		新疆维吾尔自治区商务厅	https://swt.xinjiang.gov.cn/xjswt/c114354/202311/c652fc1d00e74c1ea8f697c763ee169f.shtml	2635
+居来提•肉孜		8		新疆维吾尔自治区		https://swt.xinjiang.gov.cn/xjswt/c114354/leader.shtml	自治区商务厅党组成员、副厅长		新疆维吾尔自治区商务厅	https://swt.xinjiang.gov.cn/xjswt/c114354/202407/04a55c0784d340b5a87c9b482348439b.shtml	2635
+冀新霞		9		新疆维吾尔自治区		https://swt.xinjiang.gov.cn/xjswt/c114354/leader.shtml	自治区商务厅党组成员、副厅长		新疆维吾尔自治区商务厅	https://swt.xinjiang.gov.cn/xjswt/c114354/202606/3fcc7cd6a8c6458d87c383a8f03f023a.shtml	2635

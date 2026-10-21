@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘鹏飞		1		全国		https://www.motmti.cn/yxld/index.jhtml	党委书记、党校第一副校长		交通运输部管理干部学院		1690
+郭洪太		2		全国		https://www.motmti.cn/yxld/index.jhtml	党委副书记、院长、党校常务副校长		交通运输部管理干部学院		1690
+徐文杰		3		全国		https://www.motmti.cn/yxld/index.jhtml	党委委员、副院长		交通运输部管理干部学院		1690
+严红		4		全国		https://www.motmti.cn/yxld/index.jhtml	党委委员、副院长		交通运输部管理干部学院		1690
+周万枝		5		全国		https://www.motmti.cn/yxld/index.jhtml	党委委员、副院长		交通运输部管理干部学院		1690
+郝新光		6		全国		https://www.motmti.cn/yxld/index.jhtml	党委委员、纪委书记		交通运输部管理干部学院		1690

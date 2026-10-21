@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐礼国		1		安徽省		https://dva.ah.gov.cn/jg/index.html	厅长		安徽省退役军人事务厅	https://dva.ah.gov.cn/content/column/6791946?liId=62	0491
+刘中汉		2		安徽省		https://dva.ah.gov.cn/jg/index.html	副厅长		安徽省退役军人事务厅	https://dva.ah.gov.cn/content/column/6791946?liId=60	0491
+刘恒贵		3		安徽省		https://dva.ah.gov.cn/jg/index.html	副厅长		安徽省退役军人事务厅	https://dva.ah.gov.cn/content/column/6791946?liId=59	0491

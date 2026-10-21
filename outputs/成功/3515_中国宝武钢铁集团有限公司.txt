@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡望明		1		全国		https://www.baowugroup.com/about/management_team	董事长、党委书记		中国宝武钢铁集团有限公司	https://www.baowugroup.com/about/management_team_detail/199487	3515
+侯安贵		2		全国		https://www.baowugroup.com/about/management_team	董事、总经理、党委副书记		中国宝武钢铁集团有限公司	https://www.baowugroup.com/about/management_team_detail/199493	3515
+王绪祥		3		全国		https://www.baowugroup.com/about/management_team	董事、党委副书记		中国宝武钢铁集团有限公司	https://www.baowugroup.com/about/management_team_detail/329255	3515
+邹继新		4		全国		https://www.baowugroup.com/about/management_team	副总经理、党委常委		中国宝武钢铁集团有限公司	https://www.baowugroup.com/about/management_team_detail/199486	3515
+高建兵		5		全国		https://www.baowugroup.com/about/management_team	副总经理、党委常委		中国宝武钢铁集团有限公司	https://www.baowugroup.com/about/management_team_detail/220879	3515
+费鹏		6		全国		https://www.baowugroup.com/about/management_team	副总经理、党委常委		中国宝武钢铁集团有限公司	https://www.baowugroup.com/about/management_team_detail/320391	3515
+李丽娜		7		全国		https://www.baowugroup.com/about/management_team	总会计师、党委常委		中国宝武钢铁集团有限公司	https://www.baowugroup.com/about/management_team_detail/363439	3515
+蔡慧永		8		全国		https://www.baowugroup.com/about/management_team	中央纪委国家监委驻中国宝武钢铁集团有限公司纪检监察组组长、党委常委		中国宝武钢铁集团有限公司	https://www.baowugroup.com/about/management_team_detail/398629	3515
+吴小弟		9		全国		https://www.baowugroup.com/about/management_team	副总经理、党委常委		中国宝武钢铁集团有限公司	https://www.baowugroup.com/about/management_team_detail/440002	3515

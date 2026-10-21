@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王斌		1		甘肃省	兰州市	http://slj.lanzhou.gov.cn/col/col4156/index.html	兰州市水务局党组书记、局长		兰州市水务局	http://slj.lanzhou.gov.cn/col/col25486/index.html	2480
+张文雍		2		甘肃省	兰州市	http://slj.lanzhou.gov.cn/col/col4156/index.html	兰州市水务局党组成员、副局长、二级调研员		兰州市水务局	http://slj.lanzhou.gov.cn/col/col21356/index.html	2480
+张元清		3		甘肃省	兰州市	http://slj.lanzhou.gov.cn/col/col4156/index.html	兰州市水务局党组成员、副局长、二级调研员		兰州市水务局	http://slj.lanzhou.gov.cn/col/col21357/index.html	2480
+杨正平		4		甘肃省	兰州市	http://slj.lanzhou.gov.cn/col/col4156/index.html	兰州市水务局党组成员、市纪委监委派驻市水务局纪检监察组组长，四级高级监察官		兰州市水务局	http://slj.lanzhou.gov.cn/col/col24218/index.html	2480
+曾晓春		5		甘肃省	兰州市	http://slj.lanzhou.gov.cn/col/col4156/index.html	兰州市水务局党组成员、副局长		兰州市水务局	http://slj.lanzhou.gov.cn/col/col25487/index.html	2480
+刘建辉		6		甘肃省	兰州市	http://slj.lanzhou.gov.cn/col/col4156/index.html	兰州市水务局党组成员、副局长		兰州市水务局	http://slj.lanzhou.gov.cn/col/col29325/index.html	2480

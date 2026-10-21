@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+叶燊		1		福建省		http://jyt.fujian.gov.cn/gkxx/ldxx/ys/	省委教育工委书记，省委教育工作领导小组秘书组组长，省教育厅党组书记、厅长		福建省教育厅		1327
+吴伟平		2		福建省		http://jyt.fujian.gov.cn/gkxx/ldxx/ys/	省委教育工委、省教育厅一级巡视员		福建省教育厅	http://jyt.fujian.gov.cn/gkxx/ldxx/wwp/	1327
+潘荣灼		3		福建省		http://jyt.fujian.gov.cn/gkxx/ldxx/ys/	省委教育工委委员、省教育纪检监察工委书记，省教育厅党组成员、驻厅纪检监察组组长		福建省教育厅	http://jyt.fujian.gov.cn/gkxx/ldxx/prz/	1327
+黄建顺		4		福建省		http://jyt.fujian.gov.cn/gkxx/ldxx/ys/	省委教育工委委员，省教育厅党组成员、副厅长		福建省教育厅	http://jyt.fujian.gov.cn/gkxx/ldxx/hjs/	1327
+陈洪尧		5		福建省		http://jyt.fujian.gov.cn/gkxx/ldxx/ys/	省委教育工委副书记，省教育厅党组成员、副厅长		福建省教育厅	http://jyt.fujian.gov.cn/gkxx/ldxx/chy/	1327
+吴琛		6		福建省		http://jyt.fujian.gov.cn/gkxx/ldxx/ys/	省委教育工委委员，省教育厅党组成员、副厅长		福建省教育厅	http://jyt.fujian.gov.cn/gkxx/ldxx/wc/	1327

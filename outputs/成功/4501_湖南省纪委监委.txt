@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+魏建锋		1		湖南省		https://www.sxfj.gov.cn/xin_xi_gong_kai/ling_dao_ji_gou/222251133.shtml	中国共产党湖南省第十二届纪律检查委员会书记；中国共产党湖南省第十二届纪律检查委员会常务委员会委员；湖南省监察委员会主任		湖南省纪委监委		4501
+汪航		2		湖南省		https://www.sxfj.gov.cn/xin_xi_gong_kai/ling_dao_ji_gou/222251133.shtml	中国共产党湖南省第十二届纪律检查委员会副书记；中国共产党湖南省第十二届纪律检查委员会常务委员会委员；湖南省监察委员会副主任		湖南省纪委监委		4501
+胡卫兵		3		湖南省		https://www.sxfj.gov.cn/xin_xi_gong_kai/ling_dao_ji_gou/222251133.shtml	中国共产党湖南省第十二届纪律检查委员会副书记；中国共产党湖南省第十二届纪律检查委员会常务委员会委员；湖南省监察委员会副主任		湖南省纪委监委		4501
+罗先东		4		湖南省		https://www.sxfj.gov.cn/xin_xi_gong_kai/ling_dao_ji_gou/222251133.shtml	中国共产党湖南省第十二届纪律检查委员会常务委员会委员		湖南省纪委监委		4501
+樊凤鸣		5		湖南省		https://www.sxfj.gov.cn/xin_xi_gong_kai/ling_dao_ji_gou/222251133.shtml	中国共产党湖南省第十二届纪律检查委员会常务委员会委员		湖南省纪委监委		4501
+廖国红		6		湖南省		https://www.sxfj.gov.cn/xin_xi_gong_kai/ling_dao_ji_gou/222251133.shtml	中国共产党湖南省第十二届纪律检查委员会常务委员会委员		湖南省纪委监委		4501
+刘辉奇		7		湖南省		https://www.sxfj.gov.cn/xin_xi_gong_kai/ling_dao_ji_gou/222251133.shtml	中国共产党湖南省第十二届纪律检查委员会常务委员会委员		湖南省纪委监委		4501
+谢兰兰		8		湖南省		https://www.sxfj.gov.cn/xin_xi_gong_kai/ling_dao_ji_gou/222251133.shtml	中国共产党湖南省第十二届纪律检查委员会常务委员会委员		湖南省纪委监委		4501

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马焕勇		1		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218951/index.html	宁波市供销合作社联合社 理事会主任、党委书记		宁波市供销合作社联合社	https://www.ningbo.gov.cn/art/2024/5/23/art_1229218951_161120.html	1910
+戴建国		2		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218951/index.html	宁波市供销合作社联合社理事会副主任、 党委副书记，直属 机关党委书记，宁波市农合联执委会副主任		宁波市供销合作社联合社	https://www.ningbo.gov.cn/art/2020/7/29/art_1229218951_26246.html	1910
+梁达		3		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218951/index.html	宁波市供销合作社联合社理事会副主任、党委委员		宁波市供销合作社联合社	https://www.ningbo.gov.cn/art/2023/1/13/art_1229218951_138450.html	1910
+程增伟		4		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218951/index.html	宁波市供销合作社联合社监事会主任、党委委员，宁波市农合联常务副监事长		宁波市供销合作社联合社	https://www.ningbo.gov.cn/art/2023/1/11/art_1229218951_138236.html	1910
+汤毅		5		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218951/index.html	宁波市供销合作社联合社理事会副主任、党委委员，宁波市农合联执委会副主任，宁波供销集团公司党委书记、董事长		宁波市供销合作社联合社	https://www.ningbo.gov.cn/art/2022/1/6/art_1229218951_120321.html	1910
+姚旭飞		6		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218951/index.html	宁波市供销合作社联合社理事会副主任、 党委委员、二级巡视员，宁波市农合联执委会副主任		宁波市供销合作社联合社	https://www.ningbo.gov.cn/art/2022/6/24/art_1229218951_127833.html	1910
+赵科伟		7		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218951/index.html	宁波市供销合作社联合社党委委员、办公室主任		宁波市供销合作社联合社	https://www.ningbo.gov.cn/art/2025/4/1/art_1229218951_176480.html	1910
+王学兴		8		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218951/index.html	一级调研员		宁波市供销合作社联合社	https://www.ningbo.gov.cn/art/2023/1/13/art_1229218951_138451.html	1910

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐强		1		辽宁省	沈阳市	https://nyncj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/	市农业农村局党组书记、局长，兼市乡村振兴局局长、市委农村工作领导小组办公室主任		沈阳市农业农村局	https://nyncj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202606/t20260623_5045241.html	2039
+石福祥		2		辽宁省	沈阳市	https://nyncj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/	沈阳市农业农村局党组成员、副局长，二级巡视员		沈阳市农业农村局	https://nyncj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202201/t20220108_2461466.html	2039
+刘大军		3		辽宁省	沈阳市	https://nyncj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/	沈阳市农业农村局党组成员、副局长		沈阳市农业农村局	https://nyncj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202507/t20250717_4878392.html	2039
+霍尚峰		4		辽宁省	沈阳市	https://nyncj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/	市农业农村局党组成员、副局长		沈阳市农业农村局	https://nyncj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202608/t20260831_5080777.html	2039
+田野		5		辽宁省	沈阳市	https://nyncj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/	中共沈阳市委农村工作领导小组办公室专职副主任，市农业农村局党组成员、副局长		沈阳市农业农村局	https://nyncj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202605/t20260513_5025964.html	2039
+田淑军		6		辽宁省	沈阳市	https://nyncj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/	二级巡视员		沈阳市农业农村局	https://nyncj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202201/t20220108_2461186.html	2039
+孙可兵		7		辽宁省	沈阳市	https://nyncj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/	沈阳市农业农村局一级调研员		沈阳市农业农村局	https://nyncj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202201/t20220108_2458681.html	2039

@@ -1,0 +1,17 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+葛海蛟		1		全国		https://www.boc.cn/investor/ir6/201504/t20150402_4829998.html	董事长、执行董事、党委书记		中国银行股份有限公司		4411
+张辉		2		全国		https://www.boc.cn/investor/ir6/201504/t20150402_4829998.html	副董事长、执行董事、行长兼首席合规官、党委副书记		中国银行股份有限公司		4411
+刘进		3		全国		https://www.boc.cn/investor/ir6/201504/t20150402_4829998.html	执行董事、党委副书记		中国银行股份有限公司		4411
+蔡钊		4		全国		https://www.boc.cn/investor/ir6/201504/t20150402_4829998.html	执行董事、副行长		中国银行股份有限公司		4411
+张勇		5		全国		https://www.boc.cn/investor/ir6/201504/t20150402_4829998.html	非执行董事		中国银行股份有限公司		4411
+黄秉华		6		全国		https://www.boc.cn/investor/ir6/201504/t20150402_4829998.html	非执行董事		中国银行股份有限公司		4411
+刘辉		7		全国		https://www.boc.cn/investor/ir6/201504/t20150402_4829998.html	非执行董事		中国银行股份有限公司		4411
+师永彦		8		全国		https://www.boc.cn/investor/ir6/201504/t20150402_4829998.html	非执行董事		中国银行股份有限公司		4411
+楼小惠		9		全国		https://www.boc.cn/investor/ir6/201504/t20150402_4829998.html	非执行董事		中国银行股份有限公司		4411
+李子民		10		全国		https://www.boc.cn/investor/ir6/201504/t20150402_4829998.html	非执行董事		中国银行股份有限公司		4411
+让•路易•埃克拉		11		全国		https://www.boc.cn/investor/ir6/201504/t20150402_4829998.html	独立董事		中国银行股份有限公司		4411
+乔瓦尼•特里亚		12		全国		https://www.boc.cn/investor/ir6/201504/t20150402_4829998.html	独立董事		中国银行股份有限公司		4411
+刘晓蕾		13		全国		https://www.boc.cn/investor/ir6/201504/t20150402_4829998.html	独立董事		中国银行股份有限公司		4411
+张然		14		全国		https://www.boc.cn/investor/ir6/201504/t20150402_4829998.html	独立董事		中国银行股份有限公司		4411
+高美懿		15		全国		https://www.boc.cn/investor/ir6/201504/t20150402_4829998.html	独立董事		中国银行股份有限公司		4411
+胡展云		16		全国		https://www.boc.cn/investor/ir6/201504/t20150402_4829998.html	独立董事		中国银行股份有限公司		4411

@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+曾沁		1		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/nsjg/202008/t20200823_4632955.html	司长		中国气象局科技司		3729
+石雪峰		2		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/nsjg/202008/t20200823_4632955.html	副司长		中国气象局科技司		3729
+杨蕾		3		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/nsjg/202008/t20200823_4632955.html	副司长		中国气象局科技司		3729

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘兴景		1		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218935/index.html	宁波市委改革办常务副主任、宁波市营商环境建设局局长		宁波市营商环境建设局	https://www.ningbo.gov.cn/art/2024/9/3/art_1229218935_166035.html	1943
+许旭军		2		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218935/index.html	宁波市委改革办副主任、宁波市营商环境建设局副局长		宁波市营商环境建设局	https://www.ningbo.gov.cn/art/2024/9/3/art_1229218935_166036.html	1943
+夏行		3		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218935/index.html	宁波市委改革办副主任、宁波市营商环境建设局副局长		宁波市营商环境建设局	https://www.ningbo.gov.cn/art/2024/9/3/art_1229218935_166037.html	1943
+曹飞龙		4		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218935/index.html	宁波市委改革办副主任、宁波市营商环境建设局副局长		宁波市营商环境建设局	https://www.ningbo.gov.cn/art/2024/9/3/art_1229218935_166038.html	1943
+张宝藏		5		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218935/index.html	宁波市委改革办室务会议成员、宁波市委改革办（市营商环境建设局）二级巡视员		宁波市营商环境建设局	https://www.ningbo.gov.cn/art/2024/9/3/art_1229218935_166039.html	1943
+沈煜		6		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218935/index.html	宁波市委改革办室务会议成员、宁波市委改革办（市营商环境建设局）二级巡视员		宁波市营商环境建设局	https://www.ningbo.gov.cn/art/2024/9/3/art_1229218935_166040.html	1943
+洪萍		7		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218935/index.html	宁波市委改革办室务会议成员、秘书处（数字化发展处）处长		宁波市营商环境建设局	https://www.ningbo.gov.cn/art/2024/9/3/art_1229218935_166042.html	1943
+冯全国		8		浙江省	宁波市	http://www.ningbo.gov.cn/col/col1229218935/index.html	一级调研员		宁波市营商环境建设局	https://www.ningbo.gov.cn/art/2020/8/5/art_1229218935_26227.html	1943

@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄中贤		1		广西壮族自治区	南宁市	http://rd.nanning.gov.cn/rdgk/nnsrdcwh/t6645188.html	主任		南宁市人民代表大会常务委员会		2168
+黄均宁		2		广西壮族自治区	南宁市	http://rd.nanning.gov.cn/rdgk/nnsrdcwh/t6645188.html	副主任		南宁市人民代表大会常务委员会		2168
+刘志烈		3		广西壮族自治区	南宁市	http://rd.nanning.gov.cn/rdgk/nnsrdcwh/t6645188.html	副主任		南宁市人民代表大会常务委员会		2168
+陈尧		4		广西壮族自治区	南宁市	http://rd.nanning.gov.cn/rdgk/nnsrdcwh/t6645188.html	副主任		南宁市人民代表大会常务委员会		2168
+范卫东		5		广西壮族自治区	南宁市	http://rd.nanning.gov.cn/rdgk/nnsrdcwh/t6645188.html	副主任		南宁市人民代表大会常务委员会		2168
+梁国禄		6		广西壮族自治区	南宁市	http://rd.nanning.gov.cn/rdgk/nnsrdcwh/t6645188.html	副主任		南宁市人民代表大会常务委员会		2168
+李秋果		7		广西壮族自治区	南宁市	http://rd.nanning.gov.cn/rdgk/nnsrdcwh/t6645188.html	副主任		南宁市人民代表大会常务委员会		2168
+刘德宁		8		广西壮族自治区	南宁市	http://rd.nanning.gov.cn/rdgk/nnsrdcwh/t6645188.html	秘书长		南宁市人民代表大会常务委员会		2168

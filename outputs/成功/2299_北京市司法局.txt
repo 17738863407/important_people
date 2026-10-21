@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+崔杨		1		北京市		https://sfj.beijing.gov.cn/sfj/zwgk/sfjjs93/651831/index.html	北京市司法局党委书记、局长，北京市监狱管理局（北京市戒毒管理局）第一政委		北京市司法局		2299
+张国强		2		北京市		https://sfj.beijing.gov.cn/sfj/zwgk/sfjjs93/651831/index.html	北京市司法局党委委员、副局长、一级巡视员		北京市司法局		2299
+马福威		3		北京市		https://sfj.beijing.gov.cn/sfj/zwgk/sfjjs93/651831/index.html	北京市司法局党委委员、副局长		北京市司法局		2299
+王爱声		4		北京市		https://sfj.beijing.gov.cn/sfj/zwgk/sfjjs93/651831/index.html	北京市司法局党委委员、副局长		北京市司法局		2299
+谢向红		5		北京市		https://sfj.beijing.gov.cn/sfj/zwgk/sfjjs93/651831/index.html	北京市司法局党委委员、副局长		北京市司法局		2299
+崔冰		6		北京市		https://sfj.beijing.gov.cn/sfj/zwgk/sfjjs93/651831/index.html	北京市司法局党委委员、副局长		北京市司法局		2299
+张庆芬		7		北京市		https://sfj.beijing.gov.cn/sfj/zwgk/sfjjs93/651831/index.html	北京市司法局党委委员，中共北京市纪律检查委员会、北京市监察委员会驻北京市司法局纪检监察组组长、二级高级监察官		北京市司法局		2299
+林志炜		8		北京市		https://sfj.beijing.gov.cn/sfj/zwgk/sfjjs93/651831/index.html	北京市司法局保留副局长级待遇		北京市司法局		2299
+王群		9		北京市		https://sfj.beijing.gov.cn/sfj/zwgk/sfjjs93/651831/index.html	北京市司法局二级巡视员		北京市司法局		2299
+翟立国		10		北京市		https://sfj.beijing.gov.cn/sfj/zwgk/sfjjs93/651831/index.html	北京市司法局二级巡视员		北京市司法局		2299
+夏涛		11		北京市		https://sfj.beijing.gov.cn/sfj/zwgk/sfjjs93/651831/index.html	北京市司法局二级巡视员		北京市司法局		2299

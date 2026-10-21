@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周明洁		1		安徽省		https://ct.ah.gov.cn/public/column/6595841?type=4&action=list&nav=3&catId=6717535	党组书记、厅长		安徽省文化和旅游厅	https://ct.ah.gov.cn/public/6595841/8427228.html	0353
+李梅梅		2		安徽省		https://ct.ah.gov.cn/public/column/6595841?type=4&action=list&nav=3&catId=6717535	一级巡视员		安徽省文化和旅游厅	https://ct.ah.gov.cn/public/6595841/80774056.html	0353
+蔡小莉		3		安徽省		https://ct.ah.gov.cn/public/column/6595841?type=4&action=list&nav=3&catId=6717535	党组成员		安徽省文化和旅游厅	https://ct.ah.gov.cn/public/6595841/8427220.html	0353
+邵海卫		4		安徽省		https://ct.ah.gov.cn/public/column/6595841?type=4&action=list&nav=3&catId=6717535	党组成员、副厅长		安徽省文化和旅游厅	https://ct.ah.gov.cn/public/6595841/8771268.html	0353
+储晓焱		5		安徽省		https://ct.ah.gov.cn/public/column/6595841?type=4&action=list&nav=3&catId=6717535	党组成员、副厅长		安徽省文化和旅游厅	https://ct.ah.gov.cn/public/6595841/80780628.html	0353
+宋咏梅		6		安徽省		https://ct.ah.gov.cn/public/column/6595841?type=4&action=list&nav=3&catId=6717535	党组成员、省纪委监委驻厅纪检监察组组长		安徽省文化和旅游厅	https://ct.ah.gov.cn/public/6595841/8771653.html	0353
+胡敏		7		安徽省		https://ct.ah.gov.cn/public/column/6595841?type=4&action=list&nav=3&catId=6717535	党组成员、副厅长，省文物局局长		安徽省文化和旅游厅	https://ct.ah.gov.cn/public/6595841/80757900.html	0353
+唐志		8		安徽省		https://ct.ah.gov.cn/public/column/6595841?type=4&action=list&nav=3&catId=6717535	党组成员、副厅长，省广播电视局局长		安徽省文化和旅游厅	https://ct.ah.gov.cn/public/6595841/80784930.html	0353
+胡文生		9		安徽省		https://ct.ah.gov.cn/public/column/6595841?type=4&action=list&nav=3&catId=6717535	二级巡视员		安徽省文化和旅游厅	https://ct.ah.gov.cn/public/6595841/80591455.html	0353
+海燕		10		安徽省		https://ct.ah.gov.cn/public/column/6595841?type=4&action=list&nav=3&catId=6717535	二级巡视员		安徽省文化和旅游厅	https://ct.ah.gov.cn/public/6595841/8472542.html	0353
+杨正流		11		安徽省		https://ct.ah.gov.cn/public/column/6595841?type=4&action=list&nav=3&catId=6717535	二级巡视员		安徽省文化和旅游厅	https://ct.ah.gov.cn/public/6595841/80786926.html	0353

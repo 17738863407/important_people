@@ -1,0 +1,16 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蒋传海		1		上海市		https://www.ecust.edu.cn/xxldwxw/list.htm	党委书记		华东理工大学	https://www.ecust.edu.cn/2023/1207/c835a186479/page.htm	3636
+轩福贞		2		上海市		https://www.ecust.edu.cn/xxldwxw/list.htm	校长、党委副书记		华东理工大学	https://www.ecust.edu.cn/2020/1222/c836a186480/page.htm	3636
+宋来		3		上海市		https://www.ecust.edu.cn/xxldwxw/list.htm	党委副书记		华东理工大学	https://www.ecust.edu.cn/2019/0507/c837a186481/page.htm	3636
+沈海涛		4		上海市		https://www.ecust.edu.cn/xxldwxw/list.htm	党委副书记		华东理工大学	https://www.ecust.edu.cn/2022/0303/c837a186482/page.htm	3636
+龚跃		5		上海市		https://www.ecust.edu.cn/xxldwxw/list.htm	党委副书记、纪委书记		华东理工大学	https://www.ecust.edu.cn/2023/1023/c837a186483/page.htm	3636
+李涛		6		上海市		https://www.ecust.edu.cn/xxldwxw/list.htm	党委常委、副校长		华东理工大学	https://www.ecust.edu.cn/2019/0507/c838a186484/page.htm	3636
+王慧锋		7		上海市		https://www.ecust.edu.cn/xxldwxw/list.htm	党委常委、副校长		华东理工大学	https://www.ecust.edu.cn/2019/0507/c838a186485/page.htm	3636
+朱为宏		8		上海市		https://www.ecust.edu.cn/xxldwxw/list.htm	党委常委、副校长		华东理工大学	https://www.ecust.edu.cn/2021/0302/c838a186486/page.htm	3636
+阎海峰		9		上海市		https://www.ecust.edu.cn/xxldwxw/list.htm	党委常委、副校长		华东理工大学	https://www.ecust.edu.cn/2022/0303/c838a186487/page.htm	3636
+李剑		10		上海市		https://www.ecust.edu.cn/xxldwxw/list.htm	党委常委、副校长		华东理工大学	https://www.ecust.edu.cn/2022/0303/c838a186488/page.htm	3636
+李春忠		11		上海市		https://www.ecust.edu.cn/xxldwxw/list.htm	副校长		华东理工大学	https://www.ecust.edu.cn/2024/0715/c838a186489/page.htm	3636
+赵黎明		12		上海市		https://www.ecust.edu.cn/xxldwxw/list.htm	党委常委、副校长		华东理工大学	https://www.ecust.edu.cn/2024/0715/c838a186490/page.htm	3636
+夏江雯		13		上海市		https://www.ecust.edu.cn/xxldwxw/list.htm	党委常委、组织部部长		华东理工大学	https://www.ecust.edu.cn/2019/0508/c840a186503/page.htm	3636
+柴华		14		上海市		https://www.ecust.edu.cn/xxldwxw/list.htm	党委常委、宣传部部长		华东理工大学	https://www.ecust.edu.cn/2019/0508/c840a186724/page.htm	3636
+杜文莉		15		上海市		https://www.ecust.edu.cn/xxldwxw/list.htm	校长助理		华东理工大学	https://www.ecust.edu.cn/2024/1108/c841a186504/page.htm	3636

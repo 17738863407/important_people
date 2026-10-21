@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李广庆		1		江苏省	南京市	https://safety.nanjing.gov.cn/njsaqscjdglj/?id=xxgk_215	党委书记、局长		南京市应急管理局		2230
+严卫国		2		江苏省	南京市	https://safety.nanjing.gov.cn/njsaqscjdglj/?id=xxgk_215	党委委员、副局长		南京市应急管理局		2230
+杨维国		3		江苏省	南京市	https://safety.nanjing.gov.cn/njsaqscjdglj/?id=xxgk_215	党委委员、副局长、市安全生产委员会办公室副主任		南京市应急管理局		2230
+韩成颂		4		江苏省	南京市	https://safety.nanjing.gov.cn/njsaqscjdglj/?id=xxgk_215	党委委员、副局长		南京市应急管理局		2230
+曹镇		5		江苏省	南京市	https://safety.nanjing.gov.cn/njsaqscjdglj/?id=xxgk_215	党委委员、市应急管理综合行政执法总队总队长		南京市应急管理局		2230
+戴连栋		6		江苏省	南京市	https://safety.nanjing.gov.cn/njsaqscjdglj/?id=xxgk_215	市水务局党组成员、副局长兼市应急管理局副局长		南京市应急管理局		2230
+郭燕秋		7		江苏省	南京市	https://safety.nanjing.gov.cn/njsaqscjdglj/?id=xxgk_215	党委委员、副局长		南京市应急管理局		2230
+王笑天		8		江苏省	南京市	https://safety.nanjing.gov.cn/njsaqscjdglj/?id=xxgk_215	一级调研员		南京市应急管理局		2230
+卞家文		9		江苏省	南京市	https://safety.nanjing.gov.cn/njsaqscjdglj/?id=xxgk_215	一级调研员		南京市应急管理局		2230

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王凡		1		全国		https://qdio.cas.cn/2019Ver/Overview/Leader/	所长		中国科学院海洋研究所	https://qdio.cas.cn/2019Ver/Overview/Leader/201912/t20191230_5478210.html	4084
+王辉		2		全国		https://qdio.cas.cn/2019Ver/Overview/Leader/	党委书记、副所长		中国科学院海洋研究所	https://qdio.cas.cn/2019Ver/Overview/Leader/201912/t20191230_5478209.html	4084
+毕伟		3		全国		https://qdio.cas.cn/2019Ver/Overview/Leader/	党委副书记、纪委书记		中国科学院海洋研究所	https://qdio.cas.cn/2019Ver/Overview/Leader/201912/t20191230_5478207.html	4084
+沙忠利		4		全国		https://qdio.cas.cn/2019Ver/Overview/Leader/	副所长		中国科学院海洋研究所	https://qdio.cas.cn/2019Ver/Overview/Leader/202209/t20220901_6508030.html	4084
+万世明		5		全国		https://qdio.cas.cn/2019Ver/Overview/Leader/	副所长		中国科学院海洋研究所	https://qdio.cas.cn/2019Ver/Overview/Leader/202405/t20240521_7166658.html	4084

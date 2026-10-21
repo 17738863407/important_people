@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+艾红锷		1		辽宁省		https://ysj.ln.gov.cn/ysj/zfxxgk/zfxxgkzd/jgjj/index.shtml	党组书记、局长		辽宁省数据局（辽宁省营商环境建设局）	https://ysj.ln.gov.cn/ysj/zfxxgk/zfxxgkzd/jgjj/bmld/2024102914060063704/index.shtml	3284
+曲华锋		2		辽宁省		https://ysj.ln.gov.cn/ysj/zfxxgk/zfxxgkzd/jgjj/index.shtml	党组成员、副局长		辽宁省数据局（辽宁省营商环境建设局）	https://ysj.ln.gov.cn/ysj/zfxxgk/zfxxgkzd/jgjj/bmld/2022032513164569498/index.shtml	3284
+于冰		3		辽宁省		https://ysj.ln.gov.cn/ysj/zfxxgk/zfxxgkzd/jgjj/index.shtml	党组成员、副局长		辽宁省数据局（辽宁省营商环境建设局）	https://ysj.ln.gov.cn/ysj/zfxxgk/zfxxgkzd/jgjj/bmld/2022062810003964213/index.shtml	3284
+杨松涛		4		辽宁省		https://ysj.ln.gov.cn/ysj/zfxxgk/zfxxgkzd/jgjj/index.shtml	党组成员、副局长		辽宁省数据局（辽宁省营商环境建设局）	https://ysj.ln.gov.cn/ysj/zfxxgk/zfxxgkzd/jgjj/bmld/2024061115143063521/index.shtml	3284

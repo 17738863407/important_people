@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+闫继红		1		河北省	保定市	https://www.baoding.gov.cn/ejszzc-1451-315521.html	市长		保定市人民政府		3801
+张抗震		2		河北省	保定市	https://www.baoding.gov.cn/ejszzc-1451-315521.html	常务副市长		保定市人民政府	https://www.baoding.gov.cn/ejszzc-1451-501555.html	3801
+刘晓萌		3		河北省	保定市	https://www.baoding.gov.cn/ejszzc-1451-315521.html	副市长		保定市人民政府	https://www.baoding.gov.cn/ejszzc-1451-419092.html	3801
+陈江河		4		河北省	保定市	https://www.baoding.gov.cn/ejszzc-1451-315521.html	副市长		保定市人民政府	https://www.baoding.gov.cn/ejszzc-1451-537337.html	3801
+高飞		5		河北省	保定市	https://www.baoding.gov.cn/ejszzc-1451-315521.html	副市长		保定市人民政府	https://www.baoding.gov.cn/ejszzc-1451-382062.html	3801
+刘相伟		6		河北省	保定市	https://www.baoding.gov.cn/ejszzc-1451-315521.html	副市长		保定市人民政府	https://www.baoding.gov.cn/ejszzc-1451-540090.html	3801
+屈国治		7		河北省	保定市	https://www.baoding.gov.cn/ejszzc-1451-315521.html	副市长		保定市人民政府	https://www.baoding.gov.cn/ejszzc-1451-540091.html	3801
+李志永		8		河北省	保定市	https://www.baoding.gov.cn/ejszzc-1451-315521.html	秘书长		保定市人民政府	https://www.baoding.gov.cn/ejszzc-1451-538378.html	3801

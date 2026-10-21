@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邓立松		1		海南省		http://iitb.hainan.gov.cn/iitb/jgjs/jgjslist.shtml?ddtab=true	党组书记、厅长		海南省工业和信息化厅	http://iitb.hainan.gov.cn/iitb/0103/202302/a7e898793b7243598c9948f6b50b723f.shtml	1089
+王媛		2		海南省		http://iitb.hainan.gov.cn/iitb/jgjs/jgjslist.shtml?ddtab=true	党组成员、副厅长		海南省工业和信息化厅	http://iitb.hainan.gov.cn/iitb/0103/202006/32fd1da2ffb94b5c86d6f414f7f4ab42.shtml	1089
+王文波		3		海南省		http://iitb.hainan.gov.cn/iitb/jgjs/jgjslist.shtml?ddtab=true	党组成员、副厅长		海南省工业和信息化厅	http://iitb.hainan.gov.cn/iitb/0103/202212/734b944d9b794af38bc811c3461289aa.shtml	1089
+贾宏伟		4		海南省		http://iitb.hainan.gov.cn/iitb/jgjs/jgjslist.shtml?ddtab=true	党组成员、副厅长		海南省工业和信息化厅	http://iitb.hainan.gov.cn/iitb/0103/202511/43b6a46c00624e4ea5a83ac3a2cf4d64.shtml	1089
+王秀好		5		海南省		http://iitb.hainan.gov.cn/iitb/jgjs/jgjslist.shtml?ddtab=true	党组成员、副厅长		海南省工业和信息化厅	http://iitb.hainan.gov.cn/iitb/0103/202311/e87be32362e24674ac7afc356e5cfcb4.shtml	1089
+黄文聪		6		海南省		http://iitb.hainan.gov.cn/iitb/jgjs/jgjslist.shtml?ddtab=true	党组成员、副厅长		海南省工业和信息化厅	http://iitb.hainan.gov.cn/iitb/0103/202406/3f5ba40bb2b344eca63073401f5f2112.shtml	1089
+吴庆福		7		海南省		http://iitb.hainan.gov.cn/iitb/jgjs/jgjslist.shtml?ddtab=true	纪检监察组组长、党组成员		海南省工业和信息化厅	http://iitb.hainan.gov.cn/iitb/0103/202510/0232f1a0b84c4d589bf437f8bf6a6de7.shtml	1089

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵永清		1		全国		https://www.gzszx.gov.cn/zxgk/wyzc/szxld/index.shtml	主席		贵州省政协		0813
+赵德明		2		全国		https://www.gzszx.gov.cn/zxgk/wyzc/szxld/index.shtml	副主席		贵州省政协		0813
+胡忠雄		3		全国		https://www.gzszx.gov.cn/zxgk/wyzc/szxld/index.shtml	副主席		贵州省政协		0813
+孙诚谊		4		全国		https://www.gzszx.gov.cn/zxgk/wyzc/szxld/index.shtml	副主席		贵州省政协		0813
+张光奇		5		全国		https://www.gzszx.gov.cn/zxgk/wyzc/szxld/index.shtml	副主席		贵州省政协		0813
+李建		6		全国		https://www.gzszx.gov.cn/zxgk/wyzc/szxld/index.shtml	副主席		贵州省政协		0813
+冉霞		7		全国		https://www.gzszx.gov.cn/zxgk/wyzc/szxld/index.shtml	副主席		贵州省政协		0813
+石化清		8		全国		https://www.gzszx.gov.cn/zxgk/wyzc/szxld/index.shtml	副主席		贵州省政协		0813
+孙发		9		全国		https://www.gzszx.gov.cn/zxgk/wyzc/szxld/index.shtml	副主席		贵州省政协		0813

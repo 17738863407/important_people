@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郭飞		1		山东省	济宁市	https://www.jining.gov.cn/col/col2523/index.html	市长		济宁市人民政府	https://www.jining.gov.cn/col/col109950/index.html	3844
+刘东波		2		山东省	济宁市	https://www.jining.gov.cn/col/col2523/index.html	副市长		济宁市人民政府	https://www.jining.gov.cn/col/col77008/index.html	3844
+张东		3		山东省	济宁市	https://www.jining.gov.cn/col/col2523/index.html	副市长		济宁市人民政府	https://www.jining.gov.cn/col/col76630/index.html	3844
+宫晓芳		4		山东省	济宁市	https://www.jining.gov.cn/col/col2523/index.html	副市长		济宁市人民政府	https://www.jining.gov.cn/col/col76631/index.html	3844
+张大勇		5		山东省	济宁市	https://www.jining.gov.cn/col/col2523/index.html	副市长		济宁市人民政府	https://www.jining.gov.cn/col/col108527/index.html	3844
+李丽		6		山东省	济宁市	https://www.jining.gov.cn/col/col2523/index.html	副市长		济宁市人民政府	https://www.jining.gov.cn/col/col108037/index.html	3844
+李天东		7		山东省	济宁市	https://www.jining.gov.cn/col/col2523/index.html	副市长		济宁市人民政府	https://www.jining.gov.cn/col/col108208/index.html	3844
+王庆		8		山东省	济宁市	https://www.jining.gov.cn/col/col2523/index.html	副市长		济宁市人民政府	https://www.jining.gov.cn/col/col109204/index.html	3844
+张斌举		9		山东省	济宁市	https://www.jining.gov.cn/col/col2523/index.html	秘书长		济宁市人民政府	https://www.jining.gov.cn/col/col108210/index.html	3844

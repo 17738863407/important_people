@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王惠莲		1		辽宁省		https://gzw.ln.gov.cn/gzw/wzsy/zfxx/zfxxnb/jgjj/index.shtml	党委书记、主任		辽宁省人民政府国有资产监督管理委员会	https://gzw.ln.gov.cn/gzw/wzsy/zfxx/zfxxnb/jgjj/bmld/2025120211465831302/index.shtml	0840
+胡洋		2		辽宁省		https://gzw.ln.gov.cn/gzw/wzsy/zfxx/zfxxnb/jgjj/index.shtml	党委委员、副主任		辽宁省人民政府国有资产监督管理委员会	https://gzw.ln.gov.cn/gzw/wzsy/zfxx/zfxxnb/jgjj/bmld/2022060817231913760/index.shtml	0840
+张艺		3		辽宁省		https://gzw.ln.gov.cn/gzw/wzsy/zfxx/zfxxnb/jgjj/index.shtml	党委委员 副主任		辽宁省人民政府国有资产监督管理委员会	https://gzw.ln.gov.cn/gzw/wzsy/zfxx/zfxxnb/jgjj/bmld/2025011610265986590/index.shtml	0840
+宋旭涤		4		辽宁省		https://gzw.ln.gov.cn/gzw/wzsy/zfxx/zfxxnb/jgjj/index.shtml	党委委员、副主任		辽宁省人民政府国有资产监督管理委员会	https://gzw.ln.gov.cn/gzw/wzsy/zfxx/zfxxnb/jgjj/bmld/2023101318001472227/index.shtml	0840
+王伟		5		辽宁省		https://gzw.ln.gov.cn/gzw/wzsy/zfxx/zfxxnb/jgjj/index.shtml	党委委员、副主任		辽宁省人民政府国有资产监督管理委员会	https://gzw.ln.gov.cn/gzw/wzsy/zfxx/zfxxnb/jgjj/bmld/2024082214151261745/index.shtml	0840
+宋广奇		6		辽宁省		https://gzw.ln.gov.cn/gzw/wzsy/zfxx/zfxxnb/jgjj/index.shtml	党委委员、副主任		辽宁省人民政府国有资产监督管理委员会	https://gzw.ln.gov.cn/gzw/wzsy/zfxx/zfxxnb/jgjj/bmld/2026070908470789644/index.shtml	0840
+卞和营		7		辽宁省		https://gzw.ln.gov.cn/gzw/wzsy/zfxx/zfxxnb/jgjj/index.shtml	省纪委监委驻省国资委纪检监察组组长、党委委员、二级高级监察官		辽宁省人民政府国有资产监督管理委员会	https://gzw.ln.gov.cn/gzw/wzsy/zfxx/zfxxnb/jgjj/bmld/2024102919122913920/index.shtml	0840
+孙石栋		8		辽宁省		https://gzw.ln.gov.cn/gzw/wzsy/zfxx/zfxxnb/jgjj/index.shtml	党委委员 副主任		辽宁省人民政府国有资产监督管理委员会	https://gzw.ln.gov.cn/gzw/wzsy/zfxx/zfxxnb/jgjj/bmld/2025080110132814130/index.shtml	0840

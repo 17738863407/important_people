@@ -1,0 +1,22 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王卫安		1		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府党组成员、秘书长，办公厅党组书记		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/202603/t20260321_33938880.html	1074
+周运平		2		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府副秘书长，办公厅主任、党组副书记，研究室主任，参事室主任		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/202109/t20210930_20689440.html	1074
+熊炜		3		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府副秘书长，办公厅党组成员		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/202605/t20260506_33970395.html	1074
+陈章杰		4		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府副秘书长，办公厅党组成员		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/202401/t20240126_32635534.html	1074
+吴志雄		5		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府副秘书长，办公厅党组成员		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/202601/t20260106_33887861.html	1074
+杨通远		6		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府副秘书长，办公厅党组成员		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/201901/t20190104_5271436.html	1074
+徐林军		7		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府副秘书长，办公厅党组成员		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/202109/t20210915_20586466.html	1074
+颜和平		8		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府副秘书长，办公厅党组成员		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/202601/t20260106_33887863.html	1074
+季心诠		9		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府办公厅一级巡视员		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/201708/t20170815_4877689.html	1074
+鹿山		10		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府办公厅一级巡视员		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/202401/t20240126_32635537.html	1074
+陈荣伟		11		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府办公厅一级巡视员		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/202606/t20260605_33994442.html	1074
+罗国宇		12		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府办公厅副主任、党组成员		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/202608/t20260826_34051438.html	1074
+金璐璐		13		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府办公厅副主任、党组成员		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/202111/t20211118_21107673.html	1074
+田自成		14		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府办公厅党组成员、省纪委省监委驻省人民政府办公厅纪检监察组组长、二级高级监察官		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/202406/t20240621_33333727.html	1074
+周新庄		15		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府办公厅副主任、党组成员		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/202406/t20240621_33333736.html	1074
+王凯		16		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府办公厅副主任、党组成员		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/202503/t20250305_33603263.html	1074
+韩毅		17		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府办公厅副主任、党组成员		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/202601/t20260106_33887865.html	1074
+贺智昕		18		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府研究室副主任		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/202406/t20240621_33333740.html	1074
+吴振环		19		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府办公厅副厅级督查专员		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/202408/t20240816_33433005.html	1074
+刘明发		20		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府研究室副主任		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/202601/t20260106_33887866.html	1074
+艾斌		21		湖南省		https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/bgt_rb.html	省人民政府办公厅副厅级督查专员		湖南省人民政府办公厅	https://www.hunan.gov.cn/hnszf/szf/zfjg/szfbgt/ldjj/202605/t20260528_33989256.html	1074

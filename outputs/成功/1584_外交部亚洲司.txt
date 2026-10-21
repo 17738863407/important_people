@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+沈敏娟		1		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/yzs_673193/	司长		外交部亚洲司		1584
+梁建军		2		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/yzs_673193/	副司长		外交部亚洲司		1584
+董凤鸣		3		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/yzs_673193/	副司长		外交部亚洲司		1584
+韩梅		4		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/yzs_673193/	副司长		外交部亚洲司		1584
+方坤		5		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/yzs_673193/	副司长		外交部亚洲司		1584
+曹静		6		全国		https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/yzs_673193/	副司长		外交部亚洲司		1584

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王伟		1		宁夏回族自治区		https://kjt.nx.gov.cn/zzjg/ldjj/	党组书记、厅长		宁夏回族自治区科学技术厅	https://kjt.nx.gov.cn/zzjg/ldjj/202412/t20241231_4776492.html	1386
+洪涛		2		宁夏回族自治区		https://kjt.nx.gov.cn/zzjg/ldjj/	党组成员、副厅长		宁夏回族自治区科学技术厅	https://kjt.nx.gov.cn/zzjg/ldjj/202507/t20250711_4958876.html	1386
+陈放		3		宁夏回族自治区		https://kjt.nx.gov.cn/zzjg/ldjj/	党组成员、副厅长		宁夏回族自治区科学技术厅	https://kjt.nx.gov.cn/zzjg/ldjj/202112/t20211216_3534533.html	1386
+马龙		4		宁夏回族自治区		https://kjt.nx.gov.cn/zzjg/ldjj/	党组成员、副厅长		宁夏回族自治区科学技术厅	https://kjt.nx.gov.cn/zzjg/ldjj/202409/t20240904_4645820.html	1386
+王成		5		宁夏回族自治区		https://kjt.nx.gov.cn/zzjg/ldjj/	党组成员、驻厅纪检监察组组长		宁夏回族自治区科学技术厅	https://kjt.nx.gov.cn/zzjg/ldjj/202410/t20241022_4703841.html	1386
+马俊超		6		宁夏回族自治区		https://kjt.nx.gov.cn/zzjg/ldjj/	副厅长		宁夏回族自治区科学技术厅	https://kjt.nx.gov.cn/zzjg/ldjj/202412/t20241231_4776497.html	1386
+马小明		7		宁夏回族自治区		https://kjt.nx.gov.cn/zzjg/ldjj/	二级巡视员		宁夏回族自治区科学技术厅	https://kjt.nx.gov.cn/zzjg/ldjj/202412/t20241231_4775733.html	1386

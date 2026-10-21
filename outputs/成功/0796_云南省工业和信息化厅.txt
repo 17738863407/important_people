@@ -1,0 +1,16 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周踊		1		云南省		https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	云南省工业和信息化厅党组书记、厅长，省中小企业局局长，省无线电管理办公室主任，省委军民融合发展委员会办公室常务副主任（兼），省委非公有制经济组织和社会组织工作委员会副书记（兼）		云南省工业和信息化厅	https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202411/t20241105_2649529.html	0796
+赵碧原		2		云南省		https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	云南省工业和信息化厅党组副书记、副厅长		云南省工业和信息化厅	https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202512/t20251212_3815644.html	0796
+浦丽合		3		云南省		https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	云南省工业和信息化厅党组成员、副厅长,一级巡视员		云南省工业和信息化厅	https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/201904/t20190415_2649517.html	0796
+姚翔		4		云南省		https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	云南省工业和信息化厅党组成员，省委军民融合发展委员会办公室副主任，省国防科技工业局局长		云南省工业和信息化厅	https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/201904/t20190415_2649515.html	0796
+李艳		5		云南省		https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	云南省工业和信息化厅党组成员、副厅长		云南省工业和信息化厅	https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/201905/t20190527_2649518.html	0796
+柯顺昌		6		云南省		https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	云南省工业和信息化厅党组成员、省纪委监委驻省工业和信息化厅纪检监察组组长，二级高级监察官		云南省工业和信息化厅	https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202408/t20240802_2649522.html	0796
+薛贵辉		7		云南省		https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	云南省工业和信息化厅党组成员、副厅长		云南省工业和信息化厅	https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202404/t20240430_2649520.html	0796
+陇玉		8		云南省		https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	云南省工业和信息化厅副厅长（试用期）		云南省工业和信息化厅	https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202408/t20240829_2649523.html	0796
+高萍		9		云南省		https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	云南省工业和信息化厅党组成员（挂职二年）		云南省工业和信息化厅	https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202405/t20240509_2649521.html	0796
+毕书明		10		云南省		https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	云南省工业和信息化厅总工程师		云南省工业和信息化厅	https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202410/t20241012_2649524.html	0796
+谭枚春		11		云南省		https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	云南省工业和信息化厅总经济师		云南省工业和信息化厅	https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202609/t20260915_4333228.html	0796
+陈幸子		12		云南省		https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	云南省工业和信息化厅二级巡视员		云南省工业和信息化厅	https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202410/t20241012_2649527.html	0796
+黄育新		13		云南省		https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	云南省工业和信息化厅二级巡视员		云南省工业和信息化厅	https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202410/t20241012_2649528.html	0796
+杨晓明		14		云南省		https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	云南省工业和信息化厅二级巡视员		云南省工业和信息化厅	https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202410/t20241012_2649526.html	0796
+曹立芳		15		云南省		https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/	云南省工业和信息化厅二级巡视员		云南省工业和信息化厅	https://gxt.yn.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/202010/t20201012_3815645.html	0796

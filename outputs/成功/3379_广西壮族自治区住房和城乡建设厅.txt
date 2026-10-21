@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+梁磊		1		广西壮族自治区		http://zjt.gxzf.gov.cn/zfxxgk/fdzdgknr/jgjs/ldjs/	党组书记		广西壮族自治区住房和城乡建设厅	http://zjt.gxzf.gov.cn/zfxxgk/fdzdgknr/jgjs/ldjs/t27965381.shtml	3379
+龙杏华		2		广西壮族自治区		http://zjt.gxzf.gov.cn/zfxxgk/fdzdgknr/jgjs/ldjs/	厅长		广西壮族自治区住房和城乡建设厅	http://zjt.gxzf.gov.cn/zfxxgk/fdzdgknr/jgjs/ldjs/t27966877.shtml	3379
+朱胜勇		3		广西壮族自治区		http://zjt.gxzf.gov.cn/zfxxgk/fdzdgknr/jgjs/ldjs/	党组成员、驻厅纪检监察组组长		广西壮族自治区住房和城乡建设厅	http://zjt.gxzf.gov.cn/zfxxgk/fdzdgknr/jgjs/ldjs/t27793840.shtml	3379
+杨栋		4		广西壮族自治区		http://zjt.gxzf.gov.cn/zfxxgk/fdzdgknr/jgjs/ldjs/	副厅长、总工程师		广西壮族自治区住房和城乡建设厅	http://zjt.gxzf.gov.cn/zfxxgk/fdzdgknr/jgjs/ldjs/t4163533.shtml	3379
+刘哲		5		广西壮族自治区		http://zjt.gxzf.gov.cn/zfxxgk/fdzdgknr/jgjs/ldjs/	党组成员、副厅长		广西壮族自治区住房和城乡建设厅	http://zjt.gxzf.gov.cn/zfxxgk/fdzdgknr/jgjs/ldjs/t18975189.shtml	3379
+于斌		6		广西壮族自治区		http://zjt.gxzf.gov.cn/zfxxgk/fdzdgknr/jgjs/ldjs/	党组成员、副厅长		广西壮族自治区住房和城乡建设厅	http://zjt.gxzf.gov.cn/zfxxgk/fdzdgknr/jgjs/ldjs/t19470767.shtml	3379
+崔磊		7		广西壮族自治区		http://zjt.gxzf.gov.cn/zfxxgk/fdzdgknr/jgjs/ldjs/	党组成员、副厅长		广西壮族自治区住房和城乡建设厅	http://zjt.gxzf.gov.cn/zfxxgk/fdzdgknr/jgjs/ldjs/t26202211.shtml	3379

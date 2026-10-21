@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李超伦		1		全国		https://scsio.cas.cn/about/xrld/	所长		中国科学院南海海洋研究所		4118
+张海祥		2		全国		https://scsio.cas.cn/about/xrld/	党委书记、副所长		中国科学院南海海洋研究所		4118
+代亮		3		全国		https://scsio.cas.cn/about/xrld/	党委副书记、纪委书记		中国科学院南海海洋研究所		4118
+张长生		4		全国		https://scsio.cas.cn/about/xrld/	副所长		中国科学院南海海洋研究所		4118
+林强		5		全国		https://scsio.cas.cn/about/xrld/	副所长		中国科学院南海海洋研究所		4118

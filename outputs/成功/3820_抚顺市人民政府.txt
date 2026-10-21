@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王庆海		1		辽宁省	抚顺市	https://www.fushun.gov.cn/zwgk/002002/govInfoPub_leader.html	市长		抚顺市人民政府	https://www.fushun.gov.cn/zwgk/002001/002001001/002001001001/leader.html	3820
+杨洪波		2		辽宁省	抚顺市	https://www.fushun.gov.cn/zwgk/002002/govInfoPub_leader.html	副市长		抚顺市人民政府	https://www.fushun.gov.cn/zwgk/002001/002001002/002001002011/leader.html	3820
+吴杰		3		辽宁省	抚顺市	https://www.fushun.gov.cn/zwgk/002002/govInfoPub_leader.html	副市长		抚顺市人民政府	http://www.fushun.gov.cn/zwgk/002001/002001002/002001002003/leader.html	3820
+张君昶		4		辽宁省	抚顺市	https://www.fushun.gov.cn/zwgk/002002/govInfoPub_leader.html	副市长		抚顺市人民政府	https://www.fushun.gov.cn/zwgk/002001/002001002/002001002008/leader.html	3820
+战巍		5		辽宁省	抚顺市	https://www.fushun.gov.cn/zwgk/002002/govInfoPub_leader.html	副市长		抚顺市人民政府	http://www.fushun.gov.cn/zwgk/002001/002001002/002001002010/leader.html	3820
+肖寒		6		辽宁省	抚顺市	https://www.fushun.gov.cn/zwgk/002002/govInfoPub_leader.html	副市长		抚顺市人民政府	https://www.fushun.gov.cn/zwgk/002001/002001002/002001002007/leader.html	3820
+谢恺		7		辽宁省	抚顺市	https://www.fushun.gov.cn/zwgk/002002/govInfoPub_leader.html	副市长		抚顺市人民政府	http://www.fushun.gov.cn/zwgk/002001/002001002/002001002009/leader.html	3820
+张美华		8		辽宁省	抚顺市	https://www.fushun.gov.cn/zwgk/002002/govInfoPub_leader.html	副市长		抚顺市人民政府	http://www.fushun.gov.cn/zwgk/002001/002001002/002001002004/leader.html	3820
+程永亮		9		辽宁省	抚顺市	https://www.fushun.gov.cn/zwgk/002002/govInfoPub_leader.html	副市长		抚顺市人民政府	http://www.fushun.gov.cn/zwgk/002001/002001002/002001002005/leader.html	3820
+王金华		10		辽宁省	抚顺市	https://www.fushun.gov.cn/zwgk/002002/govInfoPub_leader.html	一级巡视员		抚顺市人民政府	https://www.fushun.gov.cn/zwgk/002001/002001005/002001005001/leader.html	3820
+张文献		11		辽宁省	抚顺市	https://www.fushun.gov.cn/zwgk/002002/govInfoPub_leader.html	秘书长		抚顺市人民政府	https://www.fushun.gov.cn/zwgk/002001/002001003/002001003001/leader.html	3820

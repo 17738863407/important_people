@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张鹏		1		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200806_4673580.html	党委书记；中心主任		中国气象局气象探测中心		3735
+李洪臣		2		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200806_4673580.html	党委副书记；纪委书记		中国气象局气象探测中心		3735
+宏观		3		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200806_4673580.html	中心副主任		中国气象局气象探测中心		3735
+邵楠		4		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200806_4673580.html	中心副主任		中国气象局气象探测中心		3735
+张雪芬		5		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200806_4673580.html	中心副主任		中国气象局气象探测中心		3735
+雷勇		6		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/zsdw/202008/t20200806_4673580.html	总工程师		中国气象局气象探测中心		3735

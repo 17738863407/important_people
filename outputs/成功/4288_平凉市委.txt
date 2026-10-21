@@ -1,0 +1,13 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+唐培宏		1		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	市委书记		平凉市委	https://www.pingliang.gov.cn/lmtj/ldzc/swld/tph/index.html	4288
+李荣		2		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	市委副书记		平凉市委	https://www.pingliang.gov.cn/lmtj/ldzc/swld/lr/index.html	4288
+刘国军		3		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	市委副书记		平凉市委	https://www.pingliang.gov.cn/lmtj/ldzc/szfld/lgj/index.html	4288
+寇正德		4		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	市委常委		平凉市委	https://www.pingliang.gov.cn/lmtj/ldzc/szfld/kzd/index.html	4288
+王锦玉		5		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	市委常委		平凉市委	https://www.pingliang.gov.cn/lmtj/ldzc/swld/lm/index.html	4288
+魏至玉		6		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	市委常委		平凉市委	https://www.pingliang.gov.cn/lmtj/ldzc/swld/wzy/index.html	4288
+何鹏峰		7		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	市委常委		平凉市委	https://www.pingliang.gov.cn/lmtj/ldzc/szfld/wj/index.html	4288
+马世友		8		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	市委常委		平凉市委	https://www.pingliang.gov.cn/lmtj/ldzc/szfld/msy/index.html	4288
+孟晓龙		9		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	市委常委；市委秘书长		平凉市委	https://www.pingliang.gov.cn/lmtj/ldzc/swld/mxl/index.html	4288
+穆冬梅		10		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	市委常委		平凉市委	https://www.pingliang.gov.cn/lmtj/ldzc/swld/mdm/index.html	4288
+李银		11		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	市委常委		平凉市委	https://www.pingliang.gov.cn/lmtj/ldzc/szfld/ly/index.html	4288
+魏政		12		甘肃省	平凉市	https://www.pingliang.gov.cn/lmtj/ldzc/index.html	市委常委		平凉市委	https://www.pingliang.gov.cn/lmtj/ldzc/szfld/wz/index.html	4288

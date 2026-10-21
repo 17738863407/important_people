@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+查显友		1		北京市		https://www.muc.edu.cn/xxgk1/xrld.htm	国家民族事务委员会副主任、党组成员，中央民族大学党委书记		中央民族大学	https://www.muc.edu.cn/info/1390/29758.htm	1705
+强世功		2		北京市		https://www.muc.edu.cn/xxgk1/xrld.htm	中央民族大学党委副书记、校长		中央民族大学	https://www.muc.edu.cn/info/1410/25478.htm	1705
+杨慕云		3		北京市		https://www.muc.edu.cn/xxgk1/xrld.htm	中央民族大学党委副书记、副校长		中央民族大学	https://www.muc.edu.cn/info/1480/25538.htm	1705
+王雄军		4		北京市		https://www.muc.edu.cn/xxgk1/xrld.htm	中央民族大学党委副书记、副校长		中央民族大学	https://www.muc.edu.cn/info/1520/31848.htm	1705
+马林涛		5		北京市		https://www.muc.edu.cn/xxgk1/xrld.htm	中央民族大学党委常委、副校长		中央民族大学	https://www.muc.edu.cn/info/1530/33268.htm	1705
+甘明刚		6		北京市		https://www.muc.edu.cn/xxgk1/xrld.htm	中央民族大学党委常委、副校长		中央民族大学	https://www.muc.edu.cn/info/1540/33278.htm	1705
+彭勇		7		北京市		https://www.muc.edu.cn/xxgk1/xrld.htm	中央民族大学党委常委、副校长		中央民族大学	https://www.muc.edu.cn/info/1760/45048.htm	1705
+赵丽芳		8		北京市		https://www.muc.edu.cn/xxgk1/xrld.htm	中央民族大学党委常委、副校长		中央民族大学	https://www.muc.edu.cn/info/1780/48928.htm	1705
+张浩		9		北京市		https://www.muc.edu.cn/xxgk1/xrld.htm	中央民族大学党委常委、纪委书记		中央民族大学	https://www.muc.edu.cn/info/1500/52348.htm	1705
+姚佳琳		10		北京市		https://www.muc.edu.cn/xxgk1/xrld.htm	中央民族大学党委常委、总会计师		中央民族大学	https://www.muc.edu.cn/info/1440/38758.htm	1705

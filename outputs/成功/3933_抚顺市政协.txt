@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+于万军		1		辽宁省	抚顺市	http://www.fsszx.gov.cn/ins.asp?s=12&i=3356	主席		抚顺市政协		3933
+陶桂芳		2		辽宁省	抚顺市	http://www.fsszx.gov.cn/ins.asp?s=12&i=3356	副主席		抚顺市政协		3933
+赵佼		3		辽宁省	抚顺市	http://www.fsszx.gov.cn/ins.asp?s=12&i=3356	副主席		抚顺市政协		3933
+王文晶		4		辽宁省	抚顺市	http://www.fsszx.gov.cn/ins.asp?s=12&i=3356	副主席		抚顺市政协		3933
+段晓云		5		辽宁省	抚顺市	http://www.fsszx.gov.cn/ins.asp?s=12&i=3356	副主席		抚顺市政协		3933
+顾建锋		6		辽宁省	抚顺市	http://www.fsszx.gov.cn/ins.asp?s=12&i=3356	副主席		抚顺市政协		3933
+韩学军		7		辽宁省	抚顺市	http://www.fsszx.gov.cn/ins.asp?s=12&i=3356	副主席		抚顺市政协		3933
+张敏		8		辽宁省	抚顺市	http://www.fsszx.gov.cn/ins.asp?s=12&i=3356	副主席		抚顺市政协		3933
+张良玉		9		辽宁省	抚顺市	http://www.fsszx.gov.cn/ins.asp?s=12&i=3356	秘书长		抚顺市政协		3933
+董政伟		10		辽宁省	抚顺市	http://www.fsszx.gov.cn/ins.asp?s=12&i=3356	副秘书长		抚顺市政协		3933

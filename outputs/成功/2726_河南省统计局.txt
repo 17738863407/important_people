@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王旭		1		河南省		https://tjj.henan.gov.cn/zjtj/zyld/	河南省统计局党组书记、局长		河南省统计局	http://tjj.henan.gov.cn/2025/03-04/3130980.html	2726
+徐良		2		河南省		https://tjj.henan.gov.cn/zjtj/zyld/	河南省统计局党组成员、副局长		河南省统计局	http://tjj.henan.gov.cn/2023/01-18/2675567.html	2726
+安巧枝		3		河南省		https://tjj.henan.gov.cn/zjtj/zyld/	河南省统计局副局长、一级巡视员		河南省统计局	http://tjj.henan.gov.cn/2023/01-18/2675560.html	2726
+李鑫		4		河南省		https://tjj.henan.gov.cn/zjtj/zyld/	河南省统计局党组成员、副局长		河南省统计局	http://tjj.henan.gov.cn/2023/01-18/2675562.html	2726
+王亚钶		5		河南省		https://tjj.henan.gov.cn/zjtj/zyld/	河南省统计局党组成员、副局长		河南省统计局	http://tjj.henan.gov.cn/2026/01-07/3303397.html	2726

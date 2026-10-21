@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘伟		1		全国		https://www.mot.gov.cn/jigou/	党组书记、部长		交通运输部	https://www.mot.gov.cn/jigou/lingdaowangye/202512/t20251209_4181179.html	1688
+邹天敬		2		全国		https://www.mot.gov.cn/jigou/	党组成员、中央纪委国家监委驻交通运输部纪检监察组组长		交通运输部	https://www.mot.gov.cn/jigou/lingdaowangye/202512/t20251209_4181180.html	1688
+徐成光		3		全国		https://www.mot.gov.cn/jigou/	党组成员、副部长兼直属机关党委书记		交通运输部	https://www.mot.gov.cn/jigou/lingdaowangye/202512/t20251209_4181181.html	1688
+李扬		4		全国		https://www.mot.gov.cn/jigou/	党组成员、副部长		交通运输部	https://www.mot.gov.cn/jigou/lingdaowangye/202512/t20251209_4181185.html	1688
+李兴湖		5		全国		https://www.mot.gov.cn/jigou/	党组成员、副部长		交通运输部	https://www.mot.gov.cn/jigou/lingdaowangye/202601/t20260107_4196577.html	1688
+宋志勇		6		全国		https://www.mot.gov.cn/jigou/	党组成员，中国民用航空局党组书记、局长（正部长级）		交通运输部	https://www.mot.gov.cn/jigou/lingdaowangye/202512/t20251209_4181187.html	1688
+赵冲久		7		全国		https://www.mot.gov.cn/jigou/	党组成员，国家邮政局党组书记、局长		交通运输部	https://www.mot.gov.cn/jigou/lingdaowangye/202512/t20251209_4181186.html	1688
+宋修德		8		全国		https://www.mot.gov.cn/jigou/	党组成员，国家铁路局党组书记、局长		交通运输部	https://www.mot.gov.cn/jigou/lingdaowangye/202512/t20251209_4181188.html	1688
+蔡团结		9		全国		https://www.mot.gov.cn/jigou/	安全总监兼运输服务司司长		交通运输部	https://www.mot.gov.cn/jigou/lingdaowangye/202512/t20251209_4181189.html	1688
+岑晏青		10		全国		https://www.mot.gov.cn/jigou/	总工程师		交通运输部	https://www.mot.gov.cn/jigou/lingdaowangye/202512/t20251209_4181190.html	1688
+金敬东		11		全国		https://www.mot.gov.cn/jigou/	总规划师		交通运输部	https://www.mot.gov.cn/jigou/lingdaowangye/202604/t20260407_4203182.html	1688

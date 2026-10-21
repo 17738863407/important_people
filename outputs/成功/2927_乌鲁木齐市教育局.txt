@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘付锡		1		新疆维吾尔自治区	乌鲁木齐市	http://www.wlmq.gov.cn/wlmqs/c119135/common_list_ldzc.shtml	市委教育工委常务副书记、市教育局党组书记		乌鲁木齐市教育局	http://www.wlmq.gov.cn/wlmqs/c119135/202508/045c83950854475cbae6b0e5df660517.shtml	2927
+欧永涛		2		新疆维吾尔自治区	乌鲁木齐市	http://www.wlmq.gov.cn/wlmqs/c119135/common_list_ldzc.shtml	市委教育工委副书记、市教育局党组副书记、局长		乌鲁木齐市教育局	http://www.wlmq.gov.cn/wlmqs/c119135/202607/e2be60808f3d4ae4a1e2b69329c52caa.shtml	2927
+王红梅		3		新疆维吾尔自治区	乌鲁木齐市	http://www.wlmq.gov.cn/wlmqs/c119135/common_list_ldzc.shtml	市纪委监委驻市委教育工委、市教育局纪检监察组组长、市教育局党组成员		乌鲁木齐市教育局	http://www.wlmq.gov.cn/wlmqs/c119135/202508/b7aa901f789b4f1fae8be87f9fa4e8de.shtml	2927
+李彬		4		新疆维吾尔自治区	乌鲁木齐市	http://www.wlmq.gov.cn/wlmqs/c119135/common_list_ldzc.shtml	市委教育工委副书记、市教育局党组成员、副局长（援疆）		乌鲁木齐市教育局	http://www.wlmq.gov.cn/wlmqs/c119135/202606/aab370404bc24fd8bfc64287ab7f40ba.shtml	2927
+阿不都维力·谢日甫		5		新疆维吾尔自治区	乌鲁木齐市	http://www.wlmq.gov.cn/wlmqs/c119135/common_list_ldzc.shtml	市教育局党组成员、副局长		乌鲁木齐市教育局	http://www.wlmq.gov.cn/wlmqs/c119135/202607/de44805029034141bd47799fc3c1a67f.shtml	2927
+王勇		6		新疆维吾尔自治区	乌鲁木齐市	http://www.wlmq.gov.cn/wlmqs/c119135/common_list_ldzc.shtml	市教育局党组成员、副局长		乌鲁木齐市教育局	http://www.wlmq.gov.cn/wlmqs/c119135/202610/04e3a38b9cfb4ac1b10258120e0757c3.shtml	2927

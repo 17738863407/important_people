@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王天琦		1		江苏省		https://czt.jiangsu.gov.cn/col/col79517/	省财政厅厅长、党组书记		江苏省财政厅	https://czt.jiangsu.gov.cn/col/col79520/index.html	0388
+倪国强		2		江苏省		https://czt.jiangsu.gov.cn/col/col79517/	省财政厅副厅长、党组成员、一级巡视员		江苏省财政厅	https://czt.jiangsu.gov.cn/col/col79525/index.html	0388
+仲璐		3		江苏省		https://czt.jiangsu.gov.cn/col/col79517/	省纪委监委派驻省财政厅纪检监察组组长、省财政厅党组成员		江苏省财政厅	https://czt.jiangsu.gov.cn/col/col79524/index.html	0388
+张国栋		4		江苏省		https://czt.jiangsu.gov.cn/col/col79517/	省财政厅副厅长、党组成员，机关党委书记		江苏省财政厅	https://czt.jiangsu.gov.cn/col/col89228/index.html	0388
+方立本		5		江苏省		https://czt.jiangsu.gov.cn/col/col79517/	省财政厅副厅长、党组成员		江苏省财政厅	https://czt.jiangsu.gov.cn/col/col90966/index.html	0388
+章江益		6		江苏省		https://czt.jiangsu.gov.cn/col/col79517/	省财政厅二级巡视员		江苏省财政厅	https://czt.jiangsu.gov.cn/col/col82472/index.html	0388

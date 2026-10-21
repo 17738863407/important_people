@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李楠		1		全国		https://www.cahe.edu.cn/site/term/374.html	秘书长		中国高等教育学会秘书处	https://www.cahe.edu.cn/site/term/1069.html	0132
+郝清杰		2		全国		https://www.cahe.edu.cn/site/term/374.html	副秘书长		中国高等教育学会秘书处	https://www.cahe.edu.cn/site/term/1077.html	0132
+吴英策		3		全国		https://www.cahe.edu.cn/site/term/374.html	副秘书长		中国高等教育学会秘书处	https://www.cahe.edu.cn/site/term/1073.html	0132
+高晓杰		4		全国		https://www.cahe.edu.cn/site/term/374.html	副秘书长		中国高等教育学会秘书处	https://www.cahe.edu.cn/site/term/1081.html	0132

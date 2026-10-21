@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李常官		1		全国		http://www.ce.cn/ztpd/xwzt/2013bw/mzb/index.shtml	部长		民政部		0186
+胡海峰		2		全国		http://www.ce.cn/ztpd/xwzt/2013bw/mzb/index.shtml	副部长		民政部		0186
+孙硕鹏		3		全国		http://www.ce.cn/ztpd/xwzt/2013bw/mzb/index.shtml	副部长		民政部		0186
+舒惠好		4		全国		http://www.ce.cn/ztpd/xwzt/2013bw/mzb/index.shtml	副部长		民政部		0186
+蒋玮		5		全国		http://www.ce.cn/ztpd/xwzt/2013bw/mzb/index.shtml	党组成员		民政部		0186

@@ -1,0 +1,24 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵曦峰		1		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅党组书记、副厅长		新疆维吾尔自治区自然资源厅		3420
+贾林·托太依		2		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅党组副书记、厅长		新疆维吾尔自治区自然资源厅		3420
+黄然		3		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	兵团自然资源局党组书记、局长，兼任自治区自然资源厅党组成员、副厅长		新疆维吾尔自治区自然资源厅		3420
+张志刚		4		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅党组成员，自治区林业和草原局党委书记、副局长		新疆维吾尔自治区自然资源厅		3420
+黄雪伟		5		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅党组成员，自治区地质局党组书记、副局长		新疆维吾尔自治区自然资源厅		3420
+陈敏		6		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	纪委驻厅纪检监察组组长、一级巡视员、一级高级监察官；自治区自然资源厅党组成员		新疆维吾尔自治区自然资源厅		3420
+王晓慧		7		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅党组成员、副厅长		新疆维吾尔自治区自然资源厅		3420
+李海广		8		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅党组成员、副厅长（援疆）		新疆维吾尔自治区自然资源厅		3420
+张军		9		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅党组成员、副厅长		新疆维吾尔自治区自然资源厅		3420
+周霆		10		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅党组成员、副厅长（援疆）		新疆维吾尔自治区自然资源厅		3420
+额尔德木图		11		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅党组成员、副厅长		新疆维吾尔自治区自然资源厅		3420
+刘希平		12		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅党组成员、副厅长		新疆维吾尔自治区自然资源厅		3420
+艾尔肯·吾守尔		13		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅一级巡视员		新疆维吾尔自治区自然资源厅		3420
+林超		14		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅二级巡视员		新疆维吾尔自治区自然资源厅		3420
+张玉珉		15		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅二级巡视员		新疆维吾尔自治区自然资源厅		3420
+李晓峰		16		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅二级巡视员		新疆维吾尔自治区自然资源厅		3420
+李韬		17		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅二级巡视员		新疆维吾尔自治区自然资源厅		3420
+吴忠平		18		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅机关党委副书记、机关纪委书记、二级巡视员		新疆维吾尔自治区自然资源厅		3420
+李疆		19		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅总工程师、一级调研员		新疆维吾尔自治区自然资源厅		3420
+叶惠杰		20		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅总工程师、一级调研员		新疆维吾尔自治区自然资源厅		3420
+魏晓兵		21		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅总规划师、国土空间规划局局长、一级调研员		新疆维吾尔自治区自然资源厅		3420
+朱义林		22		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅总工程师、一级调研员（援疆）		新疆维吾尔自治区自然资源厅		3420
+左志进		23		新疆维吾尔自治区		http://zrzyt.xinjiang.gov.cn/xjgtzy/ldzc/newld.shtml	自治区自然资源厅总规划师（援疆）		新疆维吾尔自治区自然资源厅		3420

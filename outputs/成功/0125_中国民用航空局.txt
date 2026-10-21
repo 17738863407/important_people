@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+宋志勇		1		全国		https://www.caac.gov.cn/index.html	局长、党组书记（正部长级）		中国民用航空局	https://www.caac.gov.cn/GYMH/LDXX/ZY_SONG/	0125
+胡振江		2		全国		https://www.caac.gov.cn/index.html	副局长、党组成员		中国民用航空局	https://www.caac.gov.cn/GYMH/LDXX/HUZHENJIANG/	0125
+韩钧		3		全国		https://www.caac.gov.cn/index.html	副局长、党组成员		中国民用航空局	https://www.caac.gov.cn/GYMH/LDXX/HANJUN/	0125
+马兵		4		全国		https://www.caac.gov.cn/index.html	副局长、党组成员		中国民用航空局	https://www.caac.gov.cn/GYMH/LDXX/MA_BING/	0125
+梁楠		5		全国		https://www.caac.gov.cn/index.html	副局长、党组成员		中国民用航空局	https://www.caac.gov.cn/GYMH/LDXX/LIANG_NAN/	0125
+熊杰		6		全国		https://www.caac.gov.cn/index.html	总飞行师		中国民用航空局		0125
+朱为民		7		全国		https://www.caac.gov.cn/index.html	总工程师		中国民用航空局		0125
+朱涛		8		全国		https://www.caac.gov.cn/index.html	安全总监		中国民用航空局		0125

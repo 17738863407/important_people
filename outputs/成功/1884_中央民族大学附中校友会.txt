@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+唐洪波		1		全国		https://www.neac.gov.cn/seac/mwjs/mzdxfz/jgrysz.shtml	副会长；中央民族大学附中党委副书记、校长		中央民族大学附中校友会		1884
+佟丽娟		2		全国		https://www.neac.gov.cn/seac/mwjs/mzdxfz/jgrysz.shtml	副会长；中央民族大学附中党委常务副书记		中央民族大学附中校友会		1884
+王国德		3		全国		https://www.neac.gov.cn/seac/mwjs/mzdxfz/jgrysz.shtml	副会长；中央民族大学附中副校长		中央民族大学附中校友会		1884
+李品		4		全国		https://www.neac.gov.cn/seac/mwjs/mzdxfz/jgrysz.shtml	副会长；中央民族大学附中党委副书记、纪委书记		中央民族大学附中校友会		1884
+李淑霞		5		全国		https://www.neac.gov.cn/seac/mwjs/mzdxfz/jgrysz.shtml	副会长；中央民族大学附中总会计师		中央民族大学附中校友会		1884
+杨岭		6		全国		https://www.neac.gov.cn/seac/mwjs/mzdxfz/jgrysz.shtml	副会长；中央民族大学附中副校长、海南陵水分校校长		中央民族大学附中校友会		1884
+魏立功		7		全国		https://www.neac.gov.cn/seac/mwjs/mzdxfz/jgrysz.shtml	副会长；中央民族大学附中副校长		中央民族大学附中校友会		1884
+宗俊英		8		全国		https://www.neac.gov.cn/seac/mwjs/mzdxfz/jgrysz.shtml	副会长；中央民族大学附中云南丽江实验学校校长		中央民族大学附中校友会		1884
+孙立清		9		全国		https://www.neac.gov.cn/seac/mwjs/mzdxfz/jgrysz.shtml	秘书长；中央民族大学附中教师（已退休）		中央民族大学附中校友会		1884

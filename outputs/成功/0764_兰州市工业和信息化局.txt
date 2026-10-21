@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马永福		1		甘肃省	兰州市	http://gxj.lanzhou.gov.cn/col/col2696/index.html	党组书记、局长		兰州市工业和信息化局	http://gxj.lanzhou.gov.cn/art/2025/11/25/art_2696_762385.html	0764
+鄢军		2		甘肃省	兰州市	http://gxj.lanzhou.gov.cn/col/col2696/index.html	党组成员、副局长		兰州市工业和信息化局	http://gxj.lanzhou.gov.cn/art/2019/5/28/art_2696_93795.html	0764
+陈良		3		甘肃省	兰州市	http://gxj.lanzhou.gov.cn/col/col2696/index.html	党组成员、副局长		兰州市工业和信息化局	http://gxj.lanzhou.gov.cn/art/2021/12/15/art_2696_1078293.html	0764
+王钟兴		4		甘肃省	兰州市	http://gxj.lanzhou.gov.cn/col/col2696/index.html	党组成员、副局长		兰州市工业和信息化局	http://gxj.lanzhou.gov.cn/art/2025/9/30/art_2696_1575898.html	0764
+丁建峰		5		甘肃省	兰州市	http://gxj.lanzhou.gov.cn/col/col2696/index.html	党组成员、副局长（挂职）		兰州市工业和信息化局	http://gxj.lanzhou.gov.cn/art/2026/1/4/art_2696_1669051.html	0764
+高华		6		甘肃省	兰州市	http://gxj.lanzhou.gov.cn/col/col2696/index.html	党组成员、副局长（挂职）		兰州市工业和信息化局	http://gxj.lanzhou.gov.cn/art/2026/3/4/art_2696_1683556.html	0764
+李渊媛		7		甘肃省	兰州市	http://gxj.lanzhou.gov.cn/col/col2696/index.html	党组成员、副局长		兰州市工业和信息化局	http://gxj.lanzhou.gov.cn/art/2026/3/4/art_2696_1683559.html	0764
+顾智军		8		甘肃省	兰州市	http://gxj.lanzhou.gov.cn/col/col2696/index.html	副局长（挂职）		兰州市工业和信息化局	http://gxj.lanzhou.gov.cn/art/2026/3/4/art_2696_1683562.html	0764

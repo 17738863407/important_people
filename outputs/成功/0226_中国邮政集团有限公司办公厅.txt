@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘爱力		1		全国		https://www.chinapost.com.cn/cn/folder/1813/128229-1.htm	董事长 党组书记		中国邮政集团有限公司办公厅	https://www.chinapost.com.cn/cn/report/1814/353377-1.htm	0226
+郑国雨		2		全国		https://www.chinapost.com.cn/cn/folder/1813/128229-1.htm	董事 总经理 党组副书记		中国邮政集团有限公司办公厅		0226
+粟健		3		全国		https://www.chinapost.com.cn/cn/folder/1813/128229-1.htm	董事 党组副书记		中国邮政集团有限公司办公厅		0226
+曲云海		4		全国		https://www.chinapost.com.cn/cn/folder/1813/128229-1.htm	副总经理 党组成员		中国邮政集团有限公司办公厅		0226
+王嘉君		5		全国		https://www.chinapost.com.cn/cn/folder/1813/128229-1.htm	总会计师 党组成员		中国邮政集团有限公司办公厅		0226
+芦苇		6		全国		https://www.chinapost.com.cn/cn/folder/1813/128229-1.htm	副总经理 党组成员		中国邮政集团有限公司办公厅		0226
+李张挺		7		全国		https://www.chinapost.com.cn/cn/folder/1813/128229-1.htm	副总经理 党组成员		中国邮政集团有限公司办公厅		0226
+孙洪均		8		全国		https://www.chinapost.com.cn/cn/folder/1813/128229-1.htm	副总经理 党组成员		中国邮政集团有限公司办公厅		0226

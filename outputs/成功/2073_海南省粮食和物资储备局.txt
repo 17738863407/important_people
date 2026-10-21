@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+符思法		1		海南省		http://plan.hainan.gov.cn/sfgw/lsjggk/jgjs.shtml	党组成员、副局长		海南省粮食和物资储备局	http://plan.hainan.gov.cn/sfgw/lsldxx/201906/20a1d330e4fb46049e9fe8f6195a7b1b.shtml	2073
+蒋莉萍		2		海南省		http://plan.hainan.gov.cn/sfgw/lsjggk/jgjs.shtml	党组成员、副局长		海南省粮食和物资储备局	http://plan.hainan.gov.cn/sfgw/lsldxx/202607/f9771574444e471f8b4ccbf24c66083b.shtml	2073
+何兆智		3		海南省		http://plan.hainan.gov.cn/sfgw/lsjggk/jgjs.shtml	二级巡视员		海南省粮食和物资储备局	http://plan.hainan.gov.cn/sfgw/lsldxx/202104/314e9026832644768e4fe2648056149c.shtml	2073

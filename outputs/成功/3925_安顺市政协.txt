@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张锦		1		贵州省	安顺市	http://zx.anshun.gov.cn/cxcms/zxld/5767.jhtml	主席		安顺市政协		3925
+杨平		2		贵州省	安顺市	http://zx.anshun.gov.cn/cxcms/zxld/5767.jhtml	副主席		安顺市政协		3925
+何晓东		3		贵州省	安顺市	http://zx.anshun.gov.cn/cxcms/zxld/5767.jhtml	副主席		安顺市政协		3925
+吴松		4		贵州省	安顺市	http://zx.anshun.gov.cn/cxcms/zxld/5767.jhtml	副主席		安顺市政协		3925
+项建		5		贵州省	安顺市	http://zx.anshun.gov.cn/cxcms/zxld/5767.jhtml	副主席		安顺市政协		3925
+李用奇		6		贵州省	安顺市	http://zx.anshun.gov.cn/cxcms/zxld/5767.jhtml	副主席		安顺市政协		3925
+姚勇		7		贵州省	安顺市	http://zx.anshun.gov.cn/cxcms/zxld/5767.jhtml	副主席		安顺市政协		3925
+刘敏		8		贵州省	安顺市	http://zx.anshun.gov.cn/cxcms/zxld/5767.jhtml	副主席		安顺市政协		3925
+周文捷		9		贵州省	安顺市	http://zx.anshun.gov.cn/cxcms/zxld/5767.jhtml	副主席		安顺市政协		3925
+吴勇		10		贵州省	安顺市	http://zx.anshun.gov.cn/cxcms/zxld/5767.jhtml	秘书长		安顺市政协		3925

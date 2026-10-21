@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+袁亮		1		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwsfxzjlzx/	主任		司法部司法协助交流中心		1661
+薛新立		2		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwsfxzjlzx/	副主任		司法部司法协助交流中心		1661
+李红卫		3		全国		https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwsfxzjlzx/	副主任		司法部司法协助交流中心		1661

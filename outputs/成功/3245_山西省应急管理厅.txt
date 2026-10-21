@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+魏振宽		1		山西省		http://yjt.shanxi.gov.cn/jggk/ldxx_78315/	党委书记、厅长		山西省应急管理厅	http://yjt.shanxi.gov.cn/jggk/ldxx_78315/202410/t20241016_9674302.shtml	3245
+陶林		2		山西省		http://yjt.shanxi.gov.cn/jggk/ldxx_78315/	党委委员、副厅长（兼）		山西省应急管理厅	http://yjt.shanxi.gov.cn/jggk/ldxx_78315/202408/t20240807_9628048.shtml	3245
+刘世华		3		山西省		http://yjt.shanxi.gov.cn/jggk/ldxx_78315/	党委委员、副厅长		山西省应急管理厅	http://yjt.shanxi.gov.cn/jggk/ldxx_78315/202209/t20220913_7091083.shtml	3245
+刘建红		4		山西省		http://yjt.shanxi.gov.cn/jggk/ldxx_78315/	党委委员、副厅长		山西省应急管理厅	http://yjt.shanxi.gov.cn/jggk/ldxx_78315/202408/t20240807_9628205.shtml	3245
+庞雁强		5		山西省		http://yjt.shanxi.gov.cn/jggk/ldxx_78315/	党委委员、政治部主任、机关党委书记		山西省应急管理厅	http://yjt.shanxi.gov.cn/jggk/ldxx_78315/202410/t20241016_9674308.shtml	3245
+马向涛		6		山西省		http://yjt.shanxi.gov.cn/jggk/ldxx_78315/	党委委员、省纪委监委驻省应急管理厅纪检监察组组长		山西省应急管理厅	http://yjt.shanxi.gov.cn/jggk/ldxx_78315/202502/t20250211_9766857.shtml	3245
+郝青俊		7		山西省		http://yjt.shanxi.gov.cn/jggk/ldxx_78315/	党委委员、副厅长		山西省应急管理厅	http://yjt.shanxi.gov.cn/jggk/ldxx_78315/202606/t20260608_10142139.shtml	3245
+杨红军		8		山西省		http://yjt.shanxi.gov.cn/jggk/ldxx_78315/	党委委员、副厅长		山西省应急管理厅	http://yjt.shanxi.gov.cn/jggk/ldxx_78315/202609/t20260918_10222590.shtml	3245

@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱文波		1		辽宁省		https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省农业农村厅（省委农办）党组书记、厅长（主任）		辽宁省农业农村厅	https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/ldxx/cj/index.shtml	2030
+孙宇		2		辽宁省		https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省农业农村厅党组成员、副厅长		辽宁省农业农村厅	https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/ldxx/zsw/index.shtml	2030
+李忠泓		3		辽宁省		https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省农业农村厅党组成员、副厅长		辽宁省农业农村厅	https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/ldxx/lzh/index.shtml	2030
+冀登义		4		辽宁省		https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省委农办专职副主任兼辽宁省农业农村厅党组成员、副厅长		辽宁省农业农村厅	https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/ldxx/jdy/index.shtml	2030
+杨奕		5		辽宁省		https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省农业农村厅党组成员、副厅长		辽宁省农业农村厅	https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/ldxx/yy/index.shtml	2030
+张克		6		辽宁省		https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省纪委监委驻省农业农村厅纪检监察组组长、辽宁省农业农村厅党组成员、二级高级监察官		辽宁省农业农村厅	https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/ldxx/zk/index.shtml	2030
+张建勋		7		辽宁省		https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省农业农村厅党组成员、副厅长		辽宁省农业农村厅	https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/ldxx/zjx/index.shtml	2030
+金天宇		8		辽宁省		https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省农业农村厅党组成员、副厅长		辽宁省农业农村厅	https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/ldxx/jty/index.shtml	2030
+王勇		9		辽宁省		https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省农业农村发展服务中心主任		辽宁省农业农村厅	https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/ldxx/wy/index.shtml	2030
+周晨阳		10		辽宁省		https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/index.shtml	辽宁省海洋渔业行政执法总队总队长		辽宁省农业农村厅	https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jgjj/ldxx/zcy/index.shtml	2030

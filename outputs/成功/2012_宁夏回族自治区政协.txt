@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈雍		1		全国		http://www.nxzx.gov.cn/zxgk/zxld/	自治区政协主席		宁夏回族自治区政协	https://www.nxzx.gov.cn/zxgk/zxld/202301/t20230115_678366.html	2012
+刘可为		2		全国		http://www.nxzx.gov.cn/zxgk/zxld/	自治区政协副主席		宁夏回族自治区政协	https://www.nxzx.gov.cn/zxgk/zxld/202301/t20230115_678368.html	2012
+洪洋		3		全国		http://www.nxzx.gov.cn/zxgk/zxld/	自治区政协副主席		宁夏回族自治区政协	https://www.nxzx.gov.cn/zxgk/zxld/201801/t20180130_5249.html	2012
+马秀珍		4		全国		http://www.nxzx.gov.cn/zxgk/zxld/	自治区政协副主席		宁夏回族自治区政协	https://www.nxzx.gov.cn/zxgk/zxld/201801/t20180130_5251.html	2012
+郑震		5		全国		http://www.nxzx.gov.cn/zxgk/zxld/	自治区政协副主席		宁夏回族自治区政协	https://www.nxzx.gov.cn/zxgk/zxld/202102/t20210202_272711.html	2012
+许宁		6		全国		http://www.nxzx.gov.cn/zxgk/zxld/	自治区政协副主席		宁夏回族自治区政协	https://www.nxzx.gov.cn/zxgk/zxld/202102/t20210202_272732.html	2012
+陆军		7		全国		http://www.nxzx.gov.cn/zxgk/zxld/	自治区政协副主席		宁夏回族自治区政协	https://www.nxzx.gov.cn/zxgk/zxld/202301/t20230115_678370.html	2012
+杨淑丽		8		全国		http://www.nxzx.gov.cn/zxgk/zxld/	自治区政协副主席		宁夏回族自治区政协	https://www.nxzx.gov.cn/zxgk/zxld/202401/t20240126_829973.html	2012
+李晓波		9		全国		http://www.nxzx.gov.cn/zxgk/zxld/	宁夏回族自治区政协副主席、自治区党委副秘书长、办公厅主任		宁夏回族自治区政协	https://www.nxzx.gov.cn/zxgk/zxld/202602/t20260206_1085852.html	2012
+曹志斌		10		全国		http://www.nxzx.gov.cn/zxgk/zxld/	自治区政协秘书长		宁夏回族自治区政协	https://www.nxzx.gov.cn/zxgk/zxld/202301/t20230115_678371.html	2012

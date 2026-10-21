@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王琛		1		广西壮族自治区		http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/	广西壮族自治区农业农村厅党组书记、厅长		广西壮族自治区农业农村厅	http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/t27736405.shtml	2046
+吴朝晖		2		广西壮族自治区		http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/	广西壮族自治区农业农村厅党组副书记、副厅长		广西壮族自治区农业农村厅	http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/t9636904.shtml	2046
+唐咸来		3		广西壮族自治区		http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/	广西壮族自治区农业农村厅一级巡视员		广西壮族自治区农业农村厅	http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/t17910824.shtml	2046
+黄覃梅		4		广西壮族自治区		http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/	广西壮族自治区农业农村厅副厅长		广西壮族自治区农业农村厅	http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/t28064486.shtml	2046
+邓妙宏		5		广西壮族自治区		http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/	广西壮族自治区农业农村厅党组成员，自治区乡村振兴外资项目发展中心（自治区乡村振兴信息中心）主任		广西壮族自治区农业农村厅	http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/t17910806.shtml	2046
+欧毅霞		6		广西壮族自治区		http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/	广西壮族自治区农业农村厅副厅长、党组成员		广西壮族自治区农业农村厅	http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/t19461307.shtml	2046
+邓群学		7		广西壮族自治区		http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/	广西壮族自治区纪委监委驻自治区农业农村厅纪检监察组组长、二级高级监察官，自治区农业农村厅党组成员		广西壮族自治区农业农村厅	http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/t28006167.shtml	2046
+罗朝东		8		广西壮族自治区		http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/	广西壮族自治区农业农村厅党组成员，自治区农业机械化服务中心党委书记、主任		广西壮族自治区农业农村厅	http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/t28064487.shtml	2046
+孙庆磊		9		广西壮族自治区		http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/	广西壮族自治区农业农村厅副厅长、党组成员		广西壮族自治区农业农村厅	http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/t28064332.shtml	2046
+黄立群		10		广西壮族自治区		http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/	广西壮族自治区农业农村厅党组成员（挂职）		广西壮族自治区农业农村厅	http://nynct.gxzf.gov.cn/xxgk/jcxxgk/ldxx/t18208456.shtml	2046

@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张宁		1		四川省	成都市	https://www.swun.edu.cn/xxgk/xrld.htm	党委书记；党委常委		西南民族大学		2638
+麦贤敏		2		四川省	成都市	https://www.swun.edu.cn/xxgk/xrld.htm	党委副书记；校长；党委常委		西南民族大学		2638
+乔俊杰		3		四川省	成都市	https://www.swun.edu.cn/xxgk/xrld.htm	副校长；党委常委		西南民族大学		2638
+尔古打机		4		四川省	成都市	https://www.swun.edu.cn/xxgk/xrld.htm	副校长；党委常委		西南民族大学		2638
+杜林		5		四川省	成都市	https://www.swun.edu.cn/xxgk/xrld.htm	副校长；党委常委		西南民族大学		2638
+杨胜韬		6		四川省	成都市	https://www.swun.edu.cn/xxgk/xrld.htm	副校长；党委常委		西南民族大学		2638
+周洪波		7		四川省	成都市	https://www.swun.edu.cn/xxgk/xrld.htm	副校长		西南民族大学		2638
+关宇		8		四川省	成都市	https://www.swun.edu.cn/xxgk/xrld.htm	纪委书记；党委常委		西南民族大学		2638
+张智勇		9		四川省	成都市	https://www.swun.edu.cn/xxgk/xrld.htm	总会计师；党委常委		西南民族大学		2638
+余勤高		10		四川省	成都市	https://www.swun.edu.cn/xxgk/xrld.htm	党委常委		西南民族大学		2638
+罗萍		11		四川省	成都市	https://www.swun.edu.cn/xxgk/xrld.htm	党委常委		西南民族大学		2638

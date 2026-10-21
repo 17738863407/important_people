@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄建勋		1		广东省	广州市	https://sjj.gz.gov.cn/gkmlpt/content/10/10959/post_10959079.html	中共广州市委审计委员会办公室主任，广州市审计局党组书记、局长、一级巡视员、机关党委第一书记		广州市审计局		2431
+钟晓山		2		广东省	广州市	https://sjj.gz.gov.cn/gkmlpt/content/10/10959/post_10959079.html	广州市审计局党组成员、副局长、二级巡视员、机关党委书记		广州市审计局		2431
+陈启书		3		广东省	广州市	https://sjj.gz.gov.cn/gkmlpt/content/10/10959/post_10959079.html	广州市审计局党组成员、副局长		广州市审计局		2431
+董学士		4		广东省	广州市	https://sjj.gz.gov.cn/gkmlpt/content/10/10959/post_10959079.html	广州市审计局党组成员、副局长、新闻发言人		广州市审计局		2431
+丘雷		5		广东省	广州市	https://sjj.gz.gov.cn/gkmlpt/content/10/10959/post_10959079.html	广州市审计局党组成员、总审计师、二级巡视员		广州市审计局		2431
+陈熳红		6		广东省	广州市	https://sjj.gz.gov.cn/gkmlpt/content/10/10959/post_10959079.html	广州市审计局党组成员、副局长		广州市审计局		2431
+黄治平		7		广东省	广州市	https://sjj.gz.gov.cn/gkmlpt/content/10/10959/post_10959079.html	广州市审计局党组成员、市经济责任审计工作联席会议办公室主任		广州市审计局		2431
+许向阳		8		广东省	广州市	https://sjj.gz.gov.cn/gkmlpt/content/10/10959/post_10959079.html	广州市审计局一级调研员（市管）		广州市审计局		2431
+曾朝阳		9		广东省	广州市	https://sjj.gz.gov.cn/gkmlpt/content/10/10959/post_10959079.html	广州市审计局一级调研员（市管）		广州市审计局		2431

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱丽辉		1		湖南省		https://www.hncdc.com/html/web/produce/lingdaoxinxi/index.html	湖南省疾病预防控制中心党委书记		湖南省疾病预防控制中心	https://www.hncdc.com/html/web//produce/lingdaoxinxi/1500.html	0990
+高立冬		2		湖南省		https://www.hncdc.com/html/web/produce/lingdaoxinxi/index.html	湖南省疾病预防控制中心党委副书记、主任		湖南省疾病预防控制中心	https://www.hncdc.com/html/web//produce/lingdaoxinxi/1506.html	0990
+章葵		3		湖南省		https://www.hncdc.com/html/web/produce/lingdaoxinxi/index.html	湖南省疾病预防控制中心党委委员、副主任		湖南省疾病预防控制中心	https://www.hncdc.com/html/web//produce/lingdaoxinxi/1906508258084515842.html	0990
+沈丽		4		湖南省		https://www.hncdc.com/html/web/produce/lingdaoxinxi/index.html	湖南省疾病预防控制中心党委委员、纪委书记		湖南省疾病预防控制中心	https://www.hncdc.com/html/web//produce/lingdaoxinxi/2624.html	0990
+蔡亮		5		湖南省		https://www.hncdc.com/html/web/produce/lingdaoxinxi/index.html	湖南省疾病预防控制中心党委委员、副主任		湖南省疾病预防控制中心	https://www.hncdc.com/html/web//produce/lingdaoxinxi/5093.html	0990
+彭晔炜		6		湖南省		https://www.hncdc.com/html/web/produce/lingdaoxinxi/index.html	湖南省疾病预防控制中心党委委员、副主任		湖南省疾病预防控制中心	https://www.hncdc.com/html/web//produce/lingdaoxinxi/2646.html	0990
+罗垲炜		7		湖南省		https://www.hncdc.com/html/web/produce/lingdaoxinxi/index.html	湖南省疾病预防控制中心党委委员、副主任		湖南省疾病预防控制中心	https://www.hncdc.com/html/web//produce/lingdaoxinxi/1511.html	0990
+黄子皓		8		湖南省		https://www.hncdc.com/html/web/produce/lingdaoxinxi/index.html	中心党委委员、人力资源部主任		湖南省疾病预防控制中心	https://www.hncdc.com/html/web//produce/lingdaoxinxi/5111.html	0990
+张亚娜		9		湖南省		https://www.hncdc.com/html/web/produce/lingdaoxinxi/index.html	中心党委委员、健康宣传教育所所长		湖南省疾病预防控制中心	https://www.hncdc.com/html/web//produce/lingdaoxinxi/5112.html	0990

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马磊		1		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/styj_22426/fdzdgknr_24634/?gk=2&cid=24643#bmjgjjID	呼和浩特市体育局党组书记、局长		呼和浩特市体育局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/styj_22426/fdzdgknr_24634/jgjj/ldjj/202509/t20250901_1927227.html	1060
+靳峰		2		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/styj_22426/fdzdgknr_24634/?gk=2&cid=24643#bmjgjjID	呼和浩特市体育局党组成员、副局长		呼和浩特市体育局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/styj_22426/fdzdgknr_24634/jgjj/ldjj/202509/t20250901_1927235.html	1060
+张华颖		3		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/styj_22426/fdzdgknr_24634/?gk=2&cid=24643#bmjgjjID	呼和浩特市体育局党组成员、呼和浩特市体育运动学校党总支书记		呼和浩特市体育局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/styj_22426/fdzdgknr_24634/jgjj/ldjj/202509/t20250901_1927245.html	1060
+萨日娜		4		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/styj_22426/fdzdgknr_24634/?gk=2&cid=24643#bmjgjjID	呼和浩特市体育局副局长		呼和浩特市体育局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/styj_22426/fdzdgknr_24634/jgjj/ldjj/202509/t20250901_1927264.html	1060
+苏亚拉		5		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/styj_22426/fdzdgknr_24634/?gk=2&cid=24643#bmjgjjID	二级调研员		呼和浩特市体育局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/styj_22426/fdzdgknr_24634/jgjj/ldjj/202509/t20250901_1927278.html	1060
+陈培		6		内蒙古自治区	呼和浩特市	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/styj_22426/fdzdgknr_24634/?gk=2&cid=24643#bmjgjjID	四级调研员		呼和浩特市体育局	http://www.huhhot.gov.cn/bmxxgk/szfzcbm/styj_22426/fdzdgknr_24634/jgjj/ldjj/202509/t20250901_1927284.html	1060

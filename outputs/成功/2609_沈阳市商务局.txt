@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李莹		1		辽宁省	沈阳市	https://swj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组书记、局长		沈阳市商务局	https://swj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202602/t20260206_4984777.html	2609
+洪伟		2		辽宁省	沈阳市	https://swj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副局长		沈阳市商务局	https://swj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202602/t20260206_4984778.html	2609
+赵卓青		3		辽宁省	沈阳市	https://swj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副局长		沈阳市商务局	https://swj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202206/t20220629_3386413.html	2609
+冯亚赛		4		辽宁省	沈阳市	https://swj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副局长		沈阳市商务局	https://swj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202309/t20230901_4520714.html	2609
+史武杰		5		辽宁省	沈阳市	https://swj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副局长		沈阳市商务局	https://swj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202504/t20250410_4834196.html	2609
+崔轶平		6		辽宁省	沈阳市	https://swj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	党组成员、副局长		沈阳市商务局	https://swj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202111/t20211120_1092991.html	2609
+刘福旭		7		辽宁省	沈阳市	https://swj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/	沈阳市商务事务服务中心主任		沈阳市商务局	https://swj.shenyang.gov.cn/zwgk/fdzdgknr/jgjj/bmld/202504/t20250411_4834618.html	2609

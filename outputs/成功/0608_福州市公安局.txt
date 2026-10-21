@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+肖进才		1		福建省	福州市	https://gaj.fuzhou.gov.cn/jwxx/jgxx/	福建省公安厅党委委员，福州市政府党组成员、副市长，市公安局党委书记、局长、督察长，市委政法委副书记		福州市公安局	https://gaj.fuzhou.gov.cn/jwxx/jgxx/ldjs/xjc/	0608
+张端帆		2		福建省	福州市	https://gaj.fuzhou.gov.cn/jwxx/jgxx/	福州市公安局党委副书记、分管日常工作的副局长		福州市公安局	https://gaj.fuzhou.gov.cn/jwxx/jgxx/ldjs/zdf/	0608
+朱卫		3		福建省	福州市	https://gaj.fuzhou.gov.cn/jwxx/jgxx/	福州市公安局党委副书记、副局长		福州市公安局	https://gaj.fuzhou.gov.cn/jwxx/jgxx/ldjs/zw/	0608
+郑南		4		福建省	福州市	https://gaj.fuzhou.gov.cn/jwxx/jgxx/	福州市公安局党委委员、副局长		福州市公安局	https://gaj.fuzhou.gov.cn/jwxx/jgxx/ldjs/zn/	0608
+李剑		5		福建省	福州市	https://gaj.fuzhou.gov.cn/jwxx/jgxx/	福州市公安局党委委员，市纪委监委驻市公安局纪检监察组组长		福州市公安局	https://gaj.fuzhou.gov.cn/jwxx/jgxx/ldjs/lj/	0608
+李良航		6		福建省	福州市	https://gaj.fuzhou.gov.cn/jwxx/jgxx/	福州市公安局党委委员、副局长		福州市公安局	https://gaj.fuzhou.gov.cn/jwxx/jgxx/ldjs/lnh/	0608
+王祥春		7		福建省	福州市	https://gaj.fuzhou.gov.cn/jwxx/jgxx/	福州市公安局党委委员、副局长		福州市公安局	https://gaj.fuzhou.gov.cn/jwxx/jgxx/ldjs/wxc/	0608
+陈能文		8		福建省	福州市	https://gaj.fuzhou.gov.cn/jwxx/jgxx/	福州市公安局党委委员、政治部主任		福州市公安局	https://gaj.fuzhou.gov.cn/jwxx/jgxx/ldjs/cnw/	0608
+郑金保		9		福建省	福州市	https://gaj.fuzhou.gov.cn/jwxx/jgxx/	福州市公安局党委委员、副局长，仓山区政府副区长，区公安局党委书记、局长、督察长，区委政法委副书记		福州市公安局	https://gaj.fuzhou.gov.cn/jwxx/jgxx/ldjs/zjb/	0608

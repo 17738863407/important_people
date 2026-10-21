@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+蔡贺		1		新疆维吾尔自治区		http://gdj.xinjiang.gov.cn/xjgdj/jgzn/list_jg.shtml	局党组副书记、局长		新疆维吾尔自治区广播电视局	http://gdj.xinjiang.gov.cn/xjgdj/jgldxx/202608/91cc7382cdf84c19b9d1b42505b0ef0d.shtml	0691
+贺学理		2		新疆维吾尔自治区		http://gdj.xinjiang.gov.cn/xjgdj/jgzn/list_jg.shtml	局党组成员，节目传输中心党委书记		新疆维吾尔自治区广播电视局	http://gdj.xinjiang.gov.cn/xjgdj/jgldxx/202501/226e9681138a47588124a0027f6353a6.shtml	0691
+苗涛		3		新疆维吾尔自治区		http://gdj.xinjiang.gov.cn/xjgdj/jgzn/list_jg.shtml	局党组成员、副局长（援疆）		新疆维吾尔自治区广播电视局	http://gdj.xinjiang.gov.cn/xjgdj/jgldxx/202001/6e7efb462dec47b1b2da795f90201f04.shtml	0691
+赵刚		4		新疆维吾尔自治区		http://gdj.xinjiang.gov.cn/xjgdj/jgzn/list_jg.shtml	局党组成员、副局长		新疆维吾尔自治区广播电视局	http://gdj.xinjiang.gov.cn/xjgdj/jgldxx/202001/c397a4a242e9434c9f93da3800cf58d8.shtml	0691
+刘晓梅		5		新疆维吾尔自治区		http://gdj.xinjiang.gov.cn/xjgdj/jgzn/list_jg.shtml	局党组成员、副局长		新疆维吾尔自治区广播电视局	http://gdj.xinjiang.gov.cn/xjgdj/jgldxx/202511/b11bcb78279d43faa8f97220d91e5adf.shtml	0691
+孔源		6		新疆维吾尔自治区		http://gdj.xinjiang.gov.cn/xjgdj/jgzn/list_jg.shtml	局节目传输中心党委副书记、主任		新疆维吾尔自治区广播电视局	http://gdj.xinjiang.gov.cn/xjgdj/jgldxx/202001/3c24590ef6714529af0b2444919edf87.shtml	0691
+吕亚丽		7		新疆维吾尔自治区		http://gdj.xinjiang.gov.cn/xjgdj/jgzn/list_jg.shtml	局二级巡视员		新疆维吾尔自治区广播电视局	http://gdj.xinjiang.gov.cn/xjgdj/jgldxx/202011/efcb0de6fdf142fba61f6e46658ffa7e.shtml	0691
+刘青江		8		新疆维吾尔自治区		http://gdj.xinjiang.gov.cn/xjgdj/jgzn/list_jg.shtml	局安全传输保障处处长、二级巡视员		新疆维吾尔自治区广播电视局	http://gdj.xinjiang.gov.cn/xjgdj/jgldxx/202001/87b9218bae3b40d5924f9f84f95b3a8e.shtml	0691
+闫国伟		9		新疆维吾尔自治区		http://gdj.xinjiang.gov.cn/xjgdj/jgzn/list_jg.shtml	局总工程师（援疆）		新疆维吾尔自治区广播电视局	http://gdj.xinjiang.gov.cn/xjgdj/jgldxx/202608/d9ca159238914c83bf596d26e00a8dab.shtml	0691

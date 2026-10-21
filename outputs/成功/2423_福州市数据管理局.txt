@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘珍昌		1		福建省	福州市	https://sjglj.fuzhou.gov.cn/zwgk/jgxx/	福州市“智慧福州”管理服务中心党组成员、副书记，市数据管理局党组副书记（兼），市“智慧福州”管理服务中心主任		福州市数据管理局	https://sjglj.fuzhou.gov.cn/zwgk/jgxx/ldxx/lzc/	2423
+曾伟东		2		福建省	福州市	https://sjglj.fuzhou.gov.cn/zwgk/jgxx/	福州市数据管理局党组成员，二级调研员		福州市数据管理局	https://sjglj.fuzhou.gov.cn/zwgk/jgxx/ldxx/cwd/	2423
+施文建		3		福建省	福州市	https://sjglj.fuzhou.gov.cn/zwgk/jgxx/	福州市数据管理局党组成员、副局长，三级调研员		福州市数据管理局	https://sjglj.fuzhou.gov.cn/zwgk/jgxx/ldxx/swj/	2423
+林晓晖		4		福建省	福州市	https://sjglj.fuzhou.gov.cn/zwgk/jgxx/	福州市数据管理局党组成员，四级调研员		福州市数据管理局	https://sjglj.fuzhou.gov.cn/zwgk/jgxx/ldxx/lxh/	2423
+周晔		5		福建省	福州市	https://sjglj.fuzhou.gov.cn/zwgk/jgxx/	福州市数据管理局党组成员、副局长		福州市数据管理局	https://sjglj.fuzhou.gov.cn/zwgk/jgxx/ldxx/zy/	2423

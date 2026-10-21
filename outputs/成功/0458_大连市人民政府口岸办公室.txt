@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐经意		1		辽宁省	大连市	https://www.dl.gov.cn/col/col9126/index.html?vc_xxgkarea=2103000006&number=DL014&jh=263	主任，市自贸办副主任		大连市人民政府口岸办公室	https://www.dl.gov.cn/art/2025/11/24/art_9127_2396104.html	0458
+张军		2		辽宁省	大连市	https://www.dl.gov.cn/col/col9126/index.html?vc_xxgkarea=2103000006&number=DL014&jh=263	党组成员，市委口岸工委专职副书记		大连市人民政府口岸办公室	https://www.dl.gov.cn/art/2026/1/5/art_9127_2494212.html	0458
+郑子德		3		辽宁省	大连市	https://www.dl.gov.cn/col/col9126/index.html?vc_xxgkarea=2103000006&number=DL014&jh=263	党组成员、副主任，市委口岸工委委员		大连市人民政府口岸办公室	https://www.dl.gov.cn/art/2025/11/24/art_9127_2396105.html	0458
+吕其鹏		4		辽宁省	大连市	https://www.dl.gov.cn/col/col9126/index.html?vc_xxgkarea=2103000006&number=DL014&jh=263	党组成员、副主任，市委口岸工委委员		大连市人民政府口岸办公室	https://www.dl.gov.cn/art/2025/11/24/art_9127_2396108.html	0458

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈东明		1		全国		http://www.yrcc.gov.cn/zjhw/	党组书记、主任		黄河水利委员会	http://www.yrcc.gov.cn/zjhw/hwld/cdm/	3283
+徐雪红		2		全国		http://www.yrcc.gov.cn/zjhw/	副主任		黄河水利委员会	http://www.yrcc.gov.cn/zjhw/hwld/xxh/	3283
+马永来		3		全国		http://www.yrcc.gov.cn/zjhw/	副主任、党组成员		黄河水利委员会	http://www.yrcc.gov.cn/zjhw/hwld/myl/	3283
+李群		4		全国		http://www.yrcc.gov.cn/zjhw/	副主任、党组成员		黄河水利委员会	http://www.yrcc.gov.cn/zjhw/hwld/lq/	3283
+任红梅		5		全国		http://www.yrcc.gov.cn/zjhw/	党组成员		黄河水利委员会	http://www.yrcc.gov.cn/zjhw/hwld/rhm/	3283
+赵银亮		6		全国		http://www.yrcc.gov.cn/zjhw/	副主任、党组成员		黄河水利委员会	http://www.yrcc.gov.cn/zjhw/hwld/zyl/	3283

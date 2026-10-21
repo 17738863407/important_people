@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙繁柏		1		辽宁省		http://www.lnxf.gov.cn/PublicInfo/PublicInfo	局长		辽宁省信访局	http://www.lnxf.gov.cn/PublicInfo/LeaderDetail?Id=62325dfb-1b85-4701-96cc-12466e44fc2b	1430
+张昊		2		辽宁省		http://www.lnxf.gov.cn/PublicInfo/PublicInfo	副局长		辽宁省信访局	http://www.lnxf.gov.cn/PublicInfo/LeaderDetail?Id=ca0d681a-92f8-47e2-84f4-af3c1912d296	1430
+张巍		3		辽宁省		http://www.lnxf.gov.cn/PublicInfo/PublicInfo	副局长		辽宁省信访局	http://www.lnxf.gov.cn/PublicInfo/LeaderDetail?Id=3ef95acf-db92-4d79-b13c-a933f8599e1f	1430
+关文浩		4		辽宁省		http://www.lnxf.gov.cn/PublicInfo/PublicInfo	副局长		辽宁省信访局	http://www.lnxf.gov.cn/PublicInfo/LeaderDetail?Id=8cca0b2f-e1b6-4f4f-b85e-000ace6bba4d	1430

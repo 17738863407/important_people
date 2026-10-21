@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王兴宁		1		陕西省		https://www.qinfeng.gov.cn/xxgk/ldjg.htm	中国共产党陕西省第十四届纪律检查委员会书记；中国共产党陕西省第十四届纪律检查委员会常委；陕西省监察委员会主任		陕西省纪委监委		4511
+马希良		2		陕西省		https://www.qinfeng.gov.cn/xxgk/ldjg.htm	中国共产党陕西省第十四届纪律检查委员会副书记；中国共产党陕西省第十四届纪律检查委员会常委；陕西省监察委员会副主任		陕西省纪委监委		4511
+何备战		3		陕西省		https://www.qinfeng.gov.cn/xxgk/ldjg.htm	中国共产党陕西省第十四届纪律检查委员会副书记；中国共产党陕西省第十四届纪律检查委员会常委；陕西省监察委员会副主任		陕西省纪委监委		4511
+苏斌		4		陕西省		https://www.qinfeng.gov.cn/xxgk/ldjg.htm	中国共产党陕西省第十四届纪律检查委员会副书记；中国共产党陕西省第十四届纪律检查委员会常委；陕西省监察委员会副主任		陕西省纪委监委		4511
+田沐臣		5		陕西省		https://www.qinfeng.gov.cn/xxgk/ldjg.htm	中国共产党陕西省第十四届纪律检查委员会副书记；中国共产党陕西省第十四届纪律检查委员会常委；陕西省监察委员会副主任		陕西省纪委监委		4511
+邓峰彬		6		陕西省		https://www.qinfeng.gov.cn/xxgk/ldjg.htm	中国共产党陕西省第十四届纪律检查委员会常委		陕西省纪委监委		4511
+陈心亮		7		陕西省		https://www.qinfeng.gov.cn/xxgk/ldjg.htm	中国共产党陕西省第十四届纪律检查委员会常委		陕西省纪委监委		4511
+张育奎		8		陕西省		https://www.qinfeng.gov.cn/xxgk/ldjg.htm	中国共产党陕西省第十四届纪律检查委员会常委		陕西省纪委监委		4511
+张永祥		9		陕西省		https://www.qinfeng.gov.cn/xxgk/ldjg.htm	中国共产党陕西省第十四届纪律检查委员会常委		陕西省纪委监委		4511
+张倩		10		陕西省		https://www.qinfeng.gov.cn/xxgk/ldjg.htm	中国共产党陕西省第十四届纪律检查委员会常委		陕西省纪委监委		4511
+牛钧		11		陕西省		https://www.qinfeng.gov.cn/xxgk/ldjg.htm	中国共产党陕西省第十四届纪律检查委员会常委		陕西省纪委监委		4511

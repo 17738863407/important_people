@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+江联军		1		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/bgt/gkml/jgxx/202112/t20211214_4002884.shtml	市政府副秘书长，市政府办公厅党组副书记、主任		青岛市人民政府办公厅		3980
+苑晓辉		2		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/bgt/gkml/jgxx/202112/t20211214_4002884.shtml	市政府办公厅党组成员、副主任		青岛市人民政府办公厅		3980
+王军		3		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/bgt/gkml/jgxx/202112/t20211214_4002884.shtml	市政府办公厅党组成员、副主任（挂职）		青岛市人民政府办公厅		3980
+于江平		4		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/bgt/gkml/jgxx/202112/t20211214_4002884.shtml	市政府办公厅党组成员、副主任		青岛市人民政府办公厅		3980
+孙磊		5		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/bgt/gkml/jgxx/202112/t20211214_4002884.shtml	市政府办公厅副主任（挂职）		青岛市人民政府办公厅		3980
+栾珂		6		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/bgt/gkml/jgxx/202112/t20211214_4002884.shtml	市政府办公厅党组成员、副主任		青岛市人民政府办公厅		3980

@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张成中		1		全国		https://www.mem.gov.cn/jg/	应急管理部党委书记、部长，国家消防救援局第一政治委员		应急管理部	https://www.mem.gov.cn/jg/ldxx/zhchzh/	1552
+徐加爱		2		全国		https://www.mem.gov.cn/jg/	应急管理部党委委员、副部长		应急管理部	https://www.mem.gov.cn/jg/ldxx/xjai/	1552
+胡明朗		3		全国		https://www.mem.gov.cn/jg/	应急管理部党委委员、副部长		应急管理部	https://www.mem.gov.cn/jg/ldxx/hml/	1552
+蒲宇飞		4		全国		https://www.mem.gov.cn/jg/	第二十届中央纪委委员，应急管理部党委委员、中央纪委国家监委驻应急管理部纪检监察组组长		应急管理部	https://www.mem.gov.cn/jg/ldxx/pyf/	1552
+宋元明		5		全国		https://www.mem.gov.cn/jg/	应急管理部党委委员、副部长，国家安全生产应急救援中心党委书记、主任		应急管理部	https://www.mem.gov.cn/jg/ldxx/sym/	1552
+陈敏		6		全国		https://www.mem.gov.cn/jg/	应急管理部党委委员、副部长，兼水利部党组成员、副部长		应急管理部	https://www.mem.gov.cn/jg/ldxx/chm/	1552
+李良生		7		全国		https://www.mem.gov.cn/jg/	应急管理部党委委员、政治部主任，机关党委书记，国家消防救援局党委书记、政治委员，副总监消防救援衔		应急管理部	https://www.mem.gov.cn/jg/ldxx/llsh/	1552
+周天		8		全国		https://www.mem.gov.cn/jg/	应急管理部党委委员、副部长，国家消防救援局局长、党委副书记，副总监消防救援衔		应急管理部	https://www.mem.gov.cn/jg/ldxx/zhoutian/	1552
+黄锦生		9		全国		https://www.mem.gov.cn/jg/	应急管理部党委委员，国家矿山安全监察局党组书记、局长		应急管理部	https://www.mem.gov.cn/jg/ldxx/hjs_5505/	1552
+王昆		10		全国		https://www.mem.gov.cn/jg/	应急管理部党委委员，中国地震局党组书记、局长		应急管理部	https://www.mem.gov.cn/jg/ldxx/wangkun/	1552
+宋新春		11		全国		https://www.mem.gov.cn/jg/	应急管理部党委委员，兼国家林业和草原局（国家公园管理局）党组成员、副局长		应急管理部	https://www.mem.gov.cn/jg/ldxx/sxch/	1552

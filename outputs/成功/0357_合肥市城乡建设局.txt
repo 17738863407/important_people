@@ -1,0 +1,18 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张刚		1		安徽省	合肥市	https://cxjsj.hefei.gov.cn/zwgk/jsjjj/18188619.html	党组书记、局长		合肥市城乡建设局		0357
+魏邦仁		2		安徽省	合肥市	https://cxjsj.hefei.gov.cn/zwgk/jsjjj/18188619.html	党组成员、副局长		合肥市城乡建设局		0357
+万琳		3		安徽省	合肥市	https://cxjsj.hefei.gov.cn/zwgk/jsjjj/18188619.html	党组成员、副局长		合肥市城乡建设局		0357
+丁亮		4		安徽省	合肥市	https://cxjsj.hefei.gov.cn/zwgk/jsjjj/18188619.html	党组成员、派驻纪检组组长		合肥市城乡建设局		0357
+沈国宝		5		安徽省	合肥市	https://cxjsj.hefei.gov.cn/zwgk/jsjjj/18188619.html	党组成员、副局长		合肥市城乡建设局		0357
+李先强		6		安徽省	合肥市	https://cxjsj.hefei.gov.cn/zwgk/jsjjj/18188619.html	市城乡建设局正县级干部，合肥理工学院党委副书记、副院长		合肥市城乡建设局		0357
+李祥		7		安徽省	合肥市	https://cxjsj.hefei.gov.cn/zwgk/jsjjj/18188619.html	总工程师、三级调研员		合肥市城乡建设局		0357
+李家富		8		安徽省	合肥市	https://cxjsj.hefei.gov.cn/zwgk/jsjjj/18188619.html	总经济师、一级主任科员		合肥市城乡建设局		0357
+张权		9		安徽省	合肥市	https://cxjsj.hefei.gov.cn/zwgk/jsjjj/18188619.html	市纪委监委二级调研员、三级高级监察官		合肥市城乡建设局		0357
+昌献林		10		安徽省	合肥市	https://cxjsj.hefei.gov.cn/zwgk/jsjjj/18188619.html	三级调研员		合肥市城乡建设局		0357
+张立超		11		安徽省	合肥市	https://cxjsj.hefei.gov.cn/zwgk/jsjjj/18188619.html	三级调研员、窗口首席代表		合肥市城乡建设局		0357
+郑震		12		安徽省	合肥市	https://cxjsj.hefei.gov.cn/zwgk/jsjjj/18188619.html	四级调研员		合肥市城乡建设局		0357
+纵丽莉		13		安徽省	合肥市	https://cxjsj.hefei.gov.cn/zwgk/jsjjj/18188619.html	四级调研员、妇联主席		合肥市城乡建设局		0357
+刘四青		14		安徽省	合肥市	https://cxjsj.hefei.gov.cn/zwgk/jsjjj/18188619.html	四级调研员		合肥市城乡建设局		0357
+梅承林		15		安徽省	合肥市	https://cxjsj.hefei.gov.cn/zwgk/jsjjj/18188619.html	四级调研员、机关党委副书记兼机关纪委书记		合肥市城乡建设局		0357
+侯学庆		16		安徽省	合肥市	https://cxjsj.hefei.gov.cn/zwgk/jsjjj/18188619.html	四级调研员		合肥市城乡建设局		0357
+杨雨田		17		安徽省	合肥市	https://cxjsj.hefei.gov.cn/zwgk/jsjjj/18188619.html	四级调研员、大建设协调推进处处长		合肥市城乡建设局		0357

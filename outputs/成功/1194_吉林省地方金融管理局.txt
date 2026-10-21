@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吕艳玲		1		吉林省		https://jr.jl.gov.cn/jggk/jggk/ldjj/lvyl/	副主任，副局长		吉林省地方金融管理局		1194
+宋建军		2		吉林省		https://jr.jl.gov.cn/jggk/jggk/ldjj/lvyl/	专职副书记		吉林省地方金融管理局	https://jr.jl.gov.cn/jggk/jggk/ldjj/songjj/	1194
+胡可果		3		吉林省		https://jr.jl.gov.cn/jggk/jggk/ldjj/lvyl/	副主任，副局长		吉林省地方金融管理局	https://jr.jl.gov.cn/jggk/jggk/ldjj/hkg/	1194
+陈光远		4		吉林省		https://jr.jl.gov.cn/jggk/jggk/ldjj/lvyl/	副主任，副局长		吉林省地方金融管理局	https://jr.jl.gov.cn/jggk/jggk/ldjj/cyg/	1194
+包长东		5		吉林省		https://jr.jl.gov.cn/jggk/jggk/ldjj/lvyl/	副主任，副局长		吉林省地方金融管理局	https://jr.jl.gov.cn/jggk/jggk/ldjj/bcd/	1194
+苗忠有		6		吉林省		https://jr.jl.gov.cn/jggk/jggk/ldjj/lvyl/	一级巡视员		吉林省地方金融管理局	https://jr.jl.gov.cn/jggk/jggk/ldjj/miaozy/	1194

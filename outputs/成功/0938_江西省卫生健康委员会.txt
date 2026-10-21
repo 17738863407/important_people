@@ -1,0 +1,18 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王仁辉		1		江西省		http://hc.jiangxi.gov.cn/jxswsjkwyh/zzjg/index.html	党组书记、主任		江西省卫生健康委员会	http://hc.jiangxi.gov.cn/jxswsjkwyh/wrh/content/content_2021133077295665152.html	0938
+江晓斌		2		江西省		http://hc.jiangxi.gov.cn/jxswsjkwyh/zzjg/index.html	党组成员、副主任		江西省卫生健康委员会	http://hc.jiangxi.gov.cn/jxswsjkwyh/dzcyfzrjxb/content/content_1856163103882285056.html	0938
+于保春		3		江西省		http://hc.jiangxi.gov.cn/jxswsjkwyh/zzjg/index.html	党组成员、省纪委监委驻委纪检监察组组长		江西省卫生健康委员会	http://hc.jiangxi.gov.cn/jxswsjkwyh/dzcysjwsjwzwjjjczzzybc/content/content_1854698448886624256.html	0938
+孙常翔		4		江西省		http://hc.jiangxi.gov.cn/jxswsjkwyh/zzjg/index.html	党组成员、副主任		江西省卫生健康委员会	http://hc.jiangxi.gov.cn/jxswsjkwyh/dzcyfzrscx/content/content_1854503712078884864.html	0938
+刘晓辉		5		江西省		http://hc.jiangxi.gov.cn/jxswsjkwyh/zzjg/index.html	党组成员，省中医药管理局党组书记、局长		江西省卫生健康委员会	http://hc.jiangxi.gov.cn/jxswsjkwyh/dzcyszyygljdzsjjzlxh/content/content_1854681337539784704.html	0938
+朱世鸣		6		江西省		http://hc.jiangxi.gov.cn/jxswsjkwyh/zzjg/index.html	党组成员、副主任		江西省卫生健康委员会	http://hc.jiangxi.gov.cn/jxswsjkwyh/dzcyzsm/content/content_1856169966489243648.html	0938
+殷剑		7		江西省		http://hc.jiangxi.gov.cn/jxswsjkwyh/zzjg/index.html	南昌医学院党委书记		江西省卫生健康委员会	http://hc.jiangxi.gov.cn/jxswsjkwyh/ncyxydwsjyj/pc/content/content_1876830500011868160.html	0938
+李秋根		8		江西省		http://hc.jiangxi.gov.cn/jxswsjkwyh/zzjg/index.html	南昌医学院党委副书记、院长		江西省卫生健康委员会	http://hc.jiangxi.gov.cn/jxswsjkwyh/ncyxydwfsjyclqg437/content/content_1854590272069627904.html	0938
+彭维杰		9		江西省		http://hc.jiangxi.gov.cn/jxswsjkwyh/zzjg/index.html	南昌医学院党委副书记		江西省卫生健康委员会	http://hc.jiangxi.gov.cn/jxswsjkwyh/ncyxydwfsjpwj/content/content_1856174997598834688.html	0938
+叶耀辉		10		江西省		http://hc.jiangxi.gov.cn/jxswsjkwyh/zzjg/index.html	南昌医学院党委委员、副院长		江西省卫生健康委员会	http://hc.jiangxi.gov.cn/jxswsjkwyh/ncyxydwwyfycyyh/content/content_1854579694227877888.html	0938
+赖国文		11		江西省		http://hc.jiangxi.gov.cn/jxswsjkwyh/zzjg/index.html	南昌医学院党委委员、副院长		江西省卫生健康委员会	http://hc.jiangxi.gov.cn/jxswsjkwyh/ncyxydwwyfyclgw/content/content_1854585310191218688.html	0938
+叶德胜		12		江西省		http://hc.jiangxi.gov.cn/jxswsjkwyh/zzjg/index.html	南昌医学院党委委员、纪委书记		江西省卫生健康委员会	http://hc.jiangxi.gov.cn/jxswsjkwyh/ncyxydwwyjwsjyds/content/content_1854590406941667328.html	0938
+杨锋		13		江西省		http://hc.jiangxi.gov.cn/jxswsjkwyh/zzjg/index.html	南昌医学院党委委员、副院长		江西省卫生健康委员会	http://hc.jiangxi.gov.cn/jxswsjkwyh/srmyydwfsjyctyw/content/content_1854719554850844672.html	0938
+周志刚		14		江西省		http://hc.jiangxi.gov.cn/jxswsjkwyh/zzjg/index.html	江西省人民医院党委书记		江西省卫生健康委员会	http://hc.jiangxi.gov.cn/jxswsjkwyh/zzg/content/content_2099328830449201152.html	0938
+曾向华		15		江西省		http://hc.jiangxi.gov.cn/jxswsjkwyh/zzjg/index.html	江西省卫生健康委员会二级巡视员		江西省卫生健康委员会	http://hc.jiangxi.gov.cn/jxswsjkwyh/wejxsycxh/content/content_1897704719383461888.html	0938
+张水红		16		江西省		http://hc.jiangxi.gov.cn/jxswsjkwyh/zzjg/index.html	江西省卫生健康委二级巡视员		江西省卫生健康委员会	http://hc.jiangxi.gov.cn/jxswsjkwyh/wejxsyzxh/pc/content/1983444185379180544/content_1983444185379180544.html	0938
+谢建文		17		江西省		http://hc.jiangxi.gov.cn/jxswsjkwyh/zzjg/index.html	江西省疾病预防控制局二级巡视员		江西省卫生健康委员会	http://hc.jiangxi.gov.cn/jxswsjkwyh/xjw/pc/content/2098335517248139264/content_2098335517248139264.html	0938

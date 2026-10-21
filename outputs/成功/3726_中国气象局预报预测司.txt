@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+梁丰		1		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/nsjg/202008/t20200827_4627687.html	司长		中国气象局预报预测司		3726
+魏东		2		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/nsjg/202008/t20200827_4627687.html	副司长		中国气象局预报预测司		3726
+薛红喜		3		全国		https://www.cma.gov.cn/zfxxgk/gknr/jgyzn/jgsz/nsjg/202008/t20200827_4627687.html	副司长		中国气象局预报预测司		3726

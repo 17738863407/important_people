@@ -1,0 +1,17 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵岩		1		黑龙江省	哈尔滨市	https://www.hit.edu.cn/xrld/list.htm	党委书记；党委常委		哈尔滨工业大学	https://www.hit.edu.cn/2026/0310/c12277a241421/page.htm	0967
+孙雪		2		黑龙江省	哈尔滨市	https://www.hit.edu.cn/xrld/list.htm	党委常务副书记；党委常委		哈尔滨工业大学	https://www.hit.edu.cn/2026/0310/c12278a241423/page.htm	0967
+刘彦辉		3		黑龙江省	哈尔滨市	https://www.hit.edu.cn/xrld/list.htm	党委副书记；纪委书记；国家监委驻哈尔滨工业大学监察专员；党委常委		哈尔滨工业大学	https://www.hit.edu.cn/2026/0310/c12279a241424/page.htm	0967
+陈蕊		4		黑龙江省	哈尔滨市	https://www.hit.edu.cn/xrld/list.htm	党委副书记；党委常委；副校长		哈尔滨工业大学	https://www.hit.edu.cn/2026/0310/c12279a241426/page.htm	0967
+韩杰才		5		黑龙江省	哈尔滨市	https://www.hit.edu.cn/xrld/list.htm	党委常委；校长		哈尔滨工业大学	https://www.hit.edu.cn/2026/0309/c12284a241389/page.htm	0967
+刘宏		6		黑龙江省	哈尔滨市	https://www.hit.edu.cn/xrld/list.htm	党委常委；副校长		哈尔滨工业大学	https://www.hit.edu.cn/2026/0309/c12284a241388/page.htm	0967
+黄玉东		7		黑龙江省	哈尔滨市	https://www.hit.edu.cn/xrld/list.htm	党委常委；副校长		哈尔滨工业大学	https://www.hit.edu.cn/2026/0309/c12284a241387/page.htm	0967
+刘挺		8		黑龙江省	哈尔滨市	https://www.hit.edu.cn/xrld/list.htm	党委常委；副校长		哈尔滨工业大学	https://www.hit.edu.cn/2026/0309/c12284a241385/page.htm	0967
+帅永		9		黑龙江省	哈尔滨市	https://www.hit.edu.cn/xrld/list.htm	党委常委；副校长		哈尔滨工业大学	https://www.hit.edu.cn/2026/0309/c12284a241384/page.htm	0967
+刘俭		10		黑龙江省	哈尔滨市	https://www.hit.edu.cn/xrld/list.htm	党委常委；副校长		哈尔滨工业大学	https://www.hit.edu.cn/2026/0309/c12284a241383/page.htm	0967
+李明江		11		黑龙江省	哈尔滨市	https://www.hit.edu.cn/xrld/list.htm	党委常委		哈尔滨工业大学	https://www.hit.edu.cn/2026/0309/c12284a241382/page.htm	0967
+高海波		12		黑龙江省	哈尔滨市	https://www.hit.edu.cn/xrld/list.htm	党委常委；校长助理		哈尔滨工业大学	https://www.hit.edu.cn/2026/0309/c12284a241807/page.htm	0967
+岳会敏		13		黑龙江省	哈尔滨市	https://www.hit.edu.cn/xrld/list.htm	党委常委		哈尔滨工业大学	https://www.hit.edu.cn/2026/0413/c12284a241808/page.htm	0967
+范峰		14		黑龙江省	哈尔滨市	https://www.hit.edu.cn/xrld/list.htm	副校长		哈尔滨工业大学	https://www.hit.edu.cn/2026/0309/c12282a241372/page.htm	0967
+吴立刚		15		黑龙江省	哈尔滨市	https://www.hit.edu.cn/xrld/list.htm	校长助理		哈尔滨工业大学	https://www.hit.edu.cn/2026/0309/c12283a241380/page.htm	0967
+谭忆秋		16		黑龙江省	哈尔滨市	https://www.hit.edu.cn/xrld/list.htm	校长助理		哈尔滨工业大学	https://www.hit.edu.cn/2026/0309/c12283a241378/page.htm	0967

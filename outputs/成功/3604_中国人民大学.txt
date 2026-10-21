@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张东刚		1		北京市		https://www.ruc.edu.cn/xiangqing.html?index=0	党委书记；党委常委		中国人民大学	https://www.ruc.edu.cn/xiangqing.html?index=26113	3604
+马怀德		2		北京市		https://www.ruc.edu.cn/xiangqing.html?index=0	校长；党委副书记；党委常委		中国人民大学	https://www.ruc.edu.cn/xiangqing.html?index=73201	3604
+朱信凯		3		北京市		https://www.ruc.edu.cn/xiangqing.html?index=0	常务副校长；党委常委		中国人民大学	https://www.ruc.edu.cn/xiangqing.html?index=54772	3604
+何力		4		北京市		https://www.ruc.edu.cn/xiangqing.html?index=0	党委副书记；纪委书记；国家监委驻中国人民大学监察专员；党委常委		中国人民大学	https://www.ruc.edu.cn/xiangqing.html?index=27104	3604
+青格勒图		5		北京市		https://www.ruc.edu.cn/xiangqing.html?index=0	党委副书记；党委常委		中国人民大学	https://www.ruc.edu.cn/xiangqing.html?index=66210	3604
+高燕燕		6		北京市		https://www.ruc.edu.cn/xiangqing.html?index=0	党委副书记；党委常委		中国人民大学	https://www.ruc.edu.cn/xiangqing.html?index=34859	3604
+郑新业		7		北京市		https://www.ruc.edu.cn/xiangqing.html?index=0	副校长；党委常委		中国人民大学	https://www.ruc.edu.cn/xiangqing.html?index=22348	3604
+支晓强		8		北京市		https://www.ruc.edu.cn/xiangqing.html?index=0	副校长；党委常委		中国人民大学	https://www.ruc.edu.cn/xiangqing.html?index=63251	3604
+王小虎		9		北京市		https://www.ruc.edu.cn/xiangqing.html?index=0	副校长；党委常委		中国人民大学	https://www.ruc.edu.cn/xiangqing.html?index=42637	3604
+李明		10		北京市		https://www.ruc.edu.cn/xiangqing.html?index=0	校长助理		中国人民大学		3604

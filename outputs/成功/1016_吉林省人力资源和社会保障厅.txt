@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邵波		1		吉林省		https://hrss.jl.gov.cn/jgzn/	省人社厅党组书记、厅长		吉林省人力资源和社会保障厅	https://hrss.jl.gov.cn/jgzn/ldjj/202407/t20240710_8932417.html	1016
+彭昭锋		2		吉林省		https://hrss.jl.gov.cn/jgzn/	省人社厅党组成员、驻厅纪检监察组组长		吉林省人力资源和社会保障厅	https://hrss.jl.gov.cn/jgzn/ldjj/202407/t20240710_8932412.html	1016
+李大鹏		3		吉林省		https://hrss.jl.gov.cn/jgzn/	省人社厅党组成员、副厅长，省社保局党组书记、局长		吉林省人力资源和社会保障厅	https://hrss.jl.gov.cn/jgzn/ldjj/202407/t20240710_8932416.html	1016
+张国楷		4		吉林省		https://hrss.jl.gov.cn/jgzn/	省人社厅党组成员、副厅长		吉林省人力资源和社会保障厅	https://hrss.jl.gov.cn/jgzn/ldjj/202412/t20241205_9005305.html	1016
+杨金辉		5		吉林省		https://hrss.jl.gov.cn/jgzn/	省人社厅党组成员、副厅长		吉林省人力资源和社会保障厅	https://hrss.jl.gov.cn/jgzn/ldjj/202503/t20250303_9072463.html	1016
+黄一杰		6		吉林省		https://hrss.jl.gov.cn/jgzn/	省人社厅党组成员、副厅长		吉林省人力资源和社会保障厅	https://hrss.jl.gov.cn/jgzn/ldjj/202503/t20250303_9072464.html	1016
+王予修		7		吉林省		https://hrss.jl.gov.cn/jgzn/	省人社厅党组成员、省就业服务局局长		吉林省人力资源和社会保障厅	https://hrss.jl.gov.cn/jgzn/ldjj/202407/t20240710_8932408.html	1016
+曹宝富		8		吉林省		https://hrss.jl.gov.cn/jgzn/	省人社厅党组成员、副厅长		吉林省人力资源和社会保障厅	https://hrss.jl.gov.cn/jgzn/ldjj/202609/t20260914_9710802.html	1016

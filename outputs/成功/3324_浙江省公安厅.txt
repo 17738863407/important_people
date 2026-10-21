@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨青玖		1		浙江省		https://www.zj.gov.cn/dctslm/zjsgat/index.html	副省长、省政府党组成员，省委政法委副书记，省公安厅党委书记、厅长、督察长		浙江省公安厅	https://www.zj.gov.cn/art/2023/7/3/art_1229277999_145201.html	3324
+罗杰		2		浙江省		https://www.zj.gov.cn/dctslm/zjsgat/index.html	厅党委副书记、常务副厅长，省委政法委委员		浙江省公安厅	https://www.zj.gov.cn/art/2022/2/15/art_1229277999_122001.html	3324
+王顺大		3		浙江省		https://www.zj.gov.cn/dctslm/zjsgat/index.html	厅党委副书记（专职，保留正厅长级）		浙江省公安厅	https://www.zj.gov.cn/col/col1229277999/art/2026/art_387dced79a363a1dc5018621ecdd3168.html	3324
+吴建新		4		浙江省		https://www.zj.gov.cn/dctslm/zjsgat/index.html	公安厅党委委员，特勤局党委书记、局长		浙江省公安厅	https://www.zj.gov.cn/art/2025/1/21/art_1229277999_173577.html	3324
+张宏亮		5		浙江省		https://www.zj.gov.cn/dctslm/zjsgat/index.html	厅党委委员、副厅长（兼），杭州市人民政府党组成员、副市长、市委政法委副书记、市公安局党委书记、局长、督察长		浙江省公安厅	https://www.zj.gov.cn/col/col1229277999/art/2026/art_ec416169c48df5125b6a447b44367d97.html	3324
+聂展云		6		浙江省		https://www.zj.gov.cn/dctslm/zjsgat/index.html	厅党委委员、副厅长，一级警务专员		浙江省公安厅	https://www.zj.gov.cn/art/2019/11/7/art_1229277999_42317.html	3324
+魏明		7		浙江省		https://www.zj.gov.cn/dctslm/zjsgat/index.html	厅党委委员、副厅长、一级警务专员		浙江省公安厅	https://www.zj.gov.cn/art/2020/9/23/art_1229277999_106545.html	3324
+张飞军		8		浙江省		https://www.zj.gov.cn/dctslm/zjsgat/index.html	厅党委委员、副厅长		浙江省公安厅	https://www.zj.gov.cn/art/2020/4/15/art_1229277999_42313.html	3324
+赵旭升		9		浙江省		https://www.zj.gov.cn/dctslm/zjsgat/index.html	厅党委委员、派驻纪检监察组组长		浙江省公安厅	https://www.zj.gov.cn/art/2021/10/27/art_1229277999_113751.html	3324
+俞流江		10		浙江省		https://www.zj.gov.cn/dctslm/zjsgat/index.html	厅党委委员、副厅长、一级警务专员		浙江省公安厅	https://www.zj.gov.cn/art/2023/4/13/art_1229277999_142746.html	3324
+毛伟平		11		浙江省		https://www.zj.gov.cn/dctslm/zjsgat/index.html	厅党委委员、副厅长		浙江省公安厅	https://www.zj.gov.cn/col/col1229277999/art/2026/art_a35821328f3efb1d1d294a01853a598b.html	3324
+徐建役		12		浙江省		https://www.zj.gov.cn/dctslm/zjsgat/index.html	厅党委委员、副厅长		浙江省公安厅	https://www.zj.gov.cn/col/col1229277999/art/2026/art_6d673b97883347660f7c076b4234a986.html	3324
+熊国和		13		浙江省		https://www.zj.gov.cn/dctslm/zjsgat/index.html	厅党委委员、政治部主任		浙江省公安厅	https://www.zj.gov.cn/art/2023/4/13/art_1229277999_142749.html	3324

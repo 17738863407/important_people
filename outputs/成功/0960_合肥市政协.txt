@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+韩冰		1		安徽省	合肥市	http://www.hfszx.org.cn/hfzx/web/list.jsp?strWebSiteId=1354153871125000&strColId=1508142797093000	党组书记、主席		合肥市政协		0960
+王海霞		2		安徽省	合肥市	http://www.hfszx.org.cn/hfzx/web/list.jsp?strWebSiteId=1354153871125000&strColId=1508142797093000	市委常委、统战部部长市政协党组副书记		合肥市政协		0960
+吴春梅		3		安徽省	合肥市	http://www.hfszx.org.cn/hfzx/web/list.jsp?strWebSiteId=1354153871125000&strColId=1508142797093000	副主席		合肥市政协		0960
+谢海涛		4		安徽省	合肥市	http://www.hfszx.org.cn/hfzx/web/list.jsp?strWebSiteId=1354153871125000&strColId=1508142797093000	副主席		合肥市政协		0960
+张怀科		5		安徽省	合肥市	http://www.hfszx.org.cn/hfzx/web/list.jsp?strWebSiteId=1354153871125000&strColId=1508142797093000	副主席		合肥市政协		0960
+王杰才		6		安徽省	合肥市	http://www.hfszx.org.cn/hfzx/web/list.jsp?strWebSiteId=1354153871125000&strColId=1508142797093000	党组成员、副主席		合肥市政协		0960
+何庆瑞		7		安徽省	合肥市	http://www.hfszx.org.cn/hfzx/web/list.jsp?strWebSiteId=1354153871125000&strColId=1508142797093000	副主席		合肥市政协		0960
+罗平		8		安徽省	合肥市	http://www.hfszx.org.cn/hfzx/web/list.jsp?strWebSiteId=1354153871125000&strColId=1508142797093000	党组成员、副主席		合肥市政协		0960
+陈明		9		安徽省	合肥市	http://www.hfszx.org.cn/hfzx/web/list.jsp?strWebSiteId=1354153871125000&strColId=1508142797093000	党组成员、副主席		合肥市政协		0960
+张露		10		安徽省	合肥市	http://www.hfszx.org.cn/hfzx/web/list.jsp?strWebSiteId=1354153871125000&strColId=1508142797093000	副主席		合肥市政协		0960
+苏祥		11		安徽省	合肥市	http://www.hfszx.org.cn/hfzx/web/list.jsp?strWebSiteId=1354153871125000&strColId=1508142797093000	党组成员 、秘书长		合肥市政协		0960
+龚翠兰		12		安徽省	合肥市	http://www.hfszx.org.cn/hfzx/web/list.jsp?strWebSiteId=1354153871125000&strColId=1508142797093000	副秘书长、办公室主任		合肥市政协		0960
+贾东明		13		安徽省	合肥市	http://www.hfszx.org.cn/hfzx/web/list.jsp?strWebSiteId=1354153871125000&strColId=1508142797093000	副秘书长		合肥市政协		0960
+陈传东		14		安徽省	合肥市	http://www.hfszx.org.cn/hfzx/web/list.jsp?strWebSiteId=1354153871125000&strColId=1508142797093000	副秘书长		合肥市政协		0960

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+景小勇		1		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202109/t20210926_927987.htm	党委书记、董事长		中国东方演艺集团有限公司		1525
+刘鹏		2		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202109/t20210926_927987.htm	党委副书记、总经理		中国东方演艺集团有限公司		1525
+尹寿松		3		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202109/t20210926_927987.htm	党委副书记、纪委书记		中国东方演艺集团有限公司		1525
+沈晨		4		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202109/t20210926_927987.htm	艺术总监		中国东方演艺集团有限公司		1525
+张蕾		5		全国		https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/202109/t20210926_927987.htm	副总经理、董事		中国东方演艺集团有限公司		1525

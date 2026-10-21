@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王正谱		1		全国		http://www.hebei.gov.cn/columns/179e5ec1-f239-49ac-a83d-9260dd430dc7/index.html	省委副书记，省长		河北省人民政府	http://www.hebei.gov.cn/columns/9c314fd8-64bf-48f2-9d67-9869721c7cd2/index.html	0947
+赵辰昕		2		全国		http://www.hebei.gov.cn/columns/179e5ec1-f239-49ac-a83d-9260dd430dc7/index.html	省委常委，副省长		河北省人民政府	http://www.hebei.gov.cn/columns/86ebc504-c561-4fbd-b33c-575adda412b6/index.html	0947
+金晖		3		全国		http://www.hebei.gov.cn/columns/179e5ec1-f239-49ac-a83d-9260dd430dc7/index.html	副省长		河北省人民政府	http://www.hebei.gov.cn/columns/d8ab9069-6ede-481c-89c1-ba946a5299da/index.html	0947
+王立彤		4		全国		http://www.hebei.gov.cn/columns/179e5ec1-f239-49ac-a83d-9260dd430dc7/index.html	副省长		河北省人民政府	http://www.hebei.gov.cn/columns/71883ba8-bb26-484f-85ea-0838a65164c9/index.html	0947
+董兆伟		5		全国		http://www.hebei.gov.cn/columns/179e5ec1-f239-49ac-a83d-9260dd430dc7/index.html	副省长		河北省人民政府	http://www.hebei.gov.cn/columns/93181761-fa99-4453-a9cf-2875cfa7bed8/index.html	0947
+赵大春		6		全国		http://www.hebei.gov.cn/columns/179e5ec1-f239-49ac-a83d-9260dd430dc7/index.html	副省长		河北省人民政府	http://www.hebei.gov.cn/columns/eec036b2-fd6e-403c-8725-d4e634d75228/index.html	0947
+赵新海		7		全国		http://www.hebei.gov.cn/columns/179e5ec1-f239-49ac-a83d-9260dd430dc7/index.html	副省长		河北省人民政府	http://www.hebei.gov.cn/columns/9d0c97ff-e57f-4390-b09d-c659f68fea8b/index.html	0947
+朱浩文		8		全国		http://www.hebei.gov.cn/columns/179e5ec1-f239-49ac-a83d-9260dd430dc7/index.html	秘书长		河北省人民政府	http://www.hebei.gov.cn/columns/b721df1b-1677-4eed-bb3d-456b8cec49b7/index.html	0947

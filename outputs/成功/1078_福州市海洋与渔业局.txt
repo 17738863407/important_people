@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+林志斌		1		福建省	福州市	http://hyj.fuzhou.gov.cn/zwgk/jgsz/	党组书记、局长		福州市海洋与渔业局	http://hyj.fuzhou.gov.cn/zwgk/jgsz/ldbz/lzb/	1078
+马祖胜		2		福建省	福州市	http://hyj.fuzhou.gov.cn/zwgk/jgsz/	党组成员、三级调研员		福州市海洋与渔业局	http://hyj.fuzhou.gov.cn/zwgk/jgsz/ldbz/mzs/	1078
+陈曦		3		福建省	福州市	http://hyj.fuzhou.gov.cn/zwgk/jgsz/	党组成员、副局长、三级调研员		福州市海洋与渔业局	http://hyj.fuzhou.gov.cn/zwgk/jgsz/ldbz/cx/	1078
+林海涛		4		福建省	福州市	http://hyj.fuzhou.gov.cn/zwgk/jgsz/	党组成员、副局长、三级调研员		福州市海洋与渔业局	http://hyj.fuzhou.gov.cn/zwgk/jgsz/ldbz/lht/	1078
+林燕忠		5		福建省	福州市	http://hyj.fuzhou.gov.cn/zwgk/jgsz/	党组成员、副局长		福州市海洋与渔业局	http://hyj.fuzhou.gov.cn/zwgk/jgsz/ldbz/lyz/	1078
+陈双锦		6		福建省	福州市	http://hyj.fuzhou.gov.cn/zwgk/jgsz/	党组成员、四级调研员		福州市海洋与渔业局	http://hyj.fuzhou.gov.cn/zwgk/jgsz/ldbz/csj/	1078

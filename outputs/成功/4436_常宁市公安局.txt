@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+罗鹏		1		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/gaj/gzjg/ldxx/index.html	常宁市人民政府副市长,市公安局党委书记、局长		常宁市公安局	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/gaj/gzjg/ldxx/20260112/i3848276.html	4436
+贺涛涛		2		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/gaj/gzjg/ldxx/index.html	常宁市公安局党委副书记、政委		常宁市公安局	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/gaj/gzjg/ldxx/20240318/i3293909.html	4436
+王国生		3		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/gaj/gzjg/ldxx/index.html	常宁市公安局党委副书记、副局长		常宁市公安局	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/gaj/gzjg/ldxx/20240318/i3293921.html	4436
+周湘涛		4		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/gaj/gzjg/ldxx/index.html	常宁市公安局党委委员、副局长		常宁市公安局	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/gaj/gzjg/ldxx/20240318/i3293939.html	4436
+黄程		5		湖南省	衡阳市	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/gaj/gzjg/ldxx/index.html	常宁市公安局党委委员、副局长		常宁市公安局	https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/gaj/gzjg/ldxx/20240318/i3293932.html	4436

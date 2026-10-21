@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孙志洋		1		广东省	广州市	https://www.gz.gov.cn/zwgk/ldzc/index.html	广州市委副书记、市长、市政府党组书记		广州市人民政府	https://www.gz.gov.cn/zwgk/ldzc/content/post_9523967.html	0803
+边立明		2		广东省	广州市	https://www.gz.gov.cn/zwgk/ldzc/index.html	广州市委常委，市政府常务副市长、市政府党组副书记		广州市人民政府	https://www.gz.gov.cn/zwgk/ldzc/content/post_11025452.html	0803
+张锐		3		广东省	广州市	https://www.gz.gov.cn/zwgk/ldzc/index.html	广州市副市长、市政府党组成员，市委政法委第一副书记，市公安局党委书记、局长、督察长		广州市人民政府	https://www.gz.gov.cn/zwgk/ldzc/content/post_7935773.html	0803
+江智涛		4		广东省	广州市	https://www.gz.gov.cn/zwgk/ldzc/index.html	广州市副市长，全国政协委员，民盟第十三届中央委员会委员，民盟广东省第十六届委员会副主委，民盟广州市第十七届委员会主委		广州市人民政府	https://www.gz.gov.cn/zwgk/ldzc/content/post_8066040.html	0803
+胡浩		5		广东省	广州市	https://www.gz.gov.cn/zwgk/ldzc/index.html	广州市副市长、市政府党组成员		广州市人民政府	https://www.gz.gov.cn/zwgk/ldzc/content/post_10245945.html	0803
+赵国生		6		广东省	广州市	https://www.gz.gov.cn/zwgk/ldzc/index.html	广州市副市长，市政府党组成员		广州市人民政府	https://www.gz.gov.cn/zwgk/ldzc/content/post_10667424.html	0803
+潘志军		7		广东省	广州市	https://www.gz.gov.cn/zwgk/ldzc/index.html	广州市政府党组成员、秘书长、机关党组书记、办公厅主任		广州市人民政府	https://www.gz.gov.cn/zwgk/ldzc/content/post_10650754.html	0803

@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+沈凯波		1		浙江省	杭州市	https://tzcj.hangzhou.gov.cn/col/col1604316/index.html	杭州市投资促进局党组书记、局长		杭州市投资促进局		2838
+盛晓蓉		2		浙江省	杭州市	https://tzcj.hangzhou.gov.cn/col/col1604316/index.html	杭州市投资促进局党组成员、副局长		杭州市投资促进局		2838
+蔡善强		3		浙江省	杭州市	https://tzcj.hangzhou.gov.cn/col/col1604316/index.html	杭州市投资促进局副局长		杭州市投资促进局		2838
+李晓阳		4		浙江省	杭州市	https://tzcj.hangzhou.gov.cn/col/col1604316/index.html	杭州市投资促进局党组成员、二级巡视员		杭州市投资促进局		2838
+蔡儒杰		5		浙江省	杭州市	https://tzcj.hangzhou.gov.cn/col/col1604316/index.html	杭州市投资促进局党组成员、副局长		杭州市投资促进局		2838

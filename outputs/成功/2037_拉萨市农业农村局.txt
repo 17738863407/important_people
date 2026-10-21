@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郭万军		1		西藏自治区	拉萨市	http://nyncj.lasa.gov.cn/nync/dzsj/ldxx_list.shtml	拉萨市农业农村局党组书记、副局长		拉萨市农业农村局	http://nyncj.lasa.gov.cn/nync/dzsj/202306/68c838f53f8d48a2bbcb80e376254f43.shtml	2037
+达瓦次仁		2		西藏自治区	拉萨市	http://nyncj.lasa.gov.cn/nync/dzsj/ldxx_list.shtml	拉萨市农业农村局党组副书记、局长		拉萨市农业农村局	http://nyncj.lasa.gov.cn/nync/thsz/202502/811fb3aae6a0476e8801409ecd22a857.shtml	2037
+高彦飞		3		西藏自治区	拉萨市	http://nyncj.lasa.gov.cn/nync/dzsj/ldxx_list.shtml	党组成员、副局长		拉萨市农业农村局	http://nyncj.lasa.gov.cn/nync/ehsz/202502/ee87795dc71d4e4b9eb2270a62cea622.shtml	2037
+嘎旺朗杰		4		西藏自治区	拉萨市	http://nyncj.lasa.gov.cn/nync/dzsj/ldxx_list.shtml	党组成员、副局长		拉萨市农业农村局	http://nyncj.lasa.gov.cn/nync/ehsz/202502/0f85f2c4210642e6a9c69be2cc7f969f.shtml	2037
+杨君		5		西藏自治区	拉萨市	http://nyncj.lasa.gov.cn/nync/dzsj/ldxx_list.shtml	党组成员、副局长		拉萨市农业农村局	http://nyncj.lasa.gov.cn/nync/ehsz/202410/d9a4d586d0a3429a854f68c2ae5a4594.shtml	2037
+索朗多吉		6		西藏自治区	拉萨市	http://nyncj.lasa.gov.cn/nync/dzsj/ldxx_list.shtml	党组成员、副局长		拉萨市农业农村局	http://nyncj.lasa.gov.cn/nync/ehsz/202410/0bfe88dc6b0547f5bd089fbcbb8b95d8.shtml	2037

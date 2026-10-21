@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+巴桑多吉		1		西藏自治区	拉萨市	http://ga.lasa.gov.cn/lsga/c100709/ldxx_list.shtml	拉萨市副市长，拉萨市委政法委副书记，拉萨市公安局党委副书记、局长、督察长		拉萨市公安局	http://ga.lasa.gov.cn/lsga/c100710/202011/41d24f56050b4d78b3036c1e3b1afb32.shtml	0601
+梁光文		2		西藏自治区	拉萨市	http://ga.lasa.gov.cn/lsga/c100709/ldxx_list.shtml	拉萨市公安局党委副书记		拉萨市公安局	http://ga.lasa.gov.cn/lsga/fsj/202011/584c86729930402d8b9bdc9eae582aef.shtml	0601
+王世勇		3		西藏自治区	拉萨市	http://ga.lasa.gov.cn/lsga/c100709/ldxx_list.shtml	拉萨市公安局党委委员、副局长		拉萨市公安局	http://ga.lasa.gov.cn/lsga/c100711/202606/d5023dc230274fe2aa759aac275dab3a.shtml	0601
+扎西吒吧		4		西藏自治区	拉萨市	http://ga.lasa.gov.cn/lsga/c100709/ldxx_list.shtml	拉萨市公安局党委委员、副局长		拉萨市公安局	http://ga.lasa.gov.cn/lsga/c100711/202606/e982e63f4e2a4ea7a8146962b22ae9a0.shtml	0601
+徐正权		5		西藏自治区	拉萨市	http://ga.lasa.gov.cn/lsga/c100709/ldxx_list.shtml	拉萨市公安局党委委员、副局长		拉萨市公安局	http://ga.lasa.gov.cn/lsga/c100711/202606/2f8537dd9f734dfd9af06d31f362839e.shtml	0601
+张化冰		6		西藏自治区	拉萨市	http://ga.lasa.gov.cn/lsga/c100709/ldxx_list.shtml	拉萨市公安局党委委员、副局长		拉萨市公安局	http://ga.lasa.gov.cn/lsga/c100711/202606/b343cd0d26f94554b5c19d28f9c923a1.shtml	0601
+刘思锋		7		西藏自治区	拉萨市	http://ga.lasa.gov.cn/lsga/c100709/ldxx_list.shtml	拉萨市公安局党委委员、副局长		拉萨市公安局	http://ga.lasa.gov.cn/lsga/c100711/202606/7b43bf9672f7463486d07a9460d66a01.shtml	0601
+黄鹤		8		西藏自治区	拉萨市	http://ga.lasa.gov.cn/lsga/c100709/ldxx_list.shtml	拉萨市公安局党委委员、副局长		拉萨市公安局	http://ga.lasa.gov.cn/lsga/c100711/202606/daff8207b93b4ae4a2013eea2b238f98.shtml	0601
+徐建华		9		西藏自治区	拉萨市	http://ga.lasa.gov.cn/lsga/c100709/ldxx_list.shtml	拉萨市公安局党委委员、政治部主任		拉萨市公安局	http://ga.lasa.gov.cn/lsga/c100711/202606/76c76f8abdd347ef8029f1854e81c2e8.shtml	0601
+索朗边巴		10		西藏自治区	拉萨市	http://ga.lasa.gov.cn/lsga/c100709/ldxx_list.shtml	拉萨市公安局党委委员、副局长		拉萨市公安局	http://ga.lasa.gov.cn/lsga/c100711/202606/632b5e4bac77466c8ca113007b21cf59.shtml	0601
+次旺晋美		11		西藏自治区	拉萨市	http://ga.lasa.gov.cn/lsga/c100709/ldxx_list.shtml	拉萨市公安局党委委员、常务副局长		拉萨市公安局	http://ga.lasa.gov.cn/lsga/c100711/202606/10ce83fc83c94ee5b8e006deacaeb7f6.shtml	0601

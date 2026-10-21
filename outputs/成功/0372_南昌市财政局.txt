@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邓峰		1		江西省	南昌市	https://czj.nc.gov.cn/ncczj/ldfg/201810/4a40b73ad07e43fc9c19dea8db352620.shtml	市财政局党组书记、局长、一级调研员		南昌市财政局		0372
+曾辉		2		江西省	南昌市	https://czj.nc.gov.cn/ncczj/ldfg/201810/4a40b73ad07e43fc9c19dea8db352620.shtml	市财政局党组成员、副局长		南昌市财政局		0372
+毛志东		3		江西省	南昌市	https://czj.nc.gov.cn/ncczj/ldfg/201810/4a40b73ad07e43fc9c19dea8db352620.shtml	市财政局党组成员、南昌市政府投融资创新中心主任		南昌市财政局		0372
+李新宇		4		江西省	南昌市	https://czj.nc.gov.cn/ncczj/ldfg/201810/4a40b73ad07e43fc9c19dea8db352620.shtml	市财政局党组成员、副局长		南昌市财政局		0372
+刘军平		5		江西省	南昌市	https://czj.nc.gov.cn/ncczj/ldfg/201810/4a40b73ad07e43fc9c19dea8db352620.shtml	市财政局党组成员、市纪委监委驻市财政局纪检监察组组长、三级调研员		南昌市财政局		0372
+曾振宇		6		江西省	南昌市	https://czj.nc.gov.cn/ncczj/ldfg/201810/4a40b73ad07e43fc9c19dea8db352620.shtml	市财政局党组成员、副局长		南昌市财政局		0372
+李梅		7		江西省	南昌市	https://czj.nc.gov.cn/ncczj/ldfg/201810/4a40b73ad07e43fc9c19dea8db352620.shtml	市财政局党组成员、副局长		南昌市财政局		0372
+陈国广		8		江西省	南昌市	https://czj.nc.gov.cn/ncczj/ldfg/201810/4a40b73ad07e43fc9c19dea8db352620.shtml	市财政局二级调研员		南昌市财政局		0372
+王晓平		9		江西省	南昌市	https://czj.nc.gov.cn/ncczj/ldfg/201810/4a40b73ad07e43fc9c19dea8db352620.shtml	市财政局四级调研员		南昌市财政局		0372

@@ -1,0 +1,29 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+申长雨		1		全国		https://cnips.kejie.org.cn/c99	理事长		中国知识产权研究会	http://www.cnips.org.cn/a39.html	3713
+马一德		2		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+王丽娟		3		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+方磊		4		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+甘绍宁		5		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+白刚		6		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+冯晓青		7		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+刘太宗		8		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+芮文彪		9		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+李明		10		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+李辉		11		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+李薇		12		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+吴玉和		13		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+宋柳平		14		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+张平		15		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+易继明		16		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+郃中林		17		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+单晓光		18		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+郭禾		19		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+赵杰		20		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+阎平		21		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+黄智勇		22		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+梁志祥		23		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+彭学龙		24		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+谢小勇		25		全国		https://cnips.kejie.org.cn/c99	副理事长；秘书长（专职）		中国知识产权研究会		3713
+管育鹰		26		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+廖涛		27		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713
+穆荣平		28		全国		https://cnips.kejie.org.cn/c99	副理事长		中国知识产权研究会		3713

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+尹冬梅		1		上海市		https://www.shisu.edu.cn/about/university-leadership/	党委书记；党委常委		上海外国语大学	https://www.shisu.edu.cn/discover-sisu/yindongmei/	3639
+孟钟捷		2		上海市		https://www.shisu.edu.cn/about/university-leadership/	校长；党委副书记；党委常委		上海外国语大学	https://www.shisu.edu.cn/discover-sisu/mengzhongjie/	3639
+钱玲		3		上海市		https://www.shisu.edu.cn/about/university-leadership/	党委副书记；党委常委		上海外国语大学	https://www.shisu.edu.cn/discover-sisu/qianling/	3639
+张静		4		上海市		https://www.shisu.edu.cn/about/university-leadership/	党委副书记；党委常委		上海外国语大学	https://www.shisu.edu.cn/discover-sisu/zhangjing/	3639
+吴利瑞		5		上海市		https://www.shisu.edu.cn/about/university-leadership/	党委副书记；纪委书记；党委常委		上海外国语大学	https://www.shisu.edu.cn/discover-sisu/wulirui/	3639
+衣永刚		6		上海市		https://www.shisu.edu.cn/about/university-leadership/	副校长；党委常委		上海外国语大学	http://www.shisu.edu.cn/discover-sisu/yiyonggang/	3639
+王欣		7		上海市		https://www.shisu.edu.cn/about/university-leadership/	副校长；党委常委		上海外国语大学	https://www.shisu.edu.cn/discover-sisu/wangxin/	3639
+金慧		8		上海市		https://www.shisu.edu.cn/about/university-leadership/	副校长；党委常委		上海外国语大学	https://www.shisu.edu.cn/discover-sisu/jinhui/	3639
+韩殿秀		9		上海市		https://www.shisu.edu.cn/about/university-leadership/	党委常委		上海外国语大学	https://www.shisu.edu.cn/discover-sisu/handianxiu/	3639

@@ -1,0 +1,85 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何平		1		全国		http://www.zgjx.cn/association/lingdao.htm	主席；常务理事		中华全国新闻工作者协会	http://www.zgjx.cn/2022-01/04/c_1310398200.htm	3317
+崔士鑫		2		全国		http://www.zgjx.cn/association/lingdao.htm	党组书记		中华全国新闻工作者协会	http://www.zgjx.cn/20260713/aa5798144fcf47d3a087533c644156de/c.html	3317
+刘思扬		3		全国		http://www.zgjx.cn/association/lingdao.htm	副主席；书记处书记；常务理事		中华全国新闻工作者协会	http://www.zgjx.cn/20260713/40499573e669480e868b7d46c5f68e66/c.html	3317
+阎晓明		4		全国		http://www.zgjx.cn/association/lingdao.htm	副主席；常务理事		中华全国新闻工作者协会	http://www.zgjx.cn/2022-01/04/c_1310398148.htm	3317
+王一彪		5		全国		http://www.zgjx.cn/association/lingdao.htm	副主席；常务理事		中华全国新闻工作者协会	http://www.zgjx.cn/2022-01/04/c_1310398188.htm	3317
+刘正荣		6		全国		http://www.zgjx.cn/association/lingdao.htm	副主席；常务理事		中华全国新闻工作者协会	http://www.zgjx.cn/2022-01/04/c_1310398199.htm	3317
+王雷鸣		7		全国		http://www.zgjx.cn/association/lingdao.htm	副主席；常务理事		中华全国新闻工作者协会	http://www.zgjx.cn/2023-12/01/c_1310753254.htm	3317
+张玉堂		8		全国		http://www.zgjx.cn/association/lingdao.htm	副主席；常务理事		中华全国新闻工作者协会	http://www.zgjx.cn/2022-01/04/c_1310398192.htm	3317
+赵靖云		9		全国		http://www.zgjx.cn/association/lingdao.htm	副主席；常务理事		中华全国新闻工作者协会	http://www.zgjx.cn/2022-01/04/c_1310398193.htm	3317
+陈颂清		10		全国		http://www.zgjx.cn/association/lingdao.htm	副主席；常务理事		中华全国新闻工作者协会	http://www.zgjx.cn/2022-01/04/c_1310398194.htm	3317
+黄常开		11		全国		http://www.zgjx.cn/association/lingdao.htm	副主席；常务理事		中华全国新闻工作者协会	http://www.zgjx.cn/2022-01/04/c_1310398195.htm	3317
+张春姣		12		全国		http://www.zgjx.cn/association/lingdao.htm	副主席；常务理事		中华全国新闻工作者协会	http://www.zgjx.cn/2022-01/04/c_1310398196.htm	3317
+李晓君		13		全国		http://www.zgjx.cn/association/lingdao.htm	副主席；常务理事		中华全国新闻工作者协会	http://www.zgjx.cn/2022-01/04/c_1310398197.htm	3317
+刘成安		14		全国		http://www.zgjx.cn/association/lingdao.htm	副主席；常务理事		中华全国新闻工作者协会	http://www.zgjx.cn/2022-01/04/c_1310398198.htm	3317
+田玉红		15		全国		http://www.zgjx.cn/association/lingdao.htm	书记处书记；常务理事		中华全国新闻工作者协会	http://www.zgjx.cn/2022-01/04/c_1310398218.htm	3317
+吴旭		16		全国		http://www.zgjx.cn/association/lingdao.htm	书记处书记；常务理事		中华全国新闻工作者协会	http://www.zgjx.cn/2023-12/01/c_1310753250.htm	3317
+殷陆君		17		全国		http://www.zgjx.cn/association/lingdao.htm	书记处书记；常务理事		中华全国新闻工作者协会	http://www.zgjx.cn/2023-12/01/c_1310753251.htm	3317
+田俊荣		18		全国		http://www.zgjx.cn/association/lingdao.htm	书记处书记；常务理事		中华全国新闻工作者协会	http://www.zgjx.cn/20251105/1fb658e8e10049f5a8cd16d670c77213/c.html	3317
+丁宗皓		19		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+万学忠		20		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+王小节		21		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+牛燕		22		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+叶蓁蓁		23		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+向培凤		24		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+刘伟玲		25		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+刘启宇		26		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+刘雅鸣		27		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+孙钱斌		28		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+李俊		29		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+李莹		30		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+李大宏		31		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+李旭炎		32		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+李忠志		33		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+李朝民		34		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+杨华		35		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+张羽		36		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+张国		37		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+张强		38		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+张立伟		39		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+张先群		40		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+张超文		41		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+张斌强		42		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+陈麟		43		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+陈仁泽		44		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+陈江华		45		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+陈家兴		46		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+陈斌华		47		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+邵文辉		48		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+金晴中		49		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+周勇		50		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+周纯杰		51		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+周跃敏		52		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+赵兵		53		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+赵子忠		54		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+赵成新		55		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+赵江涛		56		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+赵英淑		57		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+赵念民		58		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+赵海虹		59		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+赵海燕		60		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+胡正荣		61		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+俞岚		62		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+姜军		63		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+姜青山		64		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+袁永军		65		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+夏少权		66		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+徐怀顺		67		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+徐福平		68		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+高阳		69		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+高晓虹		70		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+郭云甫		71		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+郭志民		72		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+郭建晖		73		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+黄炜		74		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+黄时兵		75		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+常戍		76		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+蒋小燕		77		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+曾健		78		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+谢荣		79		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+蔡小伟		80		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+管洪		81		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+熊大同		82		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+黎攀		83		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317
+霍小光		84		全国		http://www.zgjx.cn/association/lingdao.htm	常务理事		中华全国新闻工作者协会		3317

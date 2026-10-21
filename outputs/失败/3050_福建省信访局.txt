@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+范志平		1		福建省		http://xfj.fujian.gov.cn/jggk/ldxx/zbl/	党组成员、副局长		福建省信访局	http://xfj.fujian.gov.cn/jggk/ldxx/fzp/	3050
+包云		2		福建省		http://xfj.fujian.gov.cn/jggk/ldxx/zbl/	党组成员、副局长		福建省信访局	http://xfj.fujian.gov.cn/jggk/ldxx/by/	3050
+苏燕英		3		福建省		http://xfj.fujian.gov.cn/jggk/ldxx/zbl/	党组成员、副局长		福建省信访局	http://xfj.fujian.gov.cn/jggk/ldxx/syy/	3050

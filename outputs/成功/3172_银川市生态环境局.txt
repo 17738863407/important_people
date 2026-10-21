@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+牛进频		1		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/shbj_2176/xxgkml_2179/gkxx_2180/ldfg_2182/202605/t20260518_5242836.html	党组书记、局长		银川市生态环境局		3172
+李淑娟		2		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/shbj_2176/xxgkml_2179/gkxx_2180/ldfg_2182/202605/t20260518_5242836.html	党组成员、副局长		银川市生态环境局		3172
+李佳		3		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/shbj_2176/xxgkml_2179/gkxx_2180/ldfg_2182/202605/t20260518_5242836.html	党组成员、副局长		银川市生态环境局		3172
+向伯安		4		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/shbj_2176/xxgkml_2179/gkxx_2180/ldfg_2182/202605/t20260518_5242836.html	党组成员、副局长		银川市生态环境局		3172
+赵传靓		5		宁夏回族自治区	银川市	https://www.yinchuan.gov.cn/xxgk/bmxxgkml/shbj_2176/xxgkml_2179/gkxx_2180/ldfg_2182/202605/t20260518_5242836.html	挂职， 党组成员、副局长		银川市生态环境局		3172

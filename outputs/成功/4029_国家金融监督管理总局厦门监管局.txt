@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘智夫		1		福建省	厦门市	https://www.nfra.gov.cn/branch/xiamen/view/pages/common/ItemList.html?itemId=1067&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=1065&itemUrl=ItemListRightArticle.html	国家金融监督管理总局厦门监管局党委书记、局长、一级巡视员		国家金融监督管理总局厦门监管局		4029
+王志刚		2		福建省	厦门市	https://www.nfra.gov.cn/branch/xiamen/view/pages/common/ItemList.html?itemId=1067&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=1065&itemUrl=ItemListRightArticle.html	国家金融监督管理总局厦门监管局党委委员、副局长、二级巡视员		国家金融监督管理总局厦门监管局		4029
+方琳		3		福建省	厦门市	https://www.nfra.gov.cn/branch/xiamen/view/pages/common/ItemList.html?itemId=1067&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=1065&itemUrl=ItemListRightArticle.html	国家金融监督管理总局厦门监管局党委委员、副局长		国家金融监督管理总局厦门监管局		4029
+侯柏芳		4		福建省	厦门市	https://www.nfra.gov.cn/branch/xiamen/view/pages/common/ItemList.html?itemId=1067&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=1065&itemUrl=ItemListRightArticle.html	国家金融监督管理总局厦门监管局党委委员、纪委书记		国家金融监督管理总局厦门监管局		4029
+吴智宇		5		福建省	厦门市	https://www.nfra.gov.cn/branch/xiamen/view/pages/common/ItemList.html?itemId=1067&itemName=%E5%B1%80%E9%A2%86%E5%AF%BC&itemPId=1065&itemUrl=ItemListRightArticle.html	国家金融监督管理总局厦门监管局党委委员、副局长		国家金融监督管理总局厦门监管局		4029

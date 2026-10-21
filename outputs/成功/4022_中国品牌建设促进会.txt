@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孟扬		1		全国		https://www.ccbd.org.cn/list-20-1.html	理事长		中国品牌建设促进会		4022
+王晨华		2		全国		https://www.ccbd.org.cn/list-20-1.html	副理事长		中国品牌建设促进会		4022
+江南		3		全国		https://www.ccbd.org.cn/list-20-1.html	副理事长		中国品牌建设促进会		4022
+张刚		4		全国		https://www.ccbd.org.cn/list-20-1.html	副理事长		中国品牌建设促进会		4022
+张海燕		5		全国		https://www.ccbd.org.cn/list-20-1.html	副理事长		中国品牌建设促进会		4022
+易靖韬		6		全国		https://www.ccbd.org.cn/list-20-1.html	副理事长		中国品牌建设促进会		4022
+胡纲高		7		全国		https://www.ccbd.org.cn/list-20-1.html	副理事长		中国品牌建设促进会		4022
+段永升		8		全国		https://www.ccbd.org.cn/list-20-1.html	副理事长		中国品牌建设促进会		4022
+顾绍平		9		全国		https://www.ccbd.org.cn/list-20-1.html	副理事长		中国品牌建设促进会		4022
+黄瑞宇		10		全国		https://www.ccbd.org.cn/list-20-1.html	副理事长		中国品牌建设促进会		4022
+蒋家东		11		全国		https://www.ccbd.org.cn/list-20-1.html	副理事长		中国品牌建设促进会		4022
+雷刘功		12		全国		https://www.ccbd.org.cn/list-20-1.html	副理事长		中国品牌建设促进会		4022
+邓伟		13		全国		https://www.ccbd.org.cn/list-20-1.html	副理事长兼秘书长		中国品牌建设促进会		4022
+吕继洲		14		全国		https://www.ccbd.org.cn/list-20-1.html	副秘书长		中国品牌建设促进会		4022

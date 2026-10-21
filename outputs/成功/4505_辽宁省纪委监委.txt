@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李猛		1		辽宁省		https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/index.shtml	中国共产党辽宁省第十三届纪律检查委员会书记；中国共产党辽宁省第十三届纪律检查委员会常务委员会委员；辽宁省监察委员会主任		辽宁省纪委监委		4505
+孙建军		2		辽宁省		https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/index.shtml	中国共产党辽宁省第十三届纪律检查委员会副书记；中国共产党辽宁省第十三届纪律检查委员会常务委员会委员；辽宁省监察委员会副主任		辽宁省纪委监委	https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/2021/12/21/523542980070479473.shtml	4505
+吕宏		3		辽宁省		https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/index.shtml	中国共产党辽宁省第十三届纪律检查委员会副书记；中国共产党辽宁省第十三届纪律检查委员会常务委员会委员；辽宁省监察委员会副主任		辽宁省纪委监委	https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/2021/12/21/523542979676214897.shtml	4505
+汪诚		4		辽宁省		https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/index.shtml	中国共产党辽宁省第十三届纪律检查委员会副书记；中国共产党辽宁省第十三届纪律检查委员会常务委员会委员；辽宁省监察委员会副主任		辽宁省纪委监委	https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/2021/12/21/523542980385052273.shtml	4505
+陈崇松		5		辽宁省		https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/index.shtml	中国共产党辽宁省第十三届纪律检查委员会副书记；中国共产党辽宁省第十三届纪律检查委员会常务委员会委员；辽宁省监察委员会副主任		辽宁省纪委监委	https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/2023/08/25/549509013893551158.shtml	4505
+金占平		6		辽宁省		https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/index.shtml	中国共产党辽宁省第十三届纪律检查委员会常务委员会委员		辽宁省纪委监委	https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/2022/08/09/523543081476166205.shtml	4505
+董森		7		辽宁省		https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/index.shtml	中国共产党辽宁省第十三届纪律检查委员会常务委员会委员		辽宁省纪委监委	https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/2023/12/16/590174472670025522.shtml	4505
+骆峰		8		辽宁省		https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/index.shtml	中国共产党辽宁省第十三届纪律检查委员会常务委员会委员		辽宁省纪委监委	https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/2023/12/16/523798418376626592.shtml	4505
+李峰		9		辽宁省		https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/index.shtml	中国共产党辽宁省第十三届纪律检查委员会常务委员会委员		辽宁省纪委监委	https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/2023/12/16/590175033301669682.shtml	4505
+李威		10		辽宁省		https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/index.shtml	中国共产党辽宁省第十三届纪律检查委员会常务委员会委员		辽宁省纪委监委	https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/2025/07/29/804730476504814885.shtml	4505
+于文峰		11		辽宁省		https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/index.shtml	中国共产党辽宁省第十三届纪律检查委员会常务委员会委员		辽宁省纪委监委	https://www.lnsjjjc.gov.cn/network/xxgk/ldjg/2025/12/27/859396417905497679.shtml	4505

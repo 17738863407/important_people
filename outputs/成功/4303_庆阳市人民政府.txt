@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡志勇		1		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/szfld	市委副书记、市长		庆阳市人民政府	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/szfld/sz/content_347862	4303
+刘长发		2		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/szfld	市委常委、市政府党组副书记、常务副市长		庆阳市人民政府	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/szfld/szffsz/content_347870	4303
+王阳萍		3		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/szfld	市政府副市长		庆阳市人民政府	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/szfld/szffsz/content_347865	4303
+段登云		4		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/szfld	市政府党组成员、副市长		庆阳市人民政府	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/szfld/szffsz/content_347867	4303
+李登旭		5		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/szfld	市政府党组成员、副市长		庆阳市人民政府	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/szfld/szffsz/content_348892	4303
+符冠海		6		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/szfld	市政府党组成员、副市长		庆阳市人民政府	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/szfld/szffsz/content_351312	4303
+雷晓刚		7		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/szfld	市政府党组成员、副市长、市公安局局长		庆阳市人民政府	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/szfld/szffsz/content_351951	4303
+李啸军		8		甘肃省	庆阳市	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/szfld	市政府党组成员、秘书长		庆阳市人民政府	https://zgqingyang.gov.cn/gk/zfxxgk/zfxxgkml/ldzc/szfld/szfmsz/content_347871	4303

@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邓畅		1		黑龙江省		http://hlj.mof.gov.cn/gywm/ldjj/	党组成员、副局长		财政部黑龙江监管局	http://hlj.mof.gov.cn/gywm/ldjj/202502/t20250220_3958698.htm	0981
+李军		2		黑龙江省		http://hlj.mof.gov.cn/gywm/ldjj/	党组成员、副局长		财政部黑龙江监管局	http://hlj.mof.gov.cn/gywm/ldjj/202604/t20260402_3986849.htm	0981
+付康荣		3		黑龙江省		http://hlj.mof.gov.cn/gywm/ldjj/	党组成员、纪检组长		财政部黑龙江监管局	http://hlj.mof.gov.cn/gywm/ldjj/202604/t20260402_3986850.htm	0981

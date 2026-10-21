@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈振平		1		广西壮族自治区		http://jyj.gxzf.gov.cn/xxgk/fdzdgknr/ldxx/	广西壮族自治区司法厅党委委员，自治区监狱管理局党委书记、局长		广西壮族自治区监狱管理局	http://jyj.gxzf.gov.cn/xxgk/fdzdgknr/ldxx/t22509771.shtml	1306
+曾爱龙		2		广西壮族自治区		http://jyj.gxzf.gov.cn/xxgk/fdzdgknr/ldxx/	广西壮族自治区监狱管理局党委委员、副局长		广西壮族自治区监狱管理局	http://jyj.gxzf.gov.cn/xxgk/fdzdgknr/ldxx/t16969412.shtml	1306
+黄显庭		3		广西壮族自治区		http://jyj.gxzf.gov.cn/xxgk/fdzdgknr/ldxx/	广西壮族自治区监狱管理局党委委员、副局长		广西壮族自治区监狱管理局	http://jyj.gxzf.gov.cn/xxgk/fdzdgknr/ldxx/t16969413.shtml	1306
+龙刚玉		4		广西壮族自治区		http://jyj.gxzf.gov.cn/xxgk/fdzdgknr/ldxx/	广西壮族自治区监狱管理局党委委员、副政治委员		广西壮族自治区监狱管理局	http://jyj.gxzf.gov.cn/xxgk/fdzdgknr/ldxx/t16969414.shtml	1306
+黄捷		5		广西壮族自治区		http://jyj.gxzf.gov.cn/xxgk/fdzdgknr/ldxx/	广西壮族自治区监狱管理局党委委员、副局长		广西壮族自治区监狱管理局	http://jyj.gxzf.gov.cn/xxgk/fdzdgknr/ldxx/t16969415.shtml	1306
+蒙静和		6		广西壮族自治区		http://jyj.gxzf.gov.cn/xxgk/fdzdgknr/ldxx/	广西壮族自治区监狱管理局政治部主任、党委委员，二级巡视员		广西壮族自治区监狱管理局	http://jyj.gxzf.gov.cn/xxgk/fdzdgknr/ldxx/t27497154.shtml	1306

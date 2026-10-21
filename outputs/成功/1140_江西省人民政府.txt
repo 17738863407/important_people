@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+任珠峰		1		全国		https://www.jiangxi.gov.cn/jxsrmzf/szf/pc/list.html	副省长		江西省人民政府	https://www.jiangxi.gov.cn/jxsrmzf/rzf/pc/list.html	1140
+孙洪山		2		全国		https://www.jiangxi.gov.cn/jxsrmzf/szf/pc/list.html	副省长		江西省人民政府	https://www.jiangxi.gov.cn/jxsrmzf/shs/pc/list.html	1140
+袁勤华		3		全国		https://www.jiangxi.gov.cn/jxsrmzf/szf/pc/list.html	副省长		江西省人民政府	https://www.jiangxi.gov.cn/jxsrmzf/yqh/pc/list.html	1140
+夏文勇		4		全国		https://www.jiangxi.gov.cn/jxsrmzf/szf/pc/list.html	副省长		江西省人民政府	https://www.jiangxi.gov.cn/jxsrmzf/xwy/pc/list.html	1140
+史可		5		全国		https://www.jiangxi.gov.cn/jxsrmzf/szf/pc/list.html	副省长		江西省人民政府	https://www.jiangxi.gov.cn/jxsrmzf/sk/pc/list.html	1140
+万广明		6		全国		https://www.jiangxi.gov.cn/jxsrmzf/szf/pc/list.html	副省长		江西省人民政府	https://www.jiangxi.gov.cn/jxsrmzf/wgm/pc/list.html	1140
+秦义		7		全国		https://www.jiangxi.gov.cn/jxsrmzf/szf/pc/list.html	省政府党组成员		江西省人民政府	https://www.jiangxi.gov.cn/jxsrmzf/qy/pc/list.html	1140
+陈小平		8		全国		https://www.jiangxi.gov.cn/jxsrmzf/szf/pc/list.html	省政府党组成员		江西省人民政府	https://www.jiangxi.gov.cn/jxsrmzf/cxp/pc/list.html	1140
+李克坚		9		全国		https://www.jiangxi.gov.cn/jxsrmzf/szf/pc/list.html	秘书长		江西省人民政府	https://www.jiangxi.gov.cn/jxsrmzf/xyb/pc/list.html	1140

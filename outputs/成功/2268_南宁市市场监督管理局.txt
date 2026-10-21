@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+宋刚		1		广西壮族自治区	南宁市	http://scjgj.nanning.gov.cn/xxgk/dwjj/ldbzjj/t5271625.html	南宁市市场监督管理局党组书记、局长		南宁市市场监督管理局		2268
+卜国建		2		广西壮族自治区	南宁市	http://scjgj.nanning.gov.cn/xxgk/dwjj/ldbzjj/t5271625.html	南宁市市场监督管理局党组成员、副局长、一级调研员		南宁市市场监督管理局		2268
+张大海		3		广西壮族自治区	南宁市	http://scjgj.nanning.gov.cn/xxgk/dwjj/ldbzjj/t5271625.html	南宁市市场监督管理局党组成员、副局长、二级调研员		南宁市市场监督管理局		2268
+周国忠		4		广西壮族自治区	南宁市	http://scjgj.nanning.gov.cn/xxgk/dwjj/ldbzjj/t5271625.html	南宁市市场监督管理局党组成员，中共南宁市纪律检查委员会、南宁市监察委员会驻南宁市市场监督管理局纪检监察组组长		南宁市市场监督管理局		2268
+韦火清		5		广西壮族自治区	南宁市	http://scjgj.nanning.gov.cn/xxgk/dwjj/ldbzjj/t5271625.html	南宁市市场监督管理局党组成员、副局长		南宁市市场监督管理局		2268
+李建明		6		广西壮族自治区	南宁市	http://scjgj.nanning.gov.cn/xxgk/dwjj/ldbzjj/t5271625.html	南宁市市场监督管理局党组成员、副局长		南宁市市场监督管理局		2268
+李本福		7		广西壮族自治区	南宁市	http://scjgj.nanning.gov.cn/xxgk/dwjj/ldbzjj/t5271625.html	南宁市市场监督管理局二级调研员		南宁市市场监督管理局		2268
+唐伟刚		8		广西壮族自治区	南宁市	http://scjgj.nanning.gov.cn/xxgk/dwjj/ldbzjj/t5271625.html	南宁市市场监督管理局二级调研员		南宁市市场监督管理局		2268
+甘泉		9		广西壮族自治区	南宁市	http://scjgj.nanning.gov.cn/xxgk/dwjj/ldbzjj/t5271625.html	南宁市市场监督管理局二级调研员		南宁市市场监督管理局		2268
+罗帆		10		广西壮族自治区	南宁市	http://scjgj.nanning.gov.cn/xxgk/dwjj/ldbzjj/t5271625.html	南宁市市场监督管理局三级调研员		南宁市市场监督管理局		2268
+宁永上		11		广西壮族自治区	南宁市	http://scjgj.nanning.gov.cn/xxgk/dwjj/ldbzjj/t5271625.html	南宁市市场监督管理局三级调研员		南宁市市场监督管理局		2268
+陈刚毅		12		广西壮族自治区	南宁市	http://scjgj.nanning.gov.cn/xxgk/dwjj/ldbzjj/t5271625.html	南宁市市场监督管理局三级调研员		南宁市市场监督管理局		2268
+臧伟洲		13		广西壮族自治区	南宁市	http://scjgj.nanning.gov.cn/xxgk/dwjj/ldbzjj/t5271625.html	南宁市市场监督管理局三级调研员		南宁市市场监督管理局		2268

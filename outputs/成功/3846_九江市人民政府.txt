@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邓永翔		1		江西省	九江市	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/	市长		九江市人民政府	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/szfld/sz/xkld/	3846
+鲍成庚		2		江西省	九江市	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/	常务副市长		九江市人民政府	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/szfld/cwfsz/bcg/	3846
+童兴		3		江西省	九江市	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/	副市长		九江市人民政府	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/szfld/fsz/tx/	3846
+陈水连		4		江西省	九江市	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/	副市长		九江市人民政府	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/szfld/fsz/csl/	3846
+熊小青		5		江西省	九江市	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/	副市长		九江市人民政府	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/szfld/fsz/xxq/	3846
+杜少华		6		江西省	九江市	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/	副市长		九江市人民政府	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/szfld/fsz/dsh/	3846
+容长贵		7		江西省	九江市	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/	副市长		九江市人民政府	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/szfld/fsz/rcg/	3846
+马海威		8		江西省	九江市	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/	副市长		九江市人民政府	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/szfld/fsz/mhw/	3846
+欧阳新华		9		江西省	九江市	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/	秘书长		九江市人民政府	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/szfld/msz_1/oyxh/	3846
+朱云		10		江西省	九江市	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/	党组成员		九江市人民政府	https://www.jiujiang.gov.cn/fdzdxxgk/01/01/ldzc/szfld/dzcy/zy/	3846

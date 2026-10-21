@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张羽扬		1		吉林省	长春市	http://mzj.changchun.gov.cn/xxgk/jcxx/ldxx/	局长		长春市民政局	http://mzj.changchun.gov.cn/xxgk/jcxx/ldxx/202608/t20260820_3507191.html	1748
+冉明		2		吉林省	长春市	http://mzj.changchun.gov.cn/xxgk/jcxx/ldxx/	副局长		长春市民政局	http://mzj.changchun.gov.cn/xxgk/jcxx/ldxx/202007/t20200701_2371788.html	1748
+李勇		3		吉林省	长春市	http://mzj.changchun.gov.cn/xxgk/jcxx/ldxx/	副局长		长春市民政局	http://mzj.changchun.gov.cn/xxgk/jcxx/ldxx/202207/t20220706_3035662.html	1748

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李猛力		1		全国		https://las.cas.cn/about/xrld/	党委书记		中国科学院文献情报中心		4148
+曲建升		2		全国		https://las.cas.cn/about/xrld/	主任、党委副书记		中国科学院文献情报中心		4148
+胡伟		3		全国		https://las.cas.cn/about/xrld/	纪委书记		中国科学院文献情报中心		4148
+张智雄		4		全国		https://las.cas.cn/about/xrld/	副主任		中国科学院文献情报中心		4148
+钱力		5		全国		https://las.cas.cn/about/xrld/	副主任		中国科学院文献情报中心		4148
+刘清		6		全国		https://las.cas.cn/about/xrld/	副主任（兼）		中国科学院文献情报中心		4148
+陈云伟		7		全国		https://las.cas.cn/about/xrld/	副主任（兼）		中国科学院文献情报中心		4148

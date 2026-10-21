@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨文龙		1		广东省	阳江市	https://yjszx.gov.cn/yjzx/details?ID=21479	主席		阳江市政协		3957
+冯松柏		2		广东省	阳江市	https://yjszx.gov.cn/yjzx/details?ID=21479	副主席		阳江市政协		3957
+吴松伟		3		广东省	阳江市	https://yjszx.gov.cn/yjzx/details?ID=21479	副主席		阳江市政协		3957
+梁昌和		4		广东省	阳江市	https://yjszx.gov.cn/yjzx/details?ID=21479	副主席		阳江市政协		3957
+冯奕成		5		广东省	阳江市	https://yjszx.gov.cn/yjzx/details?ID=21479	副主席		阳江市政协		3957
+刘晓峰		6		广东省	阳江市	https://yjszx.gov.cn/yjzx/details?ID=21479	副主席		阳江市政协		3957
+冯秀恳		7		广东省	阳江市	https://yjszx.gov.cn/yjzx/details?ID=21479	副主席		阳江市政协		3957
+傅光焱		8		广东省	阳江市	https://yjszx.gov.cn/yjzx/details?ID=21479	副主席		阳江市政协		3957
+张小光		9		广东省	阳江市	https://yjszx.gov.cn/yjzx/details?ID=21479	秘书长		阳江市政协		3957

@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈希		1		海南省	三亚市	https://www.sanya.gov.cn/sanyasite/zhengfu/szf.shtml	市长		三亚市人民政府	https://www.sanya.gov.cn/sanyasite/shizhang/202303/4e34512bf2d8412592680a7872faa389.shtml	3879
+王雪皓		2		海南省	三亚市	https://www.sanya.gov.cn/sanyasite/zhengfu/szf.shtml	副市长		三亚市人民政府	https://www.sanya.gov.cn/sanyasite/fsz/202610/c28af6af30124d50ba7aa2bd791a638f.shtml	3879
+向义海		3		海南省	三亚市	https://www.sanya.gov.cn/sanyasite/zhengfu/szf.shtml	副市长		三亚市人民政府	https://www.sanya.gov.cn/sanyasite/fsz/202512/7c1a8726f0f94215b02770091e249b07.shtml	3879
+张长丰		4		海南省	三亚市	https://www.sanya.gov.cn/sanyasite/zhengfu/szf.shtml	副市长		三亚市人民政府	https://www.sanya.gov.cn/sanyasite/fsz/202303/fd6db42491c04439b7d294fab1d2a26e.shtml	3879
+刘正富		5		海南省	三亚市	https://www.sanya.gov.cn/sanyasite/zhengfu/szf.shtml	副市长		三亚市人民政府	https://www.sanya.gov.cn/sanyasite/fsz/202608/ead121932f384339b913909c39f189b9.shtml	3879
+范维正		6		海南省	三亚市	https://www.sanya.gov.cn/sanyasite/zhengfu/szf.shtml	副市长		三亚市人民政府	https://www.sanya.gov.cn/sanyasite/fsz/202312/8cf1d92b8c50439cbd548e6d54992e9e.shtml	3879
+蒋子军		7		海南省	三亚市	https://www.sanya.gov.cn/sanyasite/zhengfu/szf.shtml	副市长		三亚市人民政府	https://www.sanya.gov.cn/sanyasite/fsz/202610/dc3d211bdf3540169c490bd6260bae00.shtml	3879
+陈志伟		8		海南省	三亚市	https://www.sanya.gov.cn/sanyasite/zhengfu/szf.shtml	副市长		三亚市人民政府	https://www.sanya.gov.cn/sanyasite/fsz/202602/468cc562be524df7b3ccb962cbb768fe.shtml	3879
+陈克伯		9		海南省	三亚市	https://www.sanya.gov.cn/sanyasite/zhengfu/szf.shtml	副市长		三亚市人民政府	https://www.sanya.gov.cn/sanyasite/fsz/202507/56f6c08e5ef946c587d70389aa33c685.shtml	3879
+杨军建		10		海南省	三亚市	https://www.sanya.gov.cn/sanyasite/zhengfu/szf.shtml	秘书长		三亚市人民政府	https://www.sanya.gov.cn/sanyasite/msz/202410/58e876f25c08428baffcca8c1ea454de.shtml	3879

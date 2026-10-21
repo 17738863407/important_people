@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+全勇		1		四川省	成都市	https://cdjustice.chengdu.gov.cn/cdsfju/c135745/cdjk_list.shtml	副局长		成都市司法局	https://cdjustice.chengdu.gov.cn/gkml/ldcy/1204076251392770048.shtml	0170
+杨宏伟		2		四川省	成都市	https://cdjustice.chengdu.gov.cn/cdsfju/c135745/cdjk_list.shtml	市司法局党组成员、副局长		成都市司法局	https://cdjustice.chengdu.gov.cn/gkml/ldcy/1613191125504466944.shtml	0170
+胡磊		3		四川省	成都市	https://cdjustice.chengdu.gov.cn/cdsfju/c135745/cdjk_list.shtml	党组成员、副局长		成都市司法局	https://cdjustice.chengdu.gov.cn/gkml/ldcy/1613191125303140352.shtml	0170
+张勇		4		四川省	成都市	https://cdjustice.chengdu.gov.cn/cdsfju/c135745/cdjk_list.shtml	党组成员、政治部主任、机关党委书记		成都市司法局	https://cdjustice.chengdu.gov.cn/gkml/ldcy/1613191125168922624.shtml	0170
+刘金昌		5		四川省	成都市	https://cdjustice.chengdu.gov.cn/cdsfju/c135745/cdjk_list.shtml	一级调研员		成都市司法局	https://cdjustice.chengdu.gov.cn/gkml/ldcy/1613191125366054912.shtml	0170

@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张成宝		1		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/xfj/gkml/jgxx/202201/t20220118_4260751.shtml	中共青岛市委社会工作部副部长，青岛市政府副秘书长，青岛市信访局党组书记、局长		青岛市信访局		2158
+张泳		2		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/xfj/gkml/jgxx/202201/t20220118_4260751.shtml	市信访局党组成员、副局长		青岛市信访局		2158
+冯伟		3		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/xfj/gkml/jgxx/202201/t20220118_4260751.shtml	市信访局党组成员、副局长		青岛市信访局		2158
+张汇锋		4		山东省	青岛市	http://www.qingdao.gov.cn/zwgk/xxgk/xfj/gkml/jgxx/202201/t20220118_4260751.shtml	市信访局党组成员、副局长		青岛市信访局		2158

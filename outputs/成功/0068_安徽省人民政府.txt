@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王东伟		1		全国		https://www.ah.gov.cn/szf/	代理省长		安徽省人民政府	https://www.ah.gov.cn/content/column/6784021?liId=1311	0068
+蔚盛斌		2		全国		https://www.ah.gov.cn/szf/	副省长		安徽省人民政府	https://www.ah.gov.cn/content/column/6784021?liId=1321	0068
+张曙光		3		全国		https://www.ah.gov.cn/szf/	副省长		安徽省人民政府	https://www.ah.gov.cn/content/column/6784021?liId=941	0068
+任清华		4		全国		https://www.ah.gov.cn/szf/	副省长		安徽省人民政府	https://www.ah.gov.cn/content/column/6784021?liId=961	0068
+孙勇		5		全国		https://www.ah.gov.cn/szf/	副省长		安徽省人民政府	https://www.ah.gov.cn/content/column/6784021?liId=1251	0068
+李中		6		全国		https://www.ah.gov.cn/szf/	副省长		安徽省人民政府	https://www.ah.gov.cn/content/column/6784021?liId=1261	0068
+范付中		7		全国		https://www.ah.gov.cn/szf/	副省长		安徽省人民政府	https://www.ah.gov.cn/content/column/6784021?liId=1271	0068
+何淳宽		8		全国		https://www.ah.gov.cn/szf/	副省长		安徽省人民政府	https://www.ah.gov.cn/content/column/6784021?liId=1281	0068
+潘朝晖		9		全国		https://www.ah.gov.cn/szf/	秘书长		安徽省人民政府	https://www.ah.gov.cn/content/column/6784021?liId=971	0068

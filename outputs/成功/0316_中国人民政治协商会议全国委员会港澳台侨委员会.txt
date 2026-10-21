@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘赐贵		1		全国		http://www.cppcc.gov.cn/zxww/newcppcc/gatqwyh/index.shtml	主任		中国人民政治协商会议全国委员会港澳台侨委员会		0316
+王伟		2		全国		http://www.cppcc.gov.cn/zxww/newcppcc/gatqwyh/index.shtml	副主任		中国人民政治协商会议全国委员会港澳台侨委员会		0316
+仇鸿		3		全国		http://www.cppcc.gov.cn/zxww/newcppcc/gatqwyh/index.shtml	副主任		中国人民政治协商会议全国委员会港澳台侨委员会		0316
+邓中华		4		全国		http://www.cppcc.gov.cn/zxww/newcppcc/gatqwyh/index.shtml	副主任		中国人民政治协商会议全国委员会港澳台侨委员会		0316
+卢国懿		5		全国		http://www.cppcc.gov.cn/zxww/newcppcc/gatqwyh/index.shtml	副主任		中国人民政治协商会议全国委员会港澳台侨委员会		0316
+许又声		6		全国		http://www.cppcc.gov.cn/zxww/newcppcc/gatqwyh/index.shtml	副主任		中国人民政治协商会议全国委员会港澳台侨委员会		0316
+吴国华		7		全国		http://www.cppcc.gov.cn/zxww/newcppcc/gatqwyh/index.shtml	副主任		中国人民政治协商会议全国委员会港澳台侨委员会		0316
+崔玉英		8		全国		http://www.cppcc.gov.cn/zxww/newcppcc/gatqwyh/index.shtml	副主任		中国人民政治协商会议全国委员会港澳台侨委员会		0316
+屠海鸣		9		全国		http://www.cppcc.gov.cn/zxww/newcppcc/gatqwyh/index.shtml	副主任		中国人民政治协商会议全国委员会港澳台侨委员会		0316

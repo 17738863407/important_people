@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周纯光		1		天津市		https://jtys.tj.gov.cn/ZWGK6002/ghjzfxxgk/FDZDGKNR/JGXX/JGZNHSZ6529/202511/t20251106_7171716.html	局长、党组书记		天津市港航管理局		1256
+张巍		2		天津市		https://jtys.tj.gov.cn/ZWGK6002/ghjzfxxgk/FDZDGKNR/JGXX/JGZNHSZ6529/202511/t20251106_7171716.html	副局长（副局级）、党组成员		天津市港航管理局		1256
+郝润申		3		天津市		https://jtys.tj.gov.cn/ZWGK6002/ghjzfxxgk/FDZDGKNR/JGXX/JGZNHSZ6529/202511/t20251106_7171716.html	副局长、党组成员、二级巡视员		天津市港航管理局		1256
+杜二鹏		4		天津市		https://jtys.tj.gov.cn/ZWGK6002/ghjzfxxgk/FDZDGKNR/JGXX/JGZNHSZ6529/202511/t20251106_7171716.html	副局长、党组成员		天津市港航管理局		1256

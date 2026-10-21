@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+顾春晓		1		浙江省	杭州市	https://gzw.hangzhou.gov.cn/col/col1229397433/index.html	党委书记、主任		杭州市人民政府国有资产监督管理委员会	https://gzw.hangzhou.gov.cn/art/2023/2/3/art_1229397433_140017.html	0830
+宣寅		2		浙江省	杭州市	https://gzw.hangzhou.gov.cn/col/col1229397433/index.html	党委副书记		杭州市人民政府国有资产监督管理委员会	https://gzw.hangzhou.gov.cn/art/2024/4/22/art_1229397433_159909.html	0830
+杨勇杰		3		浙江省	杭州市	https://gzw.hangzhou.gov.cn/col/col1229397433/index.html	党委委员、驻市国资委纪检监察组组长		杭州市人民政府国有资产监督管理委员会	https://gzw.hangzhou.gov.cn/col/col1229397433/art/2026/art_e71ab6511dd8489fb48302d2932d0190.html	0830
+温悦		4		浙江省	杭州市	https://gzw.hangzhou.gov.cn/col/col1229397433/index.html	党委委员、副主任		杭州市人民政府国有资产监督管理委员会	https://gzw.hangzhou.gov.cn/art/2023/6/14/art_1229397433_144541.html	0830
+寿晓华		5		浙江省	杭州市	https://gzw.hangzhou.gov.cn/col/col1229397433/index.html	党委委员、副主任		杭州市人民政府国有资产监督管理委员会	https://gzw.hangzhou.gov.cn/col/col1229397433/art/2026/art_caf5500a00904d4d8e164834be1a29b5.html	0830
+胥智勇		6		浙江省	杭州市	https://gzw.hangzhou.gov.cn/col/col1229397433/index.html	党委委员、二级巡视员		杭州市人民政府国有资产监督管理委员会	https://gzw.hangzhou.gov.cn/art/2024/11/22/art_1229397433_169664.html	0830
+邹邦华		7		浙江省	杭州市	https://gzw.hangzhou.gov.cn/col/col1229397433/index.html	二级巡视员		杭州市人民政府国有资产监督管理委员会	https://gzw.hangzhou.gov.cn/art/2020/10/13/art_1229397433_73056.html	0830
+应利丹		8		浙江省	杭州市	https://gzw.hangzhou.gov.cn/col/col1229397433/index.html	二级巡视员		杭州市人民政府国有资产监督管理委员会	https://gzw.hangzhou.gov.cn/art/2020/10/13/art_1229397433_73108.html	0830

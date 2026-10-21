@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘振华		1		山西省	晋城市	https://www.jcgov.gov.cn/zwgk/#ldzc	市长		晋城市人民政府	https://www.jcgov.gov.cn/zwgk/ldzc/szfld/sz/lzh/	4397
+田志军		2		山西省	晋城市	https://www.jcgov.gov.cn/zwgk/#ldzc	副市长		晋城市人民政府	https://www.jcgov.gov.cn/zwgk/ldzc/szfld/fsz/tzj_42945/	4397
+杨晓雷		3		山西省	晋城市	https://www.jcgov.gov.cn/zwgk/#ldzc	副市长		晋城市人民政府	https://www.jcgov.gov.cn/zwgk/ldzc/szfld/fsz/yxl_56582/	4397
+黄登宇		4		山西省	晋城市	https://www.jcgov.gov.cn/zwgk/#ldzc	副市长		晋城市人民政府	https://www.jcgov.gov.cn/zwgk/ldzc/szfld/fsz/hdy_46507/	4397
+贺文		5		山西省	晋城市	https://www.jcgov.gov.cn/zwgk/#ldzc	副市长		晋城市人民政府	https://www.jcgov.gov.cn/zwgk/ldzc/szfld/fsz/hw_55374/	4397
+张军		6		山西省	晋城市	https://www.jcgov.gov.cn/zwgk/#ldzc	副市长		晋城市人民政府	https://www.jcgov.gov.cn/zwgk/ldzc/szfld/fsz/zj_55820/	4397
+冯晓伟		7		山西省	晋城市	https://www.jcgov.gov.cn/zwgk/#ldzc	秘书长		晋城市人民政府	https://www.jcgov.gov.cn/zwgk/ldzc/szfld/msz/fxw/	4397

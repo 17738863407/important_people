@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高占胜		1		内蒙古自治区		https://mw.nmg.gov.cn/xxgk/?gk=1	党组书记、主任		内蒙古自治区民族事务委员会	https://mw.nmg.gov.cn/xxgk/fdzdgknr/jgjj/ldjj/202109/t20210917_1887737.html	1711
+康宇凤		2		内蒙古自治区		https://mw.nmg.gov.cn/xxgk/?gk=1	党组成员、副主任		内蒙古自治区民族事务委员会	https://mw.nmg.gov.cn/xxgk/fdzdgknr/jgjj/ldjj/202203/t20220328_2024182.html	1711
+云冰		3		内蒙古自治区		https://mw.nmg.gov.cn/xxgk/?gk=1	党组成员、副主任		内蒙古自治区民族事务委员会	https://mw.nmg.gov.cn/xxgk/fdzdgknr/jgjj/ldjj/202308/t20230830_2370056.html	1711
+阿拉塔		4		内蒙古自治区		https://mw.nmg.gov.cn/xxgk/?gk=1	党组成员、专职委员、二级巡视员		内蒙古自治区民族事务委员会	https://mw.nmg.gov.cn/xxgk/fdzdgknr/jgjj/ldjj/202308/t20230830_2370062.html	1711
+陈平		5		内蒙古自治区		https://mw.nmg.gov.cn/xxgk/?gk=1	二级巡视员		内蒙古自治区民族事务委员会	https://mw.nmg.gov.cn/xxgk/fdzdgknr/jgjj/ldjj/202205/t20220509_2052453.html	1711

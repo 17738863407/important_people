@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+普诺·白玛丹增		1		云南省	昆明市	https://kib.cas.cn/gkjj/xrld/	所长、党委书记		中国科学院昆明植物研究所	http://kib.cas.cn/gkjj/xrld/202002/t20200228_5506803.html	4130
+黎廷宇		2		云南省	昆明市	https://kib.cas.cn/gkjj/xrld/	党委副书记、纪委书记		中国科学院昆明植物研究所	https://kib.cas.cn/gkjj/xrld/202609/t20260920_8285331.html	4130
+吴建强		3		云南省	昆明市	https://kib.cas.cn/gkjj/xrld/	副所长		中国科学院昆明植物研究所	http://kib.cas.cn/gkjj/xrld/202107/t20210715_6138612.html	4130
+牛洋		4		云南省	昆明市	https://kib.cas.cn/gkjj/xrld/	副所长		中国科学院昆明植物研究所	https://kib.cas.cn/gkjj/xrld/202503/t20250320_7561073.html	4130

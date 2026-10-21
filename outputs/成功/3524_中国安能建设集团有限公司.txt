@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈奕辉		1		全国		https://www.china-an.cn/jtgk/ldtd/gltd/index.html	党委书记、董事长		中国安能建设集团有限公司		3524
+郭建和		2		全国		https://www.china-an.cn/jtgk/ldtd/gltd/index.html	党委副书记、总经理、董事		中国安能建设集团有限公司		3524
+张其国		3		全国		https://www.china-an.cn/jtgk/ldtd/gltd/index.html	党委常委、纪委书记		中国安能建设集团有限公司		3524
+吴汉明		4		全国		https://www.china-an.cn/jtgk/ldtd/gltd/index.html	党委常委、副总经理		中国安能建设集团有限公司		3524
+孟宪明		5		全国		https://www.china-an.cn/jtgk/ldtd/gltd/index.html	党委常委、副总经理		中国安能建设集团有限公司		3524

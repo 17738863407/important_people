@@ -1,0 +1,14 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张继红		1		北京市		https://kw.beijing.gov.cn/zwgk/ldjs/	市科委、中关村管委会党组书记、主任		北京市科学技术委员会		1401
+刘晖		2		北京市		https://kw.beijing.gov.cn/zwgk/ldjs/	市科研院党组书记，市科委、中关村管委会党组成员、副主任		北京市科学技术委员会		1401
+董齐超		3		北京市		https://kw.beijing.gov.cn/zwgk/ldjs/	市科委、中关村管委会党组成员、副主任		北京市科学技术委员会		1401
+刘卫华		4		北京市		https://kw.beijing.gov.cn/zwgk/ldjs/	市科委、中关村管委会党组成员、副主任		北京市科学技术委员会		1401
+杨璞		5		北京市		https://kw.beijing.gov.cn/zwgk/ldjs/	市科委、中关村管委会党组成员、副主任		北京市科学技术委员会		1401
+李凯		6		北京市		https://kw.beijing.gov.cn/zwgk/ldjs/	市科委、中关村管委会党组成员，驻市科委、中关村管委会纪检监察组组长		北京市科学技术委员会		1401
+郭澜涛		7		北京市		https://kw.beijing.gov.cn/zwgk/ldjs/	市科委、中关村管委会党组成员、副主任		北京市科学技术委员会		1401
+张耀天		8		北京市		https://kw.beijing.gov.cn/zwgk/ldjs/	市科委、中关村管委会副主任		北京市科学技术委员会		1401
+辛永全		9		北京市		https://kw.beijing.gov.cn/zwgk/ldjs/	市科委、中关村管委会副主任		北京市科学技术委员会		1401
+张金辉		10		北京市		https://kw.beijing.gov.cn/zwgk/ldjs/	市科委、中关村管委会党组成员、副主任		北京市科学技术委员会		1401
+翟天瑞		11		北京市		https://kw.beijing.gov.cn/zwgk/ldjs/	市科委、中关村管委会党组成员、副主任，新闻发言人		北京市科学技术委员会		1401
+赵清		12		北京市		https://kw.beijing.gov.cn/zwgk/ldjs/	市科委、中关村管委会一级巡视员		北京市科学技术委员会		1401
+张志松		13		北京市		https://kw.beijing.gov.cn/zwgk/ldjs/	市科委、中关村管委会二级巡视员		北京市科学技术委员会		1401

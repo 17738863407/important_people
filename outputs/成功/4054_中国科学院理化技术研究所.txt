@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王雪松		1		全国		https://ipc.cas.cn/gk/xrld/	所长		中国科学院理化技术研究所		4054
+王树涛		2		全国		https://ipc.cas.cn/gk/xrld/	党委书记、副所长		中国科学院理化技术研究所		4054
+罗二仓		3		全国		https://ipc.cas.cn/gk/xrld/	副所长		中国科学院理化技术研究所		4054
+郭晓勇		4		全国		https://ipc.cas.cn/gk/xrld/	副所长		中国科学院理化技术研究所		4054
+袁庆智		5		全国		https://ipc.cas.cn/gk/xrld/	纪委书记		中国科学院理化技术研究所		4054
+高波		6		全国		https://ipc.cas.cn/gk/xrld/	副所长		中国科学院理化技术研究所		4054

@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+贺东		1		安徽省	池州市	https://www.chizhou.gov.cn/Leader/	市长		池州市人民政府	https://www.chizhou.gov.cn/Leader/showList/3/2026.html	3808
+巩文生		2		安徽省	池州市	https://www.chizhou.gov.cn/Leader/	常务副市长		池州市人民政府	https://www.chizhou.gov.cn/Leader/showList/3/3090.html	3808
+曹霞		3		安徽省	池州市	https://www.chizhou.gov.cn/Leader/	副市长		池州市人民政府	https://www.chizhou.gov.cn/Leader/showList/3/1579.html	3808
+胡军保		4		安徽省	池州市	https://www.chizhou.gov.cn/Leader/	副市长		池州市人民政府	https://www.chizhou.gov.cn/Leader/showList/3/1580.html	3808
+王珏		5		安徽省	池州市	https://www.chizhou.gov.cn/Leader/	副市长		池州市人民政府	https://www.chizhou.gov.cn/Leader/showList/3/2927.html	3808
+柯春平		6		安徽省	池州市	https://www.chizhou.gov.cn/Leader/	副市长		池州市人民政府	https://www.chizhou.gov.cn/Leader/showList/3/3002.html	3808
+汪政		7		安徽省	池州市	https://www.chizhou.gov.cn/Leader/	秘书长		池州市人民政府	https://www.chizhou.gov.cn/Leader/showList/3/3024.html	3808

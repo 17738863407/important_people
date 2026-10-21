@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+阎明宇		1		辽宁省	大连市	https://scjg.dl.gov.cn/col/col9087/index.html?vc_xxgkarea=2102000113&number=DL014&jh=263	党组书记、局长		大连市市场监督管理局	https://scjg.dl.gov.cn/art/2025/4/24/art_9088_2086896.html	2247
+胡桂华		2		辽宁省	大连市	https://scjg.dl.gov.cn/col/col9087/index.html?vc_xxgkarea=2102000113&number=DL014&jh=263	党组成员、驻局纪检监察组组长		大连市市场监督管理局	https://scjg.dl.gov.cn/art/2025/4/24/art_9088_2323729.html	2247
+杨丽芸		3		辽宁省	大连市	https://scjg.dl.gov.cn/col/col9087/index.html?vc_xxgkarea=2102000113&number=DL014&jh=263	党组成员、副局长		大连市市场监督管理局	https://scjg.dl.gov.cn/art/2025/4/24/art_9088_2086893.html	2247
+朱赞兵		4		辽宁省	大连市	https://scjg.dl.gov.cn/col/col9087/index.html?vc_xxgkarea=2102000113&number=DL014&jh=263	党组成员、副局长		大连市市场监督管理局	https://scjg.dl.gov.cn/art/2025/4/24/art_9088_2086892.html	2247
+于年波		5		辽宁省	大连市	https://scjg.dl.gov.cn/col/col9087/index.html?vc_xxgkarea=2102000113&number=DL014&jh=263	党组成员、副局长		大连市市场监督管理局	https://scjg.dl.gov.cn/art/2025/4/24/art_9088_2330390.html	2247
+崔跃强		6		辽宁省	大连市	https://scjg.dl.gov.cn/col/col9087/index.html?vc_xxgkarea=2102000113&number=DL014&jh=263	党组成员、副局长、执法队党委书记		大连市市场监督管理局	https://scjg.dl.gov.cn/art/2025/4/24/art_9088_2323731.html	2247
+刘劲枫		7		辽宁省	大连市	https://scjg.dl.gov.cn/col/col9087/index.html?vc_xxgkarea=2102000113&number=DL014&jh=263	党组成员、总工程师		大连市市场监督管理局	https://scjg.dl.gov.cn/art/2025/4/24/art_9088_2330395.html	2247

@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑光照		1		内蒙古自治区		http://gat.nmg.gov.cn/zwgk/zfxxgk/zdgknr/ldjs/	自治区副主席		内蒙古自治区公安厅		0636
+刘宏		2		内蒙古自治区		http://gat.nmg.gov.cn/zwgk/zfxxgk/zdgknr/ldjs/	公安厅党委副书记		内蒙古自治区公安厅		0636
+瓦建疆		3		内蒙古自治区		http://gat.nmg.gov.cn/zwgk/zfxxgk/zdgknr/ldjs/	公安厅党委委员		内蒙古自治区公安厅		0636
+马艺		4		内蒙古自治区		http://gat.nmg.gov.cn/zwgk/zfxxgk/zdgknr/ldjs/	公安厅党委委员		内蒙古自治区公安厅		0636
+赵剑南		5		内蒙古自治区		http://gat.nmg.gov.cn/zwgk/zfxxgk/zdgknr/ldjs/	公安厅党委委员、副厅长，内蒙古警察学院党委书记		内蒙古自治区公安厅		0636
+王斌		6		内蒙古自治区		http://gat.nmg.gov.cn/zwgk/zfxxgk/zdgknr/ldjs/	公安厅党委委员、政治部主任		内蒙古自治区公安厅		0636
+胡蓉		7		内蒙古自治区		http://gat.nmg.gov.cn/zwgk/zfxxgk/zdgknr/ldjs/	公安厅党委委员、副厅长		内蒙古自治区公安厅		0636
+王亚新		8		内蒙古自治区		http://gat.nmg.gov.cn/zwgk/zfxxgk/zdgknr/ldjs/	公安厅党委委员、副厅长		内蒙古自治区公安厅		0636
+牛芳泽		9		内蒙古自治区		http://gat.nmg.gov.cn/zwgk/zfxxgk/zdgknr/ldjs/	公安厅党委委员、副厅长		内蒙古自治区公安厅		0636
+陈宏军		10		内蒙古自治区		http://gat.nmg.gov.cn/zwgk/zfxxgk/zdgknr/ldjs/	公安厅党委委员		内蒙古自治区公安厅		0636
+柴悦		11		内蒙古自治区		http://gat.nmg.gov.cn/zwgk/zfxxgk/zdgknr/ldjs/	公安厅党委委员、副厅长		内蒙古自治区公安厅		0636

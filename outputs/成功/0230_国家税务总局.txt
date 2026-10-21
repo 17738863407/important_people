@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡静林		1		全国		https://www.chinatax.gov.cn/chinatax/n810209/index.html	国家税务总局党委书记、局长		国家税务总局	https://www.chinatax.gov.cn/chinatax/n810209/n810575/c102466/index.html	0230
+李建明		2		全国		https://www.chinatax.gov.cn/chinatax/n810209/index.html	中央纪委国家监委驻国家税务总局纪检监察组组长、国家税务总局党委委员		国家税务总局	https://www.chinatax.gov.cn/chinatax/n810209/n810575/c102221/index.html	0230
+王道树		3		全国		https://www.chinatax.gov.cn/chinatax/n810209/index.html	国家税务总局党委委员、副局长		国家税务总局	https://www.chinatax.gov.cn/chinatax/n810209/n810575/n4443519/index.html	0230
+赵静		4		全国		https://www.chinatax.gov.cn/chinatax/n810209/index.html	国家税务总局副局长，九三学社中央副主席		国家税务总局	https://www.chinatax.gov.cn/chinatax/n810209/n810575/c102026/index.html	0230
+蔡自力		5		全国		https://www.chinatax.gov.cn/chinatax/n810209/index.html	国家税务总局党委委员、副局长，机关党委书记		国家税务总局	https://www.chinatax.gov.cn/chinatax/n810209/n810575/c102225/index.html	0230
+罗天舒		6		全国		https://www.chinatax.gov.cn/chinatax/n810209/index.html	国家税务总局党委委员、副局长		国家税务总局	https://www.chinatax.gov.cn/chinatax/n810209/n810575/c102223/index.html	0230
+荣海楼		7		全国		https://www.chinatax.gov.cn/chinatax/n810209/index.html	国家税务总局党委委员、总经济师		国家税务总局	https://www.chinatax.gov.cn/chinatax/n810209/n810575/c102931/index.html	0230
+王世宇		8		全国		https://www.chinatax.gov.cn/chinatax/n810209/index.html	国家税务总局总审计师		国家税务总局	https://www.chinatax.gov.cn/chinatax/n810209/n810575/c103148/index.html	0230

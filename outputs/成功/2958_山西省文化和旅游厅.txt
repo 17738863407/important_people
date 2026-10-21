@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘冲		1		山西省		http://wlt.shanxi.gov.cn/jgsz/ldxx/	厅党组书记		山西省文化和旅游厅	http://wlt.shanxi.gov.cn/jgsz/ldxx/202509/t20250930_9970115.shtml	2958
+王爱琴		2		山西省		http://wlt.shanxi.gov.cn/jgsz/ldxx/	厅长		山西省文化和旅游厅	http://wlt.shanxi.gov.cn/jgsz/ldxx/202109/t20210913_2380767.shtml	2958
+张志仁		3		山西省		http://wlt.shanxi.gov.cn/jgsz/ldxx/	厅党组成员、副厅长（正厅长级）		山西省文化和旅游厅	http://wlt.shanxi.gov.cn/jgsz/ldxx/202109/t20210913_2380768.shtml	2958
+金璋		4		山西省		http://wlt.shanxi.gov.cn/jgsz/ldxx/	厅党组成员、副厅长		山西省文化和旅游厅	http://wlt.shanxi.gov.cn/jgsz/ldxx/202203/t20220325_5574442.shtml	2958
+任永福		5		山西省		http://wlt.shanxi.gov.cn/jgsz/ldxx/	厅党组成员、副厅长		山西省文化和旅游厅	http://wlt.shanxi.gov.cn/jgsz/ldxx/202410/t20241014_9672855.shtml	2958
+赵明宇		6		山西省		http://wlt.shanxi.gov.cn/jgsz/ldxx/	厅党组成员、驻厅纪检监察组组长		山西省文化和旅游厅	http://wlt.shanxi.gov.cn/jgsz/ldxx/202502/t20250211_9766489.shtml	2958
+赵军龙		7		山西省		http://wlt.shanxi.gov.cn/jgsz/ldxx/	厅党组成员、副厅长		山西省文化和旅游厅	http://wlt.shanxi.gov.cn/jgsz/ldxx/202508/t20250811_9933900.shtml	2958
+张卫东		8		山西省		http://wlt.shanxi.gov.cn/jgsz/ldxx/	二级巡视员		山西省文化和旅游厅	http://wlt.shanxi.gov.cn/jgsz/ldxx/202109/t20210913_2380759.shtml	2958

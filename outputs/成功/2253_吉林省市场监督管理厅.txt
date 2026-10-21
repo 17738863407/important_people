@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+武忠旭		1		吉林省		https://scjg.jl.gov.cn/jg/	党组书记、厅长		吉林省市场监督管理厅	https://scjg.jl.gov.cn/jg/tld/202107/t20210706_8129748.html	2253
+李继武		2		吉林省		https://scjg.jl.gov.cn/jg/	党组成员、副厅长，省知识产权局局长		吉林省市场监督管理厅	https://scjg.jl.gov.cn/jg/tld/201901/t20190110_6088938.html	2253
+郭忠强		3		吉林省		https://scjg.jl.gov.cn/jg/	党组成员、副厅长		吉林省市场监督管理厅	https://scjg.jl.gov.cn/jg/tld/201903/t20190320_6088945.html	2253
+许桂兰		4		吉林省		https://scjg.jl.gov.cn/jg/	党组成员、驻厅纪检监察组组长		吉林省市场监督管理厅	https://scjg.jl.gov.cn/jg/tld/202512/t20251215_9371397.html	2253
+于源水		5		吉林省		https://scjg.jl.gov.cn/jg/	党组成员、副厅长		吉林省市场监督管理厅	https://scjg.jl.gov.cn/jg/tld/202101/t20210114_7909483.html	2253
+刘天娇		6		吉林省		https://scjg.jl.gov.cn/jg/	党组成员、副厅长		吉林省市场监督管理厅	https://scjg.jl.gov.cn/jg/tld/202503/t20250304_9073886.html	2253
+高晗		7		吉林省		https://scjg.jl.gov.cn/jg/	党组成员、副厅长		吉林省市场监督管理厅	https://scjg.jl.gov.cn/jg/tld/202607/t20260701_9657560.html	2253

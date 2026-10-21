@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+许俊松		1		贵州省		https://mzt.guizhou.gov.cn/zfxxgk/fdzdgknr/dwjj/	贵州省民政厅党组书记		贵州省民政厅	https://mzt.guizhou.gov.cn/xxgk/xxgkml/ldzc_5978803/dzbzcy/202610/t20261008_90965789.html	1778
+张吉兵		2		贵州省		https://mzt.guizhou.gov.cn/zfxxgk/fdzdgknr/dwjj/	贵州省民政厅党组副书记、副厅长		贵州省民政厅	https://mzt.guizhou.gov.cn/xxgk/xxgkml/ldzc_5978803/dzbzcy/202503/t20250319_87202003.html	1778
+万庆华		3		贵州省		https://mzt.guizhou.gov.cn/zfxxgk/fdzdgknr/dwjj/	贵州省民政厅党组成员、副厅长		贵州省民政厅	https://mzt.guizhou.gov.cn/xxgk/xxgkml/ldzc_5978803/dzbzcy/202503/t20250319_87202024.html	1778
+尹秀钰		4		贵州省		https://mzt.guizhou.gov.cn/zfxxgk/fdzdgknr/dwjj/	贵州省民政厅党组成员、副厅长		贵州省民政厅	https://mzt.guizhou.gov.cn/xxgk/xxgkml/ldzc_5978803/dzbzcy/202503/t20250319_87202042.html	1778
+兰芸		5		贵州省		https://mzt.guizhou.gov.cn/zfxxgk/fdzdgknr/dwjj/	贵州省民政厅二级巡视员		贵州省民政厅	https://mzt.guizhou.gov.cn/xxgk/xxgkml/ldzc_5978803/ejxsy/202503/t20250319_87202065.html	1778
+许文益		6		贵州省		https://mzt.guizhou.gov.cn/zfxxgk/fdzdgknr/dwjj/	贵州省民政厅二级巡视员		贵州省民政厅	https://mzt.guizhou.gov.cn/xxgk/xxgkml/ldzc_5978803/ejxsy/202503/t20250319_87202099.html	1778
+赵卫东		7		贵州省		https://mzt.guizhou.gov.cn/zfxxgk/fdzdgknr/dwjj/	贵州省民政厅二级巡视员		贵州省民政厅	https://mzt.guizhou.gov.cn/xxgk/xxgkml/ldzc_5978803/ejxsy/202503/t20250319_87202132.html	1778

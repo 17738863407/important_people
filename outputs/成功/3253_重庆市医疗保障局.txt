@@ -1,0 +1,4 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+邓莉		1		重庆市		https://ylbzj.cq.gov.cn/zwgk_535/fdzdgknr/jgzn/	党组书记、局长		重庆市医疗保障局	https://ylbzj.cq.gov.cn/zwgk_535/fdzdgknr/jgzn/fzrxx/202409/t20240913_13627146.html	3253
+仲姝婕		2		重庆市		https://ylbzj.cq.gov.cn/zwgk_535/fdzdgknr/jgzn/	重庆市医疗保障局党组成员、副局长，新闻发言人		重庆市医疗保障局	https://ylbzj.cq.gov.cn/zwgk_535/fdzdgknr/jgzn/fzrxx/202409/t20240913_13627135.html	3253
+古洋		3		重庆市		https://ylbzj.cq.gov.cn/zwgk_535/fdzdgknr/jgzn/	重庆市医疗保障局党组成员、副局长		重庆市医疗保障局	https://ylbzj.cq.gov.cn/zwgk_535/fdzdgknr/jgzn/fzrxx/202409/t20240913_13627125.html	3253

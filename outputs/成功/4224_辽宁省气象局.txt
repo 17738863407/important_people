@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+毛冬艳		1		辽宁省		http://ln.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/	党组书记、局长		辽宁省气象局		4224
+张彦平		2		辽宁省		http://ln.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/	党组成员、副局长		辽宁省气象局		4224
+陈洪伟		3		辽宁省		http://ln.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/	党组成员、副局长		辽宁省气象局		4224
+蒋大凯		4		辽宁省		http://ln.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/	党组成员、沈阳市气象局党组书记、局长		辽宁省气象局		4224
+薛建军		5		辽宁省		http://ln.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/	党组成员、大连市气象局党组书记、局长		辽宁省气象局		4224
+赵均壮		6		辽宁省		http://ln.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/	党组成员、副局长		辽宁省气象局		4224
+袁子鹏		7		辽宁省		http://ln.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/	党组成员、副局长		辽宁省气象局		4224
+杨凯华		8		辽宁省		http://ln.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/	党组成员、纪检组长		辽宁省气象局		4224
+刘文明		9		辽宁省		http://ln.cma.gov.cn/zfxxgk/zwgk/jgyzn/fzrjbxx/	总工程师		辽宁省气象局		4224

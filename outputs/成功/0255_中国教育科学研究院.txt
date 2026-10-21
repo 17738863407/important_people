@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李永智		1		全国		https://www.cnaes.edu.cn/wygk/xrld	党委书记、院长		中国教育科学研究院		0255
+陈如平		2		全国		https://www.cnaes.edu.cn/wygk/xrld	副院长		中国教育科学研究院		0255
+于发友		3		全国		https://www.cnaes.edu.cn/wygk/xrld	副院长		中国教育科学研究院		0255
+韩燕凤		4		全国		https://www.cnaes.edu.cn/wygk/xrld	党委副书记、纪委书记		中国教育科学研究院		0255
+李晓强		5		全国		https://www.cnaes.edu.cn/wygk/xrld	副院长		中国教育科学研究院		0255
+荣雷		6		全国		https://www.cnaes.edu.cn/wygk/xrld	副院长		中国教育科学研究院		0255

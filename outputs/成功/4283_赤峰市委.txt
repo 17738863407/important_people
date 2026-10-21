@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+亢永强		1		内蒙古自治区	赤峰市	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/	市委书记		赤峰市委	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/zzllmsswld/202609/t20260922_2821012.html	4283
+胡兆民		2		内蒙古自治区	赤峰市	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/	市委副书记，市政府党组书记、副市长、代市长		赤峰市委	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/zzllmsswld/202610/t20261010_2828869.html	4283
+陈占英		3		内蒙古自治区	赤峰市	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/	市委副书记、红山区委书记		赤峰市委	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/zzllmsswld/202101/t20210121_197808.html	4283
+孙海涛		4		内蒙古自治区	赤峰市	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/	市委常委、政法委书记		赤峰市委	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/zzllmsswld/202607/t20260727_2797072.html	4283
+王生才		5		内蒙古自治区	赤峰市	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/	市委常委、统战部部长		赤峰市委	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/zzllmsswld/202407/t20240719_2378326.html	4283
+郝慧明		6		内蒙古自治区	赤峰市	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/	市委常委、纪委书记、监委主任		赤峰市委	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/zzllmsswld/202403/t20240325_2284830.html	4283
+张国华		7		内蒙古自治区	赤峰市	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/	市委常委，市政府党组副书记、副市长		赤峰市委	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/zzllmsswld/202504/t20250427_2580866.html	4283
+朴英		8		内蒙古自治区	赤峰市	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/	市委常委、市政府副市长		赤峰市委	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/zzllmsswld/202607/t20260728_2797249.html	4283
+陈太鑫		9		内蒙古自治区	赤峰市	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/	市委常委、军分区政治委员		赤峰市委	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/zzllmsswld/202501/t20250107_2520649.html	4283
+王永军		10		内蒙古自治区	赤峰市	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/	市委常委、秘书长		赤峰市委	https://www.chifeng.gov.cn/zzllms/zzllmsldjs/zzllmsswld/202502/t20250224_2539607.html	4283

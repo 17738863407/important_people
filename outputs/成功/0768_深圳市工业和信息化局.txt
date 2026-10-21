@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黄强		1		广东省	深圳市	http://gxj.sz.gov.cn/gkmlpt/index#3098	党组书记、局长		深圳市工业和信息化局	https://gxj.sz.gov.cn/gkmlpt/content/11/11836/post_11836362.html	0768
+肖祖平		2		广东省	深圳市	http://gxj.sz.gov.cn/gkmlpt/index#3098	党组成员、副局长		深圳市工业和信息化局	https://gxj.sz.gov.cn/gkmlpt/content/11/11510/post_11510552.html	0768
+平原		3		广东省	深圳市	http://gxj.sz.gov.cn/gkmlpt/index#3098	党组成员、副局长		深圳市工业和信息化局	https://gxj.sz.gov.cn/gkmlpt/content/11/11832/post_11832570.html	0768
+林毅		4		广东省	深圳市	http://gxj.sz.gov.cn/gkmlpt/index#3098	党组成员、副局长		深圳市工业和信息化局	https://gxj.sz.gov.cn/gkmlpt/content/11/11510/post_11510549.html	0768

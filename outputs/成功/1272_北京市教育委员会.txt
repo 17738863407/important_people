@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李奕		1		北京市		https://jw.beijing.gov.cn/xxgk/zfxxgkml/zwgkjgzn/zwgkldjs/	中共北京市委教育工作委员会副书记，北京市教育委员会主任，北京市人民政府教育督导室主任		北京市教育委员会	https://jw.beijing.gov.cn/xxgk/zfxxgkml/zwgkjgzn/zwgkldjs/202407/t20240709_3741534.html	1272
+王方		2		北京市		https://jw.beijing.gov.cn/xxgk/zfxxgkml/zwgkjgzn/zwgkldjs/	中共北京市委教育工作委员会委员，北京市教育委员会副主任		北京市教育委员会	https://jw.beijing.gov.cn/xxgk/zfxxgkml/zwgkjgzn/zwgkldjs/202407/t20240709_3741554.html	1272
+魏旭斌		3		北京市		https://jw.beijing.gov.cn/xxgk/zfxxgkml/zwgkjgzn/zwgkldjs/	中共北京市委教育工作委员会委员，北京市教育委员会副主任		北京市教育委员会	https://jw.beijing.gov.cn/xxgk/zfxxgkml/zwgkjgzn/zwgkldjs/202607/t20260701_4741602.html	1272
+张耀天		4		北京市		https://jw.beijing.gov.cn/xxgk/zfxxgkml/zwgkjgzn/zwgkldjs/	中共北京市委教育工作委员会委员，北京市教育委员会副主任		北京市教育委员会	https://jw.beijing.gov.cn/xxgk/zfxxgkml/zwgkjgzn/zwgkldjs/202407/t20240709_3741571.html	1272
+吴洁		5		北京市		https://jw.beijing.gov.cn/xxgk/zfxxgkml/zwgkjgzn/zwgkldjs/	中共北京市委教育工作委员会委员，北京市教育委员会副主任		北京市教育委员会	https://jw.beijing.gov.cn/xxgk/zfxxgkml/zwgkjgzn/zwgkldjs/202607/t20260701_4741401.html	1272
+周林		6		北京市		https://jw.beijing.gov.cn/xxgk/zfxxgkml/zwgkjgzn/zwgkldjs/	中共北京市委教育工作委员会委员，北京市教育委员会副主任		北京市教育委员会	https://jw.beijing.gov.cn/xxgk/zfxxgkml/zwgkjgzn/zwgkldjs/202607/t20260701_4741383.html	1272
+葛巨众		7		北京市		https://jw.beijing.gov.cn/xxgk/zfxxgkml/zwgkjgzn/zwgkldjs/	北京市教育委员会二级巡视员		北京市教育委员会	https://jw.beijing.gov.cn/xxgk/zfxxgkml/zwgkjgzn/zwgkldjs/202407/t20240709_3741578.html	1272

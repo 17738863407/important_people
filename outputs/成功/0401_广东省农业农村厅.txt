@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王再华		1		广东省		https://dara.gd.gov.cn/zwgk/ldjj/index.html	广东省农业农村厅党组书记、厅长，省委农办主任、省乡村振兴局局长		广东省农业农村厅		0401
+黎明		2		广东省		https://dara.gd.gov.cn/zwgk/ldjj/index.html	中共广东省委农村工作领导小组办公室常务副主任、省农业农村厅党组副书记、省乡村振兴局常务副局长（正厅级）		广东省农业农村厅	https://dara.gd.gov.cn/zwgk/ldjj/content/post_4850563.html	0401
+陈东		3		广东省		https://dara.gd.gov.cn/zwgk/ldjj/index.html	广东省农业农村厅党组成员、副厅长（正厅职）		广东省农业农村厅	https://dara.gd.gov.cn/zwgk/ldjj/content/post_4850561.html	0401
+蓝炳祥		4		广东省		https://dara.gd.gov.cn/zwgk/ldjj/index.html	广东省农业农村厅党组成员，省纪委监委驻省农业农村厅纪检监察组组长		广东省农业农村厅	https://dara.gd.gov.cn/zwgk/ldjj/content/post_4938375.html	0401
+陈宗云		5		广东省		https://dara.gd.gov.cn/zwgk/ldjj/index.html	广东省农业农村厅党组成员、副厅长		广东省农业农村厅	https://dara.gd.gov.cn/zwgk/ldjj/content/post_4850608.html	0401
+林光美		6		广东省		https://dara.gd.gov.cn/zwgk/ldjj/index.html	广东省农业农村厅党组成员、副厅长		广东省农业农村厅	https://dara.gd.gov.cn/zwgk/ldjj/content/post_4850523.html	0401

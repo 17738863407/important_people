@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵南方		1		云南省	昆明市	https://gaj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	云南省公安厅党委委员，昆明市人民政府副市长、市公安局党委书记、局长、督察长		昆明市公安局	https://gaj.km.gov.cn/c/2025-08-22/5012297.shtml	0612
+尹斌		2		云南省	昆明市	https://gaj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	云南省昆明市公安局党委副书记、分管日常工作的副局长、一级高级警长		昆明市公安局	https://gaj.km.gov.cn/c/2025-11-13/5066397.shtml	0612
+苏少明		3		云南省	昆明市	https://gaj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	昆明市公安局党委委员、副局长、警务技术二级总监		昆明市公安局	https://gaj.km.gov.cn/c/2022-10-27/4562146.shtml	0612
+刘伟东		4		云南省	昆明市	https://gaj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	昆明市公安局党委委员，昆明市公安局特勤局党委书记、局长		昆明市公安局	https://gaj.km.gov.cn/c/2022-10-27/4562119.shtml	0612
+郑山		5		云南省	昆明市	https://gaj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	昆明市公安局党委委员、政治部主任、二级高级警长		昆明市公安局	https://gaj.km.gov.cn/c/2022-10-27/4562084.shtml	0612
+王正亮		6		云南省	昆明市	https://gaj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	昆明市公安局党委委员、副局长、二级高级警长		昆明市公安局	https://gaj.km.gov.cn/c/2022-10-27/4562073.shtml	0612
+王嘉懿		7		云南省	昆明市	https://gaj.km.gov.cn/zfxxgk/fdzdgknr/ldxx/	昆明市公安局党委委员、副局长、三级高级警长		昆明市公安局	https://gaj.km.gov.cn/c/2023-11-29/4806108.shtml	0612

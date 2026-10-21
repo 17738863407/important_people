@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周群		1		全国		http://www.xxcig.com/web/jtgk/jtld/index.shtml	党委常委：党委书记、董事长；董事会成员：党委书记、董事长		新兴际华集团有限公司		3512
+杨旭		2		全国		http://www.xxcig.com/web/jtgk/jtld/index.shtml	党委常委：党委副书记、董事、总经理；董事会成员：党委副书记、董事、总经理；经理层成员：党委副书记、董事、总经理		新兴际华集团有限公司		3512
+吴同兴		3		全国		http://www.xxcig.com/web/jtgk/jtld/index.shtml	党委常委：党委副书记、董事；董事会成员：党委副书记、董事		新兴际华集团有限公司		3512
+徐建华		4		全国		http://www.xxcig.com/web/jtgk/jtld/index.shtml	党委常委：党委常委、副总经理；经理层成员：党委常委、副总经理		新兴际华集团有限公司		3512
+陈一军		5		全国		http://www.xxcig.com/web/jtgk/jtld/index.shtml	党委常委：党委常委、纪委书记		新兴际华集团有限公司		3512
+安胜杰		6		全国		http://www.xxcig.com/web/jtgk/jtld/index.shtml	党委常委：党委常委、副总经理；经理层成员：党委常委、副总经理		新兴际华集团有限公司		3512
+曲大庄		7		全国		http://www.xxcig.com/web/jtgk/jtld/index.shtml	董事会成员：外部董事		新兴际华集团有限公司		3512
+庄小雄		8		全国		http://www.xxcig.com/web/jtgk/jtld/index.shtml	董事会成员：外部董事		新兴际华集团有限公司		3512
+彭碧宏		9		全国		http://www.xxcig.com/web/jtgk/jtld/index.shtml	董事会成员：外部董事		新兴际华集团有限公司		3512
+雷平		10		全国		http://www.xxcig.com/web/jtgk/jtld/index.shtml	董事会成员：外部董事		新兴际华集团有限公司		3512
+李耀		11		全国		http://www.xxcig.com/web/jtgk/jtld/index.shtml	董事会成员：外部董事		新兴际华集团有限公司		3512

@@ -1,0 +1,5 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱重烈		1		浙江省	金华市	http://district.ce.cn/newarea/sddy/201205/24/t20120524_1465267.shtml	书记		金华市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202207/26/t20220726_37905188.shtml	0432
+陈玲玲		2		浙江省	金华市	http://district.ce.cn/newarea/sddy/201205/24/t20120524_1465267.shtml	人大主任		金华市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202004/29/t20200429_34810048.shtml	0432
+张健		3		浙江省	金华市	http://district.ce.cn/newarea/sddy/201205/24/t20120524_1465267.shtml	市长		金华市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202402/02/t20240202_38890878.shtml	0432
+叶卫红		4		浙江省	金华市	http://district.ce.cn/newarea/sddy/201205/24/t20120524_1465267.shtml	政协主席		金华市—市委书记、市长、政协主席、人大常委会主任	http://district.ce.cn/newarea/sddy/202501/22/t20250122_39274873.shtml	0432
