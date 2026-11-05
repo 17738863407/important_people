@@ -576,16 +576,16 @@ def main(
 
 if __name__ == "__main__":
     source_file = resolve_project_path(
-        "important_people/workspace/source_data/规则主表.txt", anchor=__file__, must_exist=True
+        "workspace/source_data/规则主表.txt", anchor=__file__, must_exist=True
     )
     admin_json_file = resolve_external_path("IMPORTANT_PERSON_ADMIN_DIVISIONS_JSON")
     output_file = resolve_project_path(
-        "important_people/规则主表-省市推断副本.txt", anchor=__file__
+        "规则主表-省市推断副本.txt", anchor=__file__
     )
     report_file = resolve_project_path(
-        "important_people/workspace/reports/规则主表省市推断审核报告.txt", anchor=__file__
+        "workspace/reports/规则主表省市推断审核报告.txt", anchor=__file__
     )
-    log_folder = resolve_project_path("important_people/workspace/log", anchor=__file__)
+    log_folder = resolve_project_path("workspace/log", anchor=__file__)
     standard_province_order = [
         "北京市", "天津市", "河北省", "山西省", "内蒙古自治区", "辽宁省", "吉林省", "黑龙江省",
         "上海市", "江苏省", "浙江省", "安徽省", "福建省", "江西省", "山东省", "河南省",

@@ -75,7 +75,7 @@
 2. 所有Python运行、测试、编译和Playwright任务使用项目uv环境，通过当前系统可解析的`uv run`执行；若`uv`不在`PATH`中，则使用本机已核验的uv启动器。子进程默认继承当前`sys.executable`，不得硬编码虚拟环境内部解释器路径。
 3. Python工具应有`main()`统一入口；`if __name__ == "__main__":`只放用户参数和一次`main()`调用。
 4. 文本使用UTF-8；表格结果使用`.txt`扩展名和制表符分隔。长任务显示进度，单文件失败记录后继续。
-5. 项目内部可配置路径统一写成以`important_people/`开头、使用正斜杠的逻辑路径，并通过`crawler_core.paths.resolve_project_path()`结合调用脚本的`__file__`解析；不得直接交给`Path()`依赖当前工作目录，也不得在源码中硬编码盘符、用户目录或项目绝对位置。
+5. 项目内部可配置路径统一写成相对项目根目录、使用正斜杠的路径，例如`workspace/source_data/规则主表.txt`、`outputs`，以`.`表示项目根目录；通过`crawler_core.paths.resolve_project_path()`结合调用脚本的`__file__`解析。根目录按项目标记定位，允许目录重命名；旧`important_people/`前缀仅用于兼容既有调用。不得直接交给`Path()`依赖当前工作目录，也不得在源码中硬编码盘符、用户目录或项目绝对位置。
 6. 项目外部文件和目录通过明确的环境变量传入；Chrome和PowerShell由`crawler_core.paths`集中从显式环境变量、Windows环境目录或`PATH`发现。运行时解析得到绝对路径、日志记录实际绝对路径及历史报告中的旧路径不属于硬编码配置。
 
 ## 八、规则维护

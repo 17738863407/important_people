@@ -773,30 +773,30 @@ def main(
 
 if __name__ == "__main__":
     input_rule_table_path = resolve_project_path(
-        "important_people/workspace/source_data/规则主表.txt", anchor=__file__, must_exist=True
+        "workspace/source_data/规则主表.txt", anchor=__file__, must_exist=True
     )
     input_full_table_path = resolve_project_path(
-        "important_people/workspace/source_data/机构主表.txt", anchor=__file__, must_exist=True
+        "workspace/source_data/机构主表.txt", anchor=__file__, must_exist=True
     )
     input_audit_path = resolve_project_path(
-        "important_people/workspace/reports/机构目录/规则主表核对审计.txt",
+        "workspace/reports/机构目录/规则主表核对审计.txt",
         anchor=__file__,
         must_exist=True,
     )
     output_mapping_report_path = resolve_project_path(
-        "important_people/workspace/source_data/机构分类映射表.txt", anchor=__file__
+        "workspace/source_data/机构分类映射表.txt", anchor=__file__
     )
     output_pending_report_path = resolve_project_path(
-        "important_people/workspace/reports/机构分类待复核.txt", anchor=__file__
+        "workspace/reports/机构分类待复核.txt", anchor=__file__
     )
     output_sorting_report_path = resolve_project_path(
-        "important_people/workspace/reports/规则主表排序审计.txt", anchor=__file__
+        "workspace/reports/规则主表排序审计.txt", anchor=__file__
     )
     output_backup_dir = resolve_project_path(
-        "important_people/workspace/source_data/backup", anchor=__file__
+        "workspace/source_data/backup", anchor=__file__
     )
     output_log_path = resolve_project_path(
-        "important_people/workspace/log/同步机构分类到规则主表.log", anchor=__file__
+        "workspace/log/同步机构分类到规则主表.log", anchor=__file__
     )
     should_apply_changes = True
     main(

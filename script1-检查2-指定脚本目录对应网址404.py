@@ -379,10 +379,10 @@ def main(
 
 if __name__ == "__main__":
     current_time_value = datetime.now().strftime("%Y%m%d_%H%M%S")
-    script_dir_value = r"important_people/site_adapters/成功"
-    rule_table_path_value = r"important_people/workspace/source_data/规则主表.txt"
-    report_path_value = rf"important_people/workspace/reports/指定脚本目录网址状态检查_{current_time_value}.txt"
-    log_path_value = rf"important_people/workspace/log/指定脚本目录网址状态检查_{current_time_value}.log"
+    script_dir_value = r"site_adapters"
+    rule_table_path_value = r"workspace/source_data/规则主表.txt"
+    report_path_value = rf"workspace/reports/指定脚本目录网址状态检查_{current_time_value}.txt"
+    log_path_value = rf"workspace/log/指定脚本目录网址状态检查_{current_time_value}.log"
     timeout_seconds_value = 8
     retry_times_value = 0
     verify_ssl_value = True

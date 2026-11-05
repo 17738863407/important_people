@@ -162,13 +162,13 @@ def main(
 
 
 if __name__ == "__main__":
-    bookmark_path = resolve_project_path(r"important_people/workspace/source_data/机构目录/bookmarks_2026_9_1.html", anchor=__file__, must_exist=True)
+    bookmark_path = resolve_project_path(r"workspace/source_data/机构目录/bookmarks_2026_9_1.html", anchor=__file__, must_exist=True)
     folder_name = "19.34个省级行政区政府机构"
-    snapshot_dir = resolve_project_path(r"important_people/workspace/snapshots/机构目录/省级政府机构目录/html", anchor=__file__)
-    summary_path = resolve_project_path(r"important_people/workspace/reports/机构目录/省级政府机构目录抓取摘要.txt", anchor=__file__)
+    snapshot_dir = resolve_project_path(r"workspace/snapshots/机构目录/省级政府机构目录/html", anchor=__file__)
+    summary_path = resolve_project_path(r"workspace/reports/机构目录/省级政府机构目录抓取摘要.txt", anchor=__file__)
     log_path = timestamped_output_path(
         resolve_project_path(
-            r"important_people/workspace/log/机构目录/省级政府机构目录抓取.log",
+            r"workspace/log/机构目录/省级政府机构目录抓取.log",
             anchor=__file__,
         )
     )

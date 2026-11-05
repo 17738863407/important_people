@@ -13,6 +13,8 @@ from typing import Any, Iterable, Sequence
 
 from pypinyin import Style, lazy_pinyin
 
+from crawler_core.paths import resolve_path_argument
+
 
 def normalize_header(value: str) -> str:
     """去掉 BOM、空白和列名中的星号，便于精确匹配列名。"""
@@ -197,6 +199,7 @@ def main(
 ) -> None:
     """统一入口：读取、排序并原地写回同一文件。"""
     logger = setup_logging()
+    input_path = str(resolve_path_argument(input_path, anchor=__file__, must_exist=True))
 
     try:
         if not os.path.isfile(input_path):
@@ -227,7 +230,7 @@ def main(
 
 
 if __name__ == "__main__":
-    input_path = r"C:\Users\wikipedia\Desktop\important_people\workspace\source_data\规则主表.txt"
+    input_path = r"workspace/source_data/规则主表.txt"
     org_order = [
         "中共中央",
         "全国人大",

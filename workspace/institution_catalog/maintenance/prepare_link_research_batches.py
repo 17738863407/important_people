@@ -78,11 +78,11 @@ def main(
 
 
 if __name__ == "__main__":
-    input_source_path = resolve_project_path(r"important_people/workspace/source_data/机构主表.txt", anchor=__file__, must_exist=True)
-    output_batch_dir = resolve_project_path(r"important_people/workspace/reports/机构目录/官网与领导链接待核查-分组", anchor=__file__)
+    input_source_path = resolve_project_path(r"workspace/source_data/机构主表.txt", anchor=__file__, must_exist=True)
+    output_batch_dir = resolve_project_path(r"workspace/reports/机构目录/官网与领导链接待核查-分组", anchor=__file__)
     output_log_path = timestamped_output_path(
         resolve_project_path(
-            r"important_people/workspace/log/机构目录/链接核查任务分组.log",
+            r"workspace/log/机构目录/链接核查任务分组.log",
             anchor=__file__,
         )
     )

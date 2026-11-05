@@ -109,7 +109,7 @@ def main() -> None:
     from crawler_core.paths import resolve_project_path
     from crawler_core.runner import run_page_adapter
 
-    log_dir = resolve_project_path("important_people/workspace/log", anchor=__file__)
+    log_dir = resolve_project_path("workspace/log", anchor=__file__)
     log_dir.mkdir(parents=True, exist_ok=True)
     logging.basicConfig(
         level=logging.INFO,

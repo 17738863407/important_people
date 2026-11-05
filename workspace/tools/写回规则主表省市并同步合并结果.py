@@ -275,19 +275,19 @@ def main(
 
 if __name__ == "__main__":
     rule_main_file = resolve_project_path(
-        "important_people/workspace/source_data/规则主表.txt", anchor=__file__, must_exist=True
+        "workspace/source_data/规则主表.txt", anchor=__file__, must_exist=True
     )
     confirmed_mapping_file = resolve_project_path(
-        "important_people/规则主表-省市推断副本.txt", anchor=__file__, must_exist=True
+        "规则主表-省市推断副本.txt", anchor=__file__, must_exist=True
     )
     merged_result_file = resolve_project_path(
-        "important_people/合并txt结果_test.txt", anchor=__file__, must_exist=True
+        "合并txt结果_test.txt", anchor=__file__, must_exist=True
     )
-    backup_folder = resolve_project_path("important_people/workspace/reports/backups", anchor=__file__)
+    backup_folder = resolve_project_path("workspace/reports/backups", anchor=__file__)
     audit_report_file = resolve_project_path(
-        "important_people/workspace/reports/规则主表与合并结果省市写入报告.txt", anchor=__file__
+        "workspace/reports/规则主表与合并结果省市写入报告.txt", anchor=__file__
     )
-    execution_log_folder = resolve_project_path("important_people/workspace/log", anchor=__file__)
+    execution_log_folder = resolve_project_path("workspace/log", anchor=__file__)
     rule_main_header = list(RULE_TABLE_FIELDS)
     confirmed_mapping_header = ["脚本序号", "机构", "所属省*", "所属市"]
     merged_result_header = [

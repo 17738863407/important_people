@@ -1991,11 +1991,11 @@ def main(
 
 
 if __name__ == "__main__":
-    adapter_dir_value = r"important_people/site_adapters"
+    adapter_dir_value = r"site_adapters"
     script_sequence_filter_value: tuple[str, ...] = ()
-    output_dir_value = r"important_people/outputs"
-    report_dir_value = r"important_people/workspace/reports"
-    log_path_value = r"important_people/workspace/log/一键运行全部爬虫脚本.log"
+    output_dir_value = r"outputs"
+    report_dir_value = r"workspace/reports"
+    log_path_value = r"workspace/log/一键运行全部爬虫脚本.log"
     python_exe_value = sys.executable
     timeout_seconds_value = 480
     stop_on_error_value = False
@@ -2006,7 +2006,7 @@ if __name__ == "__main__":
         {"raw_http": 30, "requests": 30, "llm_vision": 4, "playwright": 12, "chrome": 1},
     )
     delete_failed_output_value = False
-    fetch_mode_memory_path_value = r"important_people/workspace/module/采集方式成功记录.txt"
+    fetch_mode_memory_path_value = r"workspace/module/采集方式成功记录.txt"
     respect_fetch_mode_memory_value = True
     respect_script_fetch_mode_value = False
     update_fetch_mode_memory_value = True

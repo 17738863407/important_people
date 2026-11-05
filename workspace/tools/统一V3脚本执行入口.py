@@ -402,12 +402,12 @@ def main(adapter_dir: Path, report_path: Path, log_path: Path, apply_changes: bo
 
 
 if __name__ == "__main__":
-    adapter_dir_value = resolve_project_path("important_people/site_adapters/V3", anchor=__file__)
+    adapter_dir_value = resolve_project_path("site_adapters/V3", anchor=__file__)
     report_path_value = resolve_project_path(
-        "important_people/workspace/reports/V3脚本执行入口统一报告.txt", anchor=__file__
+        "workspace/reports/V3脚本执行入口统一报告.txt", anchor=__file__
     )
     log_path_value = resolve_project_path(
-        "important_people/workspace/log/V3脚本执行入口统一.log", anchor=__file__
+        "workspace/log/V3脚本执行入口统一.log", anchor=__file__
     )
     apply_changes_value = True
     main(adapter_dir_value, report_path_value, log_path_value, apply_changes_value)

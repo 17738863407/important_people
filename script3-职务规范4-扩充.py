@@ -288,9 +288,9 @@ def main(
 
 
 if __name__ == "__main__":
-    input_path_value = r"important_people/职务规范3：补全.txt"
-    project_dir_value = r"important_people"
-    cleaning_script_path_value = r"important_people/script3-职务规范2-清理.py"
+    input_path_value = r"职务规范3：补全.txt"
+    project_dir_value = r"."
+    cleaning_script_path_value = r"script3-职务规范2-清理.py"
     main(
         input_path=input_path_value,
         project_dir=project_dir_value,

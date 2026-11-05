@@ -131,5 +131,5 @@ def main(project_dir: Path) -> None:
 
 
 if __name__ == "__main__":
-    project_dir_value = resolve_project_path("important_people", anchor=__file__)
+    project_dir_value = resolve_project_path(".", anchor=__file__)
     main(project_dir=project_dir_value)

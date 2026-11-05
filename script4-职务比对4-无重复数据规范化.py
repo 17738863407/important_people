@@ -535,10 +535,10 @@ def main(
 
 
 if __name__ == "__main__":
-    reminders_path_value = r"important_people/职务比对3：无重复数据.txt"
-    normalized_path_value = r"important_people/职务规范4：扩充.txt"
-    xlsx_filtered_path_value = r"important_people/职务比对4：无重复数据规范化.xlsx"
-    log_path_value = r"important_people/workspace/log/职务比对/生成规范化复核表.log"
+    reminders_path_value = r"职务比对3：无重复数据.txt"
+    normalized_path_value = r"职务规范4：扩充.txt"
+    xlsx_filtered_path_value = r"职务比对4：无重复数据规范化.xlsx"
+    log_path_value = r"workspace/log/职务比对/生成规范化复核表.log"
     main(
         reminders_path_value,
         normalized_path_value,

@@ -208,9 +208,9 @@ def main(target_logic, reports_logic, logs_logic, final_logic, expected_ids):
 
 
 if __name__ == "__main__":
-    target_logic = "important_people/outputs/二次"
-    reports_logic = "important_people/workspace/reports/失败TXT清理_20261027"
-    logs_logic = "important_people/workspace/log"
-    final_logic = "important_people/失败TXT清理结果_20261027.txt"
+    target_logic = "outputs/二次"
+    reports_logic = "workspace/reports/失败TXT清理_20261027"
+    logs_logic = "workspace/log"
+    final_logic = "失败TXT清理结果_20261027.txt"
     expected_ids = "0045 0241 0772 1003 1148 1212 1905 3481 3528 3602 3771 3779 3797 3886 3947 4017 4214 4287 4307 4383 4389 4417 4418 4428 4430 4490 4503 4506 4527 4562 4576 4578 4580"
     main(target_logic, reports_logic, logs_logic, final_logic, expected_ids)

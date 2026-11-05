@@ -219,23 +219,23 @@ if __name__ == "__main__":
     server_host = "127.0.0.1"
     server_port = 8765
     input_source_path = resolve_project_path(
-        r"important_people/workspace/source_data/机构主表.txt", anchor=__file__, must_exist=True
+        r"workspace/source_data/机构主表.txt", anchor=__file__, must_exist=True
     )
     output_database_path = resolve_project_path(
-        r"important_people/workspace/institution_catalog/workbench/data/institution_workbench.db",
+        r"workspace/institution_catalog/workbench/data/institution_workbench.db",
         anchor=__file__,
     )
     output_backup_dir = resolve_project_path(
-        r"important_people/workspace/source_data/backup/机构主表/web_edits", anchor=__file__
+        r"workspace/source_data/backup/机构主表/web_edits", anchor=__file__
     )
     input_static_dir = resolve_project_path(
-        r"important_people/workspace/institution_catalog/workbench/static",
+        r"workspace/institution_catalog/workbench/static",
         anchor=__file__,
         must_exist=True,
     )
     output_log_path = timestamped_output_path(
         resolve_project_path(
-            r"important_people/workspace/log/机构数据工作台.log", anchor=__file__
+            r"workspace/log/机构数据工作台.log", anchor=__file__
         )
     )
     main(

@@ -525,11 +525,11 @@ if __name__ == "__main__":
     base_url_value = "http://118.186.244.220:5173"
     page_size_value = 20
     max_retries_value = 3
-    output_path_value = r"important_people/职务比对2：在线比对数据.txt"
-    log_dir_value = r"important_people/workspace/log/职务比对"
-    token_file_value = r"important_people/.secrets/official_update_token"
+    output_path_value = r"职务比对2：在线比对数据.txt"
+    log_dir_value = r"workspace/log/职务比对"
+    token_file_value = r".secrets/official_update_token"
     chrome_exe_value = None
-    chrome_user_data_dir_value = r"important_people/.official_update_chrome_profile"
+    chrome_user_data_dir_value = r".official_update_chrome_profile"
     cdp_port_value = 9777
     browser_target_url_value = "http://118.186.244.220:5173/official-update-reminders"
     browser_page_filter_value = "118.186.244.220"

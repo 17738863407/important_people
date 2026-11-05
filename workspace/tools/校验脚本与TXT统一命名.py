@@ -208,7 +208,7 @@ def main(
 
 if __name__ == "__main__":
     run_timestamp_value = datetime.now().strftime("%Y%m%d_%H%M%S")
-    project_dir_value = resolve_project_path("important_people", anchor=__file__)
+    project_dir_value = resolve_project_path(".", anchor=__file__)
     script_root_value = project_dir_value / "site_adapters"
     txt_roots_value = [
         project_dir_value / "成功脚本的结果2026.07.29 星期三 0935",

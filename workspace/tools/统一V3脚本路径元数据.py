@@ -310,12 +310,12 @@ def main(
 
 
 if __name__ == "__main__":
-    adapter_dir_value = resolve_project_path("important_people/site_adapters/V3", anchor=__file__)
+    adapter_dir_value = resolve_project_path("site_adapters/V3", anchor=__file__)
     report_path_value = resolve_project_path(
-        "important_people/workspace/reports/V3脚本路径元数据统一报告.txt", anchor=__file__
+        "workspace/reports/V3脚本路径元数据统一报告.txt", anchor=__file__
     )
     log_path_value = resolve_project_path(
-        "important_people/workspace/log/V3脚本路径元数据统一.log", anchor=__file__
+        "workspace/log/V3脚本路径元数据统一.log", anchor=__file__
     )
     apply_changes_value = True
     main(

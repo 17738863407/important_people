@@ -144,8 +144,8 @@ def main(
 
 
 if __name__ == "__main__":
-    project_root_param = r"important_people"
-    scripts_dir_param = r"important_people/site_adapters/V3"
-    rule_table_path_param = r"important_people/workspace/source_data/规则主表.txt"
+    project_root_param = r"."
+    scripts_dir_param = r"site_adapters"
+    rule_table_path_param = r"workspace/source_data/规则主表.txt"
     output_prefix_param = "机构网址报告"
     main(project_root_param, scripts_dir_param, rule_table_path_param, output_prefix_param)

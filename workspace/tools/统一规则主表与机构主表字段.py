@@ -318,13 +318,13 @@ def main(
 
 
 if __name__ == "__main__":
-    input_rule_table_path = r"important_people/workspace/source_data/规则主表.txt"
+    input_rule_table_path = r"workspace/source_data/规则主表.txt"
     external_catalog_dir = resolve_external_path("IMPORTANT_PERSON_ORGANIZATION_CATALOG_DIR")
     input_institution_table_path = external_catalog_dir / "机构全表.txt"
-    output_rule_backup_dir = r"important_people/workspace/source_data/backup/规则主表"
+    output_rule_backup_dir = r"workspace/source_data/backup/规则主表"
     output_institution_backup_dir = external_catalog_dir / "backup" / "schema_migration"
-    output_audit_path = r"important_people/workspace/reports/机构主表十二列字段迁移审计.txt"
-    output_log_path = r"important_people/workspace/log/统一规则主表与机构主表字段.log"
+    output_audit_path = r"workspace/reports/机构主表十二列字段迁移审计.txt"
+    output_log_path = r"workspace/log/统一规则主表与机构主表字段.log"
     main(
         input_rule_table_path,
         input_institution_table_path,

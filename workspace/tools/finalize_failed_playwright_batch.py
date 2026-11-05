@@ -235,7 +235,7 @@ def main(
 
 
 if __name__ == "__main__":
-    project_root_value = resolve_project_path("important_people", anchor=__file__)
+    project_root_value = resolve_project_path(".", anchor=__file__)
     source_dir_value = resolve_external_path("IMPORTANT_PERSON_FAILED_DIR")
     partial_1148_path_value = (
         project_root_value / "outputs" / "失败目录Playwright重跑_20261004" / "1148_贵阳市公安交通管理局.txt"

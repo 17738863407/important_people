@@ -238,22 +238,23 @@ def main(
 
 
 if __name__ == "__main__":
-    project_dir_value = resolve_project_path("important_people", anchor=__file__)
+    run_timestamp_value = datetime.now().strftime("%Y%m%d_%H%M%S")
+    project_dir_value = resolve_project_path(".", anchor=__file__)
     task_path_value = resolve_project_path(
-        "important_people/workspace/tools/configs/文章大模型抽取任务.txt", anchor=__file__
+        "workspace/tools/configs/文章大模型抽取任务.txt", anchor=__file__
     )
-    adapter_dir_value = resolve_project_path("important_people/site_adapters", anchor=__file__)
+    adapter_dir_value = resolve_project_path("site_adapters", anchor=__file__)
     output_dir_value = resolve_project_path(
-        "important_people/site_adapters/脚本03：大模型脚本", anchor=__file__
+        "site_adapters/脚本03：大模型脚本", anchor=__file__
     )
     prompt_path_value = resolve_project_path(
-        "important_people/workspace/prompts/文章正文大模型抽取_v1.txt", anchor=__file__, must_exist=True
+        "workspace/prompts/文章正文大模型抽取_v1.txt", anchor=__file__, must_exist=True
     )
     manifest_path_value = timestamped_output_path(resolve_project_path(
-        "important_people/workspace/reports/文章大模型抽取脚本生成报告.txt", anchor=__file__
+        "workspace/reports/文章大模型抽取脚本生成报告.txt", anchor=__file__
     ), run_timestamp_value)
     log_path_value = timestamped_output_path(resolve_project_path(
-        "important_people/workspace/log/生成文章大模型抽取脚本.log", anchor=__file__
+        "workspace/log/生成文章大模型抽取脚本.log", anchor=__file__
     ), run_timestamp_value)
     main(
         project_dir=project_dir_value,

@@ -107,11 +107,11 @@ def main(
 
 
 if __name__ == "__main__":
-    input_source_path = resolve_project_path(r"important_people/workspace/source_data/机构主表.txt", anchor=__file__, must_exist=True)
-    output_backup_dir = resolve_project_path(r"important_people/workspace/source_data/backup/机构主表", anchor=__file__)
+    input_source_path = resolve_project_path(r"workspace/source_data/机构主表.txt", anchor=__file__, must_exist=True)
+    output_backup_dir = resolve_project_path(r"workspace/source_data/backup/机构主表", anchor=__file__)
     output_log_path = timestamped_output_path(
         resolve_project_path(
-            r"important_people/workspace/log/机构目录/官网链接补充.log",
+            r"workspace/log/机构目录/官网链接补充.log",
             anchor=__file__,
         )
     )

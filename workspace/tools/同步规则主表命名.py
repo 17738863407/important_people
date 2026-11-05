@@ -178,12 +178,12 @@ def write_report(items: list[AuditItem], report_path: Path, dry_run: bool) -> No
 def main(dry_run: bool) -> None:
     """执行主表驱动的命名与机构字段同步。"""
     rule_table_path = resolve_project_path(
-        "important_people/workspace/source_data/规则主表.txt", anchor=__file__, must_exist=True
+        "workspace/source_data/规则主表.txt", anchor=__file__, must_exist=True
     )
-    adapter_dir = resolve_project_path("important_people/site_adapters", anchor=__file__, must_exist=True)
-    outputs_dir = resolve_project_path("important_people/outputs", anchor=__file__, must_exist=True)
-    reports_dir = resolve_project_path("important_people/workspace/reports", anchor=__file__, must_exist=True)
-    log_dir = resolve_project_path("important_people/workspace/log", anchor=__file__, must_exist=True)
+    adapter_dir = resolve_project_path("site_adapters", anchor=__file__, must_exist=True)
+    outputs_dir = resolve_project_path("outputs", anchor=__file__, must_exist=True)
+    reports_dir = resolve_project_path("workspace/reports", anchor=__file__, must_exist=True)
+    log_dir = resolve_project_path("workspace/log", anchor=__file__, must_exist=True)
 
     rules = load_rule_table(rule_table_path)
     institutions = {rule["脚本序号"]: rule["机构名称"] for rule in rules}

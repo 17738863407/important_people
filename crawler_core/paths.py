@@ -19,16 +19,14 @@ def _anchor_directory(anchor: str | Path) -> Path:
 
 
 def find_project_root(anchor: str | Path) -> Path:
-    """从锚点向上查找当前脚本所属的 important_people 项目根目录。"""
+    """从脚本锚点向上按项目标记定位根目录，允许项目目录重命名。"""
     start = _anchor_directory(anchor)
     for candidate in (start, *start.parents):
-        if candidate.name != PROJECT_NAME:
-            continue
         if all((candidate / marker).exists() for marker in PROJECT_MARKERS):
             return candidate
     raise FileNotFoundError(
         f"无法从锚点定位项目根目录：{anchor}；"
-        f"要求目录名为 {PROJECT_NAME} 且包含 {', '.join(PROJECT_MARKERS)}"
+        f"要求包含 {', '.join(PROJECT_MARKERS)}"
     )
 
 
@@ -38,19 +36,21 @@ def resolve_project_path(
     anchor: str | Path,
     must_exist: bool = False,
 ) -> Path:
-    """将 important_people/... 逻辑路径解析为当前项目副本中的绝对路径。"""
+    """以项目根目录解析相对路径，兼容旧 important_people/ 前缀。"""
     raw_value = str(value).strip().replace("\\", "/")
     windows_path = PureWindowsPath(raw_value)
     logical_path = PurePosixPath(raw_value)
     if not raw_value or windows_path.is_absolute() or windows_path.drive or logical_path.is_absolute():
-        raise ValueError(f"只接受以 {PROJECT_NAME}/ 开头的项目逻辑路径：{value}")
-    if not logical_path.parts or logical_path.parts[0] != PROJECT_NAME:
-        raise ValueError(f"路径必须以 {PROJECT_NAME}/ 开头：{value}")
-    if any(part in {"", ".", ".."} for part in logical_path.parts):
-        raise ValueError(f"路径不得包含空段、. 或 ..：{value}")
+        raise ValueError(f"只接受相对项目根目录的路径：{value}")
+    if ".." in logical_path.parts:
+        raise ValueError(f"路径不得包含 ..：{value}")
+
+    relative_parts = logical_path.parts
+    if relative_parts and relative_parts[0] == PROJECT_NAME:
+        relative_parts = relative_parts[1:]
 
     project_root = find_project_root(anchor)
-    resolved = project_root.joinpath(*logical_path.parts[1:]).resolve()
+    resolved = project_root.joinpath(*relative_parts).resolve()
     if resolved != project_root and project_root not in resolved.parents:
         raise ValueError(f"路径越出项目根目录：{value}")
     if must_exist and not resolved.exists():
@@ -64,7 +64,7 @@ def resolve_path_argument(
     anchor: str | Path,
     must_exist: bool = False,
 ) -> Path:
-    """解析入口参数；字符串使用项目逻辑路径，Path 保留给程序化调用和测试。"""
+    """字符串相对项目根目录解析；Path 保留程序化调用的既有语义。"""
     if isinstance(value, Path):
         resolved = value.expanduser().resolve()
         if must_exist and not resolved.exists():

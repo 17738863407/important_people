@@ -259,7 +259,7 @@ def main(
 ) -> Path | None:
     """合并指定目录中的 txt 结果文件。"""
     project_root = resolve_path_argument(
-        project_dir or r"important_people", anchor=__file__, must_exist=True
+        project_dir or r".", anchor=__file__, must_exist=True
     )
     result_folder = resolve_path_argument(
         result_folder_path, anchor=__file__, must_exist=True
@@ -332,10 +332,10 @@ def main(
 
 
 if __name__ == "__main__":
-    project_dir_value = r"important_people"
-    result_folder_path_value = r"important_people/outputs/成功"
+    project_dir_value = r"."
+    result_folder_path_value = r"outputs/成功"
     recursive_value = True
-    rule_table_path_value = r"important_people/workspace/source_data/规则主表.txt"
+    rule_table_path_value = r"workspace/source_data/规则主表.txt"
     main(
         result_folder_path=result_folder_path_value,
         recursive=recursive_value,

@@ -24,8 +24,8 @@ def main(group: int, sequence: str, action: str, reason: str) -> None:
     from crawler_core.paths import resolve_project_path
     from crawler_core.business_sources import apply_business_source
     from crawler_core import runner
-    base = resolve_project_path("important_people/workspace/reports/失败修复_20261026", anchor=__file__)
-    log_dir = resolve_project_path("important_people/workspace/log", anchor=__file__)
+    base = resolve_project_path("workspace/reports/失败修复_20261026", anchor=__file__)
+    log_dir = resolve_project_path("workspace/log", anchor=__file__)
     log_dir.mkdir(parents=True, exist_ok=True)
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(message)s", handlers=[logging.StreamHandler(sys.stdout), logging.FileHandler(log_dir / f"失败修复恢复{group}.log", encoding="utf-8")])
     assignment = json.loads((base / f"分配{group}.json").read_text(encoding="utf-8"))

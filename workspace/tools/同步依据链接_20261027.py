@@ -260,9 +260,9 @@ def main(action: str) -> None:
     sys.path.insert(0,str(root))
     from crawler_core.paths import resolve_project_path
     from crawler_core.rule_table import load_rule_table
-    base=resolve_project_path('important_people/workspace/reports/依据链接同步_20261027',anchor=__file__)
+    base=resolve_project_path('workspace/reports/依据链接同步_20261027',anchor=__file__)
     base.mkdir(parents=True,exist_ok=True)
-    log=resolve_project_path('important_people/workspace/log/依据链接同步_20261027.log',anchor=__file__)
+    log=resolve_project_path('workspace/log/依据链接同步_20261027.log',anchor=__file__)
     logging.basicConfig(level=logging.INFO,format='%(asctime)s %(message)s',handlers=[logging.StreamHandler(sys.stdout),logging.FileHandler(log,encoding='utf-8')])
     rules={r['脚本序号']:r for r in load_rule_table()}
     if action=='apply':

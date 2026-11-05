@@ -139,7 +139,7 @@ def main(
 
 
 if __name__ == "__main__":
-    input_path_value = r"important_people/职务比对2：在线比对数据.txt"
-    output_path_value = r"important_people/职务比对3：无重复数据.txt"
-    log_path_value = r"important_people/workspace/log/职务比对/筛选无重复数据.log"
+    input_path_value = r"职务比对2：在线比对数据.txt"
+    output_path_value = r"职务比对3：无重复数据.txt"
+    log_path_value = r"workspace/log/职务比对/筛选无重复数据.log"
     main(input_path_value, output_path_value, log_path_value)

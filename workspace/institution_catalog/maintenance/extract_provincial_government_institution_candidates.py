@@ -365,11 +365,11 @@ if __name__ == "__main__":
         (30, "云南省人民政府", "https://www.yn.gov.cn/szf/zfjg/"),
         (31, "浙江省人民政府", "https://www.zj.gov.cn/col/col1544854/index.html"),
     ]
-    snapshot_dir = resolve_project_path(r"important_people/workspace/snapshots/机构目录/省级政府机构目录/html", anchor=__file__, must_exist=True)
-    output_path = resolve_project_path(r"important_people/workspace/reports/机构目录/省级政府机构候选初稿.txt", anchor=__file__)
+    snapshot_dir = resolve_project_path(r"workspace/snapshots/机构目录/省级政府机构目录/html", anchor=__file__, must_exist=True)
+    output_path = resolve_project_path(r"workspace/reports/机构目录/省级政府机构候选初稿.txt", anchor=__file__)
     log_path = timestamped_output_path(
         resolve_project_path(
-            r"important_people/workspace/log/机构目录/省级政府机构候选提取.log",
+            r"workspace/log/机构目录/省级政府机构候选提取.log",
             anchor=__file__,
         )
     )

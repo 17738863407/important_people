@@ -82,10 +82,10 @@ if __name__ == "__main__":
         (8, "贵州省机构", "https://www.guizhou.gov.cn/zwgk/zfjg/"),
         (16, "江西省机构", "https://www.jiangxi.gov.cn/jxsrmzf/szfjg/pc/list.html#szfzc"),
     ]
-    snapshot_dir = resolve_project_path(r"important_people/workspace/snapshots/机构目录/省级政府机构目录/html", anchor=__file__)
+    snapshot_dir = resolve_project_path(r"workspace/snapshots/机构目录/省级政府机构目录/html", anchor=__file__)
     log_path = timestamped_output_path(
         resolve_project_path(
-            r"important_people/workspace/log/机构目录/省级政府机构目录浏览器补抓.log",
+            r"workspace/log/机构目录/省级政府机构目录浏览器补抓.log",
             anchor=__file__,
         )
     )

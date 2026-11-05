@@ -52,6 +52,7 @@ RULE_TABLE_ALLOWED_ORGANIZATION_SYSTEMS = {
     "地级四大",
     "市局领导",
     "央企",
+    "云南省",
     "其他",
 }
 DEFAULT_RULE_TABLE_PATH = (

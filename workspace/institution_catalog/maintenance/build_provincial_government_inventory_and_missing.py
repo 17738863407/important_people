@@ -438,35 +438,35 @@ def main(
 
 
 if __name__ == "__main__":
-    candidate_path = resolve_project_path(r"important_people/workspace/reports/机构目录/省级政府机构候选初稿.txt", anchor=__file__, must_exist=True)
-    rule_table_path = resolve_project_path(r"important_people/workspace/source_data/规则主表.txt", anchor=__file__, must_exist=True)
-    html_dir = resolve_project_path(r"important_people/workspace/snapshots/机构目录/省级政府机构目录/html", anchor=__file__, must_exist=True)
-    fetch_summary_path = resolve_project_path(r"important_people/workspace/reports/机构目录/省级政府机构目录抓取摘要.txt", anchor=__file__, must_exist=True)
+    candidate_path = resolve_project_path(r"workspace/reports/机构目录/省级政府机构候选初稿.txt", anchor=__file__, must_exist=True)
+    rule_table_path = resolve_project_path(r"workspace/source_data/规则主表.txt", anchor=__file__, must_exist=True)
+    html_dir = resolve_project_path(r"workspace/snapshots/机构目录/省级政府机构目录/html", anchor=__file__, must_exist=True)
+    fetch_summary_path = resolve_project_path(r"workspace/reports/机构目录/省级政府机构目录抓取摘要.txt", anchor=__file__, must_exist=True)
     run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     all_output_path = timestamped_output_path(
         resolve_project_path(
-            r"important_people/workspace/reports/机构目录/31个省级行政区政府机构全量表.txt",
+            r"workspace/reports/机构目录/31个省级行政区政府机构全量表.txt",
             anchor=__file__,
         ),
         run_timestamp,
     )
     missing_output_path = timestamped_output_path(
         resolve_project_path(
-            r"important_people/workspace/reports/机构目录/31个省级行政区政府机构规则主表缺失表.txt",
+            r"workspace/reports/机构目录/31个省级行政区政府机构规则主表缺失表.txt",
             anchor=__file__,
         ),
         run_timestamp,
     )
     audit_output_path = timestamped_output_path(
         resolve_project_path(
-            r"important_people/workspace/reports/机构目录/省级机构与规则主表核对审计.txt",
+            r"workspace/reports/机构目录/省级机构与规则主表核对审计.txt",
             anchor=__file__,
         ),
         run_timestamp,
     )
     log_path = timestamped_output_path(
         resolve_project_path(
-            r"important_people/workspace/log/机构目录/省级政府机构全量与缺失统计.log",
+            r"workspace/log/机构目录/省级政府机构全量与缺失统计.log",
             anchor=__file__,
         ),
         run_timestamp,

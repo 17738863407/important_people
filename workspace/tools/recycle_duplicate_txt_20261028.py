@@ -112,10 +112,10 @@ def main(success_logic, failed_logic, manifest_logic, reports_logic, logs_logic,
 
 
 if __name__ == "__main__":
-    success_logic = "important_people/outputs/二次成功"
-    failed_logic = "important_people/outputs/失败"
-    manifest_logic = "important_people/workspace/reports/同名TXT去重_20261028_143827_fe79be65/重复及备份清单.json"
-    reports_logic = "important_people/workspace/reports"
-    logs_logic = "important_people/workspace/log"
-    final_logic = "important_people/同名TXT回收完成结果_20261028.txt"
+    success_logic = "outputs/二次成功"
+    failed_logic = "outputs/失败"
+    manifest_logic = "workspace/reports/同名TXT去重_20261028_143827_fe79be65/重复及备份清单.json"
+    reports_logic = "workspace/reports"
+    logs_logic = "workspace/log"
+    final_logic = "同名TXT回收完成结果_20261028.txt"
     main(success_logic, failed_logic, manifest_logic, reports_logic, logs_logic, final_logic)

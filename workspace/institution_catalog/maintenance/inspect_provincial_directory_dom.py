@@ -84,18 +84,18 @@ def main(snapshot_dir: Path, output_path: Path, log_path: Path) -> None:
 
 
 if __name__ == "__main__":
-    snapshot_dir = resolve_project_path(r"important_people/workspace/snapshots/机构目录/省级政府机构目录/html", anchor=__file__, must_exist=True)
+    snapshot_dir = resolve_project_path(r"workspace/snapshots/机构目录/省级政府机构目录/html", anchor=__file__, must_exist=True)
     run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     output_path = timestamped_output_path(
         resolve_project_path(
-            r"important_people/workspace/reports/机构目录/省级政府机构目录DOM结构诊断.txt",
+            r"workspace/reports/机构目录/省级政府机构目录DOM结构诊断.txt",
             anchor=__file__,
         ),
         run_timestamp,
     )
     log_path = timestamped_output_path(
         resolve_project_path(
-            r"important_people/workspace/log/机构目录/省级政府机构目录DOM检查.log",
+            r"workspace/log/机构目录/省级政府机构目录DOM检查.log",
             anchor=__file__,
         ),
         run_timestamp,

@@ -147,12 +147,12 @@ def main(adapter_dir: Path, output_path: Path, log_path: Path, min_reuse_count: 
 
 if __name__ == "__main__":
     run_timestamp_value = datetime.now().strftime("%Y%m%d_%H%M%S")
-    adapter_dir_value = resolve_project_path("important_people/site_adapters", anchor=__file__)
+    adapter_dir_value = resolve_project_path("site_adapters", anchor=__file__)
     output_path_value = timestamped_output_path(resolve_project_path(
-        "important_people/workspace/reports/域名页面规则复用建议.txt", anchor=__file__
+        "workspace/reports/域名页面规则复用建议.txt", anchor=__file__
     ), run_timestamp_value)
     log_path_value = timestamped_output_path(resolve_project_path(
-        "important_people/workspace/log/汇总域名页面规则.log", anchor=__file__
+        "workspace/log/汇总域名页面规则.log", anchor=__file__
     ), run_timestamp_value)
     min_reuse_count_value = 2
     main(

@@ -379,13 +379,13 @@ def main(
 
 
 if __name__ == "__main__":
-    project_dir_value = r"important_people"
-    output_dir_value = r"important_people/outputs/失败"
+    project_dir_value = r"."
+    output_dir_value = r"outputs/失败"
     extension_dir_value = None
     output_dir_environment_value = "IMPORTANT_PERSON_COMPARE_OUTPUT_DIR"
     extension_dir_environment_value = "IMPORTANT_PERSON_COMPARE_EXTENSION_DIR"
-    summary_path_value = r"important_people/workspace/reports/Chrome扩展在线核验摘要.txt"
-    log_path_value = r"important_people/workspace/log/网页与抽取结果对照.log"
+    summary_path_value = r"workspace/reports/Chrome扩展在线核验摘要.txt"
+    log_path_value = r"workspace/log/网页与抽取结果对照.log"
     auto_open_source_pages_value = True
     browser_path_value = None
     # 普通网页对照直接复用新版 Chrome 的现有默认会话，不启用远程调试。

@@ -357,6 +357,6 @@ def main(input_path: str | Path, project_dir: str | Path) -> None:
 
 
 if __name__ == "__main__":
-    input_path_value = r"important_people/职务规范1：合并.txt"
-    project_dir_value = r"important_people"
+    input_path_value = r"职务规范1：合并.txt"
+    project_dir_value = r"."
     main(input_path=input_path_value, project_dir=project_dir_value)
