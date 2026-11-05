@@ -23,9 +23,9 @@ PAGE_RULE = {
     "fetch_mode": "online",
     "extract_mode": "custom",
     "parser": "page_inline_fmuseum_leaders_v1",
-    "leader_region_selector": "article, .max-w-screen-lg",
+    "leader_region_selector": "article.neyio-article",
     "detail_strategy": {"required": False, "mode": "none"},
-    "risk_flag": "仅抽取正文中‘姓名：中国财税博物馆职务’段落。",
+    "risk_flag": "仅抽取领导正文中姓名与当前规则机构前缀明确的职务段落。",
     "confidence": "high",
     "filter_policy": "strong_no_wordlist",
     "locator_strategy": "organization_prefixed_lines",
@@ -36,9 +36,10 @@ def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict]:
     """按文章段落顺序提取馆党委成员。"""
     soup = BeautifulSoup(html, "html.parser")
     rows: list[dict] = []
-    for paragraph in soup.select("p"):
+    organization_pattern = re.escape(str(page_rule["organization"]))
+    for paragraph in soup.select("article.neyio-article p"):
         text = " ".join(paragraph.get_text(" ", strip=True).replace("\u3000", " ").split())
-        matched = re.fullmatch(r"([\u3400-\u9fff· ]{2,10})[：:]\s*(中国财税博物馆.+)", text)
+        matched = re.fullmatch(r"([\u3400-\u9fff· ]{2,10})[：:]\s*(" + organization_pattern + r".+)", text)
         if not matched:
             continue
         name = re.sub(r"\s+", "", matched.group(1))

@@ -89,13 +89,12 @@ def parse_page(html: str, base_url: str, rule: dict) -> list[dict]:
     if not leader_url:
         raise RuntimeError("当前页面未找到可验证的同站中心领导链接")
 
-    from crawler_core.fetcher import fetch_html_with_strategy
+    from crawler_core.fetcher import fetch_html_with_preferred_fallback
 
-    result = fetch_html_with_strategy(
+    result = fetch_html_with_preferred_fallback(
         leader_url,
-        strategy="raw_http",
+        preferred_strategy="raw_http",
         timeout=30,
-        referer=base_url,
     )
     records = _extract_records(result.html, rule)
     if not records:

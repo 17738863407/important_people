@@ -63,7 +63,6 @@ def comparable_url(value: str) -> str:
 
 def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[dict[str, str]]:
     """按侧栏DOM顺序抽取姓名、原始职务和真实独立人物链接。"""
-    discovered_current_page = not html
     if not html:
         session = requests.Session()
         session.headers.update({"User-Agent": "Mozilla/5.0", "Referer": str(page_rule["url"])})
@@ -117,7 +116,7 @@ def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[
         candidate = urljoin(final_url, str(link.get("href") or ""))
         detail_url = (
             ""
-            if comparable_url(candidate) == entry_url and not discovered_current_page
+            if comparable_url(candidate) == entry_url
             else candidate
         )
         seen.add(name)

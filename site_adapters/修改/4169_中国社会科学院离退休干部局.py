@@ -8,12 +8,13 @@ def resolve_project_dir() -> Path:
         if (parent / "crawler_core").is_dir(): return parent
     raise RuntimeError("未找到包含 crawler_core 的项目根目录")
 
-PAGE_RULE={"rule_id":"4169","page_type":"局领导介绍页","structure_group":"cass_retired_cadre_office_leaders","load_mode":"静态HTML直出","extract_mode":"list_direct","parser":"page_inline_cass_retired_cadre_v1","leader_region_selector":"body","name_selector":"","duty_selector":"","detail_link_selector":"","detail_strategy":{"required":False,"mode":"none"},"risk_flag":"局领导与办公地址相邻，按职务字段边界提取。","confidence":"high","filter_policy":"strong_no_wordlist"}
+PAGE_RULE={"rule_id":"4169","page_type":"局领导介绍页","structure_group":"cass_retired_cadre_office_leaders","load_mode":"静态HTML直出","extract_mode":"list_direct","parser":"page_inline_cass_retired_cadre_v1","leader_region_selector":".TRS_Editor","name_selector":"","duty_selector":"","detail_link_selector":"","detail_strategy":{"required":False,"mode":"none"},"risk_flag":"局领导与办公地址相邻，按职务字段边界提取。","confidence":"high","filter_policy":"strong_no_wordlist"}
 
 def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict]:
     from bs4 import BeautifulSoup
-    lines=list(BeautifulSoup(html,"html.parser").stripped_strings)
-    start=next((i for i,x in enumerate(lines) if x=="离退休干部局局领导"),None)
+    soup=BeautifulSoup(html,"html.parser");region=soup.select_one(".TRS_Editor")
+    lines=list(region.stripped_strings) if region is not None else []
+    start=-1 if region is not None else None
     if start is None: return []
     rows=[]
     for i,line in enumerate(lines[start+1:],start+1):

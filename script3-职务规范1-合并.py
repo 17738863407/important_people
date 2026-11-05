@@ -14,6 +14,7 @@ except ImportError:  # pragma: no cover
 
 from crawler_core.exporter import OUTPUT_FIELDS
 from crawler_core.paths import resolve_path_argument
+from crawler_core.rule_table import RULE_TABLE_FIELDS
 
 V3_OUTPUT_FIELDS = tuple(OUTPUT_FIELDS)
 
@@ -84,12 +85,9 @@ def load_rule_order(rule_table_path: Path) -> tuple[dict[str, int], dict[str, in
     if not lines:
         raise ValueError("规则主表为空")
     headers = [column.strip() for column in lines[0].split("\t")]
-    expected_headers = [
-        "组织体系", "目录链接", "机构类型", "机构层级", "所属省*", "所属市",
-        "机构名称", "机构别称", "官网链接", "领导链接", "脚本序号", "备注",
-    ]
+    expected_headers = list(RULE_TABLE_FIELDS)
     if headers != expected_headers:
-        raise ValueError(f"规则主表表头或列序不符合十二列契约：{headers}")
+        raise ValueError(f"规则主表表头或列序不符合十三列契约：{headers}")
 
     organization_index = headers.index("机构名称")
     rule_id_index = headers.index("脚本序号")

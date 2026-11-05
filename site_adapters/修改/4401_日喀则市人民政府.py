@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import sys
 from pathlib import Path
-from urllib.parse import urlsplit, urlunsplit
+from urllib.parse import urljoin, urlsplit, urlunsplit
 
 
 def resolve_project_dir() -> Path:
@@ -46,29 +46,49 @@ def _request_text(url: str) -> str:
     return response.text
 
 
-def parse_page(
-    html: str,
-    final_url: str,
-    page_rule: dict[str, object],
-) -> list[dict[str, str]]:
-    """从已验证www同路径页面提取市政府领导卡片。"""
+def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[dict[str, str]]:
+    """从当前导航动态发现领导目录，按列表原序读取各人简介的完整现任句。"""
+    import re
     from bs4 import BeautifulSoup
 
-    soup = BeautifulSoup(_request_text(final_url), "html.parser")
-    region = soup.select_one(".left-leaders-list .others")
+    current_url = _with_www(final_url)
+    soup = BeautifulSoup(_request_text(current_url), "html.parser")
+    region = soup.select_one(".goverment-leaders .leader-lists")
     if region is None:
-        return []
-    title = region.select_one(".title h4")
-    if title is None or title.get_text(" ", strip=True) != "市政府领导":
-        return []
+        link = next((a for a in soup.select("a[href]") if a.get_text(" ", strip=True) == "领导之窗"), None)
+        if link is None:
+            raise RuntimeError("当前政府入口未发现领导之窗")
+        candidate = urljoin(current_url, str(link["href"]))
+        if urlsplit(candidate).netloc.lower() != urlsplit(current_url).netloc.lower():
+            raise RuntimeError("领导之窗链接超出当前官网主机")
+        current_url = candidate
+        soup = BeautifulSoup(_request_text(current_url), "html.parser")
+        region = soup.select_one(".goverment-leaders .leader-lists")
+    if region is None:
+        raise RuntimeError("未取得当前市政府领导目录")
     rows: list[dict[str, str]] = []
-    for link in region.select("ul > li > a[href]"):
-        name_node = link.select_one("h6")
-        duty_node = link.select_one("p")
-        name = name_node.get_text(" ", strip=True) if name_node else ""
-        duty = duty_node.get_text(" ", strip=True) if duty_node else ""
-        if name and duty:
-            rows.append({"name": name, "duty": duty, "detail_url": _with_www(link["href"])})
+    seen: set[str] = set()
+    for group in region.find_all("div", class_="item", recursive=False):
+        for link in group.select("ul > li > a[href]"):
+            if any(n.has_attr("hidden") or n.get("aria-hidden") == "true" or "display:none" in str(n.get("style", "")).replace(" ", "") for n in [link, *link.parents]):
+                continue
+            name = "".join(link.get_text(" ", strip=True).split())
+            if not name or name in seen:
+                raise RuntimeError("当前领导目录姓名缺失或重复")
+            detail_url = urljoin(current_url, str(link["href"]))
+            detail_soup = BeautifulSoup(_request_text(detail_url), "html.parser")
+            intro_node = detail_soup.select_one(".leader-info-box .leader-resume .intro")
+            intro = "".join(intro_node.get_text(" ", strip=True).split()) if intro_node else ""
+            if not intro.startswith(name):
+                raise RuntimeError(f"人物简介与当前目录姓名不符：{name}")
+            current = re.search(r"现任([^。]+)(?:。|$)", intro)
+            if current is None:
+                raise RuntimeError(f"当前人物简介缺少明确现职句：{name}")
+            evidence = current.group(1)
+            seen.add(name)
+            rows.append({"name": name, "duty": evidence, "evidence": evidence, "detail_url": detail_url})
+    if not rows:
+        raise RuntimeError("当前领导目录未取得明确人物")
     return rows
 
 

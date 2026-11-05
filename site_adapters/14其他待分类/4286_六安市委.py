@@ -39,6 +39,8 @@ def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict[str, str
             response = session.get(fragment_url, timeout=20, verify=False); response.raise_for_status()
         except requests.RequestException:
             continue
+        # 动态JS响应未声明charset，默认Latin-1会破坏中文姓名；当前片段原文为UTF-8。
+        response.encoding = "utf-8"
         fragment = BeautifulSoup(response.text, "html.parser")
         for link in fragment.select("a[title][href]"):
             name = re.sub(r"\s+", "", link.get("title", ""))

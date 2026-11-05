@@ -25,14 +25,14 @@ from workspace.tools.同步机构分类到规则主表 import (
 def write_rule_table(path: Path) -> None:
     """写入包含地区、机构分类和别称字段的规则主表。"""
     path.write_text(
-        "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\n"
-        "市局领导\t\t石家庄市人民政府-政府工作部门\t\t河北省\t石家庄市\t石家庄教育局\t石家庄市教育局、石家庄市教委\t\thttps://example.com/\t0001\t空缺占位\n",
+        "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\t网页类型\n"
+        "市局领导\t\t石家庄市人民政府-政府工作部门\t\t河北省\t石家庄市\t石家庄教育局\t石家庄市教育局、石家庄市教委\t\thttps://example.com/\t0001\t空缺占位\t\n",
         encoding="utf-8",
     )
 
 
 class RuleTableBusinessLocationTests(unittest.TestCase):
-    """验证规则主表十二列契约、别称校验和业务源注入链路。"""
+    """验证规则主表十三列契约、别称校验和业务源注入链路。"""
 
     def test_rule_table_accepts_aliases_separated_by_ideographic_comma(self) -> None:
         """规则主表应读取用中文顿号分隔的机构别称。"""
@@ -52,7 +52,7 @@ class RuleTableBusinessLocationTests(unittest.TestCase):
         self.assertNotIn("启用状态", records[0])
 
     def test_rule_table_rejects_reordered_or_missing_fields(self) -> None:
-        """正式规则主表必须严格遵守用户指定的十二列顺序。"""
+        """正式规则主表必须严格遵守用户指定的十三列顺序。"""
         with TemporaryDirectory() as temporary_dir:
             source_path = Path(temporary_dir) / "规则主表.txt"
             source_path.write_text(
@@ -61,7 +61,7 @@ class RuleTableBusinessLocationTests(unittest.TestCase):
                 encoding="utf-8",
             )
 
-            with self.assertRaisesRegex(ValueError, "表头不符合十二列顺序契约"):
+            with self.assertRaisesRegex(ValueError, "表头不符合十三列顺序契约"):
                 load_rule_table(source_path)
 
     def test_business_location_is_injected_into_output(self) -> None:
@@ -108,7 +108,7 @@ class RuleTableBusinessLocationTests(unittest.TestCase):
         self.assertNotIn("启用状态", records[0])
 
     def test_classification_writer_preserves_alias(self) -> None:
-        """分类同步重新写出主表时必须原样保留别称。"""
+        """分类同步重新写出主表时必须原样保留别称和网页类型。"""
         source_row = {
             "组织体系": "市局领导",
             "机构类型": "石家庄市人民政府-政府工作部门",
@@ -120,6 +120,7 @@ class RuleTableBusinessLocationTests(unittest.TestCase):
             "领导链接": "https://example.com/",
             "脚本序号": "0001",
             "备注": "",
+            "网页类型": "大模型",
         }
         matches = {
             "0001": MatchResult(
@@ -141,17 +142,44 @@ class RuleTableBusinessLocationTests(unittest.TestCase):
 
         self.assertEqual(
             lines[0],
-            "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注",
+            "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\t网页类型",
         )
         self.assertIn("\t石家庄市教育局、石家庄市教委\t", lines[1])
+        self.assertEqual(lines[1].split("\t")[-1], "大模型")
+
+    def test_webpage_type_accepts_declared_values_and_blank(self) -> None:
+        """网页类型允许百度百科、大模型及普通网页空值，并传入生成记录。"""
+        for webpage_type in ("", "百度百科", "大模型"):
+            with self.subTest(webpage_type=webpage_type):
+                with TemporaryDirectory() as temporary_dir:
+                    source_path = Path(temporary_dir) / "规则主表.txt"
+                    write_rule_table(source_path)
+                    lines = source_path.read_text(encoding="utf-8").splitlines()
+                    cells = lines[1].split("\t")
+                    cells[-1] = webpage_type
+                    source_path.write_text(
+                        lines[0] + "\n" + "\t".join(cells) + "\n", encoding="utf-8"
+                    )
+                    records = load_generation_records(source_path)
+                self.assertEqual(records[0]["网页类型"], webpage_type)
+
+    def test_unknown_webpage_type_is_rejected(self) -> None:
+        """尚未定义的网页类型不得进入规则主表。"""
+        with TemporaryDirectory() as temporary_dir:
+            source_path = Path(temporary_dir) / "规则主表.txt"
+            write_rule_table(source_path)
+            text = source_path.read_text(encoding="utf-8")
+            source_path.write_text(text.rstrip("\n") + "其他类型\n", encoding="utf-8")
+            with self.assertRaisesRegex(ValueError, "网页类型不在允许范围"):
+                load_rule_table(source_path)
 
     def test_unknown_organization_system_is_rejected(self) -> None:
         """组织体系只能使用机构全量表当前定义的体系值或留空。"""
         with TemporaryDirectory() as temporary_dir:
             source_path = Path(temporary_dir) / "规则主表.txt"
             source_path.write_text(
-                "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\n"
-                "行政机关\t\t\t\t河北省\t石家庄市\t石家庄教育局\t\t\thttps://example.com/\t0001\t\n",
+                "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\t网页类型\n"
+                "行政机关\t\t\t\t河北省\t石家庄市\t石家庄教育局\t\t\thttps://example.com/\t0001\t\t\n",
                 encoding="utf-8",
             )
 
@@ -163,8 +191,8 @@ class RuleTableBusinessLocationTests(unittest.TestCase):
         with TemporaryDirectory() as temporary_dir:
             source_path = Path(temporary_dir) / "规则主表.txt"
             source_path.write_text(
-                "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\n"
-                "法院\t\t青海省-地级法院\t\t青海省\t西宁市\t西宁铁路运输法院\t\t\t\t0001\t\n",
+                "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\t网页类型\n"
+                "法院\t\t青海省-地级法院\t\t青海省\t西宁市\t西宁铁路运输法院\t\t\t\t0001\t\t\n",
                 encoding="utf-8",
             )
 
@@ -177,9 +205,9 @@ class RuleTableBusinessLocationTests(unittest.TestCase):
         with TemporaryDirectory() as temporary_dir:
             source_path = Path(temporary_dir) / "规则主表.txt"
             source_path.write_text(
-                "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\n"
-                "法院\t\t青海省-地级法院\t\t青海省\t西宁市\t西宁市中级人民法院\t\t\thttps://court.example/\t0001\t\n"
-                "检察院\t\t青海省-地级检察院\t\t青海省\t西宁市\t西宁市人民检察院\t\t\thttps://procuratorate.example/\t0002\t\n",
+                "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\t网页类型\n"
+                "法院\t\t青海省-地级法院\t\t青海省\t西宁市\t西宁市中级人民法院\t\t\thttps://court.example/\t0001\t\t\n"
+                "检察院\t\t青海省-地级检察院\t\t青海省\t西宁市\t西宁市人民检察院\t\t\thttps://procuratorate.example/\t0002\t\t\n",
                 encoding="utf-8",
             )
 
@@ -195,8 +223,8 @@ class RuleTableBusinessLocationTests(unittest.TestCase):
         with TemporaryDirectory() as temporary_dir:
             source_path = Path(temporary_dir) / "规则主表.txt"
             source_path.write_text(
-                "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\n"
-                "其他\t\t\t\t全国\t\t待分类机构\t\t\thttps://example.com/\t0001\t\n",
+                "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\t网页类型\n"
+                "其他\t\t\t\t全国\t\t待分类机构\t\t\thttps://example.com/\t0001\t\t\n",
                 encoding="utf-8",
             )
 
@@ -245,8 +273,8 @@ class RuleTableBusinessLocationTests(unittest.TestCase):
         with TemporaryDirectory() as temporary_dir:
             source_path = Path(temporary_dir) / "规则主表.txt"
             source_path.write_text(
-                "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\n"
-                "市局领导\t\t\t\t河北省\t石家庄市\t石家庄教育局\t\t\thttps://example.com/\t0001\t适配器改造A\n",
+                "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\t网页类型\n"
+                "市局领导\t\t\t\t河北省\t石家庄市\t石家庄教育局\t\t\thttps://example.com/\t0001\t适配器改造A\t\n",
                 encoding="utf-8",
             )
 
@@ -258,8 +286,8 @@ class RuleTableBusinessLocationTests(unittest.TestCase):
         with TemporaryDirectory() as temporary_dir:
             source_path = Path(temporary_dir) / "规则主表.txt"
             source_path.write_text(
-                "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\n"
-                "其他\t\t\t\t全国\t\t待分类机构\t\t\thttps://example.com/\t0001\t\n",
+                "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\t网页类型\n"
+                "其他\t\t\t\t全国\t\t待分类机构\t\t\thttps://example.com/\t0001\t\t\n",
                 encoding="utf-8",
             )
 
@@ -272,8 +300,8 @@ class RuleTableBusinessLocationTests(unittest.TestCase):
         with TemporaryDirectory() as temporary_dir:
             source_path = Path(temporary_dir) / "规则主表.txt"
             source_path.write_text(
-                "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\n"
-                "其他\t\t\t\t全国\t\t待分类机构\t简称一，简称二\t\thttps://example.com/\t0001\t\n",
+                "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\t网页类型\n"
+                "其他\t\t\t\t全国\t\t待分类机构\t简称一，简称二\t\thttps://example.com/\t0001\t\t\n",
                 encoding="utf-8",
             )
 
@@ -285,14 +313,14 @@ class RuleTableBusinessLocationTests(unittest.TestCase):
         with TemporaryDirectory() as temporary_dir:
             duplicate_path = Path(temporary_dir) / "重复别称.txt"
             duplicate_path.write_text(
-                "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\n"
-                "其他\t\t\t\t全国\t\t待分类机构\t简称、简称\t\thttps://example.com/\t0001\t\n",
+                "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\t网页类型\n"
+                "其他\t\t\t\t全国\t\t待分类机构\t简称、简称\t\thttps://example.com/\t0001\t\t\n",
                 encoding="utf-8",
             )
             canonical_path = Path(temporary_dir) / "机构名称重复.txt"
             canonical_path.write_text(
-                "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\n"
-                "其他\t\t\t\t全国\t\t待分类机构\t待分类机构\t\thttps://example.com/\t0001\t\n",
+                "组织体系\t目录链接\t机构类型\t机构层级\t所属省*\t所属市\t机构名称\t机构别称\t官网链接\t领导链接\t脚本序号\t备注\t网页类型\n"
+                "其他\t\t\t\t全国\t\t待分类机构\t待分类机构\t\thttps://example.com/\t0001\t\t\n",
                 encoding="utf-8",
             )
 

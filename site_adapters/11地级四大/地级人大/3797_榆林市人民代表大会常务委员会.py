@@ -22,7 +22,7 @@ PAGE_RULE = {
     "leader_region_selector": ".tab-item", "name_selector": "a.leader-item .name", "duty_selector": "a.leader-item .post",
     "detail_link_selector": "a.leader-item[href]", "content_scope": {"start_anchor": "市人大常委会", "end_anchor": "市政府", "include_selectors": [".tab-item"], "exclude_selectors": []},
     "detail_strategy": {"required": False, "mode": "none", "candidate_links": []},
-    "risk_flag": "同页四个标签面板，只取第二个人大面板", "confidence": "high",
+    "risk_flag": "按明确人大标签或标题确认目标面板；当前页面仅公开市政府领导时必须失败，禁止按面板索引混入市政府名单", "confidence": "high",
     "filter_policy": "strong_no_wordlist", "locator_strategy": "custom_parse_page",
 }
 
@@ -34,11 +34,20 @@ def clean_text(value: str) -> str:
 def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict[str, str]]:
     soup = BeautifulSoup(html, "html.parser")
     panels = soup.select(".tab-item")
-    if len(panels) < 2:
-        return []
+    tabs = soup.select(".leader-tab-head a")
+    target = None
+    if len(tabs) == len(panels):
+        target = next((panels[i] for i, tab in enumerate(tabs) if "人大" in tab.get_text()), None)
+    title = soup.select_one(".gov-title")
+    if target is None and len(panels) == 1 and title is not None and "人大" in title.get_text():
+        target = panels[0]
+    if target is None:
+        raise RuntimeError("当前领导之窗未公开可确认的市人大常委会领导面板；不得采集市政府领导代替")
+    if target.has_attr("hidden") or target.get("aria-hidden") == "true" or re.search(r"display\s*:\s*none", str(target.get("style", "")), re.I):
+        raise RuntimeError("人大领导面板当前明确隐藏，需核验可见来源")
     base_url = final_url or str(page_rule.get("url", ""))
     rows: list[dict[str, str]] = []
-    for link in panels[1].select("a.leader-item[href]"):
+    for link in target.select("a.leader-item[href]"):
         name_node = link.select_one(".name")
         duty_node = link.select_one(".post")
         if not name_node or not duty_node:

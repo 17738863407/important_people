@@ -63,7 +63,9 @@ def parse_page(html: str, final_url: str, page_rule: dict) -> list[object]:
     soup = BeautifulSoup(html, "html.parser")
     region = soup.select_one(".leader_L .mol_contents")
     if region is None:
-        return []
+        raise RuntimeError("当前机构设置页缺少领导正文容器.leader_L .mol_contents")
+    if not region.select(":scope > .mol_contents_row"):
+        raise RuntimeError("当前领导正文容器存在但人物卡片为空，未公开可核验领导名单")
     rows: list[PersonRecord] = []
     for card in region.select(":scope > .mol_contents_row"):
         left = card.select_one(":scope > .mol_contents_L")

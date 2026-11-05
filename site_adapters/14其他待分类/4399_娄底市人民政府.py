@@ -20,39 +20,31 @@ PAGE_RULE = {
     "load_mode": "http",
     "fetch_mode": "raw_http",
     "parser": "custom",
-    "risk": "仅提取政府领导卡片区域，职务由市长、副市长、秘书长分组标题继承。",
+    "risk": "仅提取政府领导卡片，使用每人.mingxian完整职务，不从旧分组标题推断。",
     "confidence": "high",
 }
 
 
-def parse_page(
-    html: str,
-    final_url: str,
-    page_rule: dict[str, object],
-) -> list[dict[str, str]]:
-    """按政府领导卡片分组在DOM中的先后顺序展开人物。"""
+def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict]:
+    """按当前政府领导卡片DOM顺序提取姓名和完整卡片职务。"""
     from bs4 import BeautifulSoup
-
-    soup = BeautifulSoup(html, "html.parser")
-    region = soup.select_one(".szf-zfld .bd")
+    soup=BeautifulSoup(html,'html.parser')
+    region=soup.select_one('.szf-zfld .bd')
     if region is None:
-        return []
-    rows: list[dict[str, str]] = []
-    for group in region.find_all("div", recursive=False):
-        duty_node = group.select_one(".posts h3, .posts1 h3")
-        duty = duty_node.get_text(" ", strip=True) if duty_node else ""
-        if not duty:
+        raise RuntimeError('未找到政府领导卡片区域')
+    rows=[]
+    seen=set()
+    for card in region.select('.ct'):
+        if any(n.has_attr('hidden') or n.get('aria-hidden')=='true' or 'display:none' in str(n.get('style','')).replace(' ','') for n in [card,*card.parents]):
             continue
-        for link in group.select("h4 a[href]"):
-            name = re.sub(r"\s+", "", link.get_text(" ", strip=True))
-            if name:
-                rows.append(
-                    {
-                        "name": name,
-                        "duty": duty,
-                        "detail_url": urljoin(final_url, link["href"]),
-                    }
-                )
+        link=card.select_one('h4 a[href]')
+        duty_node=card.select_one('.mingxian')
+        name=re.sub(r'\s+','',link.get_text()) if link else ''
+        duty=' '.join(duty_node.get_text(' ',strip=True).split()) if duty_node else ''
+        if not re.fullmatch(r'[\u3400-\u9fff·]{2,10}',name) or not duty or name in seen:
+            continue
+        seen.add(name)
+        rows.append({'name':name,'duty':duty,'evidence':duty,'detail_url':urljoin(final_url,str(link['href']))})
     return rows
 
 

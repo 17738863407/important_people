@@ -81,7 +81,10 @@ def fetch_current_entry(page_rule: dict[str, object]) -> object:
 
     entry_url = str(page_rule.get("url") or "")
     try:
-        return fetch_html_with_strategy(entry_url, strategy="raw_http", timeout=60)
+        result = fetch_html_with_strategy(entry_url, strategy="raw_http", timeout=60)
+        if not BeautifulSoup(result.html, "html.parser").select(str(page_rule["leader_region_selector"])):
+            raise RuntimeError("旧人物页未返回领导目录结构")
+        return result
     except Exception as entry_error:
         listing_url = urljoin(entry_url, "../")
         listing_result = fetch_html_with_strategy(listing_url, strategy="raw_http", timeout=60)

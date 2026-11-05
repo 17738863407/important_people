@@ -1,17 +1,16 @@
 from __future__ import annotations
 
-import json
-import subprocess
+import os
 import sys
 import time
 from io import BytesIO
 from pathlib import Path
 from typing import TextIO
-from urllib.parse import quote
+from unittest.mock import patch
 
 import requests
-import websocket
 from openpyxl import Workbook
+from playwright.sync_api import sync_playwright
 
 from crawler_core.paths import (
     find_chrome_executable,
@@ -135,136 +134,6 @@ def save_token(token_file: Path, token: str) -> None:
     token_file.write_text(token, encoding="utf-8", newline="")
 
 
-def create_direct_session() -> requests.Session:
-    """创建不读取系统代理环境变量的 HTTP 会话。"""
-    session = requests.Session()
-    session.trust_env = False
-    return session
-
-
-def is_cdp_available(cdp_port: int) -> bool:
-    """检查专用 Chrome 的调试端口是否可用。"""
-    try:
-        with create_direct_session() as session:
-            response = session.get(
-                f"http://127.0.0.1:{cdp_port}/json/version", timeout=3
-            )
-            response.raise_for_status()
-        return True
-    except requests.RequestException:
-        return False
-
-
-def start_debug_chrome(
-    chrome_exe: Path,
-    user_data_dir: Path,
-    cdp_port: int,
-    target_url: str,
-) -> None:
-    """启动专用 Chrome，由用户在可见页面中亲自登录。"""
-    if not chrome_exe.is_file():
-        raise FileNotFoundError(f"未找到 Chrome：{chrome_exe}")
-    user_data_dir.mkdir(parents=True, exist_ok=True)
-    subprocess.Popen(
-        [
-            str(chrome_exe),
-            f"--remote-debugging-port={cdp_port}",
-            f"--user-data-dir={user_data_dir}",
-            "--restore-last-session",
-            "--no-first-run",
-            "--no-default-browser-check",
-            target_url,
-        ],
-        close_fds=True,
-    )
-
-
-def wait_for_cdp(cdp_port: int, timeout_seconds: int) -> None:
-    """等待 Chrome 调试端口启动完成。"""
-    deadline = time.monotonic() + timeout_seconds
-    while time.monotonic() < deadline:
-        if is_cdp_available(cdp_port):
-            return
-        time.sleep(0.5)
-    raise TimeoutError(f"Chrome 调试端口启动超时：127.0.0.1:{cdp_port}")
-
-
-def get_target_page(cdp_port: int, page_filter: str, target_url: str) -> dict:
-    """查找后台页面；不存在时通过 CDP 新建标签页。"""
-    endpoint = f"http://127.0.0.1:{cdp_port}"
-    with create_direct_session() as session:
-        pages = session.get(f"{endpoint}/json", timeout=5).json()
-        for page in pages:
-            if page.get("type") == "page" and page_filter in str(page.get("url") or ""):
-                return page
-        encoded_url = quote(target_url, safe="")
-        response = session.put(f"{endpoint}/json/new?{encoded_url}", timeout=10)
-        response.raise_for_status()
-        page = response.json()
-    if not isinstance(page, dict):
-        raise ValueError("Chrome 调试接口没有返回有效页面对象。")
-    return page
-
-
-def read_page_token(page: dict) -> str:
-    """从后台页面的 localStorage 读取登录令牌。"""
-    websocket_url = str(page.get("webSocketDebuggerUrl") or "")
-    if not websocket_url:
-        return ""
-    connection = websocket.create_connection(websocket_url, timeout=10, suppress_origin=True)
-    try:
-        message_id = 1
-        connection.send(
-            json.dumps(
-                {
-                    "id": message_id,
-                    "method": "Runtime.evaluate",
-                    "params": {
-                        "expression": (
-                            "localStorage.getItem('downed-officials-token') || ''"
-                        ),
-                        "returnByValue": True,
-                    },
-                },
-                ensure_ascii=False,
-            )
-        )
-        while True:
-            response = json.loads(connection.recv())
-            if response.get("id") == message_id:
-                return str(
-                    response.get("result", {}).get("result", {}).get("value") or ""
-                ).strip()
-    finally:
-        connection.close()
-
-
-def navigate_page(page: dict, target_url: str) -> None:
-    """进入上传页面，以触发失效令牌的登录跳转。"""
-    websocket_url = str(page.get("webSocketDebuggerUrl") or "")
-    if not websocket_url:
-        raise ValueError("Chrome 页面缺少 webSocketDebuggerUrl。")
-    connection = websocket.create_connection(websocket_url, timeout=10, suppress_origin=True)
-    try:
-        message_id = 2
-        connection.send(
-            json.dumps(
-                {
-                    "id": message_id,
-                    "method": "Page.navigate",
-                    "params": {"url": target_url},
-                },
-                ensure_ascii=False,
-            )
-        )
-        while True:
-            response = json.loads(connection.recv())
-            if response.get("id") == message_id:
-                return
-    finally:
-        connection.close()
-
-
 def acquire_browser_token(
     chrome_exe: Path,
     user_data_dir: Path,
@@ -277,28 +146,80 @@ def acquire_browser_token(
     token_file: Path,
     log_file: TextIO,
 ) -> str:
-    """等待用户登录，从 Chrome 获取并保存不同于失效值的新令牌。"""
-    if not is_cdp_available(cdp_port):
-        start_debug_chrome(chrome_exe, user_data_dir, cdp_port, target_url)
-        wait_for_cdp(cdp_port, cdp_start_timeout_seconds)
-
-    page = get_target_page(cdp_port, page_filter, target_url)
-    navigate_page(page, target_url)
-    write_log("请在已打开的 Chrome 页面中完成登录，脚本将自动继续。", log_file)
-
+    """用 Playwright 管理专用 Chrome，等待用户登录并保存新令牌。"""
+    if not chrome_exe.is_file():
+        raise FileNotFoundError(f"未找到 Chrome：{chrome_exe}")
+    user_data_dir.mkdir(parents=True, exist_ok=True)
+    # Playwright 的 Node 驱动会在系统临时目录创建 artifacts。当前运行环境
+    # 可能无权写入该目录，因此让专用浏览器进程使用项目内可写的临时目录。
+    playwright_temp_dir = user_data_dir / "playwright-temp"
+    playwright_temp_dir.mkdir(parents=True, exist_ok=True)
+    write_log(
+        "正在通过 Playwright 启动专用 Chrome："
+        f"调试端口 127.0.0.1:{cdp_port}；用户目录 {user_data_dir}",
+        log_file,
+    )
+    launch_timeout_ms = max(cdp_start_timeout_seconds, 1) * 1000
     deadline = time.monotonic() + login_wait_seconds
     last_page_error: Exception | None = None
-    while time.monotonic() < deadline:
-        try:
-            page = get_target_page(cdp_port, page_filter, target_url)
-            token = read_page_token(page)
-            if token and token != rejected_token:
-                save_token(token_file, token)
-                write_log("已取得并保存新令牌。", log_file)
-                return token
-        except Exception as error:
-            last_page_error = error
-        time.sleep(1)
+
+    temporary_environment = {
+        name: str(playwright_temp_dir) for name in ("TMPDIR", "TMP", "TEMP")
+    }
+    with patch.dict(os.environ, temporary_environment):
+        with sync_playwright() as playwright:
+            context = playwright.chromium.launch_persistent_context(
+                str(user_data_dir),
+                executable_path=str(chrome_exe),
+                headless=False,
+                args=[
+                    "--remote-debugging-address=127.0.0.1",
+                    f"--remote-debugging-port={cdp_port}",
+                ],
+                timeout=launch_timeout_ms,
+            )
+            try:
+                page = next(
+                    (
+                        existing_page
+                        for existing_page in context.pages
+                        if page_filter in existing_page.url
+                    ),
+                    None,
+                )
+                if page is None:
+                    page = context.new_page()
+                page.goto(
+                    target_url,
+                    wait_until="domcontentloaded",
+                    timeout=launch_timeout_ms,
+                )
+                write_log(
+                    "请在已打开的 Chrome 页面中完成登录，脚本将自动继续。",
+                    log_file,
+                )
+
+                while time.monotonic() < deadline:
+                    for existing_page in context.pages:
+                        if page_filter not in existing_page.url:
+                            continue
+                        try:
+                            token = str(
+                                existing_page.evaluate(
+                                    "localStorage.getItem('downed-officials-token') || ''"
+                                )
+                                or ""
+                            ).strip()
+                        except Exception as error:
+                            last_page_error = error
+                            continue
+                        if token and token != rejected_token:
+                            save_token(token_file, token)
+                            write_log("已取得并保存新令牌。", log_file)
+                            return token
+                    time.sleep(1)
+            finally:
+                context.close()
 
     if last_page_error is not None:
         raise TimeoutError(f"等待登录超时；最后一次读取错误：{last_page_error}")

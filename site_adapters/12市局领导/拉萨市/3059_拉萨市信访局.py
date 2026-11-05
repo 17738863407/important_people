@@ -3,13 +3,15 @@ from __future__ import annotations
 import re
 import sys
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlsplit, urlunsplit
 
 from bs4 import BeautifulSoup
 
 
 PAGE_RULE = {
     "rule_id": "3059",
+    "inline_parser_handles_fetch": True,
+    "inline_fetch_collector": "requests",
     "page_type": "人物列表完整页",
     "structure_group": "lasa_petition_mixed_leader_cards_v1",
     "reuse_scope": "single_page",
@@ -90,6 +92,14 @@ def append_row(
 
 def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict[str, str]]:
     """按顶部主职卡片、随后副职分组的网页顺序提取人物。"""
+    if not html:
+        # 当前原路径已验证仅HTTPS有效，不更改权威业务入口字段。
+        from crawler_core.fetcher import decode_response_text, requests_get_html
+
+        parts = urlsplit(str(page_rule["url"]))
+        response = requests_get_html(urlunsplit(parts._replace(scheme="https")), timeout=20, verify=True)
+        response.raise_for_status()
+        html, final_url = decode_response_text(response), response.url
     soup = BeautifulSoup(html, "html.parser")
     rows: list[dict[str, str]] = []
     seen_names: set[str] = set()

@@ -19,6 +19,8 @@ PAGE_RULE = {
     "structure_group": "drc_department_leader_block",
     "load_mode": "静态HTML直出",
     "fetch_mode": "online",
+    "inline_parser_handles_fetch": True,
+    "inline_fetch_collector": "raw_http",
     "extract_mode": "list_direct",
     "parser": "page_inline_drc_department_leader_block_v1",
     "leader_region_selector": "#MainContent_personleaderdiv",
@@ -38,6 +40,11 @@ def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict]:
     from bs4 import BeautifulSoup, Tag
     from urllib.parse import urljoin
 
+    if not html:
+        from crawler_core.fetcher import fetch_html_with_strategy
+
+        result = fetch_html_with_strategy(str(page_rule["url"]), "raw_http")
+        html, final_url = result.html, result.final_url
     soup = BeautifulSoup(html, "html.parser")
     region = soup.select_one("#MainContent_personleaderdiv")
     if not isinstance(region, Tag):

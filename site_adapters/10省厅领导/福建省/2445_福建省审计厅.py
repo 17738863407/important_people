@@ -122,7 +122,7 @@ def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict[str, str
         detail_url = ""
         if href and not href.lower().startswith(("#", "javascript:")):
             candidate_url = urljoin(final_url or source_url, href)
-            if candidate_url.rstrip("/") != source_url.rstrip("/"):
+            if candidate_url.rstrip("/") not in {source_url.rstrip("/"), final_url.rstrip("/")}:
                 detail_url = candidate_url
         rows.append(
             {

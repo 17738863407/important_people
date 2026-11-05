@@ -52,7 +52,17 @@ def fetch_frame_html(main_html: str, final_url: str) -> str:
     """从渲染后的入口当前栏目链接动态发现并抓取frame正文。"""
     soup = BeautifulSoup(main_html, "html.parser")
     current_link = soup.select_one("#xxgk_215 a[href]")
-    frame_url = urljoin(final_url, str(current_link.get("href", "")).strip()) if current_link else ""
+    frame_href = str(current_link.get("href", "")).strip() if current_link else ""
+    # 原始HTML仍含旧栏目地址；当前入口脚本会覆盖此链接，必须读取同次响应中的赋值。
+    for script in soup.select("script:not([src])"):
+        match = re.search(
+            r'''(?:jQuery|\$)\(\s*["']#xxgk_215 a["']\s*\)\.attr\(\s*["']href["']\s*,\s*["']([^"']+)["']''',
+            script.get_text(),
+        )
+        if match:
+            frame_href = match.group(1)
+            break
+    frame_url = urljoin(final_url, frame_href) if frame_href else ""
     if not frame_url or frame_url == final_url:
         raise RuntimeError("渲染后的入口页未发现有效#xxgk_215当前栏目地址")
     response = requests.get(
@@ -89,6 +99,16 @@ def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict[str, str
             continue
         name = name_match.group("name")
         evidence = clean_current_evidence(evidence_match.group(0))
+        # 仅接纳紧邻且以同一姓名开头、明确写有挂任的独立现职句，不混入普通分工。
+        next_paragraph = paragraph.find_next_sibling("p")
+        if next_paragraph is not None:
+            extra_text = normalize_space(next_paragraph.get_text(" ", strip=True))
+            extra_match = re.fullmatch(
+                re.escape(name) + r"同志(?P<roles>作为[^。]*[，,]挂任[^。]+)。?",
+                extra_text,
+            )
+            if extra_match:
+                evidence += "；" + extra_match.group("roles").rstrip("。")
         if name in seen:
             continue
         seen.add(name)

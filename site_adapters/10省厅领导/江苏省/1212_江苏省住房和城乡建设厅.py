@@ -5,7 +5,6 @@ import re
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
 
-import requests
 from bs4 import BeautifulSoup
 def resolve_project_dir() -> Path:
     """向上查找项目根目录，兼容 site_adapters 下的任意层级脚本。"""
@@ -25,7 +24,10 @@ PAGE_RULE = {'rule_id': '1212',
  'fetch_mode': 'online',
  'extract_mode': 'list_direct',
  'collector': 'static_http',
- 'parser': 'page_jiangsu_housing_online_detail_xianren_v2',
+ 'parser': 'page_jiangsu_housing_online_detail_xianren_v3',
+ 'inline_parser_handles_fetch': True,
+ 'inline_fetch_collector': 'playwright',
+ 'risk_flag': '入口本身也是首位人物专属栏目，须保留其人物且详情链接留空；按左侧目录原序逐页读取简介现职句，保留机构全称',
  'leader_region_selector': 'ul.szlb a[href]',
  'name_selector': '',
  'duty_selector': '',
@@ -67,26 +69,18 @@ def clean_name(value: str) -> str:
 
 
 def clean_duty(value: str) -> str:
-    """清理“现任”后面的厅名前缀。"""
+    """仅清理排版和句末标点，保留网页明确给出的机构主体。"""
     duty = normalize_space(value).rstrip("。")
-    duty = re.sub(r"^江苏省住房和城乡建设厅", "", duty)
     return duty
 
 
 def load_detail_html(detail_url: str, referer: str) -> str:
     """在线获取领导详情栏目页 HTML。"""
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/145 Safari/537.36",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "zh-CN,zh;q=0.9",
-        "Referer": referer,
-    }
-    session = requests.Session()
-    session.trust_env = False
-    response = session.get(detail_url, headers=headers, timeout=30)
-    response.raise_for_status()
-    response.encoding = response.apparent_encoding or response.encoding or "utf-8"
-    return response.text
+    from crawler_core.fetcher import fetch_html_with_strategy
+
+    return fetch_html_with_strategy(
+        detail_url, strategy="playwright", timeout=35, browser_render_wait_ms=1000
+    ).html
 
 
 def extract_duty_from_detail(detail_html: str, name: str) -> tuple[str, str]:
@@ -94,7 +88,9 @@ def extract_duty_from_detail(detail_html: str, name: str) -> tuple[str, str]:
     soup = BeautifulSoup(detail_html, "html.parser")
     for node in soup(["script", "style"]):
         node.decompose()
-    scope = soup.select_one(".fg-x") or soup
+    scope = soup.select_one(".fg-x")
+    if scope is None:
+        raise RuntimeError("人物简介区域缺失")
     lines = [normalize_space(line) for line in scope.get_text("\n", strip=True).splitlines()]
     for line in lines:
         if name not in clean_name(line) or "现任" not in line:
@@ -111,6 +107,7 @@ def extract_duty_from_detail(detail_html: str, name: str) -> tuple[str, str]:
 
 def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[dict[str, str]]:
     """解析江苏省住房和城乡建设厅领导目录，并在线读取详情页补全职务。"""
+    html = load_detail_html(str(page_rule["url"]), str(page_rule["url"]))
     soup = BeautifulSoup(html, "html.parser")
     organization = str(page_rule.get("organization", ""))
     page_url = str(page_rule.get("url", "")) or final_url
@@ -132,14 +129,15 @@ def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[
         if (
             detail.scheme not in {"http", "https"}
             or detail.netloc.lower() != source.netloc.lower()
-            or detail.path.rstrip("/") == source.path.rstrip("/")
             or detail.fragment
             or not re.search(r"/col/col\d+(?:/index\.html)?/?$", detail.path)
         ):
             continue
-        duty, evidence_text = extract_duty_from_detail(load_detail_html(detail_url, page_url), name)
+        is_entry = detail.path.rstrip("/") == source.path.rstrip("/")
+        detail_html = html if is_entry else load_detail_html(detail_url, page_url)
+        duty, evidence_text = extract_duty_from_detail(detail_html, name)
         if not duty:
-            continue
+            raise RuntimeError(f"人物简介未找到可回指的现职句：{name}")
         seen.add(name)
         rows.append(
             {
@@ -147,7 +145,7 @@ def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[
                 "url": page_url,
                 "name": name,
                 "duty": duty,
-                "detail_url": detail_url,
+                "detail_url": "" if is_entry else detail_url,
                 "evidence": evidence_text,
                 "parser": parser,
                 "selector_summary": selector_summary,

@@ -15,6 +15,8 @@ PAGE_RULE = {
     "reuse_scope": "single_page",
     "load_mode": "静态HTML",
     "fetch_mode": "online",
+    "inline_parser_handles_fetch": True,
+    "inline_fetch_collector": "raw_http",
     "extract_mode": "grouped_links",
     "collector": "requests",
     "parser": "page_inline_wuxi_government_sidebar_v1",
@@ -48,6 +50,29 @@ def normalized_url(value: str) -> str:
 
 def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict]:
     """按右侧导航职务组和姓名链接原始顺序提取。"""
+    if not html:
+        from crawler_core.fetcher import fetch_html_with_strategy
+
+        entry = str(page_rule["url"])
+        try:
+            result = fetch_html_with_strategy(entry, "raw_http")
+        except Exception:
+            parts = urlparse(entry)
+            home = fetch_html_with_strategy(f"{parts.scheme}://{parts.netloc}/", "raw_http")
+            home_soup = BeautifulSoup(home.html, "html.parser")
+            public_link = next((a for a in home_soup.select("a[href]") if clean_compact(a.get_text()) == "政务公开"), None)
+            if public_link is None:
+                raise RuntimeError("官网首页未发现政务公开入口")
+            public = fetch_html_with_strategy(urljoin(home.final_url, public_link["href"]), "raw_http")
+            public_soup = BeautifulSoup(public.html, "html.parser")
+            leader_link = next((a for a in public_soup.select("a[href]") if clean_compact(a.get_text()) in {"市长", "代市长"}), None)
+            if leader_link is None:
+                raise RuntimeError("当前政务公开页未发现市长人物链接")
+            candidate = urljoin(public.final_url, leader_link["href"])
+            if urlparse(candidate).netloc != parts.netloc:
+                raise RuntimeError("市长链接不属于当前官网")
+            result = fetch_html_with_strategy(candidate, "raw_http")
+        html, final_url = result.html, result.final_url
     soup = BeautifulSoup(html, "lxml")
     region = soup.select_one(page_rule["leader_region_selector"])
     if region is None or clean_compact(region.find("h3").get_text(" ", strip=True) if region.find("h3") else "") != "市政府领导":

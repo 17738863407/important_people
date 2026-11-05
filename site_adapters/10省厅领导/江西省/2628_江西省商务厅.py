@@ -24,7 +24,6 @@ PAGE_RULE = {'rule_id': '2628',
  'extract_mode': 'list_direct',
  'collector': 'playwright',
  'parser': 'jiangxi_commerce_current_org_leader_cards_v2',
- 'current_org_path': '/jxsswt/col/col35783/index.html',
  'leader_region_selector': '.container-r .ldbox',
  'name_selector': '',
  'duty_selector': '',
@@ -33,7 +32,7 @@ PAGE_RULE = {'rule_id': '2628',
  'detail_strategy': {'required': False,
                      'mode': 'none',
                      'candidate_links': []},
- 'risk_flag': '规则表旧领导页已404；当前领导卡片迁至同站组织机构页，必须限定.container-r .ldbox以排除内设机构和新闻人物',
+ 'risk_flag': '组织机构入口由规则主表注入；必须限定.container-r .ldbox以排除内设机构和新闻人物，人物栏目链接须在线确认最终独立文章',
  'confidence': 'high',
  'profile_reusable': '',
  'profile_judgement': '',
@@ -60,7 +59,7 @@ def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[
     from crawler_core.fetcher import fetch_html_with_strategy
 
     del html
-    current_url = urljoin(str(page_rule["url"]), str(page_rule["current_org_path"]))
+    current_url = str(page_rule["url"])
     result = fetch_html_with_strategy(
         current_url,
         strategy="playwright",
@@ -86,6 +85,14 @@ def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[
             continue
         seen.add(name)
         detail_url = urljoin(result.final_url or final_url, link.get("href") or "")
+        if detail_url.endswith("/index.html"):
+            # 人物栏目当前会跳转至专属简介文章，只导出实时确认的最终文章地址。
+            detail = fetch_html_with_strategy(detail_url, strategy="playwright", timeout=30)
+            detail_soup = BeautifulSoup(detail.html, "html.parser")
+            title = detail_soup.title.get_text(" ", strip=True) if detail_soup.title else ""
+            if name not in title or "/content/" not in detail.final_url:
+                raise RuntimeError(f"人物栏目未跳转到可确认的独立人物文章：{name}")
+            detail_url = detail.final_url
         rows.append(
             {
                 "organization": organization,

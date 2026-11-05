@@ -3,7 +3,7 @@ from __future__ import annotations
 import re
 import sys
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlsplit
 
 from bs4 import BeautifulSoup
 
@@ -22,6 +22,8 @@ PAGE_RULE = {
     "structure_group": "heyuan_leader_directory_details_v1",
     "load_mode": "静态HTML直出",
     "fetch_mode": "online",
+    "inline_parser_handles_fetch": True,
+    "inline_fetch_collector": "playwright",
     "extract_mode": "custom",
     "parser": "page_inline_heyuan_leader_details_v1",
     "leader_region_selector": ".box-ld",
@@ -41,6 +43,20 @@ def parse_page(
     """按领导之窗栏目顺序抓取详情页中的当前职务句。"""
     from crawler_core.fetcher import fetch_html_with_strategy
 
+    if not html:
+        # 旧个人页失效后，由官网首页公开的领导之窗链接发现当前栏目。
+        parts = urlsplit(str(page_rule["url"]))
+        home_url = f"{parts.scheme}://{parts.netloc}/"
+        try:
+            home = fetch_html_with_strategy(home_url, "raw_http")
+        except Exception:
+            home = fetch_html_with_strategy(home_url, "playwright", timeout=30)
+        home_soup = BeautifulSoup(home.html, "html.parser")
+        anchor = next((a for a in home_soup.select("a[href]") if "".join(a.get_text().split()) == "领导之窗"), None)
+        if anchor is None:
+            raise RuntimeError("官网首页未公开领导之窗入口")
+        current = fetch_html_with_strategy(urljoin(home.final_url, anchor["href"]), "playwright", timeout=30)
+        html, final_url = current.html, current.final_url
     soup = BeautifulSoup(html, "html.parser")
     directory_anchor = next(
         (
@@ -56,7 +72,7 @@ def parse_page(
     directory_url = urljoin(final_url, str(directory_anchor["href"]))
     directory_result = fetch_html_with_strategy(
         directory_url,
-        strategy="requests",
+        strategy="playwright",
         timeout=30,
     )
     directory = BeautifulSoup(directory_result.html, "html.parser")
@@ -78,7 +94,7 @@ def parse_page(
     for expected_name, detail_url in leader_links:
         detail_result = fetch_html_with_strategy(
             detail_url,
-            strategy="requests",
+            strategy="playwright",
             timeout=30,
         )
         detail = BeautifulSoup(detail_result.html, "html.parser")
@@ -100,7 +116,8 @@ def parse_page(
         if not current_sentence:
             raise RuntimeError(f"人物详情页缺少现任职务句：{detail_url}")
         duty = re.sub(r"\s+", "", current_sentence.removeprefix("现任")).rstrip("。；;")
-        rows.append({"name": expected_name, "duty": duty, "detail_url": detail_url})
+        detail_link = "" if detail_result.final_url.rstrip("/") == directory_result.final_url.rstrip("/") else detail_url
+        rows.append({"name": expected_name, "duty": duty, "detail_url": detail_link})
     return rows
 
 

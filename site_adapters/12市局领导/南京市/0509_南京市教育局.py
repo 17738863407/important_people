@@ -5,6 +5,7 @@ import sys
 from pathlib import Path
 
 from bs4 import BeautifulSoup
+import requests
 
 
 PAGE_RULE = {
@@ -14,11 +15,13 @@ PAGE_RULE = {
     "reuse_scope": "single_page",
     "load_mode": "静态HTML直出",
     "fetch_mode": "requests",
+    "inline_parser_handles_fetch": True,
+    "inline_fetch_collector": "requests",
     "extract_mode": "list_direct",
     "collector": "static_http",
     "leader_region_selector": "#nsks .view.TRS_UEDITOR",
-    "name_selector": "p:has(strong)",
-    "risk_flag": "机构职能与领导信息同页分区展示，只能解析nsks区域中含现任句的人物简介段落",
+    "name_selector": "p段首姓名及冒号",
+    "risk_flag": "仅解析nsks领导区；当前仅列工作分工时保留明确姓名、依据说明留空并人工复核，禁止把分工推断为职务",
     "confidence": "high",
     "filter_policy": "strong_no_wordlist",
 }
@@ -34,11 +37,19 @@ def clean_text(value: str) -> str:
 
 def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict]:
     """按领导信息富文本区域中的人物简介段落顺序提取姓名和现任句。"""
-    del final_url
+    if not html:
+        from crawler_core.fetcher import DEFAULT_HEADERS
+
+        response = requests.get(final_url, timeout=30, headers=DEFAULT_HEADERS)
+        response.raise_for_status()
+        response.encoding = "utf-8"
+        html = response.text
     soup = BeautifulSoup(html, "html.parser")
     region = soup.select_one("#nsks .view.TRS_UEDITOR")
     if region is None:
         return []
+    for hidden in region.select('[hidden], [aria-hidden="true"], [style*="display:none"], [style*="display: none"]'):
+        hidden.decompose()
     rows: list[dict[str, str]] = []
     for paragraph in region.select("p"):
         text = clean_text(paragraph.get_text(" ", strip=True))
@@ -46,17 +57,23 @@ def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict]:
             r"^(?P<name>[\u3400-\u9fff·]{2,4})[，,].*?(?P<evidence>现任[^。]*。)",
             text,
         )
-        if match is None:
-            continue
-        evidence = re.sub(r"^现任\s*", "", match.group("evidence")).rstrip("。")
+        if match is not None:
+            name = match.group("name")
+            evidence = re.sub(r"^现任\s*", "", match.group("evidence")).rstrip("。")
+        else:
+            label = re.match(r"^(?P<name>[\u3400-\u9fff·]{2,4})[：:]", text)
+            if label is None:
+                continue
+            name = label.group("name")
+            evidence = ""
         rows.append(
             {
                 "order": str(len(rows) + 1),
-                "name": match.group("name"),
+                "name": name,
                 "duty": evidence,
                 "evidence": evidence,
                 "detail_url": "",
-                "confidence": str(page_rule.get("confidence") or "high"),
+                "confidence": "high" if evidence else "manual_review",
                 "parser": "inline_nanjing_education_leader_intro_paragraphs_v1",
             }
         )

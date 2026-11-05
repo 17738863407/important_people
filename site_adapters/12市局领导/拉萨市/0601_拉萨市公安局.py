@@ -3,13 +3,15 @@ from __future__ import annotations
 import re
 import sys
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlsplit, urlunsplit
 
 from bs4 import BeautifulSoup
 
 
 PAGE_RULE = {
     "rule_id": "0601",
+    "inline_parser_handles_fetch": True,
+    "inline_fetch_collector": "requests",
     "page_type": "人物列表完整页",
     "structure_group": "lasa_police_mixed_leader_cards_v1",
     "reuse_scope": "single_page",
@@ -90,6 +92,16 @@ def append_row(
 
 def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict[str, str]]:
     """按有效主职卡片、随后副职列表的网页顺序提取人物。"""
+    if not html:
+        # 已在线验证本站仅 HTTPS 入口有效；从注入业务URL保留主机、路径及查询。
+        from crawler_core.fetcher import decode_response_text, requests_get_html
+
+        parts = urlsplit(str(page_rule["url"]))
+        target_url = urlunsplit(parts._replace(scheme="https"))
+        response = requests_get_html(target_url, timeout=20, verify=True)
+        response.raise_for_status()
+        html = decode_response_text(response)
+        final_url = response.url
     soup = BeautifulSoup(html, "html.parser")
     region = soup.select_one(".ldxx_item")
     if region is None:

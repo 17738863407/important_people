@@ -52,14 +52,24 @@ def clean_text(value: str) -> str:
     return re.sub(r"\s+", " ", value or "").strip()
 
 
-def fetch_current_position(session: requests.Session, detail_url: str) -> str:
+def fetch_current_position(session: requests.Session, detail_url: str, expected_name: str) -> str:
     try:
         response = session.get(detail_url, headers={"User-Agent": "Mozilla/5.0"}, timeout=25)
         response.raise_for_status()
     except requests.RequestException:
         return ""
     response.encoding = response.apparent_encoding or response.encoding
-    text = clean_text(BeautifulSoup(response.text, "html.parser").get_text(" ", strip=True))
+    soup = BeautifulSoup(response.text, "html.parser")
+    heading = soup.select_one("h1.article_t")
+    region = soup.select_one(".article_con")
+    if heading is None or clean_text(heading.get_text(" ", strip=True)) != expected_name or region is None:
+        return ""
+    for node in [region, *region.parents]:
+        if node.has_attr("hidden") or node.get("aria-hidden") == "true" or "display:none" in str(node.get("style", "")).replace(" ", ""):
+            return ""
+    for node in region.select('script, style, [hidden], [aria-hidden="true"], [style*="display:none"], [style*="display: none"]'):
+        node.decompose()
+    text = clean_text(region.get_text(" ", strip=True))
     match = re.search(r"(现任[^。]*。)", text)
     return clean_text(match.group(1)).removeprefix("现任").removesuffix("。") if match else ""
 
@@ -105,7 +115,7 @@ def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[
         detail_url = str(article.get("post_url") or article.get("url") or "").strip()
         evidence = extract_current_position(str(article.get("abstract", "")))
         if not evidence and detail_url:
-            evidence = fetch_current_position(session, detail_url)
+            evidence = fetch_current_position(session, detail_url, name)
         if not evidence:
             continue
         seen.add(name)

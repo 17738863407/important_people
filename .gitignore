@@ -24,6 +24,7 @@ workspace/snapshots/
 .playwright-cli/
 .chrome_cdp_profile/
 .official_update_chrome_profile/
+.official_update_chrome_profile.backup-*/
 .pytest_cache/
 *.tmp
 *.temp

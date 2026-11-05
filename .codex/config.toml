@@ -1,0 +1,4 @@
+# 修复 Windows 托管网络与 unelevated 沙箱后端不兼容。
+# 保留用户级配置中的沙箱、审批和网络策略。
+[windows]
+sandbox = "elevated"

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import importlib.util
+import os
 from io import BytesIO
 from pathlib import Path
 
@@ -46,6 +47,169 @@ def test_upload_mapping_and_in_memory_workbook() -> None:
         workbook.close()
     assert list(values[0]) == upload_header
     assert len(values) == len(upload_rows) + 1
+
+
+def test_upload_uses_playwright_chrome_and_saves_token(
+    tmp_path, monkeypatch
+) -> None:
+    module = load_script(
+        "script4-职务比对1-上传官员信息.py", "official_update_upload_playwright"
+    )
+    chrome_exe = tmp_path / "chrome.exe"
+    chrome_exe.write_bytes(b"")
+    user_data_dir = tmp_path / ".official_update_chrome_profile"
+    token_file = tmp_path / ".secrets" / "official_update_token"
+    captured: dict[str, object] = {}
+
+    class FakePage:
+        url = "http://example.invalid/official-information"
+
+        def goto(self, url, **kwargs):
+            captured["goto"] = (url, kwargs)
+
+        def evaluate(self, expression):
+            captured["expression"] = expression
+            return "new-token"
+
+    class FakeContext:
+        def __init__(self):
+            self.pages = [FakePage()]
+            self.closed = False
+
+        def new_page(self):
+            raise AssertionError("已有后台页面时不应新建页面")
+
+        def close(self):
+            self.closed = True
+
+    context = FakeContext()
+
+    class FakeChromium:
+        def launch_persistent_context(self, profile, **kwargs):
+            captured["profile"] = profile
+            captured["launch"] = kwargs
+            return context
+
+    class FakePlaywright:
+        chromium = FakeChromium()
+
+    class FakePlaywrightManager:
+        def __enter__(self):
+            captured["temporary_environment"] = {
+                name: os.environ.get(name) for name in ("TMPDIR", "TMP", "TEMP")
+            }
+            return FakePlaywright()
+
+        def __exit__(self, *_args):
+            return False
+
+    monkeypatch.setattr(module, "sync_playwright", FakePlaywrightManager)
+    original_environment = {
+        name: os.environ.get(name) for name in ("TMPDIR", "TMP", "TEMP")
+    }
+    token = module.acquire_browser_token(
+        chrome_exe,
+        user_data_dir,
+        9777,
+        "http://example.invalid/official-information",
+        "example.invalid",
+        "old-token",
+        30,
+        10,
+        token_file,
+        TextLogStub(),
+    )
+
+    assert token == "new-token"
+    assert token_file.read_text(encoding="utf-8") == "new-token"
+    assert captured["profile"] == str(user_data_dir)
+    launch = captured["launch"]
+    assert launch["executable_path"] == str(chrome_exe)
+    assert launch["headless"] is False
+    assert "--remote-debugging-port=9777" in launch["args"]
+    assert launch["timeout"] == 30_000
+    assert captured["goto"][0] == "http://example.invalid/official-information"
+    assert "downed-officials-token" in captured["expression"]
+    assert context.closed is True
+    expected_temp_dir = user_data_dir / "playwright-temp"
+    assert expected_temp_dir.is_dir()
+    assert captured["temporary_environment"] == {
+        name: str(expected_temp_dir) for name in ("TMPDIR", "TMP", "TEMP")
+    }
+    assert {
+        name: os.environ.get(name) for name in ("TMPDIR", "TMP", "TEMP")
+    } == original_environment
+
+
+def test_upload_login_timeout_preserves_profile(tmp_path, monkeypatch) -> None:
+    module = load_script(
+        "script4-职务比对1-上传官员信息.py", "official_update_upload_timeout"
+    )
+    chrome_exe = tmp_path / "chrome.exe"
+    chrome_exe.write_bytes(b"")
+    user_data_dir = tmp_path / ".official_update_chrome_profile"
+    user_data_dir.mkdir()
+    marker = user_data_dir / "profile-marker.txt"
+    marker.write_text("KEEP", encoding="utf-8")
+
+    class FakePage:
+        url = "http://example.invalid/official-information"
+
+        def goto(self, *_args, **_kwargs):
+            pass
+
+    class FakeContext:
+        pages = [FakePage()]
+        closed = False
+
+        def new_page(self):
+            return self.pages[0]
+
+        def close(self):
+            self.closed = True
+
+    context = FakeContext()
+
+    class FakeChromium:
+        def launch_persistent_context(self, *_args, **_kwargs):
+            return context
+
+    class FakePlaywrightManager:
+        def __enter__(self):
+            return type("FakePlaywright", (), {"chromium": FakeChromium()})()
+
+        def __exit__(self, *_args):
+            return False
+
+    monkeypatch.setattr(module, "sync_playwright", FakePlaywrightManager)
+    try:
+        module.acquire_browser_token(
+            chrome_exe,
+            user_data_dir,
+            9777,
+            "http://example.invalid/official-information",
+            "example.invalid",
+            "old-token",
+            1,
+            0,
+            tmp_path / "token",
+            TextLogStub(),
+        )
+    except TimeoutError as error:
+        assert "未读取到新令牌" in str(error)
+    else:
+        raise AssertionError("未取得新令牌时应报告超时")
+
+    assert marker.read_text(encoding="utf-8") == "KEEP"
+    assert context.closed is True
+
+
+class TextLogStub:
+    def write(self, _text):
+        pass
+
+    def flush(self):
+        pass
 
 
 def test_incomplete_online_fetch_does_not_overwrite(tmp_path, monkeypatch) -> None:

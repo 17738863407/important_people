@@ -14,6 +14,7 @@ RULE_TABLE_OPTIONAL_DEFAULTS = (
     "机构别称",
     "官网链接",
     "备注",
+    "网页类型",
 )
 # 保留既有常量名，供所有主表读写方共享严格字段顺序。
 RULE_TABLE_FIELDS = (
@@ -29,8 +30,10 @@ RULE_TABLE_FIELDS = (
     "领导链接",
     "脚本序号",
     "备注",
+    "网页类型",
 )
 RULE_TABLE_ALLOWED_NOTES = {"", "空缺占位", "两个机构一块牌子"}
+RULE_TABLE_ALLOWED_WEBPAGE_TYPES = {"", "百度百科", "大模型"}
 RULE_TABLE_ALLOWED_ORGANIZATION_SYSTEMS = {
     "",
     "中共中央",
@@ -65,7 +68,7 @@ def normalize_script_sequence(value: object) -> str:
 
 
 def load_rule_table(path: Path | None = None) -> list[dict[str, str]]:
-    """读取权威主表，并严格校验十二列字段及记录级机构别称。"""
+    """读取权威主表，并严格校验十三列字段、网页类型及机构别称。"""
     source_path = path or DEFAULT_RULE_TABLE_PATH
     lines = source_path.read_text(encoding="utf-8-sig").splitlines()
     if not lines:
@@ -80,7 +83,7 @@ def load_rule_table(path: Path | None = None) -> list[dict[str, str]]:
             f"规则主表缺少核心字段：{', '.join(missing_fields)}：{source_path}"
         )
     if header != RULE_TABLE_FIELDS:
-        raise ValueError(f"规则主表表头不符合十二列顺序契约：{source_path}")
+        raise ValueError(f"规则主表表头不符合十三列顺序契约：{source_path}")
 
     records: list[dict[str, str]] = []
     seen_sequences: set[str] = set()
@@ -103,6 +106,10 @@ def load_rule_table(path: Path | None = None) -> list[dict[str, str]]:
             raise ValueError(f"规则主表脚本序号重复：{sequence}")
         if record["备注"] not in RULE_TABLE_ALLOWED_NOTES:
             raise ValueError(f"规则主表第 {line_number} 行含非业务备注：{record['备注']}")
+        if record["网页类型"] not in RULE_TABLE_ALLOWED_WEBPAGE_TYPES:
+            raise ValueError(
+                f"规则主表第 {line_number} 行网页类型不在允许范围：{record['网页类型']}"
+            )
         aliases = record["机构别称"]
         if any(separator in aliases for separator in (",", "，", ";", "；", "/")):
             raise ValueError(

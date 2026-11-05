@@ -76,12 +76,17 @@ def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict[str, str
             names = [current.group(1)]
         else:
             names = split_names(text)
+        role_text = active_role
+        if active_role == "秘书长":
+            concurrent = re.search(r"起担任(.+)$", text)
+            if concurrent:
+                role_text += "；" + concurrent.group(1).rstrip("。")
         for name in names:
             if name not in rows_by_name:
                 rows_by_name[name] = {
                     "name": name,
-                    "duty": active_role,
-                    "evidence": active_role,
+                    "duty": role_text,
+                    "evidence": role_text,
                     "parser": page_rule["parser"],
                     "selector_summary": ".nameList领导职务标题与其后人员段落",
                 }
@@ -89,7 +94,7 @@ def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict[str, str
                 continue
             previous = rows_by_name[name]
             if active_role not in previous["duty"].split("；"):
-                previous["duty"] = f"{previous['duty']}；{active_role}"
+                previous["duty"] = f"{previous['duty']}；{role_text}"
                 previous["evidence"] = previous["duty"]
     return [rows_by_name[name] for name in order]
 

@@ -4,7 +4,9 @@ import html as html_lib
 import re
 import sys
 from pathlib import Path
-from urllib.parse import urljoin, urlsplit
+from urllib.parse import urljoin, urlsplit, urldefrag
+
+from bs4 import BeautifulSoup
 
 
 def resolve_project_dir() -> Path:
@@ -15,6 +17,8 @@ def resolve_project_dir() -> Path:
     raise RuntimeError("未找到包含 crawler_core 的项目根目录")
 
 PAGE_RULE = {'rule_id': '2212',
+ 'inline_parser_handles_fetch': True,
+ 'inline_fetch_collector': 'requests',
  'domain': 'rst.fujian.gov.cn',
  'page_type': '多人物详情合并页',
  'structure_group': '',
@@ -77,28 +81,36 @@ def _make_record(page_rule: dict, name: str, duty: str, detail_url: str) -> dict
 
 
 def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict[str, str]]:
-    """解析福建省人社厅厅领导卡片列表。"""
+    """只解析当前领导卡片，保持DOM顺序并排除隐藏节点。"""
+    if not html:
+        result = fetch_current_leader_page(page_rule)
+        html, final_url = result.html, result.final_url
+    soup = BeautifulSoup(html, "html.parser")
     records: list[dict[str, str]] = []
     seen: set[str] = set()
-    source_url = final_url or str(page_rule.get("url", ""))
-    for li_html in re.findall(r"(?is)<li\b[^>]*>.*?</li>", html):
-        name_match = re.search(r"(?is)<h1[^>]*>(.*?)</h1>", li_html)
-        duty_match = re.search(r"(?is)<em[^>]*>(.*?)</em>", li_html)
-        href_match = re.search(r'(?is)<a\b[^>]*href="([^"]+)"', li_html)
-        if not name_match or not duty_match:
+    for card in soup.select(".ld_div li"):
+        if any(
+            node.has_attr("hidden") or node.get("aria-hidden") == "true"
+            or "display:none" in str(node.get("style", "")).replace(" ", "").lower()
+            for node in [card, *card.parents]
+        ):
             continue
-        name = _clean_text(name_match.group(1))
-        duty = _clean_text(duty_match.group(1))
-        if not name or not duty or name in seen:
+        name_node, duty_node = card.select_one("h1"), card.select_one("em")
+        name = "".join(name_node.get_text().split()) if name_node else ""
+        duty = _clean_text(str(duty_node)) if duty_node else ""
+        if not re.fullmatch(r"[\u3400-\u9fff·]{2,10}", name) or not duty or name in seen:
             continue
         seen.add(name)
+        link = card.select_one("a[href]")
+        href = str(link.get("href", "")).strip() if link else ""
         detail_url = ""
-        if href_match:
-            href = href_match.group(1).strip()
-            if href and not href.lower().startswith(("#", "javascript:")):
-                candidate_url = urljoin(source_url, href)
-                if candidate_url.rstrip("/") != str(page_rule.get("url", "")).rstrip("/"):
-                    detail_url = candidate_url
+        if href and not href.lower().startswith(("#", "javascript:", "mailto:")):
+            candidate = urljoin(final_url, href)
+            if urldefrag(candidate)[0].rstrip("/") not in {
+                urldefrag(final_url)[0].rstrip("/"),
+                urldefrag(str(page_rule.get("url", "")))[0].rstrip("/"),
+            }:
+                detail_url = candidate
         records.append(_make_record(page_rule, name, duty, detail_url))
     return records
 
@@ -134,45 +146,12 @@ def fetch_current_leader_page(page_rule: dict) -> object:
 
 
 def main() -> None:
-    """运行当前页面级在线爬虫，并保留规则主表业务字段。"""
+    """使用统一运行器，旧入口回退保留在本页面解析流程内。"""
     project_dir = resolve_project_dir()
     if str(project_dir) not in sys.path:
         sys.path.insert(0, str(project_dir))
-
-    from crawler_core.business_sources import apply_business_source, normalize_script_sequence
-    from crawler_core.exporter import export_records
-    from crawler_core.naming import build_output_name
-    from crawler_core.runner import (
-        apply_business_location,
-        make_failure_record,
-        normalize_inline_rows,
-        normalize_record_source_urls,
-        prepare_records_for_export,
-    )
-
-    page_rule = apply_business_source(PAGE_RULE)
-    try:
-        page_result = fetch_current_leader_page(page_rule)
-        rows = normalize_inline_rows(
-            page_rule,
-            parse_page(page_result.html, page_result.final_url, page_rule),
-        )
-        if not rows:
-            raise RuntimeError("当前厅领导卡片解析结果为空")
-    except Exception as error:
-        rows = [make_failure_record(page_rule, str(error))]
-
-    normalize_record_source_urls(page_rule, rows)
-    apply_business_location(page_rule, rows)
-    prepare_records_for_export(rows)
-    for row in rows:
-        if not row.script_sequence:
-            row.script_sequence = normalize_script_sequence(page_rule.get("rule_id"))
-    output_path = project_dir / "outputs" / build_output_name(
-        str(page_rule.get("rule_id", "")),
-        str(page_rule.get("organization", "机构")),
-    )
-    export_records(output_path, rows)
+    from crawler_core.runner import run_page_adapter
+    output_path = run_page_adapter(PAGE_RULE, globals())
     print(f"输出文件：{output_path}")
 
 

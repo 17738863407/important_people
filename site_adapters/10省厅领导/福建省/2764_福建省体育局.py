@@ -18,6 +18,8 @@ def resolve_project_dir() -> Path:
 
 PAGE_RULE = {
     "rule_id": "2764",
+    "inline_parser_handles_fetch": True,
+    "inline_fetch_collector": "requests",
     "domain": "tyj.fujian.gov.cn",
     "page_type": "多人物详情合并页",
     "structure_group": "fujian_sports_leader_sidebar_v1",
@@ -59,6 +61,27 @@ def comparable_url(value: str) -> str:
 
 def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[dict[str, str]]:
     """按领导侧栏DOM顺序抽取姓名、原始职务和独立人物链接。"""
+    if not html:
+        # 旧个人目录已失效；仅从其上级领导栏目动态发现当前入口。
+        from crawler_core.fetcher import decode_response_text, requests_get_html
+
+        response = requests_get_html(str(page_rule["url"]), timeout=20, verify=True)
+        if response.status_code == 404:
+            listing_url = urljoin(str(page_rule["url"]), "../")
+            listing = requests_get_html(listing_url, timeout=20, verify=True)
+            listing.raise_for_status()
+            listing_soup = BeautifulSoup(decode_response_text(listing), "html.parser")
+            meta = listing_soup.select_one('meta[http-equiv="refresh"],meta[http-equiv="Refresh"]')
+            match = re.search(r"url\s*=\s*([^;]+)", str(meta.get("content", "")) if meta else "", re.I)
+            if not match:
+                raise RuntimeError("领导栏目未提供当前人物入口")
+            target = urljoin(listing.url, match.group(1).strip(" \"'"))
+            parts, listing_parts = urlsplit(target), urlsplit(listing.url)
+            if parts.netloc != listing_parts.netloc or not parts.path.startswith(listing_parts.path):
+                raise RuntimeError("领导栏目跳转超出当前站点栏目")
+            response = requests_get_html(target, timeout=20, verify=True)
+        response.raise_for_status()
+        html, final_url = decode_response_text(response), response.url
     soup = BeautifulSoup(html, "html.parser")
     entry_url = comparable_url(final_url)
     rows: list[dict[str, str]] = []

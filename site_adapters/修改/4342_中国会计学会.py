@@ -59,7 +59,13 @@ def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict]:
             continue
         for value in names:
             name = re.sub(r"\s+", "", value)
-            if re.fullmatch(r"[\u3400-\u9fff·]{2,6}", name) and name not in seen:
+            if not re.fullmatch(r"[\u3400-\u9fff·]{2,6}", name):
+                continue
+            if name in seen:
+                record = next(row for row in rows if row["name"] == name)
+                if current_duty not in record["duty"].split("；"):
+                    record["duty"] += "；" + current_duty
+            else:
                 seen.add(name)
                 rows.append({"name": name, "duty": current_duty, "detail_url": ""})
     if not rows:

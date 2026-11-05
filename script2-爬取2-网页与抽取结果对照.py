@@ -380,7 +380,7 @@ def main(
 
 if __name__ == "__main__":
     project_dir_value = r"important_people"
-    output_dir_value = r"important_people/outputs/x"
+    output_dir_value = r"important_people/outputs/失败"
     extension_dir_value = None
     output_dir_environment_value = "IMPORTANT_PERSON_COMPARE_OUTPUT_DIR"
     extension_dir_environment_value = "IMPORTANT_PERSON_COMPARE_EXTENSION_DIR"

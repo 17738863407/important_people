@@ -11,6 +11,7 @@ from pathlib import Path
 from typing import Iterable
 
 from tqdm import tqdm
+from crawler_core.rule_table import RULE_TABLE_FIELDS
 
 try:
     from workspace.tools.project_paths import resolve_external_path, resolve_project_path, timestamped_output_path
@@ -18,10 +19,7 @@ except ModuleNotFoundError:
     from project_paths import resolve_external_path, resolve_project_path, timestamped_output_path
 
 
-EXPECTED_HEADER = [
-    "组织体系", "目录链接", "机构类型", "机构层级", "所属省*", "所属市",
-    "机构名称", "机构别称", "官网链接", "领导链接", "脚本序号", "备注",
-]
+EXPECTED_HEADER = list(RULE_TABLE_FIELDS)
 
 
 def log_message(message: str, log_file: Path) -> None:
@@ -443,7 +441,7 @@ def validate_results(
 
     non_location_columns = [
         "组织体系", "目录链接", "机构类型", "机构层级", "机构名称",
-        "机构别称", "官网链接", "领导链接", "脚本序号", "备注"
+        "机构别称", "官网链接", "领导链接", "脚本序号", "备注", "网页类型"
     ]
     for rule_id, source_row in source_by_id.items():
         result_row = result_by_id[rule_id]

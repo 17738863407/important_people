@@ -14,6 +14,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 from tqdm import tqdm
+from crawler_core.rule_table import RULE_TABLE_FIELDS
 
 try:
     from workspace.tools.project_paths import resolve_project_path, timestamped_output_path
@@ -596,21 +597,8 @@ def render_rule_table(
     source_rows: list[dict[str, str]],
     matches: dict[str, MatchResult],
 ) -> bytes:
-    """按用户指定的十二列契约生成规则主表。"""
-    output_headers = [
-        "组织体系",
-        "目录链接",
-        "机构类型",
-        "机构层级",
-        "所属省*",
-        "所属市",
-        "机构名称",
-        "机构别称",
-        "官网链接",
-        "领导链接",
-        "脚本序号",
-        "备注",
-    ]
+    """按共享的十三列契约生成规则主表，保留网页类型。"""
+    output_headers = list(RULE_TABLE_FIELDS)
     output_lines = ["\t".join(output_headers)]
     for row in source_rows:
         match = matches[row["脚本序号"].zfill(4)]
@@ -627,6 +615,7 @@ def render_rule_table(
             "领导链接": rule_leader_url(row),
             "脚本序号": row["脚本序号"].zfill(4),
             "备注": row.get("备注", ""),
+            "网页类型": row.get("网页类型", ""),
         }
         output_lines.append("\t".join(clean_field(output_row.get(header, "")) for header in output_headers))
     newline, has_bom, has_final_newline = detect_format(source_path)
@@ -644,12 +633,9 @@ def verify_rendered_rule_table(
     text = output_bytes.decode("utf-8-sig")
     lines = text.splitlines()
     headers = lines[0].split("\t")
-    expected_headers = [
-        "组织体系", "目录链接", "机构类型", "机构层级", "所属省*", "所属市",
-        "机构名称", "机构别称", "官网链接", "领导链接", "脚本序号", "备注",
-    ]
+    expected_headers = list(RULE_TABLE_FIELDS)
     if headers != expected_headers:
-        raise ValueError(f"更新后的规则主表表头不符合十二列契约：{headers}")
+        raise ValueError(f"更新后的规则主表表头不符合十三列契约：{headers}")
     if len(lines) - 1 != len(source_rows):
         raise ValueError("更新后的规则主表记录数发生变化")
     sequence_index = headers.index("脚本序号")

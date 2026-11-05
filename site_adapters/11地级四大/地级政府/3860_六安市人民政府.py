@@ -29,7 +29,7 @@ def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[
     headers = {"User-Agent": "Mozilla/5.0", "Referer": source}
     response = session.get(source, headers=headers, timeout=25)
     response.raise_for_status()
-    response.encoding = response.apparent_encoding or response.encoding
+    response.encoding = "utf-8"
     soup = BeautifulSoup(response.text, "html.parser")
     rows: list[dict[str, str]] = []
     for group in soup.select("#szf-ledcont-szfld > div"):
@@ -41,7 +41,7 @@ def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[
         script_url = urljoin(response.url, str(script_node.get("src", "")))
         script_response = session.get(script_url, headers=headers, timeout=25)
         script_response.raise_for_status()
-        script_response.encoding = script_response.apparent_encoding or script_response.encoding
+        script_response.encoding = "utf-8"
         fragments = re.findall(
             r"var\s+linkLi\s*=\s*'(?P<html>.*?)';",
             script_response.text,

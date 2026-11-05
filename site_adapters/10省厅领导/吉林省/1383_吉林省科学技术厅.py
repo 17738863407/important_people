@@ -28,7 +28,7 @@ def clean_duty(text: str) -> str:
     duty = normalize_space(text)
     duty = re.sub(r"\s+([、，,）)])", r"\1", duty)
     duty = re.sub(r"([（(、，,])\s+", r"\1", duty)
-    duty = re.sub(r"(?:（挂职）|\(挂职\)|[<＜]挂职[>＞])", "", duty)
+    # 挂职限定属于原始职务证据，必须保留。
     duty = re.sub(r"[，,、；;：:]\s*$", "", duty).strip()
     return duty.rstrip("。.")
 

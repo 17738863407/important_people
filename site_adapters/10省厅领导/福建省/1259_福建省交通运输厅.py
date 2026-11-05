@@ -158,7 +158,7 @@ def parse_page(html: str, final_url: str, page_rule: dict[str, object]) -> list[
             {
                 "name": name,
                 "duty": duty,
-                "detail_url": detail_url,
+                "detail_url": "" if detail_url.rstrip("/") == base_url.rstrip("/") else detail_url,
                 "evidence": evidence,
                 "parser": parser,
                 "selector_summary": selector_summary,

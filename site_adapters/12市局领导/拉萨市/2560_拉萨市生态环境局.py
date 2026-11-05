@@ -100,26 +100,31 @@ def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict[str, str
     from crawler_core.fetcher import fetch_html_with_strategy
 
     entry_url = str(page_rule.get("url") or final_url)
-    parsed_entry = urlparse(entry_url)
-    site_root = f"{parsed_entry.scheme}://{parsed_entry.netloc}/"
-    home_result = fetch_html_with_strategy(site_root, strategy="raw_http", timeout=60)
-    home_soup = BeautifulSoup(home_result.html, "html.parser")
-    current_link = next(
-        (
-            link
-            for link in home_soup.select("a[href]")
-            if normalize_space(link.get_text(" ", strip=True)) == "局长"
-            and "ldxx" in str(link.get("href", ""))
-        ),
-        None,
-    )
-    if current_link is None:
-        raise RuntimeError("官网首页领导信息区域未发现当前局长入口")
-    current_url = urljoin(home_result.final_url, str(current_link.get("href", "")))
-    current_result = fetch_html_with_strategy(current_url, strategy="raw_http", timeout=60)
-    html = current_result.html
-    final_url = current_result.final_url
+    # 优先使用规则主表的真实领导入口；官网首页可能独立改版或受403防护。
+    if not html:
+        try:
+            entry_result = fetch_html_with_strategy(entry_url, strategy="raw_http", timeout=30)
+            html, final_url = entry_result.html, entry_result.final_url
+        except Exception:
+            html = ""
     soup = BeautifulSoup(html, "html.parser")
+    if not soup.select(".kp.lead, .kp.ldlist"):
+        parsed_entry = urlparse(entry_url)
+        site_root = f"{parsed_entry.scheme}://{parsed_entry.netloc}/"
+        home_result = fetch_html_with_strategy(site_root, strategy="raw_http", timeout=30)
+        home_soup = BeautifulSoup(home_result.html, "html.parser")
+        current_link = next(
+            (link for link in home_soup.select("a[href]")
+             if normalize_space(link.get_text(" ", strip=True)) == "局长"
+             and "ldxx" in str(link.get("href", ""))),
+            None,
+        )
+        if current_link is None:
+            raise RuntimeError("当前领导入口及官网首页均未发现可验证的领导区域")
+        current_url = urljoin(home_result.final_url, str(current_link.get("href", "")))
+        current_result = fetch_html_with_strategy(current_url, strategy="raw_http", timeout=30)
+        html, final_url = current_result.html, current_result.final_url
+        soup = BeautifulSoup(html, "html.parser")
     rows: list[dict[str, str]] = []
     seen_names: set[str] = set()
 

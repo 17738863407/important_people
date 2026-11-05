@@ -75,11 +75,13 @@ def _normalize_name(value: str) -> str:
 def _extract_detail_duty(detail_html: str, name: str) -> str:
     soup = BeautifulSoup(detail_html, "html.parser")
     description = soup.select_one('meta[name="Description"][content]')
+    if soup.title is None or _normalize_name(soup.title.get_text()) != name:
+        raise RuntimeError("人物详情页标题与当前列表姓名不一致")
     content = _clean_text(str(description.get("content") or "")) if description else ""
     org_index = content.rfind("辽宁省商务厅")
     if org_index < 0:
         return ""
-    duty = _clean_text(content[org_index + len("辽宁省商务厅"):]).removesuffix("。").strip()
+    duty = _clean_text(content[org_index:]).removesuffix("。").strip()
     return duty if any(keyword in duty for keyword in ("书记", "厅长", "组长", "成员")) else ""
 
 

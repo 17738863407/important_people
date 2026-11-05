@@ -31,10 +31,11 @@ PAGE_RULE = {
 
 def extract_current_duty(name: str, text: str) -> str:
     """从姓名后的首句提取现职，并排除明确的学位、学历和政治面貌字段。"""
-    matched = re.match(rf"^{re.escape(name)}[，,]\s*([^。]+)", text)
+    matched = re.match(rf"^{re.escape(name)}[，,]\s*(.+)", text)
     if matched is None:
         return ""
-    fields = [field.strip() for field in re.split(r"[，,、]", matched.group(1))]
+    sentences = matched.group(1).split("。")
+    fields = [field.strip() for field in re.split(r"[，,、]", sentences[0])]
     duties = [
         field
         for field in fields
@@ -42,6 +43,20 @@ def extract_current_duty(name: str, text: str) -> str:
         and field not in {"博士", "中共党员"}
         and not field.endswith(("学历", "学位"))
     ]
+    for sentence in sentences[1:]:
+        sentence = sentence.strip()
+        # 本页各卡片先列当前身份，再从出生/学习年份开始叙述履历。
+        if re.match(r"^(?:\d{4}|曾任|主要从事|长期从事|主持|近年来|获)", sentence):
+            break
+        if not sentence:
+            continue
+        for clause in sentence.split("；"):
+            clause = clause.strip()
+            if re.search(r"获得者|称号|国家级人选", clause):
+                parts = [part.strip() for part in re.split(r"[，,]", clause)]
+                duties.extend(part for part in parts if part and not re.search(r"获得者|称号|国家级人选", part))
+            else:
+                duties.append(clause.removeprefix("现任"))
     return "；".join(duties)
 
 

@@ -26,14 +26,14 @@ PAGE_RULE = {
     "fetch_mode": "online",
     "extract_mode": "list_to_detail",
     "collector": "static_http",
-    "parser": "page_inline_suqian_party_detail_chain_v1",
+    "parser": "page_inline_suqian_party_detail_chain_v2",
     "leader_region_selector": ".infoTab .bd",
     "name_selector": ".nameList a[title]",
     "duty_selector": ".ldzcInfoLeftl p",
     "detail_link_selector": ".nameList a[href]",
     "content_scope": {"start_anchor": "市委", "end_anchor": "市人大", "include_selectors": [".infoTab"], "exclude_selectors": []},
     "detail_strategy": {"required": True, "mode": "person_name_link", "candidate_links": []},
-    "risk_flag": "同页四套班子仅列姓名，需取首个市委名单并逐页读取职务",
+    "risk_flag": "按市委页签对应名单逐人读取职务并核对姓名；入口本身人物保留，详情同址留空；任何人物失败须明确报错，禁止静默漏人",
     "confidence": "high",
     "filter_policy": "strong_no_wordlist",
     "locator_strategy": "custom_parse_page",
@@ -45,7 +45,7 @@ def clean_text(value: str) -> str:
     return re.sub(r"\s+", " ", str(value or "").replace("\u3000", " ").replace("\u00a0", " ")).strip()
 
 
-def fetch_duty(detail_url: str) -> str:
+def fetch_duty(detail_url: str, name: str) -> str:
     """在线读取人物详情页左栏的明确现任职务。"""
     urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
     session = requests.Session()
@@ -53,6 +53,9 @@ def fetch_duty(detail_url: str) -> str:
     response = session.get(detail_url, timeout=20, verify=False, headers={"User-Agent": "Mozilla/5.0"})
     response.raise_for_status()
     soup = BeautifulSoup(response.content, "html.parser")
+    name_node = soup.select_one(".ldzcInfoLeftl h4")
+    if name_node is None or re.sub(r"\s+", "", name_node.get_text()) != name:
+        raise RuntimeError(f"详情页与当前人物不对应：{name}")
     node = soup.select_one(".ldzcInfoLeftl p")
     return clean_text(node.get_text(" ", strip=True) if node else "")
 
@@ -61,21 +64,24 @@ def parse_page(html: str, final_url: str, page_rule: dict) -> list[dict[str, str
     """保持市委姓名栏顺序，动态访问详情页取得职务证据。"""
     soup = BeautifulSoup(html, "html.parser")
     name_lists = soup.select(".infoTab .bd > ul.nameList")
-    if not name_lists:
-        return []
+    tabs = [clean_text(node.get_text()) for node in soup.select(".infoTab .hd > li")]
+    if len(tabs) != len(name_lists) or tabs.count("市委") != 1:
+        raise RuntimeError("市委页签与人物名单无法唯一对应")
+    name_list = name_lists[tabs.index("市委")]
     base_url = final_url or str(page_rule.get("url", ""))
     rows: list[dict[str, str]] = []
-    for link in name_lists[0].select("a[href][title]"):
+    for link in name_list.select("a[href][title]"):
         name = re.sub(r"\s+", "", clean_text(link.get_text(" ", strip=True)))
         if not re.fullmatch(r"[\u4e00-\u9fff·]{2,5}", name):
             continue
         detail_url = urljoin(base_url, str(link.get("href", "")))
-        try:
-            duty = fetch_duty(detail_url)
-        except requests.RequestException:
-            duty = ""
+        if detail_url.rstrip("/") == base_url.rstrip("/"):
+            node = soup.select_one(".ldzcInfoLeftl p")
+            duty = clean_text(node.get_text(" ", strip=True) if node else "")
+        else:
+            duty = fetch_duty(detail_url, name)
         if not duty:
-            continue
+            raise RuntimeError(f"当前人物没有明确职务证据：{name}")
         if detail_url.rstrip("/") == base_url.rstrip("/"):
             detail_url = ""
         rows.append({"name": name, "duty": duty, "evidence": duty, "detail_url": detail_url, "confidence": "high", "parser": str(page_rule.get("parser", ""))})

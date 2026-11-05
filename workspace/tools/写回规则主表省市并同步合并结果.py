@@ -11,6 +11,7 @@ from pathlib import Path
 from typing import Iterable
 
 from tqdm import tqdm
+from crawler_core.rule_table import RULE_TABLE_FIELDS
 
 try:
     from workspace.tools.project_paths import resolve_project_path, timestamped_output_path
@@ -287,10 +288,7 @@ if __name__ == "__main__":
         "important_people/workspace/reports/规则主表与合并结果省市写入报告.txt", anchor=__file__
     )
     execution_log_folder = resolve_project_path("important_people/workspace/log", anchor=__file__)
-    rule_main_header = [
-        "组织体系", "目录链接", "机构类型", "机构层级", "所属省*", "所属市",
-        "机构名称", "机构别称", "官网链接", "领导链接", "脚本序号", "备注",
-    ]
+    rule_main_header = list(RULE_TABLE_FIELDS)
     confirmed_mapping_header = ["脚本序号", "机构", "所属省*", "所属市"]
     merged_result_header = [
         "姓名*", "职务*", "排序*", "职级*", "所属省*", "所属市", "依据链接",

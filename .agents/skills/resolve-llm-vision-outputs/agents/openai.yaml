@@ -1,0 +1,4 @@
+interface:
+  display_name: "解析视觉输出"
+  short_description: "处理重要人物项目中需要大模型视觉解析的输出 TXT。"
+  default_prompt: "使用 $resolve-llm-vision-outputs 处理本项目的待识别图片结果，并按十二列契约验证后写回源 TXT。"
