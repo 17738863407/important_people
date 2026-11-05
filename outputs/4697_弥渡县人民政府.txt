@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张宝军		1		云南省	大理白族自治州	https://www.midu.gov.cn/mdxrmzf/c102449/pc/list.html	弥渡县人民政府县长		弥渡县人民政府	https://www.midu.gov.cn/mdxrmzf/xc/pc/content/1988871172845047808/content_1988871172845047808.html	4697
+郑友波		2		云南省	大理白族自治州	https://www.midu.gov.cn/mdxrmzf/c102449/pc/list.html	弥渡县人民政府常务副县长		弥渡县人民政府	https://www.midu.gov.cn/mdxrmzf/cwfxc/pc/content/1988871171590950912/content_1988871171590950912.html	4697
+顾壹壹		3		云南省	大理白族自治州	https://www.midu.gov.cn/mdxrmzf/c102449/pc/list.html	弥渡县人民政府副县长（挂职）		弥渡县人民政府	https://www.midu.gov.cn/mdxrmzf/fxc/pc/content/1988871180759699456/content_1988871180759699456.html	4697
+自永康		4		云南省	大理白族自治州	https://www.midu.gov.cn/mdxrmzf/c102449/pc/list.html	弥渡县人民政府副县长		弥渡县人民政府	https://www.midu.gov.cn/mdxrmzf/fxc/pc/content/1988871144323780608/content_1988871144323780608.html	4697
+冯安梅		5		云南省	大理白族自治州	https://www.midu.gov.cn/mdxrmzf/c102449/pc/list.html	弥渡县人民政府副县长		弥渡县人民政府	https://www.midu.gov.cn/mdxrmzf/fxc/pc/content/1988871165215608832/content_1988871165215608832.html	4697
+成杨		6		云南省	大理白族自治州	https://www.midu.gov.cn/mdxrmzf/c102449/pc/list.html	弥渡县人民政府副县长		弥渡县人民政府	https://www.midu.gov.cn/mdxrmzf/fxc/pc/content/2068869197977407488/content_2068869197977407488.html	4697
+杨剑		7		云南省	大理白族自治州	https://www.midu.gov.cn/mdxrmzf/c102449/pc/list.html	弥渡县人民政府副县长		弥渡县人民政府	https://www.midu.gov.cn/mdxrmzf/fxc/pc/content/2068869240113385472/content_2068869240113385472.html	4697
+张晓伟		8		云南省	大理白族自治州	https://www.midu.gov.cn/mdxrmzf/c102449/pc/list.html	弥渡县人民政府副县长（挂职）		弥渡县人民政府	https://www.midu.gov.cn/mdxrmzf/fxc/pc/content/2068869281297256448/content_2068869281297256448.html	4697

@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+窦小军		1		云南省	楚雄彝族自治州	https://www.ynlf.gov.cn/zfxxgk/fdzdgknr/zfld.htm	市长		禄丰市人民政府	https://www.ynlf.gov.cn/info/1046/40828.htm	4661
+李艳刚		2		云南省	楚雄彝族自治州	https://www.ynlf.gov.cn/zfxxgk/fdzdgknr/zfld.htm	常务副市长		禄丰市人民政府	https://www.ynlf.gov.cn/info/1046/40829.htm	4661
+马利锋		3		云南省	楚雄彝族自治州	https://www.ynlf.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副市长		禄丰市人民政府	https://www.ynlf.gov.cn/info/1046/40835.htm	4661
+唐云		4		云南省	楚雄彝族自治州	https://www.ynlf.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副市长		禄丰市人民政府	https://www.ynlf.gov.cn/info/1046/127314.htm	4661
+周建良		5		云南省	楚雄彝族自治州	https://www.ynlf.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副市长		禄丰市人民政府	https://www.ynlf.gov.cn/info/1046/165884.htm	4661
+杨丽梅		6		云南省	楚雄彝族自治州	https://www.ynlf.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副市长		禄丰市人民政府	https://www.ynlf.gov.cn/info/1046/40832.htm	4661

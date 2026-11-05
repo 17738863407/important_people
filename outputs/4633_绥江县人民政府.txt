@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈皓霁		1		云南省	昭通市	https://www.suijiang.gov.cn/channels/4421.html	（县委副书记、县长）		绥江县人民政府	https://www.suijiang.gov.cn/contents/4959/27280.html	4633
+宋盛超		2		云南省	昭通市	https://www.suijiang.gov.cn/channels/4421.html	（县委常委、常务副县长）		绥江县人民政府	https://www.suijiang.gov.cn/contents/4960/31588.html	4633
+李岗		3		云南省	昭通市	https://www.suijiang.gov.cn/channels/4421.html	（县委常委、副县长）		绥江县人民政府	https://www.suijiang.gov.cn/contents/4960/34474.html	4633
+周飞		4		云南省	昭通市	https://www.suijiang.gov.cn/channels/4421.html	（副县长）		绥江县人民政府	https://www.suijiang.gov.cn/contents/4960/7339.html	4633
+唐梅		5		云南省	昭通市	https://www.suijiang.gov.cn/channels/4421.html	（副县长）		绥江县人民政府	https://www.suijiang.gov.cn/contents/4960/27281.html	4633
+赛福泉		6		云南省	昭通市	https://www.suijiang.gov.cn/channels/4421.html	（副县长）		绥江县人民政府	https://www.suijiang.gov.cn/contents/4960/34475.html	4633
+邓治国		7		云南省	昭通市	https://www.suijiang.gov.cn/channels/4421.html	（副县长）		绥江县人民政府	https://www.suijiang.gov.cn/contents/4960/19636.html	4633
+代顺文		8		云南省	昭通市	https://www.suijiang.gov.cn/channels/4421.html	（副县长、县公安局局长）		绥江县人民政府	https://www.suijiang.gov.cn/contents/4960/7338.html	4633
+陈强		9		云南省	昭通市	https://www.suijiang.gov.cn/channels/4421.html	（副县长）		绥江县人民政府	https://www.suijiang.gov.cn/contents/4960/34476.html	4633
+杨杰		10		云南省	昭通市	https://www.suijiang.gov.cn/channels/4421.html	（县政府三级调研员）		绥江县人民政府	https://www.suijiang.gov.cn/contents/4960/34477.html	4633

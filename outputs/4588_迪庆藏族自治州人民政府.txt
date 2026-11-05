@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李燕兰		1		云南省		https://www.diqing.gov.cn/zfxxgk_dqzzf/zfldxx.html	迪庆藏族自治州人民政府州长		迪庆藏族自治州人民政府	https://www.diqing.gov.cn/zfxxgk_dqzzf/ldyview/58/1272.html	4588
+杨学文		2		云南省		https://www.diqing.gov.cn/zfxxgk_dqzzf/zfldxx.html	迪庆藏族自治州人民政府常务副州长		迪庆藏族自治州人民政府	https://www.diqing.gov.cn/zfxxgk_dqzzf/ldyview/58/1275.html	4588
+吴靖		3		云南省		https://www.diqing.gov.cn/zfxxgk_dqzzf/zfldxx.html	副州长		迪庆藏族自治州人民政府	https://www.diqing.gov.cn/zfxxgk_dqzzf/ldyview/58/1205.html	4588
+余桂芬		4		云南省		https://www.diqing.gov.cn/zfxxgk_dqzzf/zfldxx.html	迪庆藏族自治州人民政府副州长		迪庆藏族自治州人民政府	https://www.diqing.gov.cn/zfxxgk_dqzzf/ldyview/58/431.html	4588
+李涛		5		云南省		https://www.diqing.gov.cn/zfxxgk_dqzzf/zfldxx.html	迪庆藏族自治州人民政府副州长		迪庆藏族自治州人民政府	https://www.diqing.gov.cn/zfxxgk_dqzzf/ldyview/58/1484.html	4588
+万丹青		6		云南省		https://www.diqing.gov.cn/zfxxgk_dqzzf/zfldxx.html	迪庆藏族自治州人民政府副州长		迪庆藏族自治州人民政府	https://www.diqing.gov.cn/zfxxgk_dqzzf/ldyview/58/1314.html	4588
+马国忠		7		云南省		https://www.diqing.gov.cn/zfxxgk_dqzzf/zfldxx.html	迪庆藏族自治州人民政府副州长		迪庆藏族自治州人民政府	https://www.diqing.gov.cn/zfxxgk_dqzzf/ldyview/58/500.html	4588
+段如助		8		云南省		https://www.diqing.gov.cn/zfxxgk_dqzzf/zfldxx.html	迪庆藏族自治州人民政府副州长		迪庆藏族自治州人民政府	https://www.diqing.gov.cn/zfxxgk_dqzzf/ldyview/58/1292.html	4588
+庄小平		9		云南省		https://www.diqing.gov.cn/zfxxgk_dqzzf/zfldxx.html	迪庆藏族自治州人民政府秘书长		迪庆藏族自治州人民政府	https://www.diqing.gov.cn/zfxxgk_dqzzf/ldyview/58/498.html	4588

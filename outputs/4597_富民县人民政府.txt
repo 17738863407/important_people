@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨再林		1		云南省	昆明市	http://www.kmfm.gov.cn/zfxxgk/fdzdgknr/zfld/	县长		富民县人民政府	http://www.kmfm.gov.cn/c/2022-09-02/6176758.shtml	4597
+吴志国		2		云南省	昆明市	http://www.kmfm.gov.cn/zfxxgk/fdzdgknr/zfld/	副县长		富民县人民政府	http://www.kmfm.gov.cn/c/2024-08-14/5097198.shtml	4597
+李杰		3		云南省	昆明市	http://www.kmfm.gov.cn/zfxxgk/fdzdgknr/zfld/	副县长		富民县人民政府	http://www.kmfm.gov.cn/c/2023-08-02/6675903.shtml	4597
+帕钱保		4		云南省	昆明市	http://www.kmfm.gov.cn/zfxxgk/fdzdgknr/zfld/	副县长		富民县人民政府	http://www.kmfm.gov.cn/c/2022-10-26/5097202.shtml	4597
+王丹		5		云南省	昆明市	http://www.kmfm.gov.cn/zfxxgk/fdzdgknr/zfld/	副县长		富民县人民政府	http://www.kmfm.gov.cn/c/2023-06-13/6651391.shtml	4597
+李黎		6		云南省	昆明市	http://www.kmfm.gov.cn/zfxxgk/fdzdgknr/zfld/	副县长		富民县人民政府	http://www.kmfm.gov.cn/c/2023-07-31/6674404.shtml	4597
+李俊荣		7		云南省	昆明市	http://www.kmfm.gov.cn/zfxxgk/fdzdgknr/zfld/	副县长		富民县人民政府	http://www.kmfm.gov.cn/c/2026-05-22/7135182.shtml	4597

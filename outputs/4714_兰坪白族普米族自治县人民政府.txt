@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+和春梅		1		云南省	怒江傈僳族自治州	https://www.lanping.gov.cn/html/xzf/	县长		兰坪白族普米族自治县人民政府	https://www.lanping.gov.cn/2025/0423/1707.html	4714
+和磊域		2		云南省	怒江傈僳族自治州	https://www.lanping.gov.cn/html/xzf/	常务副县长		兰坪白族普米族自治县人民政府	https://www.lanping.gov.cn/2026/0713/1403.html	4714
+岳阳		3		云南省	怒江傈僳族自治州	https://www.lanping.gov.cn/html/xzf/	副县长		兰坪白族普米族自治县人民政府	https://www.lanping.gov.cn/2025/0829/1406.html	4714
+张孟伟		4		云南省	怒江傈僳族自治州	https://www.lanping.gov.cn/html/xzf/	副县长		兰坪白族普米族自治县人民政府	https://www.lanping.gov.cn/2025/0829/1751.html	4714
+刘慧海		5		云南省	怒江傈僳族自治州	https://www.lanping.gov.cn/html/xzf/	副县长		兰坪白族普米族自治县人民政府	https://www.lanping.gov.cn/2025/0829/1408.html	4714
+余金成		6		云南省	怒江傈僳族自治州	https://www.lanping.gov.cn/html/xzf/	副县长		兰坪白族普米族自治县人民政府	https://www.lanping.gov.cn/2025/1227/1845.html	4714
+简崇云		7		云南省	怒江傈僳族自治州	https://www.lanping.gov.cn/html/xzf/	副县长		兰坪白族普米族自治县人民政府	https://www.lanping.gov.cn/2025/0829/1409.html	4714
+和仕俊		8		云南省	怒江傈僳族自治州	https://www.lanping.gov.cn/html/xzf/	副县长		兰坪白族普米族自治县人民政府	https://www.lanping.gov.cn/2025/0829/1410.html	4714
+何志昌		9		云南省	怒江傈僳族自治州	https://www.lanping.gov.cn/html/xzf/	副县长		兰坪白族普米族自治县人民政府	https://www.lanping.gov.cn/2026/0630/1462.html	4714

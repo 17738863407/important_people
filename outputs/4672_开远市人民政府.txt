@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+普传锋		1		云南省	红河哈尼族彝族自治州	https://www.hhky.gov.cn/zfxxgk/fdzdgknr/zfld.htm	市长		开远市人民政府	https://www.hhky.gov.cn/info/1021/234132.htm	4672
+叶兴成		2		云南省	红河哈尼族彝族自治州	https://www.hhky.gov.cn/zfxxgk/fdzdgknr/zfld.htm	常务副市长		开远市人民政府	https://www.hhky.gov.cn/info/1021/234122.htm	4672
+姜芳		3		云南省	红河哈尼族彝族自治州	https://www.hhky.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副市长		开远市人民政府	https://www.hhky.gov.cn/info/1021/234102.htm	4672
+王敬		4		云南省	红河哈尼族彝族自治州	https://www.hhky.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副市长、市公安局局长		开远市人民政府	https://www.hhky.gov.cn/info/1021/234092.htm	4672
+杨昀衡		5		云南省	红河哈尼族彝族自治州	https://www.hhky.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副市长		开远市人民政府	https://www.hhky.gov.cn/info/1021/234062.htm	4672
+苏建勇		6		云南省	红河哈尼族彝族自治州	https://www.hhky.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副市长		开远市人民政府	https://www.hhky.gov.cn/info/1021/769082.htm	4672
+肖静		7		云南省	红河哈尼族彝族自治州	https://www.hhky.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副市长		开远市人民政府	https://www.hhky.gov.cn/info/1021/748922.htm	4672

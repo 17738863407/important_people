@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张忠文		1		云南省	曲靖市	https://www.ql.gov.cn/gov/public/leader/2zfld.html	区委副书记、区长		曲靖市麒麟区人民政府	https://www.ql.gov.cn/gov/public/detail/2zfld/14088.html	4603
+李周		2		云南省	曲靖市	https://www.ql.gov.cn/gov/public/leader/2zfld.html	区政府党组成员、副区长		曲靖市麒麟区人民政府	https://www.ql.gov.cn/gov/public/detail/2zfld/76509.html	4603
+高兴志		3		云南省	曲靖市	https://www.ql.gov.cn/gov/public/leader/2zfld.html	区政府党组成员、副区长		曲靖市麒麟区人民政府	https://www.ql.gov.cn/gov/public/detail/2zfld/33942.html	4603
+刘兴丽		4		云南省	曲靖市	https://www.ql.gov.cn/gov/public/leader/2zfld.html	区政府党组成员、副区长		曲靖市麒麟区人民政府	https://www.ql.gov.cn/gov/public/detail/2zfld/14095.html	4603
+丁连高		5		云南省	曲靖市	https://www.ql.gov.cn/gov/public/leader/2zfld.html	区政府党组成员、副区长		曲靖市麒麟区人民政府	https://www.ql.gov.cn/gov/public/detail/2zfld/53824.html	4603
+李维敏		6		云南省	曲靖市	https://www.ql.gov.cn/gov/public/leader/2zfld.html	区政府党组成员、副区长		曲靖市麒麟区人民政府	https://www.ql.gov.cn/gov/public/detail/2zfld/69400.html	4603
+王俊		7		云南省	曲靖市	https://www.ql.gov.cn/gov/public/leader/2zfld.html	区政府党组成员、副区长		曲靖市麒麟区人民政府	https://www.ql.gov.cn/gov/public/detail/2zfld/76578.html	4603

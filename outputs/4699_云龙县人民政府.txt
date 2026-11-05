@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵子恒		1		云南省	大理白族自治州	https://www.ylx.gov.cn/ylxrmzf/c102538/pc/list.html	县委副书记、县人民政府县长		云龙县人民政府	https://www.ylx.gov.cn/ylxrmzf/xz/pc/content/2028289409684639744/content_2028289409684639744.html	4699
+张品杰		2		云南省	大理白族自治州	https://www.ylx.gov.cn/ylxrmzf/c102538/pc/list.html	云龙县委常委、县政府党组副书记、常务副县长		云龙县人民政府	https://www.ylx.gov.cn/ylxrmzf/fxz/pc/content/2067444038351507456/content_2067444038351507456.html	4699
+胡灵锋		3		云南省	大理白族自治州	https://www.ylx.gov.cn/ylxrmzf/c102538/pc/list.html	云龙县委常委、县人民政府副县长（挂职）		云龙县人民政府	https://www.ylx.gov.cn/ylxrmzf/fxz/pc/content/1990629782524628992/content_1990629782524628992.html	4699
+黄毅		4		云南省	大理白族自治州	https://www.ylx.gov.cn/ylxrmzf/c102538/pc/list.html	云龙县人民政府党组成员、副县长		云龙县人民政府	https://www.ylx.gov.cn/ylxrmzf/fxz/pc/content/2019605662974119936/content_2019605662974119936.html	4699
+韩志茶		5		云南省	大理白族自治州	https://www.ylx.gov.cn/ylxrmzf/c102538/pc/list.html	云龙县政府党组成员、副县长		云龙县人民政府	https://www.ylx.gov.cn/ylxrmzf/fxz/pc/content/1990673579761569792/content_1990673579761569792.html	4699
+田晓君		6		云南省	大理白族自治州	https://www.ylx.gov.cn/ylxrmzf/c102538/pc/list.html	云龙县人民政府党组成员、副县长、县公安局党委书记、局长、督察长		云龙县人民政府	https://www.ylx.gov.cn/ylxrmzf/fxz/pc/content/1990673942434648064/content_1990673942434648064.html	4699
+张丽池		7		云南省	大理白族自治州	https://www.ylx.gov.cn/ylxrmzf/c102538/pc/list.html	云龙县人民政府副县长		云龙县人民政府	https://www.ylx.gov.cn/ylxrmzf/fxz/pc/content/1990674657597034496/content_1990674657597034496.html	4699
+彭伟		8		云南省	大理白族自治州	https://www.ylx.gov.cn/ylxrmzf/c102538/pc/list.html	云龙县人民政府党组成员、副县长		云龙县人民政府	https://www.ylx.gov.cn/ylxrmzf/fxz/pc/content/1990675011915059200/content_1990675011915059200.html	4699
+梁春江		9		云南省	大理白族自治州	https://www.ylx.gov.cn/ylxrmzf/c102538/pc/list.html	云龙县人民政府副县长（挂职）		云龙县人民政府	https://www.ylx.gov.cn/ylxrmzf/fxz/pc/content/2102580669236428800/content_2102580669236428800.html	4699

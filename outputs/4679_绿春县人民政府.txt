@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+龙艳雄		1		云南省	红河哈尼族彝族自治州	https://www.hhlc.gov.cn/xrmzf.htm	县长		绿春县人民政府	https://www.hhlc.gov.cn/info/1021/82581.htm	4679
+李绍昌		2		云南省	红河哈尼族彝族自治州	https://www.hhlc.gov.cn/xrmzf.htm	县委常委、常务副县长		绿春县人民政府	https://www.hhlc.gov.cn/info/1021/312501.htm	4679
+朱江		3		云南省	红河哈尼族彝族自治州	https://www.hhlc.gov.cn/xrmzf.htm	县委常委、副县长(挂职)		绿春县人民政府	https://www.hhlc.gov.cn/info/1021/82651.htm	4679
+李吉芳		4		云南省	红河哈尼族彝族自治州	https://www.hhlc.gov.cn/xrmzf.htm	副县长		绿春县人民政府	https://www.hhlc.gov.cn/info/1021/82601.htm	4679
+张云		5		云南省	红河哈尼族彝族自治州	https://www.hhlc.gov.cn/xrmzf.htm	副县长		绿春县人民政府	https://www.hhlc.gov.cn/info/1021/82621.htm	4679
+李聪		6		云南省	红河哈尼族彝族自治州	https://www.hhlc.gov.cn/xrmzf.htm	副县长		绿春县人民政府	https://www.hhlc.gov.cn/info/1021/82611.htm	4679
+赵恒		7		云南省	红河哈尼族彝族自治州	https://www.hhlc.gov.cn/xrmzf.htm	副县长		绿春县人民政府	https://www.hhlc.gov.cn/info/1021/82631.htm	4679
+何荣山		8		云南省	红河哈尼族彝族自治州	https://www.hhlc.gov.cn/xrmzf.htm	副县长(挂职)		绿春县人民政府	https://www.hhlc.gov.cn/info/1021/82661.htm	4679
+王虎		9		云南省	红河哈尼族彝族自治州	https://www.hhlc.gov.cn/xrmzf.htm	副县长(挂职)		绿春县人民政府	https://www.hhlc.gov.cn/info/1021/216271.htm	4679

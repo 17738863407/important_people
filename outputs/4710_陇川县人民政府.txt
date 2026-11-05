@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈娥昌		1		云南省	德宏傣族景颇族自治州	https://www.dhlc.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	县长		陇川县人民政府	https://www.dhlc.gov.cn/Web/_F0_0_6OU5AR8Q667AFEDAD87A4D0D81.htm	4710
+寸永正		2		云南省	德宏傣族景颇族自治州	https://www.dhlc.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副县长		陇川县人民政府	https://www.dhlc.gov.cn/Web/_F0_0_6O8NF2G9CF6120FF7B7E474F9E.htm	4710
+陈程		3		云南省	德宏傣族景颇族自治州	https://www.dhlc.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副县长		陇川县人民政府	https://www.dhlc.gov.cn/Web/_F0_0_6O8NKOJG15815A4D523B42DAB9.htm	4710
+左有林		4		云南省	德宏傣族景颇族自治州	https://www.dhlc.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副县长		陇川县人民政府	https://www.dhlc.gov.cn/Web/_F0_0_6O8NNJOKBC6105F8F25B4F0A91.htm	4710
+王学刚		5		云南省	德宏傣族景颇族自治州	https://www.dhlc.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副县长		陇川县人民政府	https://www.dhlc.gov.cn/Web/_F0_0_6O8NQWWQ81687D02E9F64BCFBC.htm	4710
+李明		6		云南省	德宏傣族景颇族自治州	https://www.dhlc.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副县长		陇川县人民政府	https://www.dhlc.gov.cn/Web/_F0_0_6O8NTVZC34024F4792014C6386.htm	4710
+刘珺琳		7		云南省	德宏傣族景颇族自治州	https://www.dhlc.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副县长		陇川县人民政府	https://www.dhlc.gov.cn/Web/_F0_0_6O8NWX6CD09CCAF09A08490A9F.htm	4710

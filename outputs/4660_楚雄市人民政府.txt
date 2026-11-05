@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+吴学剑		1		云南省	楚雄彝族自治州	http://www.cxs.gov.cn/zfxxgk/fdzdgknr/ldzc.htm	市委副书记、市长、楚雄高新区党工委书记		楚雄市人民政府	http://www.cxs.gov.cn/info/2102/79239.htm	4660
+柳思福		2		云南省	楚雄彝族自治州	http://www.cxs.gov.cn/zfxxgk/fdzdgknr/ldzc.htm	副市长、高新区党工委副书记、管委会主任		楚雄市人民政府	http://www.cxs.gov.cn/info/2792/94831.htm	4660
+李兴明		3		云南省	楚雄彝族自治州	http://www.cxs.gov.cn/zfxxgk/fdzdgknr/ldzc.htm	市委常委，常务副市长		楚雄市人民政府	http://www.cxs.gov.cn/info/2062/76128.htm	4660
+李文杰		4		云南省	楚雄彝族自治州	http://www.cxs.gov.cn/zfxxgk/fdzdgknr/ldzc.htm	市委常委，副市长		楚雄市人民政府	http://www.cxs.gov.cn/info/2891/103320.htm	4660
+周增先		5		云南省	楚雄彝族自治州	http://www.cxs.gov.cn/zfxxgk/fdzdgknr/ldzc.htm	副市长		楚雄市人民政府	http://www.cxs.gov.cn/info/2101/79145.htm	4660
+张梅		6		云南省	楚雄彝族自治州	http://www.cxs.gov.cn/zfxxgk/fdzdgknr/ldzc.htm	副市长		楚雄市人民政府	http://www.cxs.gov.cn/info/1347/14600.htm	4660
+张正明		7		云南省	楚雄彝族自治州	http://www.cxs.gov.cn/zfxxgk/fdzdgknr/ldzc.htm	副市长		楚雄市人民政府	http://www.cxs.gov.cn/info/2063/76132.htm	4660
+李忠海		8		云南省	楚雄彝族自治州	http://www.cxs.gov.cn/zfxxgk/fdzdgknr/ldzc.htm	副市长		楚雄市人民政府	http://www.cxs.gov.cn/info/26456/842879.htm	4660
+张学权		9		云南省	楚雄彝族自治州	http://www.cxs.gov.cn/zfxxgk/fdzdgknr/ldzc.htm	副市长		楚雄市人民政府	http://www.cxs.gov.cn/info/2793/94832.htm	4660

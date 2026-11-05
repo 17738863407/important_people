@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨绪春		1		云南省	昭通市	http://www.zx.gov.cn/channels/5402.html	县委副书记、县长		镇雄县人民政府	http://www.zx.gov.cn/contents/5403/30707.html	4634
+罗华钧		2		云南省	昭通市	http://www.zx.gov.cn/channels/5402.html	县委常委、常务副县长		镇雄县人民政府	http://www.zx.gov.cn/contents/5406/30716.html	4634
+吴云川		3		云南省	昭通市	http://www.zx.gov.cn/channels/5402.html	县委常委、副县长		镇雄县人民政府	http://www.zx.gov.cn/contents/5406/30715.html	4634
+周勇		4		云南省	昭通市	http://www.zx.gov.cn/channels/5402.html	县委常委、副县长		镇雄县人民政府	http://www.zx.gov.cn/contents/5406/30709.html	4634
+张剑凯		5		云南省	昭通市	http://www.zx.gov.cn/channels/5402.html	县委常委、副县长		镇雄县人民政府	http://www.zx.gov.cn/contents/5406/30714.html	4634
+张花辉		6		云南省	昭通市	http://www.zx.gov.cn/channels/5402.html	县委常委、副县长		镇雄县人民政府	http://www.zx.gov.cn/contents/5406/35432.html	4634
+高德东		7		云南省	昭通市	http://www.zx.gov.cn/channels/5402.html	副县长、公安局长		镇雄县人民政府	http://www.zx.gov.cn/contents/5406/30710.html	4634
+熊慧		8		云南省	昭通市	http://www.zx.gov.cn/channels/5402.html	副县长		镇雄县人民政府	http://www.zx.gov.cn/contents/5406/30711.html	4634
+刘毅炘		9		云南省	昭通市	http://www.zx.gov.cn/channels/5402.html	副县长		镇雄县人民政府	http://www.zx.gov.cn/contents/5406/37064.html	4634
+杨荣树		10		云南省	昭通市	http://www.zx.gov.cn/channels/5402.html	副县长		镇雄县人民政府	http://www.zx.gov.cn/contents/5406/36681.html	4634
+马列		11		云南省	昭通市	http://www.zx.gov.cn/channels/5402.html	副县长		镇雄县人民政府	http://www.zx.gov.cn/contents/5406/40422.html	4634

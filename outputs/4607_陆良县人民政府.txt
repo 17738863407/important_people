@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李维		1		云南省	曲靖市	https://www.luliang.gov.cn/pub/leader/58.html	县委副书记、县长		陆良县人民政府	https://www.luliang.gov.cn/pub/description/17558.html	4607
+杨俊		2		云南省	曲靖市	https://www.luliang.gov.cn/pub/leader/58.html	县委常委、常务副县长		陆良县人民政府	https://www.luliang.gov.cn/pub/description/25322.html	4607
+张正礼		3		云南省	曲靖市	https://www.luliang.gov.cn/pub/leader/58.html	县委常委、副县长		陆良县人民政府	https://www.luliang.gov.cn/pub/description/32500.html	4607
+冯小雷		4		云南省	曲靖市	https://www.luliang.gov.cn/pub/leader/58.html	县委常委、副县长		陆良县人民政府	https://www.luliang.gov.cn/pub/description/35442.html	4607
+史红祥		5		云南省	曲靖市	https://www.luliang.gov.cn/pub/leader/58.html	副县长		陆良县人民政府	https://www.luliang.gov.cn/pub/description/17552.html	4607
+王云武		6		云南省	曲靖市	https://www.luliang.gov.cn/pub/leader/58.html	副县长		陆良县人民政府	https://www.luliang.gov.cn/pub/description/17555.html	4607
+刘婕		7		云南省	曲靖市	https://www.luliang.gov.cn/pub/leader/58.html	副县长		陆良县人民政府	https://www.luliang.gov.cn/pub/description/45644.html	4607
+李勇		8		云南省	曲靖市	https://www.luliang.gov.cn/pub/leader/58.html	副县长		陆良县人民政府	https://www.luliang.gov.cn/pub/description/22245.html	4607
+张健		9		云南省	曲靖市	https://www.luliang.gov.cn/pub/leader/58.html	副县长		陆良县人民政府	https://www.luliang.gov.cn/pub/description/17554.html	4607
+王暄喆		10		云南省	曲靖市	https://www.luliang.gov.cn/pub/leader/58.html	县政府党组成员、县政府办公室主任		陆良县人民政府	https://www.luliang.gov.cn/pub/description/24010.html	4607

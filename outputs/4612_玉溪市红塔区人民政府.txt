@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈雪峰		1		云南省	玉溪市	https://www.hongta.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=htqzfxxgk&channelId=22651&pageNo=1	区长		玉溪市红塔区人民政府	https://www.hongta.gov.cn/htq/ldxxhtqzfbadmin/20260803/1257563.html	4612
+邹著		2		云南省	玉溪市	https://www.hongta.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=htqzfxxgk&channelId=22651&pageNo=1	区委常委、副区长		玉溪市红塔区人民政府	https://www.hongta.gov.cn/htq/ldxxhtqzfbadmin/20260803/1450609.html	4612
+袁建军		3		云南省	玉溪市	https://www.hongta.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=htqzfxxgk&channelId=22651&pageNo=1	副区长		玉溪市红塔区人民政府	https://www.hongta.gov.cn/htq/ldxxhtqzfbadmin/20260803/1604966.html	4612
+俞江		4		云南省	玉溪市	https://www.hongta.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=htqzfxxgk&channelId=22651&pageNo=1	副区长		玉溪市红塔区人民政府	https://www.hongta.gov.cn/htq/ldxxhtqzfbadmin/20260803/1450607.html	4612
+杨曙诚		5		云南省	玉溪市	https://www.hongta.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=htqzfxxgk&channelId=22651&pageNo=1	副区长		玉溪市红塔区人民政府	https://www.hongta.gov.cn/htq/ldxxhtqzfbadmin/20260803/1578056.html	4612
+吴灵通		6		云南省	玉溪市	https://www.hongta.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=htqzfxxgk&channelId=22651&pageNo=1	副区长		玉溪市红塔区人民政府	https://www.hongta.gov.cn/htq/ldxxhtqzfbadmin/20260803/1194099.html	4612
+何宛静		7		云南省	玉溪市	https://www.hongta.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=htqzfxxgk&channelId=22651&pageNo=1	副区长		玉溪市红塔区人民政府	https://www.hongta.gov.cn/htq/ldxxhtqzfbadmin/20260803/1473505.html	4612

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+童友罡		1		云南省	昭通市	https://www.zyq.gov.cn/channels/731.html	区长		昭通市昭阳区人民政府	https://www.zyq.gov.cn/contents/1074/224760.html	4626
+赵泽云		2		云南省	昭通市	https://www.zyq.gov.cn/channels/731.html	副区长		昭通市昭阳区人民政府	https://www.zyq.gov.cn/contents/1075/17347.html	4626
+陈纯		3		云南省	昭通市	https://www.zyq.gov.cn/channels/731.html	副区长		昭通市昭阳区人民政府	https://www.zyq.gov.cn/contents/1075/223202.html	4626
+王晓路		4		云南省	昭通市	https://www.zyq.gov.cn/channels/731.html	副区长		昭通市昭阳区人民政府	https://www.zyq.gov.cn/contents/1075/228708.html	4626
+张明礼		5		云南省	昭通市	https://www.zyq.gov.cn/channels/731.html	副区长		昭通市昭阳区人民政府	https://www.zyq.gov.cn/contents/1075/222158.html	4626
+马勋恒		6		云南省	昭通市	https://www.zyq.gov.cn/channels/731.html	副区长		昭通市昭阳区人民政府	https://www.zyq.gov.cn/contents/1075/216960.html	4626
+潘多		7		云南省	昭通市	https://www.zyq.gov.cn/channels/731.html	副区长		昭通市昭阳区人民政府	https://www.zyq.gov.cn/contents/1075/222159.html	4626
+杨太云		8		云南省	昭通市	https://www.zyq.gov.cn/channels/731.html	副区长		昭通市昭阳区人民政府	https://www.zyq.gov.cn/contents/1075/228715.html	4626
+赵炯		9		云南省	昭通市	https://www.zyq.gov.cn/channels/731.html	副区长		昭通市昭阳区人民政府	https://www.zyq.gov.cn/contents/1075/228712.html	4626

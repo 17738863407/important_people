@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+田成		1		云南省	红河哈尼族彝族自治州	https://www.hhhk.gov.cn/zfxxgk/fdzdgknr/zfld.htm	县长		河口瑶族自治县人民政府	https://www.hhhk.gov.cn/info/2881/397121.htm	4682
+朱宏		2		云南省	红河哈尼族彝族自治州	https://www.hhhk.gov.cn/zfxxgk/fdzdgknr/zfld.htm	常务副县长		河口瑶族自治县人民政府	https://www.hhhk.gov.cn/info/2881/146311.htm	4682
+邓海江		3		云南省	红河哈尼族彝族自治州	https://www.hhhk.gov.cn/zfxxgk/fdzdgknr/zfld.htm	政府党组成员		河口瑶族自治县人民政府	https://www.hhhk.gov.cn/info/2881/397161.htm	4682
+张虎彪		4		云南省	红河哈尼族彝族自治州	https://www.hhhk.gov.cn/zfxxgk/fdzdgknr/zfld.htm	政府党组成员		河口瑶族自治县人民政府	https://www.hhhk.gov.cn/info/2881/389051.htm	4682
+李维		5		云南省	红河哈尼族彝族自治州	https://www.hhhk.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副县长（挂职）		河口瑶族自治县人民政府	https://www.hhhk.gov.cn/info/2881/354521.htm	4682
+李华梅		6		云南省	红河哈尼族彝族自治州	https://www.hhhk.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副县长		河口瑶族自治县人民政府	https://www.hhhk.gov.cn/info/2881/146291.htm	4682
+卢光荣		7		云南省	红河哈尼族彝族自治州	https://www.hhhk.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副县长		河口瑶族自治县人民政府	https://www.hhhk.gov.cn/info/2881/146281.htm	4682
+仇群钻		8		云南省	红河哈尼族彝族自治州	https://www.hhhk.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副县长		河口瑶族自治县人民政府	https://www.hhhk.gov.cn/info/2881/146261.htm	4682
+李颖		9		云南省	红河哈尼族彝族自治州	https://www.hhhk.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副县长		河口瑶族自治县人民政府	https://www.hhhk.gov.cn/info/2881/384121.htm	4682

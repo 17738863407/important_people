@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张云		1		云南省	昆明市	http://www.kmpl.gov.cn/zfxxgk/fdzdgknr/zfld/	区长		昆明市盘龙区人民政府	http://www.kmpl.gov.cn/c/2025-04-18/6997611.shtml	4590
+陈加林		2		云南省	昆明市	http://www.kmpl.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市盘龙区人民政府	http://www.kmpl.gov.cn/c/2026-06-25/7156336.shtml	4590
+赵中志		3		云南省	昆明市	http://www.kmpl.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市盘龙区人民政府	http://www.kmpl.gov.cn/c/2025-05-22/7010734.shtml	4590
+蒋晓庆		4		云南省	昆明市	http://www.kmpl.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市盘龙区人民政府	http://www.kmpl.gov.cn/c/2022-02-28/5823529.shtml	4590
+郭志雄		5		云南省	昆明市	http://www.kmpl.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市盘龙区人民政府	http://www.kmpl.gov.cn/c/2025-07-30/5823525.shtml	4590
+刘殿春		6		云南省	昆明市	http://www.kmpl.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市盘龙区人民政府	http://www.kmpl.gov.cn/c/2022-02-28/5823522.shtml	4590
+袁玉松		7		云南省	昆明市	http://www.kmpl.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市盘龙区人民政府	http://www.kmpl.gov.cn/c/2022-02-28/5823521.shtml	4590

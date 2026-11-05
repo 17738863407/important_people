@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐瑞林		1		云南省	昆明市	http://www.kmlq.gov.cn/zfxxgkml2/zfxxgkzd/zfld/	县长		禄劝彝族苗族自治县人民政府	http://www.kmlq.gov.cn/c/2026-10-01/5301200.shtml	4601
+马腾江		2		云南省	昆明市	http://www.kmlq.gov.cn/zfxxgkml2/zfxxgkzd/zfld/	副县长		禄劝彝族苗族自治县人民政府	http://www.kmlq.gov.cn/c/2026-06-18/5301220.shtml	4601
+陈靓		3		云南省	昆明市	http://www.kmlq.gov.cn/zfxxgkml2/zfxxgkzd/zfld/	副县长		禄劝彝族苗族自治县人民政府	http://www.kmlq.gov.cn/c/2025-01-06/5301219.shtml	4601
+黄启勇		4		云南省	昆明市	http://www.kmlq.gov.cn/zfxxgkml2/zfxxgkzd/zfld/	副县长		禄劝彝族苗族自治县人民政府	http://www.kmlq.gov.cn/c/2025-01-06/6951728.shtml	4601
+谢永芳		5		云南省	昆明市	http://www.kmlq.gov.cn/zfxxgkml2/zfxxgkzd/zfld/	副县长		禄劝彝族苗族自治县人民政府	http://www.kmlq.gov.cn/c/2025-01-06/5301215.shtml	4601
+陈芸		6		云南省	昆明市	http://www.kmlq.gov.cn/zfxxgkml2/zfxxgkzd/zfld/	副县长		禄劝彝族苗族自治县人民政府	http://www.kmlq.gov.cn/c/2025-01-06/6634167.shtml	4601
+舒斌		7		云南省	昆明市	http://www.kmlq.gov.cn/zfxxgkml2/zfxxgkzd/zfld/	副县长		禄劝彝族苗族自治县人民政府	http://www.kmlq.gov.cn/c/2025-01-06/6951725.shtml	4601
+许晋		8		云南省	昆明市	http://www.kmlq.gov.cn/zfxxgkml2/zfxxgkzd/zfld/	副县长		禄劝彝族苗族自治县人民政府	http://www.kmlq.gov.cn/c/2025-01-06/6951729.shtml	4601
+许拥军		9		云南省	昆明市	http://www.kmlq.gov.cn/zfxxgkml2/zfxxgkzd/zfld/	副县长		禄劝彝族苗族自治县人民政府	http://www.kmlq.gov.cn/c/2025-02-10/6964168.shtml	4601

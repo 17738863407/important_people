@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张剑扬		1		云南省	昆明市	http://www.kmwh.gov.cn/zfxxgk/fdzdgknr/zfld/	区长		昆明市五华区人民政府	http://www.kmwh.gov.cn/c/2024-12-09/6940792.shtml	4589
+曾洪波		2		云南省	昆明市	http://www.kmwh.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市五华区人民政府	http://www.kmwh.gov.cn/c/2026-06-12/6634006.shtml	4589
+周蔚		3		云南省	昆明市	http://www.kmwh.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市五华区人民政府	http://www.kmwh.gov.cn/c/2024-02-01/6806108.shtml	4589
+王琨		4		云南省	昆明市	http://www.kmwh.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市五华区人民政府	http://www.kmwh.gov.cn/c/2021-10-21/5468145.shtml	4589
+李东		5		云南省	昆明市	http://www.kmwh.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市五华区人民政府	http://www.kmwh.gov.cn/c/2022-02-08/5775990.shtml	4589
+魏嘉		6		云南省	昆明市	http://www.kmwh.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市五华区人民政府	http://www.kmwh.gov.cn/c/2025-04-15/6709074.shtml	4589
+邓波		7		云南省	昆明市	http://www.kmwh.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市五华区人民政府	http://www.kmwh.gov.cn/c/2025-04-14/6995234.shtml	4589
+王兴明		8		云南省	昆明市	http://www.kmwh.gov.cn/zfxxgk/fdzdgknr/zfld/	区政府党组成员		昆明市五华区人民政府	http://www.kmwh.gov.cn/c/2025-05-20/6389694.shtml	4589

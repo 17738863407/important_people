@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+罗景锋		1		云南省		http://www.chuxiong.gov.cn/zzf.htm	州委副书记，州人民政府州长、党组书记		楚雄彝族自治州人民政府	http://www.chuxiong.gov.cn/zzf/zz/ljf.htm	4581
+李勇		2		云南省		http://www.chuxiong.gov.cn/zzf.htm	副州长		楚雄彝族自治州人民政府	http://www.chuxiong.gov.cn/zzf/fzz/ly.htm	4581
+魏欣		3		云南省		http://www.chuxiong.gov.cn/zzf.htm	副州长		楚雄彝族自治州人民政府	https://www.cxz.gov.cn/zzf/fzz/wx.htm	4581
+陈翡敏		4		云南省		http://www.chuxiong.gov.cn/zzf.htm	副州长		楚雄彝族自治州人民政府	http://www.chuxiong.gov.cn/zzf/fzz/cfm.htm	4581
+彭玮		5		云南省		http://www.chuxiong.gov.cn/zzf.htm	副州长		楚雄彝族自治州人民政府	http://www.chuxiong.gov.cn/zzf/fzz/pw.htm	4581
+马涛		6		云南省		http://www.chuxiong.gov.cn/zzf.htm	副州长		楚雄彝族自治州人民政府	http://www.chuxiong.gov.cn/zzf/fzz/mt.htm	4581
+王绍基		7		云南省		http://www.chuxiong.gov.cn/zzf.htm	副州长		楚雄彝族自治州人民政府	http://www.chuxiong.gov.cn/zzf/fzz/wsj.htm	4581
+何文明		8		云南省		http://www.chuxiong.gov.cn/zzf.htm	州政府秘书长		楚雄彝族自治州人民政府	http://www.chuxiong.gov.cn/zzf/zzfmsz/hwm.htm	4581

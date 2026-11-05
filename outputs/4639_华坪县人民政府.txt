@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+和振		1		云南省	丽江市	https://www.huaping.gov.cn/xljhpx/c101696/zfxxgk_nrz.shtml	县委副书记，县人民政府县长		华坪县人民政府	https://www.huaping.gov.cn/xljhpx/c101696/202405/65e8355bded94bb78d99ae77a2974889.shtml	4639
+杨七裕		2		云南省	丽江市	https://www.huaping.gov.cn/xljhpx/c101696/zfxxgk_nrz.shtml	县委常委、县人民政府副县长		华坪县人民政府	https://www.huaping.gov.cn/xljhpx/c101696/202605/09cc27ed15cf48ffb8e17305f7ad5c58.shtml	4639
+刘杰		3		云南省	丽江市	https://www.huaping.gov.cn/xljhpx/c101696/zfxxgk_nrz.shtml	县委常委、副县长		华坪县人民政府	https://www.huaping.gov.cn/xljhpx/c101696/202501/0ca533b3caad481fbd3b7489604c6ca1.shtml	4639
+王元萍		4		云南省	丽江市	https://www.huaping.gov.cn/xljhpx/c101696/zfxxgk_nrz.shtml	副县长		华坪县人民政府	https://www.huaping.gov.cn/xljhpx/c101696/202501/4f952537a0864b569df2d61579c77a5c.shtml	4639
+和斌文		5		云南省	丽江市	https://www.huaping.gov.cn/xljhpx/c101696/zfxxgk_nrz.shtml	副县长		华坪县人民政府	https://www.huaping.gov.cn/xljhpx/c101696/202511/44b7f5c0b5ce458cbefe14acdfadd6bf.shtml	4639
+和万华		6		云南省	丽江市	https://www.huaping.gov.cn/xljhpx/c101696/zfxxgk_nrz.shtml	副县长		华坪县人民政府	https://www.huaping.gov.cn/xljhpx/c101696/202605/c72362ce3998455a99e2f43be7da6b0e.shtml	4639
+苏务撒		7		云南省	丽江市	https://www.huaping.gov.cn/xljhpx/c101696/zfxxgk_nrz.shtml	副县长		华坪县人民政府	https://www.huaping.gov.cn/xljhpx/c101696/202501/d2b23c3990ad437f81b215d636fab77f.shtml	4639
+杜清红		8		云南省	丽江市	https://www.huaping.gov.cn/xljhpx/c101696/zfxxgk_nrz.shtml	副县长		华坪县人民政府	https://www.huaping.gov.cn/xljhpx/c101696/202501/15bb5613ff2d441694fd9da606eb53ab.shtml	4639
+王明星		9		云南省	丽江市	https://www.huaping.gov.cn/xljhpx/c101696/zfxxgk_nrz.shtml	副县长		华坪县人民政府	https://www.huaping.gov.cn/xljhpx/c101696/202504/5d48328278294bd79065ca405a251ffa.shtml	4639

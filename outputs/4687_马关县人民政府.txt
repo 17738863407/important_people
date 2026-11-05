@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+廖志鹏		1		云南省	文山壮族苗族自治州	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/list.html	县长		马关县人民政府	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/content/content_1862337832171180032.html	4687
+徐晓川		2		云南省	文山壮族苗族自治州	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/list.html	县委常委、常务副县长		马关县人民政府	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/content/content_1862337819596656640.html	4687
+刘晔		3		云南省	文山壮族苗族自治州	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/list.html	县委常委、副县长		马关县人民政府	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/content/content_1873913597668958208.html	4687
+麻崇德		4		云南省	文山壮族苗族自治州	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/list.html	县委常委、副县长		马关县人民政府	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/content/content_1862337812747358208.html	4687
+赵志泉		5		云南省	文山壮族苗族自治州	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/list.html	县委常委、副县长		马关县人民政府	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/content/content_1862337829344219136.html	4687
+谢欢庆		6		云南省	文山壮族苗族自治州	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/list.html	副县长		马关县人民政府	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/content/content_1862337822331342848.html	4687
+李平富		7		云南省	文山壮族苗族自治州	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/list.html	副县长		马关县人民政府	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/content/content_1862337817382064128.html	4687
+代成玺		8		云南省	文山壮族苗族自治州	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/list.html	副县长		马关县人民政府	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/content/content_1862337824852119552.html	4687
+周茂文		9		云南省	文山壮族苗族自治州	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/list.html	副县长		马关县人民政府	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/content/content_1862337810578903040.html	4687
+王艺霖		10		云南省	文山壮族苗族自治州	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/list.html	副县长		马关县人民政府	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/content/content_1862337835396599808.html	4687
+张书兵		11		云南省	文山壮族苗族自治州	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/list.html	三级调研员		马关县人民政府	https://www.ynmg.gov.cn/mgxrmzfw/zfld100/pc/content/content_1862337808251064320.html	4687

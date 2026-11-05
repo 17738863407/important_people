@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+施文		1		云南省	玉溪市	https://www.xinping.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=xpxzfxxgk&channelId=22511&pageNo=1	新平县委副书记、县长		新平彝族傣族自治县人民政府	https://www.xinping.gov.cn/xpxzfxxgk/zfldjfg/20260724/1232476.html	4619
+翟俊鹏		2		云南省	玉溪市	https://www.xinping.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=xpxzfxxgk&channelId=22511&pageNo=1	新平县委常委、县政府副县长		新平彝族傣族自治县人民政府	https://www.xinping.gov.cn/xpxzfxxgk/zfldjfg/20260724/1445564.html	4619
+李云峰		3		云南省	玉溪市	https://www.xinping.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=xpxzfxxgk&channelId=22511&pageNo=1	新平县政府副县长、县公安局局长（兼）		新平彝族傣族自治县人民政府	https://www.xinping.gov.cn/xpxzfxxgk/zfldjfg/20260724/1370531.html	4619
+朱勇		4		云南省	玉溪市	https://www.xinping.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=xpxzfxxgk&channelId=22511&pageNo=1	新平县政府副县长		新平彝族傣族自治县人民政府	https://www.xinping.gov.cn/xpxzfxxgk/zfldjfg/20260724/1535087.html	4619
+李文鹏		5		云南省	玉溪市	https://www.xinping.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=xpxzfxxgk&channelId=22511&pageNo=1	新平县政府副县长		新平彝族傣族自治县人民政府	https://www.xinping.gov.cn/xpxzfxxgk/zfldjfg/20260724/1370532.html	4619
+李海雁		6		云南省	玉溪市	https://www.xinping.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=xpxzfxxgk&channelId=22511&pageNo=1	新平县政府副县长		新平彝族傣族自治县人民政府	https://www.xinping.gov.cn/xpxzfxxgk/zfldjfg/20260910/1232479.html	4619
+李永辉		7		云南省	玉溪市	https://www.xinping.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=xpxzfxxgk&channelId=22511&pageNo=1	新平县政府副县长		新平彝族傣族自治县人民政府	https://www.xinping.gov.cn/xpxzfxxgk/zfldjfg/20260724/1520912.html	4619

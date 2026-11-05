@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘林		1		云南省	西双版纳傣族自治州	https://www.ynml.gov.cn/zhengfuxinxigongkai/ldjj/	勐腊县人民政府县长		勐腊县人民政府	https://www.ynml.gov.cn/zhengfuxinxigongkai/ldjj/40007707.html	4693
+蔡兴仁		2		云南省	西双版纳傣族自治州	https://www.ynml.gov.cn/zhengfuxinxigongkai/ldjj/	勐腊县人民政府常务副县长		勐腊县人民政府	https://www.ynml.gov.cn/zhengfuxinxigongkai/ldjj/41458387.html	4693
+张志锋		3		云南省	西双版纳傣族自治州	https://www.ynml.gov.cn/zhengfuxinxigongkai/ldjj/	勐腊县人民政府副县长		勐腊县人民政府	https://www.ynml.gov.cn/zhengfuxinxigongkai/ldjj/41458389.html	4693
+苏智		4		云南省	西双版纳傣族自治州	https://www.ynml.gov.cn/zhengfuxinxigongkai/ldjj/	勐腊县人民政府副县长		勐腊县人民政府	https://www.ynml.gov.cn/zhengfuxinxigongkai/ldjj/40026765.html	4693
+熊朝阳		5		云南省	西双版纳傣族自治州	https://www.ynml.gov.cn/zhengfuxinxigongkai/ldjj/	勐腊县人民政府副县长		勐腊县人民政府	https://www.ynml.gov.cn/zhengfuxinxigongkai/ldjj/41458386.html	4693
+李林		6		云南省	西双版纳傣族自治州	https://www.ynml.gov.cn/zhengfuxinxigongkai/ldjj/	勐腊县人民政府副县长		勐腊县人民政府	https://www.ynml.gov.cn/zhengfuxinxigongkai/ldjj/41482525.html	4693
+盘进城		7		云南省	西双版纳傣族自治州	https://www.ynml.gov.cn/zhengfuxinxigongkai/ldjj/	勐腊县人民政府副县长		勐腊县人民政府	https://www.ynml.gov.cn/zhengfuxinxigongkai/ldjj/41442789.html	4693
+朱晨星		8		云南省	西双版纳傣族自治州	https://www.ynml.gov.cn/zhengfuxinxigongkai/ldjj/	勐腊县人民政府副县长		勐腊县人民政府	https://www.ynml.gov.cn/zhengfuxinxigongkai/ldjj/41226817.html	4693

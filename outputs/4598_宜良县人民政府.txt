@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周定龙		1		云南省	昆明市	http://www.kmyl.gov.cn/zfxxgk/fdzdgknr/zfld/	县长		宜良县人民政府	http://www.kmyl.gov.cn/c/2025-10-13/7061683.shtml	4598
+周涛		2		云南省	昆明市	http://www.kmyl.gov.cn/zfxxgk/fdzdgknr/zfld/	副县长		宜良县人民政府	http://www.kmyl.gov.cn/c/2025-07-03/7026360.shtml	4598
+陈光云		3		云南省	昆明市	http://www.kmyl.gov.cn/zfxxgk/fdzdgknr/zfld/	副县长		宜良县人民政府	http://www.kmyl.gov.cn/c/2025-07-03/7026346.shtml	4598
+沈斌		4		云南省	昆明市	http://www.kmyl.gov.cn/zfxxgk/fdzdgknr/zfld/	副县长		宜良县人民政府	http://www.kmyl.gov.cn/c/2025-07-03/7026341.shtml	4598
+李环宇		5		云南省	昆明市	http://www.kmyl.gov.cn/zfxxgk/fdzdgknr/zfld/	副县长		宜良县人民政府	http://www.kmyl.gov.cn/c/2026-01-21/7099283.shtml	4598
+车翔		6		云南省	昆明市	http://www.kmyl.gov.cn/zfxxgk/fdzdgknr/zfld/	副县长		宜良县人民政府	http://www.kmyl.gov.cn/c/2025-07-03/7026336.shtml	4598
+李平		7		云南省	昆明市	http://www.kmyl.gov.cn/zfxxgk/fdzdgknr/zfld/	副县长		宜良县人民政府	http://www.kmyl.gov.cn/c/2023-12-30/7026321.shtml	4598

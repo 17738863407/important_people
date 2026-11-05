@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+范正建		1		云南省	保山市	https://www.yncn.gov.cn/zfxxgkpt/fdzdgknr/zzjg.htm	县长、县政府党组书记		昌宁县人民政府	https://www.yncn.gov.cn/info/1044/53161.htm	4625
+刘志刚		2		云南省	保山市	https://www.yncn.gov.cn/zfxxgkpt/fdzdgknr/zzjg.htm	副县长		昌宁县人民政府	https://www.yncn.gov.cn/info/1061/7746270.htm	4625
+徐喜瑛		3		云南省	保山市	https://www.yncn.gov.cn/zfxxgkpt/fdzdgknr/zzjg.htm	副县长		昌宁县人民政府	https://www.yncn.gov.cn/info/1061/9325460.htm	4625
+黄威		4		云南省	保山市	https://www.yncn.gov.cn/zfxxgkpt/fdzdgknr/zzjg.htm	副县长		昌宁县人民政府	https://www.yncn.gov.cn/info/1061/8988000.htm	4625
+段连卫		5		云南省	保山市	https://www.yncn.gov.cn/zfxxgkpt/fdzdgknr/zzjg.htm	副县长		昌宁县人民政府	https://www.yncn.gov.cn/info/1061/7746960.htm	4625
+赵阳阳		6		云南省	保山市	https://www.yncn.gov.cn/zfxxgkpt/fdzdgknr/zzjg.htm	副县长		昌宁县人民政府	https://www.yncn.gov.cn/info/1061/7746330.htm	4625
+廖明才		7		云南省	保山市	https://www.yncn.gov.cn/zfxxgkpt/fdzdgknr/zzjg.htm	副县长		昌宁县人民政府	https://www.yncn.gov.cn/info/1061/9199250.htm	4625
+王国相		8		云南省	保山市	https://www.yncn.gov.cn/zfxxgkpt/fdzdgknr/zzjg.htm	副县长		昌宁县人民政府	https://www.yncn.gov.cn/info/1061/8988010.htm	4625
+王颖		9		云南省	保山市	https://www.yncn.gov.cn/zfxxgkpt/fdzdgknr/zzjg.htm	副县长		昌宁县人民政府	https://www.yncn.gov.cn/info/1061/9078070.htm	4625
+张强中		10		云南省	保山市	https://www.yncn.gov.cn/zfxxgkpt/fdzdgknr/zzjg.htm	副县长		昌宁县人民政府	https://www.yncn.gov.cn/info/1061/9325450.htm	4625
+谢斌		11		云南省	保山市	https://www.yncn.gov.cn/zfxxgkpt/fdzdgknr/zzjg.htm	县人民政府办公室主任		昌宁县人民政府	https://www.yncn.gov.cn/info/1061/8337330.htm	4625

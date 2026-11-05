@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李永标		1		云南省	保山市	https://www.longling.gov.cn/zwgk/zfxxgkpt/fdzdgknr/zzjg2.htm	县长		龙陵县人民政府	https://www.longling.gov.cn/info/5698/120245.htm	4624
+刘勇		2		云南省	保山市	https://www.longling.gov.cn/zwgk/zfxxgkpt/fdzdgknr/zzjg2.htm	副县长		龙陵县人民政府	https://www.longling.gov.cn/info/5699/163311.htm	4624
+孟春来		3		云南省	保山市	https://www.longling.gov.cn/zwgk/zfxxgkpt/fdzdgknr/zzjg2.htm	副县长		龙陵县人民政府	https://www.longling.gov.cn/info/5699/3954749.htm	4624
+钱海华		4		云南省	保山市	https://www.longling.gov.cn/zwgk/zfxxgkpt/fdzdgknr/zzjg2.htm	副县长		龙陵县人民政府	https://www.longling.gov.cn/info/5699/4089879.htm	4624
+陈丽刚		5		云南省	保山市	https://www.longling.gov.cn/zwgk/zfxxgkpt/fdzdgknr/zzjg2.htm	副县长		龙陵县人民政府	https://www.longling.gov.cn/info/5699/120257.htm	4624
+杨培记		6		云南省	保山市	https://www.longling.gov.cn/zwgk/zfxxgkpt/fdzdgknr/zzjg2.htm	副县长		龙陵县人民政府	https://www.longling.gov.cn/info/5699/4015999.htm	4624
+金瑞		7		云南省	保山市	https://www.longling.gov.cn/zwgk/zfxxgkpt/fdzdgknr/zzjg2.htm	副县长		龙陵县人民政府	https://www.longling.gov.cn/info/5699/4401929.htm	4624
+张新奎		8		云南省	保山市	https://www.longling.gov.cn/zwgk/zfxxgkpt/fdzdgknr/zzjg2.htm	副县长		龙陵县人民政府	https://www.longling.gov.cn/info/5699/4267959.htm	4624

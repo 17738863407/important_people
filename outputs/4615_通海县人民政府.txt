@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郭峰		1		云南省	玉溪市	https://www.tonghai.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=thxzfxxgk&channelId=22442&pageNo=1	县委副书记、县长		通海县人民政府	https://www.tonghai.gov.cn/thxzfxxgk/zfldcyjqgzfg/20260917/1494050.html	4615
+付成松		2		云南省	玉溪市	https://www.tonghai.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=thxzfxxgk&channelId=22442&pageNo=1	县委常委、副县长		通海县人民政府	https://www.tonghai.gov.cn/thxzfxxgk/zfldcyjqgzfg/20260917/1494047.html	4615
+龙发亮		3		云南省	玉溪市	https://www.tonghai.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=thxzfxxgk&channelId=22442&pageNo=1	副县长		通海县人民政府	https://www.tonghai.gov.cn/thxzfxxgk/zfldcyjqgzfg/20260917/1494049.html	4615
+赵龙		4		云南省	玉溪市	https://www.tonghai.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=thxzfxxgk&channelId=22442&pageNo=1	副县长、县公安局局长		通海县人民政府	https://www.tonghai.gov.cn/thxzfxxgk/zfldcyjqgzfg/20260917/1494048.html	4615
+张兴全		5		云南省	玉溪市	https://www.tonghai.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=thxzfxxgk&channelId=22442&pageNo=1	副县长		通海县人民政府	https://www.tonghai.gov.cn/thxzfxxgk/zfldcyjqgzfg/20260917/1494044.html	4615
+纳鸿翔		6		云南省	玉溪市	https://www.tonghai.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=thxzfxxgk&channelId=22442&pageNo=1	副县长、秀山街道党工委书记		通海县人民政府	https://www.tonghai.gov.cn/thxzfxxgk/zfldcyjqgzfg/20260917/1494045.html	4615
+杨正雄		7		云南省	玉溪市	https://www.tonghai.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=thxzfxxgk&channelId=22442&pageNo=1	副县长		通海县人民政府	https://www.tonghai.gov.cn/thxzfxxgk/zfldcyjqgzfg/20260917/1494046.html	4615

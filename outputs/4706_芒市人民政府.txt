@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑昭		1		云南省	德宏傣族景颇族自治州	https://www.dhms.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	市长		芒市人民政府	https://www.dhms.gov.cn/Web/_F0_0_4SG0VXN09DB99CF02DF34EAC87.htm	4706
+杨斌		2		云南省	德宏傣族景颇族自治州	https://www.dhms.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副市长		芒市人民政府	https://www.dhms.gov.cn/Web/_F0_0_6M368MSD7EDD292637104533B5.htm	4706
+范晓浩		3		云南省	德宏傣族景颇族自治州	https://www.dhms.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副市长		芒市人民政府	https://www.dhms.gov.cn/Web/_F0_0_5ZV9DAR81980A98ABF584AEEA0.htm	4706
+潘林峰		4		云南省	德宏傣族景颇族自治州	https://www.dhms.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副市长		芒市人民政府	https://www.dhms.gov.cn/Web/_F0_0_6DYNUNP9C2A8A9FAA2AD41FB88.htm	4706
+唐健		5		云南省	德宏傣族景颇族自治州	https://www.dhms.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副市长		芒市人民政府	https://www.dhms.gov.cn/Web/_F0_0_5CS4WSO3B879F3BB234840DBA3.htm	4706
+李东		6		云南省	德宏傣族景颇族自治州	https://www.dhms.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副市长		芒市人民政府	https://www.dhms.gov.cn/Web/_F0_0_6LAXN7TM0AD63DBC7BF84CBF86.htm	4706
+李澍		7		云南省	德宏傣族景颇族自治州	https://www.dhms.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副市长		芒市人民政府	https://www.dhms.gov.cn/Web/_F0_0_6M8UT4578DF01C37048540CFA8.htm	4706
+闫峻豪		8		云南省	德宏傣族景颇族自治州	https://www.dhms.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副市长		芒市人民政府	https://www.dhms.gov.cn/Web/_F0_0_5CS57028A8720849B88E42F68F.htm	4706

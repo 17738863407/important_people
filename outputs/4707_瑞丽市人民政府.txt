@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+温洋		1		云南省	德宏傣族景颇族自治州	https://www.rl.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	市长		瑞丽市人民政府	https://www.rl.gov.cn/Web/_F0_0_5PQWNCSD0689567207CF4A9D88.htm	4707
+段如科		2		云南省	德宏傣族景颇族自治州	https://www.rl.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副市长		瑞丽市人民政府	https://www.rl.gov.cn/Web/_F0_0_6KLF700T6029EF2C45484CDB88.htm	4707
+贾丛		3		云南省	德宏傣族景颇族自治州	https://www.rl.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副市长		瑞丽市人民政府	https://www.rl.gov.cn/Web/_F0_0_6RW7IHJR8040E6CAB16943ABA0.htm	4707
+樊欣荣		4		云南省	德宏傣族景颇族自治州	https://www.rl.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副市长		瑞丽市人民政府	https://www.rl.gov.cn/Web/_F0_0_6KLF6TYX0DBA8CFDDE8C4D7E9F.htm	4707
+寸宝得		5		云南省	德宏傣族景颇族自治州	https://www.rl.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副市长		瑞丽市人民政府	https://www.rl.gov.cn/Web/_F0_0_58G2MY39E232B1261C3B403681.htm	4707
+喊顺		6		云南省	德宏傣族景颇族自治州	https://www.rl.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副市长		瑞丽市人民政府	https://www.rl.gov.cn/Web/_F0_0_5A88XFY9A5A14B08941C421691.htm	4707
+彭涛		7		云南省	德宏傣族景颇族自治州	https://www.rl.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副市长		瑞丽市人民政府	https://www.rl.gov.cn/Web/_F0_0_6LZFUQ53A1AFE214B4344ADF96.htm	4707

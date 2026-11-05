@@ -1,0 +1,15 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+沈家臣		1		云南省	曲靖市	https://www.huize.gov.cn/huize/public/leader/58.html	县长		会泽县人民政府	https://www.huize.gov.cn/article/public/description/16042.html	4611
+杨万坤		2		云南省	曲靖市	https://www.huize.gov.cn/huize/public/leader/58.html	常务副县长		会泽县人民政府	https://www.huize.gov.cn/article/public/description/25969.html	4611
+李明		3		云南省	曲靖市	https://www.huize.gov.cn/huize/public/leader/58.html	副县长		会泽县人民政府	https://www.huize.gov.cn/article/public/description/48140.html	4611
+王得友		4		云南省	曲靖市	https://www.huize.gov.cn/huize/public/leader/58.html	副县长（挂职）		会泽县人民政府	https://www.huize.gov.cn/article/public/description/48144.html	4611
+陆继宏		5		云南省	曲靖市	https://www.huize.gov.cn/huize/public/leader/58.html	副县长		会泽县人民政府	https://www.huize.gov.cn/article/public/description/16041.html	4611
+徐志娟		6		云南省	曲靖市	https://www.huize.gov.cn/huize/public/leader/58.html	副县长		会泽县人民政府	https://www.huize.gov.cn/article/public/description/40674.html	4611
+袁其飞		7		云南省	曲靖市	https://www.huize.gov.cn/huize/public/leader/58.html	副县长		会泽县人民政府	https://www.huize.gov.cn/article/public/description/48145.html	4611
+李婧		8		云南省	曲靖市	https://www.huize.gov.cn/huize/public/leader/58.html	副县长		会泽县人民政府	https://www.huize.gov.cn/article/public/description/48146.html	4611
+张德山		9		云南省	曲靖市	https://www.huize.gov.cn/huize/public/leader/58.html	副县长		会泽县人民政府	https://www.huize.gov.cn/article/public/description/50882.html	4611
+陈岩		10		云南省	曲靖市	https://www.huize.gov.cn/huize/public/leader/58.html	副县长（挂职）		会泽县人民政府	https://www.huize.gov.cn/article/public/description/48147.html	4611
+金德文		11		云南省	曲靖市	https://www.huize.gov.cn/huize/public/leader/58.html	三级调研员		会泽县人民政府	https://www.huize.gov.cn/article/public/description/17718.html	4611
+黄剑洲		12		云南省	曲靖市	https://www.huize.gov.cn/huize/public/leader/58.html	三级调研员		会泽县人民政府	https://www.huize.gov.cn/article/public/description/17769.html	4611
+保明航		13		云南省	曲靖市	https://www.huize.gov.cn/huize/public/leader/58.html	三级调研员		会泽县人民政府	https://www.huize.gov.cn/article/public/description/25963.html	4611
+付必树		14		云南省	曲靖市	https://www.huize.gov.cn/huize/public/leader/58.html	四级调研员		会泽县人民政府	https://www.huize.gov.cn/article/public/description/17723.html	4611

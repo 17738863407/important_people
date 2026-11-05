@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨生辉		1		云南省	保山市	https://www.longyang.gov.cn/qzf.htm	区长		保山市隆阳区人民政府	https://www.longyang.gov.cn/info/4755/15313.htm	4621
+杨润民		2		云南省	保山市	https://www.longyang.gov.cn/qzf.htm	副区长		保山市隆阳区人民政府	https://www.longyang.gov.cn/info/4756/14039969.htm	4621
+刘钧		3		云南省	保山市	https://www.longyang.gov.cn/qzf.htm	副区长		保山市隆阳区人民政府	https://www.longyang.gov.cn/info/4756/13735769.htm	4621
+何锋		4		云南省	保山市	https://www.longyang.gov.cn/qzf.htm	副区长		保山市隆阳区人民政府	https://www.longyang.gov.cn/info/4756/13813449.htm	4621
+段杨		5		云南省	保山市	https://www.longyang.gov.cn/qzf.htm	副区长		保山市隆阳区人民政府	https://www.longyang.gov.cn/info/4756/15319.htm	4621
+李磊		6		云南省	保山市	https://www.longyang.gov.cn/qzf.htm	副区长		保山市隆阳区人民政府	https://www.longyang.gov.cn/info/4756/13984429.htm	4621
+赵强		7		云南省	保山市	https://www.longyang.gov.cn/qzf.htm	副区长		保山市隆阳区人民政府	https://www.longyang.gov.cn/info/4756/13980969.htm	4621

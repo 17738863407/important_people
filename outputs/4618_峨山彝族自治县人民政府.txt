@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+普孝富		1		云南省	玉溪市	https://www.yxes.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=esxzfxxgk&channelId=22671&pageNo=1	县委副书记、县长		峨山彝族自治县人民政府	https://www.yxes.gov.cn/esxzfxxgk/esxzfldjqfg/20260804/1366765.html	4618
+李雯漪		2		云南省	玉溪市	https://www.yxes.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=esxzfxxgk&channelId=22671&pageNo=1	县委常委、县政府副县长		峨山彝族自治县人民政府	https://www.yxes.gov.cn/esxzfxxgk/esxzfldjqfg/20260804/1115994.html	4618
+张德证		3		云南省	玉溪市	https://www.yxes.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=esxzfxxgk&channelId=22671&pageNo=1	县政府副县长		峨山彝族自治县人民政府	https://www.yxes.gov.cn/esxzfxxgk/esxzfldjqfg/20260804/1185974.html	4618
+林可		4		云南省	玉溪市	https://www.yxes.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=esxzfxxgk&channelId=22671&pageNo=1	县政府副县长		峨山彝族自治县人民政府	https://www.yxes.gov.cn/esxzfxxgk/esxzfldjqfg/20260804/1305404.html	4618
+张艳华		5		云南省	玉溪市	https://www.yxes.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=esxzfxxgk&channelId=22671&pageNo=1	县政府副县长		峨山彝族自治县人民政府	https://www.yxes.gov.cn/esxzfxxgk/esxzfldjqfg/20260804/1308382.html	4618
+蒋晓林		6		云南省	玉溪市	https://www.yxes.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=esxzfxxgk&channelId=22671&pageNo=1	县政府二级调研员		峨山彝族自治县人民政府	https://www.yxes.gov.cn/esxzfxxgk/esxzfldjqfg/20240205/1115993.html	4618
+施仲彪		7		云南省	玉溪市	https://www.yxes.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=esxzfxxgk&channelId=22671&pageNo=1	县政府四级调研员		峨山彝族自治县人民政府	https://www.yxes.gov.cn/esxzfxxgk/esxzfldjqfg/20240205/1450413.html	4618

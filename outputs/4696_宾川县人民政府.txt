@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李忠		1		云南省	大理白族自治州	https://www.bc.gov.cn/bcxrmzf/c102072/pc/list.html	宾川县人民政府县长		宾川县人民政府	https://www.bc.gov.cn/bcxrmzf/c102074/pc/content/2061653866288566272/content_2061653866288566272.html	4696
+左士尧		2		云南省	大理白族自治州	https://www.bc.gov.cn/bcxrmzf/c102072/pc/list.html	宾川县人民政府常务副县长		宾川县人民政府	https://www.bc.gov.cn/bcxrmzf/c102076/pc/content/2048961239781007360/content_2048961239781007360.html	4696
+徐凌		3		云南省	大理白族自治州	https://www.bc.gov.cn/bcxrmzf/c102072/pc/list.html	宾川县县委常委、副县长		宾川县人民政府	https://www.bc.gov.cn/bcxrmzf/c102078/pc/content/1984539428306128896/content_1984539428306128896.html	4696
+李双妍		4		云南省	大理白族自治州	https://www.bc.gov.cn/bcxrmzf/c102072/pc/list.html	副县长		宾川县人民政府	https://www.bc.gov.cn/bcxrmzf/c102078/pc/content/1984539330847281152/content_1984539330847281152.html	4696
+陈绩		5		云南省	大理白族自治州	https://www.bc.gov.cn/bcxrmzf/c102072/pc/list.html	宾川县人民政府副县长、县公安局党委书记、局长、督察长、县委政法委副书记		宾川县人民政府	https://www.bc.gov.cn/bcxrmzf/c102078/pc/content/2068973303966519296/content_2068973303966519296.html	4696
+曹洪戍		6		云南省	大理白族自治州	https://www.bc.gov.cn/bcxrmzf/c102072/pc/list.html	副县长		宾川县人民政府	https://www.bc.gov.cn/bcxrmzf/c102078/pc/content/1984539410279010304/content_1984539410279010304.html	4696
+杨敬成		7		云南省	大理白族自治州	https://www.bc.gov.cn/bcxrmzf/c102072/pc/list.html	副县长		宾川县人民政府	https://www.bc.gov.cn/bcxrmzf/c102078/pc/content/2049300930027905024/content_2049300930027905024.html	4696
+马靖云		8		云南省	大理白族自治州	https://www.bc.gov.cn/bcxrmzf/c102072/pc/list.html	副县长		宾川县人民政府	https://www.bc.gov.cn/bcxrmzf/c102078/pc/content/1984539371779493888/content_1984539371779493888.html	4696
+郑婷娟		9		云南省	大理白族自治州	https://www.bc.gov.cn/bcxrmzf/c102072/pc/list.html	副县长		宾川县人民政府	https://www.bc.gov.cn/bcxrmzf/c102078/pc/content/1984539450741460992/content_1984539450741460992.html	4696

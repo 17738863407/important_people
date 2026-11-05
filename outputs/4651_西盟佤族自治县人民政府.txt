@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+鲍晓康		1		云南省	普洱市	https://www.ximeng.gov.cn/zfxxgk1/fdzdgknr/xzfld.htm	县长		西盟佤族自治县人民政府	https://www.ximeng.gov.cn/info/31094/382151.htm	4651
+何勇		2		云南省	普洱市	https://www.ximeng.gov.cn/zfxxgk1/fdzdgknr/xzfld.htm	常务副县长		西盟佤族自治县人民政府	https://www.ximeng.gov.cn/info/31104/582021.htm	4651
+陈曙		3		云南省	普洱市	https://www.ximeng.gov.cn/zfxxgk1/fdzdgknr/xzfld.htm	副县长（挂职）		西盟佤族自治县人民政府	https://www.ximeng.gov.cn/info/31104/546701.htm	4651
+李浩		4		云南省	普洱市	https://www.ximeng.gov.cn/zfxxgk1/fdzdgknr/xzfld.htm	副县长		西盟佤族自治县人民政府	https://www.ximeng.gov.cn/info/31104/493131.htm	4651
+苏甦		5		云南省	普洱市	https://www.ximeng.gov.cn/zfxxgk1/fdzdgknr/xzfld.htm	副县长		西盟佤族自治县人民政府	https://www.ximeng.gov.cn/info/31104/493501.htm	4651
+姚德亮		6		云南省	普洱市	https://www.ximeng.gov.cn/zfxxgk1/fdzdgknr/xzfld.htm	副县长		西盟佤族自治县人民政府	https://www.ximeng.gov.cn/info/31104/556581.htm	4651
+艾应峰		7		云南省	普洱市	https://www.ximeng.gov.cn/zfxxgk1/fdzdgknr/xzfld.htm	副县长		西盟佤族自治县人民政府	https://www.ximeng.gov.cn/info/31104/582031.htm	4651
+李飞若		8		云南省	普洱市	https://www.ximeng.gov.cn/zfxxgk1/fdzdgknr/xzfld.htm	副县长（挂职）		西盟佤族自治县人民政府	https://www.ximeng.gov.cn/info/31104/556591.htm	4651

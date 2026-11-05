@@ -1,0 +1,6 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+牛国斌		1		云南省	昭通市	https://www.sfs.gov.cn/channels/5746.html	市长		水富市人民政府	https://www.sfs.gov.cn/contents/5748/3522.html	4627
+龙群		2		云南省	昭通市	https://www.sfs.gov.cn/channels/5746.html	副市长		水富市人民政府	https://www.sfs.gov.cn/contents/5749/3519.html	4627
+杨勇		3		云南省	昭通市	https://www.sfs.gov.cn/channels/5746.html	副市长		水富市人民政府	https://www.sfs.gov.cn/contents/5749/44125.html	4627
+李昌盛		4		云南省	昭通市	https://www.sfs.gov.cn/channels/5746.html	副市长		水富市人民政府	https://www.sfs.gov.cn/contents/5749/38186.html	4627
+王波		5		云南省	昭通市	https://www.sfs.gov.cn/channels/5746.html	副市长		水富市人民政府	https://www.sfs.gov.cn/contents/5749/29086.html	4627

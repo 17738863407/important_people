@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李胜兵		1		云南省	怒江傈僳族自治州	https://www.fugong.gov.cn/html/xzf/	县长		福贡县人民政府	https://www.fugong.gov.cn/2022/0908/1869.html	4712
+李尚文		2		云南省	怒江傈僳族自治州	https://www.fugong.gov.cn/html/xzf/	副县长		福贡县人民政府	https://www.fugong.gov.cn/2026/0518/1861.html	4712
+张俊远		3		云南省	怒江傈僳族自治州	https://www.fugong.gov.cn/html/xzf/	副县长		福贡县人民政府	https://www.fugong.gov.cn/2024/0919/4019.html	4712
+张德运		4		云南省	怒江傈僳族自治州	https://www.fugong.gov.cn/html/xzf/	副县长		福贡县人民政府	https://www.fugong.gov.cn/2025/0701/4279.html	4712
+李勇		5		云南省	怒江傈僳族自治州	https://www.fugong.gov.cn/html/xzf/	副县长		福贡县人民政府	https://www.fugong.gov.cn/2024/0527/1868.html	4712
+刘婕		6		云南省	怒江傈僳族自治州	https://www.fugong.gov.cn/html/xzf/	副县长		福贡县人民政府	https://www.fugong.gov.cn/2024/0301/3400.html	4712
+田志华		7		云南省	怒江傈僳族自治州	https://www.fugong.gov.cn/html/xzf/	副县长		福贡县人民政府	https://www.fugong.gov.cn/2024/0410/3444.html	4712
+和文光		8		云南省	怒江傈僳族自治州	https://www.fugong.gov.cn/html/xzf/	副县长		福贡县人民政府	https://www.fugong.gov.cn/2026/0518/1865.html	4712
+周自全		9		云南省	怒江傈僳族自治州	https://www.fugong.gov.cn/html/xzf/	党组成员		福贡县人民政府	https://www.fugong.gov.cn/2026/0518/1873.html	4712

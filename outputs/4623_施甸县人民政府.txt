@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李芒生		1		云南省	保山市	https://www.shidian.gov.cn/zfxx/zfxxgkpt/fdzdgknr/zzjg.htm	县长		施甸县人民政府	https://www.shidian.gov.cn/info/1207/38773.htm	4623
+许一斌		2		云南省	保山市	https://www.shidian.gov.cn/zfxx/zfxxgkpt/fdzdgknr/zzjg.htm	副县长		施甸县人民政府	https://www.shidian.gov.cn/info/1208/53163.htm	4623
+王炜		3		云南省	保山市	https://www.shidian.gov.cn/zfxx/zfxxgkpt/fdzdgknr/zzjg.htm	副县长		施甸县人民政府	https://www.shidian.gov.cn/info/1208/53255.htm	4623
+蒋紫剑		4		云南省	保山市	https://www.shidian.gov.cn/zfxx/zfxxgkpt/fdzdgknr/zzjg.htm	副县长		施甸县人民政府	https://www.shidian.gov.cn/info/1208/26519.htm	4623
+张雅富		5		云南省	保山市	https://www.shidian.gov.cn/zfxx/zfxxgkpt/fdzdgknr/zzjg.htm	副县长		施甸县人民政府	https://www.shidian.gov.cn/info/1208/3561723.htm	4623
+杨家万		6		云南省	保山市	https://www.shidian.gov.cn/zfxx/zfxxgkpt/fdzdgknr/zzjg.htm	副县长		施甸县人民政府	https://www.shidian.gov.cn/info/1208/3801753.htm	4623
+张玺龙		7		云南省	保山市	https://www.shidian.gov.cn/zfxx/zfxxgkpt/fdzdgknr/zzjg.htm	副县长		施甸县人民政府	https://www.shidian.gov.cn/info/1208/3561713.htm	4623
+李娅		8		云南省	保山市	https://www.shidian.gov.cn/zfxx/zfxxgkpt/fdzdgknr/zzjg.htm	副县长		施甸县人民政府	https://www.shidian.gov.cn/info/1208/3714543.htm	4623
+杨磊		9		云南省	保山市	https://www.shidian.gov.cn/zfxx/zfxxgkpt/fdzdgknr/zzjg.htm	副县长		施甸县人民政府	https://www.shidian.gov.cn/info/1208/3801803.htm	4623
+李杰		10		云南省	保山市	https://www.shidian.gov.cn/zfxx/zfxxgkpt/fdzdgknr/zzjg.htm	副县长		施甸县人民政府	https://www.shidian.gov.cn/info/1208/3855013.htm	4623

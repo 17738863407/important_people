@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+普佳		1		云南省	昆明市	http://www.kmxd.gov.cn/zfxxgkml/fdzdgknr/zfld/	县委副书记，县人民政府县长		寻甸回族彝族自治县人民政府	http://www.kmxd.gov.cn/c/2026-08-31/5285229.shtml	4602
+查春来		2		云南省	昆明市	http://www.kmxd.gov.cn/zfxxgkml/fdzdgknr/zfld/	县委常委、常务副县长		寻甸回族彝族自治县人民政府	http://www.kmxd.gov.cn/c/2025-03-12/6690943.shtml	4602
+黄维岳		3		云南省	昆明市	http://www.kmxd.gov.cn/zfxxgkml/fdzdgknr/zfld/	县委常委、副县长		寻甸回族彝族自治县人民政府	http://www.kmxd.gov.cn/c/2025-02-12/5451213.shtml	4602
+徐永桢		4		云南省	昆明市	http://www.kmxd.gov.cn/zfxxgkml/fdzdgknr/zfld/	县委常委、副县长		寻甸回族彝族自治县人民政府	http://www.kmxd.gov.cn/c/2026-01-15/7097212.shtml	4602
+王郦玉		5		云南省	昆明市	http://www.kmxd.gov.cn/zfxxgkml/fdzdgknr/zfld/	县委常委、副县长（挂职）		寻甸回族彝族自治县人民政府	http://www.kmxd.gov.cn/c/2026-07-28/7165143.shtml	4602
+黄斌		6		云南省	昆明市	http://www.kmxd.gov.cn/zfxxgkml/fdzdgknr/zfld/	副县长		寻甸回族彝族自治县人民政府	http://www.kmxd.gov.cn/c/2025-06-23/6435097.shtml	4602
+彭丽娜		7		云南省	昆明市	http://www.kmxd.gov.cn/zfxxgkml/fdzdgknr/zfld/	副县长		寻甸回族彝族自治县人民政府	http://www.kmxd.gov.cn/c/2025-02-12/6621239.shtml	4602
+朱石祥		8		云南省	昆明市	http://www.kmxd.gov.cn/zfxxgkml/fdzdgknr/zfld/	副县长		寻甸回族彝族自治县人民政府	http://www.kmxd.gov.cn/c/2026-02-26/6835524.shtml	4602
+陈绍俊		9		云南省	昆明市	http://www.kmxd.gov.cn/zfxxgkml/fdzdgknr/zfld/	副县长、县公安局局长		寻甸回族彝族自治县人民政府	http://www.kmxd.gov.cn/c/2025-06-18/7020301.shtml	4602
+杨庭欢		10		云南省	昆明市	http://www.kmxd.gov.cn/zfxxgkml/fdzdgknr/zfld/	县人民政府三级调研员		寻甸回族彝族自治县人民政府	http://www.kmxd.gov.cn/c/2025-02-12/4634848.shtml	4602
+陈庆云		11		云南省	昆明市	http://www.kmxd.gov.cn/zfxxgkml/fdzdgknr/zfld/	县人民政府三级调研员		寻甸回族彝族自治县人民政府	http://www.kmxd.gov.cn/c/2025-02-13/6965619.shtml	4602

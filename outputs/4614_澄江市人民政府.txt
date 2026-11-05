@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王江飞		1		云南省	玉溪市	https://www.yncj.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=cjxzfxxgk&channelId=13397&pageNo=1	澄江市人民政府市长		澄江市人民政府	https://www.yncj.gov.cn/cj/zfldfg9029/20260910/1305978.html	4614
+魏勤发		2		云南省	玉溪市	https://www.yncj.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=cjxzfxxgk&channelId=13397&pageNo=1	澄江市人民政府副市长		澄江市人民政府	https://www.yncj.gov.cn/cj/zfldfg9029/20260910/1661584.html	4614
+李燕		3		云南省	玉溪市	https://www.yncj.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=cjxzfxxgk&channelId=13397&pageNo=1	澄江市人民政府副市长		澄江市人民政府	https://www.yncj.gov.cn/cj/zfldfg9029/20260910/1587600.html	4614
+吴卫		4		云南省	玉溪市	https://www.yncj.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=cjxzfxxgk&channelId=13397&pageNo=1	澄江市人民政府副市长、澄江市公安局局长		澄江市人民政府	https://www.yncj.gov.cn/cj/zfldfg9029/20260922/1681712.html	4614
+赵丽铢		5		云南省	玉溪市	https://www.yncj.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=cjxzfxxgk&channelId=13397&pageNo=1	澄江市人民政府副市长		澄江市人民政府	https://www.yncj.gov.cn/cj/zfldfg9029/20260910/1305962.html	4614
+李志昌		6		云南省	玉溪市	https://www.yncj.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=cjxzfxxgk&channelId=13397&pageNo=1	澄江市人民政府副市长		澄江市人民政府	https://www.yncj.gov.cn/cj/zfldfg9029/20260910/1305942.html	4614
+梁磊		7		云南省	玉溪市	https://www.yncj.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=cjxzfxxgk&channelId=13397&pageNo=1	澄江市人民政府副市长		澄江市人民政府	https://www.yncj.gov.cn/cj/zfldfg9029/20260910/1661585.html	4614
+张程		8		云南省	玉溪市	https://www.yncj.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=cjxzfxxgk&channelId=13397&pageNo=1	澄江市人民政府副市长		澄江市人民政府	https://www.yncj.gov.cn/cj/zfldfg9029/20260922/1681716.html	4614

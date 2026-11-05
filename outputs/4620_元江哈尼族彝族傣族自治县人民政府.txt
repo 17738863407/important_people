@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+罗继冰		1		云南省	玉溪市	https://www.yjx.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=yjxzfxxgk&channelId=22894&pageNo=1	县委副书记  县长		元江哈尼族彝族傣族自治县人民政府	https://www.yjx.gov.cn/yjxzfxxgk/zfldjqfg/20260917/1680522.html	4620
+赵栩翎		2		云南省	玉溪市	https://www.yjx.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=yjxzfxxgk&channelId=22894&pageNo=1	县委常委  副县长		元江哈尼族彝族傣族自治县人民政府	https://www.yjx.gov.cn/yjxzfxxgk/zfldjqfg/20260917/1680521.html	4620
+周先艳		3		云南省	玉溪市	https://www.yjx.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=yjxzfxxgk&channelId=22894&pageNo=1	县委常委 副县长		元江哈尼族彝族傣族自治县人民政府	https://www.yjx.gov.cn/yjxzfxxgk/zfldjqfg/20260917/1680516.html	4620
+牟立伟		4		云南省	玉溪市	https://www.yjx.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=yjxzfxxgk&channelId=22894&pageNo=1	县政府副县长  县公安局局长		元江哈尼族彝族傣族自治县人民政府	https://www.yjx.gov.cn/yjxzfxxgk/zfldjqfg/20260917/1680514.html	4620
+吴勇		5		云南省	玉溪市	https://www.yjx.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=yjxzfxxgk&channelId=22894&pageNo=1	县政府副县长		元江哈尼族彝族傣族自治县人民政府	https://www.yjx.gov.cn/yjxzfxxgk/zfldjqfg/20260917/1680512.html	4620
+杨淑涵		6		云南省	玉溪市	https://www.yjx.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=yjxzfxxgk&channelId=22894&pageNo=1	县政府副县长		元江哈尼族彝族傣族自治县人民政府	https://www.yjx.gov.cn/yjxzfxxgk/zfldjqfg/20260917/1680509.html	4620
+李永强		7		云南省	玉溪市	https://www.yjx.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=yjxzfxxgk&channelId=22894&pageNo=1	县政府副县长		元江哈尼族彝族傣族自治县人民政府	https://www.yjx.gov.cn/yjxzfxxgk/zfldjqfg/20260917/1680506.html	4620
+普松涛		8		云南省	玉溪市	https://www.yjx.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=yjxzfxxgk&channelId=22894&pageNo=1	县政府副县长		元江哈尼族彝族傣族自治县人民政府	https://www.yjx.gov.cn/yjxzfxxgk/zfldjqfg/20260917/1680503.html	4620

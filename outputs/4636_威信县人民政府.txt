@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+赵红		1		云南省	昭通市	https://www.weixin.gov.cn/channels/5571.html	县委副书记、县长		威信县人民政府	https://www.weixin.gov.cn/contents/5700/12607.html	4636
+熊良纯		2		云南省	昭通市	https://www.weixin.gov.cn/channels/5571.html	县委常委、常务副县长		威信县人民政府	https://www.weixin.gov.cn/contents/5701/20388.html	4636
+庄文峰		3		云南省	昭通市	https://www.weixin.gov.cn/channels/5571.html	县委常委、副县长		威信县人民政府	https://www.weixin.gov.cn/contents/5701/30820.html	4636
+芦阳		4		云南省	昭通市	https://www.weixin.gov.cn/channels/5571.html	县委常委、副县长		威信县人民政府	https://www.weixin.gov.cn/contents/5701/20393.html	4636
+袁昊		5		云南省	昭通市	https://www.weixin.gov.cn/channels/5571.html	副县长		威信县人民政府	https://www.weixin.gov.cn/contents/5701/23333.html	4636
+双家祥		6		云南省	昭通市	https://www.weixin.gov.cn/channels/5571.html	副县长、公安局长		威信县人民政府	https://www.weixin.gov.cn/contents/5701/20390.html	4636
+马正宇		7		云南省	昭通市	https://www.weixin.gov.cn/channels/5571.html	副县长		威信县人民政府	https://www.weixin.gov.cn/contents/5701/33902.html	4636
+陈宇		8		云南省	昭通市	https://www.weixin.gov.cn/channels/5571.html	副县长		威信县人民政府	https://www.weixin.gov.cn/contents/5701/20392.html	4636
+罗迅		9		云南省	昭通市	https://www.weixin.gov.cn/channels/5571.html	副县长		威信县人民政府	https://www.weixin.gov.cn/contents/5701/33832.html	4636
+王宗刚		10		云南省	昭通市	https://www.weixin.gov.cn/channels/5571.html	四级调研员		威信县人民政府	https://www.weixin.gov.cn/contents/5701/20391.html	4636

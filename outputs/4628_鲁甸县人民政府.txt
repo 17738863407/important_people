@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+匡锐		1		云南省	昭通市	https://www.ludian.gov.cn/channels/1697.html	县委副书记、县长		鲁甸县人民政府	https://www.ludian.gov.cn/contents/1699/208779.html	4628
+吴雅丽		2		云南省	昭通市	https://www.ludian.gov.cn/channels/1697.html	副县长		鲁甸县人民政府	https://www.ludian.gov.cn/contents/1700/218083.html	4628
+戈亮		3		云南省	昭通市	https://www.ludian.gov.cn/channels/1697.html	副县长		鲁甸县人民政府	https://www.ludian.gov.cn/contents/1700/218521.html	4628
+唐家乾		4		云南省	昭通市	https://www.ludian.gov.cn/channels/1697.html	副县长		鲁甸县人民政府	https://www.ludian.gov.cn/contents/1700/221329.html	4628
+夏万斗		5		云南省	昭通市	https://www.ludian.gov.cn/channels/1697.html	副县长		鲁甸县人民政府	https://www.ludian.gov.cn/contents/1700/148585.html	4628
+先勇		6		云南省	昭通市	https://www.ludian.gov.cn/channels/1697.html	副县长		鲁甸县人民政府	https://www.ludian.gov.cn/contents/1700/223728.html	4628
+王天能		7		云南省	昭通市	https://www.ludian.gov.cn/channels/1697.html	副县长		鲁甸县人民政府	https://www.ludian.gov.cn/contents/1700/217848.html	4628
+马腾		8		云南省	昭通市	https://www.ludian.gov.cn/channels/1697.html	副县长		鲁甸县人民政府	https://www.ludian.gov.cn/contents/1700/218090.html	4628
+王硕		9		云南省	昭通市	https://www.ludian.gov.cn/channels/1697.html	副县长		鲁甸县人民政府	https://www.ludian.gov.cn/contents/1700/221884.html	4628

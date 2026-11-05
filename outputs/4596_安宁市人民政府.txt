@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+孔祥英		1		云南省	昆明市	http://www.kman.gov.cn/zfxxgk/fdzdgknr/zfld/	市长		安宁市人民政府	http://www.kman.gov.cn/c/2026-06-17/6112980.shtml	4596
+周亮		2		云南省	昆明市	http://www.kman.gov.cn/zfxxgk/fdzdgknr/zfld/	副市长		安宁市人民政府	http://www.kman.gov.cn/c/2026-04-27/5451077.shtml	4596
+苏伟		3		云南省	昆明市	http://www.kman.gov.cn/zfxxgk/fdzdgknr/zfld/	副市长		安宁市人民政府	http://www.kman.gov.cn/c/2026-10-27/5792585.shtml	4596
+李琦		4		云南省	昆明市	http://www.kman.gov.cn/zfxxgk/fdzdgknr/zfld/	副市长		安宁市人民政府	http://www.kman.gov.cn/c/2026-01-01/5792600.shtml	4596
+李平		5		云南省	昆明市	http://www.kman.gov.cn/zfxxgk/fdzdgknr/zfld/	副市长		安宁市人民政府	http://www.kman.gov.cn/c/2026-01-01/6410000.shtml	4596
+戴国艳		6		云南省	昆明市	http://www.kman.gov.cn/zfxxgk/fdzdgknr/zfld/	副市长		安宁市人民政府	http://www.kman.gov.cn/c/2026-03-01/5472108.shtml	4596

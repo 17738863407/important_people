@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+曾灼三		1		云南省	楚雄彝族自治州	https://www.yr.gov.cn/zfxxgk/zfxxgk/fdzdgknr/zfld.htm	中共永仁县委副书记，永仁县人民政府党组书记、县长		永仁县人民政府	https://www.yr.gov.cn/info/1716/30388.htm	4667
+尹丽峰		2		云南省	楚雄彝族自治州	https://www.yr.gov.cn/zfxxgk/zfxxgk/fdzdgknr/zfld.htm	永仁县人民政府副县长		永仁县人民政府	https://www.yr.gov.cn/info/1716/30383.htm	4667
+宛宝山		3		云南省	楚雄彝族自治州	https://www.yr.gov.cn/zfxxgk/zfxxgk/fdzdgknr/zfld.htm	永仁县人民政府副县长		永仁县人民政府	https://www.yr.gov.cn/info/1716/52667.htm	4667
+韩琦		4		云南省	楚雄彝族自治州	https://www.yr.gov.cn/zfxxgk/zfxxgk/fdzdgknr/zfld.htm	中共永仁县委常委、永仁县人民政府副县长		永仁县人民政府	https://www.yr.gov.cn/info/1716/30386.htm	4667
+周崇毅		5		云南省	楚雄彝族自治州	https://www.yr.gov.cn/zfxxgk/zfxxgk/fdzdgknr/zfld.htm	永仁县人民政府副县长		永仁县人民政府	https://www.yr.gov.cn/info/1716/30384.htm	4667
+晏锦祥		6		云南省	楚雄彝族自治州	https://www.yr.gov.cn/zfxxgk/zfxxgk/fdzdgknr/zfld.htm	永仁县人民政府副县长、县公安局党委书记、局长		永仁县人民政府	https://www.yr.gov.cn/info/1716/44693.htm	4667
+刘韬		7		云南省	楚雄彝族自治州	https://www.yr.gov.cn/zfxxgk/zfxxgk/fdzdgknr/zfld.htm	永仁县人民政府副县长		永仁县人民政府	https://www.yr.gov.cn/info/1716/38426.htm	4667

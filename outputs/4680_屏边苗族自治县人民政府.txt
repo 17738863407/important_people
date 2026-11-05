@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨富丞		1		云南省	红河哈尼族彝族自治州	https://www.hhpb.gov.cn/xrmzf.htm	县委副书记、县长		屏边苗族自治县人民政府	https://www.hhpb.gov.cn/info/1021/475031.htm	4680
+苟云川		2		云南省	红河哈尼族彝族自治州	https://www.hhpb.gov.cn/xrmzf.htm	县委常委、常务副县长		屏边苗族自治县人民政府	https://www.hhpb.gov.cn/info/1021/68141.htm	4680
+饶斌		3		云南省	红河哈尼族彝族自治州	https://www.hhpb.gov.cn/xrmzf.htm	县委常委、副县长（挂职）		屏边苗族自治县人民政府	https://www.hhpb.gov.cn/info/1021/538441.htm	4680
+陈佳毅		4		云南省	红河哈尼族彝族自治州	https://www.hhpb.gov.cn/xrmzf.htm	县委常委、副县长（挂职）		屏边苗族自治县人民政府	https://www.hhpb.gov.cn/info/1021/538071.htm	4680
+吴红昌		5		云南省	红河哈尼族彝族自治州	https://www.hhpb.gov.cn/xrmzf.htm	副县长		屏边苗族自治县人民政府	https://www.hhpb.gov.cn/info/1021/68131.htm	4680
+杨盈盈		6		云南省	红河哈尼族彝族自治州	https://www.hhpb.gov.cn/xrmzf.htm	副县长		屏边苗族自治县人民政府	https://www.hhpb.gov.cn/info/1021/68121.htm	4680
+夏洪生		7		云南省	红河哈尼族彝族自治州	https://www.hhpb.gov.cn/xrmzf.htm	副县长		屏边苗族自治县人民政府	https://www.hhpb.gov.cn/info/1021/68111.htm	4680
+沈策		8		云南省	红河哈尼族彝族自治州	https://www.hhpb.gov.cn/xrmzf.htm	副县长		屏边苗族自治县人民政府	https://www.hhpb.gov.cn/info/1021/68101.htm	4680
+余鉴		9		云南省	红河哈尼族彝族自治州	https://www.hhpb.gov.cn/xrmzf.htm	副县长、县公安局局长		屏边苗族自治县人民政府	https://www.hhpb.gov.cn/info/1021/68081.htm	4680

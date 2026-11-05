@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周帮友		1		云南省	丽江市	https://www.ynljys.gov.cn/xljsysx/c101527/zw.shtml	县长		永胜县人民政府	https://www.ynljys.gov.cn/xljsysx/xianz/202505/cae788cb77694d0b91f1ed353e2bc143.shtml	4638
+杨永青		2		云南省	丽江市	https://www.ynljys.gov.cn/xljsysx/c101527/zw.shtml	常务副县长		永胜县人民政府	https://www.ynljys.gov.cn/xljsysx/fsz/202512/112750fbd94a49acbafd5aee18f607e7.shtml	4638
+陈跃华		3		云南省	丽江市	https://www.ynljys.gov.cn/xljsysx/c101527/zw.shtml	副县长		永胜县人民政府	https://www.ynljys.gov.cn/xljsysx/szfftj/202209/1ed2094dbd6042fdad14f00eb0560a99.shtml	4638
+喻向然		4		云南省	丽江市	https://www.ynljys.gov.cn/xljsysx/c101527/zw.shtml	副县长		永胜县人民政府	https://www.ynljys.gov.cn/xljsysx/szfftj/202501/dcd9cd249bf34d99928fa3322ef295a7.shtml	4638
+沙旭		5		云南省	丽江市	https://www.ynljys.gov.cn/xljsysx/c101527/zw.shtml	副县长		永胜县人民政府	https://www.ynljys.gov.cn/xljsysx/szfftj/202306/d302394a044f40a1951594a33cb5d503.shtml	4638
+李清春		6		云南省	丽江市	https://www.ynljys.gov.cn/xljsysx/c101527/zw.shtml	副县长		永胜县人民政府	https://www.ynljys.gov.cn/xljsysx/szfftj/202411/2b17ccdbd0144144ae6268eb48ef0e70.shtml	4638
+谭晓云		7		云南省	丽江市	https://www.ynljys.gov.cn/xljsysx/c101527/zw.shtml	副县长		永胜县人民政府	https://www.ynljys.gov.cn/xljsysx/szfftj/202209/0c8e13e11e774a48a3084876f8dbbe65.shtml	4638
+李想		8		云南省	丽江市	https://www.ynljys.gov.cn/xljsysx/c101527/zw.shtml	副县长		永胜县人民政府	https://www.ynljys.gov.cn/xljsysx/szfftj/202503/e1a6fa9094c94e13a3f5150c552019b8.shtml	4638

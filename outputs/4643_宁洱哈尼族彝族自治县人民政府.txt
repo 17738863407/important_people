@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周会国		1		云南省	普洱市	https://www.ne.gov.cn/zwgk1/fdzdgknr/zfld/zhg_xz_.htm	县长		宁洱哈尼族彝族自治县人民政府		4643
+张润		2		云南省	普洱市	https://www.ne.gov.cn/zwgk1/fdzdgknr/zfld/zhg_xz_.htm	常务副县长		宁洱哈尼族彝族自治县人民政府	https://www.ne.gov.cn/zwgk1/fdzdgknr/zfld/zr_cwfxz_.htm	4643
+沈燕金		3		云南省	普洱市	https://www.ne.gov.cn/zwgk1/fdzdgknr/zfld/zhg_xz_.htm	副县长		宁洱哈尼族彝族自治县人民政府	https://www.ne.gov.cn/zwgk1/fdzdgknr/zfld/syj_fxz_.htm	4643
+赵维志		4		云南省	普洱市	https://www.ne.gov.cn/zwgk1/fdzdgknr/zfld/zhg_xz_.htm	副县长、县公安局局长		宁洱哈尼族彝族自治县人民政府	https://www.ne.gov.cn/zwgk1/fdzdgknr/zfld/zwz_fxz_xgajjz_.htm	4643
+查健		5		云南省	普洱市	https://www.ne.gov.cn/zwgk1/fdzdgknr/zfld/zhg_xz_.htm	副县长		宁洱哈尼族彝族自治县人民政府	https://www.ne.gov.cn/zwgk1/fdzdgknr/zfld/cj_fxz_.htm	4643
+魏大嵩		6		云南省	普洱市	https://www.ne.gov.cn/zwgk1/fdzdgknr/zfld/zhg_xz_.htm	副县长		宁洱哈尼族彝族自治县人民政府	https://www.ne.gov.cn/zwgk1/fdzdgknr/zfld/wds_fxz_.htm	4643
+张馨予		7		云南省	普洱市	https://www.ne.gov.cn/zwgk1/fdzdgknr/zfld/zhg_xz_.htm	副县长		宁洱哈尼族彝族自治县人民政府	https://www.ne.gov.cn/zwgk1/fdzdgknr/zfld/zxy_fxz_.htm	4643
+赖金权		8		云南省	普洱市	https://www.ne.gov.cn/zwgk1/fdzdgknr/zfld/zhg_xz_.htm	副县长		宁洱哈尼族彝族自治县人民政府	https://www.ne.gov.cn/zwgk1/fdzdgknr/zfld/ljq_fxz_.htm	4643

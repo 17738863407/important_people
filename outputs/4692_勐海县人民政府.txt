@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+曾永		1		云南省	西双版纳傣族自治州	https://www.ynmh.gov.cn/zhengfuxinxigongkai/ldxx/	勐海县委副书记、县长		勐海县人民政府	https://www.ynmh.gov.cn/zhengfuxinxigongkai/ldxx/30431570.html	4692
+杨忠思		2		云南省	西双版纳傣族自治州	https://www.ynmh.gov.cn/zhengfuxinxigongkai/ldxx/	县委常委、县人民政府副县长		勐海县人民政府	https://www.ynmh.gov.cn/zhengfuxinxigongkai/ldxx/30506435.html	4692
+车逸		3		云南省	西双版纳傣族自治州	https://www.ynmh.gov.cn/zhengfuxinxigongkai/ldxx/	勐海县委常委、县人民政府党组成员、副县长（挂职三年）		勐海县人民政府	https://www.ynmh.gov.cn/zhengfuxinxigongkai/ldxx/30450333.html	4692
+夏白梅		4		云南省	西双版纳傣族自治州	https://www.ynmh.gov.cn/zhengfuxinxigongkai/ldxx/	勐海县常委、县人民政府党组成员、副县长		勐海县人民政府	https://www.ynmh.gov.cn/zhengfuxinxigongkai/ldxx/30431607.html	4692
+陈博巍		5		云南省	西双版纳傣族自治州	https://www.ynmh.gov.cn/zhengfuxinxigongkai/ldxx/	勐海县人民政府副县长		勐海县人民政府	https://www.ynmh.gov.cn/zhengfuxinxigongkai/ldxx/30431609.html	4692
+余俊锋		6		云南省	西双版纳傣族自治州	https://www.ynmh.gov.cn/zhengfuxinxigongkai/ldxx/	勐海县人民政府党组成员、副县长		勐海县人民政府	https://www.ynmh.gov.cn/zhengfuxinxigongkai/ldxx/30464240.html	4692
+孔央		7		云南省	西双版纳傣族自治州	https://www.ynmh.gov.cn/zhengfuxinxigongkai/ldxx/	勐海县人民政府党组成员、副县长		勐海县人民政府	https://www.ynmh.gov.cn/zhengfuxinxigongkai/ldxx/30464238.html	4692
+岩温扁龙		8		云南省	西双版纳傣族自治州	https://www.ynmh.gov.cn/zhengfuxinxigongkai/ldxx/	勐海县人民政府党组成员、县人民政府副县长		勐海县人民政府	https://www.ynmh.gov.cn/zhengfuxinxigongkai/ldxx/30494655.html	4692
+王志平		9		云南省	西双版纳傣族自治州	https://www.ynmh.gov.cn/zhengfuxinxigongkai/ldxx/	县人民政府副县长、县公安局局长		勐海县人民政府	https://www.ynmh.gov.cn/zhengfuxinxigongkai/ldxx/30506439.html	4692

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刀正强		1		云南省	昭通市	https://www.daguan.gov.cn/channels/763.html	中共大关县委副书记，县人民政府县长		大关县人民政府	https://www.daguan.gov.cn/contents/1587/66606.html	4631
+罗顺友		2		云南省	昭通市	https://www.daguan.gov.cn/channels/763.html	大关县委常委、常务副县长		大关县人民政府	https://www.daguan.gov.cn/contents/1588/66616.html	4631
+王冰		3		云南省	昭通市	https://www.daguan.gov.cn/channels/763.html	大关县委常委、县人民政府副县长（挂职）		大关县人民政府	https://www.daguan.gov.cn/contents/1588/66612.html	4631
+赵康		4		云南省	昭通市	https://www.daguan.gov.cn/channels/763.html	大关县委常委、县人民政府副县长（挂职）		大关县人民政府	https://www.daguan.gov.cn/contents/1588/222095.html	4631
+李志新		5		云南省	昭通市	https://www.daguan.gov.cn/channels/763.html	大关县委常委、县人民政府副县长（挂职）		大关县人民政府	https://www.daguan.gov.cn/contents/1588/66613.html	4631
+毛兴安		6		云南省	昭通市	https://www.daguan.gov.cn/channels/763.html	大关县人民政府副县长、县公安局局长		大关县人民政府	https://www.daguan.gov.cn/contents/1588/66608.html	4631
+唐章雄		7		云南省	昭通市	https://www.daguan.gov.cn/channels/763.html	大关县人民政府副县长		大关县人民政府	https://www.daguan.gov.cn/contents/1588/66615.html	4631
+吴昌虎		8		云南省	昭通市	https://www.daguan.gov.cn/channels/763.html	大关县人民政府副县长		大关县人民政府	https://www.daguan.gov.cn/contents/1588/225177.html	4631
+刘颖		9		云南省	昭通市	https://www.daguan.gov.cn/channels/763.html	大关县人民政府副县长		大关县人民政府	https://www.daguan.gov.cn/contents/1588/223004.html	4631

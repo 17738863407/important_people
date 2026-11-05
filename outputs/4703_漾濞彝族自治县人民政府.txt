@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+罗荣发		1		云南省	大理白族自治州	https://www.yangbi.gov.cn/ybxrmzf/c102073/pc/list.html	中共漾濞彝族自治县委副书记、县人民政府县长		漾濞彝族自治县人民政府	https://www.yangbi.gov.cn/ybxrmzf/c102075/pc/content/2018140668973649920/content_2018140668973649920.html	4703
+杨祥宣		2		云南省	大理白族自治州	https://www.yangbi.gov.cn/ybxrmzf/c102073/pc/list.html	常务副县长		漾濞彝族自治县人民政府	https://www.yangbi.gov.cn/ybxrmzf/c102078/pc/content/1990074306632192000/content_1990074306632192000.html	4703
+盛城		3		云南省	大理白族自治州	https://www.yangbi.gov.cn/ybxrmzf/c102073/pc/list.html	副县长		漾濞彝族自治县人民政府	https://www.yangbi.gov.cn/ybxrmzf/c102078/pc/content/1990073760407982080/content_1990073760407982080.html	4703
+吴绍斌		4		云南省	大理白族自治州	https://www.yangbi.gov.cn/ybxrmzf/c102073/pc/list.html	副县长		漾濞彝族自治县人民政府	https://www.yangbi.gov.cn/ybxrmzf/c102078/pc/content/1990073633605783552/content_1990073633605783552.html	4703
+王继琴		5		云南省	大理白族自治州	https://www.yangbi.gov.cn/ybxrmzf/c102073/pc/list.html	副县长		漾濞彝族自治县人民政府	https://www.yangbi.gov.cn/ybxrmzf/c102078/pc/content/1990073342143598592/content_1990073342143598592.html	4703
+张奇		6		云南省	大理白族自治州	https://www.yangbi.gov.cn/ybxrmzf/c102073/pc/list.html	副县长		漾濞彝族自治县人民政府	https://www.yangbi.gov.cn/ybxrmzf/c102078/pc/content/1990072884574392320/content_1990072884574392320.html	4703
+何建兵		7		云南省	大理白族自治州	https://www.yangbi.gov.cn/ybxrmzf/c102073/pc/list.html	副县长		漾濞彝族自治县人民政府	https://www.yangbi.gov.cn/ybxrmzf/c102078/pc/content/1990072237716246528/content_1990072237716246528.html	4703
+段巍巍		8		云南省	大理白族自治州	https://www.yangbi.gov.cn/ybxrmzf/c102073/pc/list.html	副县长		漾濞彝族自治县人民政府	https://www.yangbi.gov.cn/ybxrmzf/c102078/pc/content/1990072128123277312/content_1990072128123277312.html	4703
+陈飞		9		云南省	大理白族自治州	https://www.yangbi.gov.cn/ybxrmzf/c102073/pc/list.html	副县长		漾濞彝族自治县人民政府	https://www.yangbi.gov.cn/ybxrmzf/c102078/pc/content/1995327610408767488/content_1995327610408767488.html	4703

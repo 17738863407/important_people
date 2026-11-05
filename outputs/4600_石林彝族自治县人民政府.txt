@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+高鸣		1		云南省	昆明市	http://www.kmsl.gov.cn/zfxxgk/fdzdgknr/ldxx/	县长		石林彝族自治县人民政府	http://www.kmsl.gov.cn/c/2026-06-30/7157836.shtml	4600
+尹桂华		2		云南省	昆明市	http://www.kmsl.gov.cn/zfxxgk/fdzdgknr/ldxx/	副县长		石林彝族自治县人民政府	http://www.kmsl.gov.cn/c/2025-07-01/7025551.shtml	4600
+王进前		3		云南省	昆明市	http://www.kmsl.gov.cn/zfxxgk/fdzdgknr/ldxx/	副县长		石林彝族自治县人民政府	http://www.kmsl.gov.cn/c/2025-07-01/5672762.shtml	4600
+张俊		4		云南省	昆明市	http://www.kmsl.gov.cn/zfxxgk/fdzdgknr/ldxx/	副县长		石林彝族自治县人民政府	http://www.kmsl.gov.cn/c/2025-07-01/7025562.shtml	4600
+马玲		5		云南省	昆明市	http://www.kmsl.gov.cn/zfxxgk/fdzdgknr/ldxx/	副县长		石林彝族自治县人民政府	http://www.kmsl.gov.cn/c/2025-07-01/5231043.shtml	4600
+李云湖		6		云南省	昆明市	http://www.kmsl.gov.cn/zfxxgk/fdzdgknr/ldxx/	副县长		石林彝族自治县人民政府	http://www.kmsl.gov.cn/c/2025-07-01/6838730.shtml	4600
+梁捷		7		云南省	昆明市	http://www.kmsl.gov.cn/zfxxgk/fdzdgknr/ldxx/	副县长		石林彝族自治县人民政府	http://www.kmsl.gov.cn/c/2026-09-18/7180931.shtml	4600

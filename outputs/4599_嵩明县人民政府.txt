@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+武春禄		1		云南省	昆明市	http://www.kmsm.gov.cn/zfxxgk/fdzdgknr/zfld/	县长		嵩明县人民政府	http://www.kmsm.gov.cn/c/2022-07-27/5122365.shtml	4599
+魏双喜		2		云南省	昆明市	http://www.kmsm.gov.cn/zfxxgk/fdzdgknr/zfld/	副县长		嵩明县人民政府	http://www.kmsm.gov.cn/c/2023-06-24/6622499.shtml	4599
+那铮		3		云南省	昆明市	http://www.kmsm.gov.cn/zfxxgk/fdzdgknr/zfld/	副县长		嵩明县人民政府	http://www.kmsm.gov.cn/c/2025-12-22/7089287.shtml	4599
+张军		4		云南省	昆明市	http://www.kmsm.gov.cn/zfxxgk/fdzdgknr/zfld/	副县长		嵩明县人民政府	http://www.kmsm.gov.cn/c/2025-10-20/5122439.shtml	4599
+唐海		5		云南省	昆明市	http://www.kmsm.gov.cn/zfxxgk/fdzdgknr/zfld/	副县长		嵩明县人民政府	http://www.kmsm.gov.cn/c/2021-04-28/5122468.shtml	4599
+苏志斌		6		云南省	昆明市	http://www.kmsm.gov.cn/zfxxgk/fdzdgknr/zfld/	副县长		嵩明县人民政府	http://www.kmsm.gov.cn/c/2022-01-04/5698868.shtml	4599
+姜雯		7		云南省	昆明市	http://www.kmsm.gov.cn/zfxxgk/fdzdgknr/zfld/	副县长		嵩明县人民政府	http://www.kmsm.gov.cn/c/2025-10-20/7064189.shtml	4599
+刘彦		8		云南省	昆明市	http://www.kmsm.gov.cn/zfxxgk/fdzdgknr/zfld/	县政府党组成员		嵩明县人民政府	http://www.kmsm.gov.cn/c/2024-07-01/6390088.shtml	4599

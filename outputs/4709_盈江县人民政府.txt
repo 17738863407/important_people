@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+查金鹏		1		云南省	德宏傣族景颇族自治州	https://www.dhyj.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	县长		盈江县人民政府	https://www.dhyj.gov.cn/Web/_F0_0_538GETTN40C361ACEDAE4A82B8.htm	4709
+彭晓波		2		云南省	德宏傣族景颇族自治州	https://www.dhyj.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副县长		盈江县人民政府	https://www.dhyj.gov.cn/Web/_F0_0_55TO3NQRB5528D862CC64249AE.htm	4709
+刘丽伟		3		云南省	德宏傣族景颇族自治州	https://www.dhyj.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副县长		盈江县人民政府	https://www.dhyj.gov.cn/Web/_F0_0_6J8KHMCK6C97DC4548BC4DA5BE.htm	4709
+张茂山		4		云南省	德宏傣族景颇族自治州	https://www.dhyj.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副县长		盈江县人民政府	https://www.dhyj.gov.cn/Web/_F0_0_6L6CIJD08C90049136B340FA83.htm	4709
+刘辉		5		云南省	德宏傣族景颇族自治州	https://www.dhyj.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副县长		盈江县人民政府	https://www.dhyj.gov.cn/Web/_F0_0_6MBS8PDI527391EAD24D47CE82.htm	4709
+邓铨成		6		云南省	德宏傣族景颇族自治州	https://www.dhyj.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副县长		盈江县人民政府	https://www.dhyj.gov.cn/Web/_F0_0_5EDUMTL8B861269378CC4054B1.htm	4709
+张艳		7		云南省	德宏傣族景颇族自治州	https://www.dhyj.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副县长		盈江县人民政府	https://www.dhyj.gov.cn/Web/_F0_0_6MKOSLRH7C4C2093A1B344658C.htm	4709
+杨飞		8		云南省	德宏傣族景颇族自治州	https://www.dhyj.gov.cn/Web/_M31_4QWU1NV518B4429ABE394586B3_1.htm	副县长		盈江县人民政府	https://www.dhyj.gov.cn/Web/_F0_0_65DIRJ7465A3502A2A6F4AA99B.htm	4709

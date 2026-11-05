@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨正云		1		云南省	普洱市	https://www.pezhenyuan.gov.cn/zwgk.htm	普洱市镇沅县委副书记、副县长、代理县长		镇沅彝族哈尼族拉祜族自治县人民政府	https://www.pezhenyuan.gov.cn/info/22074/118921.htm	4647
+叶坤		2		云南省	普洱市	https://www.pezhenyuan.gov.cn/zwgk.htm	常务副县长		镇沅彝族哈尼族拉祜族自治县人民政府	https://www.pezhenyuan.gov.cn/info/22094/119421.htm	4647
+周志衡		3		云南省	普洱市	https://www.pezhenyuan.gov.cn/zwgk.htm	县人民政府副县长、县公安局长		镇沅彝族哈尼族拉祜族自治县人民政府	https://www.pezhenyuan.gov.cn/info/22064/431572.htm	4647
+那峻滔		4		云南省	普洱市	https://www.pezhenyuan.gov.cn/zwgk.htm	副县长		镇沅彝族哈尼族拉祜族自治县人民政府	https://www.pezhenyuan.gov.cn/info/22064/431602.htm	4647
+吴国旗		5		云南省	普洱市	https://www.pezhenyuan.gov.cn/zwgk.htm	副县长		镇沅彝族哈尼族拉祜族自治县人民政府	https://www.pezhenyuan.gov.cn/info/22064/431562.htm	4647
+杜瑜		6		云南省	普洱市	https://www.pezhenyuan.gov.cn/zwgk.htm	副县长		镇沅彝族哈尼族拉祜族自治县人民政府	https://www.pezhenyuan.gov.cn/info/22064/431592.htm	4647

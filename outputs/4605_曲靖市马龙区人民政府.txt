@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+玉燕叫		1		云南省	曲靖市	https://www.malong.gov.cn/gov/public/info/2zfld.html	区委副书记，区人民政府区长、党组书记		曲靖市马龙区人民政府	https://www.malong.gov.cn/gov/public/detail/2zfld/71126.html	4605
+符仕康		2		云南省	曲靖市	https://www.malong.gov.cn/gov/public/info/2zfld.html	区委常委，区人民政府常务副区长、党组副书记		曲靖市马龙区人民政府	https://www.malong.gov.cn/gov/public/detail/2zfld/90781.html	4605
+符世伟		3		云南省	曲靖市	https://www.malong.gov.cn/gov/public/info/2zfld.html	区委常委，区人民政府副区长、党组成员		曲靖市马龙区人民政府	https://www.malong.gov.cn/gov/public/detail/2zfld/79711.html	4605
+赵征标		4		云南省	曲靖市	https://www.malong.gov.cn/gov/public/info/2zfld.html	区人民政府副区长、党组成员，市公安局马龙分局局长		曲靖市马龙区人民政府	https://www.malong.gov.cn/gov/public/detail/2zfld/71131.html	4605
+高保睿		5		云南省	曲靖市	https://www.malong.gov.cn/gov/public/info/2zfld.html	区人民政府副区长、党组成员		曲靖市马龙区人民政府	https://www.malong.gov.cn/gov/public/detail/2zfld/71132.html	4605
+尹朝良		6		云南省	曲靖市	https://www.malong.gov.cn/gov/public/info/2zfld.html	区人民政府副区长、党组成员		曲靖市马龙区人民政府	https://www.malong.gov.cn/gov/public/detail/2zfld/71133.html	4605
+赵光南		7		云南省	曲靖市	https://www.malong.gov.cn/gov/public/info/2zfld.html	区人民政府副区长、党组成员		曲靖市马龙区人民政府	https://www.malong.gov.cn/gov/public/detail/2zfld/71134.html	4605
+李勇		8		云南省	曲靖市	https://www.malong.gov.cn/gov/public/info/2zfld.html	区人民政府副区长		曲靖市马龙区人民政府	https://www.malong.gov.cn/gov/public/detail/2zfld/71135.html	4605
+魏寒松		9		云南省	曲靖市	https://www.malong.gov.cn/gov/public/info/2zfld.html	区人民政府副区长（挂职）		曲靖市马龙区人民政府	https://www.malong.gov.cn/gov/public/detail/2zfld/81991.html	4605

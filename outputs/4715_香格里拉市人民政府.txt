@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+斯那扎史		1		云南省	迪庆藏族自治州	https://www.xianggelila.gov.cn/zfxxgk_xglls/zfldxx.html	香格里拉市委副书记、市人民政府市长		香格里拉市人民政府	https://www.xianggelila.gov.cn/zfxxgk_xglls/ldyview/58/1373.html	4715
+仁钦多杰		2		云南省	迪庆藏族自治州	https://www.xianggelila.gov.cn/zfxxgk_xglls/zfldxx.html	香格里拉市委常委、常务副市长		香格里拉市人民政府	https://www.xianggelila.gov.cn/zfxxgk_xglls/ldyview/58/1414.html	4715
+徐志安		3		云南省	迪庆藏族自治州	https://www.xianggelila.gov.cn/zfxxgk_xglls/zfldxx.html	香格里拉市委常委、市人民政府副市长（挂职）		香格里拉市人民政府	https://www.xianggelila.gov.cn/zfxxgk_xglls/ldyview/58/1020.html	4715
+黄志斌		4		云南省	迪庆藏族自治州	https://www.xianggelila.gov.cn/zfxxgk_xglls/zfldxx.html	香格里拉市委常委、市人民政府副市长（挂职）		香格里拉市人民政府	https://www.xianggelila.gov.cn/zfxxgk_xglls/ldyview/58/1379.html	4715
+和贵忠		5		云南省	迪庆藏族自治州	https://www.xianggelila.gov.cn/zfxxgk_xglls/zfldxx.html	香格里拉市人民政府副市长、市公安局局长、督察长		香格里拉市人民政府	https://www.xianggelila.gov.cn/zfxxgk_xglls/ldyview/58/1374.html	4715
+高志华		6		云南省	迪庆藏族自治州	https://www.xianggelila.gov.cn/zfxxgk_xglls/zfldxx.html	香格里拉市人民政府副市长		香格里拉市人民政府	https://www.xianggelila.gov.cn/zfxxgk_xglls/ldyview/58/1396.html	4715
+郑建江		7		云南省	迪庆藏族自治州	https://www.xianggelila.gov.cn/zfxxgk_xglls/zfldxx.html	香格里拉市人民政府副市长		香格里拉市人民政府	https://www.xianggelila.gov.cn/zfxxgk_xglls/ldyview/58/711.html	4715
+李建华		8		云南省	迪庆藏族自治州	https://www.xianggelila.gov.cn/zfxxgk_xglls/zfldxx.html	香格里拉市人民政府副市长		香格里拉市人民政府	https://www.xianggelila.gov.cn/zfxxgk_xglls/ldyview/58/1038.html	4715
+徐铮		9		云南省	迪庆藏族自治州	https://www.xianggelila.gov.cn/zfxxgk_xglls/zfldxx.html	香格里拉市人民政府副市长		香格里拉市人民政府	https://www.xianggelila.gov.cn/zfxxgk_xglls/ldyview/58/1394.html	4715
+孙哲		10		云南省	迪庆藏族自治州	https://www.xianggelila.gov.cn/zfxxgk_xglls/zfldxx.html	香格里拉市人民政府副市长（挂职）		香格里拉市人民政府	https://www.xianggelila.gov.cn/zfxxgk_xglls/ldyview/58/1391.html	4715

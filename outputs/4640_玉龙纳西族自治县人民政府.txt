@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+周志坚		1		云南省	丽江市	https://www.yulong.gov.cn/xljylx/c101527/zw.shtml	县长		玉龙纳西族自治县人民政府	https://www.yulong.gov.cn/xljylx/c102703/202601/28b8cdf8daa44b37b8d22e926ee8f8fd.shtml	4640
+和佳旺		2		云南省	丽江市	https://www.yulong.gov.cn/xljylx/c101527/zw.shtml	常务副县长		玉龙纳西族自治县人民政府	https://www.yulong.gov.cn/xljylx/c102704/202112/7ccf04d5c9ce423c9bb4a1274bfbda4c.shtml	4640
+和志山		3		云南省	丽江市	https://www.yulong.gov.cn/xljylx/c101527/zw.shtml	副县长		玉龙纳西族自治县人民政府	https://www.yulong.gov.cn/xljylx/c102705/202504/5c56243f31b64d8eafd4869d42fb0aeb.shtml	4640
+李威		4		云南省	丽江市	https://www.yulong.gov.cn/xljylx/c101527/zw.shtml	副县长		玉龙纳西族自治县人民政府	https://www.yulong.gov.cn/xljylx/c102705/202210/c9632a690cb7421e819e0efe5f44663b.shtml	4640
+吴洪顶		5		云南省	丽江市	https://www.yulong.gov.cn/xljylx/c101527/zw.shtml	副县长		玉龙纳西族自治县人民政府	https://www.yulong.gov.cn/xljylx/c102705/202210/f2b1e7b159aa4698a55750ac70d7b7f4.shtml	4640
+沈晓明		6		云南省	丽江市	https://www.yulong.gov.cn/xljylx/c101527/zw.shtml	副县长		玉龙纳西族自治县人民政府	https://www.yulong.gov.cn/xljylx/c102705/202401/d4539e70b9754e0eb14b4628d5f5f314.shtml	4640
+夏山赢		7		云南省	丽江市	https://www.yulong.gov.cn/xljylx/c101527/zw.shtml	副县长		玉龙纳西族自治县人民政府	https://www.yulong.gov.cn/xljylx/c102705/202210/e2400178d6f84d46888abb21ae86e853.shtml	4640
+高其		8		云南省	丽江市	https://www.yulong.gov.cn/xljylx/c101527/zw.shtml	副县长		玉龙纳西族自治县人民政府	https://www.yulong.gov.cn/xljylx/c102705/202412/653f0b8c99d04bffb3c5e7e3fa127b59.shtml	4640
+张晓燕		9		云南省	丽江市	https://www.yulong.gov.cn/xljylx/c101527/zw.shtml	副县长		玉龙纳西族自治县人民政府	https://www.yulong.gov.cn/xljylx/c102705/202502/8814783524e848c7b466b4613b54b872.shtml	4640
+和志强		10		云南省	丽江市	https://www.yulong.gov.cn/xljylx/c101527/zw.shtml	副处级领导		玉龙纳西族自治县人民政府	https://www.yulong.gov.cn/xljylx/c102706/202012/ded0a55060a14711a5a4f5baf560ae67.shtml	4640

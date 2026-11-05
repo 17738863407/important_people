@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王嘉玲		1		云南省		https://www.hh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	州委副书记、代理州长		红河哈尼族彝族自治州人民政府	https://www.hh.gov.cn/info/192491/1294122.htm	4582
+范喜		2		云南省		https://www.hh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副州长		红河哈尼族彝族自治州人民政府	https://www.hh.gov.cn/info/192501/1288872.htm	4582
+李拯宇		3		云南省		https://www.hh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副州长（挂职）		红河哈尼族彝族自治州人民政府	https://www.hh.gov.cn/info/192501/1237352.htm	4582
+张木星		4		云南省		https://www.hh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副州长（挂职）		红河哈尼族彝族自治州人民政府	https://www.hh.gov.cn/info/192501/1271342.htm	4582
+周永瑜		5		云南省		https://www.hh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副州长		红河哈尼族彝族自治州人民政府	https://www.hh.gov.cn/info/192501/284541.htm	4582
+陆强		6		云南省		https://www.hh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副州长		红河哈尼族彝族自治州人民政府	https://www.hh.gov.cn/info/192501/284501.htm	4582
+宋文辉		7		云南省		https://www.hh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副州长		红河哈尼族彝族自治州人民政府	https://www.hh.gov.cn/info/192501/1152842.htm	4582
+陆波		8		云南省		https://www.hh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副州长		红河哈尼族彝族自治州人民政府	https://www.hh.gov.cn/info/192501/1209512.htm	4582
+于洋		9		云南省		https://www.hh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	秘书长		红河哈尼族彝族自治州人民政府	https://www.hh.gov.cn/info/192511/1271322.htm	4582

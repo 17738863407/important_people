@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+何春		1		云南省	普洱市	https://www.menglian.gov.cn/xzfldbz.htm	县长		孟连傣族拉祜族佤族自治县人民政府	https://www.menglian.gov.cn/info/60104/1013631.htm	4649
+许辉		2		云南省	普洱市	https://www.menglian.gov.cn/xzfldbz.htm	常务副县长		孟连傣族拉祜族佤族自治县人民政府	https://www.menglian.gov.cn/info/60124/857281.htm	4649
+程志军		3		云南省	普洱市	https://www.menglian.gov.cn/xzfldbz.htm	副县长（挂职）		孟连傣族拉祜族佤族自治县人民政府	https://www.menglian.gov.cn/info/60124/637351.htm	4649
+刀家云		4		云南省	普洱市	https://www.menglian.gov.cn/xzfldbz.htm	副县长		孟连傣族拉祜族佤族自治县人民政府	https://www.menglian.gov.cn/info/60124/857251.htm	4649
+沈应发		5		云南省	普洱市	https://www.menglian.gov.cn/xzfldbz.htm	副县长		孟连傣族拉祜族佤族自治县人民政府	https://www.menglian.gov.cn/info/60124/1012321.htm	4649
+赵新福		6		云南省	普洱市	https://www.menglian.gov.cn/xzfldbz.htm	副县长		孟连傣族拉祜族佤族自治县人民政府	https://www.menglian.gov.cn/info/60124/1013671.htm	4649
+杨华		7		云南省	普洱市	https://www.menglian.gov.cn/xzfldbz.htm	副县长		孟连傣族拉祜族佤族自治县人民政府	https://www.menglian.gov.cn/info/60124/1013661.htm	4649
+蔡芹		8		云南省	普洱市	https://www.menglian.gov.cn/xzfldbz.htm	副县长（挂职）		孟连傣族拉祜族佤族自治县人民政府	https://www.menglian.gov.cn/info/60124/1012331.htm	4649

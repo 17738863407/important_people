@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+王剑		1		云南省	大理白族自治州	https://www.yndali.gov.cn/dlsrmzf/c103317/pc/list.html	市长		大理市人民政府	https://www.yndali.gov.cn/dlsrmzf/c103318/pc/content/1981542521271062528/content_1981542521271062528.html	4694
+杨红波		2		云南省	大理白族自治州	https://www.yndali.gov.cn/dlsrmzf/c103317/pc/list.html	常务副市长		大理市人民政府	https://www.yndali.gov.cn/dlsrmzf/c103320/pc/content/1981544587196469248/content_1981544587196469248.html	4694
+茶加标		3		云南省	大理白族自治州	https://www.yndali.gov.cn/dlsrmzf/c103317/pc/list.html	副市长		大理市人民政府	https://www.yndali.gov.cn/dlsrmzf/c103322/pc/content/1981544633094737920/content_1981544633094737920.html	4694
+赵皖平		4		云南省	大理白族自治州	https://www.yndali.gov.cn/dlsrmzf/c103317/pc/list.html	副市长		大理市人民政府	https://www.yndali.gov.cn/dlsrmzf/c103322/pc/content/1981544616728563712/content_1981544616728563712.html	4694
+高亮柏		5		云南省	大理白族自治州	https://www.yndali.gov.cn/dlsrmzf/c103317/pc/list.html	副市长		大理市人民政府	https://www.yndali.gov.cn/dlsrmzf/c103322/pc/content/1981544604623802368/content_1981544604623802368.html	4694
+张世海		6		云南省	大理白族自治州	https://www.yndali.gov.cn/dlsrmzf/c103317/pc/list.html	副市长		大理市人民政府	https://www.yndali.gov.cn/dlsrmzf/c103322/pc/content/2031669402695405568/content_2031669402695405568.html	4694
+杨彬		7		云南省	大理白族自治州	https://www.yndali.gov.cn/dlsrmzf/c103317/pc/list.html	副市长		大理市人民政府	https://www.yndali.gov.cn/dlsrmzf/c103322/pc/content/1981544635061866496/content_1981544635061866496.html	4694
+刘旺		8		云南省	大理白族自治州	https://www.yndali.gov.cn/dlsrmzf/c103317/pc/list.html	市政府调研员		大理市人民政府	https://www.yndali.gov.cn/dlsrmzf/c101349/pc/content/1981544646919163904/content_1981544646919163904.html	4694
+马明		9		云南省	大理白族自治州	https://www.yndali.gov.cn/dlsrmzf/c103317/pc/list.html	市政府调研员		大理市人民政府	https://www.yndali.gov.cn/dlsrmzf/c101349/pc/content/1981544648991150080/content_1981544648991150080.html	4694

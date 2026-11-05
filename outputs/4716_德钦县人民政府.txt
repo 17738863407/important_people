@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+刘东洋		1		云南省	迪庆藏族自治州	https://deqin.gov.cn/zfxxgk_deqin/zfldxx.html	县委副书记、县长		德钦县人民政府	https://deqin.gov.cn/zfxxgk_deqin/ldyview/58/1019.html	4716
+卢鑫钰		2		云南省	迪庆藏族自治州	https://deqin.gov.cn/zfxxgk_deqin/zfldxx.html	县委常委，县人民政府常务副县长		德钦县人民政府	https://deqin.gov.cn/zfxxgk_deqin/ldyview/58/1052.html	4716
+任高攀		3		云南省	迪庆藏族自治州	https://deqin.gov.cn/zfxxgk_deqin/zfldxx.html	德钦县县委常委，县人民政府副县长		德钦县人民政府	https://deqin.gov.cn/zfxxgk_deqin/ldyview/58/1014.html	4716
+高飞		4		云南省	迪庆藏族自治州	https://deqin.gov.cn/zfxxgk_deqin/zfldxx.html	县人民政府副县长		德钦县人民政府	https://deqin.gov.cn/zfxxgk_deqin/ldyview/58/1012.html	4716
+培布		5		云南省	迪庆藏族自治州	https://deqin.gov.cn/zfxxgk_deqin/zfldxx.html	县人民政府副县长		德钦县人民政府	https://deqin.gov.cn/zfxxgk_deqin/ldyview/58/1032.html	4716
+罗懿康		6		云南省	迪庆藏族自治州	https://deqin.gov.cn/zfxxgk_deqin/zfldxx.html	德钦县人民政府副县长		德钦县人民政府	https://deqin.gov.cn/zfxxgk_deqin/ldyview/58/1008.html	4716
+杨晓军		7		云南省	迪庆藏族自治州	https://deqin.gov.cn/zfxxgk_deqin/zfldxx.html	德钦县人民政府副县长、德钦县公安局党委书记、局长		德钦县人民政府	https://deqin.gov.cn/zfxxgk_deqin/ldyview/58/997.html	4716
+拖顶达瓦		8		云南省	迪庆藏族自治州	https://deqin.gov.cn/zfxxgk_deqin/zfldxx.html	德钦县人民政府副县长		德钦县人民政府	https://deqin.gov.cn/zfxxgk_deqin/ldyview/58/1026.html	4716
+赵志忠		9		云南省	迪庆藏族自治州	https://deqin.gov.cn/zfxxgk_deqin/zfldxx.html	县人民政府副县长		德钦县人民政府	https://deqin.gov.cn/zfxxgk_deqin/ldyview/58/1023.html	4716
+扎西卓玛		10		云南省	迪庆藏族自治州	https://deqin.gov.cn/zfxxgk_deqin/zfldxx.html	县人民政府副县长		德钦县人民政府	https://deqin.gov.cn/zfxxgk_deqin/ldyview/58/1025.html	4716
+路伟真		11		云南省	迪庆藏族自治州	https://deqin.gov.cn/zfxxgk_deqin/zfldxx.html	德钦县人民政府副县长		德钦县人民政府	https://deqin.gov.cn/zfxxgk_deqin/ldyview/58/1011.html	4716

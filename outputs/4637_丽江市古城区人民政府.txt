@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+胡帮彬		1		云南省	丽江市	http://www.ljgucheng.gov.cn/xljgcq/c101527/zw.shtml	区长		丽江市古城区人民政府	http://www.ljgucheng.gov.cn/xljgcq/c101529/202111/a2fd33a5a743478e918fb43e06aec603.shtml	4637
+吴少翔		2		云南省	丽江市	http://www.ljgucheng.gov.cn/xljgcq/c101527/zw.shtml	常务副区长		丽江市古城区人民政府	http://www.ljgucheng.gov.cn/xljgcq/c101529/202111/3ee5ec616c3f421babd5dfa92ad8e5bc.shtml	4637
+木新宇		3		云南省	丽江市	http://www.ljgucheng.gov.cn/xljgcq/c101527/zw.shtml	副区长		丽江市古城区人民政府	http://www.ljgucheng.gov.cn/xljgcq/c101529/202412/92c3f30b085f4afa9357173b2efef73a.shtml	4637
+董国才		4		云南省	丽江市	http://www.ljgucheng.gov.cn/xljgcq/c101527/zw.shtml	副区长		丽江市古城区人民政府	http://www.ljgucheng.gov.cn/xljgcq/c101529/202111/17088f8d6df74cc79d2f8ac7e169a328.shtml	4637
+杨宝慧		5		云南省	丽江市	http://www.ljgucheng.gov.cn/xljgcq/c101527/zw.shtml	副区长		丽江市古城区人民政府	http://www.ljgucheng.gov.cn/xljgcq/c101529/202208/e6288a6b21214a2da15f7cb69c33c061.shtml	4637
+杨少林		6		云南省	丽江市	http://www.ljgucheng.gov.cn/xljgcq/c101527/zw.shtml	副区长		丽江市古城区人民政府	http://www.ljgucheng.gov.cn/xljgcq/c101529/202111/2efb79a9206945538aed05de2d832610.shtml	4637
+李晓强		7		云南省	丽江市	http://www.ljgucheng.gov.cn/xljgcq/c101527/zw.shtml	副区长		丽江市古城区人民政府	http://www.ljgucheng.gov.cn/xljgcq/c101529/202205/d0f6c8d7fbed48d2b1f9d6b546e03a72.shtml	4637
+和国宝		8		云南省	丽江市	http://www.ljgucheng.gov.cn/xljgcq/c101527/zw.shtml	副区长		丽江市古城区人民政府	http://www.ljgucheng.gov.cn/xljgcq/c101529/202205/ebde48e5e66b4c2bbad4e7260a957d34.shtml	4637
+木叠磊		9		云南省	丽江市	http://www.ljgucheng.gov.cn/xljgcq/c101527/zw.shtml	政府办主任		丽江市古城区人民政府	http://www.ljgucheng.gov.cn/xljgcq/c101880/202111/0026e78c89724de3a04ab099beedeccd.shtml	4637

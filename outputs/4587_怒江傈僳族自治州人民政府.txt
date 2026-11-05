@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李雪涛		1		云南省		http://www.nujiang.gov.cn/zzf.html	州人民政府代理州长		怒江傈僳族自治州人民政府	https://www.nujiang.gov.cn/2026/0828/20224.html	4587
+唐颖		2		云南省		http://www.nujiang.gov.cn/zzf.html	副州长		怒江傈僳族自治州人民政府	https://www.nujiang.gov.cn/2026/0803/19560.html	4587
+刘雪松		3		云南省		http://www.nujiang.gov.cn/zzf.html	副州长		怒江傈僳族自治州人民政府	https://www.nujiang.gov.cn/2026/0803/17511.html	4587
+封玉花		4		云南省		http://www.nujiang.gov.cn/zzf.html	副州长		怒江傈僳族自治州人民政府	https://www.nujiang.gov.cn/2026/0803/17436.html	4587
+石凡		5		云南省		http://www.nujiang.gov.cn/zzf.html	副州长		怒江傈僳族自治州人民政府	https://www.nujiang.gov.cn/2026/0803/19557.html	4587
+杨洋		6		云南省		http://www.nujiang.gov.cn/zzf.html	副州长		怒江傈僳族自治州人民政府	https://www.nujiang.gov.cn/2026/0803/20036.html	4587
+李磊		7		云南省		http://www.nujiang.gov.cn/zzf.html	副州长		怒江傈僳族自治州人民政府	https://www.nujiang.gov.cn/2026/0803/20176.html	4587
+余建林		8		云南省		http://www.nujiang.gov.cn/zzf.html	秘书长		怒江傈僳族自治州人民政府	https://www.nujiang.gov.cn/2026/0803/19561.html	4587

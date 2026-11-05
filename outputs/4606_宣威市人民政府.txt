@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+叶旭军		1		云南省	曲靖市	https://www.xw.gov.cn/gov/public/leader/rsrm.html#sle	市长		宣威市人民政府	https://www.xw.gov.cn/gov/pub/description/81976.html	4606
+黄友高		2		云南省	曲靖市	https://www.xw.gov.cn/gov/public/leader/rsrm.html#sle	常务副市长		宣威市人民政府	https://www.xw.gov.cn/gov/pub/description/81969.html	4606
+桂腾荣		3		云南省	曲靖市	https://www.xw.gov.cn/gov/public/leader/rsrm.html#sle	副市长		宣威市人民政府	https://www.xw.gov.cn/gov/pub/description/48678.html	4606
+黄辉		4		云南省	曲靖市	https://www.xw.gov.cn/gov/public/leader/rsrm.html#sle	副市长（挂职）		宣威市人民政府	https://www.xw.gov.cn/gov/pub/description/77072.html	4606
+闫旭		5		云南省	曲靖市	https://www.xw.gov.cn/gov/public/leader/rsrm.html#sle	副市长（挂职）		宣威市人民政府	https://www.xw.gov.cn/gov/pub/description/84049.html	4606
+邓廷昆		6		云南省	曲靖市	https://www.xw.gov.cn/gov/public/leader/rsrm.html#sle	副市长		宣威市人民政府	https://www.xw.gov.cn/gov/pub/description/48682.html	4606
+丁宪魁		7		云南省	曲靖市	https://www.xw.gov.cn/gov/public/leader/rsrm.html#sle	副市长		宣威市人民政府	https://www.xw.gov.cn/gov/pub/description/48684.html	4606
+高尧昱		8		云南省	曲靖市	https://www.xw.gov.cn/gov/public/leader/rsrm.html#sle	副市长		宣威市人民政府	https://www.xw.gov.cn/gov/pub/description/78219.html	4606
+浦同爱		9		云南省	曲靖市	https://www.xw.gov.cn/gov/public/leader/rsrm.html#sle	副市长		宣威市人民政府	https://www.xw.gov.cn/gov/pub/description/86829.html	4606
+赵偲涵		10		云南省	曲靖市	https://www.xw.gov.cn/gov/public/leader/rsrm.html#sle	副市长（挂职）		宣威市人民政府	https://www.xw.gov.cn/gov/pub/description/77064.html	4606
+柴正茂		11		云南省	曲靖市	https://www.xw.gov.cn/gov/public/leader/rsrm.html#sle	市政府办公室主任		宣威市人民政府	https://www.xw.gov.cn/gov/pub/description/48687.html	4606

@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+罗昌武		1		云南省	昭通市	https://www.ynys.gov.cn/channels/1278.html	县委副书记、县长		永善县人民政府	https://www.ynys.gov.cn/contents/1278/238170.html	4632
+陈俊霖		2		云南省	昭通市	https://www.ynys.gov.cn/channels/1278.html	副县长		永善县人民政府	https://www.ynys.gov.cn/contents/1279/235785.html	4632
+张峥华		3		云南省	昭通市	https://www.ynys.gov.cn/channels/1278.html	副县长		永善县人民政府	https://www.ynys.gov.cn/contents/1279/230979.html	4632
+沈宗涛		4		云南省	昭通市	https://www.ynys.gov.cn/channels/1278.html	副县长		永善县人民政府	https://www.ynys.gov.cn/contents/1279/230983.html	4632
+杨方玉		5		云南省	昭通市	https://www.ynys.gov.cn/channels/1278.html	副县长		永善县人民政府	https://www.ynys.gov.cn/contents/1279/180773.html	4632
+雷光亮		6		云南省	昭通市	https://www.ynys.gov.cn/channels/1278.html	副县长		永善县人民政府	https://www.ynys.gov.cn/contents/1279/212884.html	4632
+周滔		7		云南省	昭通市	https://www.ynys.gov.cn/channels/1278.html	副县长		永善县人民政府	https://www.ynys.gov.cn/contents/1279/235791.html	4632
+陶永成		8		云南省	昭通市	https://www.ynys.gov.cn/channels/1278.html	副县长		永善县人民政府	https://www.ynys.gov.cn/contents/1279/223027.html	4632
+邵艳利		9		云南省	昭通市	https://www.ynys.gov.cn/channels/1278.html	副县长		永善县人民政府	https://www.ynys.gov.cn/contents/1279/235789.html	4632
+李村亭		10		云南省	昭通市	https://www.ynys.gov.cn/channels/1278.html	副县长		永善县人民政府	https://www.ynys.gov.cn/contents/1279/235800.html	4632

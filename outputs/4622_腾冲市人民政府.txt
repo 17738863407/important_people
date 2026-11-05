@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨艳龙		1		云南省	保山市	https://www.tengchong.gov.cn/zwgk1/zfxxgkpt/fdzdgknr/zzjg1.htm	市长		腾冲市人民政府	https://www.tengchong.gov.cn/info/6495/33710.htm	4622
+李彬仁		2		云南省	保山市	https://www.tengchong.gov.cn/zwgk1/zfxxgkpt/fdzdgknr/zzjg1.htm	副市长		腾冲市人民政府	https://www.tengchong.gov.cn/info/6496/44973.htm	4622
+周仔发		3		云南省	保山市	https://www.tengchong.gov.cn/zwgk1/zfxxgkpt/fdzdgknr/zzjg1.htm	副市长		腾冲市人民政府	https://www.tengchong.gov.cn/info/6496/5904483.htm	4622
+谷绍权		4		云南省	保山市	https://www.tengchong.gov.cn/zwgk1/zfxxgkpt/fdzdgknr/zzjg1.htm	副市长		腾冲市人民政府	https://www.tengchong.gov.cn/info/6496/37787.htm	4622
+彭蕊		5		云南省	保山市	https://www.tengchong.gov.cn/zwgk1/zfxxgkpt/fdzdgknr/zzjg1.htm	副市长		腾冲市人民政府	https://www.tengchong.gov.cn/info/6496/39231.htm	4622
+杨红琦		6		云南省	保山市	https://www.tengchong.gov.cn/zwgk1/zfxxgkpt/fdzdgknr/zzjg1.htm	副市长		腾冲市人民政府	https://www.tengchong.gov.cn/info/6496/5707463.htm	4622
+罗斌		7		云南省	保山市	https://www.tengchong.gov.cn/zwgk1/zfxxgkpt/fdzdgknr/zzjg1.htm	党组成员		腾冲市人民政府	https://www.tengchong.gov.cn/info/6497/38852.htm	4622

@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+徐兴耀		1		云南省	曲靖市	https://www.ynsz.gov.cn/shizong/public/leader/37.html	县长、县政府党组书记		师宗县人民政府	https://www.ynsz.gov.cn/public/description/66810.html	4608
+王斌鸿		2		云南省	曲靖市	https://www.ynsz.gov.cn/shizong/public/leader/37.html	常务副县长、县政府党组副书记		师宗县人民政府	https://www.ynsz.gov.cn/public/description/8616.html	4608
+李琴		3		云南省	曲靖市	https://www.ynsz.gov.cn/shizong/public/leader/37.html	副县长、县政府党组成员		师宗县人民政府	https://www.ynsz.gov.cn/public/description/19318.html	4608
+沈思聪		4		云南省	曲靖市	https://www.ynsz.gov.cn/shizong/public/leader/37.html	副县长、县政府党组成员		师宗县人民政府	https://www.ynsz.gov.cn/public/description/9056.html	4608
+王福建		5		云南省	曲靖市	https://www.ynsz.gov.cn/shizong/public/leader/37.html	副县长、县政府党组成员		师宗县人民政府	https://www.ynsz.gov.cn/public/description/9052.html	4608
+崔同海		6		云南省	曲靖市	https://www.ynsz.gov.cn/shizong/public/leader/37.html	副县长、县政府党组成员		师宗县人民政府	https://www.ynsz.gov.cn/public/description/9054.html	4608
+毛磊		7		云南省	曲靖市	https://www.ynsz.gov.cn/shizong/public/leader/37.html	副县长、县政府党组成员		师宗县人民政府	https://www.ynsz.gov.cn/public/description/16484.html	4608
+宁德优		8		云南省	曲靖市	https://www.ynsz.gov.cn/shizong/public/leader/37.html	副县长、县政府党组成员		师宗县人民政府	https://www.ynsz.gov.cn/public/description/66712.html	4608
+周俊宏		9		云南省	曲靖市	https://www.ynsz.gov.cn/shizong/public/leader/37.html	副县长、县政府党组成员		师宗县人民政府	https://www.ynsz.gov.cn/public/description/66752.html	4608
+刘俊波		10		云南省	曲靖市	https://www.ynsz.gov.cn/shizong/public/leader/37.html	县政府办党组书记、主任		师宗县人民政府	https://www.ynsz.gov.cn/public/description/57893.html	4608

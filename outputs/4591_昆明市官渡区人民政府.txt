@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+朱智鹏		1		云南省	昆明市	http://www.kmgd.gov.cn/zfxxgk/fdzdgknr/zfld/	区长		昆明市官渡区人民政府	http://www.kmgd.gov.cn/c/2026-06-16/6100754.shtml	4591
+邹彪		2		云南省	昆明市	http://www.kmgd.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市官渡区人民政府	http://www.kmgd.gov.cn/c/2026-06-16/6694592.shtml	4591
+周朝凯		3		云南省	昆明市	http://www.kmgd.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市官渡区人民政府	http://www.kmgd.gov.cn/c/2022-06-13/6003043.shtml	4591
+张文杰		4		云南省	昆明市	http://www.kmgd.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市官渡区人民政府	http://www.kmgd.gov.cn/c/2023-02-07/6496712.shtml	4591
+杨云昆		5		云南省	昆明市	http://www.kmgd.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市官渡区人民政府	http://www.kmgd.gov.cn/c/2022-01-11/5716192.shtml	4591
+何追		6		云南省	昆明市	http://www.kmgd.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市官渡区人民政府	http://www.kmgd.gov.cn/c/2024-12-02/6937917.shtml	4591
+施飞		7		云南省	昆明市	http://www.kmgd.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市官渡区人民政府	http://www.kmgd.gov.cn/c/2025-03-27/6987774.shtml	4591
+焦树明		8		云南省	昆明市	http://www.kmgd.gov.cn/zfxxgk/fdzdgknr/zfld/	区政府党组成员		昆明市官渡区人民政府	http://www.kmgd.gov.cn/c/2022-01-11/5716194.shtml	4591
+向征		9		云南省	昆明市	http://www.kmgd.gov.cn/zfxxgk/fdzdgknr/zfld/	区政府党组成员		昆明市官渡区人民政府	http://www.kmgd.gov.cn/c/2026-08-21/7171406.shtml	4591

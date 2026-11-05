@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+倪韬		1		云南省	玉溪市	https://www.huaning.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=hnxzfxxgk&channelId=23464&pageNo=1	华宁县人民政府副县长		华宁县人民政府	https://www.huaning.gov.cn/hnxzfxxgk/huaningxzfldgzjfg/20261009/1686376.html	4616
+赵子良		2		云南省	玉溪市	https://www.huaning.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=hnxzfxxgk&channelId=23464&pageNo=1	华宁县委副书记、县长		华宁县人民政府	https://www.huaning.gov.cn/hnxzfxxgk/huaningxzfldgzjfg/20260225/1653538.html	4616
+石鹏		3		云南省	玉溪市	https://www.huaning.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=hnxzfxxgk&channelId=23464&pageNo=1	华宁县委常委、县政府副县长		华宁县人民政府	https://www.huaning.gov.cn/hnxzfxxgk/huaningxzfldgzjfg/20260116/1653533.html	4616
+张会祥		4		云南省	玉溪市	https://www.huaning.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=hnxzfxxgk&channelId=23464&pageNo=1	华宁县人民政府副县长		华宁县人民政府	https://www.huaning.gov.cn/hnxzfxxgk/huaningxzfldgzjfg/20260116/1653525.html	4616
+豆韬		5		云南省	玉溪市	https://www.huaning.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=hnxzfxxgk&channelId=23464&pageNo=1	华宁县人民政府副县长		华宁县人民政府	https://www.huaning.gov.cn/hnxzfxxgk/huaningxzfldgzjfg/20260116/1653516.html	4616
+余翔		6		云南省	玉溪市	https://www.huaning.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=hnxzfxxgk&channelId=23464&pageNo=1	华宁县人民政府副县长		华宁县人民政府	https://www.huaning.gov.cn/hnxzfxxgk/huaningxzfldgzjfg/20260116/1653515.html	4616
+何文珠		7		云南省	玉溪市	https://www.huaning.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=hnxzfxxgk&channelId=23464&pageNo=1	二级调研员		华宁县人民政府	https://www.huaning.gov.cn/hnxzfxxgk/huaningxzfldgzjfg/20260116/1653512.html	4616
+韩云宇		8		云南省	玉溪市	https://www.huaning.gov.cn/yxgovfront/newzfxxgkUnderControl.jspx?path=hnxzfxxgk&channelId=23464&pageNo=1	华宁县人民政府办公室主任		华宁县人民政府	https://www.huaning.gov.cn/hnxzfxxgk/huaningxzfldgzjfg/20260116/1653511.html	4616

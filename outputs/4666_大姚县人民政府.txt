@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨军		1		云南省	楚雄彝族自治州	http://www.dayao.gov.cn/zfxxgk/fdzdgknr/zfl.htm	县委副书记、县人民政府县长		大姚县人民政府	http://www.dayao.gov.cn/info/3602/37473.htm	4666
+毛红斌		2		云南省	楚雄彝族自治州	http://www.dayao.gov.cn/zfxxgk/fdzdgknr/zfl.htm	县委常委、县人民政府常务副县长		大姚县人民政府	http://www.dayao.gov.cn/info/3602/42712.htm	4666
+高培勇		3		云南省	楚雄彝族自治州	http://www.dayao.gov.cn/zfxxgk/fdzdgknr/zfl.htm	县委常委、县人民政府副县长		大姚县人民政府	http://www.dayao.gov.cn/info/3602/42718.htm	4666
+金阮园		4		云南省	楚雄彝族自治州	http://www.dayao.gov.cn/zfxxgk/fdzdgknr/zfl.htm	县委常委、县人民政府副县长		大姚县人民政府	http://www.dayao.gov.cn/info/3602/41823.htm	4666
+阳光绪		5		云南省	楚雄彝族自治州	http://www.dayao.gov.cn/zfxxgk/fdzdgknr/zfl.htm	县人民政府副县长、公安局局长		大姚县人民政府	http://www.dayao.gov.cn/info/3602/41824.htm	4666
+张良通		6		云南省	楚雄彝族自治州	http://www.dayao.gov.cn/zfxxgk/fdzdgknr/zfl.htm	县人民政府副县长		大姚县人民政府	http://www.dayao.gov.cn/info/3602/44146.htm	4666
+林鹏		7		云南省	楚雄彝族自治州	http://www.dayao.gov.cn/zfxxgk/fdzdgknr/zfl.htm	县人民政府副县长		大姚县人民政府	http://www.dayao.gov.cn/info/3602/42730.htm	4666
+夏正		8		云南省	楚雄彝族自治州	http://www.dayao.gov.cn/zfxxgk/fdzdgknr/zfl.htm	县人民政府副县长		大姚县人民政府	http://www.dayao.gov.cn/info/3602/45652.htm	4666

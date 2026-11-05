@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李世泽		1		云南省	大理白族自治州	https://www.zgnj.gov.cn/njxrmzf/c102072/pc/list.html	县人民政府县长、党组书记		南涧彝族自治县人民政府	https://www.zgnj.gov.cn/njxrmzf/c102074/pc/content/2058722534667374592/content_2058722534667374592.html	4704
+朱德才		2		云南省	大理白族自治州	https://www.zgnj.gov.cn/njxrmzf/c102072/pc/list.html	县人民政府常务副县长		南涧彝族自治县人民政府	https://www.zgnj.gov.cn/njxrmzf/c102076/pc/content/2058741592452288512/content_2058741592452288512.html	4704
+孙斌华		3		云南省	大理白族自治州	https://www.zgnj.gov.cn/njxrmzf/c102072/pc/list.html	县人民政府副县长		南涧彝族自治县人民政府	https://www.zgnj.gov.cn/njxrmzf/c102078/pc/content/1984050854834049024/content_1984050854834049024.html	4704
+黄际坚		4		云南省	大理白族自治州	https://www.zgnj.gov.cn/njxrmzf/c102072/pc/list.html	县人民政府副县长		南涧彝族自治县人民政府	https://www.zgnj.gov.cn/njxrmzf/c102078/pc/content/1984050811292979200/content_1984050811292979200.html	4704
+李彦琴		5		云南省	大理白族自治州	https://www.zgnj.gov.cn/njxrmzf/c102072/pc/list.html	县人民政府副县长		南涧彝族自治县人民政府	https://www.zgnj.gov.cn/njxrmzf/c102078/pc/content/1984050731332767744/content_1984050731332767744.html	4704
+张朝荣		6		云南省	大理白族自治州	https://www.zgnj.gov.cn/njxrmzf/c102072/pc/list.html	县人民政府副县长		南涧彝族自治县人民政府	https://www.zgnj.gov.cn/njxrmzf/c102078/pc/content/1984050758629298176/content_1984050758629298176.html	4704
+罗进川		7		云南省	大理白族自治州	https://www.zgnj.gov.cn/njxrmzf/c102072/pc/list.html	县人民政府副县长		南涧彝族自治县人民政府	https://www.zgnj.gov.cn/njxrmzf/c102078/pc/content/2063835461149839360/content_2063835461149839360.html	4704
+陈斌		8		云南省	大理白族自治州	https://www.zgnj.gov.cn/njxrmzf/c102072/pc/list.html	县人民政府副县长		南涧彝族自治县人民政府	https://www.zgnj.gov.cn/njxrmzf/c102078/pc/content/2063835435388424192/content_2063835435388424192.html	4704
+王任模		9		云南省	大理白族自治州	https://www.zgnj.gov.cn/njxrmzf/c102072/pc/list.html	县人民政府副县长		南涧彝族自治县人民政府	https://www.zgnj.gov.cn/njxrmzf/c102078/pc/content/1984050779131056128/content_1984050779131056128.html	4704

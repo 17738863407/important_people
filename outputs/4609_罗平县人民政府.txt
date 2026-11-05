@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+唐开虎		1		云南省	曲靖市	https://www.luoping.gov.cn/public/leader/zfld.html#sle	县长、县政府党组书记		罗平县人民政府	https://www.luoping.gov.cn/public/description/568762.html	4609
+丁宪富		2		云南省	曲靖市	https://www.luoping.gov.cn/public/leader/zfld.html#sle	常务副县长、县政府党组副书记		罗平县人民政府	https://www.luoping.gov.cn/public/description/45288.html	4609
+赵鑫磊		3		云南省	曲靖市	https://www.luoping.gov.cn/public/leader/zfld.html#sle	副县长		罗平县人民政府	https://www.luoping.gov.cn/public/description/556611.html	4609
+林洪		4		云南省	曲靖市	https://www.luoping.gov.cn/public/leader/zfld.html#sle	副县长（挂职）		罗平县人民政府	https://www.luoping.gov.cn/public/description/47811.html	4609
+高峰		5		云南省	曲靖市	https://www.luoping.gov.cn/public/leader/zfld.html#sle	副县长		罗平县人民政府	https://www.luoping.gov.cn/public/description/42704.html	4609
+朱江		6		云南省	曲靖市	https://www.luoping.gov.cn/public/leader/zfld.html#sle	副县长		罗平县人民政府	https://www.luoping.gov.cn/public/description/49539.html	4609
+宋再友		7		云南省	曲靖市	https://www.luoping.gov.cn/public/leader/zfld.html#sle	副县长		罗平县人民政府	https://www.luoping.gov.cn/public/description/543394.html	4609
+李佳运		8		云南省	曲靖市	https://www.luoping.gov.cn/public/leader/zfld.html#sle	副县长		罗平县人民政府	https://www.luoping.gov.cn/public/description/561221.html	4609
+杨冰		9		云南省	曲靖市	https://www.luoping.gov.cn/public/leader/zfld.html#sle	副县长		罗平县人民政府	https://www.luoping.gov.cn/public/description/568624.html	4609

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨仕林		1		云南省	怒江傈僳族自治州	https://www.ynls.gov.cn/html/szf/	市长		泸水市人民政府	https://www.ynls.gov.cn/2026/0309/59.html	4711
+王四龙		2		云南省	怒江傈僳族自治州	https://www.ynls.gov.cn/html/szf/	副市长		泸水市人民政府	https://www.ynls.gov.cn/2026/0717/6297.html	4711
+于丹		3		云南省	怒江傈僳族自治州	https://www.ynls.gov.cn/html/szf/	副市长		泸水市人民政府	https://www.ynls.gov.cn/2025/0606/6024.html	4711
+操春兵		4		云南省	怒江傈僳族自治州	https://www.ynls.gov.cn/html/szf/	副市长		泸水市人民政府	https://www.ynls.gov.cn/2025/0606/5844.html	4711
+刘锦虎		5		云南省	怒江傈僳族自治州	https://www.ynls.gov.cn/html/szf/	副市长		泸水市人民政府	https://www.ynls.gov.cn/2026/0716/5859.html	4711
+李金平		6		云南省	怒江傈僳族自治州	https://www.ynls.gov.cn/html/szf/	副市长		泸水市人民政府	https://www.ynls.gov.cn/2025/1124/5470.html	4711
+段永柱		7		云南省	怒江傈僳族自治州	https://www.ynls.gov.cn/html/szf/	副市长		泸水市人民政府	https://www.ynls.gov.cn/2024/0731/5845.html	4711
+乔玉华		8		云南省	怒江傈僳族自治州	https://www.ynls.gov.cn/html/szf/	副市长		泸水市人民政府	https://www.ynls.gov.cn/2021/1125/4879.html	4711
+胡筱婕		9		云南省	怒江傈僳族自治州	https://www.ynls.gov.cn/html/szf/	副市长		泸水市人民政府	https://www.ynls.gov.cn/2025/0208/4873.html	4711

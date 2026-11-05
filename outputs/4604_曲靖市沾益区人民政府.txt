@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+万波		1		云南省	曲靖市	https://www.zhanyi.gov.cn/pub/leader/58.html#sle	区长		曲靖市沾益区人民政府	https://www.zhanyi.gov.cn/pub/description/23026.html	4604
+张兆龙		2		云南省	曲靖市	https://www.zhanyi.gov.cn/pub/leader/58.html#sle	副区长		曲靖市沾益区人民政府	https://www.zhanyi.gov.cn/pub/description/39682.html	4604
+董林江		3		云南省	曲靖市	https://www.zhanyi.gov.cn/pub/leader/58.html#sle	副区长		曲靖市沾益区人民政府	https://www.zhanyi.gov.cn/pub/description/39683.html	4604
+翟立刚		4		云南省	曲靖市	https://www.zhanyi.gov.cn/pub/leader/58.html#sle	副区长		曲靖市沾益区人民政府	https://www.zhanyi.gov.cn/pub/description/24484.html	4604
+陈敏		5		云南省	曲靖市	https://www.zhanyi.gov.cn/pub/leader/58.html#sle	副区长		曲靖市沾益区人民政府	https://www.zhanyi.gov.cn/pub/description/23009.html	4604
+刘文坤		6		云南省	曲靖市	https://www.zhanyi.gov.cn/pub/leader/58.html#sle	副区长		曲靖市沾益区人民政府	https://www.zhanyi.gov.cn/pub/description/24471.html	4604
+邓振涛		7		云南省	曲靖市	https://www.zhanyi.gov.cn/pub/leader/58.html#sle	副区长		曲靖市沾益区人民政府	https://www.zhanyi.gov.cn/pub/description/55893.html	4604
+周浩		8		云南省	曲靖市	https://www.zhanyi.gov.cn/pub/leader/58.html#sle	副区长		曲靖市沾益区人民政府	https://www.zhanyi.gov.cn/pub/description/49700.html	4604

@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+郑巍黎		1		云南省	大理白族自治州	https://www.jianchuan.gov.cn/jcxrmzf/c102073/pc/list.html	县委副书记、县人民政府县长		剑川县人民政府	https://www.jianchuan.gov.cn/jcxrmzf/c00001/pc/content/2056987605382254592/content_2056987605382254592.html	4701
+赵盛海		2		云南省	大理白族自治州	https://www.jianchuan.gov.cn/jcxrmzf/c102073/pc/list.html	县委常委、常务副县长		剑川县人民政府	https://www.jianchuan.gov.cn/jcxrmzf/c00002/pc/content/2044960950157631488/content_2044960950157631488.html	4701
+陆伟		3		云南省	大理白族自治州	https://www.jianchuan.gov.cn/jcxrmzf/c102073/pc/list.html	副县长（挂职）		剑川县人民政府	https://www.jianchuan.gov.cn/jcxrmzf/c00003/pc/content/2037059210632556544/content_2037059210632556544.html	4701
+李志军		4		云南省	大理白族自治州	https://www.jianchuan.gov.cn/jcxrmzf/c102073/pc/list.html	副县长		剑川县人民政府	https://www.jianchuan.gov.cn/jcxrmzf/c00003/pc/content/1993917074123100160/content_1993917074123100160.html	4701
+代磊		5		云南省	大理白族自治州	https://www.jianchuan.gov.cn/jcxrmzf/c102073/pc/list.html	副县长		剑川县人民政府	https://www.jianchuan.gov.cn/jcxrmzf/c00003/pc/content/1984049938345070592/content_1984049938345070592.html	4701
+杨福堂		6		云南省	大理白族自治州	https://www.jianchuan.gov.cn/jcxrmzf/c102073/pc/list.html	副县长		剑川县人民政府	https://www.jianchuan.gov.cn/jcxrmzf/c00003/pc/content/1984049922603847680/content_1984049922603847680.html	4701
+李红宇		7		云南省	大理白族自治州	https://www.jianchuan.gov.cn/jcxrmzf/c102073/pc/list.html	副县长		剑川县人民政府	https://www.jianchuan.gov.cn/jcxrmzf/c00003/pc/content/1984049905327509504/content_1984049905327509504.html	4701
+高宏钢		8		云南省	大理白族自治州	https://www.jianchuan.gov.cn/jcxrmzf/c102073/pc/list.html	副县长		剑川县人民政府	https://www.jianchuan.gov.cn/jcxrmzf/c00003/pc/content/1984049890370621440/content_1984049890370621440.html	4701
+李军磊		9		云南省	大理白族自治州	https://www.jianchuan.gov.cn/jcxrmzf/c102073/pc/list.html	副县长（挂职）		剑川县人民政府	https://www.jianchuan.gov.cn/jcxrmzf/c00003/pc/content/2094975381343879168/content_2094975381343879168.html	4701

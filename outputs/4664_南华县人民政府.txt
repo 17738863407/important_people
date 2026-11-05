@@ -1,0 +1,12 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+张永		1		云南省	楚雄彝族自治州	https://www.ynnh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	南华县委副书记、县长		南华县人民政府	https://www.ynnh.gov.cn/info/2545/322467.htm	4664
+毛焕朝		2		云南省	楚雄彝族自治州	https://www.ynnh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	南华县人民政府常务副县长		南华县人民政府	https://www.ynnh.gov.cn/info/2546/322507.htm	4664
+鲁富兴		3		云南省	楚雄彝族自治州	https://www.ynnh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	南华县人民政府副县长		南华县人民政府	https://www.ynnh.gov.cn/info/2546/390037.htm	4664
+赵锋		4		云南省	楚雄彝族自治州	https://www.ynnh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	南华县人民政府副县长		南华县人民政府	https://www.ynnh.gov.cn/info/2546/322517.htm	4664
+文皓		5		云南省	楚雄彝族自治州	https://www.ynnh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	南华县人民政府副县长		南华县人民政府	https://www.ynnh.gov.cn/info/2546/322527.htm	4664
+李春剑		6		云南省	楚雄彝族自治州	https://www.ynnh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	南华县人民政府副县长		南华县人民政府	https://www.ynnh.gov.cn/info/2546/322537.htm	4664
+张建海		7		云南省	楚雄彝族自治州	https://www.ynnh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	南华县人民政府副县长		南华县人民政府	https://www.ynnh.gov.cn/info/2546/322547.htm	4664
+刘培金		8		云南省	楚雄彝族自治州	https://www.ynnh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	南华县人民政府副县长、县公安局局长		南华县人民政府	https://www.ynnh.gov.cn/info/2546/322557.htm	4664
+张育果		9		云南省	楚雄彝族自治州	https://www.ynnh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	南华县人民政府副县长		南华县人民政府	https://www.ynnh.gov.cn/info/2546/323797.htm	4664
+戴兵		10		云南省	楚雄彝族自治州	https://www.ynnh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	现挂职云南省楚雄彝族自治州南华县，任南华县人民政府副县长		南华县人民政府	https://www.ynnh.gov.cn/info/2546/322567.htm	4664
+彭龙		11		云南省	楚雄彝族自治州	https://www.ynnh.gov.cn/zfxxgk/fdzdgknr/zfld.htm	现挂职云南省楚雄彝族自治州南华县，任南华县人民政府副县长		南华县人民政府	https://www.ynnh.gov.cn/info/2546/322577.htm	4664

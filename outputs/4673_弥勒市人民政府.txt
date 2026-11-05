@@ -1,0 +1,7 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+文颢竣		1		云南省	红河哈尼族彝族自治州	https://www.hhml.gov.cn/zfxxgk1/fdzdgknr/zfld.htm	市委副书记、市长		弥勒市人民政府	https://www.hhml.gov.cn/info/67901/921152.htm	4673
+刘兵元		2		云南省	红河哈尼族彝族自治州	https://www.hhml.gov.cn/zfxxgk1/fdzdgknr/zfld.htm	常务副市长		弥勒市人民政府	https://www.hhml.gov.cn/info/67911/902852.htm	4673
+胡永彬		3		云南省	红河哈尼族彝族自治州	https://www.hhml.gov.cn/zfxxgk1/fdzdgknr/zfld.htm	副市长		弥勒市人民政府	https://www.hhml.gov.cn/info/67911/115311.htm	4673
+袁云杰		4		云南省	红河哈尼族彝族自治州	https://www.hhml.gov.cn/zfxxgk1/fdzdgknr/zfld.htm	副市长		弥勒市人民政府	https://www.hhml.gov.cn/info/67911/115281.htm	4673
+杨国海		5		云南省	红河哈尼族彝族自治州	https://www.hhml.gov.cn/zfxxgk1/fdzdgknr/zfld.htm	副市长		弥勒市人民政府	https://www.hhml.gov.cn/info/67911/916942.htm	4673
+赵付县		6		云南省	红河哈尼族彝族自治州	https://www.hhml.gov.cn/zfxxgk1/fdzdgknr/zfld.htm	副市长		弥勒市人民政府	https://www.hhml.gov.cn/info/67911/866382.htm	4673

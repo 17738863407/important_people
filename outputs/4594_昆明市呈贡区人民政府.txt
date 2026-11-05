@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+杨凯		1		云南省	昆明市	http://www.kmcg.gov.cn/zfxxgk/fdzdgknr/zfld/	区长		昆明市呈贡区人民政府	http://www.kmcg.gov.cn/c/2026-04-01/4786690.shtml	4594
+张蕾		2		云南省	昆明市	http://www.kmcg.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市呈贡区人民政府	http://www.kmcg.gov.cn/c/2025-01-09/5341824.shtml	4594
+朱明		3		云南省	昆明市	http://www.kmcg.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市呈贡区人民政府	http://www.kmcg.gov.cn/c/2026-05-08/4786930.shtml	4594
+龙晶晶		4		云南省	昆明市	http://www.kmcg.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市呈贡区人民政府	http://www.kmcg.gov.cn/c/2025-01-09/4790178.shtml	4594
+徐云辉		5		云南省	昆明市	http://www.kmcg.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市呈贡区人民政府	http://www.kmcg.gov.cn/c/2025-01-09/6368693.shtml	4594
+韦子庆		6		云南省	昆明市	http://www.kmcg.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市呈贡区人民政府	http://www.kmcg.gov.cn/c/2026-06-18/4786895.shtml	4594
+王会飞		7		云南省	昆明市	http://www.kmcg.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市呈贡区人民政府	http://www.kmcg.gov.cn/c/2024-03-12/6821020.shtml	4594

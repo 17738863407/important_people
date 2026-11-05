@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+田红梅		1		云南省	红河哈尼族彝族自治州	https://www.hhjp.gov.cn/zfxxgk/fdzdgknr/zfld.htm	县长		金平苗族瑶族傣族自治县人民政府	https://www.hhjp.gov.cn/info/52521/20651.htm	4681
+张亮		2		云南省	红河哈尼族彝族自治州	https://www.hhjp.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副县长		金平苗族瑶族傣族自治县人民政府	https://www.hhjp.gov.cn/info/52541/353891.htm	4681
+吴新华		3		云南省	红河哈尼族彝族自治州	https://www.hhjp.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副县长		金平苗族瑶族傣族自治县人民政府	https://www.hhjp.gov.cn/info/52541/20621.htm	4681
+刘轩		4		云南省	红河哈尼族彝族自治州	https://www.hhjp.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副县长		金平苗族瑶族傣族自治县人民政府	https://www.hhjp.gov.cn/info/52541/353931.htm	4681
+潘立虎		5		云南省	红河哈尼族彝族自治州	https://www.hhjp.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副县长		金平苗族瑶族傣族自治县人民政府	https://www.hhjp.gov.cn/info/52541/374261.htm	4681
+熊伟		6		云南省	红河哈尼族彝族自治州	https://www.hhjp.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副县长		金平苗族瑶族傣族自治县人民政府	https://www.hhjp.gov.cn/info/52541/353961.htm	4681
+吴进		7		云南省	红河哈尼族彝族自治州	https://www.hhjp.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副县长		金平苗族瑶族傣族自治县人民政府	https://www.hhjp.gov.cn/info/52541/20601.htm	4681
+普寿华		8		云南省	红河哈尼族彝族自治州	https://www.hhjp.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副县长		金平苗族瑶族傣族自治县人民政府	https://www.hhjp.gov.cn/info/52541/20581.htm	4681
+李保富		9		云南省	红河哈尼族彝族自治州	https://www.hhjp.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副县长		金平苗族瑶族傣族自治县人民政府	https://www.hhjp.gov.cn/info/52541/20571.htm	4681
+白春文		10		云南省	红河哈尼族彝族自治州	https://www.hhjp.gov.cn/zfxxgk/fdzdgknr/zfld.htm	副县长		金平苗族瑶族傣族自治县人民政府	https://www.hhjp.gov.cn/info/52541/234681.htm	4681

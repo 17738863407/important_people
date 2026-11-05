@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李金		1		云南省	玉溪市	https://www.ynjc.gov.cn/jc/ldfg4404/	区政府区长		玉溪市江川区人民政府	https://www.ynjc.gov.cn/jc/ldfg4404/20250520/1602789.html	4613
+普超		2		云南省	玉溪市	https://www.ynjc.gov.cn/jc/ldfg4404/	区政府常务副区长		玉溪市江川区人民政府	https://www.ynjc.gov.cn/jc/ldfg4404/20250603/1333753.html	4613
+朱平		3		云南省	玉溪市	https://www.ynjc.gov.cn/jc/ldfg4404/	区政府副区长		玉溪市江川区人民政府	https://www.ynjc.gov.cn/jc/ldfg4404/20240604/1535245.html	4613
+陈秋斯		4		云南省	玉溪市	https://www.ynjc.gov.cn/jc/ldfg4404/	区政府副区长		玉溪市江川区人民政府	https://www.ynjc.gov.cn/jc/ldfg4404/20250603/1472054.html	4613
+张晓萍		5		云南省	玉溪市	https://www.ynjc.gov.cn/jc/ldfg4404/	区政府副区长		玉溪市江川区人民政府	https://www.ynjc.gov.cn/jc/ldfg4404/20260115/1657004.html	4613
+吴宇宸		6		云南省	玉溪市	https://www.ynjc.gov.cn/jc/ldfg4404/	区政府副区长		玉溪市江川区人民政府	https://www.ynjc.gov.cn/jc/ldfg4404/20260423/1659528.html	4613
+龚钲		7		云南省	玉溪市	https://www.ynjc.gov.cn/jc/ldfg4404/	区政府副区长		玉溪市江川区人民政府	https://www.ynjc.gov.cn/jc/ldfg4404/20260908/1681400.html	4613

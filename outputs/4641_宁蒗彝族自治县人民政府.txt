@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+黎建勇		1		云南省	丽江市	https://www.ynnl.gov.cn/xljnlx/c101218/zw.shtml	县长		宁蒗彝族自治县人民政府	https://www.ynnl.gov.cn/xljnlx/c101678/202108/207fb1c310b64cceba7fcc2c8f94935a.shtml	4641
+和建南		2		云南省	丽江市	https://www.ynnl.gov.cn/xljnlx/c101218/zw.shtml	常务副县长		宁蒗彝族自治县人民政府	https://www.ynnl.gov.cn/xljnlx/c101679/202303/c5fb123bd83046b3b313941870b9d216.shtml	4641
+张远可		3		云南省	丽江市	https://www.ynnl.gov.cn/xljnlx/c101218/zw.shtml	副县长		宁蒗彝族自治县人民政府	https://www.ynnl.gov.cn/xljnlx/c101680/202512/5bc6d4c3cfc842f6a3bf60bfadf76bb1.shtml	4641
+吴玄顺		4		云南省	丽江市	https://www.ynnl.gov.cn/xljnlx/c101218/zw.shtml	副县长		宁蒗彝族自治县人民政府	https://www.ynnl.gov.cn/xljnlx/c101680/202511/8bc2fcd1fd314854b9cf7c8cf04e78dd.shtml	4641
+王辉		5		云南省	丽江市	https://www.ynnl.gov.cn/xljnlx/c101218/zw.shtml	副县长		宁蒗彝族自治县人民政府	https://www.ynnl.gov.cn/xljnlx/c101680/202303/cca18425989546de857450ef6e544ec4.shtml	4641
+和志红		6		云南省	丽江市	https://www.ynnl.gov.cn/xljnlx/c101218/zw.shtml	副县长		宁蒗彝族自治县人民政府	https://www.ynnl.gov.cn/xljnlx/c101680/202504/82caf401d8a84d15901dbee30162708a.shtml	4641
+凌仁勇		7		云南省	丽江市	https://www.ynnl.gov.cn/xljnlx/c101218/zw.shtml	副县长		宁蒗彝族自治县人民政府	https://www.ynnl.gov.cn/xljnlx/c101680/202504/8e8a76eb90b24d1ca30b5538fd866d26.shtml	4641
+杨忠才		8		云南省	丽江市	https://www.ynnl.gov.cn/xljnlx/c101218/zw.shtml	副县长		宁蒗彝族自治县人民政府	https://www.ynnl.gov.cn/xljnlx/c101680/202303/39e59c25822442e1b85d413523dbc484.shtml	4641
+徐忠秀		9		云南省	丽江市	https://www.ynnl.gov.cn/xljnlx/c101218/zw.shtml	副县长		宁蒗彝族自治县人民政府	https://www.ynnl.gov.cn/xljnlx/c101680/202606/c1e57001ab9f43e6a282b1a91eeee522.shtml	4641
+潘明宇		10		云南省	丽江市	https://www.ynnl.gov.cn/xljnlx/c101218/zw.shtml	副县长		宁蒗彝族自治县人民政府	https://www.ynnl.gov.cn/xljnlx/c101680/202606/3ec548e96cd1450092243205f25bb5cf.shtml	4641

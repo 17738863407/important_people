@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+鲁秦宇		1		云南省	普洱市	http://www.jinggu.gov.cn/zfxxgk/fdzdgknr/xzfld.htm	县长		景谷彝族傣族自治县人民政府	https://www.jinggu.gov.cn/info/68726/624401.htm	4646
+李相柯		2		云南省	普洱市	http://www.jinggu.gov.cn/zfxxgk/fdzdgknr/xzfld.htm	副县长		景谷彝族傣族自治县人民政府	https://www.jinggu.gov.cn/info/73906/820811.htm	4646
+林琛		3		云南省	普洱市	http://www.jinggu.gov.cn/zfxxgk/fdzdgknr/xzfld.htm	副县长		景谷彝族傣族自治县人民政府	https://www.jinggu.gov.cn/info/68806/624481.htm	4646
+邓伟		4		云南省	普洱市	http://www.jinggu.gov.cn/zfxxgk/fdzdgknr/xzfld.htm	副县长		景谷彝族傣族自治县人民政府	https://www.jinggu.gov.cn/info/74406/915931.htm	4646
+张海荣		5		云南省	普洱市	http://www.jinggu.gov.cn/zfxxgk/fdzdgknr/xzfld.htm	副县长		景谷彝族傣族自治县人民政府	https://www.jinggu.gov.cn/info/73916/819671.htm	4646
+刘树红		6		云南省	普洱市	http://www.jinggu.gov.cn/zfxxgk/fdzdgknr/xzfld.htm	副县长		景谷彝族傣族自治县人民政府	https://www.jinggu.gov.cn/info/76056/985531.htm	4646
+丁晰洁		7		云南省	普洱市	http://www.jinggu.gov.cn/zfxxgk/fdzdgknr/xzfld.htm	副县长		景谷彝族傣族自治县人民政府	https://www.jinggu.gov.cn/info/68786/624461.htm	4646
+陈默		8		云南省	普洱市	http://www.jinggu.gov.cn/zfxxgk/fdzdgknr/xzfld.htm	副县长		景谷彝族傣族自治县人民政府	https://www.jinggu.gov.cn/info/74396/1036101.htm	4646
+谭睿		9		云南省	普洱市	http://www.jinggu.gov.cn/zfxxgk/fdzdgknr/xzfld.htm	副县长		景谷彝族傣族自治县人民政府	https://www.jinggu.gov.cn/info/68776/1036081.htm	4646

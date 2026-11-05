@@ -1,0 +1,11 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+陈道强		1		云南省	昭通市	https://www.ztyj.gov.cn/channels/6169.html	县委副书记、县长		盐津县人民政府	https://www.ztyj.gov.cn/contents/6931/8625.html	4630
+吕秋奎		2		云南省	昭通市	https://www.ztyj.gov.cn/channels/6169.html	副县长		盐津县人民政府	https://www.ztyj.gov.cn/contents/6171/8642.html	4630
+王伟		3		云南省	昭通市	https://www.ztyj.gov.cn/channels/6169.html	副县长		盐津县人民政府	https://www.ztyj.gov.cn/contents/6171/8647.html	4630
+邹继松		4		云南省	昭通市	https://www.ztyj.gov.cn/channels/6169.html	副县长		盐津县人民政府	https://www.ztyj.gov.cn/contents/6171/8646.html	4630
+陈光波		5		云南省	昭通市	https://www.ztyj.gov.cn/channels/6169.html	副县长		盐津县人民政府	https://www.ztyj.gov.cn/contents/6171/8643.html	4630
+罗奎		6		云南省	昭通市	https://www.ztyj.gov.cn/channels/6169.html	副县长		盐津县人民政府	https://www.ztyj.gov.cn/contents/6171/8645.html	4630
+赵晏		7		云南省	昭通市	https://www.ztyj.gov.cn/channels/6169.html	副县长		盐津县人民政府	https://www.ztyj.gov.cn/contents/6171/8644.html	4630
+王凯		8		云南省	昭通市	https://www.ztyj.gov.cn/channels/6169.html	副县长		盐津县人民政府	https://www.ztyj.gov.cn/contents/6171/8648.html	4630
+余向阳		9		云南省	昭通市	https://www.ztyj.gov.cn/channels/6169.html	副县长		盐津县人民政府	https://www.ztyj.gov.cn/contents/6171/8641.html	4630
+余思宏		10		云南省	昭通市	https://www.ztyj.gov.cn/channels/6169.html	副县长		盐津县人民政府	https://www.ztyj.gov.cn/contents/6171/8640.html	4630

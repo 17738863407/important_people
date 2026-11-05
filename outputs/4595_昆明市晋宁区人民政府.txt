@@ -1,0 +1,8 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马龙		1		云南省	昆明市	http://www.kmjn.gov.cn/zfxxgk/fdzdgknr/zfld/	区长		昆明市晋宁区人民政府	http://www.kmjn.gov.cn/c/2026-03-04/7110882.shtml	4595
+张卿		2		云南省	昆明市	http://www.kmjn.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市晋宁区人民政府	http://www.kmjn.gov.cn/c/2026-08-17/7169652.shtml	4595
+冯浩		3		云南省	昆明市	http://www.kmjn.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市晋宁区人民政府	http://www.kmjn.gov.cn/c/2021-03-22/5046549.shtml	4595
+赵欣琪		4		云南省	昆明市	http://www.kmjn.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市晋宁区人民政府	http://www.kmjn.gov.cn/c/2021-06-11/5519520.shtml	4595
+梁永刚		5		云南省	昆明市	http://www.kmjn.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市晋宁区人民政府	http://www.kmjn.gov.cn/c/2026-08-17/7169581.shtml	4595
+杨荟蓉		6		云南省	昆明市	http://www.kmjn.gov.cn/zfxxgk/fdzdgknr/zfld/	副区长		昆明市晋宁区人民政府	http://www.kmjn.gov.cn/c/2024-04-18/6839496.shtml	4595
+郑佑华		7		云南省	昆明市	http://www.kmjn.gov.cn/zfxxgk/fdzdgknr/zfld/	调研员		昆明市晋宁区人民政府	http://www.kmjn.gov.cn/c/2020-06-11/4327521.shtml	4595

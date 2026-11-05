@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+丁勇		1		云南省	昭通市	https://www.qiaojia.gov.cn/channels/6574.html	县委副书记、县人民政府县长		巧家县人民政府	https://www.qiaojia.gov.cn/contents/6574/34272.html	4629
+曹善有		2		云南省	昭通市	https://www.qiaojia.gov.cn/channels/6574.html	副县长		巧家县人民政府	https://www.qiaojia.gov.cn/contents/6575/13693.html	4629
+王音毓		3		云南省	昭通市	https://www.qiaojia.gov.cn/channels/6574.html	副县长		巧家县人民政府	https://www.qiaojia.gov.cn/contents/6575/13747.html	4629
+施欢		4		云南省	昭通市	https://www.qiaojia.gov.cn/channels/6574.html	副县长		巧家县人民政府	https://www.qiaojia.gov.cn/contents/6575/13699.html	4629
+姒清政		5		云南省	昭通市	https://www.qiaojia.gov.cn/channels/6574.html	副县长		巧家县人民政府	https://www.qiaojia.gov.cn/contents/6575/13694.html	4629
+陆开明		6		云南省	昭通市	https://www.qiaojia.gov.cn/channels/6574.html	副县长		巧家县人民政府	https://www.qiaojia.gov.cn/contents/6575/13692.html	4629
+颜亨正		7		云南省	昭通市	https://www.qiaojia.gov.cn/channels/6574.html	副县长		巧家县人民政府	https://www.qiaojia.gov.cn/contents/6575/13698.html	4629
+邓春生		8		云南省	昭通市	https://www.qiaojia.gov.cn/channels/6574.html	副县长		巧家县人民政府	https://www.qiaojia.gov.cn/contents/6575/13700.html	4629
+王琴		9		云南省	昭通市	https://www.qiaojia.gov.cn/channels/6574.html	副县长		巧家县人民政府	https://www.qiaojia.gov.cn/contents/6575/13695.html	4629

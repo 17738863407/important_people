@@ -1,0 +1,10 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+李正环		1		云南省		https://www.dh.gov.cn/Web/_M15_4O8C9WOJ103266A4FC484246BF_1.htm	州政府党组书记、州长		德宏傣族景颇族自治州人民政府	https://www.dh.gov.cn/Web/_F0_0_6HKNIJA577939556D7B843F9B0.htm	4586
+张世影		2		云南省		https://www.dh.gov.cn/Web/_M15_4O8C9WOJ103266A4FC484246BF_1.htm	副州长		德宏傣族景颇族自治州人民政府	https://www.dh.gov.cn/Web/_F0_0_6KY3SQTJ604DAC8FB81A46C7B6.htm	4586
+程涛		3		云南省		https://www.dh.gov.cn/Web/_M15_4O8C9WOJ103266A4FC484246BF_1.htm	副州长		德宏傣族景颇族自治州人民政府		4586
+雪琳		4		云南省		https://www.dh.gov.cn/Web/_M15_4O8C9WOJ103266A4FC484246BF_1.htm	副州长		德宏傣族景颇族自治州人民政府	https://www.dh.gov.cn/Web/_F0_0_4YGD68R335E670F532CD443BB4.htm	4586
+刘毅鹏		5		云南省		https://www.dh.gov.cn/Web/_M15_4O8C9WOJ103266A4FC484246BF_1.htm	副州长		德宏傣族景颇族自治州人民政府	https://www.dh.gov.cn/Web/_F0_0_4YH4KQLA51A3C600B1EA4BF59C.htm	4586
+李飞		6		云南省		https://www.dh.gov.cn/Web/_M15_4O8C9WOJ103266A4FC484246BF_1.htm	副州长		德宏傣族景颇族自治州人民政府	https://www.dh.gov.cn/Web/_F0_0_5UCOGYJU7A3B8EC2D4AD44E899.htm	4586
+董其然		7		云南省		https://www.dh.gov.cn/Web/_M15_4O8C9WOJ103266A4FC484246BF_1.htm	副州长		德宏傣族景颇族自治州人民政府	https://www.dh.gov.cn/Web/_F0_0_4YH4Q2DDAD21C249085C472995.htm	4586
+马云峰		8		云南省		https://www.dh.gov.cn/Web/_M15_4O8C9WOJ103266A4FC484246BF_1.htm	州政府党组成员		德宏傣族景颇族自治州人民政府	https://www.dh.gov.cn/Web/_F0_0_28D0791P483A27BTG5ZXNBBDSW.htm	4586
+罗宏榆		9		云南省		https://www.dh.gov.cn/Web/_M15_4O8C9WOJ103266A4FC484246BF_1.htm	州政府党组成员、秘书长		德宏傣族景颇族自治州人民政府	https://www.dh.gov.cn/Web/_F0_0_49MFZ3LV6E33FD003DAF4EFB8B.htm	4586

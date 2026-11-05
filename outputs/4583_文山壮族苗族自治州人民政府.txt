@@ -1,0 +1,9 @@
+姓名*	职务*	排序*	职级*	所属省*	所属市	依据链接	依据说明	维护人	机构	详情页链接	脚本序号
+马忠俊		1		云南省		https://www.ynws.gov.cn/wszzf/zzf/column/list.html	州委副书记、州政府党组书记、州长		文山壮族苗族自治州人民政府	https://www.ynws.gov.cn/wszzf/zz100/common/content/content_1854758200399982592.html	4583
+周开举		2		云南省		https://www.ynws.gov.cn/wszzf/zzf/column/list.html	州委常委、州政府党组副书记、常务副州长		文山壮族苗族自治州人民政府	https://www.ynws.gov.cn/wszzf/fzz/common/content/content_1855058728556261376.html	4583
+周立军		3		云南省		https://www.ynws.gov.cn/wszzf/zzf/column/list.html	州委常委、州政府党组成员、副州长		文山壮族苗族自治州人民政府	https://www.ynws.gov.cn/wszzf/fzz/common/content/content_1855058712898924544.html	4583
+陆波		4		云南省		https://www.ynws.gov.cn/wszzf/zzf/column/list.html	州政府党组成员、副州长		文山壮族苗族自治州人民政府	https://www.ynws.gov.cn/wszzf/fzz/common/content/content_1855058694376878080.html	4583
+刘䶮		5		云南省		https://www.ynws.gov.cn/wszzf/zzf/column/list.html	副州长		文山壮族苗族自治州人民政府	https://www.ynws.gov.cn/wszzf/fzz/common/content/content_1855058647161597952.html	4583
+郑锦		6		云南省		https://www.ynws.gov.cn/wszzf/zzf/column/list.html	州政府党组成员、副州长		文山壮族苗族自治州人民政府	https://www.ynws.gov.cn/wszzf/fzz/common/content/content_1855058632909352960.html	4583
+孔薇然		7		云南省		https://www.ynws.gov.cn/wszzf/zzf/column/list.html	州政府党组成员、副州长		文山壮族苗族自治州人民政府	https://www.ynws.gov.cn/wszzf/fzz/common/content/content_1855058666522505216.html	4583
+张发政		8		云南省		https://www.ynws.gov.cn/wszzf/zzf/column/list.html	州政府党组成员、秘书长		文山壮族苗族自治州人民政府	https://www.ynws.gov.cn/wszzf/msz/common/content/content_1855058638810738688.html	4583
